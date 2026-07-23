@@ -1,11 +1,11 @@
 <?php
-require_once __DIR__ . '/includes/config.php';
+require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Contact Us | Packers and Movers in Ranchi | 8409531615";
 $page_desc = "Contact Shree Ashirwad Packers and Movers in Ranchi for fast household & office shifting quotes. Phone: (+91) 8409531615. Anandpuri Chowk, Harmu, Ranchi.";
 $page_keywords = DEFAULT_KEYWORDS;
 
-require_once __DIR__ . '/includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -155,11 +155,11 @@ function sendContactWhatsAppLead(event, form) {
     message += "\n- Requirements: " + extraMsg;
   }
   
-  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615?text=" + encodeURIComponent(message);
   window.location.href = whatsappUrl;
 }
 </script>
 
 <?php
-require_once __DIR__ . '/includes/footer.php';
+require_once __DIR__ . '/../includes/footer.php';
 ?>

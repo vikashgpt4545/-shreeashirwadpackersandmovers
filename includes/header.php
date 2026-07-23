@@ -12,10 +12,10 @@ require_once __DIR__ . '/config.php';
   <link rel="canonical" href="<?php echo SITE_URL; ?>">
   
   <!-- Site Icon (Favicon Swastik) -->
-  <link rel="icon" type="image/png" href="assets/images/favicon.png">
+  <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
   
   <!-- CSS Stylesheet -->
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.css">
 
   <!-- Schema.org JSON-LD Structured Data for Local Business SEO -->
   <script type="application/ld+json">
@@ -61,7 +61,7 @@ require_once __DIR__ . '/config.php';
     <div class="container">
       <div class="top-bar-info">
         <span class="top-bar-item">
-          <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+          <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5-2.5z"/></svg>
           Anandpuri Chowk, Harmu, Ranchi, Jharkhand - 834002
         </span>
         <span class="top-bar-item">
@@ -77,8 +77,8 @@ require_once __DIR__ . '/config.php';
     <div class="container">
       <nav class="navbar">
         <!-- Logo (Pure Swastik Symbol Image) -->
-        <a href="./" class="brand-logo" aria-label="Home">
-          <img src="assets/images/logo.png" alt="Swastik Logo">
+        <a href="<?php echo SITE_URL; ?>" class="brand-logo" aria-label="Home">
+          <img src="<?php echo SITE_URL; ?>assets/images/logo.png" alt="Swastik Logo">
           <div class="brand-text">
             <span class="brand-title">SHREE ASHIRWAD</span>
             <span class="brand-subtitle">PACKERS &amp; MOVERS</span>
@@ -87,11 +87,11 @@ require_once __DIR__ . '/config.php';
 
         <!-- Navigation Menu -->
         <ul class="nav-menu" id="navMenu">
-          <li><a href="./" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>">Home</a></li>
-          <li><a href="about.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>">About Us</a></li>
-          <li><a href="services.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>">Services</a></li>
-          <li><a href="gallery.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
-          <li><a href="contact.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
+          <li><a href="<?php echo SITE_URL; ?>" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>">Home</a></li>
+          <li><a href="<?php echo SITE_URL; ?>pages/about.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>">About Us</a></li>
+          <li><a href="<?php echo SITE_URL; ?>pages/services.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>">Services</a></li>
+          <li><a href="<?php echo SITE_URL; ?>pages/gallery.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
+          <li><a href="<?php echo SITE_URL; ?>pages/contact.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
         </ul>
 
         <!-- Call Button (No 'Call Us Now' text label as requested) -->

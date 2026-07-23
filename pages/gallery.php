@@ -1,11 +1,11 @@
 <?php
-require_once __DIR__ . '/includes/config.php';
+require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Real Shifting Photo Gallery | Packers and Movers in Ranchi | 8409531615";
 $page_desc = "View live work photos of Shree Ashirwad Packers and Movers in Ranchi. Household packing, office shifting, vehicle carriers & container logistics across Jharkhand. Call 8409531615.";
 $page_keywords = "gallery packers and movers in ranchi, shifting photos ranchi, household packing photos, vehicle transport ranchi, IBA approved movers gallery";
 
-require_once __DIR__ . '/includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -37,9 +37,9 @@ require_once __DIR__ . '/includes/header.php';
       <!-- Full Gallery Grid (Same Box Size for All Photos, Zero Cropping) -->
       <div class="gallery-page-grid">
         
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-1.webp', 'Two-Wheeler / Bike Straw Padding & Branded Tape Packing');">
+        <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp', 'Two-Wheeler / Bike Straw Padding & Branded Tape Packing');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" loading="lazy">
             <div class="gallery-card-badge">Photo #1</div>
           </div>
           <div class="gallery-card-info">
@@ -48,9 +48,9 @@ require_once __DIR__ . '/includes/header.php';
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-2.webp', 'Complete Cardboard & Stretch Wrap Bike Transport Packaging');">
+        <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp', 'Complete Cardboard & Stretch Wrap Bike Transport Packaging');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" loading="lazy">
             <div class="gallery-card-badge">Photo #2</div>
           </div>
           <div class="gallery-card-info">
@@ -59,9 +59,9 @@ require_once __DIR__ . '/includes/header.php';
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-3.webp', 'Custom Wooden Crate Box Framing for Glassware & Heavy Items');">
+        <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp', 'Custom Wooden Crate Box Framing for Glassware & Heavy Items');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" loading="lazy">
             <div class="gallery-card-badge">Photo #3</div>
           </div>
           <div class="gallery-card-info">
@@ -70,9 +70,9 @@ require_once __DIR__ . '/includes/header.php';
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-4.webp', 'Wooden Crate & Box Protection for Large Smart LED TV');">
+        <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp', 'Wooden Crate & Box Protection for Large Smart LED TV');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" loading="lazy">
             <div class="gallery-card-badge">Photo #4</div>
           </div>
           <div class="gallery-card-info">
@@ -81,9 +81,9 @@ require_once __DIR__ . '/includes/header.php';
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-5.webp', 'Heavy Corrugated Carton Boxes & Foam Sheet Packing');">
+        <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp', 'Heavy Corrugated Carton Boxes & Foam Sheet Packing');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" loading="lazy">
             <div class="gallery-card-badge">Photo #5</div>
           </div>
           <div class="gallery-card-info">
@@ -92,9 +92,9 @@ require_once __DIR__ . '/includes/header.php';
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-6.webp', 'Cushioned Quilted Blanket & Shrink Wrap LED TV Packing');">
+        <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp', 'Cushioned Quilted Blanket & Shrink Wrap LED TV Packing');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" loading="lazy">
             <div class="gallery-card-badge">Photo #6</div>
           </div>
           <div class="gallery-card-info">
@@ -103,9 +103,9 @@ require_once __DIR__ . '/includes/header.php';
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-7.webp', 'Full Transport Container Truck Loaded with Household Goods');">
+        <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp', 'Full Transport Container Truck Loaded with Household Goods');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" loading="lazy">
             <div class="gallery-card-badge">Photo #7</div>
           </div>
           <div class="gallery-card-info">
@@ -138,7 +138,7 @@ require_once __DIR__ . '/includes/header.php';
             <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-1.137 4.156 4.29-1.127z"/></svg>
             Chat on WhatsApp
           </a>
-          <a href="contact.php" class="btn btn-outline">
+          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline">
             Get Custom Quote
           </a>
         </div>
@@ -171,4 +171,4 @@ function closeLightbox() {
 }
 </script>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>

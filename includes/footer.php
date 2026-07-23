@@ -31,11 +31,11 @@ require_once __DIR__ . '/config.php';
         <div class="footer-col">
           <h3 class="footer-heading">Quick Links</h3>
           <div class="footer-links">
-            <a href="./">Home</a>
-            <a href="about.php">About Us</a>
-            <a href="services.php">Services</a>
-            <a href="gallery.php">Gallery</a>
-            <a href="contact.php">Contact Us</a>
+            <a href="<?php echo SITE_URL; ?>">Home</a>
+            <a href="<?php echo SITE_URL; ?>pages/about.php">About Us</a>
+            <a href="<?php echo SITE_URL; ?>pages/services.php">Services</a>
+            <a href="<?php echo SITE_URL; ?>pages/gallery.php">Gallery</a>
+            <a href="<?php echo SITE_URL; ?>pages/contact.php">Contact Us</a>
           </div>
         </div>
 
@@ -57,6 +57,6 @@ require_once __DIR__ . '/config.php';
   </footer>
 
   <!-- Main JavaScript File -->
-  <script src="assets/js/main.js"></script>
+  <script src="<?php echo SITE_URL; ?>assets/js/main.js"></script>
 </body>
 </html>
