@@ -7,8 +7,8 @@
    - Page Title format MUST strictly be: `[Main Keyword] | 8409531615` (e.g., `Packers and Movers in Ranchi | 8409531615` or `Packers and Movers Harmu Ranchi | 8409531615`). Do NOT add anything after the phone number!
    - Main Keyword MUST be included in `<h1>`, Meta Title, Meta Description, and Meta Keywords.
 
-3. **NO PLAIN TEXT WALLS (ALWAYS USE CARDS & VISUAL SECTIONS)**:
-   - Do NOT display plain text paragraphs on their own. Organize all text content into beautiful, styled card containers, feature grids, highlight boxes, and visual cards with borders and icons.
+3. **NO PLAIN TEXT WALLS (ALWAYS USE 6-CARD GRID SECTIONS)**:
+   - Do NOT display plain text paragraphs on their own. Organize overview content into a balanced 6-card grid (3x2 layout) with concise, punchy text, custom icons, and subtle border highlights. Cards must be compact in height, never overly tall.
 
 4. **WORD COUNT MANDATE**:
    - **First Page (`/packers-and-movers-in-ranchi`)**: Minimum **3,000+ Words** of deep, highly engaging, zero-fluff SEO content.
