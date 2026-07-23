@@ -319,6 +319,7 @@ ul {
   padding: 6px 16px;
   border-radius: var(--radius-full);
   margin-bottom: 18px;
+  white-space: nowrap;
 }
 
 .hero-badge svg {
@@ -616,6 +617,17 @@ ul {
 
   .mobile-nav-toggle {
     display: block;
+  }
+
+  .hero-badge {
+    font-size: 0.74rem;
+    padding: 4px 10px;
+    white-space: nowrap;
+    margin-bottom: 12px;
+  }
+
+  .hero-badge svg {
+    display: none;
   }
 
   .footer-grid {
