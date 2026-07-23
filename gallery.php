@@ -37,80 +37,80 @@ require_once __DIR__ . '/includes/header.php';
       <!-- Full Gallery Grid (Same Box Size for All Photos, Zero Cropping) -->
       <div class="gallery-page-grid">
         
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-1.webp', 'Household Packing & Shifting');">
+        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-1.webp', 'Two-Wheeler / Bike Straw Padding & Branded Tape Packing');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Household Shifting" loading="lazy">
+            <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" loading="lazy">
             <div class="gallery-card-badge">Photo #1</div>
           </div>
           <div class="gallery-card-info">
-            <h3>Household Packing & Shifting</h3>
-            <p>7-layer bubble film & corrugated wrapping for domestic goods.</p>
+            <h3>Bike Straw Padding & Branded Tape</h3>
+            <p>Professional bike packing using paddy straw cushioning & official tape.</p>
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-2.webp', 'Heavy Furniture Loading');">
+        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-2.webp', 'Complete Cardboard & Stretch Wrap Bike Transport Packaging');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Loading & Unloading" loading="lazy">
+            <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" loading="lazy">
             <div class="gallery-card-badge">Photo #2</div>
           </div>
           <div class="gallery-card-info">
-            <h3>Heavy Furniture Loading</h3>
-            <p>Trained crew loading sofas, double beds & appliances into trucks.</p>
+            <h3>Cardboard & Stretch Wrap Bike Packing</h3>
+            <p>Heavy corrugated sheet & shrink wrap outer protection for motorcycles.</p>
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-3.webp', 'Enclosed Container Transport');">
+        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-3.webp', 'Custom Wooden Crate Box Framing for Glassware & Heavy Items');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Transport Truck" loading="lazy">
+            <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" loading="lazy">
             <div class="gallery-card-badge">Photo #3</div>
           </div>
           <div class="gallery-card-info">
-            <h3>Enclosed Container Transport</h3>
-            <p>Weatherproof container trucks equipped with live satellite GPS.</p>
+            <h3>Custom Wooden Crate Box Framing</h3>
+            <p>Solid wooden crate box reinforcement for high-value fragile goods.</p>
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-4.webp', 'Office & Commercial Shifting');">
+        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-4.webp', 'Wooden Crate & Box Protection for Large Smart LED TV');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Office Relocation" loading="lazy">
+            <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" loading="lazy">
             <div class="gallery-card-badge">Photo #4</div>
           </div>
           <div class="gallery-card-info">
-            <h3>Office & Commercial Shifting</h3>
-            <p>Zero-downtime relocation for corporate workstations & IT servers.</p>
+            <h3>Smart TV Wooden Crate Protection</h3>
+            <p>Outer wooden crate framing around TV box for 100% damage-free transit.</p>
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-5.webp', 'Car & Bike Carrier Transport');">
+        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-5.webp', 'Heavy Corrugated Carton Boxes & Foam Sheet Packing');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Vehicle Carrier" loading="lazy">
+            <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" loading="lazy">
             <div class="gallery-card-badge">Photo #5</div>
           </div>
           <div class="gallery-card-info">
-            <h3>Car & Bike Carrier Transport</h3>
-            <p>Hydraulic trailers & wheel-locked containers for safe vehicle transport.</p>
+            <h3>Heavy Carton & Foam Sheet Packing</h3>
+            <p>Heavy-duty cartons and cushioned foam film packaging for household items.</p>
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-6.webp', 'Unpacking & Room Placement');">
+        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-6.webp', 'Cushioned Quilted Blanket & Shrink Wrap LED TV Packing');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Unpacking & Placement" loading="lazy">
+            <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" loading="lazy">
             <div class="gallery-card-badge">Photo #6</div>
           </div>
           <div class="gallery-card-info">
-            <h3>Unpacking & Room Placement</h3>
-            <p>Neat unpacking and furniture assembly at customer's new home.</p>
+            <h3>Cushioned Blanket TV Shrink Wrap</h3>
+            <p>Protective red quilted blanket & shrink wrap TV packing with official tag.</p>
           </div>
         </div>
 
-        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-7.webp', 'Warehouse Storage Facilities');">
+        <div class="gallery-card-item" onclick="openLightbox('assets/images/gallery/gallery-7.webp', 'Full Transport Container Truck Loaded with Household Goods');">
           <div class="gallery-img-wrapper">
-            <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Warehouse Logistics" loading="lazy">
+            <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" loading="lazy">
             <div class="gallery-card-badge">Photo #7</div>
           </div>
           <div class="gallery-card-info">
-            <h3>Warehouse Storage Facilities</h3>
-            <p>Moisture-proof, CCTV monitored storage units in Ranchi.</p>
+            <h3>Full Container Truck Goods Loading</h3>
+            <p>Systematic loading of packed furniture & appliances into moving truck.</p>
           </div>
         </div>
 

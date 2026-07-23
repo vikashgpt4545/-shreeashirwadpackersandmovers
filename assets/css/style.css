@@ -3272,21 +3272,78 @@ ul {
 
 @media (max-width: 768px) {
   .home-gallery-section, .gallery-page-section {
-    padding: 45px 0;
+    padding: 40px 0;
+  }
+
+  .gallery-scroll-container {
+    scroll-snap-type: x mandatory;
+    padding: 10px 12px 20px 12px;
+  }
+
+  .gallery-scroll-track {
+    gap: 16px;
   }
 
   .gallery-photo-card {
-    width: 270px;
-    height: 200px;
+    width: 82vw;
+    max-width: 290px;
+    height: 210px;
+    scroll-snap-align: center;
+  }
+
+  .gallery-btn-wrapper {
+    margin-top: 24px;
+    padding: 0 15px;
+  }
+
+  .gallery-btn-wrapper .btn {
+    width: 100%;
+    max-width: 340px;
+    justify-content: center;
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 12px 20px;
   }
 
   .gallery-page-grid {
     grid-template-columns: 1fr;
-    gap: 18px;
+    gap: 20px;
   }
 
   .gallery-img-wrapper {
+    height: 210px;
+  }
+
+  .gallery-card-info {
+    padding: 16px 18px;
+    text-align: left;
+  }
+
+  .gallery-card-info h3 {
+    font-size: 1rem;
+  }
+
+  .modal-close {
+    top: 15px;
+    right: 20px;
+    font-size: 2.4rem;
+  }
+
+  #modalCaption {
+    font-size: 0.95rem;
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery-photo-card {
+    width: 88vw;
+    max-width: 280px;
     height: 200px;
+  }
+
+  .gallery-img-wrapper {
+    height: 195px;
   }
 }
 

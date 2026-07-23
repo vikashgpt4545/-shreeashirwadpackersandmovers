@@ -202,63 +202,63 @@ require_once __DIR__ . '/includes/header.php';
           
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Household Shifting" loading="lazy">
+              <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" loading="lazy">
               <div class="photo-overlay">
-                <span>Household Packing & Shifting</span>
+                <span>Bike Straw Padding & Branded Tape</span>
               </div>
             </div>
           </div>
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Loading & Unloading" loading="lazy">
+              <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" loading="lazy">
               <div class="photo-overlay">
-                <span>Heavy Furniture Loading</span>
+                <span>Cardboard & Stretch Wrap Bike Packing</span>
               </div>
             </div>
           </div>
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Transport Truck" loading="lazy">
+              <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" loading="lazy">
               <div class="photo-overlay">
-                <span>Enclosed Container Transport</span>
+                <span>Custom Wooden Crate Box Framing</span>
               </div>
             </div>
           </div>
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Office Relocation" loading="lazy">
+              <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" loading="lazy">
               <div class="photo-overlay">
-                <span>Office & Commercial Shifting</span>
+                <span>Smart TV Wooden Crate Protection</span>
               </div>
             </div>
           </div>
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Vehicle Carrier" loading="lazy">
+              <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" loading="lazy">
               <div class="photo-overlay">
-                <span>Car & Bike Carrier Transport</span>
+                <span>Heavy Carton & Foam Sheet Packing</span>
               </div>
             </div>
           </div>
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Unpacking & Placement" loading="lazy">
+              <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" loading="lazy">
               <div class="photo-overlay">
-                <span>Unpacking & Room Placement</span>
+                <span>Cushioned Blanket TV Shrink Wrap</span>
               </div>
             </div>
           </div>
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Warehouse Logistics" loading="lazy">
+              <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" loading="lazy">
               <div class="photo-overlay">
-                <span>Warehouse Storage Facilities</span>
+                <span>Full Container Truck Goods Loading</span>
               </div>
             </div>
           </div>
