@@ -982,6 +982,130 @@ ul {
 }
 
 /* ==========================================================================
+   Section 10: Moving Tips, Relocation Guides & Blog
+   ========================================================================== */
+.tips-section {
+  position: relative;
+  padding: 70px 0;
+  background: linear-gradient(180deg, #16203b 0%, #0b132b 100%);
+  color: var(--white);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  overflow: hidden;
+}
+
+.tips-section::before {
+  content: '';
+  position: absolute;
+  top: -10%;
+  left: -10%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.tips-section::after {
+  content: '';
+  position: absolute;
+  bottom: -10%;
+  right: -10%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(211, 47, 47, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.tips-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px;
+  position: relative;
+  z-index: 2;
+}
+
+.tip-card {
+  background: linear-gradient(145deg, #1e2c56 0%, #131d3d 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.25);
+  border-top: 4px solid var(--brand-yellow);
+  border-radius: var(--radius-lg);
+  padding: 30px 26px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+
+.tip-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 32px rgba(245, 158, 11, 0.3);
+  border-color: var(--brand-yellow);
+  border-top-color: var(--brand-red);
+}
+
+.tip-tag-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.tip-category {
+  font-size: 0.76rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--brand-yellow);
+  background: rgba(245, 158, 11, 0.12);
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+}
+
+.tip-read-time {
+  font-size: 0.78rem;
+  color: #94a3b8;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.tip-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 12px 0;
+  line-height: 1.45;
+}
+
+.tip-desc {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  line-height: 1.65;
+  margin: 0;
+  flex-grow: 1;
+}
+
+@media (max-width: 992px) {
+  .tips-grid {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  .tips-section {
+    padding: 45px 0;
+  }
+
+  .tip-card {
+    padding: 24px 20px;
+  }
+}
+
+/* ==========================================================================
    Section 9: Coverage Areas & Service Map Network
    ========================================================================== */
 .coverage-section {
