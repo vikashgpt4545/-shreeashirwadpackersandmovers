@@ -1032,6 +1032,66 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 12: FINAL CALL-TO-ACTION (CTA) BANNER & CONVERSION BOX
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="cta-banner-section" id="cta-banner">
+    <div class="container">
+      
+      <div class="cta-banner-card">
+        <span class="cta-tag">Ready for a Smooth Move?</span>
+        
+        <h2 class="cta-title">
+          Book Top Rated <span class="text-gradient">Packers and Movers in Ranchi</span> Today!
+        </h2>
+        
+        <p class="cta-description">
+          Join 10,000+ satisfied families and corporate clients across Jharkhand. Get 100% safe packing, real-time GPS vehicle tracking, and zero hidden costs with our trusted <strong>packers and movers in ranchi</strong>.
+        </p>
+
+        <!-- CTA Action Buttons Group -->
+        <div class="cta-buttons-wrapper">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            Call <?php echo SITE_PHONE; ?>
+          </a>
+          
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20to%20get%20a%20shifting%20estimate." target="_blank" rel="noopener noreferrer" class="btn-whatsapp-green">
+            <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984 0 1.763.459 3.486 1.333 5.003L2 22l5.127-1.343c1.464.798 3.111 1.218 4.881 1.218h.004c5.506 0 9.989-4.478 9.99-9.984 0-2.669-1.039-5.176-2.926-7.062A9.925 9.925 0 0012.012 2zm0 18.313h-.003c-1.493 0-2.957-.401-4.233-1.158l-.304-.18-3.146.824.839-3.064-.198-.315A8.307 8.307 0 013.687 11.98c0-4.59 3.733-8.324 8.327-8.324 2.223 0 4.312.866 5.884 2.439a8.275 8.275 0 012.434 5.887c0 4.591-3.733 8.324-8.32 8.324zm4.566-6.236c-.25-.125-1.482-.731-1.712-.814-.23-.083-.397-.125-.564.125-.167.25-.647.814-.793.98-.146.167-.292.188-.542.063a6.852 6.852 0 01-2.016-1.242 7.56 7.56 0 01-1.396-1.738c-.146-.25-.016-.386.109-.51.113-.112.25-.292.375-.438.125-.146.167-.25.25-.417.083-.167.042-.313-.021-.438-.063-.125-.564-1.357-.773-1.859-.203-.489-.41-.422-.564-.43h-.48c-.167 0-.438.063-.668.313-.23.25-.877.857-.877 2.09 0 1.232.898 2.423 1.023 2.59.125.167 1.767 2.7 4.283 3.787.599.259 1.067.414 1.431.53.602.191 1.15.164 1.583.1.483-.071 1.482-.605 1.691-1.189.209-.584.209-1.085.146-1.189-.063-.104-.23-.167-.48-.292z"/></svg>
+            Chat on WhatsApp
+          </a>
+
+          <a href="contact.php" class="btn btn-outline-gold">
+            Get Shifting Estimate
+          </a>
+        </div>
+
+        <!-- Trust Highlights Row -->
+        <div class="cta-trust-highlights">
+          <div class="cta-trust-item">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            100% Safe Multi-Layer Packing
+          </div>
+          <div class="cta-trust-item">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            IBA Approved GST Billing
+          </div>
+          <div class="cta-trust-item">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            Live Satellite GPS Tracking
+          </div>
+          <div class="cta-trust-item">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            Guaranteed On-Time Shifting
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>
