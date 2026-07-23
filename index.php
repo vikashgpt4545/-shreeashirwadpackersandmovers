@@ -58,7 +58,7 @@ require_once __DIR__ . '/includes/header.php';
               Call <?php echo SITE_PHONE; ?>
             </a>
             <a href="contact.php" class="btn btn-outline-gold">
-              Get Free Estimate
+              Get Shifting Estimate
             </a>
           </div>
         </div>
@@ -66,7 +66,7 @@ require_once __DIR__ . '/includes/header.php';
         <!-- Right Column: Quick Quote Form Card with Direct WhatsApp Lead Redirection -->
         <div class="hero-card-wrapper" id="quickQuote">
           <div class="hero-card">
-            <h2 class="card-title">Get Free Shifting Quote</h2>
+            <h2 class="card-title">Get Shifting Quote</h2>
             <p class="card-subtitle">Get instant relocation price calculation in Ranchi</p>
             
             <form action="#" method="POST" onsubmit="sendWhatsAppLead(event, this);">
@@ -111,10 +111,10 @@ function sendWhatsAppLead(event, form) {
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
   
-  var message = "Hello Shree Ashirwad Packers %26 Movers,%0A%0AI would like to request a Free Shifting Quote:%0A- *Name:* " + encodeURIComponent(name) + "%0A- *Phone:* " + encodeURIComponent(phone) + "%0A- *Moving From:* " + encodeURIComponent(moveFrom) + "%0A- *Moving To:* " + encodeURIComponent(moveTo);
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
   
-  var whatsappUrl = "https://wa.me/918409531615?text=" + message;
-  window.open(whatsappUrl, '_blank');
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
 }
 </script>
 

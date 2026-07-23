@@ -76,7 +76,7 @@ require_once __DIR__ . '/includes/header.php';
         <div class="contact-form-wrapper">
           <div class="contact-form-card">
             <h2>Send Us a Message</h2>
-            <p>Fill out the details below to receive an instant free shifting quote on WhatsApp.</p>
+            <p>Fill out the details below to receive an instant shifting quote on WhatsApp.</p>
             
             <form action="#" method="POST" onsubmit="sendContactWhatsAppLead(event, this);">
               <div class="form-group">
@@ -149,14 +149,14 @@ function sendContactWhatsAppLead(event, form) {
   var moveTo = form.querySelector('[name="move_to"]').value;
   var extraMsg = form.querySelector('[name="message"]').value;
   
-  var text = "Hello Shree Ashirwad Packers %26 Movers,%0A%0AI would like to request a Shifting Estimate from your Contact Page:%0A- *Name:* " + encodeURIComponent(name) + "%0A- *Phone:* " + encodeURIComponent(phone) + "%0A- *Moving From:* " + encodeURIComponent(moveFrom) + "%0A- *Moving To:* " + encodeURIComponent(moveTo);
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Estimate from your Contact Page:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
   
   if (extraMsg && extraMsg.trim() !== '') {
-    text += "%0A- *Requirements:* " + encodeURIComponent(extraMsg);
+    message += "\n- Requirements: " + extraMsg;
   }
   
-  var whatsappUrl = "https://wa.me/918409531615?text=" + text;
-  window.open(whatsappUrl, '_blank');
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
 }
 </script>
 
