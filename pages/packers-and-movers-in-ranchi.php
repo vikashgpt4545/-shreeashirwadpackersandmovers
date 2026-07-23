@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Ranchi | Safe Household & Office Shifting";
-$page_desc = "Top rated Packers and Movers in Ranchi offering safe, reliable, and affordable packing, moving, home relocation, and vehicle transportation services. Call (+91) 8409531615.";
+$page_title = "Packers and Movers in Ranchi | 8409531615";
+$page_desc = "Packers and Movers in Ranchi offering safe, reliable, and affordable packing, moving, home relocation, and vehicle transportation services. Call (+91) 8409531615.";
 $page_keywords = "packers and movers in ranchi, packers and movers ranchi, best packers and movers in ranchi, cheap packers and movers in ranchi, top packers and movers in ranchi, household shifting in ranchi, home relocation services ranchi, office shifting services ranchi, car transport in ranchi, bike transport ranchi, local packers and movers ranchi, intercity movers in ranchi, movers and packers ranchi contact number, packers and movers ranchi charges, house relocation in ranchi, luggage transport service ranchi, relocation services ranchi, warehouse and storage in ranchi, safe packing and moving ranchi, packers and movers in jharkhand";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -28,11 +28,11 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-secondary" style="padding: 14px 28px; font-weight: 700;">
-              Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              📞 Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." target="_blank" class="btn btn-whatsapp-green" style="padding: 14px 28px; font-weight: 700;">
-              Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              💬 Chat on WhatsApp
             </a>
           </div>
 
@@ -106,17 +106,36 @@ require_once __DIR__ . '/../includes/header.php';
           Why Choosing the <span style="color: #f59e0b;">Best Packers and Movers in Ranchi</span> Matters for Your Move
         </h2>
 
-        <p style="margin-bottom: 20px; font-size: 1.05rem; color: #cbd5e1;">
-          Relocating to a new home or expanding your business premises is an exciting milestone, but the physical process of packing, loading, transporting, and unpacking bulky goods can quickly become overwhelming. From protecting fragile glassware and high-end electronics to navigating congested city roads and long-distance highways, professional logistics management requires meticulous planning. This is precisely why thousands of residents, defense personnel, government officers, and corporate firms trust <strong>packers and movers in ranchi</strong> for seamless, hassle-free relocation.
-        </p>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin: 30px 0;">
+          
+          <!-- Card 1 -->
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 15px;">📍</div>
+            <h3 style="font-size: 1.2rem; color: #ffffff; font-weight: 700; margin-bottom: 12px;">Capital Logistics &amp; Local Expertise</h3>
+            <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+              Relocating to a new home or expanding your business premises is an exciting milestone, but the physical process of packing, loading, transporting, and unpacking bulky goods can quickly become overwhelming. From protecting fragile glassware to navigating congested city roads, professional logistics management requires meticulous planning. This is why thousands of residents, defense personnel, and corporate firms trust <strong>packers and movers in ranchi</strong> for seamless, hassle-free relocation.
+            </p>
+          </div>
 
-        <p style="margin-bottom: 20px; font-size: 1.05rem; color: #cbd5e1;">
-          As the capital city of Jharkhand, Ranchi has witnessed rapid urbanization, expanding residential sectors, and flourishing commercial infrastructure. Whether you are moving locally within prominent neighborhoods such as Lalpur, Harmu Housing Colony, Kanke Road, Ratu Road, Doranda, Bariatu, and Morabadi, or preparing for an intercity transfer to major metropolitan hubs across India, hiring experienced <strong>top packers and movers in ranchi</strong> ensures that your valuable belongings are handled with ultimate care and technical precision.
-        </p>
+          <!-- Card 2 -->
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 15px;">🚚</div>
+            <h3 style="font-size: 1.2rem; color: #ffffff; font-weight: 700; margin-bottom: 12px;">Hyper-Local Neighborhood Coverage</h3>
+            <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+              As the capital city of Jharkhand, Ranchi has witnessed rapid urbanization and expanding residential sectors. Whether you are moving locally within prominent neighborhoods such as Lalpur, Harmu Housing Colony, Kanke Road, Ratu Road, Doranda, Bariatu, and Morabadi, or preparing for an intercity transfer across India, hiring experienced <strong>top packers and movers in ranchi</strong> ensures your belongings are handled with care and technical precision.
+            </p>
+          </div>
 
-        <p style="margin-bottom: 30px; font-size: 1.05rem; color: #cbd5e1;">
-          At <strong>Shree Ashirwad Packers and Movers</strong>, we stand out as an <strong>IBA approved packers and movers ranchi</strong> service provider equipped with over 15 years of operational excellence. Headquartered at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, with an auxiliary office in Sector 12/A, Bokaro, our company operates a dedicated fleet of weatherproof enclosed container trucks driven by verified drivers and managed by courteous move supervisors.
-        </p>
+          <!-- Card 3 -->
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 15px;">🛡️</div>
+            <h3 style="font-size: 1.2rem; color: #ffffff; font-weight: 700; margin-bottom: 12px;">IBA Approved Trust &amp; Reliability</h3>
+            <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+              At <strong>Shree Ashirwad Packers and Movers</strong>, we stand out as an <strong>IBA approved packers and movers ranchi</strong> service provider equipped with over 15 years of operational excellence. Headquartered at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, with an auxiliary office in Sector 12/A, Bokaro, our company operates a dedicated fleet of weatherproof enclosed container trucks driven by verified drivers and managed by move supervisors.
+            </p>
+          </div>
+
+        </div>
 
         <!-- Feature Highlight Box -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
@@ -578,14 +597,14 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-secondary" style="padding: 14px 30px; font-weight: 700; font-size: 1.05rem;">
-          Call Now: <?php echo SITE_PHONE; ?>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          📞 Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation." target="_blank" class="btn btn-whatsapp-green" style="padding: 14px 30px; font-weight: 700; font-size: 1.05rem;">
-          Chat on WhatsApp
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          💬 Chat on WhatsApp
         </a>
-        <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline" style="padding: 14px 30px; font-weight: 700; font-size: 1.05rem;">
-          Contact Office
+        <a href="<?php echo SITE_URL; ?>pages/contact.php" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+          📍 Contact Office
         </a>
       </div>
 
