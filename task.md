@@ -79,7 +79,15 @@ Every landing page (Jharkhand Local, Intercity Routes, and Blog Articles) will f
 |---|---|---|---|---|
 | 1 | `/packers-and-movers-in-ranchi` | Main Service Page | 3,000+ | ✅ Completed (5,034 words) |
 | 2 | `/packers-and-movers-lalpur-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (5,255 words) |
-| 3-51 | `/packers-and-movers-[locality]-ranchi` | Ranchi Local Area Pages (49) | 2,000+ | Pending |
+| 3 | `/packers-and-movers-kanke-road-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,851 words) |
+| 4 | `/packers-and-movers-ratu-road-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,833 words) |
+| 5 | `/packers-and-movers-doranda-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,769 words) |
+| 6 | `/packers-and-movers-bariatu-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,760 words) |
+| 7 | `/packers-and-movers-hinoo-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,763 words) |
+| 8 | `/packers-and-movers-morabadi-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,763 words) |
+| 9 | `/packers-and-movers-kokar-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,763 words) |
+| 10 | `/packers-and-movers-namkum-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,756 words) |
+| 11-51 | `/packers-and-movers-[locality]-ranchi` | Ranchi Local Area Pages (41) | 2,000+ | Pending |
 | 52-101 | `/packers-and-movers-ranchi-to-[jharkhand-city]` | Jharkhand Inter-District Pages (50) | 2,000+ | Pending |
 | 102-180 | `/packers-and-movers-ranchi-to-[city]` | Interstate / Intercity Pages (79) | 2,000+ | Pending |
 | 181-200 | `/blog/[article-slug]` | SEO Blog Articles (20) | 2,000+ | Pending |
