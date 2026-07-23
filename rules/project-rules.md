@@ -15,3 +15,6 @@
 5. **TARGET KEYWORD & H1**:
    - Target primary keyword: **"Packers and Movers in Ranchi"**.
    - The main `<h1>` heading on the home page hero section MUST be **"Packers and Movers in Ranchi"**.
+
+6. **REMOVE UNUSED / OBSOLETE CODE**:
+   - When writing new code or refactoring designs, always completely remove old, unused, or obsolete code, CSS selectors, and HTML blocks to keep the codebase clean and error-free.
