@@ -982,6 +982,180 @@ ul {
 }
 
 /* ==========================================================================
+   Section 6: Pricing Estimate Breakdown & Factors
+   ========================================================================== */
+.pricing-section {
+  position: relative;
+  padding: 70px 0;
+  background: linear-gradient(180deg, #16203b 0%, #0b132b 100%);
+  color: var(--white);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  overflow: hidden;
+}
+
+.pricing-section::before {
+  content: '';
+  position: absolute;
+  top: -10%;
+  left: -10%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.pricing-section::after {
+  content: '';
+  position: absolute;
+  bottom: -10%;
+  right: -10%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(211, 47, 47, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.pricing-factors-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  margin-bottom: 44px;
+  position: relative;
+  z-index: 2;
+}
+
+.pricing-card {
+  background: linear-gradient(145deg, #1e2c56 0%, #131d3d 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.35);
+  border-top: 4px solid var(--brand-yellow);
+  border-radius: var(--radius-lg);
+  padding: 28px 22px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 32px rgba(245, 158, 11, 0.3);
+  border-color: var(--brand-yellow);
+  border-top-color: var(--brand-red);
+}
+
+.pricing-icon-box {
+  width: 52px;
+  height: 52px;
+  background: rgba(211, 47, 47, 0.15);
+  color: var(--brand-red);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  border: 1.5px solid rgba(211, 47, 47, 0.35);
+}
+
+.pricing-card:hover .pricing-icon-box {
+  background: var(--brand-red);
+  color: #ffffff;
+}
+
+.pricing-card-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.pricing-card-desc {
+  font-size: 0.88rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.pricing-guarantee-box {
+  background: linear-gradient(135deg, #111a36 0%, #1e1b18 100%);
+  border: 1.5px solid var(--brand-yellow);
+  border-radius: var(--radius-lg);
+  padding: 32px 38px;
+  position: relative;
+  z-index: 2;
+}
+
+.pricing-guarantee-content h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--brand-yellow);
+  margin-bottom: 10px;
+}
+
+.pricing-guarantee-content p {
+  font-size: 0.94rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.pricing-highlights-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+}
+
+.pricing-highlights-list li {
+  font-size: 0.88rem;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pricing-highlights-list li svg {
+  color: var(--brand-yellow);
+  flex-shrink: 0;
+}
+
+@media (max-width: 992px) {
+  .pricing-factors-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .pricing-highlights-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .pricing-section {
+    padding: 45px 0;
+  }
+
+  .pricing-factors-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .pricing-guarantee-box {
+    padding: 24px 20px;
+  }
+
+  .pricing-highlights-list {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}
+
+/* ==========================================================================
    Section 5: 4-Step Simple Relocation Process
    ========================================================================== */
 .process-section {

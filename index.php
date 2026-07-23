@@ -478,6 +478,91 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 6: PRICING ESTIMATE BREAKDOWN & FACTORS
+       Keyword Integration: packers and movers in ranchi
+       Note: Pricing factors only, zero numeric price amounts per project rule
+       ========================================================================== -->
+  <section class="pricing-section" id="pricing-breakdown">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">Transparent Billing & Cost Factors</span>
+        <h2 class="section-title">
+          Understanding Relocation Costs with <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          We believe in complete financial transparency with zero hidden charges. Relocation rates depend on key logistical variables. Learn how our certified <strong>packers and movers in ranchi</strong> calculate fair, budget-friendly shifting estimates customized for your move.
+        </p>
+      </div>
+
+      <!-- Cost Factor Cards Grid -->
+      <div class="pricing-factors-grid">
+        
+        <div class="pricing-card">
+          <div class="pricing-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/></svg>
+          </div>
+          <h3 class="pricing-card-title">Volume of Household Goods</h3>
+          <p class="pricing-card-desc">
+            The overall size of your move (1 BHK, 2 BHK, 3 BHK, or villa) determines the size of the container truck required, volume of bubble film, and number of handling staff deployed by our <strong>packers and movers in ranchi</strong>.
+          </p>
+        </div>
+
+        <div class="pricing-card">
+          <div class="pricing-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+          </div>
+          <h3 class="pricing-card-title">Relocation Distance</h3>
+          <p class="pricing-card-desc">
+            Local shifting within Ranchi locality areas involves lower fuel costs compared to intercity moving across state borders, which includes highway toll taxes, state permits, and transit time considerations.
+          </p>
+        </div>
+
+        <div class="pricing-card">
+          <div class="pricing-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/></svg>
+          </div>
+          <h3 class="pricing-card-title">Packing Grade & Custom Crating</h3>
+          <p class="pricing-card-desc">
+            Standard multi-layer packing vs premium wooden crating for delicate items like glass dining tables, LED TVs, and antique artwork is factored into the customized quotation by our <strong>packers and movers in ranchi</strong>.
+          </p>
+        </div>
+
+        <div class="pricing-card">
+          <div class="pricing-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14zM7 10h2v7H7zm4-3h2v10h-2zm4 6h2v4h-2z"/></svg>
+          </div>
+          <h3 class="pricing-card-title">Floor Level & Elevator Access</h3>
+          <p class="pricing-card-desc">
+            Moving items from high-rise apartments without elevators requires extra manpower and manual carrying up flights of stairs, which is accounted for in your customized shifting quote.
+          </p>
+        </div>
+
+      </div>
+
+      <!-- Pricing Guarantee & Transparency Box -->
+      <div class="pricing-guarantee-box">
+        <div class="pricing-guarantee-content">
+          <h3>100% Fixed Price Guarantee & Transparent Quotations</h3>
+          <p>
+            Unlike unverified local vendors who demand unexpected extra fees on moving day, our professional <strong>packers and movers in ranchi</strong> deliver itemized, written quotes before starting work. Every estimate includes loading, unloading, packing materials, transit insurance options, and GST billing.
+          </p>
+          <ul class="pricing-highlights-list">
+            <li><svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Written contract with zero hidden charges</li>
+            <li><svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Free pre-move site survey or virtual consultation</li>
+            <li><svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> IBA-approved GST invoices for easy claim filing</li>
+          </ul>
+          <a href="contact.php" class="btn btn-primary">
+            Request Custom Price Estimate
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>
