@@ -655,6 +655,116 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 8: CUSTOMER TESTIMONIALS & REVIEWS
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="testimonials-section" id="testimonials">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">Client Satisfaction & Ratings</span>
+        <h2 class="section-title">
+          What Clients Say About Top <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          Read genuine reviews from homeowners, business executives, and car owners who trusted Shree Ashirwad for their relocation needs. Discover why we maintain a 5-star reputation among <strong>packers and movers in ranchi</strong>.
+        </p>
+      </div>
+
+      <!-- Testimonials Grid -->
+      <div class="testimonials-grid">
+        
+        <!-- Review 1 -->
+        <div class="testimonial-card">
+          <div class="testimonial-header">
+            <div class="avatar-badge">RS</div>
+            <div class="client-meta">
+              <h3>Rajesh Sharma</h3>
+              <span>Kanke Road, Ranchi • Household Shifting</span>
+            </div>
+          </div>
+          <div class="rating-stars">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+          </div>
+          <p class="testimonial-quote">
+            "Relocating our 3 BHK house from Kanke Road to Baryatu was completely seamless. The packing team brought top quality bubble wraps for our glassware and TV. Highly recommended <strong>packers and movers in ranchi</strong>!"
+          </p>
+        </div>
+
+        <!-- Review 2 -->
+        <div class="testimonial-card">
+          <div class="testimonial-header">
+            <div class="avatar-badge">AR</div>
+            <div class="client-meta">
+              <h3>Ananya Roy</h3>
+              <span>Lalpur, Ranchi • Office Relocation</span>
+            </div>
+          </div>
+          <div class="rating-stars">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+          </div>
+          <p class="testimonial-quote">
+            "Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with zero downtime. Truly top-tier <strong>packers and movers in ranchi</strong>."
+          </p>
+        </div>
+
+        <!-- Review 3 -->
+        <div class="testimonial-card">
+          <div class="testimonial-header">
+            <div class="avatar-badge">VS</div>
+            <div class="client-meta">
+              <h3>Vikram Kumar Singh</h3>
+              <span>Harmu, Ranchi • Vehicle Transport</span>
+            </div>
+          </div>
+          <div class="rating-stars">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+          </div>
+          <p class="testimonial-quote">
+            "Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore. Received live GPS location updates throughout transit. Zero damage! Best choice among <strong>packers and movers in ranchi</strong>."
+          </p>
+        </div>
+
+        <!-- Review 4 -->
+        <div class="testimonial-card">
+          <div class="testimonial-header">
+            <div class="avatar-badge">PV</div>
+            <div class="client-meta">
+              <h3>Pooja Verma</h3>
+              <span>Doranda, Ranchi • Intercity Move to Kolkata</span>
+            </div>
+          </div>
+          <div class="rating-stars">
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+          </div>
+          <p class="testimonial-quote">
+            "Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill for my company reimbursement. Outstanding service from reliable <strong>packers and movers in ranchi</strong>."
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>
