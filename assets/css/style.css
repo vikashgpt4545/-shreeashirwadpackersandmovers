@@ -37,11 +37,15 @@ html {
   font-family: 'Inter', sans-serif;
   color: var(--text-dark);
   background-color: #ffffff;
+  height: 100%;
 }
 
 body {
   line-height: 1.5;
   overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
@@ -233,13 +237,16 @@ ul {
 }
 
 /* ==========================================================================
-   Hero Section (Rebuilt from Scratch)
+   Hero Section (Dynamic flex: 1 Full-Height Screen Fit)
    ========================================================================== */
 .hero-section {
   position: relative;
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
   color: var(--white);
-  padding: 50px 0 60px 0;
+  padding: 24px 0;
+  flex: 1;
+  display: flex;
+  align-items: center;
   overflow: hidden;
 }
 
@@ -497,6 +504,7 @@ ul {
 @media (max-width: 992px) {
   .hero-section {
     padding: 36px 0 44px 0;
+    flex: none;
   }
 
   .hero-grid {
