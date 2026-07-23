@@ -982,6 +982,142 @@ ul {
 }
 
 /* ==========================================================================
+   Section 9: Coverage Areas & Service Map Network
+   ========================================================================== */
+.coverage-section {
+  position: relative;
+  padding: 70px 0;
+  background: #0b132b;
+  color: var(--white);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  overflow: hidden;
+}
+
+.coverage-section::before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  left: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(211, 47, 47, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.coverage-section::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.coverage-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px;
+  position: relative;
+  z-index: 2;
+}
+
+.coverage-card {
+  background: linear-gradient(145deg, #162247 0%, #0e1733 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.25);
+  border-top: 4px solid var(--brand-red);
+  border-radius: var(--radius-lg);
+  padding: 32px 28px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  transition: var(--transition);
+}
+
+.coverage-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 32px rgba(245, 158, 11, 0.3);
+  border-color: var(--brand-yellow);
+}
+
+.coverage-card-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 18px;
+}
+
+.coverage-icon {
+  width: 46px;
+  height: 46px;
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--brand-yellow);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.5px solid rgba(245, 158, 11, 0.35);
+  flex-shrink: 0;
+}
+
+.coverage-card-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+}
+
+.coverage-pills-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.locality-pill {
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  color: #cbd5e1;
+  font-size: 0.84rem;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  transition: var(--transition);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.locality-pill:hover {
+  background: rgba(245, 158, 11, 0.2);
+  color: #ffffff;
+  border-color: var(--brand-yellow);
+}
+
+.locality-pill svg {
+  color: var(--brand-yellow);
+}
+
+@media (max-width: 992px) {
+  .coverage-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .coverage-section {
+    padding: 45px 0;
+  }
+
+  .coverage-card {
+    padding: 24px 20px;
+  }
+}
+
+/* ==========================================================================
    Section 8: Customer Testimonials & Client Reviews
    ========================================================================== */
 .testimonials-section {
