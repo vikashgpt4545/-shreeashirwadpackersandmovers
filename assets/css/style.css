@@ -1066,42 +1066,40 @@ ul {
 }
 
 .stat-card {
-  background: #111a36;
+  background: #ffffff;
+  color: var(--text-dark);
   padding: 30px 24px;
   border-radius: var(--radius-lg);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
-  border-top: 3px solid var(--brand-yellow);
-  border-left: 1px solid rgba(245, 158, 11, 0.15);
-  border-right: 1px solid rgba(245, 158, 11, 0.15);
-  border-bottom: 1px solid rgba(245, 158, 11, 0.15);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  border-top: 4px solid var(--brand-yellow);
   text-align: center;
   transition: var(--transition);
 }
 
 .stat-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 10px 24px rgba(245, 158, 11, 0.25);
-  border-top-color: #ff5252;
+  box-shadow: 0 12px 28px rgba(245, 158, 11, 0.35);
+  border-top-color: var(--brand-red);
 }
 
 .stat-icon {
   width: 54px;
   height: 54px;
-  background: rgba(245, 158, 11, 0.14);
-  color: var(--brand-yellow);
+  background: rgba(211, 47, 47, 0.1);
+  color: var(--brand-red);
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0 auto 16px auto;
-  border: 1px solid rgba(245, 158, 11, 0.3);
+  border: 1px solid rgba(211, 47, 47, 0.25);
 }
 
 .stat-number {
   font-family: 'Poppins', sans-serif;
   font-size: 2.3rem;
   font-weight: 800;
-  color: var(--brand-yellow);
+  color: var(--brand-red);
   line-height: 1.1;
   margin-bottom: 6px;
 }
@@ -1110,13 +1108,13 @@ ul {
   font-family: 'Poppins', sans-serif;
   font-size: 1.05rem;
   font-weight: 700;
-  color: #ffffff;
+  color: var(--primary-color);
   margin-bottom: 8px;
 }
 
 .stat-desc {
   font-size: 0.86rem;
-  color: #cbd5e1;
+  color: #475569;
   line-height: 1.45;
 }
 
