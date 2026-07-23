@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Redirect to index.php if requesting directory root
+    DirectoryIndex index.php
+
+    # Prevent Directory Browsing
+    Options -Indexes
+</IfModule>
