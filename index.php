@@ -12,7 +12,7 @@ require_once __DIR__ . '/includes/header.php';
 <main class="site-main">
 
   <!-- ==========================================================================
-       HERO SECTION (Swastik Red & Yellow Theme)
+       SECTION 1: HERO SECTION (Swastik Red & Yellow Theme)
        Target Keyword in H1: Packers and Movers in Ranchi
        ========================================================================== -->
   <section class="hero-section">
@@ -98,6 +98,83 @@ require_once __DIR__ . '/includes/header.php';
         </div>
 
       </div>
+    </div>
+  </section>
+
+  <!-- ==========================================================================
+       SECTION 2: TRUSTED BY & ACHIEVEMENT STATS COUNTER
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="stats-section" id="stats">
+    <div class="container">
+      
+      <!-- Section Header with SEO Copy -->
+      <div class="section-header text-center">
+        <span class="section-tag">Trusted Relocation Track Record</span>
+        <h2 class="section-title">
+          Jharkhand's Most Dependable <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          With over a decade of domain excellence, Shree Ashirwad has established itself as the top choice for household relocation, commercial office shifting, and vehicle transport. As trusted <strong>packers and movers in ranchi</strong>, we prioritize the safety of your valuable belongings using high-grade multi-layer packing materials and dedicated container trucks.
+        </p>
+      </div>
+
+      <!-- Stats Counters Grid -->
+      <div class="stats-grid">
+        
+        <div class="stat-card">
+          <div class="stat-icon">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14zM7 10h2v7H7zm4-3h2v10h-2zm4 6h2v4h-2z"/></svg>
+          </div>
+          <div class="stat-number">10,000+</div>
+          <div class="stat-label">Successful Moves</div>
+          <p class="stat-desc">Completed household & office shifting projects across Ranchi & Jharkhand.</p>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+          </div>
+          <div class="stat-number">5,000+</div>
+          <div class="stat-label">Happy Clients</div>
+          <p class="stat-desc">Satisfied families and businesses who trust our <strong>packers and movers in ranchi</strong>.</p>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+          </div>
+          <div class="stat-number">100+</div>
+          <div class="stat-label">Cities Connected</div>
+          <p class="stat-desc">Seamless intercity relocation network linking Ranchi to major Indian metro cities.</p>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm4.24 16L12 15.45 7.77 18l1.12-4.81-3.73-3.23 4.92-.42L12 5l1.92 4.53 4.92.42-3.73 3.23L16.23 18z"/></svg>
+          </div>
+          <div class="stat-number">24/7</div>
+          <div class="stat-label">Live Support</div>
+          <p class="stat-desc">Round-the-clock dedicated assistance from experienced <strong>packers and movers in ranchi</strong>.</p>
+        </div>
+
+      </div>
+
+      <!-- Trust Highlight Banner -->
+      <div class="trust-highlight-box">
+        <div class="trust-highlight-content">
+          <h3>Why Are We Ranked Among the Top Packers and Movers in Ranchi?</h3>
+          <p>
+            Relocating your home or office doesn't have to be stressful. Our professional team handles every aspect of your move — from premium bubble-wrap packing and heavy furniture dismantling to safe container transport and unloading at your destination. When you choose our verified <strong>packers and movers in ranchi</strong>, you get 100% damage-free assurance, transparent billing, and zero hidden charges.
+          </p>
+        </div>
+        <div class="trust-highlight-cta">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary">
+            Call <?php echo SITE_PHONE; ?>
+          </a>
+        </div>
+      </div>
+
     </div>
   </section>
 
