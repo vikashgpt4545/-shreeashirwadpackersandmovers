@@ -2459,12 +2459,12 @@ ul {
 }
 
 .stat-card {
-  background: linear-gradient(145deg, #1e2c56 0%, #131d3d 100%);
+  background: linear-gradient(135deg, #1b2847 0%, #0f1833 100%);
   color: #ffffff;
   padding: 30px 24px;
   border-radius: var(--radius-lg);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
-  border: 1.5px solid rgba(245, 158, 11, 0.4);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  border: 1.5px solid rgba(245, 158, 11, 0.35);
   border-top: 4px solid var(--brand-yellow);
   text-align: center;
   transition: var(--transition);
@@ -2479,14 +2479,15 @@ ul {
   right: -50%;
   width: 150px;
   height: 150px;
-  background: radial-gradient(circle, rgba(245, 158, 11, 0.15) 0%, rgba(0,0,0,0) 70%);
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.22) 0%, rgba(0,0,0,0) 70%);
   border-radius: 50%;
   pointer-events: none;
 }
 
 .stat-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 30px rgba(245, 158, 11, 0.35);
+  transform: translateY(-6px);
+  background: linear-gradient(135deg, #23335a 0%, #131e40 100%);
+  box-shadow: 0 16px 36px rgba(245, 158, 11, 0.3);
   border-color: var(--brand-yellow);
   border-top-color: var(--brand-red);
 }
@@ -2528,15 +2529,16 @@ ul {
 }
 
 .trust-highlight-box {
-  background: linear-gradient(135deg, #111a36 0%, #1c1917 100%);
+  background: linear-gradient(135deg, #2b1810 0%, #150f1d 100%);
   border: 1.5px solid var(--brand-yellow);
+  border-left: 6px solid var(--brand-red);
   border-radius: var(--radius-lg);
   padding: 30px 36px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 30px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
   position: relative;
   z-index: 2;
 }
