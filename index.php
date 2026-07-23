@@ -179,7 +179,106 @@ require_once __DIR__ . '/includes/header.php';
   </section>
 
   <!-- ==========================================================================
-       SECTION 3: COMPREHENSIVE RELOCATION SERVICES
+       SECTION 3: REAL SHIFTING GALLERY (WebP Image Scroll)
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="home-gallery-section" id="gallery">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">Real Shifting Showcase</span>
+        <h2 class="section-title">
+          Live Work Gallery of Top <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          Browse authentic photos of our professional team in action across Ranchi. From heavy-duty 7-layer household packaging to GPS container truck loading, see how our verified <strong>packers and movers in ranchi</strong> deliver 100% damage-free shifting.
+        </p>
+      </div>
+
+      <!-- Horizontal Image Scroll Track (Uniform Card Box Size) -->
+      <div class="gallery-scroll-container">
+        <div class="gallery-scroll-track">
+          
+          <div class="gallery-photo-card">
+            <div class="photo-box">
+              <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Household Shifting" loading="lazy">
+              <div class="photo-overlay">
+                <span>Household Packing & Shifting</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="gallery-photo-card">
+            <div class="photo-box">
+              <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Loading & Unloading" loading="lazy">
+              <div class="photo-overlay">
+                <span>Heavy Furniture Loading</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="gallery-photo-card">
+            <div class="photo-box">
+              <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Transport Truck" loading="lazy">
+              <div class="photo-overlay">
+                <span>Enclosed Container Transport</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="gallery-photo-card">
+            <div class="photo-box">
+              <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Office Relocation" loading="lazy">
+              <div class="photo-overlay">
+                <span>Office & Commercial Shifting</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="gallery-photo-card">
+            <div class="photo-box">
+              <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Vehicle Carrier" loading="lazy">
+              <div class="photo-overlay">
+                <span>Car & Bike Carrier Transport</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="gallery-photo-card">
+            <div class="photo-box">
+              <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Unpacking & Placement" loading="lazy">
+              <div class="photo-overlay">
+                <span>Unpacking & Room Placement</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="gallery-photo-card">
+            <div class="photo-box">
+              <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Warehouse Logistics" loading="lazy">
+              <div class="photo-overlay">
+                <span>Warehouse Storage Facilities</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Action Button Centered Under Container -->
+      <div class="gallery-btn-wrapper">
+        <a href="gallery.php" class="btn btn-primary">
+          <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/></svg>
+          View Full Shifting Photo Gallery
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ==========================================================================
+       SECTION 4: COMPREHENSIVE RELOCATION SERVICES
        Keyword Integration: packers and movers in ranchi
        ========================================================================== -->
   <section class="services-section" id="services">
@@ -313,105 +412,6 @@ require_once __DIR__ . '/includes/header.php';
           </div>
         </div>
 
-      </div>
-
-    </div>
-  </section>
-
-  <!-- ==========================================================================
-       SECTION 4: REAL SHIFTING GALLERY (WebP Image Scroll)
-       Keyword Integration: packers and movers in ranchi
-       ========================================================================== -->
-  <section class="home-gallery-section" id="gallery">
-    <div class="container">
-      
-      <!-- Section Header -->
-      <div class="section-header text-center">
-        <span class="section-tag">Real Shifting Showcase</span>
-        <h2 class="section-title">
-          Live Work Gallery of Top <span class="text-gradient">Packers and Movers in Ranchi</span>
-        </h2>
-        <p class="section-description">
-          Browse authentic photos of our professional team in action across Ranchi. From heavy-duty 7-layer household packaging to GPS container truck loading, see how our verified <strong>packers and movers in ranchi</strong> deliver 100% damage-free shifting.
-        </p>
-      </div>
-
-      <!-- Horizontal Image Scroll Track (Uniform Card Box Size) -->
-      <div class="gallery-scroll-container">
-        <div class="gallery-scroll-track">
-          
-          <div class="gallery-photo-card">
-            <div class="photo-box">
-              <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Household Shifting" loading="lazy">
-              <div class="photo-overlay">
-                <span>Household Packing & Shifting</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="gallery-photo-card">
-            <div class="photo-box">
-              <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Loading & Unloading" loading="lazy">
-              <div class="photo-overlay">
-                <span>Heavy Furniture Loading</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="gallery-photo-card">
-            <div class="photo-box">
-              <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Transport Truck" loading="lazy">
-              <div class="photo-overlay">
-                <span>Enclosed Container Transport</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="gallery-photo-card">
-            <div class="photo-box">
-              <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Office Relocation" loading="lazy">
-              <div class="photo-overlay">
-                <span>Office & Commercial Shifting</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="gallery-photo-card">
-            <div class="photo-box">
-              <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Vehicle Carrier" loading="lazy">
-              <div class="photo-overlay">
-                <span>Car & Bike Carrier Transport</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="gallery-photo-card">
-            <div class="photo-box">
-              <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Unpacking & Placement" loading="lazy">
-              <div class="photo-overlay">
-                <span>Unpacking & Room Placement</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="gallery-photo-card">
-            <div class="photo-box">
-              <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Warehouse Logistics" loading="lazy">
-              <div class="photo-overlay">
-                <span>Warehouse Storage Facilities</span>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-      <!-- Action Button to Full Gallery Page -->
-      <div class="text-center" style="margin-top: 32px;">
-        <a href="gallery.php" class="btn btn-primary">
-          <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/></svg>
-          View Full Shifting Photo Gallery
-        </a>
       </div>
 
     </div>

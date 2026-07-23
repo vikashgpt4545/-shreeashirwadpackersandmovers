@@ -3060,6 +3060,15 @@ ul {
   width: max-content;
 }
 
+.gallery-btn-wrapper {
+  margin-top: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+}
+
 /* Uniform Box Size for All Photos - ZERO CROPPING */
 .gallery-photo-card {
   width: 320px;
