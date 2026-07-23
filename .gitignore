@@ -1,0 +1,24 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary & Log files
+*.log
+*.tmp
+tmp/
+
+# Environment & Config overrides
+.env
+.env.local
+
+# Dependency directories
+vendor/
+node_modules/
