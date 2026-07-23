@@ -32,16 +32,15 @@ require_once __DIR__ . '/config.php';
           <h3 class="footer-heading">Quick Links</h3>
           <div class="footer-links">
             <a href="./">Home</a>
-            <a href="#about">About Us</a>
-            <a href="#services">Services</a>
-            <a href="#contact">Contact Us</a>
+            <a href="about.php">About Us</a>
+            <a href="contact.php">Contact Us</a>
           </div>
         </div>
 
         <!-- Call & Assistance -->
         <div class="footer-col">
           <h3 class="footer-heading">Customer Assistance</h3>
-          <p style="font-size: 0.88rem; margin-bottom: 12px;">Need instant relocation assistance or free cost estimation in Ranchi?</p>
+          <p style="font-size: 0.88rem; margin-bottom: 12px;">Need instant relocation assistance or transparent cost estimation in Ranchi?</p>
           <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary" style="width: 100%;">
             Call Now: <?php echo SITE_PHONE; ?>
           </a>
