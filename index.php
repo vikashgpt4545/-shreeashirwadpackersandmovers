@@ -10,7 +10,97 @@ require_once __DIR__ . '/includes/header.php';
 
 <!-- Homepage Main Container -->
 <main class="site-main">
-  <!-- Content section placeholder -->
+
+  <!-- ==========================================================================
+       NEW HERO SECTION (Swastik Red & Yellow Theme)
+       Target Keyword in H1: Packers and Movers in Ranchi
+       ========================================================================== -->
+  <section class="hero-section">
+    <div class="container">
+      <div class="hero-grid">
+        
+        <!-- Left Column: Branding, Keyword H1 & CTAs -->
+        <div class="hero-content">
+          <div class="hero-badge">
+            <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            #1 Rated Relocation Service in Jharkhand
+          </div>
+
+          <!-- Mandatory Target Keyword H1: Packers and Movers in Ranchi -->
+          <h1 class="hero-title">
+            Professional <span class="text-gradient">Packers and Movers in Ranchi</span>
+          </h1>
+
+          <p class="hero-description">
+            Get 100% safe, reliable, and hassle-free household shifting, office relocation, and vehicle transportation. Guaranteed damage-free packing with prompt delivery in Ranchi.
+          </p>
+
+          <!-- Feature Chips -->
+          <div class="hero-features">
+            <div class="feature-pill gold">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+              100% Safe Packing
+            </div>
+            <div class="feature-pill red">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+              Best Price Guarantee
+            </div>
+            <div class="feature-pill gold">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+              24/7 Live Support
+            </div>
+          </div>
+
+          <!-- Hero CTA Group -->
+          <div class="hero-cta-group">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary">
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+              Call <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="#quickQuote" class="btn btn-outline-gold">
+              Get Free Estimate
+            </a>
+          </div>
+        </div>
+
+        <!-- Right Column: Quick Quote Form Card with Golden Accent -->
+        <div class="hero-card-wrapper" id="quickQuote">
+          <div class="hero-card">
+            <h2 class="card-title">Get Free Shifting Quote</h2>
+            <p class="card-subtitle">Get instant relocation price calculation in Ranchi</p>
+            
+            <form action="#" method="POST" onsubmit="event.preventDefault(); alert('Thank you! Your shifting quote request has been received.');">
+              <div class="form-group">
+                <label for="userName" class="form-label">Your Name</label>
+                <input type="text" id="userName" name="name" class="form-control" placeholder="Enter full name" required>
+              </div>
+
+              <div class="form-group">
+                <label for="userPhone" class="form-label">Mobile Number</label>
+                <input type="tel" id="userPhone" name="phone" class="form-control" placeholder="Enter 10-digit mobile number" required>
+              </div>
+
+              <div class="form-group">
+                <label for="moveFrom" class="form-label">Moving From</label>
+                <input type="text" id="moveFrom" name="move_from" class="form-control" placeholder="e.g. Ranchi" value="Ranchi" required>
+              </div>
+
+              <div class="form-group">
+                <label for="moveTo" class="form-label">Moving To</label>
+                <input type="text" id="moveTo" name="move_to" class="form-control" placeholder="Destination city" required>
+              </div>
+
+              <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 6px;">
+                Request Instant Quote
+              </button>
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
 </main>
 
 <?php
