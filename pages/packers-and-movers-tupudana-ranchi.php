@@ -2,8 +2,8 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Tupudana Ranchi | 8409531615";
-$page_desc = "Packers and Movers Tupudana Ranchi offering safe household shifting, industrial park relocation, bike & car transport near Tupudana Industrial Area, Hatia & Ring Road. Call 8409531615.";
-$page_keywords = "packers and movers tupudana ranchi, packers and movers in tupudana ranchi, best packers and movers in tupudana ranchi, cheap packers and movers tupudana ranchi, household shifting in tupudana ranchi, home relocation services tupudana ranchi, office shifting in tupudana ranchi, bike transport tupudana ranchi, car transport service tupudana ranchi, packers and movers tupudana industrial area, movers and packers tupudana chowk ranchi, packers and movers ranchi charges, movers and packers tupudana contact number, safe packing and moving tupudana, iba approved packers and movers ranchi, local packers and movers tupudana ranchi, furniture shifting in tupudana, house relocation in tupudana ranchi, luggage transport service tupudana";
+$page_desc = "Packers and Movers Tupudana Ranchi offering safe household shifting, home relocation, bike & car transport near Tupudana Industrial Area & Hatia. Call 8409531615.";
+$page_keywords = "packers and movers tupudana ranchi, packers and movers in tupudana ranchi, best packers and movers in tupudana ranchi, cheap packers and movers tupudana ranchi, household shifting in tupudana ranchi, home relocation services tupudana ranchi, office shifting in tupudana ranchi, bike transport tupudana ranchi, car transport service tupudana ranchi, packers and movers tupudana industrial area, movers and packers hatia ranchi, packers and movers ranchi charges, movers and packers tupudana contact number, safe packing and moving tupudana, iba approved packers and movers ranchi, local packers and movers tupudana ranchi, furniture shifting in tupudana, house relocation in tupudana ranchi, luggage transport service tupudana";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Packers and Movers Tupudana Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Looking for reliable, affordable, and zero-damage <strong>packers and movers tupudana ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, industrial plant moving, corporate office relocation, vehicle transport, and warehousing across Tupudana Industrial Area, Tupudana Chowk, Hatia, Ring Road, and surrounding Ranchi sectors.
+            Looking for reliable, affordable, and zero-damage <strong>packers and movers tupudana ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, home relocation, office moving, vehicle transport, and warehousing across Tupudana Industrial Area, Hatia railway sector, Ring Road bypass, Khunti Road, and surrounding Ranchi localities.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -37,7 +37,7 @@ require_once __DIR__ . '/../includes/header.php';
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">2,900+</strong> Tupudana Moves</span>
+            <span><strong style="color: #f59e0b;">2,850+</strong> Tupudana Shifting Moves</span>
             <span><strong style="color: #f59e0b;">15+ Years</strong> Experience</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
@@ -60,7 +60,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City / Locality)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 16px;">
-              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. 3BHK House, Industrial Machinery, Bike)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. Household Goods, Bike, Office Items)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
             <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
               Get Quote on WhatsApp
@@ -77,8 +77,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">2,900+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Tupudana Home &amp; Factory Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">2,850+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Tupudana Home &amp; Office Moves</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">15+</div>
@@ -111,19 +111,19 @@ require_once __DIR__ . '/../includes/header.php';
           
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏭</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Industrial Area Logistics</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏡</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Tupudana Industrial Zone</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Tupudana is Ranchi's largest industrial estate. Relocating heavy machinery and industrial plant equipment requires experienced <strong>packers and movers tupudana ranchi</strong>.
+              Tupudana houses major industrial units, factories, and residential colonies. Relocating machinery, office setups, and homes requires experienced <strong>packers and movers tupudana ranchi</strong>.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏢</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Residential Colony Shifting</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛣️</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Ring Road &amp; Khunti Expressway</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              From Tupudana Chowk apartments to Hatia Ring Road houses, our crew moves heavy wooden furniture, home appliances, and kitchenware with complete care.
+              Situated on Ring Road and Khunti Highway, Tupudana provides fast container dispatch for both local shifting and long-distance intercity routes.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for factory managers, corporate staff, government officials, and bank personnel.
+              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for industrial executives, factory managers, bank staff, and government employees.
             </p>
           </div>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes connecting Tupudana directly to Ranchi Ring Road, NH-33, and GT Road with satellite GPS tracking.
+              Our weatherproof container trucks operate smooth transit routes connecting Tupudana directly to Hatia, Dhurwa, Hinoo, and Ring Road with GPS tracking.
             </p>
           </div>
 
@@ -150,7 +150,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Safety Wrap</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We protect household and factory goods with air-bubble film, corrugated sheets, foam corner guards, stretch film, and custom wooden crates built on-site.
+              We protect household goods with air-bubble film, corrugated sheets, foam corner guards, stretch film, and custom wooden crates built on-site.
             </p>
           </div>
 
@@ -191,9 +191,9 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Industrial &amp; Factory Relocation</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Industrial Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide specialized <strong>office shifting in tupudana ranchi</strong> and heavy industrial machinery moving across Tupudana Industrial Estate.
+            We provide specialized <strong>office shifting in tupudana ranchi</strong> for industrial units, corporate offices, and factories in Tupudana.
           </p>
         </div>
 
@@ -214,7 +214,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Wooden Crate &amp; Heavy Goods Packing</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            For Smart TVs, glass tops, factory gear, and heavy refrigerators, we build custom wooden crates on-site to absorb heavy road shocks.
+            For Smart TVs, glass tops, heavy safes, and commercial display units, we build custom wooden crates on-site to absorb heavy road shocks.
           </p>
         </div>
 
@@ -287,7 +287,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        As established <strong>local packers and movers tupudana ranchi</strong>, we provide active door-to-door shifting in Tupudana Industrial Estate, Hatia, Namkum, and Hinoo.
+        As established <strong>local packers and movers tupudana ranchi</strong>, we provide active door-to-door shifting in Tupudana, Hatia, Dhurwa, Hinoo, and Ranchi City.
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
@@ -301,26 +301,26 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Namkum Industrial Belt</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Tupudana and Namkum Station.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-namkum-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Namkum Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hatia Railway Station Hub</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Tupudana and Hatia.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hatia-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Hatia Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hinoo Airport Corridor</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting between Tupudana and Hinoo Chowk.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa HEC Township</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Tupudana to Dhurwa.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-dhurwa-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Dhurwa Ranchi →
+          </a>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hinoo Airport Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Tupudana to Hinoo.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hinoo-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Hinoo Ranchi →
-          </a>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Harmu Head Office Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Tupudana to Harmu Road.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-harmu-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Harmu Ranchi →
           </a>
         </div>
       </div>
@@ -338,7 +338,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Relocating from Tupudana to major industrial centers is seamless via Ring Road, NH-33, and GT Road:
+        Relocating from Tupudana to major industrial centers is seamless via Ring Road bypass, NH-33, and GT Road:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
@@ -352,8 +352,16 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Tupudana to Bokaro</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Tupudana to Bokaro Steel City.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-bokaro.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Bokaro Shifting Services →
+          </a>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Tupudana to Dhanbad</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Tupudana to Dhanbad &amp; Bokaro.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct industrial moving linking Tupudana to Coal Capital Dhanbad.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-dhanbad.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Dhanbad Shifting Services →
           </a>
@@ -361,17 +369,9 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Tupudana to Kolkata</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct interstate moving linking Tupudana to Kolkata via GT Road.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Tupudana Ranchi to Kolkata, West Bengal.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-kolkata.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Kolkata Shifting Services →
-          </a>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Tupudana to Patna</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Tupudana Ranchi to Patna, Bihar.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-patna.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Patna Shifting Services →
           </a>
         </div>
       </div>
@@ -383,13 +383,13 @@ require_once __DIR__ . '/../includes/header.php';
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Industrial &amp; Corporate Documentation</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Corporate &amp; Official Documentation</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
         IBA Approved GST Billing Compliance in Tupudana
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Factory executives, industrial owners, government officers, defense staff, and bank managers residing in Tupudana get 100% compliant reimbursement documentation:
+        Industrial executives, factory managers, bank officers, defense personnel, and business owners residing in Tupudana get 100% compliant reimbursement documentation:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
@@ -491,14 +491,14 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers tupudana ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, elevator access, and transit distance.
+            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for factory &amp; industrial executives in Tupudana?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Tupudana?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
           </p>
         </div>
 
@@ -510,7 +510,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect expensive machinery or furniture during transit?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect home furniture and electronics during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
           </p>
@@ -576,7 +576,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or factory shifting in Tupudana.
+        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or office shifting in Tupudana.
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">

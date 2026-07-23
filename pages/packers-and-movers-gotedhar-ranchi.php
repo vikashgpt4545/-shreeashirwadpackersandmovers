@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhurwa Ranchi | 8409531615";
-$page_desc = "Packers and Movers Dhurwa Ranchi offering safe household shifting, home relocation, bike & car transport near Dhurwa, HEC Colony & JSCA Stadium. Call 8409531615.";
-$page_keywords = "packers and movers dhurwa ranchi, packers and movers in dhurwa ranchi, best packers and movers in dhurwa ranchi, cheap packers and movers dhurwa ranchi, household shifting in dhurwa ranchi, home relocation services dhurwa ranchi, office shifting in dhurwa ranchi, bike transport dhurwa ranchi, car transport service dhurwa ranchi, packers and movers dhurwa bus stand, movers and packers hec colony ranchi, packers and movers ranchi charges, movers and packers dhurwa contact number, safe packing and moving dhurwa, iba approved packers and movers ranchi, local packers and movers dhurwa ranchi, furniture shifting in dhurwa, house relocation in dhurwa ranchi, luggage transport service dhurwa";
+$page_title = "Packers and Movers Gotedhar Ranchi | 8409531615";
+$page_desc = "Packers and Movers Gotedhar Ranchi offering safe household shifting, home relocation, bike & car transport near Gotedhar, Namkum & Tatisilwai. Call 8409531615.";
+$page_keywords = "packers and movers gotedhar ranchi, packers and movers in gotedhar ranchi, best packers and movers in gotedhar ranchi, cheap packers and movers gotedhar ranchi, household shifting in gotedhar ranchi, home relocation services gotedhar ranchi, office shifting in gotedhar ranchi, bike transport gotedhar ranchi, car transport service gotedhar ranchi, packers and movers gotedhar chowk, movers and packers namkum ranchi, packers and movers ranchi charges, movers and packers gotedhar contact number, safe packing and moving gotedhar, iba approved packers and movers ranchi, local packers and movers gotedhar ranchi, furniture shifting in gotedhar, house relocation in gotedhar ranchi, luggage transport service gotedhar";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -18,26 +18,26 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            IBA Approved Relocation Experts in Dhurwa
+            IBA Approved Relocation Experts in Gotedhar
           </span>
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Packers and Movers Dhurwa Ranchi</span>
+            Professional <span style="color: #f59e0b;">Packers and Movers Gotedhar Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Looking for reliable, affordable, and zero-damage <strong>packers and movers dhurwa ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, home relocation, office moving, vehicle transport, and warehousing across Dhurwa, HEC Colony, JSCA Stadium sector, Hatia railway station link, and surrounding Ranchi localities.
+            Looking for reliable, affordable, and zero-damage <strong>packers and movers gotedhar ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, home relocation, office moving, vehicle transport, and warehousing across Gotedhar, Namkum industrial belt, Tatisilwai road, Ring Road bypass, and surrounding Ranchi localities.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               📞 Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20services%20in%20Dhurwa%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20services%20in%20Gotedhar%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">3,120+</strong> Dhurwa Shifting Moves</span>
+            <span><strong style="color: #f59e0b;">1,980+</strong> Gotedhar Shifting Moves</span>
             <span><strong style="color: #f59e0b;">15+ Years</strong> Experience</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
@@ -45,7 +45,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Dhurwa Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Gotedhar Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -56,7 +56,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" placeholder="Moving From (e.g. Dhurwa)" value="Dhurwa Ranchi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" placeholder="Moving From (e.g. Gotedhar)" value="Gotedhar Ranchi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City / Locality)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 16px;">
@@ -77,8 +77,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">3,120+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Dhurwa Home &amp; Office Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">1,980+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Gotedhar Home &amp; Office Moves</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">15+</div>
@@ -101,9 +101,9 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       
       <div style="max-width: 950px; margin: 0 auto;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Dhurwa Relocation Guide</span>
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Gotedhar Relocation Guide</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-          Why Hire Premier <span style="color: #f59e0b;">Packers and Movers in Dhurwa Ranchi</span>?
+          Why Hire Premier <span style="color: #f59e0b;">Packers and Movers in Gotedhar Ranchi</span>?
         </h2>
 
         <!-- 6 Cards Grid (3x2 Layout) -->
@@ -112,18 +112,18 @@ require_once __DIR__ . '/../includes/header.php';
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏡</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Dhurwa HEC Township</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Gotedhar Residential Sector</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Dhurwa is one of Ranchi's major industrial townships, home to HEC quarters and government offices. Moving here requires expert <strong>packers and movers dhurwa ranchi</strong>.
+              Gotedhar is a developing residential locality near Namkum and Tatisilwai. Shifting home here requires dedicated <strong>packers and movers gotedhar ranchi</strong>.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛣️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Hatia &amp; Ring Road Access</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Purulia Road &amp; Ring Road Access</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Direct access to Hatia Railway Station, Ring Road bypass, and Argora Expressway makes Dhurwa a central hub for fast logistics.
+              With direct proximity to Purulia Road and Ring Road, Gotedhar allows easy loading and highway movement for container trucks.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for HEC employees, government officials, bank managers, and defense personnel.
+              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for corporate managers, government officers, bank staff, and defense personnel.
             </p>
           </div>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes connecting Dhurwa directly to Hatia, Hinoo, Doranda, and Ring Road with GPS tracking.
+              Our weatherproof container trucks operate smooth transit routes connecting Gotedhar directly to Namkum, Tatisilwai, Lowadih, and Ring Road with GPS tracking.
             </p>
           </div>
 
@@ -177,37 +177,37 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 50px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Specialized Offerings</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Comprehensive Solutions by Top <span style="color: #f59e0b;">Packers and Movers Dhurwa Ranchi</span>
+          Comprehensive Solutions by Top <span style="color: #f59e0b;">Packers and Movers Gotedhar Ranchi</span>
         </h2>
       </div>
 
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Dhurwa</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Gotedhar</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our core service includes <strong>household shifting in dhurwa ranchi</strong> and <strong>home relocation services dhurwa ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
+            Our core service includes <strong>household shifting in gotedhar ranchi</strong> and <strong>home relocation services gotedhar ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Office Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide specialized <strong>office shifting in dhurwa ranchi</strong> for government offices, HEC units, and commercial establishments in Dhurwa.
+            We provide specialized <strong>office shifting in gotedhar ranchi</strong> for commercial offices, stores, and local businesses in Gotedhar.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Dhurwa</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Gotedhar</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Our <strong>bike transport dhurwa ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during transit.
+            Our <strong>bike transport gotedhar ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during transit.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Dhurwa</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Gotedhar</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our <strong>car transport service dhurwa ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
+            Our <strong>car transport service gotedhar ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
           </p>
         </div>
 
@@ -236,11 +236,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        7-Layer Material Protection for <span style="color: #f59e0b;">Safe Packing and Moving Dhurwa</span>
+        7-Layer Material Protection for <span style="color: #f59e0b;">Safe Packing and Moving Gotedhar</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px; line-height: 1.8;">
-        As leaders in <strong>safe packing and moving dhurwa</strong>, we wrap every item with 7 layers of shock protection:
+        As leaders in <strong>safe packing and moving gotedhar</strong>, we wrap every item with 7 layers of shock protection:
       </p>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 35px;">
@@ -277,17 +277,17 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 6: Dhurwa Neighborhood Coverage (Internal Link Grid 1 - 4 Links) -->
+  <!-- Section 6: Gotedhar Neighborhood Coverage (Internal Link Grid 1 - 4 Links) -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Hyper-Local Network</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Serving Dhurwa &amp; Surrounding <span style="color: #f59e0b;">Ranchi Sectors</span>
+        Serving Gotedhar &amp; Surrounding <span style="color: #f59e0b;">Ranchi Sectors</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        As established <strong>local packers and movers dhurwa ranchi</strong>, we provide active door-to-door shifting in Dhurwa, Hatia, Hinoo, Doranda, Argora, and Ranchi City.
+        As established <strong>local packers and movers gotedhar ranchi</strong>, we provide active door-to-door shifting in Gotedhar, Namkum, Tatisilwai, Rampura, and Ranchi City.
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
@@ -301,26 +301,26 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hatia Railway Station Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Dhurwa and Hatia.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hatia-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Hatia Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Namkum Industrial &amp; Cantt Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Gotedhar and Namkum.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-namkum-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Namkum Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hinoo Airport Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Dhurwa to Hinoo.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hinoo-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Hinoo Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Tatisilwai Industrial Zone</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Gotedhar to Tatisilwai.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-tatisilwai-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Tatisilwai Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Doranda Commercial Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Dhurwa to Doranda.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-doranda-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Doranda Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Rampura Residential Enclave</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Gotedhar to Rampura.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-rampura-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Rampura Ranchi →
           </a>
         </div>
       </div>
@@ -328,50 +328,50 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 7: Intercity Express Routes from Dhurwa (Internal Link Grid 2 - 4 Links) -->
+  <!-- Section 7: Intercity Express Routes from Gotedhar (Internal Link Grid 2 - 4 Links) -->
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Long-Distance Express Logistics</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Intercity Relocation from <span style="color: #f59e0b;">Dhurwa Ranchi</span>
+        Intercity Relocation from <span style="color: #f59e0b;">Gotedhar Ranchi</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Relocating from Dhurwa to major industrial centers is seamless via Ring Road bypass, NH-33, and GT Road:
+        Relocating from Gotedhar to major industrial centers is seamless via Purulia Highway, Ring Road, NH-33, and GT Road:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Jamshedpur</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct NH-33 daily container trips linking Dhurwa to Jamshedpur.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Gotedhar to Jamshedpur</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct NH-33 daily container trips linking Gotedhar to Jamshedpur.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-jamshedpur.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Jamshedpur Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Bokaro</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Dhurwa to Bokaro Steel City.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-bokaro.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Bokaro Shifting Services →
-          </a>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Dhanbad</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct industrial moving linking Dhurwa to Coal Capital Dhanbad.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Gotedhar to Dhanbad</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Gotedhar to Dhanbad &amp; Bokaro.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-dhanbad.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Dhanbad Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Kolkata</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Dhurwa Ranchi to Kolkata, West Bengal.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Gotedhar to Kolkata</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct interstate moving linking Gotedhar to Kolkata via GT Road.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-kolkata.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Kolkata Shifting Services →
+          </a>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Gotedhar to Patna</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Gotedhar Ranchi to Patna, Bihar.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-patna.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Patna Shifting Services →
           </a>
         </div>
       </div>
@@ -385,11 +385,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Corporate &amp; Official Documentation</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        IBA Approved GST Billing Compliance in Dhurwa
+        IBA Approved GST Billing Compliance in Gotedhar
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        HEC officers, government executives, bank managers, defense personnel, and business owners residing in Dhurwa get 100% compliant reimbursement documentation:
+        Corporate executives, government officers, bank managers, defense personnel, and business owners residing in Gotedhar get 100% compliant reimbursement documentation:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
@@ -414,7 +414,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Structured Workflow</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          How Our Shifting Execution Works in <span style="color: #f59e0b;">Dhurwa</span>
+          How Our Shifting Execution Works in <span style="color: #f59e0b;">Gotedhar</span>
         </h2>
       </div>
 
@@ -425,7 +425,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Initial Phone / WhatsApp Survey</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Call our <strong>movers and packers dhurwa contact number</strong> at <strong><?php echo SITE_PHONE; ?></strong> or send us your shifting details on WhatsApp.
+              Call our <strong>movers and packers gotedhar contact number</strong> at <strong><?php echo SITE_PHONE; ?></strong> or send us your shifting details on WhatsApp.
             </p>
           </div>
         </div>
@@ -443,7 +443,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">03</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging at Dhurwa</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging at Gotedhar</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
               Our uniformed crew arrives punctually with heavy bubble wrap, foam corner guards, corrugated boxes, and wooden crates.
             </p>
@@ -482,28 +482,28 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Packers and Movers Dhurwa Ranchi</span>
+          Frequently Asked Questions About <span style="color: #f59e0b;">Packers and Movers Gotedhar Ranchi</span>
         </h2>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 16px;">
         
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers dhurwa ranchi charges calculated?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers gotedhar ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Dhurwa?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Gotedhar?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Dhurwa?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Gotedhar?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
           </p>
@@ -524,21 +524,21 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you transport cars and bikes safely from Dhurwa?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you transport cars and bikes safely from Gotedhar?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping across India.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for relocation from Dhurwa?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for relocation from Gotedhar?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during long-distance transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Dhurwa homes?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Gotedhar homes?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.
           </p>
@@ -552,7 +552,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in dhurwa ranchi?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in gotedhar ranchi?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             You can call or WhatsApp our official Helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
           </p>
@@ -568,22 +568,22 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 900px; text-align: center;">
       
       <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-        Book Dhurwa's Top Rated Movers
+        Book Gotedhar's Top Rated Movers
       </span>
 
       <h2 style="font-size: 2.3rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
-        Ready to Move with <span style="color: #f59e0b;">Packers and Movers Dhurwa Ranchi</span>?
+        Ready to Move with <span style="color: #f59e0b;">Packers and Movers Gotedhar Ranchi</span>?
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or office shifting in Dhurwa.
+        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or office shifting in Gotedhar.
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
           📞 Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20in%20Dhurwa%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20in%20Gotedhar%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           💬 Chat on WhatsApp
         </a>
         <a href="<?php echo SITE_URL; ?>pages/contact.php" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
