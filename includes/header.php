@@ -87,10 +87,8 @@ require_once __DIR__ . '/config.php';
 
         <!-- Navigation Menu -->
         <ul class="nav-menu" id="navMenu">
-          <li><a href="./" class="nav-link active">Home</a></li>
-          <li><a href="#about" class="nav-link">About Us</a></li>
-          <li><a href="#services" class="nav-link">Services</a></li>
-          <li><a href="#contact" class="nav-link">Contact</a></li>
+          <li><a href="./" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>">Home</a></li>
+          <li><a href="contact.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
         </ul>
 
         <!-- Call Button (No 'Call Us Now' text label as requested) -->

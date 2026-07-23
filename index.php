@@ -12,7 +12,7 @@ require_once __DIR__ . '/includes/header.php';
 <main class="site-main">
 
   <!-- ==========================================================================
-       NEW HERO SECTION (Swastik Red & Yellow Theme)
+       HERO SECTION (Swastik Red & Yellow Theme)
        Target Keyword in H1: Packers and Movers in Ranchi
        ========================================================================== -->
   <section class="hero-section">
@@ -57,19 +57,19 @@ require_once __DIR__ . '/includes/header.php';
               <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
               Call <?php echo SITE_PHONE; ?>
             </a>
-            <a href="#quickQuote" class="btn btn-outline-gold">
+            <a href="contact.php" class="btn btn-outline-gold">
               Get Free Estimate
             </a>
           </div>
         </div>
 
-        <!-- Right Column: Quick Quote Form Card with Golden Accent -->
+        <!-- Right Column: Quick Quote Form Card with Direct WhatsApp Lead Redirection -->
         <div class="hero-card-wrapper" id="quickQuote">
           <div class="hero-card">
             <h2 class="card-title">Get Free Shifting Quote</h2>
             <p class="card-subtitle">Get instant relocation price calculation in Ranchi</p>
             
-            <form action="#" method="POST" onsubmit="event.preventDefault(); alert('Thank you! Your shifting quote request has been received.');">
+            <form action="#" method="POST" onsubmit="sendWhatsAppLead(event, this);">
               <div class="form-group">
                 <label for="userName" class="form-label">Your Name</label>
                 <input type="text" id="userName" name="name" class="form-control" placeholder="Enter full name" required>
@@ -102,6 +102,21 @@ require_once __DIR__ . '/includes/header.php';
   </section>
 
 </main>
+
+<script>
+function sendWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers %26 Movers,%0A%0AI would like to request a Free Shifting Quote:%0A- *Name:* " + encodeURIComponent(name) + "%0A- *Phone:* " + encodeURIComponent(phone) + "%0A- *Moving From:* " + encodeURIComponent(moveFrom) + "%0A- *Moving To:* " + encodeURIComponent(moveTo);
+  
+  var whatsappUrl = "https://wa.me/918409531615?text=" + message;
+  window.open(whatsappUrl, '_blank');
+}
+</script>
 
 <?php
 require_once __DIR__ . '/includes/footer.php';

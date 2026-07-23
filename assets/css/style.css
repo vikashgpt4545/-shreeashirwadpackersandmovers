@@ -665,3 +665,166 @@ ul {
     grid-template-columns: 1fr;
   }
 }
+
+/* ==========================================================================
+   Contact Page Styles
+   ========================================================================== */
+.page-banner {
+  background: linear-gradient(135deg, #0b132b 0%, #1c1917 100%);
+  color: var(--white);
+  padding: 45px 0;
+  text-align: center;
+  border-bottom: 3px solid var(--brand-yellow);
+}
+
+.page-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.page-title span {
+  color: #ff5252;
+}
+
+.page-subtitle {
+  font-size: 1rem;
+  color: #cbd5e1;
+}
+
+.contact-section {
+  padding: 50px 0;
+  background-color: var(--bg-light);
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 36px;
+  align-items: start;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.info-card {
+  background: var(--white);
+  padding: 20px 24px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  border-left: 4px solid var(--brand-red);
+  transition: var(--transition);
+}
+
+.info-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.info-icon {
+  width: 44px;
+  height: 44px;
+  background: rgba(211, 47, 47, 0.1);
+  color: var(--brand-red);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.info-content h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-bottom: 4px;
+}
+
+.info-content p {
+  font-size: 0.92rem;
+  color: var(--text-dark);
+  line-height: 1.45;
+}
+
+.info-content p a {
+  color: var(--brand-red);
+  font-weight: 600;
+}
+
+.info-tag {
+  display: inline-block;
+  font-size: 0.76rem;
+  color: var(--brand-yellow-hover);
+  font-weight: 600;
+  margin-top: 4px;
+}
+
+.contact-form-card {
+  background: var(--white);
+  padding: 28px 30px;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  border-top: 4px solid var(--brand-yellow);
+}
+
+.contact-form-card h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-bottom: 4px;
+}
+
+.contact-form-card p {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  margin-bottom: 18px;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.map-section {
+  padding: 40px 0 60px 0;
+  background-color: var(--white);
+}
+
+.map-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.map-header h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-bottom: 4px;
+}
+
+.map-header p {
+  font-size: 0.9rem;
+  color: var(--text-light);
+}
+
+@media (max-width: 992px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+}
+
