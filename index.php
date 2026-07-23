@@ -318,6 +318,92 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 4: WHY CHOOSE US / VALUE PROPOSITION
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="why-choose-section" id="why-choose-us">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">Unmatched Quality & Trust</span>
+        <h2 class="section-title">
+          Why We Are the Most Preferred <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          Selecting reliable <strong>packers and movers in ranchi</strong> shouldn't involve guesswork. At Shree Ashirwad, we combine licensed operational standards, transparent billing practices, and state-of-the-art vehicle tracking to guarantee 100% peace of mind during your relocation.
+        </p>
+      </div>
+
+      <!-- Why Choose Grid -->
+      <div class="why-grid">
+        
+        <div class="why-card">
+          <div class="why-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-5.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+          </div>
+          <h3 class="why-title">Govt. Registered & IBA Approved</h3>
+          <p class="why-desc">
+            We are fully licensed, GST-compliant <strong>packers and movers in ranchi</strong> providing valid IBA-approved bills for easy corporate or bank claim reimbursements.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <div class="why-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z"/></svg>
+          </div>
+          <h3 class="why-title">Transparent & Honest Pricing</h3>
+          <p class="why-desc">
+            No hidden fees, surprise taxes, or moving-day price jumps. When you hire our <strong>packers and movers in ranchi</strong>, the quoted estimate remains fixed and transparent.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <div class="why-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+          </div>
+          <h3 class="why-title">Real-Time GPS Tracking</h3>
+          <p class="why-desc">
+            Track your shifting container truck live via satellite GPS. Our <strong>packers and movers in ranchi</strong> ensure you know your vehicle location every minute of the journey.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <div class="why-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/></svg>
+          </div>
+          <h3 class="why-title">Multi-Layer Safe Packing</h3>
+          <p class="why-desc">
+            Using heavy-duty bubble wraps, corrugated sheets, stretch films, and corner guards, our <strong>packers and movers in ranchi</strong> guarantee 100% damage-free delivery.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <div class="why-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg>
+          </div>
+          <h3 class="why-title">Guaranteed On-Time Delivery</h3>
+          <p class="why-desc">
+            We value your time. As punctual <strong>packers and movers in ranchi</strong>, our logistics team strictly meets all pickup times and promised delivery windows without delay.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <div class="why-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/></svg>
+          </div>
+          <h3 class="why-title">Full Transit Insurance Protection</h3>
+          <p class="why-desc">
+            For maximum financial security, our <strong>packers and movers in ranchi</strong> provide complete transit insurance policies to cover unforeseen transit risks.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>

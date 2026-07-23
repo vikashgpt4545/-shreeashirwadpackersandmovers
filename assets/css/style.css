@@ -982,6 +982,125 @@ ul {
 }
 
 /* ==========================================================================
+   Section 4: Why Choose Us / Value Proposition
+   ========================================================================== */
+.why-choose-section {
+  position: relative;
+  padding: 70px 0;
+  background: linear-gradient(180deg, #16203b 0%, #0b132b 100%);
+  color: var(--white);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  overflow: hidden;
+}
+
+.why-choose-section::before {
+  content: '';
+  position: absolute;
+  top: -10%;
+  right: -10%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.why-choose-section::after {
+  content: '';
+  position: absolute;
+  bottom: -10%;
+  left: -10%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(211, 47, 47, 0.2) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.why-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 26px;
+  position: relative;
+  z-index: 2;
+}
+
+.why-card {
+  background: linear-gradient(145deg, #1e2c56 0%, #131d3d 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.35);
+  border-top: 4px solid var(--brand-yellow);
+  border-radius: var(--radius-lg);
+  padding: 28px 24px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+
+.why-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 32px rgba(245, 158, 11, 0.3);
+  border-color: var(--brand-yellow);
+  border-top-color: var(--brand-red);
+}
+
+.why-icon-box {
+  width: 56px;
+  height: 56px;
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--brand-yellow);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  border: 1.5px solid rgba(245, 158, 11, 0.4);
+  transition: var(--transition);
+}
+
+.why-card:hover .why-icon-box {
+  background: var(--brand-yellow);
+  color: #0b132b;
+  border-color: var(--brand-yellow);
+}
+
+.why-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.why-desc {
+  font-size: 0.88rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+}
+
+@media (max-width: 992px) {
+  .why-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  .why-choose-section {
+    padding: 45px 0;
+  }
+
+  .why-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .why-card {
+    padding: 22px 18px;
+  }
+}
+
+/* ==========================================================================
    Section 3: Comprehensive Relocation Services
    ========================================================================== */
 .services-section {
