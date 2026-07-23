@@ -3347,3 +3347,216 @@ ul {
   }
 }
 
+/* ==========================================================================
+   Services Page Styles (services.php)
+   ========================================================================== */
+.services-page-section {
+  position: relative;
+  padding: 75px 0;
+  background: #0b132b;
+  color: var(--white);
+}
+
+.services-detail-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+
+.service-detail-card {
+  background: linear-gradient(145deg, #172a54 0%, #0d1736 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.35);
+  border-radius: var(--radius-lg);
+  padding: 30px 24px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.4);
+  transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+}
+
+.service-detail-card:hover {
+  transform: translateY(-6px);
+  background: linear-gradient(145deg, #1d3264 0%, #101c40 100%);
+  border-color: var(--brand-yellow);
+  box-shadow: 0 16px 36px rgba(245, 158, 11, 0.35);
+}
+
+.service-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+
+.service-detail-icon {
+  width: 54px;
+  height: 54px;
+  background: rgba(245, 158, 11, 0.12);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--brand-yellow);
+}
+
+.service-type-tag {
+  background: rgba(220, 38, 38, 0.2);
+  border: 1px solid rgba(220, 38, 38, 0.4);
+  color: #fca5a5;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  letter-spacing: 0.5px;
+}
+
+.service-detail-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 12px 0;
+}
+
+.service-detail-desc {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.service-highlights-box {
+  background: rgba(11, 19, 43, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  margin-bottom: 15px;
+}
+
+.service-highlights-box h4 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--brand-yellow);
+  margin: 0 0 10px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.service-highlights-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.service-highlights-box li {
+  font-size: 0.85rem;
+  color: #e2e8f0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.service-highlights-box li:last-child {
+  margin-bottom: 0;
+}
+
+.service-highlights-box li svg {
+  color: var(--brand-yellow);
+  flex-shrink: 0;
+}
+
+/* Service Process Section */
+.service-process-section {
+  padding: 70px 0;
+  background: linear-gradient(180deg, #16203b 0%, #0b132b 100%);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  color: var(--white);
+}
+
+.service-process-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.process-step-card {
+  background: linear-gradient(145deg, #1a274c 0%, #0e1733 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.3);
+  border-radius: var(--radius-lg);
+  padding: 28px 22px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  transition: var(--transition);
+  position: relative;
+}
+
+.process-step-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--brand-yellow);
+  box-shadow: 0 14px 32px rgba(245, 158, 11, 0.3);
+}
+
+.step-num {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: var(--brand-yellow);
+  line-height: 1;
+  margin-bottom: 12px;
+}
+
+.process-step-card h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 10px 0;
+}
+
+.process-step-card p {
+  font-size: 0.86rem;
+  color: #cbd5e1;
+  line-height: 1.5;
+  margin: 0;
+}
+
+@media (max-width: 992px) {
+  .services-detail-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+  }
+
+  .service-process-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .services-page-section, .service-process-section {
+    padding: 45px 0;
+  }
+
+  .services-detail-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .service-process-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .service-detail-card {
+    padding: 24px 20px;
+  }
+
+  .service-detail-title {
+    font-size: 1.15rem;
+  }
+}
+
