@@ -563,6 +563,98 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 7: OUR PROCESS GALLERY & OPERATIONAL FLEET
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="gallery-section" id="gallery">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">Operational Excellence</span>
+        <h2 class="section-title">
+          Our Shifting Process & Logistics Fleet with Top <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          Take a look at how our experienced moving crews operate. As leading <strong>packers and movers in ranchi</strong>, we maintain a modern fleet of GPS-equipped covered container trucks, specialized vehicle trailers, and professional packing gear to ensure maximum safety.
+        </p>
+      </div>
+
+      <!-- Process Gallery Grid -->
+      <div class="gallery-grid">
+        
+        <div class="gallery-card">
+          <span class="gallery-badge">Stage 01 • Household Packing</span>
+          <div class="gallery-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/></svg>
+          </div>
+          <h3 class="gallery-title">Multi-Layer Household Wrapping</h3>
+          <p class="gallery-desc">
+            Our expert <strong>packers and movers in ranchi</strong> wrap sofas, wooden wardrobes, and glass cabinets in multi-layer bubble film, heavy corrugated sheets, and stretch wrap to prevent scratches during transport.
+          </p>
+        </div>
+
+        <div class="gallery-card">
+          <span class="gallery-badge">Stage 02 • Heavy Loading</span>
+          <div class="gallery-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
+          </div>
+          <h3 class="gallery-title">Safe Cargo & Furniture Loading</h3>
+          <p class="gallery-desc">
+            Trained loaders utilize ramps, sliders, and heavy-duty belts to safely lift double beds, refrigerators, and washing machines into closed trucks without damage.
+          </p>
+        </div>
+
+        <div class="gallery-card">
+          <span class="gallery-badge">Stage 03 • Container Transport</span>
+          <div class="gallery-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zM6 18.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm13.5-9l1.96 2.5H17V9.5h2.5zm-1 9c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg>
+          </div>
+          <h3 class="gallery-title">Enclosed GPS Shifting Fleet</h3>
+          <p class="gallery-desc">
+            Weatherproof, fully enclosed container trucks protecting your goods from rain, dust, and transit hazards while being tracked live via satellite GPS by our <strong>packers and movers in ranchi</strong>.
+          </p>
+        </div>
+
+        <div class="gallery-card">
+          <span class="gallery-badge">Stage 04 • Vehicle Transport</span>
+          <div class="gallery-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>
+          </div>
+          <h3 class="gallery-title">Hydraulic Car & Bike Carriers</h3>
+          <p class="gallery-desc">
+            Dedicated hydraulic car trailers and belt-locked bike containers ensuring scratch-free, zero-mileage transportation connecting Ranchi to any destination in India.
+          </p>
+        </div>
+
+        <div class="gallery-card">
+          <span class="gallery-badge">Stage 05 • Unpacking & Setup</span>
+          <div class="gallery-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+          </div>
+          <h3 class="gallery-title">Room-by-Room Setup & Unboxing</h3>
+          <p class="gallery-desc">
+            Upon arrival, our professional <strong>packers and movers in ranchi</strong> unpack boxes, re-assemble beds and dining tables, and arrange furniture in your designated rooms.
+          </p>
+        </div>
+
+        <div class="gallery-card">
+          <span class="gallery-badge">Stage 06 • Storage Warehouse</span>
+          <div class="gallery-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M12 3L2 12h3v8h14v-8h3L12 3zm0 4.5l5 4.5v6H7v-6l5-4.5z"/></svg>
+          </div>
+          <h3 class="gallery-title">Pest-Controlled Warehouse Storage</h3>
+          <p class="gallery-desc">
+            Safe short-term and long-term storage facility in Ranchi equipped with 24/7 CCTV surveillance, fire alarms, and moisture-controlled units for your household goods.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>

@@ -982,6 +982,141 @@ ul {
 }
 
 /* ==========================================================================
+   Section 7: Our Process Gallery & Operational Fleet
+   ========================================================================== */
+.gallery-section {
+  position: relative;
+  padding: 70px 0;
+  background: #0b132b;
+  color: var(--white);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  overflow: hidden;
+}
+
+.gallery-section::before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  right: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(211, 47, 47, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.gallery-section::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  position: relative;
+  z-index: 2;
+}
+
+.gallery-card {
+  background: linear-gradient(145deg, #162247 0%, #0e1733 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.25);
+  border-top: 4px solid var(--brand-red);
+  border-radius: var(--radius-lg);
+  padding: 28px 24px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 32px rgba(245, 158, 11, 0.3);
+  border-color: var(--brand-yellow);
+  border-top-color: var(--brand-yellow);
+}
+
+.gallery-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--brand-yellow);
+  border-radius: var(--radius-full);
+  font-size: 0.76rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+  width: fit-content;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.gallery-icon-box {
+  width: 54px;
+  height: 54px;
+  background: rgba(211, 47, 47, 0.15);
+  color: var(--brand-yellow);
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  border: 1.5px solid rgba(245, 158, 11, 0.35);
+  transition: var(--transition);
+}
+
+.gallery-card:hover .gallery-icon-box {
+  background: var(--brand-red);
+  color: #ffffff;
+  border-color: var(--brand-red);
+}
+
+.gallery-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.gallery-desc {
+  font-size: 0.88rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media (max-width: 992px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  .gallery-section {
+    padding: 45px 0;
+  }
+
+  .gallery-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .gallery-card {
+    padding: 22px 18px;
+  }
+}
+
+/* ==========================================================================
    Section 6: Pricing Estimate Breakdown & Factors
    ========================================================================== */
 .pricing-section {
