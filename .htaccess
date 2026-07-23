@@ -1,19 +1,21 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /shreeashirwadpackersandmovers/
 
     # Prevent Directory Browsing
     Options -Indexes
 
-    # Support clean URLs for inner pages in pages/
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{DOCUMENT_ROOT}/shreeashirwadpackersandmovers/pages/$1.php -f
+    # Allow existing files and directories to pass through
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # Route clean URLs to pages/ directory
+    # e.g., /packers-and-movers-in-ranchi -> pages/packers-and-movers-in-ranchi.php
     RewriteRule ^([^/]+)/?$ pages/$1.php [L,QSA]
 
-    # Support clean URLs for blog pages in pages/blog/
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{DOCUMENT_ROOT}/shreeashirwadpackersandmovers/pages/blog/$2.php -f
+    # Route clean blog URLs to pages/blog/ directory
     RewriteRule ^blog/([^/]+)/?$ pages/blog/$1.php [L,QSA]
+
+    # Custom 404 Error Page
+    ErrorDocument 404 /pages/404.php
 </IfModule>
