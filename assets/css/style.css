@@ -1187,17 +1187,18 @@ ul {
 }
 
 .faq-item {
-  background: linear-gradient(145deg, #162247 0%, #0e1733 100%);
+  background: linear-gradient(145deg, #182342 0%, #0d142b 100%);
   border: 1.5px solid rgba(245, 158, 11, 0.25);
   border-radius: var(--radius-lg);
   overflow: hidden;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
   transition: var(--transition);
 }
 
 .faq-item[open] {
+  background: linear-gradient(145deg, #22325c 0%, #111a36 100%);
   border-color: var(--brand-yellow);
-  box-shadow: 0 10px 28px rgba(245, 158, 11, 0.25);
+  box-shadow: 0 12px 32px rgba(245, 158, 11, 0.3);
 }
 
 .faq-summary {
