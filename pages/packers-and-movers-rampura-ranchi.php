@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Hazaribagh | 8409531615";
-$page_desc = "Packers and Movers Ranchi to Hazaribagh offering safe household shifting, home relocation, bike & car transport. Call 8409531615 for IBA approved billing.";
-$page_keywords = "packers and movers ranchi to hazaribagh, packers and movers in ranchi to hazaribagh, best packers and movers ranchi to hazaribagh, cheap packers and movers ranchi to hazaribagh, household shifting ranchi to hazaribagh, home relocation services ranchi to hazaribagh, office shifting ranchi to hazaribagh, bike transport ranchi to hazaribagh, car transport service ranchi to hazaribagh, movers and packers ranchi to hazaribagh town, packers and movers nh33 hazaribagh route, packers and movers ranchi to hazaribagh charges, movers and packers ranchi contact number, safe packing and moving ranchi to hazaribagh, iba approved packers and movers ranchi, local packers and movers ranchi to hazaribagh, furniture shifting ranchi to hazaribagh, house relocation ranchi to hazaribagh";
+$page_title = "Packers and Movers Rampura Ranchi | 8409531615";
+$page_desc = "Packers and Movers Rampura Ranchi offering safe household shifting, home relocation, bike & car transport near Rampura, Tupudana & Khunti Road. Call 8409531615.";
+$page_keywords = "packers and movers rampura ranchi, packers and movers in rampura ranchi, best packers and movers in rampura ranchi, cheap packers and movers rampura ranchi, household shifting in rampura ranchi, home relocation services rampura ranchi, office shifting in rampura ranchi, bike transport rampura ranchi, car transport service rampura ranchi, packers and movers rampura chowk, movers and packers tupudana ranchi, packers and movers ranchi charges, movers and packers rampura contact number, safe packing and moving rampura, iba approved packers and movers ranchi, local packers and movers rampura ranchi, furniture shifting in rampura, house relocation in rampura ranchi, luggage transport service rampura";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -18,34 +18,34 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            IBA Approved Intercity Shifting Experts
+            IBA Approved Relocation Experts in Rampura
           </span>
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Reliable <span style="color: #f59e0b;">Packers and Movers Ranchi to Hazaribagh</span>
+            Professional <span style="color: #f59e0b;">Packers and Movers Rampura Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Planning to relocate from Ranchi to Hazaribagh? Shree Ashirwad Packers and Movers provides top-rated <strong>packers and movers ranchi to hazaribagh</strong> services. We specialize in household shifting, home relocation, office moving, vehicle transport (car/bike), and commercial logistics with 24-hour door-to-door delivery across Korrah, Matwari, Hazaribagh Town, Canary Hill Road, Pelawal, and BSF Meru area.
+            Looking for reliable, affordable, and zero-damage <strong>packers and movers rampura ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, home relocation, office moving, vehicle transport, and warehousing across Rampura, Tupudana industrial zone, Khunti Road link, Ring Road corridor, and surrounding Ranchi localities.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               📞 Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20from%20Ranchi%20to%20Hazaribagh." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20services%20in%20Rampura%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">3,450+</strong> Ranchi-Hazaribagh Relocations</span>
-            <span><strong style="color: #f59e0b;">Same-Day / 24h</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">2,310+</strong> Rampura Shifting Moves</span>
+            <span><strong style="color: #f59e0b;">15+ Years</strong> Experience</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Ranchi to Hazaribagh Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Rampura Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -56,11 +56,11 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" placeholder="Moving From" value="Ranchi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To" value="Hazaribagh" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" placeholder="Moving From (e.g. Rampura)" value="Rampura Ranchi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City / Locality)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 16px;">
-              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. Household Goods, Bike, Car, Office Items)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. Household Goods, Bike, Office Items)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
             <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
               Get Quote on WhatsApp
@@ -77,12 +77,12 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">3,450+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Ranchi to Hazaribagh Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">2,310+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Rampura Home &amp; Office Moves</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">95 Km</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">NH-33 Four-Lane Expressway</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">15+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Years Operational Excellence</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100%</div>
@@ -101,9 +101,9 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       
       <div style="max-width: 950px; margin: 0 auto;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Route Relocation Guide</span>
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Rampura Relocation Guide</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-          Why Choose Our <span style="color: #f59e0b;">Packers and Movers Ranchi to Hazaribagh</span> Service?
+          Why Hire Premier <span style="color: #f59e0b;">Packers and Movers in Rampura Ranchi</span>?
         </h2>
 
         <!-- 6 Cards Grid (3x2 Layout) -->
@@ -111,19 +111,19 @@ require_once __DIR__ . '/../includes/header.php';
           
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛣️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Direct NH-33 Expressway</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏡</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Rampura Southern Belt</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Covering 95 km via the four-lane NH-33 corridor, our dedicated container trucks deliver within 3 to 6 hours from Ranchi.
+              Rampura is an emerging residential zone near Tupudana and Khunti Road. Moving here requires experienced <strong>packers and movers rampura ranchi</strong>.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏢</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Hazaribagh City Coverage</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛣️</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Khunti Road &amp; Ring Road Link</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We deliver to every sector in Hazaribagh: Korrah, Matwari, Canary Hill Road, Pelawal, Hazaribagh Town, and BSF Camp Meru area.
+              Directly connected to Khunti Road and Ranchi Ring Road, Rampura provides seamless highway access for local and interstate relocation.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for BSF personnel, Police Training Academy staff, Vinoba Bhave University faculty, bank employees, and civil servants.
+              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for corporate employees, defense personnel, and business owners.
             </p>
           </div>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth highway transit connecting Ranchi directly to Hazaribagh with real-time GPS tracking.
+              Our weatherproof container trucks operate smooth transit routes connecting Rampura directly to Tupudana, Hatia, Dhurwa, and Ring Road with GPS tracking.
             </p>
           </div>
 
@@ -159,7 +159,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Unpacking &amp; Re-Assembly</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our trained move staff dismantles double beds, wardrobes, and modular desks in Ranchi and reassembles every piece systematically in Hazaribagh.
+              Our trained move staff dismantles double beds, wardrobes, and modular desks at origin and reassembles every piece systematically at destination.
             </p>
           </div>
 
@@ -175,53 +175,53 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       
       <div class="section-header text-center" style="margin-bottom: 50px;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Intercity Offerings</span>
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Specialized Offerings</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Comprehensive Services for <span style="color: #f59e0b;">Ranchi to Hazaribagh Relocation</span>
+          Comprehensive Solutions by Top <span style="color: #f59e0b;">Packers and Movers Rampura Ranchi</span>
         </h2>
       </div>
 
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting Ranchi to Hazaribagh</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Rampura</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our core service includes <strong>household shifting ranchi to hazaribagh</strong> and <strong>home relocation services ranchi to hazaribagh</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
+            Our core service includes <strong>household shifting in rampura ranchi</strong> and <strong>home relocation services rampura ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Corporate Office Shifting</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Office Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide specialized <strong>office shifting ranchi to hazaribagh</strong> for educational institutions, government offices, and commercial establishments moving to Korrah or Matwari.
+            We provide specialized <strong>office shifting in rampura ranchi</strong> for shops, industrial units, and commercial offices in Rampura.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Ranchi to Hazaribagh</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Rampura</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Our <strong>bike transport ranchi to hazaribagh</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during highway transit.
+            Our <strong>bike transport rampura ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during transit.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Ranchi to Hazaribagh</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Rampura</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our <strong>car transport service ranchi to hazaribagh</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs without adding unnecessary mileage.
+            Our <strong>car transport service rampura ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Wooden Crate &amp; Heavy Electronics Packing</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Wooden Crate &amp; Heavy Goods Packing</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            For Smart TVs, glass tops, heavy safes, and commercial display units, we build custom wooden crates on-site to absorb heavy highway shocks.
+            For Smart TVs, glass tops, heavy safes, and commercial display units, we build custom wooden crates on-site to absorb heavy road shocks.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Warehouse &amp; Storage Solutions</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our clean, CCTV-monitored warehouse facilities in Ranchi and Hazaribagh provide moisture-proof short-term and long-term storage lockers.
+            Our clean, CCTV-monitored warehouse facilities provide moisture-proof short-term and long-term storage lockers for household and commercial goods.
           </p>
         </div>
 
@@ -236,17 +236,17 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        7-Layer Material Protection for <span style="color: #f59e0b;">Safe Shifting Ranchi to Hazaribagh</span>
+        7-Layer Material Protection for <span style="color: #f59e0b;">Safe Packing and Moving Rampura</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px; line-height: 1.8;">
-        As leaders in <strong>safe packing and moving ranchi to hazaribagh</strong>, we wrap every item with 7 layers of shock protection:
+        As leaders in <strong>safe packing and moving rampura</strong>, we wrap every item with 7 layers of shock protection:
       </p>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 35px;">
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 1: Water-Resistant Stretch Film</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Seals furniture against moisture and dust during highway transit.</p>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Seals furniture against moisture and dust during handling.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 2: Air Bubble Wrapping</h4>
@@ -277,17 +277,17 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 6: Ranchi Pickup Localities (Internal Link Grid 1 - 4 Links) -->
+  <!-- Section 6: Rampura Neighborhood Coverage (Internal Link Grid 1 - 4 Links) -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Ranchi Origin Hubs</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Hyper-Local Network</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Popular Ranchi Localities for <span style="color: #f59e0b;">Hazaribagh Dispatch</span>
+        Serving Rampura &amp; Surrounding <span style="color: #f59e0b;">Ranchi Sectors</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        We pick up from all major residential sectors in Ranchi for direct dispatch to Hazaribagh:
+        As established <strong>local packers and movers rampura ranchi</strong>, we provide active door-to-door shifting in Rampura, Tupudana, Hatia, Dhurwa, and Ranchi City.
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
@@ -301,26 +301,26 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Kanke Road Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct exit hub connecting Kanke Road to Hazaribagh highway.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-kanke-road-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Kanke Road Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Tupudana Industrial Zone</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Rampura and Tupudana.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-tupudana-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Tupudana Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ormanjhi Highway Junction</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct exit hub connecting Ranchi to Hazaribagh NH-33.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ormanjhi-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Ormanjhi Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hatia Railway Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Rampura to Hatia.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hatia-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Hatia Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Morabadi Residential Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Quick pickup hub connecting Morabadi to Hazaribagh route.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-morabadi-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Morabadi Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa Township</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Rampura to Dhurwa.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-dhurwa-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Dhurwa Ranchi →
           </a>
         </div>
       </div>
@@ -328,48 +328,48 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 7: Intercity Express Routes from Ranchi (Internal Link Grid 2 - 4 Links) -->
+  <!-- Section 7: Intercity Express Routes from Rampura (Internal Link Grid 2 - 4 Links) -->
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Jharkhand Routes</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Long-Distance Express Logistics</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Other Popular Intercity Routes from <span style="color: #f59e0b;">Ranchi</span>
+        Intercity Relocation from <span style="color: #f59e0b;">Rampura Ranchi</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        In addition to Hazaribagh, we operate daily intercity trucks to key cities across Jharkhand and neighboring states:
+        Relocating from Rampura to major industrial centers is seamless via Ring Road, NH-33, and GT Road:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Jamshedpur</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct NH-33 daily container trips linking Ranchi to Jamshedpur.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Rampura to Jamshedpur</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct NH-33 daily container trips linking Rampura to Jamshedpur.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-jamshedpur.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Jamshedpur Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Dhanbad</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct industrial moving linking Ranchi to Coal Capital Dhanbad.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Rampura to Dhanbad</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Rampura to Dhanbad &amp; Bokaro.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-dhanbad.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Dhanbad Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Bokaro</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Ranchi to Bokaro Steel City.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-bokaro.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Bokaro Shifting Services →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Rampura to Kolkata</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct interstate moving linking Rampura to Kolkata via GT Road.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-kolkata.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Kolkata Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Patna</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Ranchi to Patna, Bihar.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Rampura to Patna</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Rampura Ranchi to Patna, Bihar.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-patna.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Patna Shifting Services →
           </a>
@@ -385,11 +385,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Corporate &amp; Official Documentation</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        IBA Approved GST Billing for Ranchi to Hazaribagh Shifting
+        IBA Approved GST Billing Compliance in Rampura
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        BSF officers, Police Academy instructors, university professors, bank staff, and civil service officers moving to Hazaribagh get 100% compliant relocation reimbursement paperwork:
+        Corporate executives, government officers, bank managers, defense personnel, and business owners residing in Rampura get 100% compliant reimbursement documentation:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
@@ -414,7 +414,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Structured Workflow</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          How Our Shifting Execution Works from <span style="color: #f59e0b;">Ranchi to Hazaribagh</span>
+          How Our Shifting Execution Works in <span style="color: #f59e0b;">Rampura</span>
         </h2>
       </div>
 
@@ -425,7 +425,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Initial Phone / WhatsApp Survey</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Call our Helpline at <strong><?php echo SITE_PHONE; ?></strong> or send us your Ranchi to Hazaribagh move details on WhatsApp.
+              Call our <strong>movers and packers rampura contact number</strong> at <strong><?php echo SITE_PHONE; ?></strong> or send us your shifting details on WhatsApp.
             </p>
           </div>
         </div>
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Written Fixed Rate Estimation</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              We outline all <strong>packers and movers ranchi to hazaribagh charges</strong> in a written quote with zero hidden surcharges.
+              We outline all <strong>packers and movers ranchi charges</strong> in a written quote with zero hidden surcharges.
             </p>
           </div>
         </div>
@@ -443,7 +443,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">03</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging in Ranchi</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging at Rampura</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
               Our uniformed crew arrives punctually with heavy bubble wrap, foam corner guards, corrugated boxes, and wooden crates.
             </p>
@@ -453,9 +453,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">04</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">NH-33 Highway Transit &amp; Live GPS Tracking</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Container Loading &amp; GPS Tracking</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Goods are secured inside dedicated container vehicles. You get live GPS tracking updates along the NH-33 corridor until arrival in Hazaribagh.
+              Goods are secured inside dedicated container vehicles with nylon tie-downs. You get live GPS tracking updates until delivery.
             </p>
           </div>
         </div>
@@ -463,9 +463,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">05</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Unloading, Unpacking &amp; Setup in Hazaribagh</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Unloading, Unpacking &amp; Room Setup</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              At destination in Hazaribagh, our crew unloads, unboxes, re-assembles beds and tables, and places furniture according to your instructions.
+              At destination, our crew unloads, unboxes, re-assembles beds and tables, and places furniture according to your instructions.
             </p>
           </div>
         </div>
@@ -482,35 +482,35 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Packers and Movers Ranchi to Hazaribagh</span>
+          Frequently Asked Questions About <span style="color: #f59e0b;">Packers and Movers Rampura Ranchi</span>
         </h2>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 16px;">
         
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How much do packers and movers ranchi to hazaribagh cost?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers rampura ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on household size (1BHK/2BHK/3BHK), packing materials used (wooden crating, heavy bubble wrap), and vehicle type (shared vs dedicated container).
+            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does shifting take from Ranchi to Hazaribagh?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Rampura?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Since the distance via NH-33 is roughly 95 km, transit takes between 3 to 6 hours. Same-day delivery is guaranteed for dedicated trucks.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you provide IBA approved bills for BSF / official claims?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Rampura?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! We issue 100% genuine IBA-approved GST invoices, Lorry Receipts (LR), packing lists, and payment receipts accepted by BSF, Police Academy, banks, and government HR departments.
+            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect fragile items during NH-33 highway transit?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect home furniture and electronics during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
           </p>
@@ -524,23 +524,23 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you transport cars and bikes safely from Ranchi to Hazaribagh?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you transport cars and bikes safely from Rampura?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping.
+            Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping across India.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for Ranchi to Hazaribagh relocation?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for relocation from Rampura?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during highway transit.
+            We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during long-distance transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers assemble furniture in Hazaribagh homes?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Rampura homes?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin in Ranchi and reassemble them at destination in Hazaribagh.
+            Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.
           </p>
         </div>
 
@@ -552,7 +552,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers ranchi to hazaribagh?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in rampura ranchi?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             You can call or WhatsApp our official Helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
           </p>
@@ -568,22 +568,22 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 900px; text-align: center;">
       
       <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-        Book Ranchi to Hazaribagh Express Movers
+        Book Rampura's Top Rated Movers
       </span>
 
       <h2 style="font-size: 2.3rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
-        Ready to Move with <span style="color: #f59e0b;">Packers and Movers Ranchi to Hazaribagh</span>?
+        Ready to Move with <span style="color: #f59e0b;">Packers and Movers Rampura Ranchi</span>?
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or office shifting to Hazaribagh.
+        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or office shifting in Rampura.
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
           📞 Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20from%20Ranchi%20to%20Hazaribagh." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20in%20Rampura%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           💬 Chat on WhatsApp
         </a>
         <a href="<?php echo SITE_URL; ?>pages/contact.php" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">

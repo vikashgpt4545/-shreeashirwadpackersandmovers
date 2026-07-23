@@ -2,8 +2,8 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Dhurwa Ranchi | 8409531615";
-$page_desc = "Packers and Movers Dhurwa Ranchi offering safe household shifting, home relocation, bike & car transport near Dhurwa, HEC Colony & JSCA Stadium. Call 8409531615.";
-$page_keywords = "packers and movers dhurwa ranchi, packers and movers in dhurwa ranchi, best packers and movers in dhurwa ranchi, cheap packers and movers dhurwa ranchi, household shifting in dhurwa ranchi, home relocation services dhurwa ranchi, office shifting in dhurwa ranchi, bike transport dhurwa ranchi, car transport service dhurwa ranchi, packers and movers dhurwa bus stand, movers and packers hec colony ranchi, packers and movers ranchi charges, movers and packers dhurwa contact number, safe packing and moving dhurwa, iba approved packers and movers ranchi, local packers and movers dhurwa ranchi, furniture shifting in dhurwa, house relocation in dhurwa ranchi, luggage transport service dhurwa";
+$page_desc = "Packers and Movers Dhurwa Ranchi offering safe household shifting, HEC colony relocation, bike & car transport near Dhurwa Dam, JSCA Stadium & Secretariat. Call 8409531615.";
+$page_keywords = "packers and movers dhurwa ranchi, packers and movers in dhurwa ranchi, best packers and movers in dhurwa ranchi, cheap packers and movers dhurwa ranchi, household shifting in dhurwa ranchi, home relocation services dhurwa ranchi, office shifting in dhurwa ranchi, bike transport dhurwa ranchi, car transport service dhurwa ranchi, packers and movers dhurwa dam, movers and packers jsca stadium ranchi, packers and movers ranchi charges, movers and packers dhurwa contact number, safe packing and moving dhurwa, iba approved packers and movers ranchi, local packers and movers dhurwa ranchi, furniture shifting in dhurwa, house relocation in dhurwa ranchi, luggage transport service dhurwa";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Packers and Movers Dhurwa Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Looking for reliable, affordable, and zero-damage <strong>packers and movers dhurwa ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, home relocation, office moving, vehicle transport, and warehousing across Dhurwa, HEC Colony, JSCA Stadium sector, Hatia railway station link, and surrounding Ranchi localities.
+            Looking for reliable, affordable, and zero-damage <strong>packers and movers dhurwa ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, HEC quarter moving, Secretariat office relocation, vehicle transport, and warehousing across Dhurwa, JSCA Stadium zone, Dhurwa Dam corridor, Birsa Chowk link, and surrounding Ranchi localities.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -37,7 +37,7 @@ require_once __DIR__ . '/../includes/header.php';
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">3,120+</strong> Dhurwa Shifting Moves</span>
+            <span><strong style="color: #f59e0b;">4,320+</strong> Dhurwa Shifting Moves</span>
             <span><strong style="color: #f59e0b;">15+ Years</strong> Experience</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
@@ -60,7 +60,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City / Locality)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 16px;">
-              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. Household Goods, Bike, Office Items)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. 3BHK HEC Flat, Office Setup, Car/Bike)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
             <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
               Get Quote on WhatsApp
@@ -77,8 +77,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">3,120+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Dhurwa Home &amp; Office Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">4,320+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Dhurwa Home &amp; HEC Quarter Moves</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">15+</div>
@@ -111,19 +111,19 @@ require_once __DIR__ . '/../includes/header.php';
           
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏡</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Dhurwa HEC Township</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏛️</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Secretariat &amp; Administrative Hub</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Dhurwa is one of Ranchi's major industrial townships, home to HEC quarters and government offices. Moving here requires expert <strong>packers and movers dhurwa ranchi</strong>.
+              Dhurwa houses major state administration centers. Moving official quarters requires skilled <strong>packers and movers dhurwa ranchi</strong>.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛣️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Hatia &amp; Ring Road Access</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏗️</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">HEC Township Sector</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Direct access to Hatia Railway Station, Ring Road bypass, and Argora Expressway makes Dhurwa a central hub for fast logistics.
+              From Sector 2 to Sector 4 HEC quarters, our team delivers seamless household and furniture relocation services daily.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for HEC employees, government officials, bank managers, and defense personnel.
+              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for government officers, PSU personnel, defense staff, and bank managers.
             </p>
           </div>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes connecting Dhurwa directly to Hatia, Hinoo, Doranda, and Ring Road with GPS tracking.
+              Our weatherproof container trucks operate smooth transit routes connecting Dhurwa directly to Birsa Chowk, Hatia, Ring Road, and Khunti Road with GPS tracking.
             </p>
           </div>
 
@@ -191,9 +191,9 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Office Shifting</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Office &amp; Secretariat Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide specialized <strong>office shifting in dhurwa ranchi</strong> for government offices, HEC units, and commercial establishments in Dhurwa.
+            We provide specialized <strong>office shifting in dhurwa ranchi</strong> for government departments, PSU offices, and commercial establishments.
           </p>
         </div>
 
@@ -287,7 +287,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        As established <strong>local packers and movers dhurwa ranchi</strong>, we provide active door-to-door shifting in Dhurwa, Hatia, Hinoo, Doranda, Argora, and Ranchi City.
+        As established <strong>local packers and movers dhurwa ranchi</strong>, we provide active door-to-door shifting in Dhurwa, Birsa Chowk, Hatia, Hinoo, and Ranchi City.
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
@@ -301,26 +301,26 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hatia Railway Station Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Dhurwa and Hatia.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Birsa Chowk Transport Hub</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Dhurwa and Birsa Chowk.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-birsa-chowk-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Birsa Chowk Ranchi →
+          </a>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hatia Railway Junction Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Dhurwa to Hatia Station.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hatia-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Hatia Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hinoo Airport Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Dhurwa to Hinoo.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hinoo Airport Gate Zone</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Dhurwa to Hinoo.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hinoo-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Hinoo Ranchi →
-          </a>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Doranda Commercial Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Dhurwa to Doranda.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-doranda-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Doranda Ranchi →
           </a>
         </div>
       </div>
@@ -338,7 +338,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Relocating from Dhurwa to major industrial centers is seamless via Ring Road bypass, NH-33, and GT Road:
+        Relocating from Dhurwa to major industrial centers is seamless via Khunti Road, NH-33, and Ring Road:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
@@ -352,16 +352,8 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Bokaro</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Dhurwa to Bokaro Steel City.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-bokaro.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Bokaro Shifting Services →
-          </a>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Dhanbad</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct industrial moving linking Dhurwa to Coal Capital Dhanbad.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Dhurwa to Dhanbad &amp; Bokaro.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-dhanbad.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Dhanbad Shifting Services →
           </a>
@@ -369,9 +361,17 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Kolkata</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Dhurwa Ranchi to Kolkata, West Bengal.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct interstate moving linking Dhurwa to Kolkata via GT Road.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-kolkata.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Kolkata Shifting Services →
+          </a>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa to Patna</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Dhurwa Ranchi to Patna, Bihar.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-patna.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Patna Shifting Services →
           </a>
         </div>
       </div>
@@ -389,7 +389,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        HEC officers, government executives, bank managers, defense personnel, and business owners residing in Dhurwa get 100% compliant reimbursement documentation:
+        Government officers, Secretariat staff, PSU engineers, defense personnel, and bank managers residing in Dhurwa get 100% compliant reimbursement documentation:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
@@ -496,9 +496,9 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Dhurwa?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for government moves in Dhurwa?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all government audit departments.
           </p>
         </div>
 

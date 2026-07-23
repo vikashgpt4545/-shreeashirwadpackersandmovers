@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Deepatoli Ranchi | 8409531615";
-$page_desc = "Packers and Movers Deepatoli Ranchi offering safe household shifting, home relocation, bike & car transport near Deepatoli Cantt & Booty More. Call 8409531615.";
-$page_keywords = "packers and movers deepatoli ranchi, packers and movers in deepatoli ranchi, best packers and movers in deepatoli ranchi, cheap packers and movers deepatoli ranchi, household shifting in deepatoli ranchi, home relocation services deepatoli ranchi, office shifting in deepatoli ranchi, bike transport deepatoli ranchi, car transport service deepatoli ranchi, packers and movers deepatoli cantt, movers and packers booty more ranchi, packers and movers ranchi charges, movers and packers deepatoli contact number, safe packing and moving deepatoli, iba approved packers and movers ranchi, local packers and movers deepatoli ranchi, furniture shifting in deepatoli, house relocation in deepatoli ranchi, luggage transport service deepatoli";
+$page_title = "Packers and Movers Khelgaon Ranchi | 8409531615";
+$page_desc = "Packers and Movers Khelgaon Ranchi offering safe household shifting, home relocation, bike & car transport near Khelgaon Housing Complex, Kokar & Booty More. Call 8409531615.";
+$page_keywords = "packers and movers khelgaon ranchi, packers and movers in khelgaon ranchi, best packers and movers in khelgaon ranchi, cheap packers and movers khelgaon ranchi, household shifting in khelgaon ranchi, home relocation services khelgaon ranchi, office shifting in khelgaon ranchi, bike transport khelgaon ranchi, car transport service khelgaon ranchi, packers and movers khelgaon housing complex, movers and packers kokar ranchi, packers and movers ranchi charges, movers and packers khelgaon contact number, safe packing and moving khelgaon, iba approved packers and movers ranchi, local packers and movers khelgaon ranchi, furniture shifting in khelgaon, house relocation in khelgaon ranchi, luggage transport service khelgaon";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -18,26 +18,26 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            IBA Approved Relocation Experts in Deepatoli
+            IBA Approved Relocation Experts in Khelgaon
           </span>
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Packers and Movers Deepatoli Ranchi</span>
+            Professional <span style="color: #f59e0b;">Packers and Movers Khelgaon Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Looking for reliable, affordable, and zero-damage <strong>packers and movers deepatoli ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, home relocation, office moving, vehicle transport, and warehousing across Deepatoli, Cantt area, Booty More expressway junction, Khelgaon link, and surrounding Ranchi localities.
+            Looking for reliable, affordable, and zero-damage <strong>packers and movers khelgaon ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, apartment moving in Khelgaon Housing Complex, office relocation, vehicle transport, and warehousing across Khelgaon, Kokar, Deepatoli, Booty More, and surrounding Ranchi localities.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               📞 Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20services%20in%20Deepatoli%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20services%20in%20Khelgaon%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">2,150+</strong> Deepatoli Shifting Moves</span>
+            <span><strong style="color: #f59e0b;">3,140+</strong> Khelgaon Shifting Moves</span>
             <span><strong style="color: #f59e0b;">15+ Years</strong> Experience</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
@@ -45,7 +45,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Deepatoli Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Khelgaon Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -56,7 +56,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" placeholder="Moving From (e.g. Deepatoli)" value="Deepatoli Ranchi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" placeholder="Moving From (e.g. Khelgaon)" value="Khelgaon Ranchi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City / Locality)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 16px;">
@@ -77,8 +77,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">2,150+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Deepatoli Home &amp; Office Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">3,140+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Khelgaon Home &amp; Office Moves</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">15+</div>
@@ -101,9 +101,9 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       
       <div style="max-width: 950px; margin: 0 auto;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Deepatoli Relocation Guide</span>
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Khelgaon Relocation Guide</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-          Why Hire Premier <span style="color: #f59e0b;">Packers and Movers in Deepatoli Ranchi</span>?
+          Why Hire Premier <span style="color: #f59e0b;">Packers and Movers in Khelgaon Ranchi</span>?
         </h2>
 
         <!-- 6 Cards Grid (3x2 Layout) -->
@@ -111,19 +111,19 @@ require_once __DIR__ . '/../includes/header.php';
           
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏡</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Deepatoli Cantt Sector</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏢</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Khelgaon Housing Complex</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Deepatoli houses major military quarters and residential enclaves near Booty More. Relocating defense and civilian families requires <strong>packers and movers deepatoli ranchi</strong>.
+              Khelgaon features high-rise residential towers and sports complex quarters. Moving here requires expert <strong>packers and movers khelgaon ranchi</strong> equipped for elevator &amp; high-floor handling.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛣️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Booty More &amp; NH-33 Access</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Booty More &amp; Ring Road Link</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Adjacent to Booty More and NH-33, Deepatoli enables fast container dispatch to Hazaribagh, Bokaro, Dhanbad, and Patna.
+              Directly connected to Booty More, NH-33, and Ranchi Ring Road, Khelgaon provides quick arterial road logistics across the capital city.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for defense personnel, army officers, government staff, and corporate managers.
+              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for corporate personnel, defense staff, bank employees, and business owners.
             </p>
           </div>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes connecting Deepatoli directly to Booty More, Khelgaon, Lowadih, and NH-33 with GPS tracking.
+              Our weatherproof container trucks operate smooth transit routes connecting Khelgaon directly to Kokar, Deepatoli, Lalpur, and Ormanjhi with GPS tracking.
             </p>
           </div>
 
@@ -177,37 +177,37 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 50px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Specialized Offerings</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Comprehensive Solutions by Top <span style="color: #f59e0b;">Packers and Movers Deepatoli Ranchi</span>
+          Comprehensive Solutions by Top <span style="color: #f59e0b;">Packers and Movers Khelgaon Ranchi</span>
         </h2>
       </div>
 
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Deepatoli</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Khelgaon</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our core service includes <strong>household shifting in deepatoli ranchi</strong> and <strong>home relocation services deepatoli ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
+            Our core service includes <strong>household shifting in khelgaon ranchi</strong> and <strong>home relocation services khelgaon ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Defence Shifting</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Office Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide specialized <strong>office shifting in deepatoli ranchi</strong> for defense quarters, offices, and commercial establishments in Deepatoli.
+            We provide specialized <strong>office shifting in khelgaon ranchi</strong> for sports academies, offices, and commercial establishments in Khelgaon.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Deepatoli</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Khelgaon</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Our <strong>bike transport deepatoli ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during transit.
+            Our <strong>bike transport khelgaon ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during transit.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Deepatoli</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Khelgaon</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our <strong>car transport service deepatoli ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
+            Our <strong>car transport service khelgaon ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
           </p>
         </div>
 
@@ -236,11 +236,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        7-Layer Material Protection for <span style="color: #f59e0b;">Safe Packing and Moving Deepatoli</span>
+        7-Layer Material Protection for <span style="color: #f59e0b;">Safe Packing and Moving Khelgaon</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px; line-height: 1.8;">
-        As leaders in <strong>safe packing and moving deepatoli</strong>, we wrap every item with 7 layers of shock protection:
+        As leaders in <strong>safe packing and moving khelgaon</strong>, we wrap every item with 7 layers of shock protection:
       </p>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 35px;">
@@ -277,17 +277,17 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 6: Deepatoli Neighborhood Coverage (Internal Link Grid 1 - 4 Links) -->
+  <!-- Section 6: Khelgaon Neighborhood Coverage (Internal Link Grid 1 - 4 Links) -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Hyper-Local Network</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Serving Deepatoli &amp; Surrounding <span style="color: #f59e0b;">Ranchi Sectors</span>
+        Serving Khelgaon &amp; Surrounding <span style="color: #f59e0b;">Ranchi Sectors</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        As established <strong>local packers and movers deepatoli ranchi</strong>, we provide active door-to-door shifting in Deepatoli, Booty More, Khelgaon, Kokar, and Ranchi City.
+        As established <strong>local packers and movers khelgaon ranchi</strong>, we provide active door-to-door shifting in Khelgaon, Kokar, Booty More, Deepatoli, and Ranchi City.
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
@@ -301,26 +301,26 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Booty More Highway Junction</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Deepatoli and Booty More.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Kokar Commercial Hub</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Khelgaon and Kokar.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-kokar-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Kokar Ranchi →
+          </a>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Booty More Junction</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Khelgaon to Booty More.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-booty-more-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Booty More Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Khelgaon Housing Society</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Deepatoli to Khelgaon.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-khelgaon-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Khelgaon Ranchi →
-          </a>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bariatu Medical Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Deepatoli to Bariatu.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-bariatu-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Bariatu Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Lalpur Commercial Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Khelgaon to Lalpur.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-lalpur-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Lalpur Ranchi →
           </a>
         </div>
       </div>
@@ -328,48 +328,48 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 7: Intercity Express Routes from Deepatoli (Internal Link Grid 2 - 4 Links) -->
+  <!-- Section 7: Intercity Express Routes from Khelgaon (Internal Link Grid 2 - 4 Links) -->
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Long-Distance Express Logistics</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Intercity Relocation from <span style="color: #f59e0b;">Deepatoli Ranchi</span>
+        Intercity Relocation from <span style="color: #f59e0b;">Khelgaon Ranchi</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Relocating from Deepatoli to major industrial centers is seamless via Booty More, NH-33, and GT Road:
+        Relocating from Khelgaon to major industrial centers is seamless via Ring Road, NH-33, and GT Road:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Deepatoli to Hazaribagh</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct NH-33 daily container trips linking Deepatoli to Hazaribagh.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-hazaribagh.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Hazaribagh Shifting Services →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Khelgaon to Jamshedpur</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct NH-33 daily container trips linking Khelgaon to Jamshedpur.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-jamshedpur.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Jamshedpur Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Deepatoli to Bokaro</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Deepatoli to Bokaro Steel City.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-bokaro.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Bokaro Shifting Services →
-          </a>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Deepatoli to Dhanbad</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct industrial moving linking Deepatoli to Coal Capital Dhanbad.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Khelgaon to Dhanbad</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Punctual household moving connecting Khelgaon to Dhanbad &amp; Bokaro.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-dhanbad.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Dhanbad Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Deepatoli to Patna</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Deepatoli Ranchi to Patna, Bihar.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Khelgaon to Kolkata</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct interstate moving linking Khelgaon to Kolkata via GT Road.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-kolkata.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Kolkata Shifting Services →
+          </a>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Khelgaon to Patna</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate relocation connecting Khelgaon Ranchi to Patna, Bihar.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-patna.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Patna Shifting Services →
           </a>
@@ -385,11 +385,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Corporate &amp; Official Documentation</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        IBA Approved GST Billing Compliance in Deepatoli
+        IBA Approved GST Billing Compliance in Khelgaon
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Defense personnel, army officers, corporate executives, government officers, bank managers, and business owners residing in Deepatoli get 100% compliant reimbursement documentation:
+        Corporate executives, government officers, bank managers, defense personnel, and business owners residing in Khelgaon get 100% compliant reimbursement documentation:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
@@ -414,7 +414,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Structured Workflow</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          How Our Shifting Execution Works in <span style="color: #f59e0b;">Deepatoli</span>
+          How Our Shifting Execution Works in <span style="color: #f59e0b;">Khelgaon</span>
         </h2>
       </div>
 
@@ -425,7 +425,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Initial Phone / WhatsApp Survey</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Call our <strong>movers and packers deepatoli contact number</strong> at <strong><?php echo SITE_PHONE; ?></strong> or send us your shifting details on WhatsApp.
+              Call our <strong>movers and packers khelgaon contact number</strong> at <strong><?php echo SITE_PHONE; ?></strong> or send us your shifting details on WhatsApp.
             </p>
           </div>
         </div>
@@ -443,7 +443,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">03</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging at Deepatoli</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging at Khelgaon</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
               Our uniformed crew arrives punctually with heavy bubble wrap, foam corner guards, corrugated boxes, and wooden crates.
             </p>
@@ -482,28 +482,28 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Packers and Movers Deepatoli Ranchi</span>
+          Frequently Asked Questions About <span style="color: #f59e0b;">Packers and Movers Khelgaon Ranchi</span>
         </h2>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 16px;">
         
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers deepatoli ranchi charges calculated?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers khelgaon ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Deepatoli?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Khelgaon?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Deepatoli?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Khelgaon?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
           </p>
@@ -524,21 +524,21 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you transport cars and bikes safely from Deepatoli?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you transport cars and bikes safely from Khelgaon?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping across India.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for relocation from Deepatoli?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for relocation from Khelgaon?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during long-distance transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Deepatoli homes?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Khelgaon homes?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.
           </p>
@@ -552,7 +552,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in deepatoli ranchi?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in khelgaon ranchi?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             You can call or WhatsApp our official Helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
           </p>
@@ -568,22 +568,22 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 900px; text-align: center;">
       
       <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-        Book Deepatoli's Top Rated Movers
+        Book Khelgaon's Top Rated Movers
       </span>
 
       <h2 style="font-size: 2.3rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
-        Ready to Move with <span style="color: #f59e0b;">Packers and Movers Deepatoli Ranchi</span>?
+        Ready to Move with <span style="color: #f59e0b;">Packers and Movers Khelgaon Ranchi</span>?
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or office shifting in Deepatoli.
+        Contact our Ranchi Head Office at Anandpuri Chowk, Harmu Road today for a quick custom estimate and enjoy smooth, stress-free household or office shifting in Khelgaon.
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
           📞 Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20in%20Deepatoli%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20in%20Khelgaon%20Ranchi." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           💬 Chat on WhatsApp
         </a>
         <a href="<?php echo SITE_URL; ?>pages/contact.php" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">

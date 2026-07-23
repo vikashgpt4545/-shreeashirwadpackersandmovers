@@ -121,17 +121,8 @@ Every landing page (Jharkhand Local, Intercity Routes, and Blog Articles) will f
 | 43 | `/packers-and-movers-rampura-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
 | 44 | `/packers-and-movers-bhurkunda-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
 | 45 | `/packers-and-movers-khelgaon-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
-| 46 | `/packers-and-movers-deepatoli-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
-| 47 | `/packers-and-movers-hotwar-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
-| 48 | `/packers-and-movers-gotedhar-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
-| 49 | `/packers-and-movers-dhurwa-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
-| 50 | `/packers-and-movers-tupudana-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
-| 51 | `/packers-and-movers-overbridge-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
-| 52 | `/packers-and-movers-ranchi-to-jamshedpur` | Jharkhand Inter-District Route | 2,000+ | ✅ Completed |
-| 53 | `/packers-and-movers-ranchi-to-dhanbad` | Jharkhand Inter-District Route | 2,000+ | ✅ Completed |
-| 54 | `/packers-and-movers-ranchi-to-bokaro` | Jharkhand Inter-District Route | 2,000+ | ✅ Completed |
-| 55 | `/packers-and-movers-ranchi-to-hazaribagh` | Jharkhand Inter-District Route | 2,000+ | ✅ Completed |
-| 56-101 | `/packers-and-movers-ranchi-to-[jharkhand-city]` | Jharkhand Inter-District Pages (46) | 2,000+ | Pending |
+| 46-51 | `/packers-and-movers-[locality]-ranchi` | Ranchi Local Area Pages (6) | 2,000+ | Pending |
+| 52-101 | `/packers-and-movers-ranchi-to-[jharkhand-city]` | Jharkhand Inter-District Pages (50) | 2,000+ | Pending |
 | 102-180 | `/packers-and-movers-ranchi-to-[city]` | Interstate / Intercity Pages (79) | 2,000+ | Pending |
 | 181-200 | `/blog/[article-slug]` | SEO Blog Articles (20) | 2,000+ | Pending |
 
