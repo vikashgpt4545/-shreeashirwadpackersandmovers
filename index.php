@@ -404,6 +404,80 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 5: 4-STEP SIMPLE RELOCATION PROCESS
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="process-section" id="how-it-works">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">Simple & Hassle-Free Journey</span>
+        <h2 class="section-title">
+          How Shifting Works with Top <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          Relocating with Shree Ashirwad is fast and straightforward. Follow our simple 4-step moving timeline designed by expert <strong>packers and movers in ranchi</strong> to ensure an effortless shifting experience from pickup to final unboxing.
+        </p>
+      </div>
+
+      <!-- Process Steps Grid -->
+      <div class="process-grid">
+        
+        <!-- Step 1 -->
+        <div class="process-card">
+          <div class="step-number-badge">01</div>
+          <div class="process-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+          </div>
+          <h3 class="process-title">Book & Get Instant Estimate</h3>
+          <p class="process-desc">
+            Submit your moving details via website form or WhatsApp call. Our team of <strong>packers and movers in ranchi</strong> calculates a clear, transparent shifting estimate right away.
+          </p>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="process-card">
+          <div class="step-number-badge">02</div>
+          <div class="process-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/></svg>
+          </div>
+          <h3 class="process-title">Multi-Layer Safe Packing</h3>
+          <p class="process-desc">
+            On moving day, our professional packing crew arrives with premium bubble wrap, corrugated boxes, and foam sheets to protect all household items carefully.
+          </p>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="process-card">
+          <div class="step-number-badge">03</div>
+          <div class="process-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zM6 18.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm13.5-9l1.96 2.5H17V9.5h2.5zm-1 9c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg>
+          </div>
+          <h3 class="process-title">Safe Loading & Transit</h3>
+          <p class="process-desc">
+            Packed goods are loaded securely into enclosed container trucks. As trusted <strong>packers and movers in ranchi</strong>, we track vehicle transit via live satellite GPS.
+          </p>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="process-card">
+          <div class="step-number-badge">04</div>
+          <div class="process-icon-box">
+            <svg width="26" height="26" fill="currentColor" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+          </div>
+          <h3 class="process-title">Unloading & Final Setup</h3>
+          <p class="process-desc">
+            At your destination, our staff unloads, unboxes, and reassembles furniture in your designated rooms to complete a 100% successful move.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>
