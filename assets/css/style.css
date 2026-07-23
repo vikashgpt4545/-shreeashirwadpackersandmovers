@@ -982,6 +982,137 @@ ul {
 }
 
 /* ==========================================================================
+   Section 11: Frequently Asked Questions (FAQ) Accordion Grid
+   ========================================================================== */
+.faq-section {
+  position: relative;
+  padding: 70px 0;
+  background: #0b132b;
+  color: var(--white);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  overflow: hidden;
+}
+
+.faq-section::before {
+  content: '';
+  position: absolute;
+  top: 15%;
+  right: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.faq-section::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(211, 47, 47, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.faq-grid {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+  z-index: 2;
+}
+
+.faq-item {
+  background: linear-gradient(145deg, #162247 0%, #0e1733 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.25);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  transition: var(--transition);
+}
+
+.faq-item[open] {
+  border-color: var(--brand-yellow);
+  box-shadow: 0 10px 28px rgba(245, 158, 11, 0.25);
+}
+
+.faq-summary {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.08rem;
+  font-weight: 600;
+  color: #ffffff;
+  padding: 20px 24px;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  user-select: none;
+  transition: var(--transition);
+}
+
+.faq-summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-summary:hover {
+  color: var(--brand-yellow);
+  background: rgba(245, 158, 11, 0.06);
+}
+
+.faq-icon-toggle {
+  width: 30px;
+  height: 30px;
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--brand-yellow);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: transform 0.3s ease;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.faq-item[open] .faq-icon-toggle {
+  transform: rotate(180deg);
+  background: var(--brand-yellow);
+  color: #0b132b;
+}
+
+.faq-answer {
+  padding: 0 24px 22px 24px;
+  font-size: 0.93rem;
+  color: #cbd5e1;
+  line-height: 1.7;
+  border-top: 1px dashed rgba(245, 158, 11, 0.15);
+  margin-top: 4px;
+  padding-top: 16px;
+}
+
+@media (max-width: 768px) {
+  .faq-section {
+    padding: 45px 0;
+  }
+
+  .faq-summary {
+    font-size: 0.98rem;
+    padding: 16px 18px;
+  }
+
+  .faq-answer {
+    padding: 0 18px 18px 18px;
+    font-size: 0.88rem;
+  }
+}
+
+/* ==========================================================================
    Section 10: Moving Tips, Relocation Guides & Blog
    ========================================================================== */
 .tips-section {

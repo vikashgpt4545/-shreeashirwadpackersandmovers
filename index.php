@@ -928,6 +928,110 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 11: FREQUENTLY ASKED QUESTIONS (FAQ) ACCORDION
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="faq-section" id="faqs">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">Got Questions? We Have Answers</span>
+        <h2 class="section-title">
+          Frequently Asked Questions About <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          Find fast, reliable answers to common queries regarding pre-move surveys, packing quality, pricing transparency, and insurance coverage provided by our <strong>packers and movers in ranchi</strong>.
+        </p>
+      </div>
+
+      <!-- FAQ Accordion List -->
+      <div class="faq-grid">
+        
+        <!-- Q1 -->
+        <details class="faq-item" open>
+          <summary class="faq-summary">
+            <span>How far in advance should I book packers and movers in ranchi?</span>
+            <div class="faq-icon-toggle">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>
+            </div>
+          </summary>
+          <div class="faq-answer">
+            It is recommended to book your move 2 to 4 days prior to your preferred shifting date for local moves in Ranchi. For long-distance intercity relocation from Ranchi to major metro cities, booking 5 to 7 days in advance ensures seamless schedule reservation and container truck allocation by our <strong>packers and movers in ranchi</strong>.
+          </div>
+        </details>
+
+        <!-- Q2 -->
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span>How do packers and movers in ranchi ensure safety during rainy season shifting?</span>
+            <div class="faq-icon-toggle">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>
+            </div>
+          </summary>
+          <div class="faq-answer">
+            During monsoon relocations, our professional <strong>packers and movers in ranchi</strong> apply high-density waterproof stretch plastic wraps around cardboard boxes, use heavy-duty tarpaulins, and dispatch 100% weatherproof, fully-enclosed container trucks to guard your goods against rain and moisture.
+          </div>
+        </details>
+
+        <!-- Q3 -->
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span>Are there any hidden costs or extra taxes in the shifting quote provided by packers and movers in ranchi?</span>
+            <div class="faq-icon-toggle">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>
+            </div>
+          </summary>
+          <div class="faq-answer">
+            No. At Shree Ashirwad, we provide transparent, all-inclusive quotations covering packing materials, labor, loading, transportation, unloading, and GST taxes. As honest <strong>packers and movers in ranchi</strong>, we guarantee zero hidden charges or moving-day price surprises.
+          </div>
+        </details>
+
+        <!-- Q4 -->
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span>Do packers and movers in ranchi provide IBA-approved bills for corporate reimbursement?</span>
+            <div class="faq-icon-toggle">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>
+            </div>
+          </summary>
+          <div class="faq-answer">
+            Yes. We provide official GST invoice documentation, consignment notes (LR copy), itemized packing lists, and valid IBA-approved bills. Bank employees and corporate executives moving to or from Ranchi can claim 100% shifting allowance effortlessly with bills from our <strong>packers and movers in ranchi</strong>.
+          </div>
+        </details>
+
+        <!-- Q5 -->
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span>How are fragile items like glassware, LED TVs, and artwork packed by packers and movers in ranchi?</span>
+            <div class="faq-icon-toggle">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>
+            </div>
+          </summary>
+          <div class="faq-answer">
+            Delicate items are protected with multi-layer bubble wrap, foam corner guards, and high-density corrugated sheets. Large flat-screen TVs and antique art pieces are placed in custom-built wooden crates for maximum shock absorption by our expert <strong>packers and movers in ranchi</strong>.
+          </div>
+        </details>
+
+        <!-- Q6 -->
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span>Can packers and movers in ranchi transport my car or bike along with household goods?</span>
+            <div class="faq-icon-toggle">
+              <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>
+            </div>
+          </summary>
+          <div class="faq-answer">
+            Yes. We offer combined household goods and vehicle transportation services. Motorcycles are secured in dedicated wheel-lock bike containers, while cars are transported in covered hydraulic car trailers by our <strong>packers and movers in ranchi</strong>.
+          </div>
+        </details>
+
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>
