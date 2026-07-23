@@ -33,6 +33,7 @@ require_once __DIR__ . '/config.php';
           <div class="footer-links">
             <a href="./">Home</a>
             <a href="about.php">About Us</a>
+            <a href="gallery.php">Gallery</a>
             <a href="contact.php">Contact Us</a>
           </div>
         </div>
