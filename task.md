@@ -104,7 +104,19 @@ Every landing page (Jharkhand Local, Intercity Routes, and Blog Articles) will f
 | 25 | `/packers-and-movers-bundu-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,746 words) |
 | 26 | `/packers-and-movers-ormanjhi-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,754 words) |
 | 27 | `/packers-and-movers-mesra-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,761 words) |
-| 28-51 | `/packers-and-movers-[locality]-ranchi` | Ranchi Local Area Pages (24) | 2,000+ | Pending |
+| 28 | `/packers-and-movers-tatisilwai-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,780 words) |
+| 29 | `/packers-and-movers-bharmu-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed (4,765 words) |
+| 31 | `/packers-and-movers-kadru-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 32 | `/packers-and-movers-pundag-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 33 | `/packers-and-movers-kathal-more-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 34 | `/packers-and-movers-itki-road-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 35 | `/packers-and-movers-muri-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 36 | `/packers-and-movers-khunti-road-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 37 | `/packers-and-movers-dharampur-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 38 | `/packers-and-movers-gondlipokhar-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 39 | `/packers-and-movers-hehal-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 40 | `/packers-and-movers-pandra-ranchi` | Ranchi Local Area Page | 2,000+ | ✅ Completed |
+| 41-51 | `/packers-and-movers-[locality]-ranchi` | Ranchi Local Area Pages (11) | 2,000+ | Pending |
 | 52-101 | `/packers-and-movers-ranchi-to-[jharkhand-city]` | Jharkhand Inter-District Pages (50) | 2,000+ | Pending |
 | 102-180 | `/packers-and-movers-ranchi-to-[city]` | Interstate / Intercity Pages (79) | 2,000+ | Pending |
 | 181-200 | `/blog/[article-slug]` | SEO Blog Articles (20) | 2,000+ | Pending |

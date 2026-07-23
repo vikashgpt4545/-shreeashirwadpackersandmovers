@@ -2,8 +2,8 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Birsa Chowk Ranchi | 8409531615";
-$page_desc = "Packers and Movers Birsa Chowk Ranchi offering safe household shifting, airport corridor relocation, bike & car transport near Birsa Chowk, Hinoo & Hatia link. Call 8409531615.";
-$page_keywords = "packers and movers birsa chowk ranchi, packers and movers in birsa chowk ranchi, best packers and movers in birsa chowk ranchi, cheap packers and movers birsa chowk ranchi, household shifting in birsa chowk ranchi, home relocation services birsa chowk ranchi, office shifting in birsa chowk ranchi, bike transport birsa chowk ranchi, car transport service birsa chowk ranchi, packers and movers birsa chowk, movers and packers hinoo ranchi, packers and movers ranchi charges, movers and packers birsa chowk contact number, safe packing and moving birsa chowk, iba approved packers and movers ranchi, local packers and movers birsa chowk ranchi, furniture shifting in birsa chowk, house relocation in birsa chowk ranchi, luggage transport service birsa chowk";
+$page_desc = "Packers and Movers Birsa Chowk Ranchi offering safe household shifting, airport proximity relocation, bike & car transport near Birsa Chowk, HEC & Airport Road. Call 8409531615.";
+$page_keywords = "packers and movers birsa chowk ranchi, packers and movers in birsa chowk ranchi, best packers and movers in birsa chowk ranchi, cheap packers and movers birsa chowk ranchi, household shifting in birsa chowk ranchi, home relocation services birsa chowk ranchi, office shifting in birsa chowk ranchi, bike transport birsa chowk ranchi, car transport service birsa chowk ranchi, packers and movers birsa chowk road, movers and packers airport road ranchi, packers and movers ranchi charges, movers and packers birsa chowk contact number, safe packing and moving birsa chowk, iba approved packers and movers ranchi, local packers and movers birsa chowk ranchi, furniture shifting in birsa chowk, house relocation in birsa chowk ranchi, luggage transport service birsa chowk";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Packers and Movers Birsa Chowk Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Looking for reliable, affordable, and zero-damage <strong>packers and movers birsa chowk ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, Airport corridor relocation, office moving, vehicle transport, and warehousing across Birsa Chowk, Hinoo link, Hatia Road, Khunti Road junction, and surrounding Ranchi sectors.
+            Looking for reliable, affordable, and zero-damage <strong>packers and movers birsa chowk ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated household shifting, Airport Road relocation, HEC quarter moving, vehicle transport, and warehousing across Birsa Chowk, Khunti Road corridor, Dhurwa link, Hatia station proximity, and surrounding Ranchi localities.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -37,7 +37,7 @@ require_once __DIR__ . '/../includes/header.php';
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">3,400+</strong> Birsa Chowk Moves</span>
+            <span><strong style="color: #f59e0b;">3,980+</strong> Birsa Chowk Shifting Moves</span>
             <span><strong style="color: #f59e0b;">15+ Years</strong> Experience</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
@@ -60,7 +60,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City / Locality)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 16px;">
-              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. 3BHK Flat, Office Goods, Bike)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. 3BHK Quarter, Office Setup, Car/Bike)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
             <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
               Get Quote on WhatsApp
@@ -77,7 +77,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">3,400+</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">3,980+</div>
           <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Birsa Chowk Home &amp; Office Moves</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
@@ -112,18 +112,18 @@ require_once __DIR__ . '/../includes/header.php';
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">✈️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Airport Corridor Hub</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Airport Road &amp; Gateway Junction</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Birsa Chowk connects Birsa Munda Airport with Hatia and Khunti highway. Relocating near this prime junction requires expert <strong>packers and movers birsa chowk ranchi</strong>.
+              Birsa Chowk is Ranchi's central airport gate. Moving quarters and corporate offices along Airport Road requires fast <strong>packers and movers birsa chowk ranchi</strong>.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏙️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Hinoo &amp; Hatia Link Corridor</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏢</div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">HEC Quarter &amp; Government Colony</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              From Birsa Chowk multi-storey apartments to local commercial complexes, our crew handles heavy wooden furniture, appliances, and retail stock with complete care.
+              From HEC residential quarters to Dhurwa apartments, our crew handles large household inventories with heavy furniture and electronics safely.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for airport personnel, government officers, defense staff, and bank managers.
+              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for central government employees, PSU officers, defense staff, and bank managers.
             </p>
           </div>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes connecting Birsa Chowk directly to Ring Road, NH-33, and Tupudana with satellite GPS tracking.
+              Our weatherproof container trucks operate smooth transit routes connecting Birsa Chowk directly to Khunti Road, Hatia, Hinoo, and Ring Road with GPS tracking.
             </p>
           </div>
 
@@ -191,9 +191,9 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Commercial &amp; Airport Office Shifting</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. PSU &amp; Government Office Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide specialized <strong>office shifting in birsa chowk ranchi</strong> for corporate offices, commercial shops, and airport offices near Birsa Chowk.
+            We provide specialized <strong>office shifting in birsa chowk ranchi</strong> for PSU offices, government quarters, and commercial units near Birsa Chowk.
           </p>
         </div>
 
@@ -214,14 +214,14 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Wooden Crate &amp; Heavy Goods Packing</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            For Smart TVs, glass tops, heavy safes, and refrigerators, we build custom wooden crates on-site to absorb heavy road shocks.
+            For Smart TVs, glass tops, heavy safes, and commercial display units, we build custom wooden crates on-site to absorb heavy road shocks.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Warehouse &amp; Storage Solutions</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our clean, CCTV-monitored warehouse facilities provide moisture-proof short-term and long-term storage lockers for household goods in Birsa Chowk.
+            Our clean, CCTV-monitored warehouse facilities provide moisture-proof short-term and long-term storage lockers for household and commercial goods.
           </p>
         </div>
 
@@ -287,7 +287,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        As established <strong>local packers and movers birsa chowk ranchi</strong>, we provide active door-to-door shifting in Birsa Chowk, Hinoo, Hatia, Singh More, and Doranda.
+        As established <strong>local packers and movers birsa chowk ranchi</strong>, we provide active door-to-door shifting in Birsa Chowk, Hinoo, Dhurwa, Pundag, and Ranchi City.
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
@@ -301,26 +301,26 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hinoo Airport Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Birsa Chowk and Hinoo Chowk.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hinoo Airport Gate Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct shifting connectivity between Birsa Chowk and Hinoo.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hinoo-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Hinoo Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hatia Railway Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting between Birsa Chowk and Hatia Railway Colony.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-hatia-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Hatia Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhurwa HEC Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast local shifting connecting Birsa Chowk to Dhurwa.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-dhurwa-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Dhurwa Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Singh More Residential Area</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Birsa Chowk to Singh More.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-singh-more-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Singh More Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Pundag Residential Zone</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable packing &amp; loading connecting Birsa Chowk to Pundag.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-pundag-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers and Movers Pundag Ranchi →
           </a>
         </div>
       </div>
@@ -338,7 +338,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Relocating from Birsa Chowk to major industrial centers is seamless via Ring Road, NH-33, and GT Road:
+        Relocating from Birsa Chowk to major industrial centers is seamless via Khunti Road, NH-33, and Ring Road:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
@@ -389,7 +389,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Corporate executives, airport staff, government employees, defense officers, and bank managers residing in Birsa Chowk get 100% compliant reimbursement documentation:
+        PSU engineers, central government officers, airport personnel, defense staff, and bank managers residing in Birsa Chowk get 100% compliant reimbursement documentation:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
@@ -491,14 +491,14 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers birsa chowk ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, elevator access, and transit distance.
+            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for corporate &amp; official moves in Birsa Chowk?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Birsa Chowk?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
           </p>
         </div>
 
@@ -510,7 +510,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect expensive furniture during transit?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect home furniture and electronics during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
           </p>
