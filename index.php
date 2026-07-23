@@ -178,6 +178,146 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </section>
 
+  <!-- ==========================================================================
+       SECTION 3: COMPREHENSIVE RELOCATION SERVICES
+       Keyword Integration: packers and movers in ranchi
+       ========================================================================== -->
+  <section class="services-section" id="services">
+    <div class="container">
+      
+      <!-- Section Header -->
+      <div class="section-header text-center">
+        <span class="section-tag">End-to-End Relocation Solutions</span>
+        <h2 class="section-title">
+          Professional Shifting Services by Top <span class="text-gradient">Packers and Movers in Ranchi</span>
+        </h2>
+        <p class="section-description">
+          Whether you are moving your home within Ranchi or relocating your corporate office to another state, our certified <strong>packers and movers in ranchi</strong> deliver seamless, stress-free shifting backed by 100% damage-proof packaging and trained logistics personnel.
+        </p>
+      </div>
+
+      <!-- Services Grid -->
+      <div class="services-grid">
+        
+        <!-- Service 1: Household Shifting -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+          </div>
+          <h3 class="service-title">Household Goods Shifting</h3>
+          <p class="service-desc">
+            Complete home relocation services across Ranchi. Our expert <strong>packers and movers in ranchi</strong> disassemble heavy beds, pack kitchen glassware safely in sturdy boxes, wrap sofas in bubble film, and transport everything securely.
+          </p>
+          <ul class="service-features-list">
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Multi-layer bubble wrapping & foam sheets</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Furniture disassembly & re-assembly</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Dedicated enclosed shifting vehicles</li>
+          </ul>
+          <div class="service-card-footer">
+            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Home Shifting</a>
+          </div>
+        </div>
+
+        <!-- Service 2: Office Relocation -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"/></svg>
+          </div>
+          <h3 class="service-title">Office & Commercial Shifting</h3>
+          <p class="service-desc">
+            Fast, zero-downtime corporate relocation for companies in Ranchi. As leading <strong>packers and movers in ranchi</strong>, we safely relocate IT servers, office desks, confidential files, and conference electronics on weekends or off-peak hours.
+          </p>
+          <ul class="service-features-list">
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Tagged box labeling & file inventory</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Anti-static packing for IT hardware</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Weekend & overnight shifting execution</li>
+          </ul>
+          <div class="service-card-footer">
+            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Office Shifting</a>
+          </div>
+        </div>
+
+        <!-- Service 3: Vehicle Transport -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>
+          </div>
+          <h3 class="service-title">Car & Bike Transportation</h3>
+          <p class="service-desc">
+            Safe vehicle carrier services connecting Ranchi to anywhere in India. Our experienced <strong>packers and movers in ranchi</strong> use hydraulic enclosed car trailers and specialized wheel-lock bike containers.
+          </p>
+          <ul class="service-features-list">
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Covered hydraulic car container trailers</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Scratch-free bike foam wrapping & belt locking</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Doorstep vehicle pickup & delivery</li>
+          </ul>
+          <div class="service-card-footer">
+            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Vehicle Transport</a>
+          </div>
+        </div>
+
+        <!-- Service 4: Packing & Unpacking -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/></svg>
+          </div>
+          <h3 class="service-title">Packing & Unpacking Services</h3>
+          <p class="service-desc">
+            Professional packing and unboxing help in Ranchi. Relying on premium materials like heavy-duty cartons, stretch wrap, and wooden crates, our <strong>packers and movers in ranchi</strong> safeguard fragile goods completely.
+          </p>
+          <ul class="service-features-list">
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Custom wooden crating for TV & artwork</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> High-density corrugated boxes & tape</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Post-shifting unpacking & placement support</li>
+          </ul>
+          <div class="service-card-footer">
+            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Packing Service</a>
+          </div>
+        </div>
+
+        <!-- Service 5: Warehouse Storage -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M12 3L2 12h3v8h14v-8h3L12 3zm0 4.5l5 4.5v6H7v-6l5-4.5z"/></svg>
+          </div>
+          <h3 class="service-title">Warehouse & Goods Storage</h3>
+          <p class="service-desc">
+            Secure short-term and long-term storage units in Ranchi. Our <strong>packers and movers in ranchi</strong> offer CCTV-monitored, pest-controlled, and fire-safe warehouse facilities for your household goods and commercial stock.
+          </p>
+          <ul class="service-features-list">
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> 24/7 CCTV surveillance & security guards</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Moisture-proof & pest-controlled storage</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Flexible daily, weekly, or monthly plans</li>
+          </ul>
+          <div class="service-card-footer">
+            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Storage Space</a>
+          </div>
+        </div>
+
+        <!-- Service 6: Intercity Relocation -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zM6 18.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm13.5-9l1.96 2.5H17V9.5h2.5zm-1 9c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg>
+          </div>
+          <h3 class="service-title">Intercity & Domestic Shifting</h3>
+          <p class="service-desc">
+            Smooth intercity shifting from Ranchi to Kolkata, Delhi, Patna, Bangalore, Mumbai, and all major cities. As experienced <strong>packers and movers in ranchi</strong>, we provide transit insurance and GPS vehicle tracking.
+          </p>
+          <ul class="service-features-list">
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Pan-India intercity transport network</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Full transit insurance policy coverage</li>
+            <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Real-time GPS location updates</li>
+          </ul>
+          <div class="service-card-footer">
+            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Intercity Shifting</a>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <script>

@@ -982,6 +982,155 @@ ul {
 }
 
 /* ==========================================================================
+   Section 3: Comprehensive Relocation Services
+   ========================================================================== */
+.services-section {
+  position: relative;
+  padding: 70px 0;
+  background: #0b132b;
+  color: var(--white);
+  border-top: 1px solid rgba(245, 158, 11, 0.15);
+  overflow: hidden;
+}
+
+.services-section::before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  left: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(211, 47, 47, 0.16) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.services-section::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: -10%;
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(0, 0, 0, 0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  position: relative;
+  z-index: 2;
+}
+
+.service-card {
+  background: linear-gradient(145deg, #162247 0%, #0e1733 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.25);
+  border-top: 4px solid var(--brand-red);
+  border-radius: var(--radius-lg);
+  padding: 30px 26px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+
+.service-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 32px rgba(245, 158, 11, 0.25);
+  border-color: var(--brand-yellow);
+  border-top-color: var(--brand-yellow);
+}
+
+.service-icon-box {
+  width: 58px;
+  height: 58px;
+  background: rgba(211, 47, 47, 0.15);
+  color: var(--brand-yellow);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  border: 1.5px solid rgba(245, 158, 11, 0.35);
+  transition: var(--transition);
+}
+
+.service-card:hover .service-icon-box {
+  background: var(--brand-red);
+  color: #ffffff;
+  border-color: var(--brand-red);
+}
+
+.service-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 12px;
+}
+
+.service-desc {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin-bottom: 18px;
+  flex: 1;
+}
+
+.service-features-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 22px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.service-features-list li {
+  font-size: 0.85rem;
+  color: #e2e8f0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.service-features-list li svg {
+  color: var(--brand-yellow);
+  flex-shrink: 0;
+}
+
+.service-card-footer {
+  margin-top: auto;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+@media (max-width: 992px) {
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  .services-section {
+    padding: 45px 0;
+  }
+
+  .services-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .service-card {
+    padding: 24px 20px;
+  }
+}
+
+/* ==========================================================================
    Section 2: Trusted By & Achievement Stats Counter
    ========================================================================== */
 .stats-section {
