@@ -2,7 +2,7 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Ranchi to Gaya | 8409531615";
-$page_desc = "Safe Packers and Movers Ranchi to Gaya Bihar. Professional household shifting, car & bike transport, interstate GT Road transit via NH-33. Call 8409531615.";
+$page_desc = "Safe Packers and Movers Ranchi to Gaya Bihar. Professional household shifting, office relocation, car & bike transport via NH-22. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to gaya, movers and packers ranchi to gaya, ranchi to gaya packers and movers charges, household shifting ranchi to gaya, home relocation ranchi to gaya, bike transport ranchi to gaya, car transport service ranchi to gaya, IBA approved packers and movers ranchi to gaya, best packers and movers ranchi to gaya, cheap packers and movers ranchi to gaya, ranchi to gaya distance shifting time, movers and packers gaya contact number, safe packing and moving ranchi to gaya, furniture shifting ranchi to gaya, luggage transport ranchi to gaya";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -23,8 +23,8 @@ require_once __DIR__ . '/../includes/header.php';
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Reliable <span style="color: #f59e0b;">Packers and Movers Ranchi to Gaya</span>
           </h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Planning intercity household shifting, army / military personnel relocation, or vehicle transportation from Ranchi to Gaya (Bihar Cultural &amp; Educational Hub)? Shree Ashirwad Packers and Movers offers daily express container transit via NH-33 &amp; NH-83 corridors with 7-layer safety packaging, real-time GPS tracking, full transit insurance, and 100% IBA-approved GST bills.
+          <p style="font-size: 1.15rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Planning household shifting, government employee transfer, or vehicle transport from Ranchi to Gaya (Holy City &amp; Central Bihar Hub)? Shree Ashirwad Packers and Movers offers daily express container transit via NH-22 National Highway with 7-layer heavy safety packaging, real-time GPS tracking, full transit insurance coverage, and 100% IBA-approved GST bills for seamless corporate and government claim reimbursements.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -37,8 +37,8 @@ require_once __DIR__ . '/../includes/header.php';
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">2,140+</strong> Ranchi to Gaya Moves</span>
-            <span><strong style="color: #f59e0b;">Express / 4.5 hr</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">2,890+</strong> Ranchi to Gaya Moves</span>
+            <span><strong style="color: #f59e0b;">~230 Km / Same-Day</strong> Delivery</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
         </div>
@@ -77,12 +77,12 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">2,140+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Ranchi to Gaya Relocations</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">2,890+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Ranchi to Gaya Moves</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">225 Km</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">NH-33 / NH-83 Route (4.5 hrs)</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">230 Km</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">NH-22 Highway Corridor (Same Day)</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100%</div>
@@ -105,6 +105,9 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
           Why Choose Us for <span style="color: #f59e0b;">Packers and Movers Ranchi to Gaya</span>?
         </h2>
+        <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+          Relocating intercity across 230 kilometers between Jharkhand and Bihar along NH-22 offers fast same-day or 24-hour turnaround when executed by experienced logistics handlers. Whether you are moving household goods to Civil Lines, AP Colony, or Bodhgaya Road, Shree Ashirwad Packers and Movers guarantees zero damage, professional handling, and transparent pricing.
+        </p>
 
         <!-- 6 Cards Grid (3x2 Layout) -->
         <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
@@ -112,18 +115,18 @@ require_once __DIR__ . '/../includes/header.php';
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Direct Daily Interstate Container Trucks</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Same-Day Express Container Trucks</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We operate daily dedicated sealed container trucks covering 225 km via NH-33 &amp; NH-83 directly to Gaya in 4.5 hours safely.
+              We operate daily dedicated sealed container trucks covering 230 km via NH-22 directly to Gaya Bihar in 5 to 6 hours for same-day delivery.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏙️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Complete Gaya Area Coverage</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Complete Gaya Locality Coverage</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We deliver to AP Colony, Bodh Gaya Road, Civil Lines, Rampur, Railway Station Colony, and OTA Gaya area with door unpacking.
+              We deliver to Civil Lines, AP Colony, Bodhgaya Road, Manpur, Delha, Chandauti, Swarajpuri, Gewalbigha, and Bairagi with door unpacking.
             </p>
           </div>
 
@@ -132,25 +135,25 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Billing</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              100% genuine IBA-approved invoices and Lorry Receipts (LR) for Army Officers (OTA Gaya), Central University professors, and Bank staff.
+              100% genuine IBA-approved invoices, Consignment Notes, and Lorry Receipts (LR) for corporate personnel, government officers, bank managers, and defense staff.
             </p>
           </div>
 
           <!-- Card 4 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Heavy Packaging</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Heavy Packaging Standard</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Multi-layer shock protection combining air-bubble wrap, corrugated sheets, stretch film, edge guards, and custom wooden crating.
+              Multi-layer shock protection combining heavy air-bubble wrap, corrugated board sheets, stretch film, edge guards, and custom wooden crating for delicate items.
             </p>
           </div>
 
           <!-- Card 5 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚗</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed Vehicle Carriers</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed Vehicle Carrier Trucks</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Safe car transport in covered car trailers and bike shifting with padded protection from Ranchi to Gaya.
+              Safe car transport in covered car carriers and bike shifting with multi-layer foam padding from Ranchi directly to Gaya addresses.
             </p>
           </div>
 
@@ -159,11 +162,15 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Carpentry &amp; Assembly Included</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our trained move crew dismantles furniture at Ranchi origin and reassembles every item at your new home in Gaya.
+              Our trained move crew dismantles modular furniture, beds, and wardrobes at Ranchi origin and reassembles every item at your new residence in Gaya.
             </p>
           </div>
 
         </div>
+
+        <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-top: 25px;">
+          Our intercity logistics framework combines computerized inventory logging, dedicated GPS-monitored trucks, seasoned highway drivers, and destination unpacking support. Whether transferring a compact 1BHK apartment, a spacious 3BHK villa, or an office setup, we guarantee punctual delivery with zero damage during transit.
+        </p>
 
       </div>
 
@@ -177,52 +184,85 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 50px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Specialized Intercity Services</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Comprehensive Shifting Solutions from <span style="color: #f59e0b;">Ranchi to Gaya Bihar</span>
+          Comprehensive Shifting Solutions from <span style="color: #f59e0b;">Ranchi to Gaya</span>
         </h2>
+        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 800px; margin: 15px auto 0 auto; line-height: 1.7;">
+          We tailor our moving packages according to your exact volume, budget, timeline, and destination locality requirements in Gaya.
+        </p>
       </div>
 
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Full House Relocation (1BHK/2BHK/3BHK)</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Complete household packing, loading, 4.5-hour interstate container transit via NH-33 &amp; NH-83, unloading, and unpacking in Gaya.
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Full Household Relocation (1BHK / 2BHK / 3BHK)</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
+            Complete end-to-end residential shifting including home survey, room-by-room packing, heavy furniture dismantling, same-day sealed container truck transit via NH-22, destination unloading, unboxing, and room setup in Gaya.
           </p>
+          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
+            <li>Custom bubble wrapping for electronic appliances.</li>
+            <li>Multi-layer corrugated padding for sofa sets &amp; tables.</li>
+            <li>Tagging of fragile kitchenware &amp; china boxes.</li>
+          </ul>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Defence &amp; Officers Relocation</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Specialized shifting for Officers Training Academy (OTA Gaya) personnel, CRPF officers, and Central University staff.
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Government &amp; Official Transfer Relocation</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
+            Specialized shifting packages for government officers, police personnel, judicial officers, and bank staff transferring between Ranchi and Gaya. Includes complete IBA-approved documentation for official claim reimbursements.
           </p>
+          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
+            <li>Priority scheduling to match join dates.</li>
+            <li>Anti-static bubble wrap for desktop workstations &amp; monitors.</li>
+            <li>Itemized consignment invoices for official approval.</li>
+          </ul>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Ranchi to Gaya</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Specialized two-wheeler transport using heavy bubble wrap, paddy straw padding, and wheel chocks for safe interstate delivery.
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Specialized Bike Transport Ranchi to Gaya</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
+            Dedicated two-wheeler transportation service for sports bikes, scooters, and commuter motorcycles. We use thick bubble wrap, corrugated sheets, paddy straw padding, and heavy-duty tie-down belts inside container trucks.
           </p>
+          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
+            <li>Zero scratch guarantee with multi-layer wrap.</li>
+            <li>Doorstep pickup in Ranchi &amp; home delivery in Gaya.</li>
+            <li>Comprehensive vehicle transit insurance.</li>
+          </ul>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Carrier Service Ranchi to Gaya</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Door-to-door car shifting using closed hydraulic vehicle trailers for hatchbacks, sedans, and SUVs.
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Enclosed Car Carrier Service Ranchi to Gaya</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
+            Safe car transport utilizing specialized covered car trailer trucks. Suitable for hatchbacks, luxury sedans, and SUVs traveling the 230 km route between Ranchi and Gaya without adding mileage or risk of road wear.
           </p>
+          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
+            <li>Hydraulic ramp loading with safety wheel clamps.</li>
+            <li>Detailed pre-transit vehicle condition report.</li>
+            <li>GPS tracking during highway transit.</li>
+          </ul>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Part-Load / Luggage Transport</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Cost-effective shared container option for single items, student luggage, or small electronic packages from Ranchi to Gaya.
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Part-Load &amp; Luggage Transport</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
+            Economical shared container service for students, single working professionals, or customers moving partial household goods, single sofas, washing machines, or personal luggage from Ranchi to Gaya at budget-friendly rates.
           </p>
+          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
+            <li>Pay only for the space your goods occupy.</li>
+            <li>Barcoded room tagging to avoid mixed items.</li>
+            <li>Regular shared truck departures every day.</li>
+          </ul>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Warehouse Storage Solutions</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            CCTV-monitored secure storage facilities for temporary holding of goods during home renovation or delayed possession.
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Secure Warehouse Storage Solutions</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
+            Short-term and long-term storage facilities in Ranchi and Gaya equipped with round-the-clock CCTV surveillance, fire protection, and pest control. Ideal for customers undergoing delayed apartment possession or house renovation.
           </p>
+          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
+            <li>Moisture-proof warehouse bays with wooden pallets.</li>
+            <li>Flexible weekly or monthly rental plans.</li>
+            <li>Complete inventory logging upon entry and exit.</li>
+          </ul>
         </div>
 
       </div>
@@ -240,37 +280,37 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px; line-height: 1.8;">
-        Interstate transport across NH-33 &amp; NH-83 requires superior shock protection. We wrap every item with 7 layers:
+        230 km highway transit across state borders requires superior shock protection and weather resistance. Our trained packers apply a rigorous 7-layer wrapping protocol on every item before loading:
       </p>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 35px;">
-        <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 1: Water-Resistant Stretch Film</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Seals furniture against moisture and dust during handling.</p>
+        <div style="background: rgba(23, 42, 84, 0.6); padding: 20px 24px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 6px;">Layer 1: High-Grade Water-Resistant Stretch Film</h4>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">Initial protective wrap sealing wooden, fabric, and leather surfaces against ambient moisture, dust, and humidity during transit.</p>
         </div>
-        <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 2: Air Bubble Wrapping</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Cushions delicate glassware, electronics, and polished wood.</p>
+        <div style="background: rgba(23, 42, 84, 0.6); padding: 20px 24px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 6px;">Layer 2: Heavy-Duty Shock-Absorbing Air Bubble Wrapping</h4>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">Thick bubble wrap surrounding delicate glassware, mirrors, LED Smart TVs, refrigerators, and polished furniture to absorb road vibrations.</p>
         </div>
-        <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 3: Corrugated Board Sheeting</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Forms rigid armor for home appliances and sofa sets.</p>
+        <div style="background: rgba(23, 42, 84, 0.6); padding: 20px 24px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 6px;">Layer 3: Heavy Corrugated Board Sheeting</h4>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">Custom-cut corrugated paper boards wrapped tightly around home appliances, wooden wardrobes, dining tables, and sofa frames for structural shielding.</p>
         </div>
-        <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 4: Foam Corner Protectors</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Prevents corner chipping on wooden and glass furniture.</p>
+        <div style="background: rgba(23, 42, 84, 0.6); padding: 20px 24px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 6px;">Layer 4: High-Density Polyethylene Foam Corner Protectors</h4>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">Specialized L-shaped foam edge guards applied on all sharp corners of glass tables, wooden cabinets, TV units, and picture frames to prevent chipping.</p>
         </div>
-        <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 5: On-Site Wooden Crating</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Custom solid wooden crates for Smart TVs and glass items.</p>
+        <div style="background: rgba(23, 42, 84, 0.6); padding: 20px 24px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 6px;">Layer 5: Customized On-Site Wooden Crating</h4>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">Custom-built solid timber wooden boxes constructed on-site for oversized Smart TVs, marble tabletops, chandeliers, and high-value antique items.</p>
         </div>
-        <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 6: Branded Sealing Tape &amp; Tagging</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Clear room-wise labeling and tamper-evident sealing tape.</p>
+        <div style="background: rgba(23, 42, 84, 0.6); padding: 20px 24px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 6px;">Layer 6: Branded Tamper-Evident Sealing Tape &amp; Color Tagging</h4>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">Heavy industrial tape securing all outer layers combined with room-wise color-coded barcode labels to ensure zero loss or misplacement of boxes.</p>
         </div>
-        <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 7: Internal Truck Wall Belt Anchors</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Locks packed items firmly inside container trucks for interstate transit.</p>
+        <div style="background: rgba(23, 42, 84, 0.6); padding: 20px 24px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 6px;">Layer 7: Internal Container Truck Wall Belt Anchors</h4>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">Industrial nylon webbing belts and ratchet straps locking packed goods firmly against the container truck inner walls to prevent movement during highway transit.</p>
         </div>
       </div>
 
@@ -287,40 +327,40 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        We collect household goods, bikes, and office items from all prominent Ranchi neighborhoods for direct highway transport to Gaya:
+        We collect household goods, bikes, cars, and corporate office items from all prominent residential colonies and commercial hubs across Ranchi for direct highway transport to Gaya:
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Main Ranchi City Headquarters</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Central dispatch and booking office in Ranchi.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Central dispatch office and main booking hub in Ranchi city.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers in Ranchi Main Page →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Booty More Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct exit route on NH-33 north toward Bihar border.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-booty-more-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Booty More Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Kanke Road Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Doorstep packing service along North Ranchi exit corridor toward NH-22 Gaya route.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-kanke-road-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers Movers Kanke Road Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Kankey Road Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Pickup for Kankey and institutional areas.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-kankey-road-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Kankey Road Ranchi →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bariatu Sector</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Pickup service for Bariatu housing colony and hospital zone.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-bariatu-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Explore Packers Movers Bariatu Ranchi →
           </a>
         </div>
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Morabadi Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Pickup for Morabadi educational &amp; residential hub.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct exit route near Morabadi ground for Bihar state highway transit.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-morabadi-ranchi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Explore Packers and Movers Morabadi Ranchi →
+            Explore Packers Movers Morabadi Ranchi →
           </a>
         </div>
       </div>
@@ -332,46 +372,46 @@ require_once __DIR__ . '/../includes/header.php';
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Bihar Interstate Routes</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Interstate Routes</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
         Other Express Routes from <span style="color: #f59e0b;">Ranchi</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        In addition to Gaya, we operate daily dedicated shifting services to major Bihar &amp; GT Road hubs:
+        In addition to Gaya, we operate daily dedicated intercity shifting services to major destinations across Bihar &amp; Northern India:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Patna</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container shifting to Patna capital city.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Daily express container route connecting Ranchi to Patna Bihar.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-patna.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Patna Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Chauparan</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Daily container route connecting Ranchi to Chauparan GT Road.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-chauparan.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Chauparan Shifting Services →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Varanasi</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container shifting connecting Ranchi to Varanasi UP.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-varanasi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Varanasi Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Koderma</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container trips connecting Ranchi to Koderma.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-koderma.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Koderma Shifting Services →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Lucknow</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container route connecting Ranchi to Lucknow UP.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-lucknow.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Lucknow Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Hazaribagh</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct express container moving connecting Ranchi to Hazaribagh.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-hazaribagh.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Hazaribagh Shifting Services →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Muzaffarpur</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct express container relocation connecting Ranchi to Muzaffarpur Bihar.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-muzaffarpur.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Muzaffarpur Shifting Services →
           </a>
         </div>
       </div>
@@ -385,22 +425,22 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Corporate &amp; Official Documentation</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        IBA Approved GST Billing for Ranchi to Gaya Moves
+        IBA Approved GST Billing for Ranchi to Gaya Relocation
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Army officers (OTA Gaya), Central University professors, government transfer officials, and bank employees relocating to Gaya receive complete reimbursement documentation:
+        Government personnel, judicial officers, bank staff, teachers, and defense personnel relocating from Ranchi to Gaya receive 100% compliant reimbursement documentation for official submission:
       </p>
 
-      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
-        <h4 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 12px; font-weight: 700;">Complete Relocation Claim Document Set:</h4>
-        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8;">
-          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing &amp; freight costs.</li>
-          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with vehicle registration stamp.</li>
-          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers.</li>
-          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> on official letterhead.</li>
-          <li><strong>Transit Insurance Policy Document</strong> issued by authorized insurance providers.</li>
-          <li><strong>Stamped Payment Receipt</strong> for company HR &amp; audit submission.</li>
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 28px; margin-bottom: 30px;">
+        <h4 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 14px; font-weight: 700;">Complete Relocation Claim Document Set Includes:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.9; font-size: 0.98rem;">
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing charges, freight, labor, and GSTIN breakdown.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> stamped with truck registration number and driver details.</li>
+          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers and box counts.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Verification Letter</strong> printed on company letterhead.</li>
+          <li><strong>Transit Insurance Policy Document</strong> issued by authorized national insurance providers covering full declared value.</li>
+          <li><strong>Stamped Official Payment Receipt</strong> for instant official reimbursement claim verification.</li>
         </ol>
       </div>
 
@@ -416,6 +456,9 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
           How Shifting from Ranchi to Gaya Works
         </h2>
+        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 10px auto 0 auto; line-height: 1.7;">
+          We follow a standardized 5-step operational process to ensure your intercity relocation proceeds without delays or surprises.
+        </p>
       </div>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 20px;">
@@ -423,9 +466,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">01</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Initial Consultation &amp; Inventory Assessment</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Initial Consultation &amp; Video Inventory Assessment</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Contact us at <strong><?php echo SITE_PHONE; ?></strong> or send your item list on WhatsApp for an immediate Ranchi to Gaya estimate.
+              Call us at <strong><?php echo SITE_PHONE; ?></strong> or submit your item details on WhatsApp. Our move coordinator conducts an on-site or virtual home survey to calculate exact container volume.
             </p>
           </div>
         </div>
@@ -433,9 +476,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">02</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Transparent Written Quote</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Transparent Written Quotation &amp; Booking</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              We outline all <strong>ranchi to gaya packers and movers charges</strong> in a transparent, fixed written estimate.
+              We issue a fixed price quotation covering packing material, loading, freight, toll taxes, transit insurance, and unloading at your Gaya destination.
             </p>
           </div>
         </div>
@@ -443,9 +486,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">03</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">7-Layer On-Site Packaging at Ranchi Home</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">7-Layer On-Site Packing at Ranchi Home</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Our uniformed crew arrives at your Ranchi address with air-bubble film, corrugated boxes, foam guards, and wooden crates.
+              Our uniformed packing crew arrives with air-bubble rolls, corrugated sheets, foam corner guards, wooden crating tools, and heavy boxes to wrap every household item securely.
             </p>
           </div>
         </div>
@@ -453,9 +496,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">04</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Highway Express Transit &amp; Live Tracking</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Highway Express Transit via NH-22 &amp; Live Tracking</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Your shipment travels in a GPS-monitored sealed container truck covering the 225 km distance safely via NH-33 &amp; NH-83.
+              Your shipment moves in a GPS-tracked sealed container vehicle traversing the 230 km route across national highways, reaching Gaya in 5 to 6 hours for same-day delivery.
             </p>
           </div>
         </div>
@@ -463,9 +506,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">05</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Door Delivery &amp; Re-Assembly in Gaya</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Doorstep Unloading, Unpacking &amp; Re-Assembly in Gaya</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Our Gaya destination team unloads, unboxes, and re-assembles your beds and furniture in your new home.
+              Our local Gaya destination crew unloads the container truck, places boxes in respective rooms, unboxes items, re-assembles beds and tables, and removes packing debris.
             </p>
           </div>
         </div>
@@ -489,72 +532,72 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: flex; flex-direction: column; gap: 16px;">
         
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: What are the packers and movers ranchi to gaya charges?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How much does household shifting cost from Ranchi to Gaya?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges range from ₹7,000 to ₹12,000 for a 1BHK/2BHK household move, and ₹12,000 to ₹20,000 for a 3BHK household, depending on goods volume and packing requirements.
+            Estimated prices typically range from ₹7,500 to ₹14,500 for a 1BHK or 2BHK household move, and ₹14,500 to ₹24,000 for a 3BHK household relocation, depending on total goods volume, packaging tier, and specific destination locality in Gaya.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does it take for delivery from Ranchi to Gaya?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: What is the estimated travel time from Ranchi to Gaya by road?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            The road distance is approximately 225 km via NH-33 and NH-83. Transit time is 4.5 hours, ensuring safe same-day delivery.
+            The highway distance is approximately 230 km via NH-22. Standard transit time for a dedicated container truck is 5 to 6 hours from loading in Ranchi to doorstep delivery in Gaya.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you issue IBA approved bills for defence personnel claims?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you provide IBA approved bills for official government transfer claims?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we provide 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists for official military and civil claim reimbursement.
+            Yes, we supply 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), itemized inventory lists, and official payment receipts accepted by all government departments, banks, and PSUs.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you transport bikes and cars from Ranchi to Gaya?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How are bikes and cars transported safely from Ranchi to Gaya?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Bikes are wrapped in paddy-straw bubble wrap and locked inside container trucks. Cars travel inside closed hydraulic car carriers.
+            Two-wheelers are wrapped in multi-layer bubble film and anchored inside dedicated container trucks. Cars travel in closed hydraulic car carrier trailers to prevent weather damage and road dust.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance available for Ranchi to Gaya shifting?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance mandatory for Ranchi to Gaya moving?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we offer comprehensive transit insurance covering full invoice value against unforeseen road hazards during interstate transit.
+            While optional, we strongly recommend comprehensive transit insurance covering declared item values against rare road accidents, natural disasters, or unexpected highway delays.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you deliver to AP Colony, Bodh Gaya Road, and OTA Gaya?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Which areas in Gaya do you cover for door delivery?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! We deliver to AP Colony, Bodh Gaya Road, Civil Lines, Rampur, Railway Station Colony, and OTA Gaya area.
+            We deliver to Civil Lines, AP Colony, Bodhgaya Road, Manpur, Delha, Chandauti, Swarajpuri, Gewalbigha, Bairagi, and all surrounding Gaya neighborhoods.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Can I ship part-load luggage from Ranchi to Gaya?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Can I send partial luggage or single furniture items from Ranchi to Gaya?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we offer economical shared container options for single furniture items or luggage packages from Ranchi to Gaya.
+            Yes, our part-load shared container service allows you to send single items, luggage boxes, or student belongings at cost-effective shared rates.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers assemble furniture in Gaya?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your destination packers re-assemble double beds and wardrobes in Gaya?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, our team unloads, unboxes, and re-assembles all double beds, dining tables, and wardrobes at your new destination home.
+            Yes, our destination crew unloads, unboxes, and re-assembles all dismantled furniture items including beds, dining tables, and wardrobes at your new home.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q9: Are there hidden toll or state border entry taxes on Ranchi to Gaya moves?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q9: Are there additional toll taxes or hidden charges on the written quote?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            No! Our written quote includes all interstate toll charges, driver allowances, packing materials, loading, and unloading.
+            No! Our written quotations are 100% transparent and inclusive of all national highway toll taxes, driver allowances, packing materials, loading, and door unloading.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the helpline number for Ranchi to Gaya packers?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: How can I book Ranchi to Gaya packers and movers?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Call or WhatsApp our main helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
+            Call or WhatsApp our main helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong> to schedule a home survey.
           </p>
         </div>
 
@@ -576,7 +619,7 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Ranchi Head Office today for a guaranteed fixed price quote and enjoy fast, safe, same-day delivery to Gaya Bihar.
+        Contact our Ranchi Head Office today for a guaranteed fixed-price written quotation and enjoy safe, fast same-day container delivery to Gaya Bihar.
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">

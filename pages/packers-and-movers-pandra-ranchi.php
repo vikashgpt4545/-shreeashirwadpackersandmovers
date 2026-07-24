@@ -562,6 +562,23 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+  
+  <!-- Section: Google Map & Location Details -->
+  <section style="padding: 50px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 25px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Service Location Map</span>
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Find Our Service Network in <span style="color: #f59e0b;">Ranchi</span>
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem;">Visit our head office at Anandpuri Chowk, Harmu Road or contact our local Ranchi team for fast shifting.</p>
+      </div>
+      <div style="background: rgba(23, 42, 84, 0.5); padding: 12px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.628929729864!2d85.3124311!3d23.3654497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4e10116ddbf0d%3A0x8691aeef36f01174!2sShree%20Ashirwad%20Packers%20and%20Movers!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" width="100%" height="350" style="border:0; border-radius: 12px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
+  </section>
+
   <!-- Section 11: Call To Action Banner -->
   <section style="padding: 70px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
     <div class="container" style="max-width: 900px; text-align: center;">

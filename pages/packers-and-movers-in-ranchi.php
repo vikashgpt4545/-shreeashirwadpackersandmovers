@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Packers and Movers in Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Are you searching for trusted, reliable, and verified <strong>packers and movers in ranchi</strong>? Shree Ashirwad Packers and Movers is Jharkhand's premier shifting company providing zero-damage household relocation, corporate office shifting, car carrier transport, bike logistics, and secure warehouse storage across Ranchi and India.
+            Are you searching for trusted, reliable, and verified <a href="<?php echo SITE_URL; ?>" style="color: #f59e0b; text-decoration: underline;"><strong>packers and movers in ranchi</strong></a>? Shree Ashirwad Packers and Movers is Jharkhand's premier shifting company providing zero-damage household relocation, corporate office shifting, car carrier transport, bike logistics, and secure warehouse storage across Ranchi and India.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -604,6 +604,23 @@ require_once __DIR__ . '/../includes/header.php';
 
       </div>
 
+    </div>
+  </section>
+
+  
+  <!-- Section: Google Map & Location Details -->
+  <section style="padding: 50px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 25px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Service Location Map</span>
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Find Our Service Network in <span style="color: #f59e0b;">Ranchi</span>
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem;">Visit our head office at Anandpuri Chowk, Harmu Road or contact our local Ranchi team for fast shifting.</p>
+      </div>
+      <div style="background: rgba(23, 42, 84, 0.5); padding: 12px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.628929729864!2d85.3124311!3d23.3654497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4e10116ddbf0d%3A0x8691aeef36f01174!2sShree%20Ashirwad%20Packers%20and%20Movers!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" width="100%" height="350" style="border:0; border-radius: 12px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
     </div>
   </section>
 

@@ -17,7 +17,8 @@ tmp/
 
 # Environment & Config overrides
 .env
-.env.local
+# Temporary & Scratch scripts
+scratch/
 
 # Dependency directories
 vendor/
