@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Chirkunda | Charges 8409531615";
-$page_desc = "Safe Packers and Movers Ranchi to Chirkunda Dhanbad. Professional household shifting, car & bike transport, ceramic industrial relocation via NH-19. Call 8409531615.";
-$page_keywords = "packers and movers ranchi to chirkunda, movers and packers ranchi to chirkunda, ranchi to chirkunda packers and movers charges, household shifting ranchi to chirkunda, home relocation ranchi to chirkunda, bike transport ranchi to chirkunda, car transport service ranchi to chirkunda, IBA approved packers and movers ranchi to chirkunda, best packers and movers ranchi to chirkunda, cheap packers and movers ranchi to chirkunda, ranchi to chirkunda distance shifting time, movers and packers chirkunda contact number, safe packing and moving ranchi to chirkunda, furniture shifting ranchi to chirkunda, luggage transport ranchi to chirkunda";
+$page_title = "Packers and Movers Ranchi to Katras | Charges 8409531615";
+$page_desc = "Safe Packers and Movers Ranchi to Katras Dhanbad. Professional household shifting, car & bike transport, BCCL coalfield relocation via Purulia highway. Call 8409531615.";
+$page_keywords = "packers and movers ranchi to katras, movers and packers ranchi to katras, ranchi to katras packers and movers charges, household shifting ranchi to katras, home relocation ranchi to katras, bike transport ranchi to katras, car transport service ranchi to katras, IBA approved packers and movers ranchi to katras, best packers and movers ranchi to katras, cheap packers and movers ranchi to katras, ranchi to katras distance shifting time, movers and packers katras contact number, safe packing and moving ranchi to katras, furniture shifting ranchi to katras, luggage transport ranchi to katras";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -21,31 +21,31 @@ require_once __DIR__ . '/../includes/header.php';
             IBA Approved Intercity Express Shifting
           </span>
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Reliable <span style="color: #f59e0b;">Packers and Movers Ranchi to Chirkunda</span>
+            Reliable <span style="color: #f59e0b;">Packers and Movers Ranchi to Katras</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Planning household shifting, ceramic industrial staff relocation, or vehicle transportation from Ranchi to Chirkunda (Dhanbad-West Bengal border)? Shree Ashirwad Packers and Movers offers daily express container transit via NH-19 highway corridor with 7-layer safety packaging, real-time GPS tracking, full transit insurance, and 100% IBA-approved GST bills.
+            Planning household shifting, BCCL coalfield employee relocation, or vehicle transportation from Ranchi to Katras (Dhanbad)? Shree Ashirwad Packers and Movers offers daily express container transit via Purulia-Dhanbad highway corridor with 7-layer safety packaging, real-time GPS tracking, full transit insurance, and 100% IBA-approved GST bills.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               📞 Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20from%20Ranchi%20to%20Chirkunda." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20from%20Ranchi%20to%20Katras." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">1,310+</strong> Ranchi to Chirkunda Moves</span>
-            <span><strong style="color: #f59e0b;">Express / 4.5 hr</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">1,340+</strong> Ranchi to Katras Moves</span>
+            <span><strong style="color: #f59e0b;">Express / 3.5 hr</strong> Delivery</span>
             <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Chirkunda Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Katras Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -57,7 +57,7 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
               <input type="text" name="move_from" class="form-control" placeholder="Moving From (e.g. Ranchi)" value="Ranchi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (e.g. Chirkunda)" value="Chirkunda" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Moving To (e.g. Katras)" value="Katras" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 16px;">
               <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (e.g. 2BHK Goods, Bike, Car, Office)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
@@ -77,12 +77,12 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">1,310+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Ranchi to Chirkunda Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">1,340+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Ranchi to Katras Relocations</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">208 Km</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">NH-19 Expressway (4.5 hrs)</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">145 Km</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Coalfield Corridor (3.5 hrs)</div>
         </div>
         <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100%</div>
@@ -103,7 +103,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="max-width: 950px; margin: 0 auto;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Route Overview</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-          Why Choose Us for <span style="color: #f59e0b;">Packers and Movers Ranchi to Chirkunda</span>?
+          Why Choose Us for <span style="color: #f59e0b;">Packers and Movers Ranchi to Katras</span>?
         </h2>
 
         <!-- 6 Cards Grid (3x2 Layout) -->
@@ -114,16 +114,16 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Direct Daily Highway Container Trucks</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We operate daily dedicated sealed container trucks covering 208 km via NH-19 expressway to Chirkunda in 4.5 hours safely.
+              We operate daily dedicated sealed container trucks covering 145 km via Purulia-Dhanbad road to Katras in 3.5 hours safely.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏙️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Complete Chirkunda Area Coverage</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We deliver to Chirkunda Town, Kumardhubi, Barakar Bridge area, Panchchet road, and Refractory Colony with door unpacking.
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Complete Katras Area Coverage</h3>
+            <p style="font-size: 0.9vis; color: #cbd5e1; line-height: 1.6; margin: 0;">
+              We deliver to Katras Town, Katrasgarh, Sijua, Angarpathra, Tetulmari, and BCCL Colliery Quarters with door unpacking.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Billing</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              100% genuine IBA-approved invoices and Lorry Receipts (LR) for refractory plant managers, traders, teachers, and bank employees.
+              100% genuine IBA-approved invoices and Lorry Receipts (LR) for BCCL engineers, coalfield staff, teachers, and bank employees.
             </p>
           </div>
 
@@ -150,7 +150,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚗</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed Vehicle Carriers</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Safe car transport in covered car trailers and bike shifting with padded protection from Ranchi to Chirkunda.
+              Safe car transport in covered car trailers and bike shifting with padded protection from Ranchi to Katras.
             </p>
           </div>
 
@@ -159,7 +159,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Carpentry &amp; Assembly Included</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our trained move crew dismantles furniture at Ranchi origin and reassembles every item at your new home in Chirkunda.
+              Our trained move crew dismantles furniture at Ranchi origin and reassembles every item at your new home in Katras.
             </p>
           </div>
 
@@ -177,7 +177,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 50px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Specialized Intercity Services</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Comprehensive Shifting Solutions from <span style="color: #f59e0b;">Ranchi to Chirkunda</span>
+          Comprehensive Shifting Solutions from <span style="color: #f59e0b;">Ranchi to Katras</span>
         </h2>
       </div>
 
@@ -186,26 +186,26 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Full House Relocation (1BHK/2BHK/3BHK)</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Complete household packing, loading, 4.5-hour highway container transit via NH-19, unloading, and unpacking in Chirkunda.
+            Complete household packing, loading, 3.5-hour highway container transit via Purulia, unloading, and unpacking in Katras.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Ceramic &amp; Refractory Industry Relocation</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. BCCL &amp; Mining Official Relocation</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Specialized relocation for refractory plant managers, ceramic technicians, and local business traders.
+            Specialized relocation for Bharat Coking Coal Limited (BCCL) engineers and officers to Katras colliery quarters.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Ranchi to Chirkunda</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Ranchi to Katras</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Specialized two-wheeler transport using heavy bubble wrap, paddy straw padding, and wheel chocks for safe highway delivery.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Carrier Service Ranchi to Chirkunda</h3>
+          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Carrier Service Ranchi to Katras</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
             Door-to-door car shifting using closed hydraulic vehicle trailers for hatchbacks, sedans, and SUVs.
           </p>
@@ -214,7 +214,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Part-Load / Luggage Transport</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Cost-effective shared container option for single items, student luggage, or small electronic packages from Ranchi to Chirkunda.
+            Cost-effective shared container option for single items, student luggage, or small electronic packages from Ranchi to Katras.
           </p>
         </div>
 
@@ -236,11 +236,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        7-Layer Material Protection for <span style="color: #f59e0b;">Ranchi to Chirkunda Moving</span>
+        7-Layer Material Protection for <span style="color: #f59e0b;">Ranchi to Katras Moving</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px; line-height: 1.8;">
-        Highway transport across NH-19 corridor requires superior shock protection. We wrap every item with 7 layers:
+        Highway transport across coalfield region requires superior shock protection. We wrap every item with 7 layers:
       </p>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 35px;">
@@ -283,11 +283,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Origin Pickups Across Ranchi</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Pickup Locations in Ranchi for <span style="color: #f59e0b;">Chirkunda Relocation</span>
+        Pickup Locations in Ranchi for <span style="color: #f59e0b;">Katras Relocation</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        We collect household goods, bikes, and office items from all prominent Ranchi neighborhoods for direct highway transport to Chirkunda:
+        We collect household goods, bikes, and office items from all prominent Ranchi neighborhoods for direct highway transport to Katras:
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
@@ -332,46 +332,46 @@ require_once __DIR__ . '/../includes/header.php';
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Highway Routes</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Coalfield Routes</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
         Other Express Routes from <span style="color: #f59e0b;">Ranchi</span>
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        In addition to Chirkunda, we operate daily dedicated shifting services to major industrial towns:
+        In addition to Katras, we operate daily dedicated shifting services to major Dhanbad coalfield regions:
       </p>
 
       <!-- Internal Link Grid 2 (4 Contextual Links) -->
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Kumardhubi</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container shifting to Kumardhubi.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-kumardhubi.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Kumardhubi Shifting Services →
-          </a>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Asansol</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Daily container route connecting Ranchi to Asansol.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-asansol.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Asansol Shifting Services →
-          </a>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Dhanbad</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container trips connecting Ranchi to Dhanbad.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container shifting to Dhanbad city.</p>
           <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-dhanbad.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Dhanbad Shifting Services →
           </a>
         </div>
 
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Sindri</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct express container moving connecting Ranchi to Sindri.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-sindri.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Ranchi to Sindri Shifting Services →
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Bokaro</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Daily container route connecting Ranchi to Bokaro Steel City.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-bokaro.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Bokaro Shifting Services →
+          </a>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Chas</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container trips connecting Ranchi to Chas.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-chass.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Chas Shifting Services →
+          </a>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Giridih</h4>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct express container moving connecting Ranchi to Giridih.</p>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-ranchi-to-giridih.php" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+            Ranchi to Giridih Shifting Services →
           </a>
         </div>
       </div>
@@ -385,11 +385,11 @@ require_once __DIR__ . '/../includes/header.php';
       
       <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Corporate &amp; Official Documentation</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        IBA Approved GST Billing for Ranchi to Chirkunda Moves
+        IBA Approved GST Billing for Ranchi to Katras Moves
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Refractory plant executives, industrial officers, bank employees, and railway personnel relocating to Chirkunda receive complete reimbursement documentation:
+        Bharat Coking Coal Limited (BCCL) personnel, mining engineers, teachers, bank employees, and railway officers relocating to Katras receive complete reimbursement documentation:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
@@ -414,7 +414,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Structured Workflow</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          How Shifting from Ranchi to Chirkunda Works
+          How Shifting from Ranchi to Katras Works
         </h2>
       </div>
 
@@ -425,7 +425,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Initial Consultation &amp; Inventory Assessment</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Contact us at <strong><?php echo SITE_PHONE; ?></strong> or send your item list on WhatsApp for an immediate Ranchi to Chirkunda estimate.
+              Contact us at <strong><?php echo SITE_PHONE; ?></strong> or send your item list on WhatsApp for an immediate Ranchi to Katras estimate.
             </p>
           </div>
         </div>
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Transparent Written Quote</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              We outline all <strong>ranchi to chirkunda packers and movers charges</strong> in a transparent, fixed written estimate.
+              We outline all <strong>ranchi to katras packers and movers charges</strong> in a transparent, fixed written estimate.
             </p>
           </div>
         </div>
@@ -455,7 +455,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Highway Express Transit &amp; Live Tracking</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Your shipment travels in a GPS-monitored sealed container truck covering the 208 km distance safely via NH-19.
+              Your shipment travels in a GPS-monitored sealed container truck covering the 145 km distance safely via Purulia.
             </p>
           </div>
         </div>
@@ -463,9 +463,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="display: flex; gap: 20px; background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">05</div>
           <div>
-            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Door Delivery &amp; Re-Assembly in Chirkunda</h3>
+            <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Door Delivery &amp; Re-Assembly in Katras</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Our Chirkunda destination team unloads, unboxes, and re-assembles your beds and furniture in your new home.
+              Our Katras destination team unloads, unboxes, and re-assembles your beds and furniture in your new home.
             </p>
           </div>
         </div>
@@ -482,77 +482,77 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Ranchi to Chirkunda Relocation</span>
+          Frequently Asked Questions About <span style="color: #f59e0b;">Ranchi to Katras Relocation</span>
         </h2>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 16px;">
         
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: What are the packers and movers ranchi to chirkunda charges?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: What are the packers and movers ranchi to katras charges?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges range from ₹6,000 to ₹10,000 for a 1BHK/2BHK household move, and ₹10,000 to ₹17,000 for a 3BHK household, depending on goods volume and packing requirements.
+            Charges range from ₹5,200 to ₹9,200 for a 1BHK/2BHK household move, and ₹9,200 to ₹15,500 for a 3BHK household, depending on goods volume and packing requirements.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does it take for delivery from Ranchi to Chirkunda?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does it take for delivery from Ranchi to Katras?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            The road distance is approximately 208 km via NH-19 expressway. Transit time is 4.5 hours, providing same-day delivery.
+            The road distance is approximately 145 km via Purulia road. Transit time is 3.5 hours, ensuring same-day delivery.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you issue IBA approved bills for corporate employee claims?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you issue IBA approved bills for BCCL employee claims?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we provide 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists for corporate &amp; official claim reimbursement.
+            Yes, we provide 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists for BCCL &amp; corporate claim reimbursement.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you transport bikes and cars from Ranchi to Chirkunda?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you transport bikes and cars from Ranchi to Katras?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Bikes are wrapped in paddy-straw bubble wrap and locked inside container trucks. Cars travel inside closed hydraulic car carriers.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance available for Ranchi to Chirkunda shifting?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance available for Ranchi to Katras shifting?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes, we offer comprehensive transit insurance covering full invoice value against unforeseen road hazards during highway transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you deliver to Kumardhubi and Barakar Bridge in Chirkunda?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you deliver to Katrasgarh, Sijua, and Tetulmari in Katras?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! We deliver to Chirkunda Town, Kumardhubi, Barakar Bridge area, Panchchet road, and Refractory Colony.
+            Yes! We deliver to Katras Town, Katrasgarh, Sijua, Angarpathra, Tetulmari, and BCCL Colliery Quarters.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Can I ship part-load luggage from Ranchi to Chirkunda?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Can I ship part-load luggage from Ranchi to Katras?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we offer economical shared container options for single furniture items or luggage packages from Ranchi to Chirkunda.
+            Yes, we offer economical shared container options for single furniture items or luggage packages from Ranchi to Katras.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers assemble furniture in Chirkunda?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers assemble furniture in Katras?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Yes, our team unloads, unboxes, and re-assembles all double beds, dining tables, and wardrobes at your new destination home.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q9: Are there hidden toll or entry taxes on Ranchi to Chirkunda moves?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q9: Are there hidden toll or entry taxes on Ranchi to Katras moves?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             No! Our written quote includes all highway toll charges, driver allowances, packing materials, loading, and unloading.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the helpline number for Ranchi to Chirkunda packers?</h3>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the helpline number for Ranchi to Katras packers?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
             Call or WhatsApp our main helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
           </p>
@@ -568,22 +568,22 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 900px; text-align: center;">
       
       <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-        Book Express Ranchi to Chirkunda Shifting
+        Book Express Ranchi to Katras Shifting
       </span>
 
       <h2 style="font-size: 2.3rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
-        Ready to Shift with <span style="color: #f59e0b;">Packers and Movers Ranchi to Chirkunda</span>?
+        Ready to Shift with <span style="color: #f59e0b;">Packers and Movers Ranchi to Katras</span>?
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Ranchi Head Office today for a guaranteed fixed price quote and enjoy fast, safe, same-day delivery to Chirkunda.
+        Contact our Ranchi Head Office today for a guaranteed fixed price quote and enjoy fast, safe, same-day delivery to Katras.
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
           📞 Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20from%20Ranchi%20to%20Chirkunda." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20from%20Ranchi%20to%20Katras." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           💬 Chat on WhatsApp
         </a>
         <a href="<?php echo SITE_URL; ?>pages/contact.php" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
