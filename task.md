@@ -78,15 +78,15 @@ Every landing page (Jharkhand Local, Intercity Routes, and Blog Articles) will f
 | Line # | URL Slug | Page Category | Target Word Count | Status |
 |---|---|---|---|---|
 | 1 | `/packers-and-movers-in-jamshedpur` | Main Service Page | 3,000+ | ✅ Completed |
-| 2 | `/packers-and-movers-bistupur-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 3 | `/packers-and-movers-sakchi-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 4 | `/packers-and-movers-mango-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 5 | `/packers-and-movers-adityapur-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 6 | `/packers-and-movers-kadma-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 7 | `/packers-and-movers-jugsalai-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 8 | `/packers-and-movers-telco-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 9 | `/packers-and-movers-golmuri-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 10 | `/packers-and-movers-baridih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
+| 2 | `/packers-and-movers-bistupur-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 3 | `/packers-and-movers-sakchi-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 4 | `/packers-and-movers-mango-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 5 | `/packers-and-movers-adityapur-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 6 | `/packers-and-movers-kadma-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 7 | `/packers-and-movers-jugsalai-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 8 | `/packers-and-movers-telco-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 9 | `/packers-and-movers-golmuri-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 10 | `/packers-and-movers-baridih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
 | 11 | `/packers-and-movers-sonari-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
 | 12 | `/packers-and-movers-sidhgora-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
 | 13 | `/packers-and-movers-parsudih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
