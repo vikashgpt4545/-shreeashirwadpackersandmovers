@@ -34,6 +34,11 @@ require_once __DIR__ . '/config.php';
   <meta name="twitter:description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
   <meta name="twitter:image" content="<?php echo SITE_URL; ?>assets/images/logo.png">
   
+  <!-- Site Icon (Favicon Swastik) -->
+  <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
+  <link rel="shortcut icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
+  <link rel="apple-touch-icon" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
+
   <!-- Preconnect to Google Fonts & Load Fonts Directly -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
