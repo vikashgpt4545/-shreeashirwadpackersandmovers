@@ -87,16 +87,16 @@ Every landing page (Jharkhand Local, Intercity Routes, and Blog Articles) will f
 | 8 | `/packers-and-movers-telco-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
 | 9 | `/packers-and-movers-golmuri-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
 | 10 | `/packers-and-movers-baridih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
-| 11 | `/packers-and-movers-sonari-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 12 | `/packers-and-movers-sidhgora-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 13 | `/packers-and-movers-parsudih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 14 | `/packers-and-movers-boram-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 15 | `/packers-and-movers-bagbera-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 16 | `/packers-and-movers-dhatkidih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 17 | `/packers-and-movers-burma-mines-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 18 | `/packers-and-movers-agrico-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 19 | `/packers-and-movers-bhalubasa-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
-| 20 | `/packers-and-movers-azadnagar-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ⏳ Pending |
+| 11 | `/packers-and-movers-sonari-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 12 | `/packers-and-movers-sidhgora-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 13 | `/packers-and-movers-parsudih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 14 | `/packers-and-movers-boram-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 15 | `/packers-and-movers-bagbera-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 16 | `/packers-and-movers-dhatkidih-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 17 | `/packers-and-movers-burma-mines-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 18 | `/packers-and-movers-agrico-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 19 | `/packers-and-movers-bhalubasa-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
+| 20 | `/packers-and-movers-azadnagar-jamshedpur` | Jamshedpur Local Area Page | 2,000+ | ✅ Completed |
 | 21-51 | `/packers-and-movers-[locality]-jamshedpur` | Jamshedpur Local Area Pages (31) | 2,000+ | ⏳ Pending |
 | 52-97 | `/packers-and-movers-jamshedpur-to-[city]` | Jharkhand Inter-District Pages (46) | 2,000+ | ⏳ Pending |
 | 98-184 | `/packers-and-movers-jamshedpur-to-[city]` | Interstate / Intercity Pages (87) | 2,000+ | ⏳ Pending |
