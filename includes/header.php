@@ -54,7 +54,7 @@ require_once __DIR__ . '/config.php';
         "telephone": "<?php echo SITE_PHONE_RAW; ?>",
         "email": "<?php echo SITE_EMAIL; ?>",
         "url": "https://shreeashirwadpackersandmovers.com/",
-        "priceRange": "₹₹",
+        "priceRange": "\u20b9\u20b9",
         "address": [
           {
             "@type": "PostalAddress",
@@ -91,7 +91,116 @@ require_once __DIR__ . '/config.php';
           "reviewCount": "2850",
           "bestRating": "5",
           "worstRating": "1"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Relocation Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "@id": "https://shreeashirwadpackersandmovers.com/#service-household-shifting",
+                "name": "Household Shifting in Ranchi",
+                "description": "Complete home relocation services in Ranchi with 7-layer bubble wrap packing, furniture disassembly, enclosed container truck transport, and room-by-room setup at destination.",
+                "serviceType": "Household Shifting",
+                "provider": {
+                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                },
+                "areaServed": {
+                  "@type": "City",
+                  "name": "Ranchi"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "@id": "https://shreeashirwadpackersandmovers.com/#service-office-shifting",
+                "name": "Office and Commercial Shifting in Ranchi",
+                "description": "Zero-downtime corporate office relocation in Ranchi with anti-static IT hardware packing, tagged file inventory, and weekend or overnight shifting execution.",
+                "serviceType": "Office Shifting",
+                "provider": {
+                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                },
+                "areaServed": {
+                  "@type": "City",
+                  "name": "Ranchi"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "@id": "https://shreeashirwadpackersandmovers.com/#service-car-transport",
+                "name": "Car Transport in Ranchi",
+                "description": "Safe enclosed hydraulic car carrier transport from Ranchi to all Indian cities with zero mileage addition, doorstep pickup and delivery, and scratch-free guarantee.",
+                "serviceType": "Car Transportation",
+                "provider": {
+                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                },
+                "areaServed": {
+                  "@type": "City",
+                  "name": "Ranchi"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "@id": "https://shreeashirwadpackersandmovers.com/#service-bike-transport",
+                "name": "Bike Transport in Ranchi",
+                "description": "Scratch-free bike transport from Ranchi with paddy straw padding, corrugated wrap, and belt-locked enclosed container truck delivery pan-India.",
+                "serviceType": "Bike Transportation",
+                "provider": {
+                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                },
+                "areaServed": {
+                  "@type": "City",
+                  "name": "Ranchi"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "@id": "https://shreeashirwadpackersandmovers.com/#service-warehouse-storage",
+                "name": "Warehouse and Storage in Ranchi",
+                "description": "Secure short-term and long-term warehouse storage in Ranchi with 24/7 CCTV surveillance, pest control, moisture protection, and flexible rental plans.",
+                "serviceType": "Warehouse Storage",
+                "provider": {
+                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                },
+                "areaServed": {
+                  "@type": "City",
+                  "name": "Ranchi"
+                }
+              }
+            }
+          ]
         }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "<?php echo htmlspecialchars($canonical_url); ?>#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://shreeashirwadpackersandmovers.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>",
+            "item": "<?php echo htmlspecialchars($canonical_url); ?>"
+          }
+        ]
       },
       {
         "@type": "WebPage",
@@ -99,6 +208,9 @@ require_once __DIR__ . '/config.php';
         "url": "<?php echo htmlspecialchars($canonical_url); ?>",
         "name": "<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>",
         "description": "<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>",
+        "breadcrumb": {
+          "@id": "<?php echo htmlspecialchars($canonical_url); ?>#breadcrumb"
+        },
         "isPartOf": {
           "@id": "https://shreeashirwadpackersandmovers.com/#organization"
         }
@@ -141,10 +253,10 @@ require_once __DIR__ . '/config.php';
         <!-- Navigation Menu -->
         <ul class="nav-menu" id="navMenu">
           <li><a href="<?php echo SITE_URL; ?>" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>">Home</a></li>
-          <li><a href="<?php echo SITE_URL; ?>pages/about.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>">About Us</a></li>
-          <li><a href="<?php echo SITE_URL; ?>pages/services.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>">Services</a></li>
-          <li><a href="<?php echo SITE_URL; ?>pages/gallery.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
-          <li><a href="<?php echo SITE_URL; ?>pages/contact.php" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
+          <li><a href="<?php echo SITE_URL; ?>about" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>">About Us</a></li>
+          <li><a href="<?php echo SITE_URL; ?>services" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>">Services</a></li>
+          <li><a href="<?php echo SITE_URL; ?>gallery" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
+          <li><a href="<?php echo SITE_URL; ?>contact" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
         </ul>
 
         <!-- Call Button (No 'Call Us Now' text label as requested) -->

@@ -32,10 +32,10 @@ require_once __DIR__ . '/config.php';
           <h3 class="footer-heading">Quick Links</h3>
           <div class="footer-links">
             <a href="<?php echo SITE_URL; ?>">Home</a>
-            <a href="<?php echo SITE_URL; ?>pages/about.php">About Us</a>
-            <a href="<?php echo SITE_URL; ?>pages/services.php">Services</a>
-            <a href="<?php echo SITE_URL; ?>pages/gallery.php">Gallery</a>
-            <a href="<?php echo SITE_URL; ?>pages/contact.php">Contact Us</a>
+            <a href="<?php echo SITE_URL; ?>about">About Us</a>
+            <a href="<?php echo SITE_URL; ?>services">Services</a>
+            <a href="<?php echo SITE_URL; ?>gallery">Gallery</a>
+            <a href="<?php echo SITE_URL; ?>contact">Contact Us</a>
           </div>
         </div>
 

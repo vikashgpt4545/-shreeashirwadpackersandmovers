@@ -59,33 +59,41 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
-        <!-- Right Side: Trust & Badge Card -->
+        <!-- Right Side: Trust & Badge Card with Verified E-E-A-T Govt Details -->
         <div class="about-trust-card">
           <div class="trust-badge-circle">
             <span class="trust-years">15+</span>
             <span class="trust-label">Years of Trust</span>
           </div>
-          <h3 class="trust-card-title">Why Ranchi Trusts Shree Ashirwad</h3>
+          <h3 class="trust-card-title">Verified Business Leadership &amp; Govt Licenses</h3>
           <ul class="trust-features-list">
             <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-              <span>12,500+ Homes Safely Shifted</span>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg>
+              <span><strong>Proprietor &amp; Founder:</strong> Mr. Ajit Kumar Gupta</span>
             </li>
             <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-              <span>7-Layer Heavy Duty Bubble & Fabric Packing</span>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+              <span><strong>GSTIN Reg. No.:</strong> 20BIPPG5094Q1ZP (Govt of India)</span>
             </li>
             <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-              <span>Live Satellite GPS Consignment Tracking</span>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-5.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+              <span><strong>Ranchi Municipal Trade License:</strong> RAN37010821197380 (Reg: 97380)</span>
             </li>
             <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-              <span>Zero Hidden Fees & Transparent Estimates</span>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+              <span><strong>Head Office:</strong> Daladali Chowk, Ranchi - 834005</span>
             </li>
             <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-              <span>24/7 Dedicated Move Supervisors</span>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+              <span><strong>Branch Office:</strong> Road No. 1 Harmu / Vidyanagar Road, Ranchi - 834001</span>
+            </li>
+            <li>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+              <span><strong>Official Email:</strong> shreeashirwadpackers@gmail.com</span>
+            </li>
+            <li>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>
+              <span><strong>Official Portal:</strong> <a href="https://shreeashirwadpackersandmovers.com/" style="color: #f59e0b; text-decoration: underline;" target="_blank">shreeashirwadpackersandmovers.com</a></span>
             </li>
           </ul>
 
