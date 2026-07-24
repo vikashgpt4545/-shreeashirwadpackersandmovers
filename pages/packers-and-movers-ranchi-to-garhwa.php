@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Garhwa | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Garhwa | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Garhwa. Professional household shifting, car & bike transport, office relocation via NH-39 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to garhwa, movers and packers ranchi to garhwa, ranchi to garhwa packers and movers charges, household shifting ranchi to garhwa, home relocation ranchi to garhwa, bike transport ranchi to garhwa, car transport service ranchi to garhwa, IBA approved packers and movers ranchi to garhwa, best packers and movers ranchi to garhwa, cheap packers and movers ranchi to garhwa, ranchi to garhwa distance shifting time, movers and packers garhwa contact number, safe packing and moving ranchi to garhwa, furniture shifting ranchi to garhwa, luggage transport ranchi to garhwa";
 

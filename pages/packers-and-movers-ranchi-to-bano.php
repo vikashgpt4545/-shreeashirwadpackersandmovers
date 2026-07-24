@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Bano | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Bano | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Bano Simdega. Professional household shifting, car & bike transport, railway relocation via NH-23/SH corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to bano, movers and packers ranchi to bano, ranchi to bano packers and movers charges, household shifting ranchi to bano, home relocation ranchi to bano, bike transport ranchi to bano, car transport service ranchi to bano, IBA approved packers and movers ranchi to bano, best packers and movers ranchi to bano, cheap packers and movers ranchi to bano, ranchi to bano distance shifting time, movers and packers bano contact number, safe packing and moving ranchi to bano, furniture shifting ranchi to bano, luggage transport ranchi to bano";
 

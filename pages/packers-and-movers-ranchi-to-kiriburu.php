@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Kiriburu | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Kiriburu | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Kiriburu West Singhbhum. Professional household shifting, car & bike transport, iron ore hill township transit. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to kiriburu, movers and packers ranchi to kiriburu, ranchi to kiriburu packers and movers charges, household shifting ranchi to kiriburu, home relocation ranchi to kiriburu, bike transport ranchi to kiriburu, car transport service ranchi to kiriburu, IBA approved packers and movers ranchi to kiriburu, best packers and movers ranchi to kiriburu, cheap packers and movers ranchi to kiriburu, ranchi to kiriburu distance shifting time, movers and packers kiriburu contact number, safe packing and moving ranchi to kiriburu, furniture shifting ranchi to kiriburu, luggage transport ranchi to kiriburu";
 

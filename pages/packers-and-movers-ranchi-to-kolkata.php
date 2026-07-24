@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Kolkata | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Kolkata | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Kolkata West Bengal. Professional household shifting, car & bike transport, interstate express transit via NH-19. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to kolkata, movers and packers ranchi to kolkata, ranchi to kolkata packers and movers charges, household shifting ranchi to kolkata, home relocation ranchi to kolkata, bike transport ranchi to kolkata, car transport service ranchi to kolkata, IBA approved packers and movers ranchi to kolkata, best packers and movers ranchi to kolkata, cheap packers and movers ranchi to kolkata, ranchi to kolkata distance shifting time, movers and packers kolkata contact number, safe packing and moving ranchi to kolkata, furniture shifting ranchi to kolkata, luggage transport ranchi to kolkata";
 

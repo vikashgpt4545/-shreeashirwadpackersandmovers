@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Barhi | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Barhi | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Barhi Hazaribagh. Professional household shifting, car & bike transport, GT Road transit via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to barhi, movers and packers ranchi to barhi, ranchi to barhi packers and movers charges, household shifting ranchi to barhi, home relocation ranchi to barhi, bike transport ranchi to barhi, car transport service ranchi to barhi, IBA approved packers and movers ranchi to barhi, best packers and movers ranchi to barhi, cheap packers and movers ranchi to barhi, ranchi to barhi distance shifting time, movers and packers barhi contact number, safe packing and moving ranchi to barhi, furniture shifting ranchi to barhi, luggage transport ranchi to barhi";
 

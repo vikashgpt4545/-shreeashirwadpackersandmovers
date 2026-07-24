@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Sindri | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Sindri | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Sindri Dhanbad. Professional household shifting, car & bike transport, HURL fertilizer plant relocation via Dhanbad highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to sindri, movers and packers ranchi to sindri, ranchi to sindri packers and movers charges, household shifting ranchi to sindri, home relocation ranchi to sindri, bike transport ranchi to sindri, car transport service ranchi to sindri, IBA approved packers and movers ranchi to sindri, best packers and movers ranchi to sindri, cheap packers and movers ranchi to sindri, ranchi to sindri distance shifting time, movers and packers sindri contact number, safe packing and moving ranchi to sindri, furniture shifting ranchi to sindri, luggage transport ranchi to sindri";
 

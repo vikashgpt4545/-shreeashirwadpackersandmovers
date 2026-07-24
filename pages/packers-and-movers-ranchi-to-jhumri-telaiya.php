@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Jhumri Telaiya | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Jhumri Telaiya | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Jhumri Telaiya. Professional household shifting, car & bike transport, office relocation via NH-20 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to jhumri telaiya, movers and packers ranchi to jhumri telaiya, ranchi to jhumri telaiya packers and movers charges, household shifting ranchi to jhumri telaiya, home relocation ranchi to jhumri telaiya, bike transport ranchi to jhumri telaiya, car transport service ranchi to jhumri telaiya, IBA approved packers and movers ranchi to jhumri telaiya, best packers and movers ranchi to jhumri telaiya, cheap packers and movers ranchi to jhumri telaiya, ranchi to jhumri telaiya distance shifting time, movers and packers jhumri telaiya contact number, safe packing and moving ranchi to jhumri telaiya, furniture shifting ranchi to jhumri telaiya, luggage transport ranchi to jhumri telaiya";
 

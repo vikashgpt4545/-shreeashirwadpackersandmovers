@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Chatra | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Chatra | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Chatra. Professional household shifting, car & bike transport, office relocation via Hazaribagh-Chatra road. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to chatra, movers and packers ranchi to chatra, ranchi to chatra packers and movers charges, household shifting ranchi to chatra, home relocation ranchi to chatra, bike transport ranchi to chatra, car transport service ranchi to chatra, IBA approved packers and movers ranchi to chatra, best packers and movers ranchi to chatra, cheap packers and movers ranchi to chatra, ranchi to chatra distance shifting time, movers and packers chatra contact number, safe packing and moving ranchi to chatra, furniture shifting ranchi to chatra, luggage transport ranchi to chatra";
 

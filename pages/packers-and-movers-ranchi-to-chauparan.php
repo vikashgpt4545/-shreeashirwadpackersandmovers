@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Chauparan | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Chauparan | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Chauparan Hazaribagh. Professional household shifting, car & bike transport, GT Road transit via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to chauparan, movers and packers ranchi to chauparan, ranchi to chauparan packers and movers charges, household shifting ranchi to chauparan, home relocation ranchi to chauparan, bike transport ranchi to chauparan, car transport service ranchi to chauparan, IBA approved packers and movers ranchi to chauparan, best packers and movers ranchi to chauparan, cheap packers and movers ranchi to chauparan, ranchi to chauparan distance shifting time, movers and packers chauparan contact number, safe packing and moving ranchi to chauparan, furniture shifting ranchi to chauparan, luggage transport ranchi to chauparan";
 

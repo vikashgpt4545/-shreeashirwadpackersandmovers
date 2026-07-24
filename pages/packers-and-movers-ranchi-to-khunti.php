@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Khunti | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Khunti | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Khunti. Professional household shifting, car & bike transport, office relocation via NH-20 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to khunti, movers and packers ranchi to khunti, ranchi to khunti packers and movers charges, household shifting ranchi to khunti, home relocation ranchi to khunti, bike transport ranchi to khunti, car transport service ranchi to khunti, IBA approved packers and movers ranchi to khunti, best packers and movers ranchi to khunti, cheap packers and movers ranchi to khunti, ranchi to khunti distance shifting time, movers and packers khunti contact number, safe packing and moving ranchi to khunti, furniture shifting ranchi to khunti, luggage transport ranchi to khunti";
 

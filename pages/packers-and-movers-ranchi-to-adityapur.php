@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Adityapur | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Adityapur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Adityapur. Professional household shifting, car & bike transport, industrial & office relocation via NH-33 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to adityapur, movers and packers ranchi to adityapur, ranchi to adityapur packers and movers charges, household shifting ranchi to adityapur, home relocation ranchi to adityapur, bike transport ranchi to adityapur, car transport service ranchi to adityapur, IBA approved packers and movers ranchi to adityapur, best packers and movers ranchi to adityapur, cheap packers and movers ranchi to adityapur, ranchi to adityapur distance shifting time, movers and packers adityapur contact number, safe packing and moving ranchi to adityapur, furniture shifting ranchi to adityapur, luggage transport ranchi to adityapur";
 

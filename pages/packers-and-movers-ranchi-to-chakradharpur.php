@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Chakradharpur | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Chakradharpur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Chakradharpur. Professional household shifting, car & bike transport, railway official relocation via NH-75/SH-2 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to chakradharpur, movers and packers ranchi to chakradharpur, ranchi to chakradharpur packers and movers charges, household shifting ranchi to chakradharpur, home relocation ranchi to chakradharpur, bike transport ranchi to chakradharpur, car transport service ranchi to chakradharpur, IBA approved packers and movers ranchi to chakradharpur, best packers and movers ranchi to chakradharpur, cheap packers and movers ranchi to chakradharpur, ranchi to chakradharpur distance shifting time, movers and packers chakradharpur contact number, safe packing and moving ranchi to chakradharpur, furniture shifting ranchi to chakradharpur, luggage transport ranchi to chakradharpur";
 

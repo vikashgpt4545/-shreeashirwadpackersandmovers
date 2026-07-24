@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Dumka | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Dumka | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Dumka. Professional household shifting, car & bike transport, office relocation via Deoghar-Dumka highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to dumka, movers and packers ranchi to dumka, ranchi to dumka packers and movers charges, household shifting ranchi to dumka, home relocation ranchi to dumka, bike transport ranchi to dumka, car transport service ranchi to dumka, IBA approved packers and movers ranchi to dumka, best packers and movers ranchi to dumka, cheap packers and movers ranchi to dumka, ranchi to dumka distance shifting time, movers and packers dumka contact number, safe packing and moving ranchi to dumka, furniture shifting ranchi to dumka, luggage transport ranchi to dumka";
 

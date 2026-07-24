@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Chaibasa | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Chaibasa | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Chaibasa. Professional household shifting, car & bike transport, office relocation via Khunti-Chaibasa highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to chaibasa, movers and packers ranchi to chaibasa, ranchi to chaibasa packers and movers charges, household shifting ranchi to chaibasa, home relocation ranchi to chaibasa, bike transport ranchi to chaibasa, car transport service ranchi to chaibasa, IBA approved packers and movers ranchi to chaibasa, best packers and movers ranchi to chaibasa, cheap packers and movers ranchi to chaibasa, ranchi to chaibasa distance shifting time, movers and packers chaibasa contact number, safe packing and moving ranchi to chaibasa, furniture shifting ranchi to chaibasa, luggage transport ranchi to chaibasa";
 

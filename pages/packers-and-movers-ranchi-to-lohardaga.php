@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Lohardaga | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Lohardaga | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Lohardaga. Professional household shifting, car & bike transport, office relocation via NH-39 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to lohardaga, movers and packers ranchi to lohardaga, ranchi to lohardaga packers and movers charges, household shifting ranchi to lohardaga, home relocation ranchi to lohardaga, bike transport ranchi to lohardaga, car transport service ranchi to lohardaga, IBA approved packers and movers ranchi to lohardaga, best packers and movers ranchi to lohardaga, cheap packers and movers ranchi to lohardaga, ranchi to lohardaga distance shifting time, movers and packers lohardaga contact number, safe packing and moving ranchi to lohardaga, furniture shifting ranchi to lohardaga, luggage transport ranchi to lohardaga";
 

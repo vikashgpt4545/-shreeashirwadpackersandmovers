@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Ramgarh | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Ramgarh | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Ramgarh. Professional household shifting, car & bike transport, office relocation via NH-33 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to ramgarh, movers and packers ranchi to ramgarh, ranchi to ramgarh packers and movers charges, household shifting ranchi to ramgarh, home relocation ranchi to ramgarh, bike transport ranchi to ramgarh, car transport service ranchi to ramgarh, IBA approved packers and movers ranchi to ramgarh, best packers and movers ranchi to ramgarh, cheap packers and movers ranchi to ramgarh, ranchi to ramgarh distance shifting time, movers and packers ramgarh contact number, safe packing and moving ranchi to ramgarh, furniture shifting ranchi to ramgarh, luggage transport ranchi to ramgarh";
 

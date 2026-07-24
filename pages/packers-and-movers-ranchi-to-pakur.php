@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Pakur | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Pakur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Pakur. Professional household shifting, car & bike transport, office relocation via Dumka-Pakur highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to pakur, movers and packers ranchi to pakur, ranchi to pakur packers and movers charges, household shifting ranchi to pakur, home relocation ranchi to pakur, bike transport ranchi to pakur, car transport service ranchi to pakur, IBA approved packers and movers ranchi to pakur, best packers and movers ranchi to pakur, cheap packers and movers ranchi to pakur, ranchi to pakur distance shifting time, movers and packers pakur contact number, safe packing and moving ranchi to pakur, furniture shifting ranchi to pakur, luggage transport ranchi to pakur";
 

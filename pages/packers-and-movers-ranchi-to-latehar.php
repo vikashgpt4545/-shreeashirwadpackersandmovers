@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Latehar | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Latehar | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Latehar. Professional household shifting, car & bike transport, office relocation via NH-39 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to latehar, movers and packers ranchi to latehar, ranchi to latehar packers and movers charges, household shifting ranchi to latehar, home relocation ranchi to latehar, bike transport ranchi to latehar, car transport service ranchi to latehar, IBA approved packers and movers ranchi to latehar, best packers and movers ranchi to latehar, cheap packers and movers ranchi to latehar, ranchi to latehar distance shifting time, movers and packers latehar contact number, safe packing and moving ranchi to latehar, furniture shifting ranchi to latehar, luggage transport ranchi to latehar";
 

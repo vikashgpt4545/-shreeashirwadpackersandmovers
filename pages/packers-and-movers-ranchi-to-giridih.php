@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Giridih | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Giridih | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Giridih. Professional household shifting, car & bike transport, office relocation via NH-33 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to giridih, movers and packers ranchi to giridih, ranchi to giridih packers and movers charges, household shifting ranchi to giridih, home relocation ranchi to giridih, bike transport ranchi to giridih, car transport service ranchi to giridih, IBA approved packers and movers ranchi to giridih, best packers and movers ranchi to giridih, cheap packers and movers ranchi to giridih, ranchi to giridih distance shifting time, movers and packers giridih contact number, safe packing and moving ranchi to giridih, furniture shifting ranchi to giridih, luggage transport ranchi to giridih";
 

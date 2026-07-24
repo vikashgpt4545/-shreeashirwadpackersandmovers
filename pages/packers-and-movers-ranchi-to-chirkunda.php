@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Chirkunda | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Chirkunda | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Chirkunda Dhanbad. Professional household shifting, car & bike transport, ceramic industrial relocation via NH-19. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to chirkunda, movers and packers ranchi to chirkunda, ranchi to chirkunda packers and movers charges, household shifting ranchi to chirkunda, home relocation ranchi to chirkunda, bike transport ranchi to chirkunda, car transport service ranchi to chirkunda, IBA approved packers and movers ranchi to chirkunda, best packers and movers ranchi to chirkunda, cheap packers and movers ranchi to chirkunda, ranchi to chirkunda distance shifting time, movers and packers chirkunda contact number, safe packing and moving ranchi to chirkunda, furniture shifting ranchi to chirkunda, luggage transport ranchi to chirkunda";
 

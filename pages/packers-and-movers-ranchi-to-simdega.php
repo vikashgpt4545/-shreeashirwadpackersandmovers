@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Simdega | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Simdega | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Simdega. Professional household shifting, car & bike transport, office relocation via Bero-Gumla highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to simdega, movers and packers ranchi to simdega, ranchi to simdega packers and movers charges, household shifting ranchi to simdega, home relocation ranchi to simdega, bike transport ranchi to simdega, car transport service ranchi to simdega, IBA approved packers and movers ranchi to simdega, best packers and movers ranchi to simdega, cheap packers and movers ranchi to simdega, ranchi to simdega distance shifting time, movers and packers simdega contact number, safe packing and moving ranchi to simdega, furniture shifting ranchi to simdega, luggage transport ranchi to simdega";
 

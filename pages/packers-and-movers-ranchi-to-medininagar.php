@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Medininagar | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Medininagar | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Medininagar (Daltonganj). Professional household shifting, car & bike transport, office relocation via NH-39 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to medininagar, movers and packers ranchi to medininagar, ranchi to medininagar packers and movers charges, household shifting ranchi to medininagar, home relocation ranchi to medininagar, bike transport ranchi to medininagar, car transport service ranchi to medininagar, IBA approved packers and movers ranchi to medininagar, best packers and movers ranchi to medininagar, cheap packers and movers ranchi to medininagar, ranchi to medininagar distance shifting time, movers and packers medininagar contact number, safe packing and moving ranchi to medininagar, furniture shifting ranchi to medininagar, luggage transport ranchi to medininagar";
 

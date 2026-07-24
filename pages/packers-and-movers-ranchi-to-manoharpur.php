@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
-$page_title = "Packers and Movers Ranchi to Manoharpur | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Manoharpur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Manoharpur West Singhbhum. Professional household shifting, car & bike transport via NH-75. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to manoharpur, movers and packers ranchi to manoharpur, ranchi to manoharpur packers and movers charges, household shifting ranchi to manoharpur, bike transport ranchi to manoharpur, car transport ranchi to manoharpur, IBA approved packers movers ranchi manoharpur";
 require_once __DIR__ . '/../includes/header.php';

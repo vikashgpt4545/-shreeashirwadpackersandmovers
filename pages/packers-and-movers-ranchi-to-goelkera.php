@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
-$page_title = "Packers and Movers Ranchi to Goelkera | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Goelkera | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Goelkera West Singhbhum. Professional household shifting, car & bike transport via NH-75. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to goelkera, movers and packers ranchi to goelkera, ranchi to goelkera packers and movers charges, household shifting ranchi to goelkera, bike transport ranchi to goelkera, car transport ranchi to goelkera, IBA approved packers movers ranchi goelkera";
 require_once __DIR__ . '/../includes/header.php';

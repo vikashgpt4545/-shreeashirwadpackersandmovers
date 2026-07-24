@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Gaya | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Gaya | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Gaya Bihar. Professional household shifting, car & bike transport, interstate GT Road transit via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to gaya, movers and packers ranchi to gaya, ranchi to gaya packers and movers charges, household shifting ranchi to gaya, home relocation ranchi to gaya, bike transport ranchi to gaya, car transport service ranchi to gaya, IBA approved packers and movers ranchi to gaya, best packers and movers ranchi to gaya, cheap packers and movers ranchi to gaya, ranchi to gaya distance shifting time, movers and packers gaya contact number, safe packing and moving ranchi to gaya, furniture shifting ranchi to gaya, luggage transport ranchi to gaya";
 

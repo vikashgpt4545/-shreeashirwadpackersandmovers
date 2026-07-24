@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Bokaro | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Bokaro | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Bokaro Steel City. Professional household shifting, car & bike transport, office relocation via Ramgarh corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to bokaro, movers and packers ranchi to bokaro, ranchi to bokaro packers and movers charges, household shifting ranchi to bokaro, home relocation ranchi to bokaro, bike transport ranchi to bokaro, car transport service ranchi to bokaro, IBA approved packers and movers ranchi to bokaro, best packers and movers ranchi to bokaro, cheap packers and movers ranchi to bokaro, ranchi to bokaro distance shifting time, movers and packers bokaro contact number, safe packing and moving ranchi to bokaro, furniture shifting ranchi to bokaro, luggage transport ranchi to bokaro";
 

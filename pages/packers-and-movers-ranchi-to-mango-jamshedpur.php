@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Mango Jamshedpur | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Mango Jamshedpur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Mango Jamshedpur. Professional household shifting, car & bike transport, industrial relocation via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to mango jamshedpur, movers and packers ranchi to mango jamshedpur, ranchi to mango jamshedpur packers and movers charges, household shifting ranchi to mango jamshedpur, home relocation ranchi to mango jamshedpur, bike transport ranchi to mango jamshedpur, car transport service ranchi to mango jamshedpur, IBA approved packers and movers ranchi to mango jamshedpur, best packers and movers ranchi to mango jamshedpur, cheap packers and movers ranchi to mango jamshedpur, ranchi to mango jamshedpur distance shifting time, movers and packers mango jamshedpur contact number, safe packing and moving ranchi to mango jamshedpur, furniture shifting ranchi to mango jamshedpur, luggage transport ranchi to mango jamshedpur";
 

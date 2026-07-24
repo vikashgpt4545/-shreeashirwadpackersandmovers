@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Bistupur Jamshedpur | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Bistupur Jamshedpur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Bistupur Jamshedpur. Professional household shifting, car & bike transport, corporate executive relocation via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to bistupur, movers and packers ranchi to bistupur, ranchi to bistupur packers and movers charges, household shifting ranchi to bistupur, home relocation ranchi to bistupur, bike transport ranchi to bistupur, car transport service ranchi to bistupur, IBA approved packers and movers ranchi to bistupur, best packers and movers ranchi to bistupur, cheap packers and movers ranchi to bistupur, ranchi to bistupur distance shifting time, movers and packers bistupur contact number, safe packing and moving ranchi to bistupur, furniture shifting ranchi to bistupur, luggage transport ranchi to bistupur";
 

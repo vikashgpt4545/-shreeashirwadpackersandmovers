@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Hazaribagh | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Hazaribagh | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Hazaribagh. Professional household shifting, car & bike transport, office relocation via NH-33 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to hazaribagh, movers and packers ranchi to hazaribagh, ranchi to hazaribagh packers and movers charges, household shifting ranchi to hazaribagh, home relocation ranchi to hazaribagh, bike transport ranchi to hazaribagh, car transport service ranchi to hazaribagh, IBA approved packers and movers ranchi to hazaribagh, best packers and movers ranchi to hazaribagh, cheap packers and movers ranchi to hazaribagh, ranchi to hazaribagh distance shifting time, movers and packers hazaribagh contact number, safe packing and moving ranchi to hazaribagh, furniture shifting ranchi to hazaribagh, luggage transport ranchi to hazaribagh";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Patna | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Patna | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Patna Bihar. Professional household shifting, car & bike transport, interstate express transit via NH-22. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to patna, movers and packers ranchi to patna, ranchi to patna packers and movers charges, household shifting ranchi to patna, home relocation ranchi to patna, bike transport ranchi to patna, car transport service ranchi to patna, IBA approved packers and movers ranchi to patna, best packers and movers ranchi to patna, cheap packers and movers ranchi to patna, ranchi to patna distance shifting time, movers and packers patna contact number, safe packing and moving ranchi to patna, furniture shifting ranchi to patna, luggage transport ranchi to patna";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Godda | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Godda | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Godda. Professional household shifting, car & bike transport, office relocation via Bhagalpur/Deoghar corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to godda, movers and packers ranchi to godda, ranchi to godda packers and movers charges, household shifting ranchi to godda, home relocation ranchi to godda, bike transport ranchi to godda, car transport service ranchi to godda, IBA approved packers and movers ranchi to godda, best packers and movers ranchi to godda, cheap packers and movers ranchi to godda, ranchi to godda distance shifting time, movers and packers godda contact number, safe packing and moving ranchi to godda, furniture shifting ranchi to godda, luggage transport ranchi to godda";
 

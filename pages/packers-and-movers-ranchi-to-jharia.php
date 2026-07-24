@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Jharia | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Jharia | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Jharia Dhanbad. Professional household shifting, car & bike transport, BCCL colliery relocation via Purulia highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to jharia, movers and packers ranchi to jharia, ranchi to jharia packers and movers charges, household shifting ranchi to jharia, home relocation ranchi to jharia, bike transport ranchi to jharia, car transport service ranchi to jharia, IBA approved packers and movers ranchi to jharia, best packers and movers ranchi to jharia, cheap packers and movers ranchi to jharia, ranchi to jharia distance shifting time, movers and packers jharia contact number, safe packing and moving ranchi to jharia, furniture shifting ranchi to jharia, luggage transport ranchi to jharia";
 

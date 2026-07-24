@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Ghatsila | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Ghatsila | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Ghatsila. Professional household shifting, car & bike transport, office relocation via NH-33 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to ghatsila, movers and packers ranchi to ghatsila, ranchi to ghatsila packers and movers charges, household shifting ranchi to ghatsila, home relocation ranchi to ghatsila, bike transport ranchi to ghatsila, car transport service ranchi to ghatsila, IBA approved packers and movers ranchi to ghatsila, best packers and movers ranchi to ghatsila, cheap packers and movers ranchi to ghatsila, ranchi to ghatsila distance shifting time, movers and packers ghatsila contact number, safe packing and moving ranchi to ghatsila, furniture shifting ranchi to ghatsila, luggage transport ranchi to ghatsila";
 

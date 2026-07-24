@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Chas | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Chas | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Chas Bokaro. Professional household shifting, car & bike transport, office relocation via NH-32 highway corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to chas, movers and packers ranchi to chas, ranchi to chas packers and movers charges, household shifting ranchi to chas, home relocation ranchi to chas, bike transport ranchi to chas, car transport service ranchi to chas, IBA approved packers and movers ranchi to chas, best packers and movers ranchi to chas, cheap packers and movers ranchi to chas, ranchi to chas distance shifting time, movers and packers chas bokaro contact number, safe packing and moving ranchi to chas, furniture shifting ranchi to chas, luggage transport ranchi to chas";
 

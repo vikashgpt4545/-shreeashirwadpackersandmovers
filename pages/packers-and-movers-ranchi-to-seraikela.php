@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Seraikela | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Seraikela | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Seraikela. Professional household shifting, car & bike transport, government employee relocation via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to seraikela, movers and packers ranchi to seraikela, ranchi to seraikela packers and movers charges, household shifting ranchi to seraikela, home relocation ranchi to seraikela, bike transport ranchi to seraikela, car transport service ranchi to seraikela, IBA approved packers and movers ranchi to seraikela, best packers and movers ranchi to seraikela, cheap packers and movers ranchi to seraikela, ranchi to seraikela distance shifting time, movers and packers seraikela contact number, safe packing and moving ranchi to seraikela, furniture shifting ranchi to seraikela, luggage transport ranchi to seraikela";
 

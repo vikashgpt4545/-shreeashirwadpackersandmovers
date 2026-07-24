@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Rajmahal | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Rajmahal | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Rajmahal Sahibganj. Professional household shifting, car & bike transport, office relocation via Dumka highway corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to rajmahal, movers and packers ranchi to rajmahal, ranchi to rajmahal packers and movers charges, household shifting ranchi to rajmahal, home relocation ranchi to rajmahal, bike transport ranchi to rajmahal, car transport service ranchi to rajmahal, IBA approved packers and movers ranchi to rajmahal, best packers and movers ranchi to rajmahal, cheap packers and movers ranchi to rajmahal, ranchi to rajmahal distance shifting time, movers and packers rajmahal contact number, safe packing and moving ranchi to rajmahal, furniture shifting ranchi to rajmahal, luggage transport ranchi to rajmahal";
 

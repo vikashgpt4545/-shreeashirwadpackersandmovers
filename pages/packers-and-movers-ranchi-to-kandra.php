@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Kandra | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Kandra | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Kandra industrial hub. Professional household shifting, car & bike transport, factory employee relocation via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to kandra, movers and packers ranchi to kandra, ranchi to kandra packers and movers charges, household shifting ranchi to kandra, home relocation ranchi to kandra, bike transport ranchi to kandra, car transport service ranchi to kandra, IBA approved packers and movers ranchi to kandra, best packers and movers ranchi to kandra, cheap packers and movers ranchi to kandra, ranchi to kandra distance shifting time, movers and packers kandra contact number, safe packing and moving ranchi to kandra, furniture shifting ranchi to kandra, luggage transport ranchi to kandra";
 

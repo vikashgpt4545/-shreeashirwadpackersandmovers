@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Kumardhubi | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Kumardhubi | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Kumardhubi Chirkunda Dhanbad. Professional household shifting, car & bike transport, industrial relocation via NH-19. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to kumardhubi, movers and packers ranchi to kumardhubi, ranchi to kumardhubi packers and movers charges, household shifting ranchi to kumardhubi, home relocation ranchi to kumardhubi, bike transport ranchi to kumardhubi, car transport service ranchi to kumardhubi, IBA approved packers and movers ranchi to kumardhubi, best packers and movers ranchi to kumardhubi, cheap packers and movers ranchi to kumardhubi, ranchi to kumardhubi distance shifting time, movers and packers kumardhubi contact number, safe packing and moving ranchi to kumardhubi, furniture shifting ranchi to kumardhubi, luggage transport ranchi to kumardhubi";
 

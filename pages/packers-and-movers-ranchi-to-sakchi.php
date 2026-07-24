@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Sakchi Jamshedpur | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Sakchi Jamshedpur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Sakchi Jamshedpur. Professional household shifting, car & bike transport, commercial market relocation via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to sakchi, movers and packers ranchi to sakchi, ranchi to sakchi packers and movers charges, household shifting ranchi to sakchi, home relocation ranchi to sakchi, bike transport ranchi to sakchi, car transport service ranchi to sakchi, IBA approved packers and movers ranchi to sakchi, best packers and movers ranchi to sakchi, cheap packers and movers ranchi to sakchi, ranchi to sakchi distance shifting time, movers and packers sakchi contact number, safe packing and moving ranchi to sakchi, furniture shifting ranchi to sakchi, luggage transport ranchi to sakchi";
 

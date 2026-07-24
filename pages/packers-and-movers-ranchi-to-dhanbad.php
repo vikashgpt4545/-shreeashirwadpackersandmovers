@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Dhanbad | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Dhanbad | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Dhanbad. Professional household shifting, car & bike transport, office relocation via Ramgarh & Bokaro route. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to dhanbad, movers and packers ranchi to dhanbad, ranchi to dhanbad packers and movers charges, household shifting ranchi to dhanbad, home relocation ranchi to dhanbad, bike transport ranchi to dhanbad, car transport service ranchi to dhanbad, IBA approved packers and movers ranchi to dhanbad, best packers and movers ranchi to dhanbad, cheap packers and movers ranchi to dhanbad, ranchi to dhanbad distance shifting time, movers and packers dhanbad contact number, safe packing and moving ranchi to dhanbad, furniture shifting ranchi to dhanbad, luggage transport ranchi to dhanbad";
 

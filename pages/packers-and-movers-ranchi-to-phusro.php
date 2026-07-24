@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Phusro | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Phusro | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Phusro. Professional household shifting, car & bike transport, office relocation via Ramgarh corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to phusro, movers and packers ranchi to phusro, ranchi to phusro packers and movers charges, household shifting ranchi to phusro, home relocation ranchi to phusro, bike transport ranchi to phusro, car transport service ranchi to phusro, IBA approved packers and movers ranchi to phusro, best packers and movers ranchi to phusro, cheap packers and movers ranchi to phusro, ranchi to phusro distance shifting time, movers and packers phusro contact number, safe packing and moving ranchi to phusro, furniture shifting ranchi to phusro, luggage transport ranchi to phusro";
 

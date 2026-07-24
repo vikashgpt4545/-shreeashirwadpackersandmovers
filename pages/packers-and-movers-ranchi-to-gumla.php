@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Gumla | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Gumla | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Gumla. Professional household shifting, car & bike transport, office relocation via Bero-Gumla highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to gumla, movers and packers ranchi to gumla, ranchi to gumla packers and movers charges, household shifting ranchi to gumla, home relocation ranchi to gumla, bike transport ranchi to gumla, car transport service ranchi to gumla, IBA approved packers and movers ranchi to gumla, best packers and movers ranchi to gumla, cheap packers and movers ranchi to gumla, ranchi to gumla distance shifting time, movers and packers gumla contact number, safe packing and moving ranchi to gumla, furniture shifting ranchi to gumla, luggage transport ranchi to gumla";
 

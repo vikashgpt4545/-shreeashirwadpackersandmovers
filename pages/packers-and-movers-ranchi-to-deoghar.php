@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Deoghar | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Deoghar | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Deoghar. Professional household shifting, car & bike transport, office relocation via Dumka highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to deoghar, movers and packers ranchi to deoghar, ranchi to deoghar packers and movers charges, household shifting ranchi to deoghar, home relocation ranchi to deoghar, bike transport ranchi to deoghar, car transport service ranchi to deoghar, IBA approved packers and movers ranchi to deoghar, best packers and movers ranchi to deoghar, cheap packers and movers ranchi to deoghar, ranchi to deoghar distance shifting time, movers and packers deoghar contact number, safe packing and moving ranchi to deoghar, furniture shifting ranchi to deoghar, luggage transport ranchi to deoghar";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Sahibganj | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Sahibganj | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Sahibganj. Professional household shifting, car & bike transport, office relocation via Bhagalpur/Deoghar highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to sahibganj, movers and packers ranchi to sahibganj, ranchi to sahibganj packers and movers charges, household shifting ranchi to sahibganj, home relocation ranchi to sahibganj, bike transport ranchi to sahibganj, car transport service ranchi to sahibganj, IBA approved packers and movers ranchi to sahibganj, best packers and movers ranchi to sahibganj, cheap packers and movers ranchi to sahibganj, ranchi to sahibganj distance shifting time, movers and packers sahibganj contact number, safe packing and moving ranchi to sahibganj, furniture shifting ranchi to sahibganj, luggage transport ranchi to sahibganj";
 

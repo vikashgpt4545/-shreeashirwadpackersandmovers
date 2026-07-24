@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Tatanagar | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Tatanagar | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Tatanagar Jamshedpur. Professional household shifting, car & bike transport, Tata Steel employee relocation via NH-33. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to tatanagar, movers and packers ranchi to tatanagar, ranchi to tatanagar packers and movers charges, household shifting ranchi to tatanagar, home relocation ranchi to tatanagar, bike transport ranchi to tatanagar, car transport service ranchi to tatanagar, IBA approved packers and movers ranchi to tatanagar, best packers and movers ranchi to tatanagar, cheap packers and movers ranchi to tatanagar, ranchi to tatanagar distance shifting time, movers and packers tatanagar contact number, safe packing and moving ranchi to tatanagar, furniture shifting ranchi to tatanagar, luggage transport ranchi to tatanagar";
 

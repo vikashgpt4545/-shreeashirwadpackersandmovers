@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Delhi | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Delhi | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Delhi NCR. Professional household shifting, car & bike transport, long-distance express transit via NH-19. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to delhi, movers and packers ranchi to delhi, ranchi to delhi packers and movers charges, household shifting ranchi to delhi, home relocation ranchi to delhi, bike transport ranchi to delhi, car transport service ranchi to delhi, IBA approved packers and movers ranchi to delhi, best packers and movers ranchi to delhi, cheap packers and movers ranchi to delhi, ranchi to delhi distance shifting time, movers and packers delhi contact number, safe packing and moving ranchi to delhi, furniture shifting ranchi to delhi, luggage transport ranchi to delhi";
 

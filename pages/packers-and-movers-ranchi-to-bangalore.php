@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Bangalore | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Bangalore | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Bangalore Karnataka. Professional household shifting, IT relocation, car & bike transport via NH-44. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to bangalore, movers and packers ranchi to bangalore, ranchi to bangalore packers and movers charges, household shifting ranchi to bangalore, home relocation ranchi to bangalore, bike transport ranchi to bangalore, car transport service ranchi to bangalore, IBA approved packers and movers ranchi to bangalore, best packers and movers ranchi to bangalore, cheap packers and movers ranchi to bangalore, ranchi to bangalore distance shifting time, movers and packers bangalore contact number, safe packing and moving ranchi to bangalore, furniture shifting ranchi to bangalore, luggage transport ranchi to bangalore";
 

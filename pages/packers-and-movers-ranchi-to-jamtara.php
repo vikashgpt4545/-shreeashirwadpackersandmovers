@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Jamtara | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Jamtara | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Jamtara. Professional household shifting, car & bike transport, office relocation via Dhanbad-Jamtara highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to jamtara, movers and packers ranchi to jamtara, ranchi to jamtara packers and movers charges, household shifting ranchi to jamtara, home relocation ranchi to jamtara, bike transport ranchi to jamtara, car transport service ranchi to jamtara, IBA approved packers and movers ranchi to jamtara, best packers and movers ranchi to jamtara, cheap packers and movers ranchi to jamtara, ranchi to jamtara distance shifting time, movers and packers jamtara contact number, safe packing and moving ranchi to jamtara, furniture shifting ranchi to jamtara, luggage transport ranchi to jamtara";
 

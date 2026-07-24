@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Katras | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Katras | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Katras Dhanbad. Professional household shifting, car & bike transport, BCCL coalfield relocation via Purulia highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to katras, movers and packers ranchi to katras, ranchi to katras packers and movers charges, household shifting ranchi to katras, home relocation ranchi to katras, bike transport ranchi to katras, car transport service ranchi to katras, IBA approved packers and movers ranchi to katras, best packers and movers ranchi to katras, cheap packers and movers ranchi to katras, ranchi to katras distance shifting time, movers and packers katras contact number, safe packing and moving ranchi to katras, furniture shifting ranchi to katras, luggage transport ranchi to katras";
 

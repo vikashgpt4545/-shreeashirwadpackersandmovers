@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Noamundi | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Noamundi | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Noamundi West Singhbhum. Professional household shifting, car & bike transport, iron ore township transit. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to noamundi, movers and packers ranchi to noamundi, ranchi to noamundi packers and movers charges, household shifting ranchi to noamundi, home relocation ranchi to noamundi, bike transport ranchi to noamundi, car transport service ranchi to noamundi, IBA approved packers and movers ranchi to noamundi, best packers and movers ranchi to noamundi, cheap packers and movers ranchi to noamundi, ranchi to noamundi distance shifting time, movers and packers noamundi contact number, safe packing and moving ranchi to noamundi, furniture shifting ranchi to noamundi, luggage transport ranchi to noamundi";
 

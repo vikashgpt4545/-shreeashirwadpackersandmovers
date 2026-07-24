@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Koderma | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Koderma | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Koderma. Professional household shifting, car & bike transport, office relocation via NH-20 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to koderma, movers and packers ranchi to koderma, ranchi to koderma packers and movers charges, household shifting ranchi to koderma, home relocation ranchi to koderma, bike transport ranchi to koderma, car transport service ranchi to koderma, IBA approved packers and movers ranchi to koderma, best packers and movers ranchi to koderma, cheap packers and movers ranchi to koderma, ranchi to koderma distance shifting time, movers and packers koderma contact number, safe packing and moving ranchi to koderma, furniture shifting ranchi to koderma, luggage transport ranchi to koderma";
 

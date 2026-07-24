@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Daltonganj | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Daltonganj | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Daltonganj (Medininagar). Professional household shifting, car & bike transport, office relocation via NH-39 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to daltonganj, movers and packers ranchi to daltonganj, ranchi to daltonganj packers and movers charges, household shifting ranchi to daltonganj, home relocation ranchi to daltonganj, bike transport ranchi to daltonganj, car transport service ranchi to daltonganj, IBA approved packers and movers ranchi to daltonganj, best packers and movers ranchi to daltonganj, cheap packers and movers ranchi to daltonganj, ranchi to daltonganj distance shifting time, movers and packers daltonganj contact number, safe packing and moving ranchi to daltonganj, furniture shifting ranchi to daltonganj, luggage transport ranchi to daltonganj";
 

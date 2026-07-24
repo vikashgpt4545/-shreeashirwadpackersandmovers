@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Mihijam | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Mihijam | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Mihijam Jamtara. Professional household shifting, car & bike transport, CLW railway relocation via Dhanbad highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to mihijam, movers and packers ranchi to mihijam, ranchi to mihijam packers and movers charges, household shifting ranchi to mihijam, home relocation ranchi to mihijam, bike transport ranchi to mihijam, car transport service ranchi to mihijam, IBA approved packers and movers ranchi to mihijam, best packers and movers ranchi to mihijam, cheap packers and movers ranchi to mihijam, ranchi to mihijam distance shifting time, movers and packers mihijam contact number, safe packing and moving ranchi to mihijam, furniture shifting ranchi to mihijam, luggage transport ranchi to mihijam";
 

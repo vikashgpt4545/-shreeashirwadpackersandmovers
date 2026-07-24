@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Mumbai | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Mumbai | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Mumbai Maharashtra. Professional household shifting, corporate relocation, car & bike transport via NH-53. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to mumbai, movers and packers ranchi to mumbai, ranchi to mumbai packers and movers charges, household shifting ranchi to mumbai, home relocation ranchi to mumbai, bike transport ranchi to mumbai, car transport service ranchi to mumbai, IBA approved packers and movers ranchi to mumbai, best packers and movers ranchi to mumbai, cheap packers and movers ranchi to mumbai, ranchi to mumbai distance shifting time, movers and packers mumbai contact number, safe packing and moving ranchi to mumbai, furniture shifting ranchi to mumbai, luggage transport ranchi to mumbai";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Patratu | Charges 8409531615";
+$page_title = "Packers and Movers Ranchi to Patratu | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Patratu. Professional household shifting, car & bike transport, thermal power plant official relocation via Pithoria valley corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to patratu, movers and packers ranchi to patratu, ranchi to patratu packers and movers charges, household shifting ranchi to patratu, home relocation ranchi to patratu, bike transport ranchi to patratu, car transport service ranchi to patratu, IBA approved packers and movers ranchi to patratu, best packers and movers ranchi to patratu, cheap packers and movers ranchi to patratu, ranchi to patratu distance shifting time, movers and packers patratu contact number, safe packing and moving ranchi to patratu, furniture shifting ranchi to patratu, luggage transport ranchi to patratu";
 
