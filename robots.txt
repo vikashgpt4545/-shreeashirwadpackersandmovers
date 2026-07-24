@@ -1,0 +1,24 @@
+# Robots.txt for Shree Ashirwad Packers and Movers
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /scratch/
+
+# Directives for AI Search & Generative Engine Optimization (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# XML Sitemap Location
+Sitemap: https://shreeashirwadpackersandmovers.com/sitemap.xml

@@ -9,7 +9,30 @@ require_once __DIR__ . '/config.php';
   <title><?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?></title>
   <meta name="description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
   <meta name="keywords" content="<?php echo isset($page_keywords) ? htmlspecialchars($page_keywords) : DEFAULT_KEYWORDS; ?>">
-  <link rel="canonical" href="<?php echo SITE_URL; ?>">
+<?php
+  // Compute Clean Dynamic Canonical URL
+  $request_path = parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH);
+  $clean_slug = preg_replace('/^pages\//', '', ltrim($request_path, '/'));
+  $clean_slug = preg_replace('/\.php$/', '', $clean_slug);
+  $canonical_url = ($clean_slug === '' || $clean_slug === 'index') ? SITE_URL : SITE_URL . $clean_slug;
+?>
+  <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
+  
+  <!-- Open Graph / Facebook / WhatsApp Meta Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="<?php echo htmlspecialchars($canonical_url); ?>">
+  <meta property="og:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>">
+  <meta property="og:description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
+  <meta property="og:image" content="<?php echo SITE_URL; ?>assets/images/logo.png">
+  <meta property="og:site_name" content="Shree Ashirwad Packers and Movers">
+  <meta property="og:locale" content="en_IN">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="<?php echo htmlspecialchars($canonical_url); ?>">
+  <meta name="twitter:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>">
+  <meta name="twitter:description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
+  <meta name="twitter:image" content="<?php echo SITE_URL; ?>assets/images/logo.png">
   
   <!-- Site Icon (Favicon Swastik) -->
   <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
@@ -17,40 +40,70 @@ require_once __DIR__ . '/config.php';
   <!-- CSS Stylesheet -->
   <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.css">
 
-  <!-- Schema.org JSON-LD Structured Data for Local Business SEO -->
+  <!-- Schema.org JSON-LD Connected Entity Knowledge Graph for Local Business SEO & AI Search (GEO) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "MovingCompany",
-    "name": "Packers and Movers Ranchi",
-    "image": "<?php echo SITE_URL; ?>assets/images/logo.png",
-    "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-    "email": "<?php echo SITE_EMAIL; ?>",
-    "url": "<?php echo SITE_URL; ?>",
-    "address": [
+    "@graph": [
       {
-        "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
-        "addressLocality": "Ranchi",
-        "addressRegion": "Jharkhand",
-        "postalCode": "834002",
-        "addressCountry": "IN"
+        "@type": "MovingCompany",
+        "@id": "https://shreeashirwadpackersandmovers.com/#organization",
+        "name": "Shree Ashirwad Packers and Movers",
+        "alternateName": "Packers and Movers Ranchi",
+        "image": "<?php echo SITE_URL; ?>assets/images/logo.png",
+        "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+        "email": "<?php echo SITE_EMAIL; ?>",
+        "url": "https://shreeashirwadpackersandmovers.com/",
+        "priceRange": "₹₹",
+        "address": [
+          {
+            "@type": "PostalAddress",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
+            "addressCountry": "IN"
+          },
+          {
+            "@type": "PostalAddress",
+            "streetAddress": "Plot no -54/c, Post office sector - 12/A",
+            "addressLocality": "Bokaro",
+            "addressRegion": "Jharkhand",
+            "postalCode": "827012",
+            "addressCountry": "IN"
+          }
+        ],
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": <?php echo GMB_LATITUDE; ?>,
+          "longitude": <?php echo GMB_LONGITUDE; ?>
+        },
+        "hasMap": "<?php echo GMB_MAPS_URL; ?>",
+        "sameAs": [
+          "<?php echo GMB_MAPS_URL; ?>",
+          "<?php echo FACEBOOK_URL; ?>",
+          "<?php echo YOUTUBE_URL; ?>"
+        ],
+        "areaServed": ["Ranchi", "Bokaro", "Jharkhand", "India"],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "2850",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       },
       {
-        "@type": "PostalAddress",
-        "streetAddress": "Plot no -54/c, Post office sector - 12/A",
-        "addressLocality": "Bokaro",
-        "addressRegion": "Jharkhand",
-        "postalCode": "827012",
-        "addressCountry": "IN"
+        "@type": "WebPage",
+        "@id": "<?php echo htmlspecialchars($canonical_url); ?>#webpage",
+        "url": "<?php echo htmlspecialchars($canonical_url); ?>",
+        "name": "<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>",
+        "description": "<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>",
+        "isPartOf": {
+          "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+        }
       }
-    ],
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 23.3600,
-      "longitude": 85.3100
-    },
-    "areaServed": ["Ranchi", "Bokaro", "Jharkhand"]
+    ]
   }
   </script>
 </head>
