@@ -39,7 +39,7 @@ require_once __DIR__ . '/../includes/header.php';
         
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp', 'Two-Wheeler / Bike Straw Padding & Branded Tape Packing');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #1</div>
           </div>
           <div class="gallery-card-info">
@@ -50,7 +50,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp', 'Complete Cardboard & Stretch Wrap Bike Transport Packaging');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #2</div>
           </div>
           <div class="gallery-card-info">
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp', 'Custom Wooden Crate Box Framing for Glassware & Heavy Items');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #3</div>
           </div>
           <div class="gallery-card-info">
@@ -72,7 +72,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp', 'Wooden Crate & Box Protection for Large Smart LED TV');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #4</div>
           </div>
           <div class="gallery-card-info">
@@ -83,7 +83,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp', 'Heavy Corrugated Carton Boxes & Foam Sheet Packing');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #5</div>
           </div>
           <div class="gallery-card-info">
@@ -94,7 +94,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp', 'Cushioned Quilted Blanket & Shrink Wrap LED TV Packing');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #6</div>
           </div>
           <div class="gallery-card-info">
@@ -105,7 +105,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp', 'Full Transport Container Truck Loaded with Household Goods');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" loading="lazy">
+            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #7</div>
           </div>
           <div class="gallery-card-info">

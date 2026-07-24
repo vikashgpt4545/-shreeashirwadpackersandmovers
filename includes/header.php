@@ -34,9 +34,11 @@ require_once __DIR__ . '/config.php';
   <meta name="twitter:description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
   <meta name="twitter:image" content="<?php echo SITE_URL; ?>assets/images/logo.png">
   
-  <!-- Site Icon (Favicon Swastik) -->
-  <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
-  
+  <!-- Preconnect to Google Fonts & Load Fonts Directly -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap">
+
   <!-- CSS Stylesheet -->
   <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.css">
 
@@ -243,7 +245,7 @@ require_once __DIR__ . '/config.php';
       <nav class="navbar">
         <!-- Logo (Pure Swastik Symbol Image) -->
         <a href="<?php echo SITE_URL; ?>" class="brand-logo" aria-label="Home">
-          <img src="<?php echo SITE_URL; ?>assets/images/logo.png" alt="Swastik Logo">
+          <img src="<?php echo SITE_URL; ?>assets/images/logo.png" alt="Swastik Logo" width="48" height="48">
           <div class="brand-text">
             <span class="brand-title">SHREE ASHIRWAD</span>
             <span class="brand-subtitle">PACKERS &amp; MOVERS</span>
