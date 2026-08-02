@@ -85,7 +85,7 @@ require_once __DIR__ . '/includes/header.php';
               <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
               Call <?php echo SITE_PHONE; ?>
             </a>
-            <a href="contact.php" class="btn btn-outline-gold">
+            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold">
               Get Shifting Estimate
             </a>
           </div>
@@ -296,7 +296,7 @@ require_once __DIR__ . '/includes/header.php';
 
       <!-- Action Button Centered Under Container -->
       <div class="gallery-btn-wrapper">
-        <a href="<?php echo SITE_URL; ?>pages/gallery.php" class="btn btn-primary">
+        <a href="<?php echo SITE_URL; ?>gallery" class="btn btn-primary">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/></svg>
           View Full Shifting Photo Gallery
         </a>
@@ -341,7 +341,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Dedicated enclosed shifting vehicles</li>
           </ul>
           <div class="service-card-footer">
-            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Home Shifting</a>
+            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Home Shifting</a>
           </div>
         </div>
 
@@ -360,7 +360,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Weekend & overnight shifting execution</li>
           </ul>
           <div class="service-card-footer">
-            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Office Shifting</a>
+            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Office Shifting</a>
           </div>
         </div>
 
@@ -379,7 +379,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Doorstep vehicle pickup & delivery</li>
           </ul>
           <div class="service-card-footer">
-            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Vehicle Transport</a>
+            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Vehicle Transport</a>
           </div>
         </div>
 
@@ -398,7 +398,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Post-shifting unpacking & placement support</li>
           </ul>
           <div class="service-card-footer">
-            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Packing Service</a>
+            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Packing Service</a>
           </div>
         </div>
 
@@ -417,7 +417,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Flexible daily, weekly, or monthly plans</li>
           </ul>
           <div class="service-card-footer">
-            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Storage Space</a>
+            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Storage Space</a>
           </div>
         </div>
 
@@ -436,7 +436,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Real-time GPS location updates</li>
           </ul>
           <div class="service-card-footer">
-            <a href="contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Intercity Shifting</a>
+            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Intercity Shifting</a>
           </div>
         </div>
 
@@ -681,7 +681,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Free pre-move site survey or virtual consultation</li>
             <li><svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> IBA-approved GST invoices for easy claim filing</li>
           </ul>
-          <a href="contact.php" class="btn btn-primary">
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-primary">
             Request Custom Price Estimate
           </a>
         </div>
@@ -1189,7 +1189,7 @@ require_once __DIR__ . '/includes/header.php';
             Chat on WhatsApp
           </a>
 
-          <a href="contact.php" class="btn btn-outline-gold">
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold">
             Get Shifting Estimate
           </a>
         </div>

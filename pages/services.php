@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/header.php';
               <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Dedicated weatherproof container transport</li>
             </ul>
           </div>
-          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Home Shifting</a>
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Home Shifting</a>
         </div>
 
         <!-- Service Card 2 -->
@@ -92,7 +92,7 @@ require_once __DIR__ . '/../includes/header.php';
               <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Weekend & overnight zero-downtime execution</li>
             </ul>
           </div>
-          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Office Shifting</a>
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Office Shifting</a>
         </div>
 
         <!-- Service Card 3 -->
@@ -115,7 +115,7 @@ require_once __DIR__ . '/../includes/header.php';
               <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Zero mileage addition & door delivery</li>
             </ul>
           </div>
-          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Vehicle Transport</a>
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Vehicle Transport</a>
         </div>
 
         <!-- Service Card 4 -->
@@ -138,7 +138,7 @@ require_once __DIR__ . '/../includes/header.php';
               <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Quilted blanket cushioning & shrink wrap</li>
             </ul>
           </div>
-          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Crate Packaging</a>
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Crate Packaging</a>
         </div>
 
         <!-- Service Card 5 -->
@@ -161,7 +161,7 @@ require_once __DIR__ . '/../includes/header.php';
               <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Flexible weekly, monthly or yearly plans</li>
             </ul>
           </div>
-          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Storage Space</a>
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Storage Space</a>
         </div>
 
         <!-- Service Card 6 -->
@@ -184,7 +184,7 @@ require_once __DIR__ . '/../includes/header.php';
               <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Real-time satellite GPS vehicle tracking</li>
             </ul>
           </div>
-          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Intercity Shifting</a>
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center; margin-top: 15px;">Book Intercity Shifting</a>
         </div>
 
       </div>
@@ -256,7 +256,7 @@ require_once __DIR__ . '/../includes/header.php';
             <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-1.137 4.156 4.29-1.127z"/></svg>
             Chat on WhatsApp
           </a>
-          <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline">
+          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline">
             Get Instant Quote
           </a>
         </div>
