@@ -341,7 +341,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Dedicated enclosed shifting vehicles</li>
           </ul>
           <div class="service-card-footer">
-            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Home Shifting</a>
+            <a href="<?php echo SITE_URL; ?>household-shifting-checklist-ranchi" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Home Shifting</a>
           </div>
         </div>
 
@@ -360,7 +360,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Weekend & overnight shifting execution</li>
           </ul>
           <div class="service-card-footer">
-            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Office Shifting</a>
+            <a href="<?php echo SITE_URL; ?>office-relocation-guide-ranchi" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Office Shifting</a>
           </div>
         </div>
 
@@ -379,7 +379,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Doorstep vehicle pickup & delivery</li>
           </ul>
           <div class="service-card-footer">
-            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Vehicle Transport</a>
+            <a href="<?php echo SITE_URL; ?>bike-car-transportation-guide-ranchi" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Vehicle Transport</a>
           </div>
         </div>
 
@@ -398,7 +398,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Post-shifting unpacking & placement support</li>
           </ul>
           <div class="service-card-footer">
-            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Packing Service</a>
+            <a href="<?php echo SITE_URL; ?>packing-materials-used-by-packers-and-movers-in-ranchi" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Packing Service</a>
           </div>
         </div>
 
@@ -417,7 +417,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Flexible daily, weekly, or monthly plans</li>
           </ul>
           <div class="service-card-footer">
-            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Storage Space</a>
+            <a href="<?php echo SITE_URL; ?>warehouse-storage-facilities-in-ranchi" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Storage Space</a>
           </div>
         </div>
 
@@ -436,7 +436,7 @@ require_once __DIR__ . '/includes/header.php';
             <li><svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Real-time GPS location updates</li>
           </ul>
           <div class="service-card-footer">
-            <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Intercity Shifting</a>
+            <a href="<?php echo SITE_URL; ?>local-vs-intercity-shifting-charges-ranchi" class="btn btn-outline-gold" style="width: 100%; text-align: center;">Book Intercity Shifting</a>
           </div>
         </div>
 
@@ -999,7 +999,7 @@ require_once __DIR__ . '/includes/header.php';
               4 Min Read
             </span>
           </div>
-          <h3 class="tip-title">How to Prepare Household Items Before Shifting Day</h3>
+          <h3 class="tip-title"><a href="<?php echo SITE_URL; ?>household-shifting-checklist-ranchi" style="color: inherit; text-decoration: none;">How to Prepare Household Items Before Shifting Day</a></h3>
           <p class="tip-desc">
             Declutter unused items room by room, defrost your refrigerator 24 hours prior, keep essential medical & personal documents in a handbag, and label fragile boxes clearly before your <strong>packers and movers in ranchi</strong> arrive.
           </p>
@@ -1014,7 +1014,7 @@ require_once __DIR__ . '/includes/header.php';
               3 Min Read
             </span>
           </div>
-          <h3 class="tip-title">10 Items You Should Never Pack in a Shifting Truck</h3>
+          <h3 class="tip-title"><a href="<?php echo SITE_URL; ?>top-10-shifting-tips-packers-and-movers-in-ranchi" style="color: inherit; text-decoration: none;">10 Items You Should Never Pack in a Shifting Truck</a></h3>
           <p class="tip-desc">
             Avoid loading hazardous liquids, gas cylinders, paint thinners, cash, or jewelry into general transit trucks. Professional <strong>packers and movers in ranchi</strong> recommend carrying personal valuables safely in your private vehicle.
           </p>
@@ -1029,7 +1029,7 @@ require_once __DIR__ . '/includes/header.php';
               5 Min Read
             </span>
           </div>
-          <h3 class="tip-title">How to Identify Authentic Registered Packers and Movers in Ranchi</h3>
+          <h3 class="tip-title"><a href="<?php echo SITE_URL; ?>how-to-avoid-fraud-packers-and-movers-in-ranchi" style="color: inherit; text-decoration: none;">How to Identify Authentic Registered Packers and Movers in Ranchi</a></h3>
           <p class="tip-desc">
             Verify official GST registration, IBA approval certificates, physical warehouse office in Ranchi, and demand written contracts to avoid unverified local brokers posing as genuine <strong>packers and movers in ranchi</strong>.
           </p>
@@ -1044,7 +1044,7 @@ require_once __DIR__ . '/includes/header.php';
               4 Min Read
             </span>
           </div>
-          <h3 class="tip-title">Car & Bike Shifting Checklist: Preventing Transit Scratches</h3>
+          <h3 class="tip-title"><a href="<?php echo SITE_URL; ?>bike-car-transportation-guide-ranchi" style="color: inherit; text-decoration: none;">Car & Bike Shifting Checklist: Preventing Transit Scratches</a></h3>
           <p class="tip-desc">
             Wash your vehicle to inspect pre-existing scratches, keep fuel tank level low (around 25%), remove personal accessories, and record odometer readings before handing over keys to your <strong>packers and movers in ranchi</strong>.
           </p>
