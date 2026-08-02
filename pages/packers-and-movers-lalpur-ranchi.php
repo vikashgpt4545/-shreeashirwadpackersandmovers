@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Lalpur Ranchi | 8409531615";
 $page_desc = "Packers and Movers Lalpur Ranchi offering safe household shifting, office relocation, bike & car transport in Lalpur Chowk, Circular Road & Plaza Chowk. Call 8409531615.";
 $page_keywords = "packers and movers lalpur ranchi, packers and movers in lalpur ranchi, best packers and movers in lalpur ranchi, cheap packers and movers lalpur ranchi, packers and movers in lalpur chowk ranchi, household shifting in lalpur ranchi, home relocation services lalpur ranchi, office shifting in lalpur ranchi, bike transport lalpur ranchi, car transport service lalpur ranchi, packers and movers circular road ranchi, movers and packers plaza chowk ranchi, packers and movers ranchi charges, movers and packers lalpur contact number, safe packing and moving lalpur, iba approved packers and movers ranchi, local packers and movers lalpur ranchi, furniture shifting in lalpur, house relocation in lalpur ranchi, luggage transport service lalpur";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    [
+        'q' => 'How are packers and movers lalpur ranchi charges calculated?',
+        'a' => 'Relocation charges are calculated based on total goods volume, packing material requirements, floor level at Circular Road or Plaza Chowk, lift availability, and travel distance to your new location.'
+    ],
+    [
+        'q' => 'Do you provide IBA approved bills for corporate claims in Lalpur?',
+        'a' => 'Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized packing lists accepted by all government, PSU, defense, railway, and private corporate HR departments.'
+    ],
+    [
+        'q' => 'How early should I book household shifting in Lalpur Ranchi?',
+        'a' => 'For local household shifting within Lalpur or Ranchi city, booking 2 to 3 days in advance is recommended. For intercity moves, we advise booking 4 to 7 days in advance to reserve dedicated container trucks.'
+    ],
+    [
+        'q' => 'How do you protect fragile items during shifting from Lalpur?',
+        'a' => 'We apply multi-layer protective packaging consisting of stretch film, high-density air-bubble wrap, foam corner guards, quilted blankets, and custom-built wooden crates to absorb transit shocks.'
+    ],
+    [
+        'q' => 'Can I track my moving truck during transit from Lalpur Ranchi?',
+        'a' => 'Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking. You receive continuous status updates from your move supervisor.'
+    ],
+    [
+        'q' => 'Do you transport bikes and cars from Lalpur Chowk Ranchi?',
+        'a' => 'Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping for scratch-free vehicle logistics across India.'
+    ],
+    [
+        'q' => 'Is transit insurance available for relocation from Lalpur?',
+        'a' => 'We offer comprehensive transit insurance coverage that protects your shipment against unforeseen environmental factors or road accidents during long-distance transit.'
+    ],
+    [
+        'q' => 'Do your packers dismantle beds and wardrobes in Lalpur flats?',
+        'a' => 'Yes, our trained carpenters and move staff dismantle double beds, wardrobes, modular desks, and dining tables at origin, and reassemble them at destination.'
+    ],
+    [
+        'q' => 'Are there any hidden costs added on move day in Lalpur?',
+        'a' => 'No! We maintain a strict policy of transparent billing. All cost factors are discussed and fixed prior to move day with zero hidden surcharges.'
+    ],
+    [
+        'q' => 'What is the contact number for packers and movers in lalpur ranchi?',
+        'a' => 'You can call or WhatsApp our official Lalpur Ranchi Helpline at +91 8409531615 or email us for immediate assistance.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Lalpur Ranchi</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

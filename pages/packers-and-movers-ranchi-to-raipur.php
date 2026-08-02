@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Raipur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Raipur Chhattisgarh. Professional household shifting, office relocation, car & bike transport via NH-53. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to raipur, movers and packers ranchi to raipur, ranchi to raipur packers and movers charges, household shifting ranchi to raipur, home relocation ranchi to raipur, bike transport ranchi to raipur, car transport service ranchi to raipur, IBA approved packers and movers ranchi to raipur, best packers and movers ranchi to raipur, cheap packers and movers ranchi to raipur, ranchi to raipur distance shifting time, movers and packers raipur contact number, safe packing and moving ranchi to raipur, furniture shifting ranchi to raipur, luggage transport ranchi to raipur";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Raipur?', 'a' => 'Guaranteed delivery within 24 to 48 hours. Average transit time is 12 to 14 hours via Sambalpur NH-53.'],
+    ['q' => 'What are the packers and movers Ranchi to Raipur charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for Chhattisgarh govt and corporate staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for AIIMS, PSU, and corporate employee reimbursement.'],
+    ['q' => 'Do you deliver to all Raipur localities?', 'a' => 'Yes, we deliver to Shankar Nagar, Pandri, Telibandha, VIP Road, Naya Raipur, Tatibandh, and Sadar Bazar.'],
+    ['q' => 'Is transit insurance available for Ranchi to Raipur shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Raipur?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Raipur?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Raipur destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Raipur quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Raipur packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Raipur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

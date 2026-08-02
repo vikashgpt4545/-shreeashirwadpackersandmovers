@@ -5,10 +5,39 @@ $page_title = "How to Avoid Fraud Packers and Movers in Ranchi 2026 | Safety Gui
 $page_desc = "Learn how to avoid fraud packers and movers in Ranchi. Verification checklist, red flags, IBA compliance, physical office checks & genuine rates. Call 8409531615.";
 $page_keywords = "how to avoid fraud packers and movers in ranchi, scam movers prevention ranchi, verified movers ranchi, fake packers movers identification ranchi, IBA approved packers ranchi, genuine moving company ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What is the most common scam committed by fake packers and movers in Ranchi?', 'a' => 'The most common scam involves providing an artificially low verbal estimate over the phone, loading goods onto a truck, and then refusing to deliver until double or triple the agreed amount is paid.'],
+    ['q' => 'How can I check if a moving company in Ranchi is government registered?', 'a' => 'Request their 15-digit GSTIN number and enter it on the official GST portal (gst.gov.in) to verify their business trade name, legal status, and registered address.'],
+    ['q' => 'Why should I never book packers and movers based solely on phone quotes?', 'a' => 'Phone estimates are non-binding and allow unscrupulous operators to claim that your inventory volume was underestimated, adding arbitrary fees during loading.'],
+    ['q' => 'What document proves that a moving truck consignment is legitimate?', 'a' => 'A printed, stamped Lorry Receipt (LR) detailing company GSTIN, truck registration number, driver contact details, inventory list, and fixed rate breakdown is legal proof.'],
+    ['q' => 'How can I identify cloned or duplicate moving company websites?', 'a' => 'Check domain spelling carefully, verify office phone numbers listed on official domain contacts, and ensure the domain SSL certificate is valid and secure.'],
+    ['q' => 'Is paying 100% advance payment to packers and movers recommended?', 'a' => 'No, legitimate moving companies collect a small advance booking token (10-20%), with final settlement paid upon successful doorstep delivery and inspection.'],
+    ['q' => 'How do fraudsters fake transit insurance documents?', 'a' => 'Unverified operators charge insurance fees but issue fake self-printed insurance notes without registering an active policy with authorized insurance companies.'],
+    ['q' => 'What should I do if a mover holds my household goods hostage for extra money?', 'a' => 'Immediately report the incident to National Consumer Helpline (1915) and file an FIR for extortion at your local police station using contract documents.'],
+    ['q' => 'What does IBA approval mean for packers and movers in Ranchi?', 'a' => 'IBA (Indian Banks\' Association) approval signifies that a logistics company meets strict financial, operational, and fleet safety criteria for bank employee relocations.'],
+    ['q' => 'Why should I inspect a mover\'s physical office in Ranchi before hiring?', 'a' => 'Visiting their physical office confirms they possess permanent infrastructure, administrative staff, owned transport vehicles, and valid trade licenses.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">How to Avoid Fraud Packers and Movers in Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

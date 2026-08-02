@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Khelgaon Ranchi | 8409531615";
 $page_desc = "Packers and Movers Khelgaon Ranchi offering safe household shifting, home relocation, bike & car transport near Khelgaon Housing Complex, Kokar & Booty More. Call 8409531615.";
 $page_keywords = "packers and movers khelgaon ranchi, packers and movers in khelgaon ranchi, best packers and movers in khelgaon ranchi, cheap packers and movers khelgaon ranchi, household shifting in khelgaon ranchi, home relocation services khelgaon ranchi, office shifting in khelgaon ranchi, bike transport khelgaon ranchi, car transport service khelgaon ranchi, packers and movers khelgaon housing complex, movers and packers kokar ranchi, packers and movers ranchi charges, movers and packers khelgaon contact number, safe packing and moving khelgaon, iba approved packers and movers ranchi, local packers and movers khelgaon ranchi, furniture shifting in khelgaon, house relocation in khelgaon ranchi, luggage transport service khelgaon";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    [
+        'q' => 'How are packers and movers khelgaon ranchi charges calculated?',
+        'a' => 'Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.'
+    ],
+    [
+        'q' => 'Do you issue IBA approved bills for official moves in Khelgaon?',
+        'a' => 'Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.'
+    ],
+    [
+        'q' => 'How early should I book household shifting in Khelgaon?',
+        'a' => 'For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.'
+    ],
+    [
+        'q' => 'How do you protect home furniture and electronics during transit?',
+        'a' => 'We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.'
+    ],
+    [
+        'q' => 'Can I track my moving container truck during transit?',
+        'a' => 'Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your move supervisor.'
+    ],
+    [
+        'q' => 'Do you transport cars and bikes safely from Khelgaon?',
+        'a' => 'Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping across India.'
+    ],
+    [
+        'q' => 'Is transit insurance included for relocation from Khelgaon?',
+        'a' => 'We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during long-distance transit.'
+    ],
+    [
+        'q' => 'Do your packers disassemble beds and wardrobes in Khelgaon homes?',
+        'a' => 'Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.'
+    ],
+    [
+        'q' => 'Are there any hidden fees added on move day?',
+        'a' => 'No! We maintain a strict policy of transparent billing with zero hidden charges.'
+    ],
+    [
+        'q' => 'What is the contact number for packers and movers in khelgaon ranchi?',
+        'a' => 'You can call or WhatsApp our official Helpline at +91 8409531615 or email us for immediate assistance.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Khelgaon Ranchi</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

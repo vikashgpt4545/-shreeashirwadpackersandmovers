@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Gamharia Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Gamharia Jamshedpur offering safe household shifting, industrial plant relocation, bike shipping, and car transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers gamharia jamshedpur, packers and movers in gamharia, best packers movers gamharia, household shifting gamharia, gamharia industrial movers, office relocation gamharia, car transport gamharia, bike shipping gamharia, IBA approved movers gamharia";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you handle Gamharia industrial estate relocations?',
+        'a' => 'Yes, we serve all sectors in Gamharia including industrial estates, residential colonies, and Kandra road.'
+    ],
+    [
+        'q' => 'Are GST bills provided for employee claim reimbursements?',
+        'a' => 'Yes, we issue genuine IBA GST bills and consignment LR copies.'
+    ],
+    [
+        'q' => 'How early should I schedule shifting in Gamharia?',
+        'a' => 'Booking 2 to 3 days in advance ensures smooth vehicle scheduling.'
+    ],
+    [
+        'q' => 'Can heavy machinery be transported from Gamharia?',
+        'a' => 'Yes, we deploy specialized heavy machinery trailers and cranes upon request.'
+    ],
+    [
+        'q' => 'Is transit insurance provided for intercity routes from Gamharia?',
+        'a' => 'Yes, full transit insurance coverage is available.'
+    ],
+    [
+        'q' => 'How do you transport bikes from Gamharia?',
+        'a' => 'Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.'
+    ],
+    [
+        'q' => 'Are packing materials included in the price estimate?',
+        'a' => 'Yes, all 7 layers of packing material are included in the estimate.'
+    ],
+    [
+        'q' => 'Do you disassemble beds and wardrobes?',
+        'a' => 'Yes, our experienced carpenters disassemble and reassemble furniture.'
+    ],
+    [
+        'q' => 'Are there any hidden charges?',
+        'a' => 'No, we provide clear written quotes prior to starting.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Gamharia?',
+        'a' => 'Call +91 8409531615 or message us on WhatsApp for an immediate quote.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Gamharia Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

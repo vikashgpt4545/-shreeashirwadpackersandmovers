@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Bistupur Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Bistupur Jamshedpur offering safe, reliable, and affordable household shifting, office relocation, and car transport services. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bistupur jamshedpur, packers and movers in bistupur, best packers and movers bistupur, household shifting bistupur jamshedpur, office relocation bistupur, car transport bistupur, bike shipping bistupur jamshedpur, local movers bistupur, IBA approved packers movers bistupur, shifting charges bistupur jamshedpur";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you handle household shifting near Bistupur Market and Main Road?',
+        'a' => 'Yes, our crew handles relocations across all Bistupur sectors including Main Road, Circuit House Area, Contractors Area, and South Park.'
+    ],
+    [
+        'q' => 'Are your GST bills valid for corporate claims in TATA companies?',
+        'a' => 'Yes, we issue genuine IBA-approved GST invoices and LR bills fully compliant for employee reimbursement.'
+    ],
+    [
+        'q' => 'How much advance notice is required to book shifting in Bistupur?',
+        'a' => 'Booking 2 to 4 days in advance is ideal for securing your preferred shifting time slot.'
+    ],
+    [
+        'q' => 'Do you offer commercial office relocation in Bistupur?',
+        'a' => 'Yes, we relocate retail stores, IT hubs, and corporate offices with zero business disruption.'
+    ],
+    [
+        'q' => 'Is transit insurance provided for goods moving out of Bistupur?',
+        'a' => 'Yes, full transit insurance coverage is available for intercity goods movement.'
+    ],
+    [
+        'q' => 'Can you transport car and bike from Bistupur to other states?',
+        'a' => 'Yes, closed car containers and cushioned bike transport vehicles are available.'
+    ],
+    [
+        'q' => 'Are packing materials included in the service?',
+        'a' => 'Yes, all 7 layers of packing material including cartons, bubble wrap, and stretch film are provided.'
+    ],
+    [
+        'q' => 'Do you disassemble double beds and wardrobes?',
+        'a' => 'Our trained carpenters dismantle and re-assemble all wooden furniture at your new home.'
+    ],
+    [
+        'q' => 'Are there any hidden loading charges?',
+        'a' => 'No, we provide transparent, itemized written quotes prior to starting the work.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Bistupur?',
+        'a' => 'Call us directly at +91 8409531615 or click the WhatsApp button for instant assistance.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Bistupur Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

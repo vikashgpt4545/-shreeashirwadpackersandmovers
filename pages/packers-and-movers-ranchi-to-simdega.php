@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Simdega | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Simdega. Professional household shifting, car & bike transport, office relocation via Bero-Gumla highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to simdega, movers and packers ranchi to simdega, ranchi to simdega packers and movers charges, household shifting ranchi to simdega, home relocation ranchi to simdega, bike transport ranchi to simdega, car transport service ranchi to simdega, IBA approved packers and movers ranchi to simdega, best packers and movers ranchi to simdega, cheap packers and movers ranchi to simdega, ranchi to simdega distance shifting time, movers and packers simdega contact number, safe packing and moving ranchi to simdega, furniture shifting ranchi to simdega, luggage transport ranchi to simdega";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Simdega?', 'a' => 'Same-day express delivery. Average transit time is 3 to 4 hours via Gumla / Bano highway.'],
+    ['q' => 'What are the packers and movers Ranchi to Simdega charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for district administration and govt staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for Simdega district Collectorate, police, and teacher employee reimbursement.'],
+    ['q' => 'Do you deliver to all Simdega localities?', 'a' => 'Yes, we deliver to Simdega Town, Kolebira, Bano, Kurdeg, Bolba, and Thethaitangar.'],
+    ['q' => 'Is transit insurance available for Ranchi to Simdega shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Simdega?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Simdega?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Simdega destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Simdega quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Simdega packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Simdega</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

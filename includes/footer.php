@@ -5,19 +5,24 @@ require_once __DIR__ . '/config.php';
   <footer class="site-footer" id="contact">
     <div class="container">
       <div class="footer-grid">
-        <!-- Ranchi & Bokaro Office Details (Matching Image Details Exactly) -->
+        <!-- Ranchi, Jamshedpur & Bokaro Office Details -->
         <div class="footer-col">
           <h3 class="footer-heading">Our Office Locations</h3>
           <div class="footer-address-list">
-            <!-- Ranchi Address -->
+            <!-- Ranchi HQ Address -->
             <div class="footer-address-item">
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-              <span><?php echo ADDRESS_RANCHI; ?></span>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5-2.5z"/></svg>
+              <span><strong>Ranchi HQ:</strong> <?php echo ADDRESS_RANCHI; ?></span>
+            </div>
+            <!-- Jamshedpur Hub Address -->
+            <div class="footer-address-item">
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5-2.5z"/></svg>
+              <span><strong>Jamshedpur Hub:</strong> <?php echo ADDRESS_JAMSHEDPUR; ?></span>
             </div>
             <!-- Bokaro Address -->
             <div class="footer-address-item">
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-              <span><?php echo ADDRESS_BOKARO; ?></span>
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5-2.5z"/></svg>
+              <span><strong>Bokaro Branch:</strong> <?php echo ADDRESS_BOKARO; ?></span>
             </div>
             <!-- Email -->
             <div class="footer-address-item">
@@ -42,7 +47,7 @@ require_once __DIR__ . '/config.php';
         <!-- Call & Assistance & Social Links -->
         <div class="footer-col">
           <h3 class="footer-heading">Customer Assistance</h3>
-          <p style="font-size: 0.88rem; margin-bottom: 12px;">Need instant relocation assistance or transparent rate estimation in Ranchi?</p>
+          <p style="font-size: 0.88rem; margin-bottom: 12px;">Need instant relocation assistance or transparent rate estimation in <?php echo isset($target_city) ? htmlspecialchars($target_city) : 'Ranchi'; ?>?</p>
           <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary" style="width: 100%; text-align: center; margin-bottom: 15px;">
             Call Now: <?php echo SITE_PHONE; ?>
           </a>
@@ -55,7 +60,7 @@ require_once __DIR__ . '/config.php';
               <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg> YouTube
             </a>
             <a href="<?php echo GMB_MAPS_URL; ?>" target="_blank" rel="noopener" title="Google Map Profile" style="color: #4285F4; display: flex; align-items: center; gap: 4px; font-weight: 500; font-size: 0.88rem;">
-              <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg> Location
+              <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5-2.5z"/></svg> Location
             </a>
           </div>
         </div>
@@ -63,7 +68,7 @@ require_once __DIR__ . '/config.php';
 
       <!-- Copyright Bottom Bar -->
       <div class="footer-bottom">
-        <p>&copy; <?php echo date('Y'); ?> Packers and Movers in Ranchi. All Rights Reserved.</p>
+        <p>&copy; <?php echo date('Y'); ?> <?php echo isset($city_details['footer_tag']) ? htmlspecialchars($city_details['footer_tag']) : 'Packers and Movers in Ranchi. All Rights Reserved.'; ?></p>
       </div>
     </div>
   </footer>

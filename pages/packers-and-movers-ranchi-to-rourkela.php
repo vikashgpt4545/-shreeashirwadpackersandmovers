@@ -3,12 +3,40 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Ranchi to Rourkela | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Rourkela Odisha. Professional household shifting, Steel Township Civil Township Chhend Colony Sector 6 NIT Campus Panposh relocation, car & bike transport. Call 8409531615.";
-$page_keywords = "packers and movers ranchi to rourkela, movers and packers ranchi to rourkela, ranchi to rourkela packers and movers cost, household shifting ranchi to rourkela, home relocation ranchi to rourkela, bike transport ranchi to rourkela, car transport service ranchi to rourkela, IBA approved packers and movers ranchi to rourkela, best packers and movers ranchi to rourkela, cheap packers and movers ranchi to rourkela, ranchi to rourkela distance shifting time, movers and packers rourkela contact number, safe packing and moving ranchi to rourkela, furniture shifting ranchi to rourkela, luggage transport ranchi to rourkela";
+$page_keywords = "packers and movers ranchi to rourkela, movers and packers ranchi to rourkela, ranchi to rourkela packers and movers charges, household shifting ranchi to rourkela, home relocation ranchi to rourkela, bike transport ranchi to rourkela, car transport service ranchi to rourkela, IBA approved packers and movers ranchi to rourkela, best packers and movers ranchi to rourkela, cheap packers and movers ranchi to rourkela, ranchi to rourkela distance shifting time, movers and packers rourkela contact number, safe packing and moving ranchi to rourkela, furniture shifting ranchi to rourkela, luggage transport ranchi to rourkela";
+
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Rourkela?', 'a' => 'Guaranteed same-day / next-day delivery. Average transit time is 6 to 8 hours via Simdega / Birmitrapur route.'],
+    ['q' => 'What are the packers and movers Ranchi to Rourkela charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for SAIL Rourkela Steel Plant and NIT staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for SAIL RSP, NIT Rourkela, and railway employee reimbursement.'],
+    ['q' => 'Do you deliver to all Rourkela localities?', 'a' => 'Yes, we deliver to Steel Township, Civil Township, Chhend Colony, Koel Nagar, Udit Nagar, Panposh, and Raghunathpali.'],
+    ['q' => 'Is transit insurance available for Ranchi to Rourkela shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Rourkela?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Rourkela?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Rourkela destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Rourkela quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Rourkela packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Rourkela</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

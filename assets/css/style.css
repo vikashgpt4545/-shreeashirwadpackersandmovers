@@ -3560,3 +3560,41 @@ ul {
   }
 }
 
+/* ==========================================================================
+   Visual Breadcrumb Navigation & SEO Utility Classes
+   ========================================================================== */
+.breadcrumb-wrapper {
+  background-color: var(--primary-color);
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(245, 158, 11, 0.15);
+}
+
+.breadcrumb-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 0.85rem;
+  color: #94a3b8;
+}
+
+.breadcrumb-item a {
+  color: #cbd5e1;
+  font-weight: 500;
+}
+
+.breadcrumb-item a:hover {
+  color: var(--brand-yellow);
+}
+
+.breadcrumb-separator {
+  color: var(--brand-yellow);
+  font-size: 0.8rem;
+}
+
+.breadcrumb-item.active {
+  color: var(--brand-yellow);
+  font-weight: 600;
+}
+
+

@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Agrico Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Agrico Jamshedpur offering safe household shifting, office relocation, bike shipping, and car transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers agrico jamshedpur, packers and movers in agrico, best packers movers agrico, household shifting agrico, agrico club movers, office relocation agrico, car transport agrico, bike shipping agrico, IBA approved movers agrico";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you serve Agrico Club House and surrounding quarters?',
+        'a' => 'Yes, we serve all sectors in Agrico including Agrico Club House area, Sidhgora border, and Bhalubasa road.'
+    ],
+    [
+        'q' => 'Are GST bills provided for employee claim reimbursements?',
+        'a' => 'Yes, we issue genuine IBA GST bills and consignment LR copies.'
+    ],
+    [
+        'q' => 'How early should I schedule shifting in Agrico?',
+        'a' => 'Booking 2 to 3 days in advance ensures smooth vehicle scheduling.'
+    ],
+    [
+        'q' => 'Can you move Tata quarters in Agrico?',
+        'a' => 'Yes, we are experienced in moving Tata quarters and bungalows in Agrico.'
+    ],
+    [
+        'q' => 'Is transit insurance provided for intercity routes from Agrico?',
+        'a' => 'Yes, full transit insurance coverage is available.'
+    ],
+    [
+        'q' => 'How do you transport bikes from Agrico?',
+        'a' => 'Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.'
+    ],
+    [
+        'q' => 'Are packing materials included in the price estimate?',
+        'a' => 'Yes, all 7 layers of packing material are included in the estimate.'
+    ],
+    [
+        'q' => 'Do you disassemble beds and wardrobes?',
+        'a' => 'Yes, our experienced carpenters disassemble and reassemble furniture.'
+    ],
+    [
+        'q' => 'Are there any hidden charges?',
+        'a' => 'No, we provide clear written quotes prior to starting.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Agrico?',
+        'a' => 'Call +91 8409531615 or message us on WhatsApp for an immediate quote.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Agrico Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

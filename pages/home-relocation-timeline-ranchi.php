@@ -5,10 +5,39 @@ $page_title = "Home Relocation Timeline Ranchi | 4-Week Moving Planner";
 $page_desc = "Complete home relocation timeline for Ranchi households. 4-week step-by-step moving checklist, pre-move survey, packing schedules & unpacking guide. Call 8409531615.";
 $page_keywords = "home relocation timeline ranchi, moving timeline ranchi, household shifting checklist ranchi, pre move planner ranchi, Packers movers schedule ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How far in advance should I plan my home relocation timeline in Ranchi?', 'a' => 'We recommend starting your home relocation timeline 3 to 4 weeks prior to your target moving date for pre-move survey, decluttering, and utility address transfers.'],
+    ['q' => 'How much does local home shifting cost in Ranchi for 2 BHK apartments?', 'a' => 'Local 2 BHK home shifting rates range from ₹7,500 to ₹13,000 depending on total goods volume, floor count, elevator availability, and packing material scope.'],
+    ['q' => 'How long does local home shifting take within Ranchi on moving day?', 'a' => 'Local Ranchi moves are completed within 6 to 10 hours on the same day, covering packing, loading, truck transit, unloading, and basic furniture positioning.'],
+    ['q' => 'When should I book packers and movers in Ranchi for weekend moves?', 'a' => 'Weekend dates and month-end slots experience high demand. We advise booking your slot at least 7 to 10 days in advance.'],
+    ['q' => 'What packing materials are used for fragile kitchen crockery and glassware?', 'a' => 'Crockery is wrapped individually in air-bubble film, layered with corrugated divider sheets, and packed into heavy-duty 5-ply double-wall cartons.'],
+    ['q' => 'How are large wardrobes and double beds handled during home relocation?', 'a' => 'Our carpentry crew unbolts modular double beds and wardrobes, wraps individual panels in bubble film, and reassembles them at your new home.'],
+    ['q' => 'Do you provide unpacking and furniture arrangement services at destination?', 'a' => 'Yes, our crew unloads boxes into designated rooms, reassembles beds and tables, unwraps major appliances, and takes away packing waste materials.'],
+    ['q' => 'How is transit insurance calculated for intercity home shifting?', 'a' => 'Transit insurance is calculated at 3% of the total declared value of household goods, covering accidental damage, fire, or vehicle overturning.'],
+    ['q' => 'What items should I pack personally in an essential survival bag?', 'a' => 'Pack personal medicines, important documents, laptop, cash, jewelry, phone chargers, toiletries, and 3 days of clothes in a bag you carry yourself.'],
+    ['q' => 'Are home electronics like ACs, TVs, and water purifiers uninstalled by your crew?', 'a' => 'Yes, certified electricians and technicians unmount split ACs, smart TVs, geysers, and RO purifiers for safe packing and reinstallation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Home Relocation Timeline Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

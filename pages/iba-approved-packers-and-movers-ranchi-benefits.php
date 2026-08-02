@@ -5,10 +5,39 @@ $page_title = "IBA Approved Packers and Movers Ranchi Benefits 2026 | Official G
 $page_desc = "Key benefits of hiring IBA approved packers and movers in Ranchi. Bank & Govt relocation clearance, claim reimbursement, verified transport & insurance. Call 8409531615.";
 $page_keywords = "iba approved packers and movers ranchi benefits, iba approved movers ranchi, bank employee relocation ranchi, iba bill format ranchi, verified packers movers ranchi, iba code relocation ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What is an IBA approved packer and mover?', 'a' => 'An IBA approved packer and mover is a logistics operator empaneled by the Indian Banks\' Association having met strict standards for fleet quality, financial safety, and legal compliance.'],
+    ['q' => 'Why do public sector banks require IBA approved bills for officer transfers?', 'a' => 'Public sector banks mandate IBA approved bills to ensure that relocation funds are disbursed to verified, legal transport operators using standard rates.'],
+    ['q' => 'Which documents are required for bank relocation reimbursement?', 'a' => 'The complete package includes the IBA Lorry Receipt (LR), GST Tax Invoice, Itemized Inventory List, Transit Insurance Policy, Money Receipt, and Vehicle Inspection Report.'],
+    ['q' => 'Can non-bank corporate employees hire IBA approved movers?', 'a' => 'Yes, non-bank corporate professionals can hire IBA approved movers to benefit from guaranteed safety standards, quality container fleets, and transparent pricing.'],
+    ['q' => 'How can I verify the IBA code of Shree Ashirwad Packers and Movers?', 'a' => 'Our official IBA approval code letter and empanelment certificate are displayed at our Ranchi office and printed on all official letterheads.'],
+    ['q' => 'Does IBA approval cover motorcycle and car transportation?', 'a' => 'Yes, IBA approved vehicle carriers provide specialized single-car and multi-car enclosed transport along with official condition reports for claim approval.'],
+    ['q' => 'What is the difference between an ordinary mover and an IBA approved mover?', 'a' => 'Ordinary movers may lack GST registration, owned container fleets, or valid insurance, whereas IBA approved movers pass rigorous financial and operational audits.'],
+    ['q' => 'How does transit insurance protect my goods during an IBA relocation?', 'a' => 'All-risk transit insurance covers total or partial loss caused by highway accidents, overturning, fire, or natural calamities based on the declared goods inventory.'],
+    ['q' => 'Are IBA approved rates higher than unverified moving quotes?', 'a' => 'IBA rates reflect genuine, standard market rates in Ranchi for multi-layer packing, container transport, and insurance without surprise extra fees on delivery.'],
+    ['q' => 'Can I get IBA bills for intercity moves from Ranchi to South India?', 'a' => 'Yes, our IBA consignment documentation is valid nationwide for relocations from Ranchi to Bengaluru, Hyderabad, Chennai, Mumbai, or Pune.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">IBA Approved Packers and Movers Ranchi Benefits</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -15,6 +15,34 @@ require_once __DIR__ . '/config.php';
   $clean_slug = preg_replace('/^pages\//', '', ltrim($request_path, '/'));
   $clean_slug = preg_replace('/\.php$/', '', $clean_slug);
   $canonical_url = ($clean_slug === '' || $clean_slug === 'index') ? SITE_URL : SITE_URL . $clean_slug;
+
+  // Dynamic Target City Detection for Multi-City Schema & GEO Context
+  $target_city = "Ranchi"; // Default HQ City
+  if (isset($page_city) && !empty($page_city)) {
+      $target_city = ucfirst(strtolower(trim($page_city)));
+  } elseif (stripos($clean_slug, 'jamshedpur') !== false || (isset($page_title) && stripos($page_title, 'jamshedpur') !== false)) {
+      $target_city = "Jamshedpur";
+  } elseif (stripos($clean_slug, 'bokaro') !== false || (isset($page_title) && stripos($page_title, 'bokaro') !== false)) {
+      $target_city = "Bokaro";
+  } elseif (stripos($clean_slug, 'dhanbad') !== false || (isset($page_title) && stripos($page_title, 'dhanbad') !== false)) {
+      $target_city = "Dhanbad";
+  } elseif (stripos($clean_slug, 'hazaribagh') !== false || (isset($page_title) && stripos($page_title, 'hazaribagh') !== false)) {
+      $target_city = "Hazaribagh";
+  }
+
+  $city_details = get_city_details($target_city);
+
+  // Dynamic Social Open Graph Image Selection based on Page Category / Slug
+  $og_image_url = SITE_URL . "assets/images/logo.png";
+  if (stripos($clean_slug, 'car') !== false) {
+      $og_image_url = SITE_URL . "assets/images/car-carrier.jpg";
+  } elseif (stripos($clean_slug, 'bike') !== false) {
+      $og_image_url = SITE_URL . "assets/images/bike-transport.jpg";
+  } elseif (stripos($clean_slug, 'office') !== false) {
+      $og_image_url = SITE_URL . "assets/images/office-shifting.jpg";
+  } elseif (stripos($clean_slug, 'warehouse') !== false || stripos($clean_slug, 'storage') !== false) {
+      $og_image_url = SITE_URL . "assets/images/warehouse.jpg";
+  }
 ?>
   <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
   
@@ -23,7 +51,7 @@ require_once __DIR__ . '/config.php';
   <meta property="og:url" content="<?php echo htmlspecialchars($canonical_url); ?>">
   <meta property="og:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>">
   <meta property="og:description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
-  <meta property="og:image" content="<?php echo SITE_URL; ?>assets/images/logo.png">
+  <meta property="og:image" content="<?php echo htmlspecialchars($og_image_url); ?>">
   <meta property="og:site_name" content="Shree Ashirwad Packers and Movers">
   <meta property="og:locale" content="en_IN">
 
@@ -32,7 +60,7 @@ require_once __DIR__ . '/config.php';
   <meta name="twitter:url" content="<?php echo htmlspecialchars($canonical_url); ?>">
   <meta name="twitter:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>">
   <meta name="twitter:description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
-  <meta name="twitter:image" content="<?php echo SITE_URL; ?>assets/images/logo.png">
+  <meta name="twitter:image" content="<?php echo htmlspecialchars($og_image_url); ?>">
   
   <!-- Site Icon (Favicon Swastik) -->
   <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
@@ -56,7 +84,7 @@ require_once __DIR__ . '/config.php';
         "@type": "MovingCompany",
         "@id": "https://shreeashirwadpackersandmovers.com/#organization",
         "name": "Shree Ashirwad Packers and Movers",
-        "alternateName": "Packers and Movers Ranchi",
+        "alternateName": "Packers and Movers <?php echo htmlspecialchars($target_city); ?>",
         "image": "<?php echo SITE_URL; ?>assets/images/logo.png",
         "telephone": "<?php echo SITE_PHONE_RAW; ?>",
         "email": "<?php echo SITE_EMAIL; ?>",
@@ -65,25 +93,17 @@ require_once __DIR__ . '/config.php';
         "address": [
           {
             "@type": "PostalAddress",
-            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
-            "addressLocality": "Ranchi",
-            "addressRegion": "Jharkhand",
-            "postalCode": "834002",
-            "addressCountry": "IN"
-          },
-          {
-            "@type": "PostalAddress",
-            "streetAddress": "Plot no -54/c, Post office sector - 12/A",
-            "addressLocality": "Bokaro",
-            "addressRegion": "Jharkhand",
-            "postalCode": "827012",
+            "streetAddress": "<?php echo htmlspecialchars($city_details['street']); ?>",
+            "addressLocality": "<?php echo htmlspecialchars($city_details['name']); ?>",
+            "addressRegion": "<?php echo htmlspecialchars($city_details['state']); ?>",
+            "postalCode": "<?php echo htmlspecialchars($city_details['pincode']); ?>",
             "addressCountry": "IN"
           }
         ],
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": <?php echo GMB_LATITUDE; ?>,
-          "longitude": <?php echo GMB_LONGITUDE; ?>
+          "latitude": <?php echo $city_details['lat']; ?>,
+          "longitude": <?php echo $city_details['lng']; ?>
         },
         "hasMap": "<?php echo GMB_MAPS_URL; ?>",
         "sameAs": [
@@ -91,7 +111,7 @@ require_once __DIR__ . '/config.php';
           "<?php echo FACEBOOK_URL; ?>",
           "<?php echo YOUTUBE_URL; ?>"
         ],
-        "areaServed": ["Ranchi", "Bokaro", "Jharkhand", "India"],
+        "areaServed": ["<?php echo htmlspecialchars($target_city); ?>", "Ranchi", "Jamshedpur", "Bokaro", "Dhanbad", "Hazaribagh", "Jharkhand", "India"],
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -108,15 +128,15 @@ require_once __DIR__ . '/config.php';
               "itemOffered": {
                 "@type": "Service",
                 "@id": "https://shreeashirwadpackersandmovers.com/#service-household-shifting",
-                "name": "Household Shifting in Ranchi",
-                "description": "Complete home relocation services in Ranchi with 7-layer bubble wrap packing, furniture disassembly, enclosed container truck transport, and room-by-room setup at destination.",
+                "name": "Household Shifting in <?php echo htmlspecialchars($target_city); ?>",
+                "description": "Complete home relocation services in <?php echo htmlspecialchars($target_city); ?> with 7-layer bubble wrap packing, furniture disassembly, enclosed container truck transport, and room-by-room setup at destination.",
                 "serviceType": "Household Shifting",
                 "provider": {
                   "@id": "https://shreeashirwadpackersandmovers.com/#organization"
                 },
                 "areaServed": {
                   "@type": "City",
-                  "name": "Ranchi"
+                  "name": "<?php echo htmlspecialchars($target_city); ?>"
                 }
               }
             },
@@ -125,15 +145,15 @@ require_once __DIR__ . '/config.php';
               "itemOffered": {
                 "@type": "Service",
                 "@id": "https://shreeashirwadpackersandmovers.com/#service-office-shifting",
-                "name": "Office and Commercial Shifting in Ranchi",
-                "description": "Zero-downtime corporate office relocation in Ranchi with anti-static IT hardware packing, tagged file inventory, and weekend or overnight shifting execution.",
+                "name": "Office and Commercial Shifting in <?php echo htmlspecialchars($target_city); ?>",
+                "description": "Zero-downtime corporate office relocation in <?php echo htmlspecialchars($target_city); ?> with anti-static IT hardware packing, tagged file inventory, and weekend or overnight shifting execution.",
                 "serviceType": "Office Shifting",
                 "provider": {
                   "@id": "https://shreeashirwadpackersandmovers.com/#organization"
                 },
                 "areaServed": {
                   "@type": "City",
-                  "name": "Ranchi"
+                  "name": "<?php echo htmlspecialchars($target_city); ?>"
                 }
               }
             },
@@ -142,15 +162,15 @@ require_once __DIR__ . '/config.php';
               "itemOffered": {
                 "@type": "Service",
                 "@id": "https://shreeashirwadpackersandmovers.com/#service-car-transport",
-                "name": "Car Transport in Ranchi",
-                "description": "Safe enclosed hydraulic car carrier transport from Ranchi to all Indian cities with zero mileage addition, doorstep pickup and delivery, and scratch-free guarantee.",
+                "name": "Car Transport in <?php echo htmlspecialchars($target_city); ?>",
+                "description": "Safe enclosed hydraulic car carrier transport from <?php echo htmlspecialchars($target_city); ?> to all Indian cities with zero mileage addition, doorstep pickup and delivery, and scratch-free guarantee.",
                 "serviceType": "Car Transportation",
                 "provider": {
                   "@id": "https://shreeashirwadpackersandmovers.com/#organization"
                 },
                 "areaServed": {
                   "@type": "City",
-                  "name": "Ranchi"
+                  "name": "<?php echo htmlspecialchars($target_city); ?>"
                 }
               }
             },
@@ -159,15 +179,15 @@ require_once __DIR__ . '/config.php';
               "itemOffered": {
                 "@type": "Service",
                 "@id": "https://shreeashirwadpackersandmovers.com/#service-bike-transport",
-                "name": "Bike Transport in Ranchi",
-                "description": "Scratch-free bike transport from Ranchi with paddy straw padding, corrugated wrap, and belt-locked enclosed container truck delivery pan-India.",
+                "name": "Bike Transport in <?php echo htmlspecialchars($target_city); ?>",
+                "description": "Scratch-free bike transport from <?php echo htmlspecialchars($target_city); ?> with paddy straw padding, corrugated wrap, and belt-locked enclosed container truck delivery pan-India.",
                 "serviceType": "Bike Transportation",
                 "provider": {
                   "@id": "https://shreeashirwadpackersandmovers.com/#organization"
                 },
                 "areaServed": {
                   "@type": "City",
-                  "name": "Ranchi"
+                  "name": "<?php echo htmlspecialchars($target_city); ?>"
                 }
               }
             },
@@ -176,15 +196,15 @@ require_once __DIR__ . '/config.php';
               "itemOffered": {
                 "@type": "Service",
                 "@id": "https://shreeashirwadpackersandmovers.com/#service-warehouse-storage",
-                "name": "Warehouse and Storage in Ranchi",
-                "description": "Secure short-term and long-term warehouse storage in Ranchi with 24/7 CCTV surveillance, pest control, moisture protection, and flexible rental plans.",
+                "name": "Warehouse and Storage in <?php echo htmlspecialchars($target_city); ?>",
+                "description": "Secure short-term and long-term warehouse storage in <?php echo htmlspecialchars($target_city); ?> with 24/7 CCTV surveillance, pest control, moisture protection, and flexible rental plans.",
                 "serviceType": "Warehouse Storage",
                 "provider": {
                   "@id": "https://shreeashirwadpackersandmovers.com/#organization"
                 },
                 "areaServed": {
                   "@type": "City",
-                  "name": "Ranchi"
+                  "name": "<?php echo htmlspecialchars($target_city); ?>"
                 }
               }
             }
@@ -222,6 +242,26 @@ require_once __DIR__ . '/config.php';
           "@id": "https://shreeashirwadpackersandmovers.com/#organization"
         }
       }
+<?php if (isset($faq_list) && is_array($faq_list) && count($faq_list) > 0): ?>,
+      {
+        "@type": "FAQPage",
+        "@id": "<?php echo htmlspecialchars($canonical_url); ?>#faq",
+        "mainEntity": [
+<?php 
+  $faq_elements = [];
+  foreach ($faq_list as $faq) {
+    if (!empty($faq['q']) && !empty($faq['a'])) {
+      $q = json_encode($faq['q']);
+      $a = json_encode($faq['a']);
+      $faq_elements[] = "          {\n            \"@type\": \"Question\",\n            \"name\": {$q},\n            \"acceptedAnswer\": {\n              \"@type\": \"Answer\",\n              \"text\": {$a}\n            }\n          }";
+    }
+  }
+  echo implode(",\n", $faq_elements);
+?>
+
+        ]
+      }
+<?php endif; ?>
     ]
   }
   </script>
@@ -234,7 +274,7 @@ require_once __DIR__ . '/config.php';
       <div class="top-bar-info">
         <span class="top-bar-item">
           <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5-2.5z"/></svg>
-          Anandpuri Chowk, Harmu, Ranchi, Jharkhand - 834002
+          <?php echo htmlspecialchars($city_details['topbar']); ?>
         </span>
         <span class="top-bar-item">
           <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>

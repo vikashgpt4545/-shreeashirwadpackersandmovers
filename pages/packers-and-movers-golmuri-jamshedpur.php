@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Golmuri Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Golmuri Jamshedpur offering safe, reliable household shifting, office moving, bike shipping, and car carriers. Call (+91) 8409531615.";
 $page_keywords = "packers and movers golmuri jamshedpur, packers and movers in golmuri, best packers movers golmuri, household shifting golmuri, tinplate golmuri movers, office relocation golmuri, car transport golmuri, bike shipping golmuri, IBA approved movers golmuri";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you serve Tinplate Colony and Golmuri Market?',
+        'a' => 'Yes, we serve all sectors in Golmuri including Tinplate Colony, Golmuri Market, and Akash Deep Plaza.'
+    ],
+    [
+        'q' => 'Are GST bills provided for employee claim reimbursements?',
+        'a' => 'Yes, we issue genuine IBA GST bills and consignment LR copies.'
+    ],
+    [
+        'q' => 'How early should I schedule shifting in Golmuri?',
+        'a' => 'Booking 2 to 3 days in advance ensures smooth vehicle scheduling.'
+    ],
+    [
+        'q' => 'Can you move shops and market counters in Golmuri?',
+        'a' => 'Yes, we specialize in retail store, office, and showroom relocations in Golmuri.'
+    ],
+    [
+        'q' => 'Is transit insurance provided for intercity routes from Golmuri?',
+        'a' => 'Yes, full transit insurance coverage is available.'
+    ],
+    [
+        'q' => 'How do you transport bikes from Golmuri?',
+        'a' => 'Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.'
+    ],
+    [
+        'q' => 'Are packing materials included in the price estimate?',
+        'a' => 'Yes, all 7 layers of packing material are included in the estimate.'
+    ],
+    [
+        'q' => 'Do you disassemble beds and wardrobes?',
+        'a' => 'Yes, our experienced carpenters disassemble and reassemble furniture.'
+    ],
+    [
+        'q' => 'Are there any hidden charges?',
+        'a' => 'No, we provide clear written quotes prior to starting.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Golmuri?',
+        'a' => 'Call +91 8409531615 or message us on WhatsApp for an immediate quote.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Golmuri Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

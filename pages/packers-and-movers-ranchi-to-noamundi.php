@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Noamundi | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Noamundi West Singhbhum. Professional household shifting, car & bike transport, iron ore township transit. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to noamundi, movers and packers ranchi to noamundi, ranchi to noamundi packers and movers charges, household shifting ranchi to noamundi, home relocation ranchi to noamundi, bike transport ranchi to noamundi, car transport service ranchi to noamundi, IBA approved packers and movers ranchi to noamundi, best packers and movers ranchi to noamundi, cheap packers and movers ranchi to noamundi, ranchi to noamundi distance shifting time, movers and packers noamundi contact number, safe packing and moving ranchi to noamundi, furniture shifting ranchi to noamundi, luggage transport ranchi to noamundi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Noamundi?', 'a' => 'Same-day delivery. Average transit time is 5 to 6 hours via Chaibasa-Baraiburu route.'],
+    ['q' => 'What are the packers and movers Ranchi to Noamundi charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for Tata Steel mining staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for Tata Steel and mining employee reimbursement.'],
+    ['q' => 'Do you deliver to all Noamundi localities?', 'a' => 'Yes, we deliver to Tata Steel Colony, Noamundi Bazar, Sangram Sahi, Baraiburu, and Deojhar.'],
+    ['q' => 'Is transit insurance available for Ranchi to Noamundi shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Noamundi?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Noamundi?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Noamundi destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Noamundi quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Noamundi packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Noamundi</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

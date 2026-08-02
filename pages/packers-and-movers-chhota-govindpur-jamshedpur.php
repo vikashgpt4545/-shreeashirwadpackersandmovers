@@ -1,0 +1,302 @@
+<?php
+require_once __DIR__ . '/../includes/config.php';
+
+$page_title = "Packers and Movers Chhota Govindpur Jamshedpur | 8409531615";
+$page_desc = "Packers and Movers in Chhota Govindpur Jamshedpur offering safe household shifting, office moving, bike shipping, and car transport. Call (+91) 8409531615.";
+$page_keywords = "packers and movers chhota govindpur jamshedpur, packers and movers in chhota govindpur, best packers movers chhota govindpur, household shifting chhota govindpur, telco govindpur movers, office relocation chhota govindpur, car transport chhota govindpur, bike shipping chhota govindpur, IBA approved movers chhota govindpur";
+
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you serve Rahargora and Anna Chowk areas in Chhota Govindpur?',
+        'a' => 'Yes, we serve all sectors in Chhota Govindpur including Anna Chowk, Rahargora, and Plaza market.'
+    ],
+    [
+        'q' => 'Are GST bills provided for employee claim reimbursements?',
+        'a' => 'Yes, we issue genuine IBA GST bills and consignment LR copies.'
+    ],
+    [
+        'q' => 'How early should I schedule shifting in Chhota Govindpur?',
+        'a' => 'Booking 2 to 3 days in advance ensures smooth vehicle scheduling.'
+    ],
+    [
+        'q' => 'Can you move multi-story houses in Chhota Govindpur?',
+        'a' => 'Yes, our crew is equipped for multi-story house loading and unloading.'
+    ],
+    [
+        'q' => 'Is transit insurance provided for intercity routes from Chhota Govindpur?',
+        'a' => 'Yes, full transit insurance coverage is available.'
+    ],
+    [
+        'q' => 'How do you transport bikes from Chhota Govindpur?',
+        'a' => 'Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.'
+    ],
+    [
+        'q' => 'Are packing materials included in the price estimate?',
+        'a' => 'Yes, all 7 layers of packing material are included in the estimate.'
+    ],
+    [
+        'q' => 'Do you disassemble beds and wardrobes?',
+        'a' => 'Yes, our experienced carpenters disassemble and reassemble furniture.'
+    ],
+    [
+        'q' => 'Are there any hidden charges?',
+        'a' => 'No, we provide clear written quotes prior to starting.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Chhota Govindpur?',
+        'a' => 'Call +91 8409531615 or message us on WhatsApp for an immediate quote.'
+    ]
+];
+
+require_once __DIR__ . '/../includes/header.php';
+?>
+
+<main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Chhota Govindpur Jamshedpur</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hero Section -->
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
+        
+        <div class="hero-text">
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+            Chhota Govindpur Shifting Specialists
+          </span>
+          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Reliable <span style="color: #f59e0b;">Packers and Movers Chhota Govindpur Jamshedpur</span>
+          </h1>
+          <p style="font-size: 1.08rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Planning house shifting or commercial moving in Chhota Govindpur? Shree Ashirwad Packers and Movers offers expert home relocation, IBA-approved billing, enclosed vehicle transit, and 7-layer protective packaging across Chhota Govindpur, Anna Chowk market, Rahargora, Plaza area, Telco colony border, and Ghorabandha belt.
+          </p>
+
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
+              📞 Call Now: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20for%20Chhota%20Govindpur%20Jamshedpur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              💬 Chat on WhatsApp
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Chhota Govindpur Shifting Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+
+          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+              <input type="text" name="move_from" class="form-control" value="Chhota Govindpur Jamshedpur" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
+              Get Instant Estimate Now ➔
+            </button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 2: Stats -->
+  <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; text-align: center;">
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">15+ Years</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Local Experience</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">3,100+</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Govindpur Relocations</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">100%</h3><p style="color: #cbd5e1; font-size: 0.85rem;">IBA Approved Bills</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">24/7</h3><p style="color: #cbd5e1; font-size: 0.85rem;">GPS Vehicle Tracking</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 3: 6-Card Overview Grid -->
+  <section style="padding: 60px 0; background: #f8fafc;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
+        <span style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Chhota Govindpur Local Advantage</span>
+        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800; margin-top: 5px;">
+          Top Choice for <span style="color: #d32f2f;">Packers and Movers in Chhota Govindpur</span>
+        </h2>
+        <p style="color: #64748b; font-size: 0.98rem; margin-top: 8px;">
+          Chhota Govindpur is a prominent residential township located adjacent to Telco industrial region in eastern Jamshedpur. We provide tailored home moving, vehicle freight, and commercial relocation across Chhota Govindpur.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Telco Suburb Coverage</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Full coverage across Anna Chowk, Govindpur Main Market, Plaza sector, and Tata Motors residential quarters.</p>
+        </div>
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">IBA Corporate Billing</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Certified GST bill invoices and consignment LR documentation for corporate and industrial employee claims.</p>
+        </div>
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">7-Layer Safety Wrap</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Air-bubble rolls, corrugated sheets, foam corner guards, and stretch wrapping for zero transit damage.</p>
+        </div>
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Residential House Moving</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Smooth loading and packing for independent houses and colony apartments in Chhota Govindpur.</p>
+        </div>
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">GPS Enclosed Fleet</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Sealed weather container vehicles equipped with live satellite tracking for real-time location updates.</p>
+        </div>
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Transparent Upfront Pricing</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clear price breakdowns prior to move day with zero hidden fees or last-minute price escalation.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 4: Services -->
+  <section style="padding: 60px 0; background: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
+        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800;">Shifting Solutions in <span style="color: #d32f2f;">Chhota Govindpur Jamshedpur</span></h2>
+        <p style="color: #64748b; font-size: 0.95rem; margin-top: 6px;">Customized moving services for home, office, and vehicle transportation.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">🏡 Household Goods Shifting</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Complete house shifting services in Chhota Govindpur covering furniture disassembly, fragile packing, loading, and unpacking.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">🏢 Office &amp; Commercial Moving</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Efficient office and retail shop relocation in Chhota Govindpur with systematic IT equipment packing.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">🚗 Closed Car Carrier Transport</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Enclosed car container trailers for safe door-to-door car transport from Chhota Govindpur to any city.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">🏍️ Bike &amp; Two-Wheeler Shipping</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Straw padding and corrugated box wrapping for scratch-free motorcycle transport from Chhota Govindpur.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">📦 Heavy Wooden Box Crating</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Solid wooden crate framing for glass tops, mandirs, LED TVs, and delicate items in Chhota Govindpur.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">🏬 Safe Goods Storage Warehouse</h3>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clean, secure, moisture-free warehouse storage facility in Jamshedpur for temporary goods storage.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 5: 7-Layer Packaging -->
+  <section style="padding: 50px 0; background: #070d19; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 35px auto;">
+        <h2 style="font-size: 2rem; color: #ffffff; font-weight: 800;">7-Layer Safety Packaging for <span style="color: #f59e0b;">Chhota Govindpur Moves</span></h2>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 15px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 1: Stretch Wrap</h4><p style="color: #94a3b8; font-size: 0.85rem;">Dust &amp; moisture barrier.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 2: Air-Bubble Roll</h4><p style="color: #94a3b8; font-size: 0.85rem;">Shock absorbing cushion.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 3: Corrugated Sheet</h4><p style="color: #94a3b8; font-size: 0.85rem;">5-ply outer armor.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 4: Foam Corner Guards</h4><p style="color: #94a3b8; font-size: 0.85rem;">Edge &amp; corner protection.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 5: Quilted Blankets</h4><p style="color: #94a3b8; font-size: 0.85rem;">Fabric furniture wrapping.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 6: Security Tape</h4><p style="color: #94a3b8; font-size: 0.85rem;">Official branded sealing.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 7: Wooden Box Crate</h4><p style="color: #94a3b8; font-size: 0.85rem;">Wooden casing for fragile items.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 6: Local Geography & Logistics -->
+  <section style="padding: 60px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto;">
+        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800; text-align: center; margin-bottom: 20px;">
+          Local Expertise in <span style="color: #d32f2f;">Chhota Govindpur Jamshedpur Logistics</span>
+        </h2>
+        <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
+          Chhota Govindpur is a key residential township situated near the Telco industrial region in eastern Jamshedpur. It serves as home to thousands of Tata Motors employees, industrial workers, and commercial traders. Our shifting team operates continuously across Anna Chowk, Rahargora, Govindpur main road, and Ghorabandha border.
+        </p>
+        <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
+          Our container trucks utilize the NH-33 bypass road and Telco main artery for swift, hassle-free transportation from Chhota Govindpur to all major cities in Jharkhand and across India.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 7: 8 Contextual Body Links -->
+  <section style="padding: 50px 0; background: #f8fafc;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 30px auto;">
+        <h3 style="font-size: 1.8rem; color: #0b132b; font-weight: 800;">Connecting <span style="color: #d32f2f;">Chhota Govindpur</span> to Key Locations</h3>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Jamshedpur</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-telco-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Telco</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-baridih-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Baridih</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-golmuri-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Golmuri</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Ranchi</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-dhanbad" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Dhanbad</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Kolkata</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-patna" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Patna</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 8: 10 FAQs -->
+  <section style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 35px auto;">
+        <h2 style="font-size: 2rem; color: #0b132b; font-weight: 800;">Chhota Govindpur Relocation FAQs</h2>
+      </div>
+      <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;">
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q1: Do you serve Rahargora and Anna Chowk areas in Chhota Govindpur?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we serve all sectors in Chhota Govindpur including Anna Chowk, Rahargora, and Plaza market.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q2: Are GST bills provided for employee claim reimbursements?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we issue genuine IBA GST bills and consignment LR copies.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q3: How early should I schedule shifting in Chhota Govindpur?</h4><p style="color: #64748b; font-size: 0.9rem;">Booking 2 to 3 days in advance ensures smooth vehicle scheduling.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q4: Can you move multi-story houses in Chhota Govindpur?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, our crew is equipped for multi-story house loading and unloading.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q5: Is transit insurance provided for intercity routes from Chhota Govindpur?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, full transit insurance coverage is available.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q6: How do you transport bikes from Chhota Govindpur?</h4><p style="color: #64748b; font-size: 0.9rem;">Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, all 7 layers of packing material are included in the estimate.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q8: Do you disassemble beds and wardrobes?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, our experienced carpenters disassemble and reassemble furniture.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q9: Are there any hidden charges?</h4><p style="color: #64748b; font-size: 0.9rem;">No, we provide clear written quotes prior to starting.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q10: How can I contact Shree Ashirwad Packers in Chhota Govindpur?</h4><p style="color: #64748b; font-size: 0.9rem;">Call <strong>+91 8409531615</strong> or message us on WhatsApp for an immediate quote.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 9: CTA Banner -->
+  <section class="cta-banner-section" style="padding: 50px 0; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto;">
+        <h2 style="font-size: 2.1rem; font-weight: 800; margin-bottom: 15px;">Book Chhota Govindpur Shifting Services Today</h2>
+        <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20for%20Chhota%20Govindpur." target="_blank" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>

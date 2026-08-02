@@ -5,10 +5,39 @@ $page_title = "Office Relocation Guide Ranchi 2026 | Corporate Movers 8409531615
 $page_desc = "Complete Office Relocation Guide in Ranchi. Commercial corporate shifting, IT server moves, office furniture packing & zero-downtime transition. Call 8409531615.";
 $page_keywords = "office relocation guide ranchi, corporate packers and movers ranchi, commercial shifting ranchi, IT server moving ranchi, office moving checklist ranchi, business relocation ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'Can office relocations in Ranchi be completed over a single weekend?', 'a' => 'Yes, our dedicated commercial teams specialize in weekend shifts starting Friday evening and completing reassembly by Sunday night for Monday morning readiness.'],
+    ['q' => 'How do you protect sensitive server racks and networking switches?', 'a' => 'IT hardware is wrapped in anti-static bubble wrap, encased in shock-absorbing foam corner guards, and transported inside custom wooden crates.'],
+    ['q' => 'Do your rates include modular cubicle dismantling and reassembly?', 'a' => 'Yes, expert carpenters dismantle modular partitions, desks, and conference tables, label all hardware fittings, and reassemble them at the destination floor.'],
+    ['q' => 'How are confidential legal files and financial archives secured during moving?', 'a' => 'Confidential documents are packed into numbered 5-ply cartons, sealed with tamper-evident security tags, and audited before departure and upon delivery.'],
+    ['q' => 'Can corporate clients claim GST input tax credit on your relocation bills?', 'a' => 'Yes, we issue 100% compliant tax invoices with valid 15-digit GSTIN details enabling corporate tax credit claims.'],
+    ['q' => 'What insurance coverage is provided for corporate assets in transit?', 'a' => 'We offer full 3% transit insurance coverage protecting IT hardware, machinery, and furniture against road accidents and unforeseen mishaps.'],
+    ['q' => 'How is employee workstation placement managed at the new office?', 'a' => 'Each workstation component is color-coded by floor and desk number, matching your architect\'s destination seating plan.'],
+    ['q' => 'Do you handle heavy office safes, fireproof cabinets, and heavy machinery?', 'a' => 'Yes, our industrial moving crews utilize hydraulic jacks, heavy-duty dollies, and crane lifts to move heavy fireproof safes and machinery.'],
+    ['q' => 'Are your relocation crews trained in corporate building access compliance?', 'a' => 'Yes, our crews wear uniform safety gear, follow building management gate pass rules, and protect commercial elevators with floor matting.'],
+    ['q' => 'How far in advance should we schedule a corporate office survey in Ranchi?', 'a' => 'It is best to schedule an on-site corporate survey 1 to 2 weeks before your target weekend move date to finalize floor plans and logistics.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Office Relocation Guide Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

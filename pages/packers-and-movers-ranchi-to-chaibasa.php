@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Chaibasa | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Chaibasa. Professional household shifting, car & bike transport, office relocation via Khunti-Chaibasa highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to chaibasa, movers and packers ranchi to chaibasa, ranchi to chaibasa packers and movers charges, household shifting ranchi to chaibasa, home relocation ranchi to chaibasa, bike transport ranchi to chaibasa, car transport service ranchi to chaibasa, IBA approved packers and movers ranchi to chaibasa, best packers and movers ranchi to chaibasa, cheap packers and movers ranchi to chaibasa, ranchi to chaibasa distance shifting time, movers and packers chaibasa contact number, safe packing and moving ranchi to chaibasa, furniture shifting ranchi to chaibasa, luggage transport ranchi to chaibasa";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Chaibasa?', 'a' => 'Same-day delivery. Average transit time is 3 to 4 hours via NH-75 West Singhbhum corridor.'],
+    ['q' => 'What are the packers and movers Ranchi to Chaibasa charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for SAIL, NMDC, and government employees?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Chaibasa localities?', 'a' => 'Yes, we deliver to Chaibasa town, Chakradharpur, Noamundi, Kiriburu, and all West Singhbhum areas.'],
+    ['q' => 'Is transit insurance available for Ranchi to Chaibasa shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Chaibasa?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Chaibasa?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Chaibasa destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Chaibasa quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Chaibasa packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Chaibasa</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

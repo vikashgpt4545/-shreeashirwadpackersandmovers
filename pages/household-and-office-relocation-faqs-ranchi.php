@@ -5,10 +5,39 @@ $page_title = "Household and Office Relocation FAQs Ranchi | Complete Moving Gui
 $page_desc = "Comprehensive household and office relocation FAQs in Ranchi. Answers on shifting rates, packing materials, weekend office moves, vehicle transport & insurance. Call 8409531615.";
 $page_keywords = "household and office relocation faqs ranchi, packers and movers faqs ranchi, office shifting questions ranchi, home moving guide ranchi, relocation answers ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How are local shifting cost estimates calculated in Ranchi?', 'a' => 'Local shifting rate estimates depend on household size (1 BHK, 2 BHK, 3 BHK), inventory volume, packing material quality, floor height, elevator access, and handyman work required.'],
+    ['q' => 'What is the difference between All-Risk and Transit-Only insurance?', 'a' => 'All-Risk insurance (typically 3% of declared value) covers damage during loading, transit, unloading, and unpacking. Transit-Only insurance (typically 1.5%) covers loss exclusively caused by vehicle fire or highway accidents.'],
+    ['q' => 'How early should I book packers and movers in Ranchi before my move date?', 'a' => 'We recommend booking 3 to 5 days in advance for local shifting, and 7 to 10 days in advance for intercity long-distance relocations or peak weekend dates.'],
+    ['q' => 'What packing materials do you use for fragile glass and electronics?', 'a' => 'We use 5-layer heavy corrugated boxes, 100-GSM bubble wrap sheets, thermocol sheets, foam corner protectors, stretch film, and wooden crates.'],
+    ['q' => 'Can I shift my car or bike along with household goods?', 'a' => 'Yes, we provide combined household and vehicle shifting in dedicated car carrier container trucks or dual-deck transport vehicles.'],
+    ['q' => 'How are zero-downtime office moves executed in Ranchi?', 'a' => 'Office relocations are executed during Friday evening to Sunday night windows, ensuring your commercial staff resumes normal operations on Monday morning.'],
+    ['q' => 'Do you provide GST bills for corporate relocation allowance reimbursement?', 'a' => 'Yes, Shree Ashirwad Packers issues 100% legal GST invoices, consignment notes (LR copy), and itemized survey manifests.'],
+    ['q' => 'How do you transport heavy double beds and modular wardrobes?', 'a' => 'Our carpenters dismantle bed frames and wardrobe doors, wrap wooden panels in blanket padding, and reassemble them at your new home.'],
+    ['q' => 'Are items in warehouse storage protected against pests and water damage?', 'a' => 'Yes, our Ranchi storage facility features raised wooden pallets, quarterly pest control treatment, 24/7 CCTV surveillance, and waterproof roofing.'],
+    ['q' => 'What items are prohibited from being loaded into shifting trucks?', 'a' => 'Hazardous items such as LPG cylinders, petrol/diesel cans, fireworks, matchboxes, acids, and perishable food items are strictly prohibited for safety reasons.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Household and Office Relocation FAQs Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

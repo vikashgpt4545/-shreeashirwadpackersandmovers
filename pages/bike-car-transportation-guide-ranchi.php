@@ -5,10 +5,39 @@ $page_title = "Bike and Car Transportation Guide Ranchi | Rates & Carrier 840953
 $page_desc = "Complete Bike and Car Transportation Guide in Ranchi. Safe vehicle shipping in covered hydraulic car carriers & multi-layer motorcycle wrapping. Call 8409531615.";
 $page_keywords = "bike car transportation guide ranchi, car carrier service ranchi, bike transport cost ranchi, motorcycle packing service ranchi, enclosed car transport ranchi, IBA approved vehicle bill ranchi, safe car moving ranchi, bike shipping quote ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How are cars transported from Ranchi to distant cities?', 'a' => 'Cars are loaded into covered hydraulic car carriers with wheel chocks and lashing straps for zero road wear.'],
+    ['q' => 'What documents are required for bike or car transportation?', 'a' => 'You need copies of Vehicle RC, valid insurance policy, owner ID proof, and vehicle keys.'],
+    ['q' => 'How much fuel should be left in the vehicle tank?', 'a' => 'Keep 5 to 10 liters of fuel for loading and unloading onto car carriers.'],
+    ['q' => 'Are personal items allowed inside the car during transport?', 'a' => 'It is recommended to remove all personal items and valuables prior to vehicle transport.'],
+    ['q' => 'How is a motorcycle packed for long-distance shipping?', 'a' => 'Bikes undergo 7-layer wrapping using paddy straw, bubble wrap, corrugated sheets, and stretch film.'],
+    ['q' => 'How long does car transport take from Ranchi to metro cities?', 'a' => 'Transit time ranges from 2-4 days for nearby cities to 5-7 days for distant metros.'],
+    ['q' => 'Does transit insurance cover scratches during vehicle shipping?', 'a' => 'Yes, full transit risk insurance policies cover physical damage based on declared vehicle value.'],
+    ['q' => 'Do you provide doorstep car pickup and delivery in Ranchi?', 'a' => 'Yes, our team provides doorstep collection in Ranchi and doorstep delivery at your destination city.'],
+    ['q' => 'Can I track my vehicle carrier during transit?', 'a' => 'Yes, our enclosed car carriers feature satellite GPS tracking for real-time location updates.'],
+    ['q' => 'How can I book bike or car transportation in Ranchi?', 'a' => 'Call +91 8409531615 or WhatsApp us for instant booking and vehicle inspection scheduling.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Bike & Car Transportation Guide</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

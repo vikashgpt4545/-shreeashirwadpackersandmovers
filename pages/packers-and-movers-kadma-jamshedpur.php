@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Kadma Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Kadma Jamshedpur offering reliable household shifting, office moving, bike transport, and car carriers. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kadma jamshedpur, packers and movers in kadma, best packers movers kadma, household shifting kadma jamshedpur, marine drive kadma movers, office relocation kadma, car transport kadma, bike shipping kadma, IBA approved movers kadma";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you serve Uliyan and Marine Drive areas in Kadma?',
+        'a' => 'Yes, we serve all Kadma sectors including Uliyan, Bhatia Park, Marine Drive, and Farm Area.'
+    ],
+    [
+        'q' => 'Are GST bills provided for employee claim reimbursements?',
+        'a' => 'Yes, we issue genuine IBA GST bills and consignment LR copies.'
+    ],
+    [
+        'q' => 'How early should I schedule shifting in Kadma?',
+        'a' => 'Booking 2 to 3 days in advance ensures smooth vehicle scheduling.'
+    ],
+    [
+        'q' => 'Can you move apartments in Kadma?',
+        'a' => 'Yes, our crew is equipped for multi-story apartment loading and unloading.'
+    ],
+    [
+        'q' => 'Is transit insurance provided for intercity routes from Kadma?',
+        'a' => 'Yes, full transit insurance coverage is available.'
+    ],
+    [
+        'q' => 'How do you transport bikes from Kadma?',
+        'a' => 'Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.'
+    ],
+    [
+        'q' => 'Are packing materials included in the price estimate?',
+        'a' => 'Yes, all 7 layers of packing material are included in the estimate.'
+    ],
+    [
+        'q' => 'Do you disassemble beds and wardrobes?',
+        'a' => 'Yes, our experienced carpenters disassemble and reassemble furniture.'
+    ],
+    [
+        'q' => 'Are there any hidden charges?',
+        'a' => 'No, we provide clear written quotes prior to starting.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Kadma?',
+        'a' => 'Call +91 8409531615 or message us on WhatsApp for an immediate quote.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Kadma Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

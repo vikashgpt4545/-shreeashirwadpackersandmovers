@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Bangalore | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Bangalore Karnataka. Professional household shifting, IT relocation, car & bike transport via NH-44. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to bangalore, movers and packers ranchi to bangalore, ranchi to bangalore packers and movers charges, household shifting ranchi to bangalore, home relocation ranchi to bangalore, bike transport ranchi to bangalore, car transport service ranchi to bangalore, IBA approved packers and movers ranchi to bangalore, best packers and movers ranchi to bangalore, cheap packers and movers ranchi to bangalore, ranchi to bangalore distance shifting time, movers and packers bangalore contact number, safe packing and moving ranchi to bangalore, furniture shifting ranchi to bangalore, luggage transport ranchi to bangalore";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Bangalore?', 'a' => 'Guaranteed delivery within 60 hours, with average transit time of 48 to 54 hours.'],
+    ['q' => 'What are the packers and movers Ranchi to Bangalore charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for IT and corporate employees?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Bangalore localities?', 'a' => 'Yes, we deliver to Whitefield, Koramangala, Indiranagar, Electronic City, HSR Layout, and all areas.'],
+    ['q' => 'Is transit insurance available for Ranchi to Bangalore shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Bangalore?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Bangalore?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Bangalore destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Bangalore quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Bangalore packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Bangalore</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

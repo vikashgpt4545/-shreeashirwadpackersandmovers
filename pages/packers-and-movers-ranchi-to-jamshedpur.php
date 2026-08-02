@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Jamshedpur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Jamshedpur. Professional household shifting, car & bike transport, office relocation via NH-33 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to jamshedpur, movers and packers ranchi to jamshedpur, ranchi to jamshedpur packers and movers charges, household shifting ranchi to jamshedpur, home relocation ranchi to jamshedpur, bike transport ranchi to jamshedpur, car transport service ranchi to jamshedpur, IBA approved packers and movers ranchi to jamshedpur, best packers and movers ranchi to jamshedpur, cheap packers and movers ranchi to jamshedpur, ranchi to jamshedpur distance shifting time, movers and packers jamshedpur contact number, safe packing and moving ranchi to jamshedpur, furniture shifting ranchi to jamshedpur, luggage transport ranchi to jamshedpur";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Jamshedpur?', 'a' => 'Same-day delivery. Average transit time is 3 to 4 hours via NH-33 Tata-Ranchi expressway.'],
+    ['q' => 'What are the packers and movers Ranchi to Jamshedpur charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for TATA Steel and corporate employees?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Jamshedpur localities?', 'a' => 'Yes, we deliver to Bistupur, Sakchi, Mango, Adityapur, Telco, Sonari, Kadma, and all steel city areas.'],
+    ['q' => 'Is transit insurance available for Ranchi to Jamshedpur shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Jamshedpur?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Jamshedpur?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Jamshedpur destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Jamshedpur quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Jamshedpur packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

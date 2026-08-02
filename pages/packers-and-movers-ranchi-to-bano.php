@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Bano | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Bano Simdega. Professional household shifting, car & bike transport, railway relocation via NH-23/SH corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to bano, movers and packers ranchi to bano, ranchi to bano packers and movers charges, household shifting ranchi to bano, home relocation ranchi to bano, bike transport ranchi to bano, car transport service ranchi to bano, IBA approved packers and movers ranchi to bano, best packers and movers ranchi to bano, cheap packers and movers ranchi to bano, ranchi to bano distance shifting time, movers and packers bano contact number, safe packing and moving ranchi to bano, furniture shifting ranchi to bano, luggage transport ranchi to bano";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Bano?', 'a' => 'Same-day delivery. Average transit time is 2 to 3 hours for this short Jharkhand route.'],
+    ['q' => 'What are the packers and movers Ranchi to Bano charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for government staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Bano and surrounding areas?', 'a' => 'Yes, we deliver to Bano block, Simdega road areas, and all surrounding villages.'],
+    ['q' => 'Is transit insurance available for Ranchi to Bano shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Bano?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Bano?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Bano destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Bano quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Bano packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Bano</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Faridabad | Reliable Intercity Reloc
 $page_desc = "Professional packers and movers from Ranchi to Faridabad, NCR. Dedicated container transport, home shifting, car carrier, bike relocation & 100% insured transit. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to faridabad, ranchi to faridabad shifting rates, home relocation ranchi to ncr faridabad, car transport ranchi to faridabad, intercity movers ranchi haryana";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Faridabad?', 'a' => 'Guaranteed delivery within 48 to 72 hours via NH-19 express corridor.'],
+    ['q' => 'What are the packers and movers Ranchi to Faridabad charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for government and PSU employees?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Faridabad localities?', 'a' => 'Yes, we deliver to NIT Faridabad, Sector 15, Sector 21, Greater Faridabad, Surajkund, Ballabhgarh, and all NCR areas.'],
+    ['q' => 'Is transit insurance available for Ranchi to Faridabad shifting?', 'a' => 'Yes, full 3% All-Risk transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Faridabad?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Faridabad?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Faridabad destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Faridabad quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Faridabad packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Faridabad</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

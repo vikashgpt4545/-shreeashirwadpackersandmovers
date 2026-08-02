@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Hazaribagh | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Hazaribagh. Professional household shifting, car & bike transport, office relocation via NH-33 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to hazaribagh, movers and packers ranchi to hazaribagh, ranchi to hazaribagh packers and movers charges, household shifting ranchi to hazaribagh, home relocation ranchi to hazaribagh, bike transport ranchi to hazaribagh, car transport service ranchi to hazaribagh, IBA approved packers and movers ranchi to hazaribagh, best packers and movers ranchi to hazaribagh, cheap packers and movers ranchi to hazaribagh, ranchi to hazaribagh distance shifting time, movers and packers hazaribagh contact number, safe packing and moving ranchi to hazaribagh, furniture shifting ranchi to hazaribagh, luggage transport ranchi to hazaribagh";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Hazaribagh?', 'a' => 'Same-day delivery. Average transit time is 2 to 3 hours via NH-20 Ramgarh-Hazaribagh expressway.'],
+    ['q' => 'What are the packers and movers Ranchi to Hazaribagh charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for BSF, NTPC, and government employees?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Hazaribagh localities?', 'a' => 'Yes, we deliver to Matwari, Korrah, Pelawal, Canary Hill Road, Demotand, and all district areas.'],
+    ['q' => 'Is transit insurance available for Ranchi to Hazaribagh shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Hazaribagh?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Hazaribagh?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Hazaribagh destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Hazaribagh quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Hazaribagh packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Hazaribagh</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

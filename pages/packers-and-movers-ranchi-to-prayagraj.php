@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Prayagraj | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Prayagraj Uttar Pradesh. Professional household shifting, Civil Lines Ashok Nagar Katra Naini Georgetown relocation, car & bike transport via Expressways. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to prayagraj, movers and packers ranchi to prayagraj, ranchi to prayagraj packers and movers charges, household shifting ranchi to prayagraj, home relocation ranchi to prayagraj, bike transport ranchi to prayagraj, car transport service ranchi to prayagraj, IBA approved packers and movers ranchi to prayagraj, best packers and movers ranchi to prayagraj, cheap packers and movers ranchi to prayagraj, ranchi to prayagraj distance shifting time, movers and packers prayagraj contact number, safe packing and moving ranchi to prayagraj, furniture shifting ranchi to prayagraj, luggage transport ranchi to prayagraj";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Prayagraj?', 'a' => 'Guaranteed delivery within 24 to 48 hours. Average transit time is 12 to 14 hours via Varanasi NH-19.'],
+    ['q' => 'What are the packers and movers Ranchi to Prayagraj charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for High Court, Railway, and Defense staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for High Court, North Central Railway, and Defense employee reimbursement.'],
+    ['q' => 'Do you deliver to all Prayagraj localities?', 'a' => 'Yes, we deliver to Civil Lines, Katra, Tagoretown, Allahabad University area, Naini, Jhusi, and Dhoomanganj.'],
+    ['q' => 'Is transit insurance available for Ranchi to Prayagraj shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Prayagraj?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Prayagraj?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Prayagraj destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Prayagraj quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Prayagraj packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Prayagraj</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

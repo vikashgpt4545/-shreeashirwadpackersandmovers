@@ -5,10 +5,39 @@ $page_title = "Monsoon Relocation Guide Ranchi 2026 | Rainy Season Shifting";
 $page_desc = "Complete monsoon relocation guide for Ranchi. Rain-proof 7-layer packaging, waterproof sealed closed container trucks, floor protection & safety tips. Call 8409531615.";
 $page_keywords = "monsoon relocation guide ranchi, rainy season shifting ranchi, waterproof packing packers movers ranchi, monsoon home shifting ranchi, rain proof container transport ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'Is it safe to move household goods during the monsoon season in Ranchi?', 'a' => 'Yes, moving during monsoon is completely safe when professional movers use 100% waterproof stretch lamination, sealed closed container trucks, and canopy loading ramps.'],
+    ['q' => 'What is waterproof 7-layer stretch lamination?', 'a' => 'Waterproof 7-layer lamination combines high-density bubble wrap, corrugated sheets, foam cushions, and 80-micron plastic stretch film sealed with moisture-resistant tape.'],
+    ['q' => 'Why should open tarpaulin trucks never be used for monsoon moving?', 'a' => 'Open trucks covered only with tarps allow rainwater seepage through side gaps and wind tears, resulting in damaged furniture, soggy boxes, and electronic short circuits.'],
+    ['q' => 'How are mattresses and fabric sofas protected from rain and dampness?', 'a' => 'Mattresses and upholstered furniture are encased in thick zippered vinyl covers or heavy plastic bags before being wrapped in outer protective blankets.'],
+    ['q' => 'How do you prevent mud stains on home flooring during rainy loading?', 'a' => 'Our crew lays down heavy plastic tarpaulin runners along entryways, staircases, and corridors, and crew members wear shoe covers while inside your residence.'],
+    ['q' => 'Are electronic appliances safe to transport during heavy rain?', 'a' => 'Yes, electronic appliances are double-wrapped in anti-static bubble wrap and sealed in airtight plastic bags with silica gel moisture-absorbent packets.'],
+    ['q' => 'Does monsoon relocation cost more than summer shifting in Ranchi?', 'a' => 'Monsoon shifting includes specialized waterproof plastic lamination and closed container trucks, which carry standard fixed rate slabs without arbitrary weather surcharges.'],
+    ['q' => 'How do you handle sudden torrential downpours during truck loading?', 'a' => 'If sudden heavy rain starts, our team pauses loading outside and deploys retractable PVC rain canopies connecting your doorway directly to the container truck tailgate.'],
+    ['q' => 'Are wooden furniture items prone to swelling or damage in monsoon shifting?', 'a' => 'Not when sealed properly. Our 100% airtight plastic lamination prevents atmospheric humidity from reaching real wood surfaces, preserving varnish and preventing wood swelling.'],
+    ['q' => 'Does transit insurance cover rainwater damage during monsoon moves?', 'a' => 'Yes, our comprehensive all-risk transit insurance policies underwritten by national insurance companies explicitly cover water ingress, highway accident, and weather loss.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Monsoon Relocation Guide Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

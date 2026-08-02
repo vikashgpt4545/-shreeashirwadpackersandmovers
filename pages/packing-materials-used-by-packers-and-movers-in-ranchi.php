@@ -5,10 +5,34 @@ $page_title = "Packing Materials Used by Packers and Movers in Ranchi | Material
 $page_desc = "Complete breakdown of premium packing materials used by packers and movers in Ranchi. 7-layer corrugated boxes, air bubble wrap, stretch film, wooden crates & foam. Call 8409531615.";
 $page_keywords = "packing materials used by packers and movers in ranchi, moving box types ranchi, bubble wrap packing ranchi, industrial stretch film packing ranchi, timber crate packing ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What types of packing boxes are used by packers and movers in Ranchi?', 'a' => 'We use heavy-duty 7-ply corrugated cartons for general household items, double-walled book boxes, crockery cartons with internal dividers, and vertical wardrobe boxes with metal hanger rods.'],
+    ['q' => 'What is the difference between 3-ply, 5-ply, and 7-ply corrugated boxes?', 'a' => '3-ply boxes are thin single-wall cartons for light goods; 5-ply boxes offer moderate strength; 7-ply triple-wall boxes provide industrial-grade crush resistance up to 60 kg for heavy household goods.'],
+    ['q' => 'Why is high-density bubble wrap essential for LED TV moving?', 'a' => 'High-density bubble wrap absorbs road shocks and prevents screen pressure cracks, protecting sensitive LED and OLED display panels during long-distance highway travel.'],
+    ['q' => 'What is 80-micron stretch film and how is it used in relocation?', 'a' => '80-micron stretch film is a heavy plastic elastic wrap used to bind bubble-wrapped items, seal wooden cabinet doors, and create a 100% waterproof barrier against rain and dust.'],
+    ['q' => 'When is timber wooden crating required for household shifting?', 'a' => 'Custom wooden crating is required for fragile items like Italian marble tabletops, glass dining tables, heavy marble mandirs, large mirrors, and crystal chandeliers.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packing Materials Used by Packers and Movers in Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

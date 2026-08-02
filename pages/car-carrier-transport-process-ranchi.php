@@ -5,10 +5,39 @@ $page_title = "Car Carrier Transport Process Ranchi | Safe Vehicle Shipping";
 $page_desc = "Step-by-step car carrier transport process in Ranchi. Covered double-decker car trailers, wheel clamp locking, hydraulic ramp loading & live GPS tracking. Call 8409531615.";
 $page_keywords = "car carrier transport process ranchi, car shipping packers movers ranchi, car carrier trailer ranchi, vehicle relocation guide ranchi, intercity car transport ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How are cars transported intercity from Ranchi by Shree Ashirwad Packers?', 'a' => 'Cars are loaded onto specialized covered multi-car trailers equipped with hydraulic ramps, locked using 4-point wheel harness belts, and tracked via real-time GPS.'],
+    ['q' => 'What is the difference between open auto carriers and covered car trailers?', 'a' => 'Covered car trailers feature sealed side curtains that protect vehicles from rain, dust storms, flying road stones, and sun damage, whereas open carriers leave cars exposed.'],
+    ['q' => 'How much does car carrier transport cost from Ranchi to major cities?', 'a' => 'Car shipping rates range from ₹7,000 to ₹12,000 for nearby routes like Patna/Kolkata, and ₹14,000 to ₹25,000 for long-distance routes like Delhi, Bangalore, or Pune.'],
+    ['q' => 'Does car transport involve driving my vehicle on the highway?', 'a' => 'No, your car is driven only for a few meters onto the carrier trailer ramp during loading and off the ramp during unloading, preserving zero highway mileage accumulation.'],
+    ['q' => 'Can I pack household luggage inside my car during car carrier transport?', 'a' => 'We advise against storing heavy personal goods inside the car cabin, though soft items up to 30 kg stored neatly in the car trunk are generally permissible.'],
+    ['q' => 'How is low-ground-clearance luxury cars loaded safely into trailers?', 'a' => 'We utilize low-angle hydraulic ramp extension decks and wooden incline ramps to ensure sports cars and luxury sedans load smoothly without bumper scraping.'],
+    ['q' => 'Is transit insurance mandatory for intercity car carrier shipping?', 'a' => 'Yes, full declared value transit insurance is included in our relocation contracts to protect against accidental damage, fire, or transit hazards.'],
+    ['q' => 'How long does intercity car carrier transport take from Ranchi?', 'a' => 'Transit times range from 2 to 3 days for neighboring states (Patna, Kolkata) and 5 to 7 days for long-distance metro corridors (Delhi, Bangalore, Mumbai).'],
+    ['q' => 'What car documents are required prior to shipping?', 'a' => 'You need to provide photocopies of your Vehicle Registration Certificate (RC), valid Insurance policy, PUC pollution certificate, and owner ID proof.'],
+    ['q' => 'Do you provide doorstep car pickup and delivery in Ranchi?', 'a' => 'Yes, our driver collects your vehicle directly from your home or office address in Ranchi and delivers it to your new doorstep at destination.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Car Carrier Transport Process Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

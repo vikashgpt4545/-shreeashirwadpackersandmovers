@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Dumka | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Dumka. Professional household shifting, car & bike transport, office relocation via Deoghar-Dumka highway. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to dumka, movers and packers ranchi to dumka, ranchi to dumka packers and movers charges, household shifting ranchi to dumka, home relocation ranchi to dumka, bike transport ranchi to dumka, car transport service ranchi to dumka, IBA approved packers and movers ranchi to dumka, best packers and movers ranchi to dumka, cheap packers and movers ranchi to dumka, ranchi to dumka distance shifting time, movers and packers dumka contact number, safe packing and moving ranchi to dumka, furniture shifting ranchi to dumka, luggage transport ranchi to dumka";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Dumka?', 'a' => 'Same-day delivery. Average transit time is 4 to 5 hours via NH-114A Dumka corridor.'],
+    ['q' => 'What are the packers and movers Ranchi to Dumka charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for SIDBI and government employees?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Dumka localities?', 'a' => 'Yes, we deliver to Dumka town, Shikaripara, Jama, Ramgarh, and all Santhal Pargana areas.'],
+    ['q' => 'Is transit insurance available for Ranchi to Dumka shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Dumka?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Dumka?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Dumka destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Dumka quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Dumka packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Dumka</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Sakchi Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Sakchi Jamshedpur offering safe, reliable household shifting, office relocation, bike transport, and car carriers. Call (+91) 8409531615.";
 $page_keywords = "packers and movers sakchi jamshedpur, packers and movers in sakchi, best packers and movers sakchi, household shifting sakchi, office relocation sakchi jamshedpur, car transport sakchi, bike shipping sakchi, IBA approved movers sakchi";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you cover Sakchi Market and Kalimati Road areas?',
+        'a' => 'Yes, we serve all Sakchi localities including Kalimati Road, Subarnarekha Link Road, Pennar Road, and Straight Mile Road.'
+    ],
+    [
+        'q' => 'Are GST bills provided for corporate employee claims in Sakchi?',
+        'a' => 'Yes, we provide 100% genuine IBA GST invoices and LR bills for claim reimbursements.'
+    ],
+    [
+        'q' => 'How far in advance should I book my move in Sakchi?',
+        'a' => 'Booking 2 to 3 days ahead ensures seamless slot allocation.'
+    ],
+    [
+        'q' => 'Can you shift commercial shops in Sakchi Market?',
+        'a' => 'Yes, we specialize in retail store, office, and showroom relocations in Sakchi.'
+    ],
+    [
+        'q' => 'Is transit insurance included for intercity routes?',
+        'a' => 'Yes, full transit insurance coverage is provided for long-distance moves.'
+    ],
+    [
+        'q' => 'How are vehicle transport services handled from Sakchi?',
+        'a' => 'We use covered car container trailers and cushioned bike carriers for zero-damage vehicle transit.'
+    ],
+    [
+        'q' => 'What packing materials do you use?',
+        'a' => 'Air bubble wrap, 5-ply corrugated sheets, stretch wrap, foam guards, and wooden crates.'
+    ],
+    [
+        'q' => 'Do you help with unpacking at the destination?',
+        'a' => 'Yes, our crew unloads, unpacks, and places your furniture at your new location.'
+    ],
+    [
+        'q' => 'Are there any hidden extra costs?',
+        'a' => 'No, all cost parameters are clearly specified in writing prior to starting.'
+    ],
+    [
+        'q' => 'How do I get an instant quote for Sakchi shifting?',
+        'a' => 'Call +91 8409531615 or message us on WhatsApp for an immediate estimate.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Sakchi Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -5,10 +5,34 @@ $page_title = "Warehouse Storage Facilities in Ranchi | Secure Goods Storage";
 $page_desc = "Safe warehouse storage facilities in Ranchi. 24/7 CCTV surveillance, pest control, elevated wooden pallets & flexible short/long-term storage. Call 8409531615.";
 $page_keywords = "warehouse storage facilities in ranchi, household storage ranchi, goods luggage storage ranchi, commercial warehousing ranchi, short term storage unit ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What warehouse storage facilities are available in Ranchi with Shree Ashirwad Packers?', 'a' => 'We offer 24/7 CCTV surveillance storage, elevated wooden pallet racking, moisture-proof shrink wrapping, automated pest control, and flexible short/long-term tenure options.'],
+    ['q' => 'How much does household goods storage cost per month in Ranchi?', 'a' => 'Monthly storage rates range from ₹3,000 to ₹5,000 for a 1 BHK home, ₹5,000 to ₹8,000 for a 2 BHK home, and ₹8,000 to ₹12,000 for a 3 BHK home based on total cubic volume.'],
+    ['q' => 'Are stored goods safe from moisture, dampness, and monsoon water seepage?', 'a' => 'Yes, all items are elevated on wooden pallets off the floor, multi-layer shrink-wrapped in 80-micron plastic film, and stored inside raised, weatherproof brick-and-steel warehouses.'],
+    ['q' => 'What security measures protect stored belongings from theft and damage?', 'a' => 'Our facilities feature 24/7 HD CCTV camera recording, biometric entry gates, security guards, smoke detectors, automated sprinkler systems, and barcode inventory logging.'],
+    ['q' => 'Can I retrieve a few specific items or boxes from storage before full redelivery?', 'a' => 'Yes, clients can schedule partial item retrievals with 24 hours advance notice using their unique inventory barcode reference number.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Warehouse Storage Facilities in Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -5,10 +5,39 @@ $page_title = "Packers and Movers in Ranchi Cost Guide | Price Rates 8409531615"
 $page_desc = "Complete Packers and Movers in Ranchi Cost Guide. Detailed breakdown of 1BHK, 2BHK, 3BHK home relocation rates, packing material costs, vehicle transport pricing & IBA billing. Call 8409531615.";
 $page_keywords = "packers and movers in ranchi cost guide, movers and packers ranchi rate list, ranchi shifting price calculation, household relocation cost ranchi, 1bhk shifting rate ranchi, 2bhk moving cost ranchi, 3bhk relocation pricing ranchi, bike transport cost ranchi, car carrier rate ranchi, IBA approved moving bill ranchi, packing material cost ranchi, local shifting pricing ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How much does local household shifting cost in Ranchi?', 'a' => 'Local home shifting rates typically range from ₹4,500 to ₹7,500 for a 1BHK apartment, ₹7,500 to ₹12,500 for a 2BHK home, and ₹12,500 to ₹18,500 for a 3BHK villa, depending on total goods volume and packing tier.'],
+    ['q' => 'Are there any hidden fees added on the final moving day?', 'a' => 'No! At Shree Ashirwad Packers and Movers, our written quotation is 100% fixed and inclusive of packing materials, loading labor, freight, toll taxes, and door unloading.'],
+    ['q' => 'How is intercity moving cost calculated from Ranchi to other cities?', 'a' => 'Intercity rates are calculated based on highway distance, container truck type (dedicated vs shared part-load), packing materials used, toll taxes, and optional transit insurance coverage.'],
+    ['q' => 'Do you provide IBA approved GST bills for corporate claim reimbursement?', 'a' => 'Yes, we issue 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), itemized inventory lists, and official receipts accepted by government departments, defense units, and banks.'],
+    ['q' => 'How much does bike transport cost from Ranchi?', 'a' => 'Local bike transit within Ranchi costs approximately ₹1,500 to ₹2,500, while intercity bike transport to nearby states ranges between ₹2,500 and ₹5,500 with multi-layer bubble wrap protection.'],
+    ['q' => 'Does floor elevation affect the shifting quotation?', 'a' => 'Yes, moving goods to or from upper floors (3rd floor and above) without service elevators requires additional labor to carry heavy items up staircases, which is factored into the quote.'],
+    ['q' => 'Is pre-move home inspection free of cost?', 'a' => 'Yes, we offer 100% free physical home visits or virtual video surveys across Ranchi to assess your inventory and provide a precise quotation.'],
+    ['q' => 'How much is transit insurance for household relocation?', 'a' => 'Transit insurance is typically calculated at 3% of the total declared value of your household goods, covering full financial risk against unforeseen road hazards.'],
+    ['q' => 'Can I move single luggage boxes or partial goods at cheaper rates?', 'a' => 'Yes, our part-load shared container service allows you to move single furniture items or partial luggage at economical shared container tariffs.'],
+    ['q' => 'How can I request an instant cost estimate for my move?', 'a' => 'Call or WhatsApp our main helpline at 8409531615 or email us to get your customized quote.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers in Ranchi Cost Guide</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -3,12 +3,40 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Ranchi to Samastipur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Samastipur Bihar. Professional household shifting, Mohanpur Kashipur Magardahi Musrigharari Tajpur Road relocation, car & bike transport. Call 8409531615.";
-$page_keywords = "packers and movers ranchi to samastipur, movers and packers ranchi to samastipur, ranchi to samastipur packers and movers cost, household shifting ranchi to samastipur, home relocation ranchi to samastipur, bike transport ranchi to samastipur, car transport service ranchi to samastipur, IBA approved packers and movers ranchi to samastipur, best packers and movers ranchi to samastipur, cheap packers and movers ranchi to samastipur, ranchi to samastipur distance shifting time, movers and packers samastipur contact number, safe packing and moving ranchi to samastipur, furniture shifting ranchi to samastipur, luggage transport ranchi to samastipur";
+$page_keywords = "packers and movers ranchi to samastipur, movers and packers ranchi to samastipur, ranchi to samastipur packers and movers charges, household shifting ranchi to samastipur, home relocation ranchi to samastipur, bike transport ranchi to samastipur, car transport service ranchi to samastipur, IBA approved packers and movers ranchi to samastipur, best packers and movers ranchi to samastipur, cheap packers and movers ranchi to samastipur, ranchi to samastipur distance shifting time, movers and packers samastipur contact number, safe packing and moving ranchi to samastipur, furniture shifting ranchi to samastipur, luggage transport ranchi to samastipur";
+
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Samastipur?', 'a' => 'Guaranteed delivery within 24 to 36 hours. Average transit time is 10 to 12 hours via Patna / Barauni NH-28.'],
+    ['q' => 'What are the packers and movers Ranchi to Samastipur charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for East Central Railway and govt staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for Railway DRM office, Pusa Agriculture Univ, and govt employee reimbursement.'],
+    ['q' => 'Do you deliver to all Samastipur localities?', 'a' => 'Yes, we deliver to Mohanpur, Kashipur, Musrigharari, Tajpur, Pusa, Dalsinghsarai, and Railway Colony.'],
+    ['q' => 'Is transit insurance available for Ranchi to Samastipur shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Samastipur?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Samastipur?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Samastipur destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Samastipur quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Samastipur packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Samastipur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

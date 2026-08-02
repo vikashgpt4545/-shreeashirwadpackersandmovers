@@ -5,10 +5,34 @@ $page_title = "Top 10 Shifting Tips Packers and Movers in Ranchi | Guide 8409531
 $page_desc = "Master the top 10 shifting tips from expert packers and movers in Ranchi. Essential relocation advice for packing, decluttering, electronics safety & stress-free home moving. Call 8409531615.";
 $page_keywords = "top 10 shifting tips packers and movers in ranchi, home relocation advice ranchi, household moving guide ranchi, hassle free shifting tips ranchi, packing checklist ranchi, electronics moving safety ranchi, IBA bill relocation ranchi, fast home shifting tips ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What is the single most important shifting tip for home moving?', 'a' => 'Booking a verified moving company 7 days in advance and getting a physical pre-move survey is the most critical step to prevent last-minute delays.'],
+    ['q' => 'How does decluttering help lower relocation costs?', 'a' => 'Selling or donating unused items reduces cargo volume and weight, allowing you to use a smaller container truck and fewer packing materials.'],
+    ['q' => 'What items should I carry personally during a move?', 'a' => 'Always carry cash, gold jewelry, property deeds, identity cards, expensive laptops, and essential daily medications in your personal bag.'],
+    ['q' => 'Why should refrigerators be defrosted prior to moving day?', 'a' => 'Defrosting and drying your fridge prevents water from leaking out and dampening surrounding corrugated cardboard boxes during transit.'],
+    ['q' => 'How are fragile kitchen items packed safely?', 'a' => 'Glassware and crockery are individually wrapped in air bubble film, stacked vertically inside heavy-duty cartons, and cushioned with foam sheets.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Top 10 Shifting Tips Packers and Movers in Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Lohardaga | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Lohardaga. Professional household shifting, car & bike transport, office relocation via NH-39 corridor. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to lohardaga, movers and packers ranchi to lohardaga, ranchi to lohardaga packers and movers charges, household shifting ranchi to lohardaga, home relocation ranchi to lohardaga, bike transport ranchi to lohardaga, car transport service ranchi to lohardaga, IBA approved packers and movers ranchi to lohardaga, best packers and movers ranchi to lohardaga, cheap packers and movers ranchi to lohardaga, ranchi to lohardaga distance shifting time, movers and packers lohardaga contact number, safe packing and moving ranchi to lohardaga, furniture shifting ranchi to lohardaga, luggage transport ranchi to lohardaga";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Lohardaga?', 'a' => 'Same-day delivery. Average transit time is 2 to 3 hours via Ranchi-Lohardaga NH-39 / SH-8.'],
+    ['q' => 'What are the packers and movers Ranchi to Lohardaga charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for government and bauxite mining personnel?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for Hindalco and government employee reimbursement.'],
+    ['q' => 'Do you deliver to all Lohardaga localities?', 'a' => 'Yes, we deliver to Lohardaga town, Kuru, Bhandra, Kisko, Senha, and Hindalco colony.'],
+    ['q' => 'Is transit insurance available for Ranchi to Lohardaga shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Lohardaga?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Lohardaga?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Lohardaga destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Lohardaga quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Lohardaga packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Lohardaga</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

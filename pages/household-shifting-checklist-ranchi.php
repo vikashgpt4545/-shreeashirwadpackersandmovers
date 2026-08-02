@@ -5,10 +5,39 @@ $page_title = "Complete Household Shifting Checklist Ranchi 2026 | 8409531615";
 $page_desc = "Ultimate Household Shifting Checklist in Ranchi. Room-by-room moving timeline, pre-packing tips, inventory mapping & zero-scratch delivery. Call 8409531615.";
 $page_keywords = "household shifting checklist ranchi, home moving guide ranchi, house relocation checklist ranchi, pre move inventory list ranchi, shifting timeline ranchi, packing checklist ranchi, household relocation tips ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How early should I start preparing for a home relocation in Ranchi?', 'a' => 'We recommend starting 3 to 4 weeks prior to your target moving date by auditing inventory, decluttering unused items, and booking a verified mover.'],
+    ['q' => 'What is included in a standard household shifting package?', 'a' => 'A standard package includes multi-layer packing materials, trained labor for loading and unloading, container vehicle transport, furniture disassembly, and reassembly.'],
+    ['q' => 'How do packers protect fragile glassware and mirrors during shifting?', 'a' => 'Glassware and mirrors are wrapped in heavy air bubble cushioning, reinforced with corrugated fiberboard, lined with foam corners, and packed vertically into sturdy cartons.'],
+    ['q' => 'What items should not be packed with household goods?', 'a' => 'Hazardous materials such as kerosene, LPG cylinders, fireworks, perishable food, plants, cash, jewelry, and original property documents must not be packed inside cargo trucks.'],
+    ['q' => 'How long does local household shifting within Ranchi take?', 'a' => 'Local moves for a 1BHK or 2BHK home are typically completed within 4 to 8 hours on the same day, including packing, loading, transit, and unloading.'],
+    ['q' => 'Why is an essentials kit bag important on moving day?', 'a' => 'An essentials bag contains medicines, toiletries, change of clothes, phone chargers, and vital keys so you don\'t need to unbox multiple packed cartons on your first night.'],
+    ['q' => 'Does transit insurance cover damages during home shifting?', 'a' => 'Yes, full transit insurance covers loss or damage caused by accidents or natural mishaps during highway transit, based on the declared goods value in the inventory policy.'],
+    ['q' => 'How do movers disassemble and reassemble large wooden beds and wardrobes?', 'a' => 'Carpentry experts dismantle bed frames and wardrobe doors using specialized hand tools, label all hardware fittings in sealed pouches, and reassemble them at your new home.'],
+    ['q' => 'Are your relocation bills eligible for bank and government employer reimbursement?', 'a' => 'Yes, as an IBA-approved moving company, we provide official GST bills, Lorry Receipts (LR), packing inventory lists, and IBA consignment stamps required for HR claim reimbursement.'],
+    ['q' => 'Can I track my container truck during intercity shifting from Ranchi?', 'a' => 'Yes, all our long-distance closed container trucks are equipped with satellite GPS tracking devices providing real-time location updates.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Household Shifting Checklist Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

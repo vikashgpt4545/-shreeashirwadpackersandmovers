@@ -5,6 +5,34 @@ $page_title = "Packers and Movers in Ranchi | 8409531615";
 $page_desc = "Looking for top-rated Packers and Movers in Ranchi? Get safe household shifting, office relocation, bike & car transport services with 100% damage-free delivery.";
 $page_keywords = DEFAULT_KEYWORDS;
 
+// FAQ List for SERP FAQPage JSON-LD Schema
+$faq_list = [
+    [
+        'q' => 'How far in advance should I book packers and movers in ranchi?',
+        'a' => 'It is recommended to book your move 2 to 4 days prior to your preferred shifting date for local moves in Ranchi. For long-distance intercity relocation from Ranchi to major metro cities, booking 5 to 7 days in advance ensures seamless schedule reservation and container truck allocation by our packers and movers in ranchi.'
+    ],
+    [
+        'q' => 'How do packers and movers in ranchi ensure safety during rainy season shifting?',
+        'a' => 'During monsoon relocations, our professional packers and movers in ranchi apply high-density waterproof stretch plastic wraps around cardboard boxes, use heavy-duty tarpaulins, and dispatch 100% weatherproof, fully-enclosed container trucks to guard your goods against rain and moisture.'
+    ],
+    [
+        'q' => 'Are there any hidden costs or extra taxes in the shifting quote provided by packers and movers in ranchi?',
+        'a' => 'No. At Shree Ashirwad, we provide transparent, all-inclusive quotations covering packing materials, labor, loading, transportation, unloading, and GST taxes. As honest packers and movers in ranchi, we guarantee zero hidden charges or moving-day price surprises.'
+    ],
+    [
+        'q' => 'Do packers and movers in ranchi provide IBA-approved bills for corporate reimbursement?',
+        'a' => 'Yes. We provide official GST invoice documentation, consignment notes (LR copy), itemized packing lists, and valid IBA-approved bills. Bank employees and corporate executives moving to or from Ranchi can claim 100% shifting allowance effortlessly with bills from our packers and movers in ranchi.'
+    ],
+    [
+        'q' => 'How are fragile items like glassware, LED TVs, and artwork packed by packers and movers in ranchi?',
+        'a' => 'Delicate items are protected with multi-layer bubble wrap, foam corner guards, and high-density corrugated sheets. Large flat-screen TVs and antique art pieces are placed in custom-built wooden crates for maximum shock absorption by our expert packers and movers in ranchi.'
+    ],
+    [
+        'q' => 'Can packers and movers in ranchi transport my car or bike along with household goods?',
+        'a' => 'Yes. We offer combined household goods and vehicle transportation services. Motorcycles are secured in dedicated wheel-lock bike containers, while cars are transported in covered hydraulic car trailers by our packers and movers in ranchi.'
+    ]
+];
+
 require_once __DIR__ . '/includes/header.php';
 ?>
 

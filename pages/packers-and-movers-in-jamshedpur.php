@@ -5,10 +5,66 @@ $page_title = "Packers and Movers in Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Jamshedpur offering safe, reliable, and affordable packing, moving, home relocation, and vehicle transportation services. Call (+91) 8409531615.";
 $page_keywords = "packers and movers in jamshedpur, packers and movers jamshedpur, best packers and movers in jamshedpur, top packers and movers in jamshedpur, household shifting in jamshedpur, home relocation services jamshedpur, office shifting services jamshedpur, car transport in jamshedpur, bike transport jamshedpur, local packers and movers jamshedpur, intercity movers in jamshedpur, movers and packers jamshedpur contact number, packers and movers jamshedpur charges, house relocation in jamshedpur, luggage transport service jamshedpur, relocation services jamshedpur, warehouse and storage in jamshedpur, safe packing and moving jamshedpur, packers and movers in jharkhand";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'How early should I book packers and movers in Jamshedpur?',
+        'a' => 'We recommend booking 3 to 5 days in advance for local shifting within Jamshedpur (Bistupur, Sakchi, Mango, Adityapur), and 7 days prior for intercity relocations across India to secure optimal container trucks.'
+    ],
+    [
+        'q' => 'Are your shifting bills eligible for corporate and government claims?',
+        'a' => 'Yes, absolutely! Shree Ashirwad Packers and Movers provides 100% genuine IBA-approved GST invoices, money receipts, lorry receipts (LR), and itemized consignment lists accepted by all TATA group companies, defense departments, banks, and government organizations.'
+    ],
+    [
+        'q' => 'How are shifting charges determined for Jamshedpur relocations?',
+        'a' => 'Relocation costs depend on the volume of household goods (1BHK, 2BHK, 3BHK, Villa), distance to the destination, floor level, availability of lift service, and requirement for specialized wooden crating or vehicle transport.'
+    ],
+    [
+        'q' => 'Do you offer transit insurance for household goods?',
+        'a' => 'Yes, we offer comprehensive transit insurance covering your furniture, electronics, and personal belongings against unexpected road mishaps or natural elements during long-distance intercity transit.'
+    ],
+    [
+        'q' => 'How do you protect fragile items like glass dining tables and LED TVs?',
+        'a' => 'Fragile items are packed using high-density bubble wrap, foam corner guards, heavy corrugated sheets, waterproof quilted blankets, and custom wooden box crating for ultimate safety.'
+    ],
+    [
+        'q' => 'Can I transport my car or motorcycle alongside household goods?',
+        'a' => 'Yes, we operate closed car container trailers and dedicated bike transport vehicles equipped with safety wheel locks and soft padding to transport your vehicles scratch-free from Jamshedpur.'
+    ],
+    [
+        'q' => 'Which areas in Jamshedpur do you serve?',
+        'a' => 'We cover all major locations in Jamshedpur including Bistupur, Sakchi, Mango, Adityapur, Kadma, Jugsalai, Telco, Golmuri, Baridih, Sonari, Sidhgora, Parsudih, Bagbera, Sundernagar, Dimna Road, and Seraikela Kharsawan.'
+    ],
+    [
+        'q' => 'Do you provide unpacking and furniture re-assembly at the destination?',
+        'a' => 'Yes, our experienced move crew unloads, unpacks, and re-assembles beds, wardrobes, dining tables, and modular furniture at your new home as part of our full-service relocation package.'
+    ],
+    [
+        'q' => 'Is warehouse storage available in Jamshedpur?',
+        'a' => 'Yes, we offer secure, pest-controlled, 24/7 CCTV monitored storage facilities in Jamshedpur for short-term and long-term household and industrial goods storage.'
+    ],
+    [
+        'q' => 'How can I request an instant relocation estimate?',
+        'a' => 'Simply call our team directly at +91 8409531615 or click the WhatsApp button on our website to share your shifting details for an instant transparent quote.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers in Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

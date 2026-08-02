@@ -5,10 +5,34 @@ $page_title = "Transit Insurance Guide Packers Movers Ranchi | Full Moving Cover
 $page_desc = "Complete transit insurance guide for packers and movers in Ranchi. Learn all-risk moving insurance, coverage policy slabs, claim process & valuation tips. Call 8409531615.";
 $page_keywords = "transit insurance guide packers movers ranchi, moving insurance ranchi, goods in transit policy ranchi, declared value insurance ranchi, goods damage claim ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What is transit insurance for packers and movers in Ranchi?', 'a' => 'Transit insurance is a financial protection policy that covers household goods against accidental damage, loss, theft, fire, or vehicle collision during shifting.'],
+    ['q' => 'What is the difference between All-Risk Policy and Transit-Only Policy?', 'a' => 'All-Risk policy covers damage during loading, transit, unloading, and unpacking. Transit-Only policy covers damage resulting strictly from truck accidents or fire on the highway.'],
+    ['q' => 'How is the transit insurance premium calculated for household shifting?', 'a' => 'Premium is calculated as a percentage (typically 3% for All-Risk and 1.5% for Transit-Only) of the total declared market value of goods listed on the inventory sheet.'],
+    ['q' => 'Is transit insurance mandatory for intercity moving from Ranchi?', 'a' => 'While optional, transit insurance is strongly recommended for all intercity moves to protect high-value furniture, electronics, and appliances against highway risks.'],
+    ['q' => 'What items are excluded from transit insurance coverage?', 'a' => 'Excluded items include cash, gold jewelry, silver ornaments, property deeds, passports, perishable food, plants, and hazardous chemicals.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Transit Insurance Guide Packers Movers Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Adityapur Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers in Adityapur Jamshedpur offering industrial, office, and household shifting services, bike transport, and car carriers. Call (+91) 8409531615.";
 $page_keywords = "packers and movers adityapur jamshedpur, packers and movers in adityapur, industrial packers movers adityapur, AIADA shifting services, household shifting adityapur, office relocation adityapur, car transport adityapur, bike shipping adityapur, IBA approved movers adityapur";
 
+$page_city = "Jamshedpur";
+
+$faq_list = [
+    [
+        'q' => 'Do you handle industrial factory moving in AIADA Adityapur?',
+        'a' => 'Yes, we handle heavy machinery moving, crane loading, and factory inventory transport across all AIADA phases.'
+    ],
+    [
+        'q' => 'Are GST invoices provided for corporate employees in Adityapur?',
+        'a' => 'Yes, we issue genuine IBA GST bills, money receipts, and consignment notes for claim reimbursement.'
+    ],
+    [
+        'q' => 'How early should I schedule residential shifting in Adityapur?',
+        'a' => 'Booking 2 to 4 days ahead ensures smooth truck allocation.'
+    ],
+    [
+        'q' => 'Can you move NIT Jamshedpur staff quarters or faculty homes?',
+        'a' => 'Yes, we regularly relocate NIT Jamshedpur faculty and research scholar residences.'
+    ],
+    [
+        'q' => 'Is transit insurance included for long-distance moves?',
+        'a' => 'Yes, full transit insurance coverage is available.'
+    ],
+    [
+        'q' => 'How do you transport cars and bikes from Adityapur?',
+        'a' => 'We use covered car container trailers and cushioned bike transport vehicles.'
+    ],
+    [
+        'q' => 'What packing materials do you use?',
+        'a' => 'Air bubble wrap, 5-ply corrugated sheets, stretch wrap, foam corner guards, and wooden crates.'
+    ],
+    [
+        'q' => 'Do you disassemble and re-assemble wooden furniture?',
+        'a' => 'Yes, our experienced carpenters disassemble and reassemble all furniture.'
+    ],
+    [
+        'q' => 'Are there any hidden extra costs?',
+        'a' => 'No, all price parameters are clearly specified in writing in advance.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Adityapur?',
+        'a' => 'Call +91 8409531615 or message us on WhatsApp for an immediate estimate.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-jamshedpur.php">Jamshedpur</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Adityapur Jamshedpur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

@@ -5,10 +5,34 @@ $page_title = "Single Item & Luggage Shifting Ranchi | Small Parcel Movers";
 $page_desc = "Affordable single item and luggage shifting in Ranchi. Move single sofa, bed, fridge, washing machine or parcel luggage safely with shared vehicle rates. Call 8409531615.";
 $page_keywords = "single item luggage shifting ranchi, single furniture movers ranchi, small luggage transport ranchi, part load shifting ranchi, single appliance moving ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What is single item and luggage shifting in Ranchi?', 'a' => 'It is a specialized logistics service for transporting individual furniture pieces, single home appliances, or small luggage consignments without booking an entire full-capacity truck.'],
+    ['q' => 'How much does local single item shifting cost within Ranchi?', 'a' => 'Local single item transport rates range from ₹1,000 to ₹2,500 depending on item size, weight, floor elevation, and total transit distance.'],
+    ['q' => 'Can I shift a single refrigerator or washing machine intercity from Ranchi?', 'a' => 'Yes, single home appliances are packed in 3-layer bubble wrapping and transported intercity using our part-load shared container network.'],
+    ['q' => 'How works part-load shared container truck transport?', 'a' => 'Part-load transport consolidates small goods from multiple clients bound for the same destination corridor into a single container truck, drastically reducing individual shipping rates.'],
+    ['q' => 'Do you provide doorstep pickup and unloading for a single sofa or bed?', 'a' => 'Yes, our service includes doorstep pickup by trained handlers, protective wrapping, vehicle loading, transport, and doorstep room positioning.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Single Item &amp; Luggage Shifting Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

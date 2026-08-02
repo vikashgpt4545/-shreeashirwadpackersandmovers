@@ -3,12 +3,40 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Ranchi to Shimla | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Shimla Himachal Pradesh. Professional household shifting, Chotta Shimla Sanjauli New Shimla Kasumpti relocation, car & bike transport. Call 8409531615.";
-$page_keywords = "packers and movers ranchi to shimla, movers and packers ranchi to shimla, ranchi to shimla packers and movers cost, household shifting ranchi to shimla, home relocation ranchi to shimla, bike transport ranchi to shimla, car transport service ranchi to shimla, IBA approved packers and movers ranchi to shimla, best packers and movers ranchi to shimla, cheap packers and movers ranchi to shimla, ranchi to shimla distance shifting time, movers and packers shimla contact number, safe packing and moving ranchi to shimla, furniture shifting ranchi to shimla, luggage transport ranchi to shimla";
+$page_keywords = "packers and movers ranchi to shimla, movers and packers ranchi to shimla, ranchi to shimla packers and movers charges, household shifting ranchi to shimla, home relocation ranchi to shimla, bike transport ranchi to shimla, car transport service ranchi to shimla, IBA approved packers and movers ranchi to shimla, best packers and movers ranchi to shimla, cheap packers and movers ranchi to shimla, ranchi to shimla distance shifting time, movers and packers shimla contact number, safe packing and moving ranchi to shimla, furniture shifting ranchi to shimla, luggage transport ranchi to shimla";
+
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Shimla?', 'a' => 'Guaranteed delivery within 4 to 5 days. Average transit time is 48 to 60 hours via NH-44 & Himalayan expressways.'],
+    ['q' => 'What are the packers and movers Ranchi to Shimla charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for Himachal govt, defense, and bank staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for central govt, HP govt, and defense staff reimbursement.'],
+    ['q' => 'Do you deliver to all Shimla localities and hilly terrain sectors?', 'a' => 'Yes, we deliver to Mall Road, Chotta Shimla, Sanjauli, Kasumpti, New Shimla, Lakkar Bazar, and Dhalli.'],
+    ['q' => 'Is transit insurance available for Ranchi to Shimla shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Shimla?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Shimla?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Shimla destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Shimla quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Shimla packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Shimla</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

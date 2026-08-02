@@ -5,10 +5,39 @@ $page_title = "Moving Heavy Furniture Tips Ranchi | Safe Furniture Transport";
 $page_desc = "Expert moving heavy furniture tips in Ranchi. Learn safe dismantling, slider techniques, lifting straps, 3-layer bubble packing & professional transport. Call 8409531615.";
 $page_keywords = "moving heavy furniture tips ranchi, heavy furniture movers ranchi, sofa bed dismantling ranchi, furniture lifting straps ranchi, wooden furniture packing ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What moving heavy furniture tips are most critical for Ranchi homeowners?', 'a' => 'The most critical tips include dismantling modular beds and wardrobes before lifting, using furniture sliders to prevent floor scratches, applying 3-layer bubble wrap, and utilizing shoulder lifting straps.'],
+    ['q' => 'Do your movers provide dismantling and reassembly for modular beds and wardrobes?', 'a' => 'Yes, our team includes certified carpenters equipped with power toolkits to safely unbolt, label hardware, pack, and reassemble all types of furniture.'],
+    ['q' => 'How much does it cost to move a single king-size bed or heavy wardrobe in Ranchi?', 'a' => 'Moving a single double bed or heavy 3-door wardrobe locally in Ranchi ranges between ₹1,800 and ₹3,500 including 3-layer bubble packaging and carpentry labor.'],
+    ['q' => 'How do you prevent marble floors from getting scratched when sliding heavy sofas?', 'a' => 'We place heavy felt pads, plastic furniture sliders, or padded moving blankets underneath furniture legs so items glide smoothly without touching polished floor tiles.'],
+    ['q' => 'What protective materials are used for expensive wooden dining tables?', 'a' => 'Dining table legs are detached, table surfaces wrapped in soft foam pads and heavy bubble wrap, and glass/marble tops packed inside custom wooden crates.'],
+    ['q' => 'How are heavy furniture pieces carried up multi-story buildings without elevators?', 'a' => 'Our handlers use shoulder lifting straps (Forearm Forklift technique) and padded corner wrap to carry heavy items up stairwells safely without scuffing walls.'],
+    ['q' => 'Should I empty drawers and cabinets before movers arrive?', 'a' => 'Yes, emptying all drawers reduces overall weight, prevents drawers from sliding open during transport, and protects structural joints from stress damage.'],
+    ['q' => 'How do you secure small screws and hinges during furniture disassembly?', 'a' => 'All hardware fittings are placed into heavy-duty plastic zip bags and taped securely to the corresponding furniture panel so no parts are misplaced.'],
+    ['q' => 'Can L-shaped recliners and bulky sofas pass through standard apartment door frames?', 'a' => 'Yes, our movers tilt recliners vertically into an L hook position, unbolt removable feet, and maneuver them through narrow door openings seamlessly.'],
+    ['q' => 'Are furniture items covered by transit insurance during intercity moves?', 'a' => 'Yes, we provide declared-value transit insurance covering furniture against accidental breakage, fire, or vehicle accident during highway transit.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Moving Heavy Furniture Tips Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

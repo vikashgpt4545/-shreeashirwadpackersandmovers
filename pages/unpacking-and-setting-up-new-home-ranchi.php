@@ -5,10 +5,34 @@ $page_title = "Unpacking and Setting Up New Home Ranchi | Post Move Guide";
 $page_desc = "Complete guide to unpacking and setting up new home in Ranchi. Learn room-by-room unpacking priority, furniture reassembly, electrical installation & debris disposal. Call 8409531615.";
 $page_keywords = "unpacking and setting up new home ranchi, home unpacking services ranchi, furniture reassembly ranchi, new house setup guide ranchi, post move unpacking ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What is included in your home unpacking and setup services in Ranchi?', 'a' => 'Our services include opening boxes in designated rooms, unwrapping bubble layers, reassembling modular beds and wardrobes, placing items on shelves, and disposing of all packing material waste.'],
+    ['q' => 'Which room should be unpacked first after moving into a new home?', 'a' => 'We recommend unpacking the master bedroom and reassembling beds first, followed by the kitchen essentials and bathroom hygiene items to ensure basic daily comfort.'],
+    ['q' => 'How much does full home unpacking cost in Ranchi for a 2 BHK apartment?', 'a' => 'Full 2 BHK home unpacking and shelf placement rates range from ₹2,500 to ₹4,000 depending on total box count, furniture items, and handyman work scope.'],
+    ['q' => 'Do your unpacking assistants arrange clothes inside wardrobes?', 'a' => 'Yes, our crew unboxes hanging wardrobes, hangs formal wear, folds garments, and places them into wardrobe shelves under your direction.'],
+    ['q' => 'How long after truck unloading should I wait before turning on my refrigerator?', 'a' => 'Wait at least 2 hours before plugging in the refrigerator after transport to allow compressor oil and refrigerant gases to settle properly.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Unpacking &amp; Setting Up New Home Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

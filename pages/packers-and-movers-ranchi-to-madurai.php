@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Madurai | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Madurai Tamil Nadu. Professional household shifting, Anna Nagar KK Nagar Tallakulam relocation, car & bike transport via Expressways. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to madurai, movers and packers ranchi to madurai, ranchi to madurai packers and movers charges, household shifting ranchi to madurai, home relocation ranchi to madurai, bike transport ranchi to madurai, car transport service ranchi to madurai, IBA approved packers and movers ranchi to madurai, best packers and movers ranchi to madurai, cheap packers and movers ranchi to madurai, ranchi to madurai distance shifting time, movers and packers madurai contact number, safe packing and moving ranchi to madurai, furniture shifting ranchi to madurai, luggage transport ranchi to madurai";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Madurai?', 'a' => 'Guaranteed delivery within 5 to 7 days via NH-44 South express logistics corridor.'],
+    ['q' => 'What are the packers and movers Ranchi to Madurai charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for defence and IT personnel?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for corporate and defence employee reimbursement.'],
+    ['q' => 'Do you deliver to all Madurai localities?', 'a' => 'Yes, we deliver to KK Nagar, Anna Nagar, TVS Nagar, SS Colony, Tallakulam, Koodal Nagar, and Mattuthavani.'],
+    ['q' => 'Is transit insurance available for Ranchi to Madurai shifting?', 'a' => 'Yes, full 3% All-Risk transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Madurai?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Madurai?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Madurai destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Madurai quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Madurai packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Madurai</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

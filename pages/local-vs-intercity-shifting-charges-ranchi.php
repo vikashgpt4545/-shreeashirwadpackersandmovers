@@ -5,10 +5,39 @@ $page_title = "Local vs Intercity Shifting Rates in Ranchi 2026 | Price Comparis
 $page_desc = "Detailed comparison of local vs intercity shifting rates in Ranchi. Learn cost factors, distance slabs, packing levels & vehicle types. Call 8409531615.";
 $page_keywords = "local vs intercity shifting rates ranchi, local moving pricing ranchi, intercity relocation cost ranchi, household shifting tariffs ranchi, packers and movers rate comparison ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'What is the main difference between local and intercity shifting rates in Ranchi?', 'a' => 'Local shifting rates focus mainly on labor hours and short-haul truck rentals, whereas intercity rates account for long-distance highway fuel, multi-layer packing, toll taxes, and transit insurance.'],
+    ['q' => 'How much does local 1BHK home shifting cost in Ranchi?', 'a' => 'A local 1BHK home relocation in Ranchi ranges from ₹3,500 to ₹6,500 depending on item volume, floor elevation, and elevator access.'],
+    ['q' => 'How much does intercity shifting from Ranchi to Patna cost?', 'a' => 'Intercity household shifting from Ranchi to Patna ranges from ₹14,000 to ₹24,000 for standard 2BHK to 3BHK homes, including full packing and container transit.'],
+    ['q' => 'Why does intercity shifting require 7-layer industrial packaging?', 'a' => 'Long-distance highway travel exposes goods to road vibrations, temperature fluctuations, and extended handling, necessitating heavy-duty corrugated board, bubble wrap, and stretch film.'],
+    ['q' => 'Are toll taxes and state permits included in intercity relocation quotes?', 'a' => 'Yes, our written intercity quotations are all-inclusive, explicitly covering all national highway FASTag tolls, green taxes, and commercial state transit permissions.'],
+    ['q' => 'Is transit insurance mandatory for local moves within Ranchi?', 'a' => 'Transit insurance is optional for short local moves within Ranchi, but strongly recommended for high-value items or intercity relocations.'],
+    ['q' => 'What is shared container express transit for intercity moves?', 'a' => 'Shared container transit combines partial goods loads from multiple clients heading along the same interstate highway route, significantly lowering individual pricing.'],
+    ['q' => 'How does building floor height affect local moving pricing in Ranchi?', 'a' => 'Carrying heavy furniture up multiple flights of stairs without an elevator requires extra manual labor, which adds modest labor fees to local shifting estimates.'],
+    ['q' => 'Are car and bike transportation rates cheaper when booked with house shifting?', 'a' => 'Yes, bundling vehicle shipping into your household intercity container booking provides discounted combined rates compared to standalone vehicle carrier bookings.'],
+    ['q' => 'Does local shifting include unboxing and furniture reassembly?', 'a' => 'Yes, our local shifting team unloads, unboxes, positions furniture in your new rooms, and reassembles beds and dining tables on the same day.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Local vs Intercity Shifting Rates Ranchi</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

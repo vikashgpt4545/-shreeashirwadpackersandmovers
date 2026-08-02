@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Agra | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Agra Uttar Pradesh. Professional household shifting, defense & corporate relocation, car & bike transport via NH-19. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to agra, movers and packers ranchi to agra, ranchi to agra packers and movers charges, household shifting ranchi to agra, home relocation ranchi to agra, bike transport ranchi to agra, car transport service ranchi to agra, IBA approved packers and movers ranchi to agra, best packers and movers ranchi to agra, cheap packers and movers ranchi to agra, ranchi to agra distance shifting time, movers and packers agra contact number, safe packing and moving ranchi to agra, furniture shifting ranchi to agra, luggage transport ranchi to agra";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Agra?', 'a' => 'Guaranteed delivery within 36 hours, with average transit time of 22 to 26 hours.'],
+    ['q' => 'What are the packers and movers Ranchi to Agra charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for corporate claims?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Agra localities?', 'a' => 'Yes, we deliver to Shahganj, Kamla Nagar, Sanjay Place, Bodla, and all Agra sectors.'],
+    ['q' => 'Is transit insurance available for Ranchi to Agra shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Agra?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Agra?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Agra destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Agra quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Agra packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Agra</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

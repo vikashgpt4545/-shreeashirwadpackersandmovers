@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Angul | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Angul Odisha. Professional household shifting, NALCO Nagar JSPL Township Amalapada Tamrit Colony Similipada Turang Banarpal relocation, car & bike transport. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to angul, movers and packers ranchi to angul, ranchi to angul packers and movers cost, household shifting ranchi to angul, home relocation ranchi to angul, bike transport ranchi to angul, car transport service ranchi to angul, IBA approved packers and movers ranchi to angul, best packers and movers ranchi to angul, cheap packers and movers ranchi to angul, ranchi to angul distance shifting time, movers and packers angul contact number, safe packing and moving ranchi to angul, furniture shifting ranchi to angul, luggage transport ranchi to angul";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Angul?', 'a' => 'Guaranteed delivery within 24 hours, with average transit time of 10 to 12 hours.'],
+    ['q' => 'What are the packers and movers Ranchi to Angul charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for NALCO and NTPC staff?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for industrial employee reimbursement.'],
+    ['q' => 'Do you deliver to all Angul localities?', 'a' => 'Yes, we deliver to Angul town, NALCO township, Talcher, and all nearby industrial sectors.'],
+    ['q' => 'Is transit insurance available for Ranchi to Angul shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Angul?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Angul?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Angul destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Angul quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Angul packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Angul</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

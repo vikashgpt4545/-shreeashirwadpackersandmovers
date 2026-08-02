@@ -10,6 +10,17 @@ require_once __DIR__ . '/../includes/header.php';
 
 <main class="site-main">
 
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Services</span>
+      </div>
+    </div>
+  </div>
+
   <!-- Inner Page Banner -->
   <section class="page-banner">
     <div class="container">

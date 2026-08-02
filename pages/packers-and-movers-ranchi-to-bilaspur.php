@@ -5,10 +5,38 @@ $page_title = "Packers and Movers Ranchi to Bilaspur | 8409531615";
 $page_desc = "Safe Packers and Movers Ranchi to Bilaspur Chhattisgarh. Professional household shifting, Vyapar Vihar Link Road Sarkanda Torwa Tifra Uslapur relocation, car & bike transport. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to bilaspur, movers and packers ranchi to bilaspur, ranchi to bilaspur packers and movers cost, household shifting ranchi to bilaspur, home relocation ranchi to bilaspur, bike transport ranchi to bilaspur, car transport service ranchi to bilaspur, IBA approved packers and movers ranchi to bilaspur, best packers and movers ranchi to bilaspur, cheap packers and movers ranchi to bilaspur, ranchi to bilaspur distance shifting time, movers and packers bilaspur contact number, safe packing and moving ranchi to bilaspur, furniture shifting ranchi to bilaspur, luggage transport ranchi to bilaspur";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How long does shifting take from Ranchi to Bilaspur?', 'a' => 'Guaranteed delivery within 48 hours, with average transit time of 28 to 34 hours.'],
+    ['q' => 'What are the packers and movers Ranchi to Bilaspur charges?', 'a' => 'Charges depend on volume, packing, and vehicle type. Contact us for a fixed written quote.'],
+    ['q' => 'Are IBA approved GST bills provided for SECL and railway employees?', 'a' => 'Yes, we issue genuine IBA GST bills and LR copies for employee reimbursement.'],
+    ['q' => 'Do you deliver to all Bilaspur localities?', 'a' => 'Yes, we deliver to Talapara, Sarkanda, Civil Lines, Vyapam Colony, Torwa, and all areas.'],
+    ['q' => 'Is transit insurance available for Ranchi to Bilaspur shifting?', 'a' => 'Yes, full transit insurance coverage is provided.'],
+    ['q' => 'How do you transport bikes from Ranchi to Bilaspur?', 'a' => 'Bikes are wrapped in paddy-straw bubble protection and secured inside container trucks.'],
+    ['q' => 'How do you transport cars from Ranchi to Bilaspur?', 'a' => 'Cars travel in closed hydraulic car carriers for safe door-to-door delivery.'],
+    ['q' => 'Do you reassemble furniture at the Bilaspur destination?', 'a' => 'Yes, our team disassembles at origin and reassembles all furniture at destination.'],
+    ['q' => 'Are there any hidden charges in the Ranchi to Bilaspur quote?', 'a' => 'No, our written quotes include all tolls, packing, loading, and unloading charges.'],
+    ['q' => 'How can I book Ranchi to Bilaspur packers and movers?', 'a' => 'Call +91 8409531615 or WhatsApp us for an instant quote and booking confirmation.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Ranchi to Bilaspur</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

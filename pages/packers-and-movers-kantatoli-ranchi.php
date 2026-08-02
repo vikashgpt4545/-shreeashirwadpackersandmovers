@@ -5,10 +5,68 @@ $page_title = "Packers and Movers Kantatoli Ranchi | 8409531615";
 $page_desc = "Packers and Movers Kantatoli Ranchi offering safe household shifting, commercial hub relocation, bike & car transport near Kantatoli Chowk, Bus Stand & Flyover corridor. Call 8409531615.";
 $page_keywords = "packers and movers kantatoli ranchi, packers and movers in kantatoli ranchi, best packers and movers in kantatoli ranchi, cheap packers and movers kantatoli ranchi, household shifting in kantatoli ranchi, home relocation services kantatoli ranchi, office shifting in kantatoli ranchi, bike transport kantatoli ranchi, car transport service kantatoli ranchi, packers and movers kantatoli bus stand, movers and packers kantatoli chowk ranchi, packers and movers ranchi charges, movers and packers kantatoli contact number, safe packing and moving kantatoli, iba approved packers and movers ranchi, local packers and movers kantatoli ranchi, furniture shifting in kantatoli, house relocation in kantatoli ranchi, luggage transport service kantatoli";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    [
+        'q' => 'How are packers and movers kantatoli ranchi charges calculated?',
+        'a' => 'Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, elevator access, and transit distance.'
+    ],
+    [
+        'q' => 'Do you issue IBA approved bills for commercial & corporate moves in Kantatoli?',
+        'a' => 'Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all audit departments.'
+    ],
+    [
+        'q' => 'How early should I book household shifting in Kantatoli?',
+        'a' => 'For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.'
+    ],
+    [
+        'q' => 'How do you handle packing in high-density areas near Kantatoli Chowk?',
+        'a' => 'We schedule optimal loading hours and deploy dedicated move marshals to handle traffic and ensure smooth loading into container trucks.'
+    ],
+    [
+        'q' => 'Can I track my moving container truck during transit?',
+        'a' => 'Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your move supervisor.'
+    ],
+    [
+        'q' => 'Do you transport cars and bikes safely from Kantatoli?',
+        'a' => 'Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping across India.'
+    ],
+    [
+        'q' => 'Is transit insurance included for relocation from Kantatoli?',
+        'a' => 'We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during long-distance transit.'
+    ],
+    [
+        'q' => 'Do your packers disassemble beds and wardrobes in Kantatoli homes?',
+        'a' => 'Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.'
+    ],
+    [
+        'q' => 'Are there any hidden fees added on move day?',
+        'a' => 'No! We maintain a strict policy of transparent billing with zero hidden charges.'
+    ],
+    [
+        'q' => 'What is the contact number for packers and movers in kantatoli ranchi?',
+        'a' => 'You can call or WhatsApp our official Helpline at +91 8409531615 or email us for immediate assistance.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Packers and Movers Kantatoli Ranchi</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">

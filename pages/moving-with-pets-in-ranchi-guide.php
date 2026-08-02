@@ -5,10 +5,39 @@ $page_title = "Moving with Pets in Ranchi Guide 2026 | Safe Pet Relocation";
 $page_desc = "Complete guide for moving with pets in Ranchi. Climate-controlled pet carriers, veterinary documentation, stress reduction tips & safe pet transport. Call 8409531615.";
 $page_keywords = "moving with pets in ranchi guide, pet relocation services ranchi, dog transport ranchi, cat relocation services ranchi, pet safe packers and movers ranchi";
 
+$page_city = "Ranchi";
+
+$faq_list = [
+    ['q' => 'How are pets transported safely during intercity relocations from Ranchi?', 'a' => 'Pets travel inside dedicated air-conditioned cars or vans accompanied by trained pet handlers, or via certified pet air cargo carriers for long-distance routes.'],
+    ['q' => 'What veterinary documents are required for intercity pet travel in India?', 'a' => 'You need a current Rabies Vaccination Certificate, an official Fit-to-Travel Health Certificate issued by a registered vet within 24-48 hours of travel, and microchip records.'],
+    ['q' => 'Are pets transported in the same container truck as household furniture?', 'a' => 'No, pets are never placed inside regular cargo container trucks. They always travel in comfortable air-conditioned passenger vehicles with dedicated pet escorts.'],
+    ['q' => 'How far in advance should I start preparing my pet for relocation?', 'a' => 'We recommend starting crate familiarization training and veterinary health checkups at least 7 to 10 days before your planned move date.'],
+    ['q' => 'What is an IATA-compliant pet travel crate?', 'a' => 'An IATA-compliant crate is a rigid plastic or metal kennel with 4-side ventilation grills, spring-loaded door locks, leak-proof floor basin, and sufficient room for the pet to stand, turn, and lie down.'],
+    ['q' => 'How are cats transported to avoid stress and escape during relocation?', 'a' => 'Cats travel inside secure hard-shell carriers lined with absorbent pee pads and synthetic pheromone calming sprays (such as Feliway) to soothe feline anxiety.'],
+    ['q' => 'What is the feeding routine during a long-distance road trip for dogs?', 'a' => 'Dogs are fed light meals 3 to 4 hours before travel to prevent car sickness. Fresh water is offered at every 3-hour rest stop along with short leash walks.'],
+    ['q' => 'How much does local pet relocation cost within Ranchi?', 'a' => 'Local pet shifting within Ranchi ranges from ₹2,500 to ₹6,500 depending on pet size, crate requirements, and AC vehicle cab distances.'],
+    ['q' => 'Can fish aquariums be relocated long-distance from Ranchi?', 'a' => 'Yes, aquatic pets are transferred into battery-aerated oxygenated bags placed in insulated thermal coolers, while empty glass tanks are custom timber crated.'],
+    ['q' => 'Are tranquilizers or sedatives recommended for pet travel?', 'a' => 'Veterinarians generally advise against heavy sedation as it can impair blood pressure and respiration during travel. Herbal calming supplements or pheromones are preferred.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php">Ranchi</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Moving with Pets in Ranchi Guide</span>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
