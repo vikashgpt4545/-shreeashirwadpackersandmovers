@@ -39,10 +39,10 @@ require_once __DIR__ . '/../includes/header.php';
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle; margin-right: 6px;"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
           Return to Homepage
         </a>
-        <a href="<?php echo SITE_URL; ?>pages/services.php" class="btn btn-secondary" style="padding: 14px 28px; font-weight: 700;">
+        <a href="<?php echo SITE_URL; ?>services" class="btn btn-secondary" style="padding: 14px 28px; font-weight: 700;">
           View All Services
         </a>
-        <a href="<?php echo SITE_URL; ?>pages/contact.php" class="btn btn-outline" style="padding: 14px 28px; font-weight: 700;">
+        <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline" style="padding: 14px 28px; font-weight: 700;">
           Contact Us
         </a>
       </div>
