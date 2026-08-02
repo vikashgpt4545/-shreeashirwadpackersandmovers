@@ -2,7 +2,7 @@
 
 This document serves as the master execution plan for resolving all **4 major site vulnerabilities** and enforcing **100% compliance** with `rules/project-rules.md` across **Shree Ashirwad Packers and Movers**. 
 
-All work will be performed **manually, page-by-page and line-by-line**, with strict automated verification checks after every phase to prevent any false assumptions or incomplete work.
+All work will be performed **100% manually, page-by-page and line-by-line**, with zero automated scripts, generators, or automated code tools.
 
 ---
 
@@ -10,8 +10,8 @@ All work will be performed **manually, page-by-page and line-by-line**, with str
 
 To ensure 100% honesty, zero assumptions, and full compliance with project rules, the following verification protocols are mandatory:
 
-### 🛡️ **Mandatory Automated Batch Validation**
-After completing every batch of pages, the following automated checks MUST be executed and verified before marking any task as complete:
+### 🛡️ **Mandatory Manual Verification Checks**
+After completing each page manually, line-by-line, the following manual checks MUST be executed and verified before marking any task as complete:
 1. **Word Count Mandate Check (Rule #4):**
    - Main Ranchi Page (`packers-and-movers-in-ranchi.php`): **Minimum 3,000+ Words**.
    - All Other Pages: **Minimum 2,000+ Words**.
