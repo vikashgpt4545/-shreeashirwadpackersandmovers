@@ -148,19 +148,19 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;">
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi Main Office</h4>
-          <a href="<?php echo SITE_URL;?>pages/packers-and-movers-in-ranchi.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Packers and Movers in Ranchi →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-in-ranchi.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Packers and Movers in Ranchi →</a>
         </div>
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi to Chaibasa Route</h4>
-          <a href="<?php echo SITE_URL;?>pages/packers-and-movers-ranchi-to-chaibasa.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chaibasa Shifting →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-chaibasa.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chaibasa Shifting →</a>
         </div>
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi to Chakradharpur</h4>
-          <a href="<?php echo SITE_URL;?>pages/packers-and-movers-ranchi-to-chakradharpur.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chakradharpur Shifting →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-chakradharpur.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chakradharpur Shifting →</a>
         </div>
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi to Noamundi</h4>
-          <a href="<?php echo SITE_URL;?>pages/packers-and-movers-ranchi-to-noamundi.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Noamundi Shifting →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-noamundi.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Noamundi Shifting →</a>
         </div>
       </div>
     </div>
@@ -191,7 +191,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display:flex;gap:15px;justify-content:center;flex-wrap:wrap;">
         <a href="tel:<?php echo SITE_PHONE_RAW;?>" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📞 Call: <?php echo SITE_PHONE;?></a>
         <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Goelkera." target="_blank" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">💬 WhatsApp</a>
-        <a href="<?php echo SITE_URL;?>pages/contact.php" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#1e293b,#0f172a);border:1.5px solid #f59e0b;color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📍 Contact Office</a>
+        <a href="<?php echo SITE_URL;?>contact" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#1e293b,#0f172a);border:1.5px solid #f59e0b;color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📍 Contact Office</a>
       </div>
     </div>
   </section>
