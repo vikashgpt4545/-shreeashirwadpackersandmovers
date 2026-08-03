@@ -140,35 +140,55 @@ require_once __DIR__ . '/../includes/header.php';
           Top Choice for <span style="color: #d32f2f;">Packers and Movers in Gamharia</span>
         </h2>
         <p style="color: #64748b; font-size: 0.98rem; margin-top: 8px;">
-          Gamharia is a major industrial growth center adjacent to Adityapur industrial estate. We offer complete house shifting, factory machine moving, and long-distance intercity transportation in Gamharia.
+          Gamharia is a major industrial hub and growing residential township in Jamshedpur adjacent to Adityapur industrial belt and Kandra highway. Shree Ashirwad Packers delivers top-rated zero-damage relocation solutions.
         </p>
       </div>
 
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
           <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Industrial Corridor Access</h3>
-          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Our drivers navigate Gamharia industrial area, Kandra road, and Seraikela highway smoothly.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Our drivers navigate Gamharia industrial area, Kandra road, Adityapur Phase 6/7 link roads, and Seraikela highway smoothly for efficient factory and home moving.</p>
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
           <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">IBA Corporate Billing</h3>
-          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">100% genuine GST invoices and consignment bills for industrial plant engineers and staff.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">100% genuine IBA-approved GST invoices, official Lorry Receipts (LR), and itemized inventory lists tailored for industrial plant engineers, Tata AutoComp staff, and bank managers.</p>
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
           <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">7-Layer Safety Wrap</h3>
-          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Air-bubble rolls, corrugated sheets, foam corner guards, and stretch wrapping for zero transit damage.</p>
+          <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6;">Air-bubble rolls, 5-ply corrugated sheets, foam corner guards, waterproof stretch wrapping, and custom wooden crating for zero transit damage on both local and intercity routes.</p>
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
           <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Residential Home Moving</h3>
-          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Smooth loading and packing for independent houses and residential housing societies in Gamharia.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Smooth loading and packing for independent houses, multi-story apartments, and industrial colonies across Gamharia with dedicated carpentry support.</p>
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
           <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">GPS Enclosed Fleet</h3>
-          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Sealed weather container vehicles equipped with live satellite tracking for real-time location updates.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Sealed weatherproof container vehicles equipped with live satellite tracking for real-time location updates from Gamharia to any destination nationwide.</p>
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
           <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Transparent Upfront Pricing</h3>
-          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clear price breakdowns with zero hidden fees or last-minute cost inflation.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clear price breakdowns with zero hidden fees, covering all labor, high-grade packing materials, toll taxes, and destination unloading.</p>
         </div>
+      </div>
+
+      <!-- Localized Relocation Overview Box -->
+      <div style="background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border: 1px solid rgba(245, 158, 11, 0.3); padding: 30px; border-radius: 12px; margin: 35px 0; color: #ffffff;">
+        <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions: Gamharia Jamshedpur Sector</h3>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          Gamharia is a major industrial and residential township situated on the western periphery of Greater Jamshedpur along the Tata-Kandra main road. Home to heavy industrial manufacturing plants, auto-component ancillary units, and modern housing societies, Gamharia witnesses continuous demand for professional household moving, office transfers, factory equipment shipping, and vehicle relocation.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          Our <strong>packers and movers gamharia jamshedpur</strong> service provides comprehensive end-to-end relocation management. We deploy experienced move supervisors and skilled carpenters who execute systematic packing using 7 protective layers: water-resistant stretch film, high-density air bubble wrap, 5-ply corrugated cardboard sheets, foam edge protectors, quilted moving blankets, official tamper-evident security tape, and custom timber crating for delicate glass tops, marble mandirs, and large Smart TVs.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          We specialize in serving industrial plant engineers, factory supervisors, Tata AutoComp employees, and commercial business owners in Gamharia. We provide 100% authentic IBA-approved GST invoices, money receipts, official consignment Lorry Receipts (LR), and itemized inventory lists necessary for hassle-free corporate and government claim reimbursements.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          Our local transport crews understand the specific road navigation requirements of Gamharia main road, industrial plant gate corridors, and residential housing colonies near Usha Martin and Tayo Rolls. We plan pickup schedules around heavy truck movement hours to guarantee prompt arrival, safe loading, and rapid transit.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+          Whether you are relocating a 1BHK apartment, a spacious 3BHK bungalow, an office setup, or shipping your motorcycle or sedan, Shree Ashirwad Packers guarantees fixed transparent quotes, zero hidden charges, real-time GPS vehicle tracking, and full transit insurance coverage.
+        </p>
       </div>
     </div>
   </section>
@@ -182,27 +202,27 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏡 Gamharia Household Shifting</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Complete house shifting services in Gamharia covering furniture disassembly, fragile packing, loading, and unpacking.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Complete house shifting services in Gamharia covering furniture disassembly, fragile items packing, heavy lifting, container transport, unloading, and complete room-by-room reassembly at your destination.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏢 Factory &amp; Commercial Moving</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Fast industrial plant, office, and warehouse relocation in Gamharia with minimal downtime.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Fast industrial plant, factory office, and warehouse relocation in Gamharia with specialized machine handling, computer system packing, document tagging, and minimal operational downtime.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🚗 Closed Car Carrier Transport</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Enclosed car container trailers for safe door-to-door car transport from Gamharia to any Indian city.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Enclosed hydraulic car container trailers for safe, scratch-free door-to-door car transport from Gamharia Jamshedpur to any major city across India with full insurance coverage.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏍️ Two-Wheeler / Bike Shipping</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Straw padding and corrugated box wrapping for scratch-free motorcycle transport from Gamharia.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Multi-layer air bubble wrapping, paddy straw padding, and corrugated box encasing for 100% scratch-free motorcycle and scooter shipping inside closed trucks from Gamharia.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">📦 Custom Wooden Box Crating</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Solid wooden crate framing for glass tops, heavy equipment, LED TVs, and valuable artifacts in Gamharia.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Solid custom timber crate framing constructed on-site for large LED Smart TVs, glass table tops, delicate marble mandirs, mirrors, and valuable artwork in Gamharia.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏬 Safe Goods Storage Warehouse</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Clean, secure, moisture-free warehouse storage facility in Jamshedpur for temporary goods storage.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clean, CCTV-monitored, pest-controlled, and moisture-free storage warehouse facility in Jamshedpur for short-term or long-term household goods storage before shifting.</p>
         </div>
       </div>
     </div>
@@ -215,13 +235,87 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2rem; color: #ffffff; font-weight: 800;">7-Layer Safety Packaging for <span style="color: #f59e0b;">Gamharia Moves</span></h2>
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 15px;">
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 1: Stretch Wrap</h4><p style="color: #94a3b8; font-size: 0.85rem;">Dust &amp; moisture barrier.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 2: Air-Bubble Roll</h4><p style="color: #94a3b8; font-size: 0.85rem;">Shock absorbing cushion.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 3: Corrugated Sheet</h4><p style="color: #94a3b8; font-size: 0.85rem;">5-ply outer armor.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 4: Foam Corner Guards</h4><p style="color: #94a3b8; font-size: 0.85rem;">Edge &amp; corner protection.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 5: Quilted Blankets</h4><p style="color: #94a3b8; font-size: 0.85rem;">Fabric furniture wrapping.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 6: Security Tape</h4><p style="color: #94a3b8; font-size: 0.85rem;">Official branded sealing.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 7: Wooden Box Crate</h4><p style="color: #94a3b8; font-size: 0.85rem;">Wooden casing for fragile items.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 1: Water-Resistant Stretch Wrap</h4><p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6;">Primary moisture and dust barrier wrapping around furniture to seal against monsoon rain and highway road dust.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 2: Air-Bubble Roll Cushioning</h4><p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6;">High-density shock-absorbing bubble wrap shielding delicate glass, electronic appliances, and polished wood surfaces.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 3: 5-Ply Corrugated Sheeting</h4><p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6;">Heavy cardboard outer armor shielding large sofas, wardrobes, beds, and refrigerators from accidental transit friction.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 4: Foam Corner Protectors</h4><p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6;">Custom high-density foam guards fitted on delicate wooden corners, dining table edges, and marble mandirs.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 5: Quilted Moving Blankets</h4><p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6;">Heavy fabric padded blankets wrapped around polished wooden furniture to prevent surface scratches during loading.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 6: Branded Security Tape</h4><p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6;">Tamper-evident security tape sealing every box, accompanied by room-wise inventory tagging for organized unpacking.</p></div>
+        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 7: Custom Timber Box Crating</h4><p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6;">On-site wooden crate framing built specifically for large Smart TVs, mirrors, glass table tops, and valuable art.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Comprehensive Shifting & Pricing Guide Section -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Complete Relocation Guide</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          Gamharia Shifting Cost Guide &amp; Process Overview
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">
+          Everything you need to know about pricing, packing standards, and route planning for moving in Gamharia Jamshedpur.
+        </p>
+      </div>
+
+      <!-- Price Table Box -->
+      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 25px; margin-bottom: 35px;">
+        <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 16px;">Estimated Shifting Charges in Gamharia Jamshedpur</h3>
+        <div style="overflow-x: auto;">
+          <table style="width: 100%; border-collapse: collapse; color: #cbd5e1; font-size: 0.9rem;">
+            <thead>
+              <tr style="background: rgba(245,158,11,0.15); color: #f59e0b; text-align: left;">
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Shifting Type</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Local Gamharia Move</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Intercity (e.g. Ranchi / Kolkata)</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Packing Included</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">1 BHK Household Shifting</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹3,500 - ₹6,500</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹8,500 - ₹14,000</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Full 7-Layer Packaging</td>
+              </tr>
+              <tr style="background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">2 BHK Household Shifting</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹5,500 - ₹9,500</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹12,500 - ₹20,000</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Full 7-Layer Packaging</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">3 BHK / Villa Shifting</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹8,500 - ₹14,000</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹18,000 - ₹28,000</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Full 7-Layer Packaging + Crating</td>
+              </tr>
+              <tr style="background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Bike / Scooter Transport</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹1,200 - ₹2,200</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">₹3,000 - ₹5,500</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Bubble + Straw Packaging</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Detail Guide Grid -->
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.2); padding: 22px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 10px;">Why IBA Approved Bills Matter in Gamharia</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6; margin: 0;">
+            Gamharia is home to numerous industrial plant engineers, Tata AutoComp personnel, and bank managers. We issue 100% authentic IBA-approved GST bills with matching consignment notes, lorry receipts, and itemized inventories that satisfy all official claim requirements.
+          </p>
+        </div>
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.2); padding: 22px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 10px;">Zero-Damage Handling Protocol</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6; margin: 0;">
+            Our move crew uses heavy-duty lashing belts inside container trucks, padded moving blankets, and heavy bubble wrap to keep all household items completely immobile during transportation across Jamshedpur or long highway routes.
+          </p>
+        </div>
       </div>
     </div>
   </section>
@@ -252,16 +346,16 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2rem; color: #0b132b; font-weight: 800;">Gamharia Relocation FAQs</h2>
       </div>
       <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;">
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q1: Do you handle Gamharia industrial estate relocations?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we serve all sectors in Gamharia including industrial estates, residential colonies, and Kandra road.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q2: Are GST bills provided for employee claim reimbursements?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we issue genuine IBA GST bills and consignment LR copies.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q3: How early should I schedule shifting in Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem;">Booking 2 to 3 days in advance ensures smooth vehicle scheduling.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q4: Can heavy machinery be transported from Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we deploy specialized heavy machinery trailers and cranes upon request.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q5: Is transit insurance provided for intercity routes from Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, full transit insurance coverage is available.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q6: How do you transport bikes from Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem;">Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, all 7 layers of packing material are included in the estimate.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q8: Do you disassemble beds and wardrobes?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, our experienced carpenters disassemble and reassemble furniture.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q9: Are there any hidden charges?</h4><p style="color: #64748b; font-size: 0.9rem;">No, we provide clear written quotes prior to starting.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q10: How can I contact Shree Ashirwad Packers in Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem;">Call <strong>+91 8409531615</strong> or message us on WhatsApp for an immediate quote.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q1: Do you handle Gamharia industrial estate relocations?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we provide full door-to-door packing and loading services across all sectors in Gamharia, including industrial estates, residential housing colonies, Kandra main road, and Tayo colony.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q2: Are GST bills provided for employee claim reimbursements?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we issue genuine 100% IBA-approved GST bills, money receipts, lorry receipts (LR), and itemized inventory packing lists accepted by Tata AutoComp, corporate industries, banks, and government offices.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q3: How early should I schedule shifting in Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Booking 2 to 3 days in advance allows us to inspect your household inventory, assign dedicated container vehicles, and schedule carpenters for seamless execution on moving day.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q4: Can heavy machinery be transported from Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we deploy specialized heavy machinery trailers, hydra cranes, and trained riggers for industrial plant relocations in Gamharia upon request.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q5: Is transit insurance provided for intercity routes from Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, comprehensive full-value transit insurance is provided to protect your furniture, electronics, and vehicle against road hazards or accidents during transport.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q6: How do you transport bikes from Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Motorcycles are wrapped in paddy straw padding, bubble wrap, and 5-ply corrugated sheets before loading into enclosed container vehicles with secure wheel chocks.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, all 7 layers of premium packing material—bubble wrap, corrugated sheets, stretch film, foam corner guards, and security tape—are included in our written quotation.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q8: Do you disassemble beds and wardrobes?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, our experienced carpenters disassemble double beds, wardrobes, and modular furniture at your Gamharia origin and perform full reassembly at your new destination.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q9: Are there any hidden charges?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">No, Shree Ashirwad Packers provides transparent, all-inclusive written estimates with zero hidden fees or last-minute surprise costs.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q10: How can I contact Shree Ashirwad Packers in Gamharia?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">You can call us directly at <strong>+91 8409531615</strong> or message us on WhatsApp for an instant price estimate and slot confirmation.</p></div>
       </div>
     </div>
   </section>

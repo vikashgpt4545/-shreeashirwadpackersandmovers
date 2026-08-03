@@ -172,7 +172,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">✈️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Airport Road &amp; Gateway Junction</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Birsa Chowk is Ranchi's central airport gate. Moving quarters and corporate offices along Airport Road requires fast <strong>packers and movers birsa chowk ranchi</strong>.
+              Birsa Chowk serves as the strategic airport gateway in Ranchi. Moving residential quarters, executive apartments, and commercial offices along Airport Road requires experienced <strong>packers and movers birsa chowk ranchi</strong> with specialized logistics planning.
             </p>
           </div>
 
@@ -181,7 +181,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏢</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">HEC Quarter &amp; Government Colony</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              From HEC residential quarters to Dhurwa apartments, our crew handles large household inventories with heavy furniture and electronics safely.
+              From HEC colony quarters to Dhurwa apartments, our crew manages heavy wooden furniture, home appliances, kitchenware, and fine decor with complete zero-damage handling.
             </p>
           </div>
 
@@ -190,7 +190,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for central government employees, PSU officers, defense staff, and bank managers.
+              We issue 100% genuine IBA-approved GST invoices, Lorry Receipts (LR), and itemized inventory lists accepted by Central/State Government, Defense, PSU, and Bank employers for 100% claim reimbursement.
             </p>
           </div>
 
@@ -199,7 +199,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes connecting Birsa Chowk directly to Khunti Road, Hatia, Hinoo, and Ring Road with GPS tracking.
+              Our company-owned weatherproof container trucks operate smooth transit routes linking Birsa Chowk directly to Khunti Road, Hatia, Hinoo, and Ranchi Ring Road with live satellite GPS tracking.
             </p>
           </div>
 
@@ -208,7 +208,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Safety Wrap</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We protect household goods with air-bubble film, corrugated sheets, foam corner guards, stretch film, and custom wooden crates built on-site.
+              We protect household goods with heavy air-bubble film, 5-ply corrugated sheets, foam edge guards, moisture stretch wrap, and custom wooden crates constructed on-site.
             </p>
           </div>
 
@@ -217,10 +217,34 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Unpacking &amp; Re-Assembly</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our trained move staff dismantles double beds, wardrobes, and modular desks at origin and reassembles every piece systematically at destination.
+              Our trained move staff dismantles double beds, modular wardrobes, and office workstations at origin and reassembles every single item systematically at destination.
             </p>
           </div>
 
+        </div>
+
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Relocation Solutions for Birsa Chowk &amp; Airport Road Corridor</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Birsa Chowk is one of Ranchi's key transport arteries connecting Hinoo, Birsa Munda Airport, Dhurwa, HEC Township, and Khunti Highway. Moving residential quarters or corporate offices near Birsa Chowk requires navigating arterial traffic and utilizing well-maintained container vehicles with expert handling crews.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Our <strong>packers and movers in birsa chowk ranchi</strong> team brings over 15 years of local operational expertise. We deploy custom enclosed container vehicles, heavy-duty moving lifts where necessary, and multi-tier protective packaging to guarantee zero scratches, zero breakage, and zero transit delays.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers in Birsa Chowk?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Birsa Chowk Hub Access</strong> for instant pre-move survey.</li>
+            <li>✔ <strong>Transparent Fixed Written Rates</strong> with zero hidden fees.</li>
+            <li>✔ <strong>HEC &amp; Airport Quarter Relocation</strong> expertise.</li>
+            <li>✔ <strong>Hydraulic Car Carriers</strong> &amp; covered bike transport.</li>
+            <li>✔ <strong>Unpacking &amp; Re-assembly</strong> with precise room setup.</li>
+            <li>✔ <strong>24/7 Live GPS Tracking</strong> on all container trucks.</li>
+          </ul>
         </div>
 
       </div>
@@ -244,42 +268,42 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Birsa Chowk</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our core service includes <strong>household shifting in birsa chowk ranchi</strong> and <strong>home relocation services birsa chowk ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
+            Our primary expertise includes <strong>household shifting in birsa chowk ranchi</strong> and <strong>home relocation services birsa chowk ranchi</strong>. We pack furniture, kitchenware, electronics, and fragile home decor with 7 layers of air-bubble film, corrugated sheeting, and stretch film. Our crew takes care of complete loading, transport, unloading, and room placement.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. PSU &amp; Government Office Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide specialized <strong>office shifting in birsa chowk ranchi</strong> for PSU offices, government quarters, and commercial units near Birsa Chowk.
+            We provide specialized <strong>office shifting in birsa chowk ranchi</strong> for PSU offices, government quarters, and commercial units near Birsa Chowk with systematic box color-coding to ensure zero operational downtime.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Birsa Chowk</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Our <strong>bike transport birsa chowk ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during transit.
+            Our <strong>bike transport birsa chowk ranchi</strong> service applies multi-layer paddy straw wrapping, heavy corrugated sheeting, and stretch film to shield motorcycle body panels and rearview mirrors during transit in wheel-locked container trucks.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Birsa Chowk</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our <strong>car transport service birsa chowk ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
+            Our <strong>car transport service birsa chowk ranchi</strong> operates dedicated hydraulic enclosed car carrier trailers. We pick up cars directly from your Birsa Chowk quarter or apartment and transport them securely across India with comprehensive transit insurance.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Wooden Crate &amp; Heavy Goods Packing</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            For Smart TVs, glass tops, heavy safes, and commercial display units, we build custom wooden crates on-site to absorb heavy road shocks.
+            For large Smart TVs, double-door refrigerators, glass dining tables, and heavy office safes, our carpenters build custom wooden crates on-site to absorb heavy road vibration during highway transit.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Warehouse &amp; Storage Solutions</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our clean, CCTV-monitored warehouse facilities provide moisture-proof short-term and long-term storage lockers for household and commercial goods.
+            If you need temporary storage while awaiting quarter allocation in Birsa Chowk or Dhurwa, our <strong>warehouse storage birsa chowk ranchi</strong> facility features 24/7 CCTV monitoring, fire security, and moisture-controlled lockers.
           </p>
         </div>
 
@@ -303,32 +327,32 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 35px;">
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 1: Water-Resistant Stretch Film</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Seals furniture against moisture and dust during handling.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 1: Water-Resistant High-Tensile Stretch Film</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Seals wooden furniture, mattresses, and fabric sofas against rain, humidity, dirt, and road dust during handling and loading.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 2: Air Bubble Wrapping</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Cushions delicate glassware, electronics, and polished wood.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 2: Heavy-Duty Air Bubble Wrapping</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Cushions delicate glassware, crockery, OLED televisions, computer monitors, and polished teakwood furniture against sudden road shocks.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 3: Corrugated Board Sheeting</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Forms rigid armor for home appliances and sofa sets.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 3: 5-Ply Corrugated Board Sheeting</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Forms a rigid outer armor around washing machines, refrigerators, dining tables, and sofa sets to absorb external physical impacts.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 4: Foam Corner Protectors</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Prevents corner chipping on wooden and glass furniture.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 4: High-Density Polyethylene Foam Corner Guards</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Shields sharp edges and corners of marble tabletops, wooden cabinets, wardrobes, and mirrors from chipping or scratching during stairwell carrying.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 5: On-Site Wooden Crating</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Custom solid wooden crates for Smart TVs and glass items.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 5: Custom On-Site Wooden Crating Framework</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Custom-built solid timber crates constructed on-site for ultra-fragile items like 65-inch Smart TVs, glass dining tables, chandeliers, and antique statues.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 6: Branded Sealing Tape &amp; Tagging</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Clear room-wise labeling and tamper-evident sealing tape.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 6: Branded Tamper-Evident Tape &amp; Color Tagging</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Secures outer carton flaps with heavy-duty moisture tape and room-wise color codes for rapid, error-free unpacking at destination.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 7: Internal Truck Wall Belt Anchors</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Locks packed items firmly inside container trucks for highway transit.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 7: Internal Truck Wall Belt Lashing Anchors</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Locks packed furniture, crates, and containers securely to internal vehicle wall rails with heavy nylon ratchet straps to prevent shifting during highway transit.</p>
         </div>
       </div>
 
@@ -549,70 +573,70 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers birsa chowk ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.
+            Charges are calculated transparently based on total household goods volume, quality of protective packing materials selected (air-bubble wrap, 5-ply cartons, wooden crates), floor elevation, elevator availability, loading crew size, and total highway transit distance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Birsa Chowk?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all Central/State Government, Defense, PSU, and corporate audit departments.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Birsa Chowk?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
+            For local household shifting in Birsa Chowk, booking 2 to 3 days in advance ensures your preferred time slot. For long-distance intercity moves across India, we advise booking 4 to 7 days in advance for smooth container scheduling.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect home furniture and electronics during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
+            We construct custom solid wooden crates on-site for Smart TVs, glass dining tables, and mirrors, and apply 7-layer protective packaging including heavy air-bubble wrap, 5-ply corrugated sheets, and foam edge guards.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Can I track my moving container truck during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your move supervisor.
+            Yes, all our enclosed moving container trucks are equipped with real-time satellite GPS tracking. You receive live location updates and direct communication with your dedicated shift supervisor throughout the journey.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q6: Do you transport cars and bikes safely from Birsa Chowk?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping across India.
+            Yes, we operate specialized hydraulic enclosed car carrier trailers and wheel-locked bike containers with paddy-straw padded wrapping for scratch-free intercity vehicle shipping across India.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for relocation from Birsa Chowk?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during long-distance transit.
+            Yes, we offer 100% comprehensive transit insurance coverage that protects all declared household items against unforeseen road accidents, severe weather, or natural hazards during long-distance national transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Birsa Chowk homes?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.
+            Yes, our expert carpenters dismantle double beds, modular wardrobes, wall units, and glass dining tables at origin, and reassemble them neatly at your new destination address.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q9: Are there any hidden fees added on move day?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            No! We maintain a strict policy of transparent billing with zero hidden charges.
+            No! We strictly adhere to fixed written estimates. All packing materials, vehicle fuel, toll taxes, labor handling charges, and GST invoice breakdowns are finalized upfront prior to dispatch with zero hidden fees on move day.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in birsa chowk ranchi?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            You can call or WhatsApp our official Helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
+            You can call or WhatsApp our official Ranchi Helpline directly at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong> for immediate on-site survey and free price estimation.
           </p>
         </div>
 

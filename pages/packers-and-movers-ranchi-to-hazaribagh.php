@@ -193,6 +193,33 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Ranchi to Hazaribagh Highway Corridor</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            The 95 km express highway corridor via NH-33 connecting Ranchi to Hazaribagh through Ormanjhi, Chuttupalu Ghati, and Ramgarh is one of North Jharkhand's major educational, military, and administrative transit routes. Shifting household goods, delicate electronics, bikes, and official paperwork across this route requires specialized mountain-grade container vehicles and professional tie-down safety.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers ranchi to hazaribagh</strong> service utilizes 7-layer heavy packaging, featuring air-bubble wrap, waterproof stretch wrap, 5-ply corrugated sheets, foam edge protectors, and customized wooden crates for Smart TVs, glass dining tables, and delicate home decor.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            We offer full door delivery across all Hazaribagh neighborhoods including Matwari, Korrah, Cannaught Place, Hurhuru, Babugaon, Pelawal, Demotand, Hazaribagh Cantonment, and Vinoba Bhave University (VBU) campus. Every move comes with 100% compliant IBA-approved GST bills for BSF, NTPC, and government claims, real-time GPS tracking, transit insurance, and complete unpacking re-assembly.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Ranchi to Hazaribagh?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>NH-33 Four-Lane Route</strong> 2 to 2.5 hours fast same-day delivery.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for BSF, NTPC, CCL &amp; Govt staff.</li>
+            <li>✔ <strong>Door Delivery</strong> across Matwari, Korrah &amp; VBU Campus.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; appliances.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
@@ -519,35 +546,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: What are the packers and movers ranchi to hazaribagh charges?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges range from ₹4,000 to ₹8,500 for a 1BHK/2BHK household move, and ₹8,500 to ₹14,500 for a 3BHK household, depending on goods volume and packing requirements.
+            Charges are calculated transparently based on total household inventory volume, selected protective packaging grade (bubble wrap, corrugated sheets, custom timber crates), container truck size, loading floor height, and destination delivery point in Hazaribagh. A 1BHK/2BHK move typically ranges from ₹4,000 to ₹8,500, while a 3BHK household ranges from ₹8,500 to ₹14,500.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does it take for delivery from Ranchi to Hazaribagh?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            The road distance is approximately 95 km via NH-33. Transit time is 2.5 to 3 hours, ensuring same-day delivery for dedicated moves.
+            The road distance between Ranchi and Hazaribagh is approximately 95 km via NH-33 four-lane highway. Our dedicated enclosed container trucks complete transit in 2 to 3 hours, ensuring guaranteed same-day loading and door delivery.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you issue IBA approved bills for BSF / corporate claims?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we provide 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists for corporate claim reimbursement.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists fully accepted by BSF Hazaribagh, NTPC, Central Coalfields Limited (CCL), Vinoba Bhave University, PSU audit teams, government departments, and bank officers.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you transport bikes and cars from Ranchi to Hazaribagh?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Bikes are wrapped in paddy-straw bubble wrap and locked inside container trucks. Cars travel inside closed hydraulic car carriers.
+            Two-wheelers are wrapped in paddy-straw padding and corrugated sheets and secured inside locked container trucks. Automobiles travel inside specialized covered hydraulic car carriers with wheel chocks for complete scratch-free door-to-door transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance available for Ranchi to Hazaribagh shifting?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we offer comprehensive transit insurance covering full invoice value against unforeseen road hazards during highway transit.
+            Yes, we provide comprehensive transit insurance policy documentation covering declared goods value against unforeseen highway hazards or accidents during the Ranchi to Hazaribagh journey.
           </p>
         </div>
 

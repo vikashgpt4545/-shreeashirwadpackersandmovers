@@ -119,20 +119,50 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 2: Stats -->
+  <!-- Section 1: Technical Overview Box -->
+  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Birsanagar Jamshedpur</h3>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Birsanagar is one of the largest residential townships in eastern Jamshedpur, spanning twelve organized zones (Zones 1 through 12), Moharda water plant area, Luabasa link, Sunday Market, and the Telco border. Handling relocation in Birsanagar requires managing varied topography, multi-story independent homes, narrow inner colony streets, and scheduling container truck movements without obstructing local neighborhood traffic.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Our operational coverage across Birsanagar covers all twelve zones, Birsanagar main road, Moharda colony, Luabasa connector, Sunday Market area, and Telco boundary roads. We arrange local vehicle access clearances and ensure rapid loading for independent residential properties and apartment complexes.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        To guarantee complete goods protection during local or outstation transportation, all household items undergo our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner guards, stretch film moisture barrier, and custom wooden crating for glass dining tables, LED TVs, mandirs, and valuable household art.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        For corporate executives, industrial employees, Tata Motors staff, defence personnel, and bank officials claiming official transfer allowances, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill documentation.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Our transport fleet includes weather-sealed closed container trucks, specialized car transport trailers, and small city feeder trucks equipped with live satellite GPS tracking, floor tie-down ratchets, and heavy-duty ramps for safe loading across Birsanagar.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Upon arrival at your destination, our trained unloading crew handles careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. We conduct a joint inventory check to confirm complete satisfaction before final sign-off.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+        Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
+      </p>
+    </div>
+  </section>
+
+  <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; text-align: center;">
-        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">15+ Years</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Local Experience</p></div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 15px; text-align: center;">
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">15+ Yrs</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Local Experience</p></div>
         <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">3,400+</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Birsanagar Relocations</p></div>
-        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">100%</h3><p style="color: #cbd5e1; font-size: 0.85rem;">IBA Approved Bills</p></div>
-        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">24/7</h3><p style="color: #cbd5e1; font-size: 0.85rem;">GPS Vehicle Tracking</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">100%</h3><p style="color: #cbd5e1; font-size: 0.85rem;">IBA Approved Billing</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">7-Layer</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Safety Packaging</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">24/7</h3><p style="color: #cbd5e1; font-size: 0.85rem;">GPS Satellite Tracking</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">Zero</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Hidden Cost Guarantee</p></div>
       </div>
     </div>
   </section>
 
-  <!-- Section 3: 6-Card Overview Grid -->
-  <section style="padding: 60px 0; background: #f8fafc;">
+  <!-- Section 3: 6-Card Feature Grid -->
+  <section style="padding: 60px 0; background: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
         <span style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Birsanagar Local Advantage</span>
@@ -144,106 +174,151 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Zones 1 to 12 Coverage</h3>
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin-bottom: 40px;">
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">1. Zones 1 to 12 Coverage</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Full coverage across all Birsanagar zones, Moharda water works link, Sunday market, and Telco border.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">IBA Corporate Billing</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">2. IBA Corporate Billing</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Genuine GST invoices and consignment bills for corporate employees and government staff.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">7-Layer Safety Wrap</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">3. 7-Layer Safety Wrap</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Air-bubble rolls, corrugated sheets, foam corner guards, and stretch wrapping for zero transit damage.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Residential House Moving</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">4. Residential House Moving</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Smooth loading and packing for independent houses and residential housing in Birsanagar.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">GPS Enclosed Fleet</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">5. GPS Enclosed Fleet</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Sealed weather container vehicles equipped with live satellite tracking for real-time location updates.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Transparent Upfront Pricing</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">6. Transparent Upfront Pricing</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clear price breakdowns with zero hidden fees or last-minute cost inflation.</p>
         </div>
       </div>
+
+      <!-- Mandatory 4-Protocol Safety System -->
+      <div style="background: #070d19; padding: 35px; border-radius: 16px; border: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff; margin-bottom: 40px;">
+        <h3 style="color: #f59e0b; font-size: 1.5rem; font-weight: 800; text-align: center; margin-bottom: 20px;">
+          Mandatory Safety &amp; Compliance Protocols
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">1. Pre-Move Survey &amp; Audit</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Detailed physical itemization to match exact container dimensions and logistics scheduling.</p></div>
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">2. 7-Layer Armor Protection</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Heavy multi-layer wrapping ensuring total cargo safety against transit vibration.</p></div>
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">3. Full Value Transit Insurance</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Comprehensive 3% declared value insurance policy providing complete loss coverage.</p></div>
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">4. GPS Real-Time Monitoring</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Continuous satellite tracking providing live position updates via WhatsApp throughout transit.</p></div>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- Section 4: Services -->
+  <!-- Route Logistics Matrix Section -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Local &amp; Intercity Pricing</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          Birsanagar Shifting Rate Matrix
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">
+          Estimated price ranges for local shifting in Birsanagar and intercity moves out of Jamshedpur.
+        </p>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 25px; margin-bottom: 35px;">
+        <div style="overflow-x: auto;">
+          <table style="width: 100%; border-collapse: collapse; color: #cbd5e1; font-size: 0.9rem;">
+            <thead>
+              <tr style="background: rgba(245,158,11,0.15); color: #f59e0b; text-align: left;">
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Shifting Service</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Vehicle Type</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Service Scope</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Estimated Cost (₹)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">1 BHK Local Shifting (Birsanagar)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">14ft City Truck</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Local Jamshedpur Area</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #10b981; font-weight: 700;">₹4,200 - ₹7,000</td>
+              </tr>
+              <tr style="background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">2 BHK Local Shifting (Birsanagar)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">17ft Container Truck</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Local Jamshedpur Area</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #f59e0b; font-weight: 700;">₹7,000 - ₹11,500</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">3 BHK Local Relocation (Birsanagar)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">19ft / 20ft Truck</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Local Jamshedpur Area</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #f59e0b; font-weight: 700;">₹10,500 - ₹16,500</td>
+              </tr>
+              <tr style="background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">Interstate Move (Ranchi / Kolkata)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Closed Highway Container</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Birsanagar to Outstation</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #10b981; font-weight: 700;">₹8,500 - ₹22,500</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">Car Carrier Shipping (Intercity)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Enclosed Car Carrier</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Door-to-Door Outstation</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #10b981; font-weight: 700;">₹6,500 - ₹14,500</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5-Stage Intercity Relocation Workflow -->
   <section style="padding: 60px 0; background: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
-        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800;">Shifting Solutions in <span style="color: #d32f2f;">Birsanagar Jamshedpur</span></h2>
-      </div>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏡 Birsanagar Household Shifting</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Complete house shifting services in Birsanagar covering furniture disassembly, fragile packing, loading, and unpacking.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏢 Birsanagar Office &amp; Commercial Moving</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Fast office and retail shop relocation in Birsanagar with minimal interruption to business operations.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🚗 Closed Car Carrier Transport</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Enclosed car container trailers for safe door-to-door car transport from Birsanagar to any Indian city.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏍️ Two-Wheeler / Bike Shipping</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Straw padding and corrugated box wrapping for scratch-free motorcycle transport from Birsanagar.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">📦 Custom Wooden Box Crating</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Solid wooden crate framing for glass tops, mandirs, LED TVs, and valuable artifacts in Birsanagar.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏬 Safe Goods Storage Warehouse</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Clean, secure, moisture-free warehouse storage facility in Jamshedpur for temporary goods storage.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section 5: 7-Layer Packaging -->
-  <section style="padding: 50px 0; background: #070d19; color: #ffffff;">
-    <div class="container">
-      <div style="text-align: center; max-width: 800px; margin: 0 auto 35px auto;">
-        <h2 style="font-size: 2rem; color: #ffffff; font-weight: 800;">7-Layer Safety Packaging for <span style="color: #f59e0b;">Birsanagar Moves</span></h2>
-      </div>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 15px;">
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 1: Stretch Wrap</h4><p style="color: #94a3b8; font-size: 0.85rem;">Dust &amp; moisture barrier.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 2: Air-Bubble Roll</h4><p style="color: #94a3b8; font-size: 0.85rem;">Shock absorbing cushion.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 3: Corrugated Sheet</h4><p style="color: #94a3b8; font-size: 0.85rem;">5-ply outer armor.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 4: Foam Corner Guards</h4><p style="color: #94a3b8; font-size: 0.85rem;">Edge &amp; corner protection.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 5: Quilted Blankets</h4><p style="color: #94a3b8; font-size: 0.85rem;">Fabric furniture wrapping.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 6: Security Tape</h4><p style="color: #94a3b8; font-size: 0.85rem;">Official branded sealing.</p></div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 7: Wooden Box Crate</h4><p style="color: #94a3b8; font-size: 0.85rem;">Wooden casing for fragile items.</p></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section 6: Local Geography & Logistics -->
-  <section style="padding: 60px 0; background: #ffffff;">
-    <div class="container">
-      <div style="max-width: 900px; margin: 0 auto;">
-        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800; text-align: center; margin-bottom: 20px;">
-          Local Expertise in <span style="color: #d32f2f;">Birsanagar Jamshedpur Logistics</span>
+        <span style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Step-by-Step Logistics</span>
+        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800; margin-top: 5px;">
+          5-Stage Relocation Workflow in Birsanagar
         </h2>
-        <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
-          Birsanagar is an expansive residential community divided into twelve distinct zones situated in Eastern Jamshedpur. Stretched between Telco and Moharda, our dedicated team manages residential moves across independent houses, colonies, and multi-story buildings.
-        </p>
-        <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
-          With direct routes connecting to Telco Main Road and Baridih highway, our container trucks move household goods reliably across Jamshedpur and to major national destinations.
-        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #d32f2f;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 1</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Doorstep Pre-Move Survey</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Physical or video survey of Birsanagar residence to assess inventory volume and select vehicle specifications.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 2</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">7-Layer Safety Packaging</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Multi-layered packing with bubble wrap, corrugated sheets, foam corner guards, and custom wooden crating for delicate items.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #d32f2f;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 3</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Sealed Container Dispatch</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Systematic loading into closed container trucks, sealed with security locks and tracked via satellite GPS.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 4</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Safe City / Highway Transit</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Smooth transit via optimized routes with real-time WhatsApp status updates to destination.</p>
+        </div>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #d32f2f;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 5</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Doorstep Unloading &amp; Placement</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Unloading into your new home or office, unpacking, assembling furniture, and final verification.</p>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 7: 8 Contextual Body Links -->
+  <!-- Section 4: Contextual Links -->
   <section style="padding: 50px 0; background: #f8fafc;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 30px auto;">
@@ -262,32 +337,43 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 8: 10 FAQs -->
+  <!-- Expanded 20-Item Route FAQs -->
   <section style="padding: 50px 0; background: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 35px auto;">
         <h2 style="font-size: 2rem; color: #0b132b; font-weight: 800;">Birsanagar Relocation FAQs</h2>
       </div>
       <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;">
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q1: Do you cover all 12 zones in Birsanagar Jamshedpur?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we serve all 12 zones in Birsanagar including Sunday Market, Moharda, and Luabasa.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q2: Are GST bills provided for employee claim reimbursements?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we issue genuine IBA GST bills and consignment LR copies.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q3: How early should I schedule shifting in Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem;">Booking 2 to 3 days in advance ensures smooth vehicle scheduling.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q4: Can you move multi-story houses in Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, our crew is equipped for multi-story house loading and unloading.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q5: Is transit insurance provided for intercity routes from Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, full transit insurance coverage is available.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q6: How do you transport bikes from Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem;">Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, all 7 layers of packing material are included in the estimate.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q8: Do you disassemble beds and wardrobes?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, our experienced carpenters disassemble and reassemble furniture.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q9: Are there any hidden charges?</h4><p style="color: #64748b; font-size: 0.9rem;">No, we provide clear written quotes prior to starting.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q10: How can I contact Shree Ashirwad Packers in Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem;">Call <strong>+91 8409531615</strong> or message us on WhatsApp for an immediate quote.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q1: Do you cover all 12 zones in Birsanagar Jamshedpur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we serve all 12 zones in Birsanagar including Sunday Market, Moharda, and Luabasa.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q2: Are GST bills provided for employee claim reimbursements?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we issue genuine 18% GST invoices, stamped Consignment Notes (LR), and IBA-approved bill formats for corporate claims.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q3: How early should I schedule shifting in Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Booking 24 to 48 hours in advance is recommended to reserve dedicated container trucks.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q4: Can you move multi-story houses in Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, our crew is equipped for multi-story house loading, stair carrying, and doorstep unloading.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q5: Is transit insurance provided for intercity routes from Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, comprehensive 3% declared value transit policy coverage protects cargo against highway risks.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q6: How do you transport bikes from Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Motorcycles are wrapped in paddy straw, bubble wrap, and heavy corrugated sheets before being loaded into covered carriers.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, all 7 layers of packing materials—bubble wrap, corrugated sheets, foam guards, stretch film—are fully included.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q8: Do you disassemble beds and wardrobes?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, our experienced carpenters disassemble and reassemble all heavy furniture items at destination.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q9: Are there any hidden charges in Birsanagar relocation?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">No, we provide clear written quotes prior to starting with an explicit zero-hidden-cost guarantee.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q10: How can I contact Shree Ashirwad Packers in Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Call <strong>+91 8409531615</strong> or message us on WhatsApp for an immediate quote.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q11: Which surrounding areas near Birsanagar do you cover?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">We cover Zones 1-12, Sunday Market, Moharda, Luabasa, Telco border, and Baridih.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q12: Can I track my vehicle live during transit from Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, all closed container vehicles feature live GPS satellite tracking providing real-time location updates via WhatsApp.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q13: How is fragile glassware and crockery packed?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Crockery is wrapped item-by-item in bubble sheet and placed vertically in heavy 5-ply corrugated master cartons.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q14: Do you offer car shipping from Birsanagar?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, cars are transported inside enclosed hydraulic car container carriers with doorstep pickup and delivery.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q15: What payment schedule is followed for Birsanagar shifting?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Standard booking follows 20% advance, 70% upon loading in Birsanagar, and the remaining 10% after doorstep delivery.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q16: How do you handle narrow lane loading in Birsanagar inner zones?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">We deploy small city feeder vehicles to shuttle goods from narrow streets to our main container trucks parked on Telco link road.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q17: What paperwork is issued for corporate employee transfer claims?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">We issue stamped Lorry Receipts (LR), official 18% GST invoices, money receipts, and itemized inventory slips.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q18: Can I store goods in Jamshedpur if my destination home is delayed?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we offer secure warehouse storage facilities in Jamshedpur with flexible daily or monthly rates.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q19: How are large smart TVs and wooden mandirs packed?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Smart TVs and mandirs receive air-bubble cushioning, foam corner protection, and sturdy wooden crate framing.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q20: How do I schedule a free doorstep estimate for Birsanagar relocation?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Call <strong>+91 8409531615</strong> or send a message on WhatsApp to arrange a free physical or video survey.</p></div>
       </div>
     </div>
   </section>
 
-  <!-- Section 9: CTA Banner -->
+  <!-- Section 6: CTA Banner -->
   <section class="cta-banner-section" style="padding: 50px 0; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto;">
         <h2 style="font-size: 2.1rem; font-weight: 800; margin-bottom: 15px;">Book Birsanagar Shifting Services Today</h2>
+        <p style="color: #cbd5e1; font-size: 0.98rem; margin-bottom: 25px;">Guaranteed safe transit, 18% GST invoices, IBA approved billing, and 7-layer safety packaging.</p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
           <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
           <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20for%20Birsanagar." target="_blank" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>

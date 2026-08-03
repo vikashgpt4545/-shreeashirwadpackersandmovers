@@ -223,6 +223,33 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Hesag Chowk, Hatia Bypass &amp; Khunti Road Corridor</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Hesag is a rapidly growing suburban residential and commercial hub in southern Ranchi, positioned strategically along the Hatia Bypass and Khunti Road highway corridor. With numerous modern apartment complexes, private housing colonies, and commercial storefronts emerging, relocating home goods and commercial stock requires smooth transit coordination.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers in hesag ranchi</strong> team brings over 15 years of dedicated relocation experience across southern Ranchi. We utilize 7-layer protective packaging featuring water-resistant stretch wrap, thick air-bubble film, 5-ply corrugated sheets, foam edge protectors, and custom timber crates to safeguard high-value household furniture, electronic appliances, and office equipment.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Whether you are moving locally within Hesag Chowk, shifting to nearby Hatia Railway Station, Hinoo Airport area, or Tupudana, or executing a long-distance intercity move to Jamshedpur, Dhanbad, or Patna, Shree Ashirwad Packers and Movers delivers 100% compliant IBA GST bills, real-time satellite GPS tracking, and complete unpacking with furniture re-assembly.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers in Hesag?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Hesag Chowk &amp; Hatia Bypass</strong> local shifting specialists.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for corporate, PSU &amp; defense claims.</li>
+            <li>✔ <strong>Khunti Road &amp; Tupudana Highway Link</strong> express transport.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>On-Site Custom Timber Crating</strong> for LCD/LED TVs &amp; glass.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
@@ -549,35 +576,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers hesag ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, elevator access, and transit distance.
+            Charges are calculated transparently based on total household or commercial goods volume, chosen protective packaging grade (bubble wrap, 5-ply corrugated sheets, custom timber crates), floor height, elevator accessibility, loading manpower required, and transit distance from Hesag Chowk.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for corporate &amp; official moves in Hesag?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized inventory packing lists fully accepted by corporate audit departments, PSU offices, defense establishments, and bank officers.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Hesag?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
+            For local household shifting in Hesag, Hatia, or Hinoo, booking 2 to 3 days in advance secures your preferred schedule. For long-distance intercity moves across India, we recommend booking 4 to 7 days in advance for dedicated vehicle allocation.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect expensive furniture during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
+            We build heavy-duty wooden crates on-site for Smart TVs, mirrors, and glass tops, while wrapping furniture and appliances in 7 layers of shock-absorbing packaging (stretch wrap, thick air-bubble film, corrugated board, foam edge guards) anchored tightly inside enclosed container trucks.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Can I track my moving container truck during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your move supervisor.
+            Yes, all our enclosed moving container trucks are equipped with real-time satellite GPS tracking. You receive live location updates and direct communication with your dedicated shift supervisor throughout the journey.
           </p>
         </div>
 

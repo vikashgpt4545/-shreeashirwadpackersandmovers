@@ -62,6 +62,33 @@ require_once __DIR__ . '/../includes/header.php';
               💬 Chat on WhatsApp
             </a>
           </div>
+
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0; color: #ffffff;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Express Logistics &amp; Home Relocation: Jamshedpur to Ranchi Corridor</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            The 130 km National Highway 33 (NH-33) corridor connecting Steel City Jamshedpur with Capital Ranchi is one of the highest-density shifting routes in Jharkhand. Moving between these two major economic centers is frequent for government officials, defense personnel, Tata Steel &amp; Tata Motors executives, bank officers, and families relocating between Bistupur, Sakchi, Telco, Kadma and Ranchi localities like Kanke Road, Harmu Housing Colony, Morabadi, Bariatu, Lalpur, and Namkum.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers jamshedpur to ranchi</strong> service provides dedicated container trucks for guaranteed same-day delivery (within 4 to 5 hours). All goods are packaged using our 7-layer protective shielding: waterproof stretch wrap, high-density air-bubble cushioning, 5-ply corrugated sheets, corner foam guards, quilted moving blankets, branded tamper-evident tape, and customized wooden crating for delicate items.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Every move includes 100% genuine IBA-approved GST billing for official claim reimbursement, comprehensive transit insurance, real-time satellite GPS tracking, and complete unpacking and furniture setup at your destination home in Ranchi.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0; color: #ffffff;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Jamshedpur to Ranchi Moving?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Guaranteed Same-Day Delivery</strong> via NH-33 express corridor.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for PSU, corporate &amp; government claims.</li>
+            <li>✔ <strong>Door Delivery</strong> across all Ranchi localities &amp; housing colonies.</li>
+            <li>✔ <strong>Dedicated Closed Container Fleet</strong> with hydraulic ramp loading.</li>
+            <li>✔ <strong>On-Site Timber Crating</strong> for Smart TVs, glass tops &amp; mandirs.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
         </div>
 
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
@@ -152,27 +179,27 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏡 Jamshedpur to Ranchi House Shifting</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Complete household shifting covering furniture disassembly, fragile packing, loading, highway transit, and unpacking in Ranchi.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Full-service door-to-door household shifting covering complete furniture disassembly, 7-layer fragile packing, safe container loading, 3-hour NH-33 highway transit, and unloading at your destination in Ranchi.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏢 Office &amp; Corporate Moving</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Seamless office relocation from Jamshedpur to Ranchi IT parks, government secretariats, and commercial hubs.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Seamless office relocation from Jamshedpur to Ranchi IT parks, government secretariats, and commercial business hubs with systematic file indexing, IT equipment protection, and weekend shifting options.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🚗 Closed Car Carrier Transport</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Enclosed car container trailers for safe door-to-door car transport from Jamshedpur to Ranchi.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Enclosed hydraulic car container trailers for safe door-to-door car transport from Jamshedpur to Ranchi, ensuring total protection against highway dust, stones, weather, and road debris.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏍️ Two-Wheeler / Bike Shipping</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Straw padding and corrugated box wrapping for scratch-free motorcycle transport to Ranchi.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Multi-layer bubble wrap, paddy straw padding, and 5-ply corrugated boxing for 100% scratch-free motorcycle and scooter transport from Jamshedpur to Ranchi inside container vehicles.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">📦 Custom Wooden Box Crating</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Solid wooden crate framing for glass tops, mandirs, LED TVs, and valuable artifacts on the Ranchi route.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Solid custom timber crate framing built on-site for heavy glass table tops, marble mandirs, large LED TVs, electronic server units, and valuable antique furniture on the Ranchi route.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏬 Warehouse &amp; Transit Storage</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Clean, secure, moisture-free warehouse storage facility in Jamshedpur and Ranchi for temporary storage.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clean, CCTV-monitored, moisture-free warehouse storage facilities in Jamshedpur and Ranchi providing short-term and long-term household goods storage with flexible monthly rental plans.</p>
         </div>
       </div>
     </div>
@@ -204,11 +231,55 @@ require_once __DIR__ . '/../includes/header.php';
           NH-33 Highway Logistics: <span style="color: #d32f2f;">Jamshedpur to Ranchi Route</span>
         </h2>
         <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
-          The route from Jamshedpur to Ranchi spans approximately 130 km via National Highway 33 (NH-33). It passes through key transit hubs including Chandil, Chowka, Tamar, and Bundu before entering Ranchi via Namkum.
+          The route from Jamshedpur to Ranchi spans approximately 130 km via National Highway 33 (NH-33). It passes through key transit hubs including Chandil, Chowka, Tamar, and Bundu before entering Capital Ranchi via Namkum and Rampur bypass.
         </p>
         <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
-          Our GPS container trucks operate daily on this route, ensuring seamless deliveries to all prominent Ranchi destinations including Lalpur, Harmu Housing Colony, Morabadi, Bariatu, Doranda, Dhurwa, and Kanke Road.
+          Our GPS container trucks operate daily on this route, ensuring fast same-day deliveries to all prominent Ranchi destinations including Lalpur, Harmu Housing Colony, Morabadi, Bariatu, Doranda, Dhurwa, Hinoo, Kanke Road, and Ashok Nagar.
         </p>
+        <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
+          Whether you are moving due to a corporate job transfer at Tata Steel / Tata Motors, a government posting at the Jharkhand High Court or Secretariat, or family relocation, we provide 100% genuine IBA-approved GST bills, transit insurance coverage, live GPS vehicle tracking, and hassle-free furniture reassembly at destination.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Step-by-Step Relocation Workflow Section -->
+  <section style="padding: 60px 0; background: linear-gradient(180deg, #0b132b 0%, #16203b 100%); color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Process</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          4-Step Express Relocation Workflow: <span style="color: #f59e0b;">Jamshedpur to Ranchi</span>
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">
+          We follow a disciplined, transparent execution workflow to guarantee 100% damage-free shifting on the NH-33 highway route.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">1</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Pre-Move Survey</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">In-person or virtual video inventory estimation to evaluate goods volume, access staircases, and specialized timber crating requirements.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">2</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">7-Layer Packing</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our professional move crew wraps furniture, electronics, and glassware using heavy air-bubble rolls, 5-ply sheets, foam edge guards, and stretch film.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">3</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Enclosed GPS Transit</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Goods are loaded carefully into sealed weatherproof container trucks equipped with live satellite tracking for real-time customer updates.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">4</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Unpacking &amp; Assembly</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Destination unloading, room placement, unpacking of cartons, and complete reassembly of beds, dining tables, and wardrobes by experienced carpenters.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -239,16 +310,70 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2rem; color: #0b132b; font-weight: 800;">Jamshedpur to Ranchi Shifting FAQs</h2>
       </div>
       <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;">
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q1: How long does house shifting take from Jamshedpur to Ranchi?</h4><p style="color: #64748b; font-size: 0.9rem;">With morning loading, goods are typically delivered in Ranchi within 4 to 6 hours on the same day.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q2: Are GST bills provided for employee claim reimbursements?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we issue genuine IBA GST bills and consignment LR copies.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q3: How early should I schedule a Jamshedpur to Ranchi move?</h4><p style="color: #64748b; font-size: 0.9rem;">Booking 1 to 2 days in advance ensures smooth vehicle scheduling.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q4: Do you offer door-to-door car transport from Jamshedpur to Ranchi?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we use enclosed car carriers with door-to-door pickup and delivery.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q5: Is transit insurance provided for the NH-33 route?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, full transit insurance coverage is available.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q6: How do you transport bikes from Jamshedpur to Ranchi?</h4><p style="color: #64748b; font-size: 0.9rem;">Motorcycles are wrapped in paddy straw and heavy corrugated sheets before loading.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, all 7 layers of packing material are included in the estimate.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q8: Do you disassemble beds and wardrobes?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, our experienced carpenters disassemble and reassemble furniture.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q9: Are there any hidden charges?</h4><p style="color: #64748b; font-size: 0.9rem;">No, we provide clear written quotes prior to starting.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q10: How can I contact Shree Ashirwad Packers for a Ranchi quote?</h4><p style="color: #64748b; font-size: 0.9rem;">Call <strong>+91 8409531615</strong> or message us on WhatsApp for an immediate quote.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q1: How long does house shifting take from Jamshedpur to Ranchi?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            The 130 km highway distance via NH-33 takes approximately 4 to 5 hours of driving time. With morning loading in Jamshedpur (Bistupur, Sakchi, Telco, Kadma), your household goods are safely delivered, unloaded, and assembled in Ranchi (Harmu, Kanke, Morabadi, Lalpur) on the exact same day.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q2: Are GST bills provided for employee claim reimbursements?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, Shree Ashirwad Packers and Movers provides 100% genuine IBA-compliant GST invoices, money receipts, Lorry Receipts (LR), and itemized inventory packing lists accepted by Tata Steel, Tata Motors, State Government Secretariats, Judicial services, Defense departments, and banks.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q3: How early should I schedule a Jamshedpur to Ranchi move?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            We recommend booking 1 to 2 days in advance for Jamshedpur to Ranchi moves. Early reservation guarantees dedicated container truck assignment and pre-packing material staging. Same-day emergency booking is also available subject to vehicle availability.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q4: Do you offer door-to-door car transport from Jamshedpur to Ranchi?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, we operate hydraulic enclosed car carriers for scratch-free, damage-free car transport from Jamshedpur to Ranchi with complete doorstep pickup and doorstep delivery.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q5: Is transit insurance provided for the NH-33 route?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, we provide full transit insurance coverage protecting your household goods, electronics, and vehicles against unforeseen accidents or hazards along the NH-33 Jamshedpur-Ranchi highway corridor.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q6: How do you transport bikes and motorcycles from Jamshedpur to Ranchi?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Two-wheelers are wrapped in high-density air bubble cushioning, paddy straw padding, and 5-ply corrugated sheets before loading. We secure the bike using heavy-duty wheel lashing belts inside enclosed container trucks to ensure zero scratches or transit damage.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q7: Are packing materials included in the price estimate for Jamshedpur to Ranchi?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, all 7 protective layers of packing materials—including bubble rolls, corrugated boxes, stretch film, edge guards, and security tape—are fully included in our transparent upfront price estimate.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q8: Do you disassemble and reassemble furniture during Jamshedpur to Ranchi shifting?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, our experienced move crew disassembles modular beds, wardrobes, and dining tables at origin in Jamshedpur and performs complete reassembly at your destination home in Ranchi.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q9: Are there any hidden extra charges on move day?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            No, all quotes provided by Shree Ashirwad Packers and Movers are fixed all-inclusive written estimates covering packing material, labor, loading, highway toll taxes, GST, and destination unloading.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q10: How can I book Packers and Movers Jamshedpur to Ranchi?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            You can call our helpline directly at <strong>+91 8409531615</strong> or submit your move request on WhatsApp to get an immediate cost estimate and confirm your moving slot.
+          </p>
+        </div>
       </div>
     </div>
   </section>

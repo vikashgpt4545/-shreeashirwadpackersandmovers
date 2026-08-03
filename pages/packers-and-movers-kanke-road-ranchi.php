@@ -82,7 +82,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Packers and Movers Kanke Road Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Searching for premier, safe, and zero-damage <strong>packers and movers kanke road ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated villa shifting, apartment household relocation, corporate moving, car carriers, and secure storage across Kanke Road, CMPDI, Rock Garden, Kanke Dam, and surrounding Ranchi sectors.
+            Searching for premier, safe, and zero-damage <strong>packers and movers kanke road ranchi</strong>? Shree Ashirwad Packers and Movers provides top-rated villa shifting, high-rise flat relocation, corporate office moving, specialized car carriers, and secure warehouse storage across Kanke Road, CMPDI Colony, Rock Garden, Kanke Dam, CIP Campus, Boreya, and surrounding Ranchi sectors with 100% IBA GST billing.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -172,7 +172,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📍</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Kanke Premium Shifting</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Kanke Road is famous for upscale residential villas and institution campuses. Moving delicate furniture here requires certified <strong>packers and movers kanke road ranchi</strong> with specialized care.
+              Kanke Road is famous for upscale residential villas, lush green surroundings, and PSU institutional campuses like CMPDI, CIP, and Kanke Dam. Moving delicate furniture here requires certified <strong>packers and movers kanke road ranchi</strong> with specialized care.
             </p>
           </div>
 
@@ -181,7 +181,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏡</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Villa &amp; Duplex Shifting</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              From multi-level duplexes to gated villa communities near CMPDI &amp; Rock Garden, our team handles heavy marble mandirs, glass tables, and chandeliers with precision tools.
+              From multi-level duplexes to gated villa communities near CMPDI &amp; Rock Garden, our move crews handle heavy marble mandirs, Italian dining glass tables, crystal chandeliers, and teakwood furniture using specialized hoist equipment.
             </p>
           </div>
 
@@ -190,7 +190,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for Central Coalfields (CCL), CMPDI, PSU, Bank, and Defense officers residing along Kanke Road.
+              We issue 100% genuine IBA-approved GST invoices, Lorry Receipts (LR), and itemized goods inventories required by Central Coalfields Limited (CCL), CMPDI, PSU, Bank, and Defense officers residing along Kanke Road for full claim reimbursement.
             </p>
           </div>
 
@@ -199,7 +199,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes linking Kanke Road directly to Ring Road and National Highways, backed by real-time GPS tracking.
+              Our weatherproof container trucks operate smooth transit routes linking Kanke Road directly to Ring Road and National Expressways, backed by real-time satellite GPS tracking and padded vehicle interiors for complete cargo safety.
             </p>
           </div>
 
@@ -208,7 +208,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Safety Wrap</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We protect household goods with heavy bubble film, corrugated sheets, foam corner guards, stretch film, and custom wooden crates built on-site.
+              We protect household goods with heavy air-bubble film, 5-ply corrugated sheets, foam edge corner guards, moisture-proof stretch film, and custom wooden crates built directly on-site at your Kanke residence.
             </p>
           </div>
 
@@ -217,11 +217,23 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Unpacking &amp; Re-Assembly</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our trained move crew dismantles modular beds, wardrobes, and dining tables at origin and reassembles every piece systematically at your new address.
+              Our trained move crew dismantles modular beds, heavy wardrobes, and dining tables at origin and systematically reassembles every single piece according to your room layout at your new destination.
             </p>
           </div>
 
         </div>
+
+        <!-- Comprehensive Local Context & Villa Relocation Guide -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Services for Kanke Road Villas &amp; PSU Officers</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Kanke Road serves as one of Ranchi's most prestigious residential corridors, housing senior executives, PSU officials from CMPDI and CCL, medical experts from CIP and RINPAS, and prominent business owners. Moving a multi-bedroom villa or officer residence involves handling high-value luxury furniture, delicate crystal items, large OLED displays, and custom modular woodwork.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Our <strong>household shifting in kanke road ranchi</strong> division provides customized relocation planning. We assign a dedicated move director to oversee packing teams, utilize custom wooden crates for valuable artifacts, and manage direct loading into sealed container vehicles for seamless local or nationwide transit.
+          </p>
+        </div>
+
 
       </div>
 
@@ -244,42 +256,42 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Kanke Road</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our core service includes <strong>household shifting in kanke road ranchi</strong> and <strong>home relocation services kanke road ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
+            Our core expertise lies in <strong>household shifting in kanke road ranchi</strong> and <strong>home relocation services kanke road ranchi</strong>. We wrap furniture, appliances, kitchenware, and luxury home decor with 7 layers of shock-absorbing air-bubble film, corrugated sheets, and stretch film. Our team handles complete loading, transport, unloading, and room placement.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Office Shifting in Kanke Road</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            We provide fast <strong>office shifting in kanke road ranchi</strong> for institutional centers, corporate offices, and research organizations with zero downtime and tagged file box packing.
+            We provide fast <strong>office shifting in kanke road ranchi</strong> for institutional centers, corporate offices, CIP research centers, and PSU administrative branches. Our move crew works off-hours to pack IT hardware, servers, office furniture, and official archives with color-coded label tagging for zero operational downtime.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Kanke Road</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our <strong>bike transport kanke road ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield gas tanks, handlebars, and mirrors during transit.
+            Our <strong>bike transport kanke road ranchi</strong> service applies multi-layer paddy straw padding, corrugated sheeting, and high-tensile stretch film to guard body panels, fuel tanks, and mirrors against transit scratches. Vehicles are transported in wheel-locked container trucks.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Kanke Road</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our <strong>car transport service kanke road ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
+            Our <strong>car transport service kanke road ranchi</strong> utilizes company-owned covered hydraulic car carrier trailers. We pick up luxury sedans, SUVs, and hatchbacks directly from Kanke Road residences and deliver them safely to any city in India with full insurance coverage.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Wooden Crate &amp; Villa Packing</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            For large Smart TVs, marble statues, glass tabletops, and chandeliers in Kanke Road villas, we craft custom wooden crates to absorb heavy road shocks.
+            For high-value items like 75-inch Smart TVs, marble mandirs, glass dining tables, and crystal chandeliers in Kanke Road villas, our carpenters craft custom wooden crates on-site to absorb heavy highway transit shocks.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Warehouse &amp; Storage Solutions</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our clean, CCTV-monitored warehouse facilities provide moisture-proof short-term and long-term storage lockers for household goods along Kanke Road.
+            If you require flexible temporary storage while waiting for villa renovation or flat handover near Kanke Road, our <strong>warehouse storage kanke road ranchi</strong> facilities feature 24/7 CCTV surveillance, fire protection, and pest-free storage compartments.
           </p>
         </div>
 
@@ -447,18 +459,18 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        CCL employees, CMPDI officials, defense personnel, and bank managers residing along Kanke Road get 100% compliant reimbursement documentation:
+        Bank officers, Central Coalfields Limited (CCL) staff, CMPDI engineers, defense personnel, and private corporate executives residing along Kanke Road require authentic, audit-ready paperwork to claim employee relocation allowances. As certified <strong>iba approved packers and movers ranchi</strong>, we provide a complete, government-compliant bill set:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
         <h4 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 12px; font-weight: 700;">Complete Relocation Claim Document Set:</h4>
         <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8;">
-          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing &amp; freight costs.</li>
-          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with vehicle registration stamp.</li>
-          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers.</li>
-          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> on official letterhead.</li>
-          <li><strong>Transit Insurance Policy Document</strong> issued by authorized insurance providers.</li>
-          <li><strong>Stamped Payment Receipt</strong> for company HR &amp; audit submission.</li>
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing, loading, freight, and unloading costs with SAC codes.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> stamped with vehicle number, driver details, and destination route.</li>
+          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers and box counts.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> printed on official company letterhead.</li>
+          <li><strong>Transit Insurance Policy Document</strong> issued by authorized national insurance providers.</li>
+          <li><strong>Stamped Money Receipt</strong> for HR department audit and finance submission.</li>
         </ol>
       </div>
 
@@ -503,7 +515,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging at Kanke Road</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Our uniformed crew arrives punctually with heavy bubble wrap, foam corner guards, corrugated boxes, and wooden crates.
+              On move day, our uniformed packing crew arrives punctually at your Kanke Road address equipped with heavy bubble wrap, foam corner guards, 5-ply corrugated boxes, stretch film, and custom wooden crates.
             </p>
           </div>
         </div>
@@ -513,7 +525,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Container Loading &amp; GPS Tracking</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Goods are secured inside dedicated container vehicles with nylon tie-downs. You get live GPS tracking updates until delivery.
+              Packed goods are anchored safely inside company-owned weatherproof container vehicles using nylon tie-down belts. You receive continuous live GPS tracking updates until your truck reaches its destination.
             </p>
           </div>
         </div>
@@ -523,7 +535,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Unloading, Unpacking &amp; Room Setup</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              At destination, our crew unloads, unboxes, re-assembles beds and tables, and places furniture according to your instructions.
+              At your destination address, our unloading team unboxes every container, re-assembles beds and modular furniture, and places every item in designated rooms according to your layout preferences.
             </p>
           </div>
         </div>
@@ -549,28 +561,28 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers kanke road ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), villa/apartment floor level, elevator access, and transit distance.
+            Relocation charges are calculated transparently based on total inventory volume, packing material requirements (such as wooden crating or 7-layer bubble wrap), villa or apartment floor level, elevator availability at Kanke Road, and travel distance to your new destination.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for CCL &amp; CMPDI employees in Kanke Road?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized packing lists accepted by Central Coalfields Limited (CCL), CMPDI, PSU, Defense, and Bank HR audit departments.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book villa relocation along Kanke Road?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
+            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance to reserve dedicated container trucks.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect expensive furniture and chandeliers?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
+            We construct heavy-duty wooden crates directly on-site at your Kanke residence and apply 7-layer protective packaging consisting of high-density air-bubble wrap, 5-ply corrugated sheets, foam edge corner guards, and stretch wrapping.
           </p>
         </div>
 
@@ -598,21 +610,21 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Kanke Road homes?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.
+            Yes, our expert carpenters and move supervisors disassemble double beds, modular wardrobes, heavy wall units, and dining tables at origin, and reassemble them neatly at your destination address.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q9: Are there any hidden fees added on move day?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            No! We maintain a strict policy of transparent billing with zero hidden charges.
+            No! We maintain a strict zero hidden cost guarantee. Every price factor is transparently detailed in your official quotation prior to move day with no unexpected surcharges.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in kanke road ranchi?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            You can call or WhatsApp our official Helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
+            You can call or WhatsApp our official Kanke Road Helpline directly at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong> for immediate booking assistance.
           </p>
         </div>
 

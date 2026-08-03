@@ -92,6 +92,34 @@ require_once __DIR__ . '/../includes/header.php';
               💬 Chat on WhatsApp
             </a>
           </div>
+
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0; color: #ffffff;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Sundernagar TATA-Hata Main Road Belt</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Sundernagar is a key residential and commercial transit node in southern Greater Jamshedpur along the active TATA-Hata State Highway corridor. Home to UCIL housing complexes, Narwa Pahar link residential quarters, Karandih extensions, and TATA-Hata commercial markets, Sundernagar experiences regular movement of industrial employees, defense personnel, railway staff, and local families.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers sundernagar jamshedpur</strong> team provides complete door-to-door relocation using a 7-layer protective packaging system. We wrap household items with waterproof stretch film, high-density air-bubble cushioning, 5-ply corrugated sheets, foam edge protectors, and custom wooden crating for delicate glass dining tables, marble mandirs, and Smart TVs.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Every move includes 100% genuine IBA-approved GST invoices for employee reimbursement claims, real-time GPS tracking on container vehicles, complete transit insurance, and hassle-free furniture assembly at your destination.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0; color: #ffffff;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers in Sundernagar Jamshedpur?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Fast TATA-Hata Corridor Dispatch</strong> for quick local moving.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for corporate &amp; UCIL staff claims.</li>
+            <li>✔ <strong>Door Delivery</strong> across Karandih, Narwa Pahar &amp; Parsudih.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; marble mandirs.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
         </div>
 
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
@@ -268,6 +296,47 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+  <!-- Step-by-Step Relocation Workflow Section -->
+  <section style="padding: 60px 0; background: linear-gradient(180deg, #0b132b 0%, #16203b 100%); color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Process</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          4-Step Seamless Relocation Process in <span style="color: #f59e0b;">Sundernagar Jamshedpur</span>
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">
+          We follow a disciplined, transparent execution workflow to guarantee 100% damage-free shifting for every home or office.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">1</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Pre-Move Survey</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">In-person or virtual video inventory estimation to evaluate goods volume, access staircases, and specialized timber crating requirements.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">2</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">7-Layer Packing</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our professional move crew wraps furniture, electronics, and glassware using heavy air-bubble rolls, 5-ply sheets, foam edge guards, and stretch film.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">3</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Enclosed GPS Transit</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Goods are loaded carefully into sealed weatherproof container trucks equipped with live satellite tracking for real-time customer updates.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">4</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Unpacking &amp; Assembly</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Destination unloading, room placement, unpacking of cartons, and complete reassembly of beds, dining tables, and wardrobes by experienced carpenters.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Section 7: 8 Contextual Body Links -->
   <section style="padding: 50px 0; background: #f8fafc;">
     <div class="container">
@@ -295,11 +364,40 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2rem; color: #0b132b; font-weight: 800;">Sundernagar Relocation FAQs</h2>
       </div>
       <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;">
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q1: Do you provide house shifting services across TATA-Hata main road in Sundernagar?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Yes, we cover all areas in Sundernagar, including TATA-Hata Main Road, Karandih, Narwa Pahar link, and surrounding residential colonies.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q2: Are GST bills and consignment notes valid for employee claim reimbursement?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Yes, we issue 100% genuine IBA-compliant GST invoices, money receipts, and lorry receipts for corporate and defense claims.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q3: How many days in advance should I book shifting in Sundernagar?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Booking 2 to 3 days in advance allows optimal vehicle scheduling and customized packing material preparation.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q4: Can you handle furniture disassembly and reassembly in Sundernagar?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Yes, our experienced carpenters disassemble double beds, wardrobes, and modular items before move and reassemble them at your new home.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q5: Is transit insurance provided for goods moved from Sundernagar?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Yes, comprehensive full-value transit insurance is available for long-distance intercity moves.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q1: Do you provide house shifting services across TATA-Hata main road in Sundernagar?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, we provide complete household shifting services across all localities in Sundernagar, including TATA-Hata Main Road corridor, Karandih extension, Narwa Pahar link road, UCIL quarters, Police Station road, and surrounding residential colonies with full door-to-door packing and loading.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q2: Are GST bills and consignment notes valid for employee claim reimbursement?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, Shree Ashirwad Packers and Movers provides 100% genuine IBA-compliant GST invoices, money receipts, Lorry Receipts (LR), and itemized inventory packing lists accepted by Tata Steel, UCIL, Railway departments, banks, defense services, and corporate companies.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q3: How many days in advance should I book shifting in Sundernagar?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            We recommend booking 2 to 3 days in advance for local shifting within Jamshedpur and 4 to 5 days in advance for long-distance intercity relocation. Advance booking guarantees prompt container truck assignment and customized 7-layer packaging materials.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q4: Can you handle furniture disassembly and reassembly in Sundernagar?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, our skilled move crew includes trained carpenters who disassemble modular double beds, wardrobes, dining tables, and wall units at your origin home and carefully reassemble them at your new destination home in Sundernagar.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q5: Is transit insurance provided for goods moved from Sundernagar?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, we provide comprehensive transit insurance coverage protecting your household goods, electronics, and vehicles against unforeseen road hazards or accidents during long-distance highway transit.
+          </p>
+        </div>
         <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q6: How are motorcycles packed and shipped from Sundernagar?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Two-wheelers are wrapped in air-bubble wrap, paddy straw padding, and heavy corrugated sheets before being loaded into specialized container trucks.</p></div>
         <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q7: Are packing materials included in the quote estimate?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Yes, all 7 layers of packaging material (bubble wrap, corrugated sheets, stretch film, cartons) are fully included in the estimate.</p></div>
         <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q8: Do you provide local shifting within Sundernagar and Jamshedpur city?</h4><p style="color: #64748b; font-size: 0.9rem; margin: 0;">Yes, we handle both local intra-city shifting within Jamshedpur and intercity long-distance relocations across India.</p></div>

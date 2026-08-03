@@ -193,6 +193,33 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Ranchi to Chaibasa (West Singhbhum) Route</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Connecting Ranchi to Chaibasa (the administrative headquarters of West Singhbhum district, covering 140 km via Khunti, Bandgaon, and the NH-75 corridor) requires dependable long-distance logistics. This corridor serves university professors from Kolhan University, district administrative officers, judicial staff, mining personnel from Noamundi and Kiriburu iron ore belts, and commercial traders.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers ranchi to chaibasa</strong> service applies a rigid 7-layer protective packaging standard. We cover all items with waterproof stretch film, air-bubble wrap, 5-ply corrugated sheets, foam edge protectors, and custom solid timber crating for delicate glass, electronics, and LED TVs.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            We deliver door-to-door across all Chaibasa sectors including Main Market, Amda Road, Court Road, Nimdih, Tata Road, College Road, Kolhan University Campus, Chakradharpur, and Noamundi. Every relocation includes 100% genuine IBA-approved GST invoices for government claim submission, satellite GPS tracking, full transit insurance, and destination furniture assembly.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Ranchi to Chaibasa?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Express Highway Transit</strong> 3 to 3.5 hours fast same-day delivery.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for Kolhan University &amp; Govt staff.</li>
+            <li>✔ <strong>Door Delivery</strong> across Court Road, College Road &amp; Nimdih.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; appliances.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
@@ -519,35 +546,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: What are the packers and movers ranchi to chaibasa charges?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges range from ₹4,800 to ₹9,800 for a 1BHK/2BHK household move, and ₹9,800 to ₹16,500 for a 3BHK household, depending on goods volume and packing requirements.
+            Charges are calculated transparently based on total household inventory volume, selected protective packaging grade (bubble wrap, corrugated sheets, custom timber crates), container truck size, loading floor height, and destination delivery point in Chaibasa. A 1BHK/2BHK move typically ranges from ₹4,800 to ₹9,800, while a 3BHK household ranges from ₹9,800 to ₹16,500.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does it take for delivery from Ranchi to Chaibasa?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            The road distance is approximately 140 km via Khunti highway. Transit time is 3.5 to 4 hours, ensuring same-day delivery for dedicated moves.
+            The highway distance between Ranchi and Chaibasa is approximately 140 km via Khunti and Bandgaon. Our dedicated enclosed container trucks complete transit in 3 to 3.5 hours, ensuring guaranteed same-day loading and door delivery.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you issue IBA approved bills for Kolhan University / government claims?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we provide 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists for corporate &amp; government claim reimbursement.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists fully accepted by Kolhan University, West Singhbhum District Administration, mining companies (SAIL/NMDC), government departments, and bank officers.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you transport bikes and cars from Ranchi to Chaibasa?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Bikes are wrapped in paddy-straw bubble wrap and locked inside container trucks. Cars travel inside closed hydraulic car carriers.
+            Two-wheelers are wrapped in paddy-straw padding and corrugated sheets and secured inside locked container trucks. Automobiles travel inside specialized covered hydraulic car carriers with wheel chocks for complete scratch-free door-to-door transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance available for Ranchi to Chaibasa shifting?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we offer comprehensive transit insurance covering full invoice value against unforeseen road hazards during highway transit.
+            Yes, we provide comprehensive transit insurance policy documentation covering declared goods value against unforeseen highway hazards or accidents during the Ranchi to Chaibasa journey.
           </p>
         </div>
 

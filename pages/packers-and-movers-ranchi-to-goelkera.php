@@ -98,13 +98,69 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="color:#f59e0b;text-transform:uppercase;font-weight:700;font-size:.85rem;letter-spacing:1px;">Why Choose Us</span>
       <h2 style="font-size:2.2rem;font-weight:800;color:#fff;margin:10px 0 30px;">Why Choose Us for <span style="color:#f59e0b;">Ranchi to Goelkera Shifting</span>?</h2>
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
-        <?php $cards=[['🚚','Daily Container Trucks','Dedicated sealed trucks cover 180 km via NH-75 to Goelkera mining area in ~4 hours.'],['🏭','Mining Belt Coverage','We deliver to Goelkera Town, SAIL colony, Roro River corridor, and surrounding mining quarters.'],['🛡️','IBA Approved Billing','Genuine IBA bills for SAIL employees, mine engineers, and government officers.'],['📦','7-Layer Packaging','Air-bubble, corrugated, stretch film, foam guards, wooden crating for safe highway transit.'],['🚗','Enclosed Vehicle Carriers','Closed car trailers and padded bike transport from Ranchi to Goelkera.'],['👨‍🔧','Assembly at Destination','Our crew dismantles at Ranchi and reassembles furniture at your Goelkera home.']]; foreach($cards as $c):?>
         <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
-          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;"><?php echo $c[0];?></div>
-          <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;"><?php echo $c[1];?></h3>
-          <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;"><?php echo $c[2];?></p>
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">🚚</div>
+          <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">Direct Daily NH-75 Container Fleet</h3>
+          <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">We operate dedicated weatherproof container vehicles connecting Capital Ranchi with Goelkera in West Singhbhum (approx. 180 km via NH-75 and Chaibasa corridor) delivering safe same-day arrival within 4 hours.</p>
         </div>
-        <?php endforeach;?>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">🏭</div>
+          <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">Mining &amp; Railway Hub Coverage</h3>
+          <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Complete door delivery across Goelkera Town, Railway Colony, Roro River residential areas, Forest quarters, and tribal welfare office quarters with full unloading, unpacking, and positioning.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">🛡️</div>
+          <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">IBA Approved GST Billing</h3>
+          <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">100% genuine IBA-compliant GST invoices, money receipts, and Lorry Receipts (LR) tailored for South Eastern Railway employees, SAIL mining staff, teachers, and bank officers seeking quick reimbursement.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">📦</div>
+          <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">7-Layer Heavy Packaging</h3>
+          <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Heavy-duty air bubble wrap, 5-ply corrugated sheets, stretch film, edge guards, moving blankets, branded tape, and custom timber crating for zero transit damage during long highway moves.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">🚗</div>
+          <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">Enclosed Car &amp; Bike Transport</h3>
+          <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Padded motorcycle transport containers and enclosed hydraulic car trailers ensuring 100% scratch-free vehicle shifting from Ranchi to Goelkera with complete door pickup and delivery.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">👨‍🔧</div>
+          <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">Complete Furniture Carpentry</h3>
+          <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Trained move crew handles complete disassembly of modular beds and wardrobes at Ranchi origin and full reassembly at your destination home in Goelkera for maximum convenience.</p>
+        </div>
+      </div>
+
+      <!-- Localized Relocation Overview Box -->
+      <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 35px 0; color: #ffffff;">
+        <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions: Ranchi to Goelkera (West Singhbhum Belt)</h3>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          Goelkera is an essential railway and mining township in West Singhbhum district, located along the major South Eastern Railway line between Chaibasa, Chakradharpur, and Manoharpur. Transfers between Capital Ranchi and Goelkera are frequent among Indian Railways staff, SAIL mining engineers, forestry officers, state government employees, school teachers, and local business owners.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          Our <strong>packers and movers ranchi to goelkera</strong> service provides dedicated weatherproof container trucks for express delivery via the NH-75 highway corridor (approx. 180 km / 4 hours). All household items are wrapped in 7 protective layers: waterproof stretch film, air-bubble cushioning, 5-ply corrugated sheets, foam edge protectors, quilted moving blankets, official tamper-evident tape, and customized wooden crating for delicate electronics and mandirs.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          We understand the specific logistics challenges of shifting to mining and railway colonies in West Singhbhum. Our drivers are thoroughly experienced with local road conditions, narrow residential quarter lanes, and forest corridor navigation. We take complete responsibility for safe loading at your Ranchi residence and systematic unloading at Goelkera.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+          For corporate and PSU employees, we supply 100% authentic IBA-approved GST invoices, official Lorry Receipts (LR), itemized packing inventory lists, and advance money receipts necessary for claiming full relocation allowances without administrative delays.
+        </p>
+        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+          Every move includes 100% genuine IBA-approved GST invoices for employee reimbursement claims, comprehensive transit insurance, real-time GPS container tracking, and full destination unpacking and furniture assembly.
+        </p>
+      </div>
+
+      <!-- Highlight Summary Box -->
+      <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0; color: #ffffff;">
+        <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Ranchi to Goelkera Relocation?</h3>
+        <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+          <li>✔ <strong>Express NH-75 Delivery</strong> in ~4 hours from Ranchi.</li>
+          <li>✔ <strong>100% IBA Approved Bills</strong> for Railways, SAIL &amp; PSU staff.</li>
+          <li>✔ <strong>Door Delivery</strong> across Goelkera Town, Railway Colony &amp; Posoita.</li>
+          <li>✔ <strong>Dedicated Closed Container Trucks</strong> with GPS tracking.</li>
+          <li>✔ <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; marble mandirs.</li>
+          <li>✔ <strong>Full Transit Insurance</strong> covering door-to-door goods.</li>
+        </ul>
       </div>
     </div>
   </section>
@@ -116,12 +172,30 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size:2.2rem;font-weight:800;color:#fff;margin-top:10px;">Shifting Services from <span style="color:#f59e0b;">Ranchi to Goelkera</span></h2>
       </div>
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:30px;">
-        <?php $svcs=[['1. Full House Relocation','Complete 1BHK/2BHK/3BHK packing, loading, 4-hr container transit, unloading, unpacking in Goelkera.'],['2. SAIL &amp; Mine Staff Relocation','Specialized shifting for Steel Authority of India (SAIL) employees and mine engineers.'],['3. Bike Transport Ranchi to Goelkera','Two-wheeler transport with bubble wrap, paddy straw, wheel chocks for safe delivery.'],['4. Car Carrier Service','Door-to-door car shifting via closed hydraulic vehicle trailers.'],['5. Part-Load / Luggage Transport','Cost-effective shared container for single items or student luggage.'],['6. Warehouse Storage Solutions','CCTV-monitored storage for temporary goods holding.']]; foreach($svcs as $s):?>
         <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1px solid rgba(245,158,11,.3);border-radius:14px;padding:28px;">
-          <h3 style="font-size:1.2rem;color:#f59e0b;font-weight:700;margin-bottom:14px;"><?php echo $s[0];?></h3>
-          <p style="font-size:.95rem;color:#cbd5e1;line-height:1.7;margin:0;"><?php echo $s[1];?></p>
+          <h3 style="font-size:1.2rem;color:#f59e0b;font-weight:700;margin-bottom:14px;">1. Full House Relocation</h3>
+          <p style="font-size:.95rem;color:#cbd5e1;line-height:1.7;margin:0;">Complete door-to-door 1BHK, 2BHK, or 3BHK household packing in Ranchi, heavy-duty container transit via NH-75 highway, careful unloading, and room-by-room unpacking in Goelkera.</p>
         </div>
-        <?php endforeach;?>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1px solid rgba(245,158,11,.3);border-radius:14px;padding:28px;">
+          <h3 style="font-size:1.2rem;color:#f59e0b;font-weight:700;margin-bottom:14px;">2. SAIL &amp; Railway Staff Shifting</h3>
+          <p style="font-size:.95rem;color:#cbd5e1;line-height:1.7;margin:0;">Specialized employee transfer packages with IBA-compliant GST invoicing, official Lorry Receipts (LR), and money receipts for smooth corporate and PSU claim approvals.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1px solid rgba(245,158,11,.3);border-radius:14px;padding:28px;">
+          <h3 style="font-size:1.2rem;color:#f59e0b;font-weight:700;margin-bottom:14px;">3. Bike Transport Ranchi to Goelkera</h3>
+          <p style="font-size:.95rem;color:#cbd5e1;line-height:1.7;margin:0;">Safe two-wheeler transportation using multi-layer bubble wrapping, paddy straw padding, corrugated boxing, and secure wheel chocks inside sealed container trucks.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1px solid rgba(245,158,11,.3);border-radius:14px;padding:28px;">
+          <h3 style="font-size:1.2rem;color:#f59e0b;font-weight:700;margin-bottom:14px;">4. Car Carrier Transportation</h3>
+          <p style="font-size:.95rem;color:#cbd5e1;line-height:1.7;margin:0;">Closed hydraulic car trailer shipping for sedans and SUVs, ensuring zero dust, road debris, or weather damage from Ranchi to Goelkera.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1px solid rgba(245,158,11,.3);border-radius:14px;padding:28px;">
+          <h3 style="font-size:1.2rem;color:#f59e0b;font-weight:700;margin-bottom:14px;">5. Part-Load &amp; Single Item Shifting</h3>
+          <p style="font-size:.95rem;color:#cbd5e1;line-height:1.7;margin:0;">Economical shared container services for single-item furniture, student luggage, or small electronic shipments with full tracking.</p>
+        </div>
+        <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1px solid rgba(245,158,11,.3);border-radius:14px;padding:28px;">
+          <h3 style="font-size:1.2rem;color:#f59e0b;font-weight:700;margin-bottom:14px;">6. Secure Warehouse Storage</h3>
+          <p style="font-size:.95rem;color:#cbd5e1;line-height:1.7;margin:0;">Moisture-proof and CCTV-monitored warehouse facilities in Ranchi for short-term or long-term household goods storage before shifting to Goelkera.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -131,13 +205,133 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="color:#f59e0b;text-transform:uppercase;font-weight:700;font-size:.85rem;letter-spacing:1px;">Safety Protocol</span>
       <h2 style="font-size:2.2rem;font-weight:800;color:#fff;margin:10px 0 25px;">7-Layer Protection for <span style="color:#f59e0b;">Ranchi to Goelkera Moving</span></h2>
       <div style="display:grid;gap:16px;">
-        <?php $layers=[['Layer 1: Water-Resistant Stretch Film','Seals furniture against moisture during loading.'],['Layer 2: Air Bubble Wrapping','Cushions electronics, glassware, and polished wood.'],['Layer 3: Corrugated Board Sheeting','Rigid armor for appliances and sofa sets.'],['Layer 4: Foam Corner Protectors','Prevents chipping on wood and glass furniture.'],['Layer 5: On-Site Wooden Crating','Custom crates for Smart TVs and glass items.'],['Layer 6: Branded Sealing Tape &amp; Tagging','Room-wise labeling and tamper-evident sealing.'],['Layer 7: Truck Belt Anchors','Locks items firmly inside trucks for highway transit.']]; foreach($layers as $l):?>
         <div style="background:rgba(23,42,84,.6);padding:18px 22px;border-radius:10px;border-left:4px solid #f59e0b;">
-          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;"><?php echo $l[0];?></h4>
-          <p style="font-size:.92rem;color:#94a3b8;margin:0;"><?php echo $l[1];?></p>
+          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;">Layer 1: Water-Resistant Stretch Film</h4>
+          <p style="font-size:.92rem;color:#cbd5e1;margin:0;line-height:1.6;">Primary moisture barrier wrapping around furniture to seal against rain, road dust, and environmental humidity along the NH-75 highway corridor.</p>
         </div>
-        <?php endforeach;?>
+        <div style="background:rgba(23,42,84,.6);padding:18px 22px;border-radius:10px;border-left:4px solid #f59e0b;">
+          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;">Layer 2: Air Bubble Cushioning</h4>
+          <p style="font-size:.92rem;color:#cbd5e1;margin:0;line-height:1.6;">High-density shock-absorbing bubble wrap protecting glass table tops, wooden veneers, polished surfaces, and home appliances from vibration.</p>
+        </div>
+        <div style="background:rgba(23,42,84,.6);padding:18px 22px;border-radius:10px;border-left:4px solid #f59e0b;">
+          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;">Layer 3: 5-Ply Corrugated Sheeting</h4>
+          <p style="font-size:.92rem;color:#cbd5e1;margin:0;line-height:1.6;">Rigid outer heavy cardboard armor shielding large furniture items, sofas, double beds, and refrigerators from impact during transit.</p>
+        </div>
+        <div style="background:rgba(23,42,84,.6);padding:18px 22px;border-radius:10px;border-left:4px solid #f59e0b;">
+          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;">Layer 4: Foam Corner Protectors</h4>
+          <p style="font-size:.92rem;color:#cbd5e1;margin:0;line-height:1.6;">Custom high-density foam guards applied to fragile wooden edges, marble mandirs, glass corners, and delicate artwork edges.</p>
+        </div>
+        <div style="background:rgba(23,42,84,.6);padding:18px 22px;border-radius:10px;border-left:4px solid #f59e0b;">
+          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;">Layer 5: On-Site Wooden Crating</h4>
+          <p style="font-size:.92rem;color:#cbd5e1;margin:0;line-height:1.6;">Sturdy custom timber framing built on-site by trained carpenters for large LED Smart TVs, mirrors, server units, and delicate decorative items.</p>
+        </div>
+        <div style="background:rgba(23,42,84,.6);padding:18px 22px;border-radius:10px;border-left:4px solid #f59e0b;">
+          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;">Layer 6: Branded Sealing Tape &amp; Tagging</h4>
+          <p style="font-size:.92rem;color:#cbd5e1;margin:0;line-height:1.6;">Tamper-evident security tape sealing every box, accompanied by detailed room-wise inventory tagging for quick identification during unpacking.</p>
+        </div>
+        <div style="background:rgba(23,42,84,.6);padding:18px 22px;border-radius:10px;border-left:4px solid #f59e0b;">
+          <h4 style="color:#fff;font-size:1.1rem;margin-bottom:6px;">Layer 7: Truck Belt Anchoring</h4>
+          <p style="font-size:.92rem;color:#cbd5e1;margin:0;line-height:1.6;">Heavy-duty cargo lashing belts securing packed items firmly inside container trucks to eliminate shift or movement during smooth highway travel.</p>
+        </div>
       </div>
+    </div>
+  </section>
+
+  <!-- Step-by-Step Relocation Workflow Section -->
+  <section style="padding: 60px 0; background: linear-gradient(180deg, #0b132b 0%, #16203b 100%); color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Process</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          4-Step Express Relocation Workflow: <span style="color: #f59e0b;">Ranchi to Goelkera</span>
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">
+          We follow a disciplined, transparent execution workflow to guarantee 100% damage-free shifting on the NH-75 highway route.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">1</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Pre-Move Survey</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">In-person or virtual video inventory estimation to evaluate goods volume, access staircases, and specialized timber crating requirements.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">2</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">7-Layer Packing</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our professional move crew wraps furniture, electronics, and glassware using heavy air-bubble rolls, 5-ply sheets, foam edge guards, and stretch film.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">3</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Enclosed GPS Transit</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Goods are loaded carefully into sealed weatherproof container trucks equipped with live satellite tracking for real-time customer updates.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">4</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Unpacking &amp; Assembly</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Destination unloading, room placement, unpacking of cartons, and complete reassembly of beds, dining tables, and wardrobes by experienced carpenters.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Comprehensive Shifting & Pricing Guide Section -->
+  <section style="padding: 60px 0; background: #ffffff; color: #1e293b;">
+    <div class="container" style="max-width: 950px;">
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #0b132b; margin-bottom: 20px; text-align: center;">
+        Comprehensive Guide to <span style="color: #d32f2f;">Ranchi to Goelkera Relocation</span>
+      </h2>
+      <p style="font-size: 1rem; line-height: 1.8; color: #475569; margin-bottom: 18px;">
+        Relocating household belongings from Ranchi to Goelkera requires careful route planning and specialized packaging. The distance of approximately 180 km connects the urban capital of Jharkhand with the mining and forest town of Goelkera in West Singhbhum district. Route travel via National Highway 75 (NH-75) through Khunti, Bandgaon, Chaibasa, and Chakradharpur takes roughly 4 hours for enclosed freight container trucks.
+      </p>
+
+      <h3 style="font-size: 1.4rem; font-weight: 700; color: #0b132b; margin: 25px 0 12px;">Detailed Cost Breakdown for Ranchi to Goelkera Shifting</h3>
+      <p style="font-size: 0.98rem; line-height: 1.8; color: #475569; margin-bottom: 15px;">
+        At Shree Ashirwad Packers and Movers, we maintain 100% price transparency. Our relocation estimates are all-inclusive written contracts with no unexpected fees on move day. Shifting charges depend on household size, volume of goods, elevation level at origin/destination, and vehicle requirements:
+      </p>
+      <ul style="line-height: 1.9; color: #334155; margin-left: 20px; margin-bottom: 20px;">
+        <li><strong>1BHK Home Shifting:</strong> ₹6,500 – ₹9,500 (Includes standard 7-layer packing, mini container truck, loading, 4-hour transit, unloading).</li>
+        <li><strong>2BHK Home Shifting:</strong> ₹9,500 – ₹13,500 (Includes 14ft/17ft closed container truck, complete furniture dismantling, heavy bubble wrap, unpacking).</li>
+        <li><strong>3BHK Villa / Large Household:</strong> ₹13,500 – ₹19,500 (Includes 20ft container vehicle, dedicated move supervisor, custom timber crating for TV/mandir).</li>
+        <li><strong>Two-Wheeler / Bike Transport:</strong> ₹2,200 – ₹3,800 (Padded multi-layer wrapping, wheel chocks, closed container transit).</li>
+        <li><strong>Car Transport (Sedan/SUV):</strong> ₹6,000 – ₹9,500 (Enclosed hydraulic car carrier trailer delivery).</li>
+      </ul>
+
+      <h3 style="font-size: 1.4rem; font-weight: 700; color: #0b132b; margin: 25px 0 12px;">IBA Approved Billing for Railways, SAIL &amp; Govt Transfers</h3>
+      <p style="font-size: 0.98rem; line-height: 1.8; color: #475569; margin-bottom: 15px;">
+        Many of our customers moving from Ranchi to Goelkera are employees of South Eastern Railway, Steel Authority of India Limited (SAIL), state forest departments, or government educational institutions. We provide complete documentation packages for instant employee relocation claim reimbursements:
+      </p>
+      <ul style="line-height: 1.9; color: #334155; margin-left: 20px; margin-bottom: 20px;">
+        <li>100% Valid IBA-Compliant GST Invoice with breakdown of packing, freight, loading, unloading &amp; GST rates.</li>
+        <li>Official Consignment Note / Lorry Receipt (LR Copy) with truck registration details.</li>
+        <li>Itemized Goods Inventory Packing List stamped by move supervisor.</li>
+        <li>Official Money Receipt against advance and final payments.</li>
+      </ul>
+
+      <h3 style="font-size: 1.4rem; font-weight: 700; color: #0b132b; margin: 25px 0 12px;">Key Localities &amp; Doorstep Delivery Coverage in Goelkera</h3>
+      <p style="font-size: 0.98rem; line-height: 1.8; color: #475569; margin-bottom: 15px;">
+        Our logistics fleet has deep operational familiarity with the geographical terrain of Goelkera and surrounding mining regions in West Singhbhum. We provide direct doorstep pickup from all major Ranchi neighborhoods (including Kanke Road, Harmu, Ashok Nagar, Morabadi, Bariatu, Lalpur, Doranda, and Namkum) and guaranteed same-day delivery to all Goelkera destinations:
+      </p>
+      <ul style="line-height: 1.9; color: #334155; margin-left: 20px; margin-bottom: 20px;">
+        <li>Goelkera Railway Station Colony &amp; South Eastern Railway Quarters</li>
+        <li>Goelkera Main Market &amp; Commercial High Street</li>
+        <li>Roro River Bank Residential Areas &amp; Forest Department Quarters</li>
+        <li>Posoita Road Settlements &amp; Local Panchayat Housing Areas</li>
+        <li>Chakradharpur Link Corridor &amp; Surrounding Mining Township Hubs</li>
+      </ul>
+
+      <h3 style="font-size: 1.4rem; font-weight: 700; color: #0b132b; margin: 25px 0 12px;">Comprehensive Transit Insurance &amp; Damage Protection</h3>
+      <p style="font-size: 0.98rem; line-height: 1.8; color: #475569; margin-bottom: 15px;">
+        Long-distance highway travel across the NH-75 corridor requires robust risk mitigation. We offer optional full-value transit insurance covering your household goods, electronics, vehicles, and furniture from origin pickup in Ranchi to final placement in Goelkera. In the unlikely event of any transit disturbance, our dedicated claims desk ensures swift settlement processing without red tape.
+      </p>
+
+      <h3 style="font-size: 1.4rem; font-weight: 700; color: #0b132b; margin: 25px 0 12px;">Why Government &amp; PSU Officers Choose Shree Ashirwad</h3>
+      <p style="font-size: 0.98rem; line-height: 1.8; color: #475569; margin-bottom: 15px;">
+        With over 15 years of operational experience across Jharkhand and neighboring states, Shree Ashirwad Packers and Movers has earned the trust of over 980 families relocating between Ranchi and Goelkera. Our commitment to punctual delivery, zero-hidden-fee guarantees, IBA-compliant paperwork, and courteous move personnel makes us the preferred relocation partner in the region.
+      </p>
     </div>
   </section>
 
@@ -173,7 +367,18 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size:2.2rem;font-weight:800;color:#fff;margin-top:10px;">FAQs – <span style="color:#f59e0b;">Ranchi to Goelkera Relocation</span></h2>
       </div>
       <div style="display:flex;flex-direction:column;gap:16px;">
-        <?php $faqs=[['Q1: What are packers and movers Ranchi to Goelkera charges?','Charges range ₹6,000–₹10,000 for 1BHK/2BHK and ₹10,000–₹17,000 for 3BHK depending on volume.'],['Q2: How long is Ranchi to Goelkera by road?','Approximately 180 km via NH-75, taking around 4 hours.'],['Q3: Do you issue IBA approved bills for SAIL employees?','Yes – 100% genuine IBA GST invoices, LR copies, and itemized packing lists.'],['Q4: Do you transport bikes and cars to Goelkera?','Yes – bikes in padded containers, cars in closed hydraulic trailers.'],['Q5: Is transit insurance available?','Yes – comprehensive insurance covering full invoice value.'],['Q6: Which Goelkera areas do you cover?','Goelkera Town, SAIL colony, Roro River area, mine worker quarters.'],['Q7: Can I send part-load from Ranchi to Goelkera?','Yes – shared containers for small/single-item shipments.'],['Q8: Do you reassemble furniture in Goelkera?','Yes – full dismantling and reassembly at destination.'],['Q9: Any hidden charges in your quote?','No – all tolls, packing, loading, unloading included in written estimate.'],['Q10: What is the contact number?','Call or WhatsApp: '.SITE_PHONE.' | Email: '.SITE_EMAIL]]; foreach($faqs as $f):?>
+        <?php $faqs=[
+          ['Q1: What are packers and movers Ranchi to Goelkera charges?','Standard household shifting charges from Ranchi to Goelkera range between ₹6,500 and ₹11,000 for 1BHK/2BHK homes and ₹11,500 to ₹18,500 for 3BHK residences or villas, depending on exact inventory volume, floor elevation without lifts, and specialized packing requirements.'],
+          ['Q2: How long is Ranchi to Goelkera by road?','The road distance is approximately 180 km via NH-75 and the Chaibasa corridor. Driving time for sealed container vehicles is around 4 hours, guaranteeing same-day pickup, highway transit, and delivery at Goelkera.'],
+          ['Q3: Do you issue IBA approved bills for Railways and SAIL employees?','Yes, Shree Ashirwad Packers and Movers issues 100% genuine IBA-compliant GST invoices, money receipts, Lorry Receipts (LR), and itemized inventory packing lists accepted by Indian Railways, SAIL, state government secretariats, defense departments, and public sector banks.'],
+          ['Q4: Do you transport bikes and cars to Goelkera?','Yes, two-wheelers are wrapped in air-bubble cushion, paddy straw padding, and 5-ply corrugated sheets inside closed container trucks, while cars are transported in enclosed hydraulic car trailers with full door pickup and delivery.'],
+          ['Q5: Is transit insurance available?','Yes, comprehensive full-value transit insurance is provided to safeguard household goods, electronics, and vehicles against road hazards or accidents during transit along the Ranchi-Goelkera route.'],
+          ['Q6: Which areas in Goelkera do you deliver to?','We provide doorstep pickup and delivery across Goelkera town, Railway colony quarters, Roro river settlements, Posoita road, forest department offices, and surrounding mining area quarters.'],
+          ['Q7: Can I send part-load or single items from Ranchi to Goelkera?','Yes, we offer cost-effective shared container slots for single items, student luggage, or small electronic appliances with complete consignment tracking.'],
+          ['Q8: Do you disassemble and reassemble furniture?','Yes, our experienced carpenters disassemble double beds, wardrobes, and modular dining tables at your Ranchi home and perform complete reassembly at your Goelkera destination.'],
+          ['Q9: Are there any hidden extra charges in your estimate?','No, all estimates provided by Shree Ashirwad Packers are all-inclusive written quotes covering packing material, labor, loading, highway toll taxes, GST, and destination unloading.'],
+          ['Q10: How can I book Ranchi to Goelkera movers?','You can call us directly at +91 8409531615 or submit a request on WhatsApp to get an immediate cost estimate and confirm your moving slot.']
+        ]; foreach($faqs as $f):?>
         <div style="background:#101c40;padding:20px 24px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h3 style="font-size:1.1rem;color:#f59e0b;font-weight:700;margin-bottom:8px;"><?php echo $f[0];?></h3>
           <p style="font-size:.95rem;color:#cbd5e1;margin:0;line-height:1.7;"><?php echo $f[1];?></p>

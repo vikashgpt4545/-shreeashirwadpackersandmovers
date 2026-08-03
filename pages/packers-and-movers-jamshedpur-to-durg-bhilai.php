@@ -92,6 +92,33 @@ require_once __DIR__ . '/../includes/header.php';
               💬 Chat on WhatsApp
             </a>
           </div>
+
+          <!-- Localized Relocation Overview Box -->
+          <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0; color: #ffffff;">
+            <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Interstate Industrial Corridor: Jamshedpur to Durg-Bhilai</h3>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+              The 610 km National Highway 53 (NH-53) route connecting Steel City Jamshedpur with Durg-Bhilai (Chhattisgarh’s industrial and educational heartland) represents a major steel plant relocation corridor. Shifting between Tata Steel Jamshedpur and SAIL Bhilai Steel Plant (BSP) is extremely frequent for metallurgical engineers, plant technicians, IIT Bhilai faculty, defense officers, and commercial traders.
+            </p>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+              Our <strong>packers and movers jamshedpur to durg bhilai</strong> service deploys dedicated, weather-proof container trucks ensuring safe delivery within 12 to 14 hours. Goods receive our 7-layer safety packaging treatment: heavy-duty stretch film, shock-absorbing bubble wrap, 5-ply corrugated sheets, foam edge protectors, quilted moving blankets, official security tape, and customized timber crating for glass tables, mandirs, and Smart TVs.
+            </p>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+              We issue 100% genuine IBA-approved GST billing for corporate and PSU claim reimbursements, along with full transit insurance, live satellite tracking, and complete destination unpacking across Bhilai Sectors 1-10, Supela, Nehru Nagar, Smriti Nagar, Risali, and Durg Cantt.
+            </p>
+          </div>
+
+          <!-- Highlight Summary Box -->
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0; color: #ffffff;">
+            <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Jamshedpur to Durg-Bhilai Moving?</h3>
+            <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+              <li>✔ <strong>Express 12-14 Hr Delivery</strong> via NH-53 steel corridor.</li>
+              <li>✔ <strong>100% IBA Approved Bills</strong> for SAIL, Tata Steel &amp; PSU claims.</li>
+              <li>✔ <strong>Door Delivery</strong> across Bhilai Sectors, Supela, Nehru Nagar &amp; Durg Cantt.</li>
+              <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+              <li>✔ <strong>Custom Timber Crating</strong> for Smart TVs, glass tops &amp; marble mandirs.</li>
+              <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+            </ul>
+          </div>
         </div>
 
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
@@ -182,27 +209,27 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏡 Jamshedpur to Durg-Bhilai Household Shifting</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Complete house shifting services covering furniture disassembly, fragile packing, loading, and unpacking in Durg-Bhilai.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Complete house shifting services covering furniture disassembly, fragile 7-layer packing, container truck loading, long-distance highway transit via NH-53, and unloading with furniture setup in Durg-Bhilai.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏭 Steel Plant &amp; IIT Staff Relocation</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Specialized relocation for Tata Steel to SAIL Bhilai personnel transfers, IIT Bhilai faculty, and bank officers.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Specialized employee transfer packages for Tata Steel to SAIL Bhilai Steel Plant personnel transfers, IIT Bhilai faculty, defense officers, and public sector bank managers with genuine IBA-approved GST documentation.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🚗 Closed Car Carrier Transport</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Enclosed car container trailers for safe door-to-door car transport from Jamshedpur to Durg-Bhilai.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Enclosed hydraulic car container trailers for safe door-to-door car transport from Jamshedpur to Durg-Bhilai, ensuring total protection against highway dust, flying gravel, rain, and road debris.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏍️ Two-Wheeler / Bike Shipping</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Straw padding and corrugated box wrapping for scratch-free motorcycle transport to Durg-Bhilai.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Multi-layer bubble wrap, paddy straw padding, and 5-ply corrugated boxing for 100% scratch-free motorcycle and scooter transport from Jamshedpur to Durg-Bhilai inside container vehicles.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">📦 Custom Wooden Box Crating</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Solid wooden crate framing for glass tops, mandirs, LED TVs, and valuable artifacts on the Durg-Bhilai route.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Solid custom timber crate framing built on-site for heavy glass table tops, marble mandirs, large LED TVs, electronic server units, and valuable antique furniture on the Durg-Bhilai route.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
           <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏬 Safe Goods Storage Warehouse</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Clean, secure, moisture-free warehouse storage facility in Jamshedpur for temporary storage.</p>
+          <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Clean, CCTV-monitored, moisture-free warehouse storage facilities in Jamshedpur providing short-term and long-term household goods storage with flexible monthly rental plans.</p>
         </div>
       </div>
     </div>
@@ -234,11 +261,55 @@ require_once __DIR__ . '/../includes/header.php';
           Highway Logistics: <span style="color: #d32f2f;">Jamshedpur to Durg-Bhilai Route</span>
         </h2>
         <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
-          The route from Jamshedpur to Durg-Bhilai covers 610 km via Raipur along NH-53 steel corridor.
+          The interstate steel industrial corridor from Jamshedpur (Jharkhand) to Durg-Bhilai (Chhattisgarh) covers approximately 610 km along National Highway 53 (NH-53 / AH46) via Keonjhar, Sambalpur, and Capital Raipur. It is an active transfer corridor connecting India's major steel plants (Tata Steel Jamshedpur and SAIL Bhilai Steel Plant).
         </p>
         <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
-          Our GPS container fleet operates regular trips on this corridor, ensuring safe deliveries to Bhilai Sectors, Supela, Nehru Nagar, Smriti Nagar, Risali, Durg Cantt, and surrounding areas.
+          Our GPS container fleet operates regular express trips on this corridor, ensuring safe door deliveries across all Bhilai Steel Plant townships (Sectors 1 through 10), Supela, Nehru Nagar, Smriti Nagar, Junwani, Risali, Durg Junction railway colony, Durg Cantt, and surrounding commercial areas.
         </p>
+        <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
+          We provide complete corporate relocation services with genuine IBA-approved GST billing, official Lorry Receipts (LR), itemized inventory packing lists, and door-to-door transit insurance to guarantee total peace of mind for steel engineers, defense officers, and PSU executives.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Step-by-Step Relocation Workflow Section -->
+  <section style="padding: 60px 0; background: linear-gradient(180deg, #0b132b 0%, #16203b 100%); color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Process</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          4-Step Express Relocation Workflow: <span style="color: #f59e0b;">Jamshedpur to Durg-Bhilai</span>
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">
+          We follow a disciplined, transparent execution workflow to guarantee 100% damage-free shifting on the NH-53 steel expressway route.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">1</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Pre-Move Survey</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">In-person or virtual video inventory estimation to evaluate goods volume, access staircases, and specialized timber crating requirements.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">2</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">7-Layer Packing</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our professional move crew wraps furniture, electronics, and glassware using heavy air-bubble rolls, 5-ply sheets, foam edge guards, and stretch film.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">3</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Enclosed GPS Transit</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Goods are loaded carefully into sealed weatherproof container trucks equipped with live satellite tracking for real-time customer updates.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 24px; text-align: center;">
+          <div style="width: 45px; height: 45px; background: linear-gradient(135deg, #d32f2f, #f59e0b); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; margin: 0 auto 15px auto;">4</div>
+          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Unpacking &amp; Assembly</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Destination unloading, room placement, unpacking of cartons, and complete reassembly of beds, dining tables, and wardrobes by experienced carpenters.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -269,16 +340,70 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2rem; color: #0b132b; font-weight: 800;">Jamshedpur to Durg-Bhilai Shifting FAQs</h2>
       </div>
       <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;">
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q1: How long does shifting take from Jamshedpur to Durg-Bhilai?</h4><p style="color: #64748b; font-size: 0.9rem;">Guaranteed delivery within 12 to 14 hours via NH-53.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q2: Are GST bills provided for employee claim reimbursements?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we issue genuine IBA GST bills and consignment LR copies.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q3: How early should I schedule a Jamshedpur to Durg-Bhilai move?</h4><p style="color: #64748b; font-size: 0.9rem;">Booking 24 to 48 hours in advance ensures smooth vehicle scheduling.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q4: Can you move SAIL Bhilai Steel Plant employees to BSP sectors?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, we specialize in steel plant staff transfers and residential house shifting.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q5: Is transit insurance provided for the Durg-Bhilai route?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, full transit insurance coverage is available.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q6: How do you transport cars from Jamshedpur to Durg-Bhilai?</h4><p style="color: #64748b; font-size: 0.9rem;">Cars are transported in closed container hydraulic car carriers.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, all 7 layers of packing material are included in the estimate.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q8: Do you disassemble beds and wardrobes?</h4><p style="color: #64748b; font-size: 0.9rem;">Yes, our experienced carpenters disassemble and reassemble furniture.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q9: Are there any hidden charges?</h4><p style="color: #64748b; font-size: 0.9rem;">No, we provide clear written quotes prior to starting.</p></div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b;">Q10: How can I contact Shree Ashirwad Packers for a Durg-Bhilai quote?</h4><p style="color: #64748b; font-size: 0.9rem;">Call <strong>+91 8409531615</strong> or message us on WhatsApp for an immediate quote.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q1: How long does house shifting take from Jamshedpur to Durg-Bhilai?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            The 610 km highway route via NH-53 typically takes 12 to 14 hours for sealed container vehicles. Loading starts early morning in Jamshedpur, with doorstep unloading and setup completed in Durg-Bhilai by the next morning.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q2: Are GST bills provided for employee claim reimbursements?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, Shree Ashirwad Packers and Movers provides 100% genuine IBA-compliant GST invoices, money receipts, Lorry Receipts (LR), and itemized inventory packing lists accepted by SAIL Bhilai Steel Plant, Tata Steel, IIT Bhilai, defense units, and banks.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q3: How early should I schedule a Jamshedpur to Durg-Bhilai move?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            We recommend scheduling 2 to 4 days in advance for interstate moves to Durg-Bhilai to ensure optimal container booking, specialized packing team assignment, and transit insurance processing.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q4: Can you move SAIL Bhilai Steel Plant employees to BSP sectors?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, we specialize in employee transfers between industrial plants, delivering directly to Bhilai Sectors (1 through 10), Supela, Smriti Nagar, Nehru Nagar, Risali, and Durg Cantt residential quarters.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q5: Is transit insurance provided for the Durg-Bhilai route?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, comprehensive full-value transit insurance is provided to cover all household items, electronics, and vehicles against accidents or unforeseen events during long-distance interstate transit.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q6: How do you transport cars from Jamshedpur to Durg-Bhilai?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Vehicles are transported inside enclosed hydraulic car carriers with custom wheel locks and soft safety tie-downs, ensuring complete protection from weather, road dust, flying gravel, and scratches during the 610 km interstate journey.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q7: Are packing materials included in the price estimate for Durg-Bhilai?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, all 7 protective layers of packing materials—including bubble rolls, corrugated boxes, stretch film, edge guards, and security tape—are fully included in our transparent upfront price estimate.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q8: Do you disassemble and reassemble furniture during Durg-Bhilai shifting?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            Yes, our experienced move crew disassembles modular beds, wardrobes, and dining tables at origin in Jamshedpur and performs complete reassembly at your destination home in Durg or Bhilai.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q9: Are there any hidden extra charges on move day?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            No, all quotes provided by Shree Ashirwad Packers and Movers are fixed all-inclusive written estimates covering packing material, labor, loading, highway toll taxes, GST, and destination unloading.
+          </p>
+        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
+          <h4 style="color: #0b132b; margin-bottom: 5px; font-weight: 700;">Q10: How can I book Packers and Movers Jamshedpur to Durg-Bhilai?</h4>
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0; line-height: 1.7;">
+            You can call our helpline directly at <strong>+91 8409531615</strong> or submit your move request on WhatsApp to get an immediate cost estimate and confirm your moving slot.
+          </p>
+        </div>
       </div>
     </div>
   </section>

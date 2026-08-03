@@ -193,6 +193,33 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Ranchi to Ramgarh NH-33 Four-Lane Express Route</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            The 45 km corridor connecting Ranchi to Ramgarh via Ormanjhi and the scenic Chuttupalu Ghati expressway is the primary arterial highway linking the capital to military cantonment areas and mining belts. Relocation demand on this short-haul express route is heavily driven by army personnel transfers (Punjab Regimental Centre and Sikh Regimental Centre), Central Coalfields Limited (CCL) officers, Jindal Steel executives, and commercial traders.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers ranchi to ramgarh</strong> service utilizes 7-layer heavy-duty packaging protection. We wrap home furniture, electronics, and kitchenware with air-bubble film, moisture-proof stretch wrap, 5-ply corrugated sheets, foam edge protectors, and custom wooden crating for fragile items.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            We deliver door-to-door across all Ramgarh localities including Ramgarh Cantt, Main Road, Gola, Chithaarpur, Kuju, Sirka, Bhurkunda, and Patratu. Every relocation includes 100% genuine IBA-approved GST invoices for army and corporate reimbursement, live GPS vehicle tracking, complete transit insurance, and destination furniture assembly.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Ranchi to Ramgarh?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Express Highway Transit</strong> 1 to 1.5 hours fast same-day delivery.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for Defense (SRC) &amp; CCL officers.</li>
+            <li>✔ <strong>Door Delivery</strong> across Ramgarh Cantt, Kuju, Gola &amp; Patratu.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; appliances.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
@@ -519,35 +546,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: What are the packers and movers ranchi to ramgarh charges?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges range from ₹3,200 to ₹7,000 for a 1BHK/2BHK household move, and ₹7,000 to ₹12,500 for a 3BHK household, depending on goods volume and packing requirements.
+            Charges are calculated transparently based on total household inventory volume, selected protective packaging grade (bubble wrap, corrugated sheets, custom timber crates), container truck size, loading floor height, and destination delivery point in Ramgarh. A 1BHK/2BHK move typically ranges from ₹3,200 to ₹7,000, while a 3BHK household ranges from ₹7,000 to ₹12,500.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does it take for delivery from Ranchi to Ramgarh?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            The road distance is approximately 45 km via NH-33 four-lane. Transit time is just 1.5 to 2 hours, ensuring rapid same-day delivery.
+            The highway distance between Ranchi and Ramgarh is approximately 45 km via the four-lane NH-33 corridor. Our dedicated enclosed container trucks complete transit in just 1 to 1.5 hours, ensuring ultra-fast same-day loading and door delivery.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you issue IBA approved bills for defense / corporate claims?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we provide 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists for corporate &amp; military claim reimbursement.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists fully accepted by the Sikh Regimental Centre (SRC), Punjab Regimental Centre, CCL Ramgarh, Jindal Steel, PSU audit teams, government departments, and bank officers.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you transport bikes and cars from Ranchi to Ramgarh?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Bikes are wrapped in paddy-straw bubble wrap and locked inside container trucks. Cars travel inside closed hydraulic car carriers.
+            Two-wheelers are wrapped in paddy-straw padding and corrugated sheets and secured inside locked container trucks. Automobiles travel inside specialized covered hydraulic car carriers with wheel chocks for complete scratch-free door-to-door transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance available for Ranchi to Ramgarh shifting?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we offer comprehensive transit insurance covering full invoice value against unforeseen road hazards during highway transit.
+            Yes, we provide comprehensive transit insurance policy documentation covering declared goods value against unforeseen highway hazards or accidents during the Ranchi to Ramgarh journey.
           </p>
         </div>
 

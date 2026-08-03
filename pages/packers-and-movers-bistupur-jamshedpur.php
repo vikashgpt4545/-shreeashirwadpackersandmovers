@@ -119,20 +119,50 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 2: Stats -->
+  <!-- Section 1: Technical Overview Box -->
+  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Bistupur Jamshedpur</h3>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Bistupur serves as the commercial hub and premier central residential locality of Jamshedpur. Whether you are relocating your home, luxury apartment, corporate office, bank branch, or retail showroom within Bistupur or moving from Bistupur to other national metro cities, Shree Ashirwad Packers and Movers provides localized 24/7 shifting expertise. Our crew operates with complete knowledge of local traffic regulations and access routes.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Our operational footprint covers all sectors of Bistupur including Main Road, Circuit House Area (CHA), Contractors Area, Outer Circle Road, Diagonal Road, South Park, Regal Ground area, Kharkai Enclave, and surrounding commercial centers. We coordinate parking clearances and elevator slots with housing societies and market committees.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        To protect household goods during transit, items undergo our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated sheets, foam edge corner guards, stretch film moisture barrier, and custom wooden box crating for glass dining tops, LED screens, and mandir shrines.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        For Tata Steel executives, Tata Motors officers, corporate managers, bank personnel, and government staff claiming official relocation allowance, we issue 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill documentation.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Our fleet consists of modern, weather-proof container vehicles and dedicated city pick-up trucks equipped with satellite GPS tracking, floor tie-down belts, and heavy-duty ramps for safe loading in tight commercial quarters.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+        Upon arrival at your destination, our trained unloading crew handles careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. We conduct a joint inventory check to ensure complete satisfaction before sign-off.
+      </p>
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+        Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
+      </p>
+    </div>
+  </section>
+
+  <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; text-align: center;">
-        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">15+ Years</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Local Experience</p></div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 15px; text-align: center;">
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">15+ Yrs</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Local Experience</p></div>
         <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">3,500+</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Bistupur Relocations</p></div>
-        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">100%</h3><p style="color: #cbd5e1; font-size: 0.85rem;">IBA Approved Bills</p></div>
-        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">24/7</h3><p style="color: #cbd5e1; font-size: 0.85rem;">GPS Vehicle Tracking</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">100%</h3><p style="color: #cbd5e1; font-size: 0.85rem;">IBA Approved Billing</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">7-Layer</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Safety Packaging</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">24/7</h3><p style="color: #cbd5e1; font-size: 0.85rem;">GPS Satellite Tracking</p></div>
+        <div><h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800;">Zero</h3><p style="color: #cbd5e1; font-size: 0.85rem;">Hidden Cost Guarantee</p></div>
       </div>
     </div>
   </section>
 
-  <!-- Section 3: 6-Card 3x2 Grid Overview -->
-  <section style="padding: 60px 0; background: #f8fafc;">
+  <!-- Section 3: 6-Card Feature Grid -->
+  <section style="padding: 60px 0; background: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
         <span style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Bistupur Local Advantage</span>
@@ -144,111 +174,151 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Local Bistupur Knowledge</h3>
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin-bottom: 40px;">
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">1. Local Bistupur Knowledge</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Our drivers navigate Bistupur's busy commercial avenues, Market roads, and gated residential colonies with precision.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">IBA &amp; GST Bill Guarantee</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">2. IBA &amp; GST Bill Guarantee</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Official GST bills &amp; money receipts accepted by TATA Steel, corporate hubs, and government departments in Bistupur.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">7-Layer Bubble Packing</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">3. 7-Layer Bubble Packing</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Heavy corrugated sheets, bubble wrap, stretch films, and foam guards protect all electronics and furniture.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Commercial &amp; Showroom Shifting</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">4. Commercial &amp; Showroom Shifting</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Specialized weekend office, bank, and retail store relocations in Bistupur with zero business downtime.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Enclosed Container Fleet</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">5. Enclosed Container Fleet</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Weather-proof container trucks with satellite GPS for continuous location tracking from Bistupur.</p>
         </div>
-        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">Honest Upfront Estimates</h3>
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.15rem; color: #0b132b; margin-bottom: 8px; font-weight: 700;">6. Honest Upfront Estimates</h3>
           <p style="color: #64748b; font-size: 0.9rem; line-height: 1.6;">Transparent pricing with no hidden charges, unexpected loading fees, or last-minute price surcharges.</p>
         </div>
       </div>
+
+      <!-- Mandatory 4-Protocol Safety System -->
+      <div style="background: #070d19; padding: 35px; border-radius: 16px; border: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff; margin-bottom: 40px;">
+        <h3 style="color: #f59e0b; font-size: 1.5rem; font-weight: 800; text-align: center; margin-bottom: 20px;">
+          Mandatory Safety &amp; Compliance Protocols
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">1. Pre-Move Survey &amp; Audit</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Detailed physical itemization to match exact container dimensions and logistics scheduling.</p></div>
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">2. 7-Layer Armor Protection</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Heavy multi-layer wrapping ensuring total cargo safety against transit vibration.</p></div>
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">3. Full Value Transit Insurance</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Comprehensive 3% declared value insurance policy providing complete loss coverage.</p></div>
+          <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;"><h4 style="color: #f59e0b; margin-bottom: 4px; font-size: 0.98rem;">4. GPS Real-Time Monitoring</h4><p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; margin: 0;">Continuous satellite tracking providing live position updates via WhatsApp throughout transit.</p></div>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- Section 4: 6 Core Services -->
+  <!-- Route Logistics Matrix Section -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Local &amp; Intercity Pricing</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          Bistupur Shifting Rate Matrix
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">
+          Estimated price ranges for local shifting in Bistupur and intercity moves out of Jamshedpur.
+        </p>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(245,158,11,0.25); border-radius: 12px; padding: 25px; margin-bottom: 35px;">
+        <div style="overflow-x: auto;">
+          <table style="width: 100%; border-collapse: collapse; color: #cbd5e1; font-size: 0.9rem;">
+            <thead>
+              <tr style="background: rgba(245,158,11,0.15); color: #f59e0b; text-align: left;">
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Shifting Service</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Vehicle Type</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Service Scope</th>
+                <th style="padding: 12px; border: 1px solid rgba(245,158,11,0.3);">Estimated Cost (₹)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">1 BHK Local Shifting (Bistupur)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">14ft City Truck</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Local Jamshedpur Area</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #10b981; font-weight: 700;">₹4,500 - ₹7,500</td>
+              </tr>
+              <tr style="background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">2 BHK Local Shifting (Bistupur)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">17ft City Container</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Local Jamshedpur Area</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #f59e0b; font-weight: 700;">₹7,500 - ₹12,000</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">3 BHK Local Relocation (Bistupur)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">19ft / 20ft Truck</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Local Jamshedpur Area</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #f59e0b; font-weight: 700;">₹11,000 - ₹17,000</td>
+              </tr>
+              <tr style="background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">Car Transport (Intercity)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Closed Car Carrier</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Door-to-Door Outstation</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #10b981; font-weight: 700;">₹6,500 - ₹14,000</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); font-weight: 700; color: #ffffff;">Bike Shipping (Intercity)</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Enclosed Transport Stand</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1);">Door-to-Door Outstation</td>
+                <td style="padding: 10px; border: 1px solid rgba(255,255,255,0.1); color: #10b981; font-weight: 700;">₹2,500 - ₹5,000</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5-Stage Intercity Relocation Workflow -->
   <section style="padding: 60px 0; background: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">
-        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800;">Our Shifting Services in <span style="color: #d32f2f;">Bistupur Jamshedpur</span></h2>
+        <span style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Step-by-Step Logistics</span>
+        <h2 style="font-size: 2.1rem; color: #0b132b; font-weight: 800; margin-top: 5px;">
+          5-Stage Relocation Workflow in Bistupur
+        </h2>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏡 Bistupur Household Shifting</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Complete residential apartment and bungalow relocation services in Bistupur with sofa wrapping, bed dismantling, and kitchenware packing.</p>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #d32f2f;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 1</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Doorstep Pre-Move Survey</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Physical or video inspection of household items in Bistupur to determine exact volume and vehicle selection.</p>
         </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏢 Bistupur Office Relocation</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Efficient commercial office moving for corporate firms near Bistupur Main Road, covering computer IT setups, file archives, and desks.</p>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 2</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">7-Layer Safety Packaging</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Multi-layered packing with bubble wrap, corrugated sheets, foam corner guards, and custom wooden crating for delicate items.</p>
         </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🚗 Closed Car Carrier Transport</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Scratch-free car transport from Bistupur Jamshedpur to pan-India destinations using covered car trailers with insurance.</p>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #d32f2f;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 3</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Sealed Container Dispatch</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Systematic loading into closed container trucks, sealed with security locks and tracked via satellite GPS.</p>
         </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏍️ Two-Wheeler / Bike Packing</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Paddy straw padding and corrugated box packaging for motorcycles and scooters dispatched safely from Bistupur.</p>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 4</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Safe City / Highway Transit</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Smooth transit via optimized routes with real-time WhatsApp status updates to destination.</p>
         </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">📦 Custom Wooden Box Crating</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Heavy wooden crate framing for glass tables, marble mandirs, large smart TVs, and delicate artwork in Bistupur.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏬 Safe Goods Storage Warehouse</h3>
-          <p style="color: #64748b; font-size: 0.9rem;">Pest-controlled, 24/7 CCTV surveillance warehouse facilities in Jamshedpur for short or long-term luggage storage.</p>
+        <div style="background: #f8fafc; padding: 22px; border-radius: 12px; border-left: 4px solid #d32f2f;">
+          <span style="color: #f59e0b; font-weight: 800; font-size: 0.85rem;">STAGE 5</span>
+          <h3 style="font-size: 1.1rem; color: #0b132b; margin: 8px 0 6px 0; font-weight: 700;">Doorstep Unloading &amp; Placement</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">Unloading into your new home or office, unpacking, assembling furniture, and final verification.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 5: 7-Layer Packaging -->
-  <section style="padding: 50px 0; background: #070d19; color: #ffffff;">
-    <div class="container">
-      <div style="text-align: center; max-width: 800px; margin: 0 auto 35px auto;">
-        <h2 style="font-size: 2rem; color: #ffffff; font-weight: 800;">7-Layer Safety Packaging for <span style="color: #f59e0b;">Bistupur Moves</span></h2>
-      </div>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 15px;">
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 1: Stretch Wrap</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem;">Dust and moisture protection.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 2: Air-Bubble Roll</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem;">Shock absorption for electronics.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 3: Corrugated Sheets</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem;">Outer cardboard impact protection.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 4: Foam Corner Guards</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem;">Protection for table and TV corners.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 5: Quilted Blankets</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem;">Heavy fabric wraps for appliances.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 6: Security Tape</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem;">Official branded sealing tape.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 18px; border-radius: 8px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #f59e0b; margin-bottom: 5px;">Layer 7: Wooden Box Crate</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem;">Outer wooden casing for fragile items.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section 6 & 7: 8 Contextual Body Links -->
+  <!-- Section 4: Contextual Links -->
   <section style="padding: 50px 0; background: #f8fafc;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 30px auto;">
@@ -267,65 +337,46 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 8: 10 FAQs -->
+  <!-- Expanded 20-Item Route FAQs -->
   <section style="padding: 50px 0; background: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto 35px auto;">
         <h2 style="font-size: 2rem; color: #0b132b; font-weight: 800;">Bistupur Relocation FAQs</h2>
       </div>
       <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;">
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q1: Do you handle household shifting near Bistupur Market and Main Road?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Yes, our crew handles relocations across all Bistupur sectors including Main Road, Circuit House Area, Contractors Area, and South Park.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q2: Are your GST bills valid for corporate claims in TATA companies?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Yes, we issue genuine IBA-approved GST invoices and LR bills fully compliant for employee reimbursement.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q3: How much advance notice is required to book shifting in Bistupur?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Booking 2 to 4 days in advance is ideal for securing your preferred shifting time slot.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q4: Do you offer commercial office relocation in Bistupur?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Yes, we relocate retail stores, IT hubs, and corporate offices with zero business disruption.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q5: Is transit insurance provided for goods moving out of Bistupur?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Yes, full transit insurance coverage is available for intercity goods movement.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q6: Can you transport car and bike from Bistupur to other states?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Yes, closed car containers and cushioned bike transport vehicles are available.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q7: Are packing materials included in the service?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Yes, all 7 layers of packing material including cartons, bubble wrap, and stretch film are provided.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q8: Do you disassemble double beds and wardrobes?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Our trained carpenters dismantle and re-assemble all wooden furniture at your new home.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q9: Are there any hidden loading charges?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">No, we provide transparent, itemized written quotes prior to starting the work.</p>
-        </div>
-        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;">
-          <h4 style="color: #0b132b;">Q10: How can I contact Shree Ashirwad Packers in Bistupur?</h4>
-          <p style="color: #64748b; font-size: 0.9rem;">Call us directly at <strong>+91 8409531615</strong> or click the WhatsApp button for instant assistance.</p>
-        </div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q1: Do you handle household shifting near Bistupur Market and Main Road?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, our crew handles relocations across all Bistupur sectors including Main Road, Circuit House Area, Contractors Area, and South Park.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q2: Are your GST bills valid for corporate claims in TATA companies?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we issue genuine 18% GST invoices, stamped Consignment Notes (LR), and IBA-approved bill formats for TATA Steel and corporate claims.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q3: How much advance notice is required to book shifting in Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Booking 24 to 48 hours in advance is recommended to reserve dedicated container trucks.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q4: Do you offer commercial office relocation in Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we relocate retail stores, IT hubs, bank branches, and corporate offices with zero business disruption.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q5: Is transit insurance provided for goods moving out of Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, comprehensive 3% declared value transit policy coverage protects cargo against highway risks during outstation moves.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q6: Can you transport car and bike from Bistupur to other states?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Cars are transported inside enclosed hydraulic car container carriers with wheel-locking chocks and doorstep pickup/drop.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q7: Are packing materials included in the price estimate?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, all 7 layers of packing material—bubble wrap, corrugated sheets, foam corner guards, stretch film—are fully included.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q8: Do you disassemble beds, wardrobes, and heavy furniture?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, our experienced carpenters disassemble and reassemble all heavy furniture items at destination.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q9: Are there any hidden loading charges in Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">No, we provide clear written quotes prior to starting with an explicit zero-hidden-cost guarantee.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q10: How can I contact Shree Ashirwad Packers in Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Call <strong>+91 8409531615</strong> or message us on WhatsApp for an immediate quote.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q11: Which areas in Bistupur do you serve?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">We serve Main Road, Circuit House Area, Contractors Area, Outer Circle Road, Diagonal Road, South Park, and Regal Ground area.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q12: Can I track my vehicle live during transit from Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, all closed container vehicles feature live GPS satellite tracking providing real-time location updates via WhatsApp.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q13: How is fragile glassware and crockery packed for local or outstation moves?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Crockery is wrapped item-by-item in bubble sheet and placed vertically in heavy 5-ply corrugated master cartons.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q14: Do you offer motorcycle shipping from Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, motorcycles are wrapped with heavy corrugated sheets and bubble wrap and transported securely inside enclosed vehicles.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q15: What payment schedule is followed for Bistupur shifting?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Standard booking follows 20% advance, 70% upon loading in Bistupur, and the remaining 10% after doorstep delivery.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q16: How do you handle narrow market streets or multi-floor stairs in Bistupur?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">We deploy specialized smaller feeder vehicles or experienced manual carry teams equipped with heavy safety straps.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q17: What paperwork is issued for corporate employee transfer claims?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">We issue stamped Lorry Receipts (LR), official 18% GST invoices, money receipts, and itemized inventory slips.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q18: Can I store goods in Jamshedpur if my destination home is delayed?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Yes, we offer secure warehouse storage facilities in Jamshedpur with flexible daily or monthly rates.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q19: How are large smart TVs and wooden mandirs packed?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Smart TVs and mandirs receive air-bubble cushioning, foam corner protection, and sturdy wooden crate framing.</p></div>
+        <div style="background: #f8fafc; padding: 18px; border-radius: 8px; border: 1px solid #e2e8f0;"><h4 style="color: #0b132b; font-weight: 700;">Q20: How do I schedule a free doorstep estimate for Bistupur relocation?</h4><p style="color: #64748b; font-size: 0.9rem; line-height: 1.6; margin-top: 6px;">Call <strong>+91 8409531615</strong> or send a message on WhatsApp to arrange a free physical or video survey.</p></div>
       </div>
     </div>
   </section>
 
-  <!-- Section 9: CTA Banner -->
+  <!-- Section 6: CTA Banner -->
   <section class="cta-banner-section" style="padding: 50px 0; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff;">
     <div class="container">
       <div style="text-align: center; max-width: 800px; margin: 0 auto;">
-        <h2 style="font-size: 2.1rem; font-weight: 800; margin-bottom: 15px;">Shift Safely in <span style="color: #f59e0b;">Bistupur Jamshedpur</span> Today</h2>
+        <h2 style="font-size: 2.1rem; font-weight: 800; margin-bottom: 15px;">Book Bistupur Relocation Today</h2>
+        <p style="color: #cbd5e1; font-size: 0.98rem; margin-bottom: 25px;">Guaranteed safe transit, 18% GST invoices, IBA approved billing, and 7-layer safety packaging.</p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 12px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20for%20Bistupur." target="_blank" style="padding: 12px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20for%20Bistupur." target="_blank" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>
         </div>
       </div>
     </div>

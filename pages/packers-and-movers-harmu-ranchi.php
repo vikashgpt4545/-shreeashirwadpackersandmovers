@@ -172,7 +172,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏢</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Head Office Base Sector</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Harmu is home to our primary Ranchi Head Office at Anandpuri Chowk. We offer instant local response and zero dispatch delays across all Harmu Housing Board blocks.
+              Harmu is home to our primary Head Office at Anandpuri Chowk. Managing shifts across Harmu Housing Colony, Harmu Road, and Argora Bypass requires certified <strong>packers and movers harmu ranchi</strong> with immediate operational mobilization.
             </p>
           </div>
 
@@ -181,7 +181,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏠</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Housing Board &amp; Flat Shifting</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              From Argora Chowk apartments to Harmu Bypass independent houses, our skilled crew packs household goods, modular furniture, and appliances with high safety.
+              From Argora Chowk luxury apartments to Harmu Housing Board LIG/MIG/HIG houses, our skilled packing crew handles household goods, heavy furniture, and appliances with precision.
             </p>
           </div>
 
@@ -190,7 +190,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for government officials, defense personnel, PSU officers, and bank managers.
+              We issue 100% genuine IBA-approved GST invoices, Lorry Receipts (LR), and itemized inventory lists accepted by Central/State Government, Defense, Bank, and PSU employers for seamless claim settlement.
             </p>
           </div>
 
@@ -199,7 +199,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof container trucks operate smooth transit routes connecting Harmu directly to Ratu Road, Kathal More, and Ring Road highways with live satellite GPS tracking.
+              Our company-owned weatherproof container trucks operate smooth transit routes linking Harmu directly to Ratu Road, Kathal More, and Ranchi Ring Road with satellite GPS tracking.
             </p>
           </div>
 
@@ -208,7 +208,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Safety Wrap</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We protect household items with air-bubble film, corrugated sheets, foam corner guards, stretch film, and custom wooden crates built on-site.
+              We shield household items with heavy air-bubble film, 5-ply corrugated sheets, foam edge guards, moisture stretch wrap, and custom wooden crates constructed on-site.
             </p>
           </div>
 
@@ -217,10 +217,34 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Unpacking &amp; Re-Assembly</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our trained move staff dismantles double beds, wardrobes, and modular desks at origin and reassembles every piece systematically at destination.
+              Our trained move staff dismantles double beds, modular wardrobes, and office workstations at origin and reassembles every single item systematically at destination.
             </p>
           </div>
 
+        </div>
+
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Relocation for Harmu Housing Board &amp; Anandpuri Chowk</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Harmu Housing Colony is one of Ranchi's largest planned residential sectors, housing government officers, corporate executives, and defense veterans. With our primary Head Office situated at Anandpuri Chowk, Harmu Road, Shree Ashirwad Packers and Movers offers unmatched local speed, immediate survey visits, and instant vehicle mobilization across all blocks of Harmu.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Our <strong>packers and movers in harmu ranchi</strong> team manages complex residential moves across narrow colony lanes and multi-story apartment complexes. We deploy dedicated move supervisors, utilize heavy-duty packing materials, and manage seamless loading directly onto enclosed container trucks to guarantee zero damage.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers in Harmu?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Head Office Proximity</strong> at Anandpuri Chowk for instant service.</li>
+            <li>✔ <strong>Transparent Written Rates</strong> with zero hidden charges.</li>
+            <li>✔ <strong>Housing Board Relocation</strong> for LIG/MIG/HIG blocks.</li>
+            <li>✔ <strong>Dedicated Enclosed Vehicle Carriers</strong> for bike &amp; car transport.</li>
+            <li>✔ <strong>Full Unpacking &amp; Re-assembly</strong> with room setup.</li>
+            <li>✔ <strong>24/7 Live GPS Tracking</strong> for intercity and local transit.</li>
+          </ul>
         </div>
 
       </div>
@@ -244,42 +268,42 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. Household Shifting in Harmu</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our core service includes <strong>household shifting in harmu ranchi</strong> and <strong>home relocation services harmu ranchi</strong>. We wrap furniture, appliances, and kitchen items with multi-tier shock-absorbing materials.
+            Our primary expertise includes <strong>household shifting in harmu ranchi</strong> and <strong>home relocation services harmu ranchi</strong>. We pack furniture, kitchenware, electronics, and fragile home decor with 7 layers of air-bubble film, corrugated sheeting, and stretch film. Our crew takes care of complete loading, transport, unloading, and room placement.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. Office &amp; Commercial Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We provide fast <strong>office shifting in harmu ranchi</strong> for corporate offices, commercial shops, and financial firms near Harmu Road and Argora.
+            We provide fast <strong>office shifting in harmu ranchi</strong> for corporate offices, commercial shops, and financial firms along Harmu Road, Anandpuri Chowk, and Argora Bypass with color-coded box indexing for minimal operational downtime.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. Bike Transport Harmu</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Our <strong>bike transport harmu ranchi</strong> service applies paddy straw padding and corrugated wrapping to shield motorcycle body panels and mirrors during transit.
+            Our <strong>bike transport harmu ranchi</strong> service applies multi-layer paddy straw wrapping, heavy corrugated sheeting, and stretch film to shield motorcycle body panels and rearview mirrors during transit in wheel-locked container trucks.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Car Transport Service Harmu</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our <strong>car transport service harmu ranchi</strong> uses hydraulic enclosed car carriers with wheel locks to safely deliver sedans and SUVs across India.
+            Our <strong>car transport service harmu ranchi</strong> operates dedicated hydraulic enclosed car carrier trailers. We pick up cars directly from your Harmu residence and transport them securely across India with comprehensive transit insurance.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Wooden Crate &amp; Heavy Goods Packing</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            For Smart TVs, glass tops, refrigerators, and heavy items, we build custom wooden crates on-site to absorb heavy road shocks.
+            For large Smart TVs, double-door refrigerators, glass dining tables, and heavy office machinery, our carpenters build custom wooden crates on-site to absorb heavy road vibration during highway transit.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Warehouse &amp; Storage Solutions</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7;">
-            Our clean, CCTV-monitored warehouse facilities provide moisture-proof short-term and long-term storage lockers for household goods in Harmu.
+            If you need temporary storage while awaiting house possession in Harmu Housing Colony or Argora, our <strong>warehouse storage harmu ranchi</strong> facility features 24/7 CCTV monitoring, fire security, and moisture-controlled lockers.
           </p>
         </div>
 
@@ -303,32 +327,32 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 35px;">
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 1: Water-Resistant Stretch Film</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Seals furniture against moisture and dust during handling.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 1: Water-Resistant High-Tensile Stretch Film</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Seals wooden furniture, mattresses, and fabric sofas against rain, humidity, dirt, and road dust during handling and loading.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 2: Air Bubble Wrapping</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Cushions delicate glassware, electronics, and polished wood.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 2: Heavy-Duty Air Bubble Wrapping</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Cushions delicate glassware, crockery, OLED televisions, computer monitors, and polished teakwood furniture against sudden road shocks.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 3: Corrugated Board Sheeting</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Forms rigid armor for home appliances and sofa sets.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 3: 5-Ply Corrugated Board Sheeting</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Forms a rigid outer armor around washing machines, refrigerators, dining tables, and sofa sets to absorb external physical impacts.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 4: Foam Corner Protectors</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Prevents corner chipping on wooden and glass furniture.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 4: High-Density Polyethylene Foam Corner Guards</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Shields sharp edges and corners of marble tabletops, wooden cabinets, wardrobes, and mirrors from chipping or scratching during stairwell carrying.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 5: On-Site Wooden Crating</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Custom solid wooden crates for Smart TVs and glass items.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 5: Custom On-Site Wooden Crating Framework</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Custom-built solid timber crates constructed on-site for ultra-fragile items like 65-inch Smart TVs, glass dining tables, chandeliers, and antique statues.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 6: Branded Sealing Tape &amp; Tagging</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Clear room-wise labeling and tamper-evident sealing tape.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 6: Branded Tamper-Evident Tape &amp; Color Tagging</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Secures outer carton flaps with heavy-duty moisture tape and room-wise color codes for rapid, error-free unpacking at destination.</p>
         </div>
         <div style="background: rgba(23, 42, 84, 0.6); padding: 18px 22px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 7: Internal Truck Wall Belt Anchors</h4>
-          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Locks packed items firmly inside container trucks for highway transit.</p>
+          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 6px;">Layer 7: Internal Truck Wall Belt Lashing Anchors</h4>
+          <p style="font-size: 0.92rem; color: #94a3b8; margin: 0;">Locks packed furniture, crates, and containers securely to internal vehicle wall rails with heavy nylon ratchet straps to prevent shifting during highway transit.</p>
         </div>
       </div>
 
@@ -447,18 +471,18 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Government employees, Housing Board residents, PSU officers, defense personnel, and bank managers residing in Harmu get 100% compliant reimbursement documentation:
+        Government employees, Housing Board colony residents, PSU officers, defense personnel, and bank managers residing in Harmu require official, audit-tested documents for employee relocation claim reimbursement. As certified <strong>iba approved packers and movers ranchi</strong>, we issue a complete, audit-compliant document set:
       </p>
 
       <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; margin-bottom: 30px;">
         <h4 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 12px; font-weight: 700;">Complete Relocation Claim Document Set:</h4>
         <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8;">
-          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing &amp; freight costs.</li>
-          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with vehicle registration stamp.</li>
-          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers.</li>
-          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> on official letterhead.</li>
-          <li><strong>Transit Insurance Policy Document</strong> issued by authorized insurance providers.</li>
-          <li><strong>Stamped Payment Receipt</strong> for company HR &amp; audit submission.</li>
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing, loading, freight, and unloading charges with SAC code breakdown.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> stamped with vehicle registration number, driver details, and destination route.</li>
+          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers and box counts.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> printed on official company letterhead.</li>
+          <li><strong>Transit Insurance Policy Document</strong> issued by authorized national insurance providers.</li>
+          <li><strong>Stamped Payment Receipt</strong> for company HR &amp; audit department submission.</li>
         </ol>
       </div>
 
@@ -483,7 +507,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Initial Phone / WhatsApp Survey</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Call our <strong>movers and packers harmu contact number</strong> at <strong><?php echo SITE_PHONE; ?></strong> or send us your shifting details on WhatsApp.
+              Call our <strong>movers and packers harmu contact number</strong> at <strong><?php echo SITE_PHONE; ?></strong> or send us your shifting inventory on WhatsApp for an immediate response.
             </p>
           </div>
         </div>
@@ -493,7 +517,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Written Fixed Rate Estimation</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              We outline all <strong>packers and movers ranchi charges</strong> in a written quote with zero hidden surcharges.
+              We outline all <strong>packers and movers ranchi charges</strong> in a transparent written quote with zero hidden surcharges on move day.
             </p>
           </div>
         </div>
@@ -503,7 +527,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">On-Site 7-Layer Packaging at Harmu</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Our uniformed crew arrives punctually with heavy bubble wrap, foam corner guards, corrugated boxes, and wooden crates.
+              Our uniformed packing crew arrives punctually at your Harmu residence with air-bubble wrap, foam corner guards, corrugated boxes, and custom wooden crates.
             </p>
           </div>
         </div>
@@ -513,7 +537,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Container Loading &amp; GPS Tracking</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              Goods are secured inside dedicated container vehicles with nylon tie-downs. You get live GPS tracking updates until delivery.
+              Packed items are anchored inside dedicated container vehicles with nylon tie-downs. You receive continuous live GPS tracking updates until delivery.
             </p>
           </div>
         </div>
@@ -523,7 +547,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div>
             <h3 style="font-size: 1.2rem; color: #ffffff; margin-bottom: 6px;">Unloading, Unpacking &amp; Room Setup</h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.6;">
-              At destination, our crew unloads, unboxes, re-assembles beds and tables, and places furniture according to your instructions.
+              At your destination, our unloading crew unboxes every container, re-assembles beds and modular furniture, and places every item in designated rooms.
             </p>
           </div>
         </div>
@@ -549,35 +573,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers harmu ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, elevator access, and transit distance.
+            Relocation charges are calculated transparently based on total inventory volume, packing material requirements (such as wooden crating or 7-layer bubble wrap), floor level, elevator availability, and travel distance to your new home or office destination.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for Housing Board residents &amp; employees in Harmu?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized packing lists accepted by Central/State Government, Bank, Defense, and Railway audit departments.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Harmu?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
+            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance to reserve dedicated container trucks.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect expensive furniture during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
+            We construct heavy-duty wooden crates directly on-site at your Harmu residence and apply 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, foam edge corner guards, and stretch wrapping.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Can I track my moving container truck during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your move supervisor.
+            Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your dedicated move supervisor.
           </p>
         </div>
 
@@ -591,28 +615,28 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q7: Is transit insurance included for relocation from Harmu?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents during long-distance transit.
+            We offer comprehensive transit insurance coverage that protects your shipment against unforeseen road accidents or natural damage during long-distance transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q8: Do your packers disassemble beds and wardrobes in Harmu homes?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, our carpenters dismantle double beds, modular wardrobes, and dining tables at origin, and reassemble them at destination.
+            Yes, our expert carpenters dismantle double beds, modular wardrobes, wall units, and dining tables at origin, and reassemble them neatly at your destination address.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q9: Are there any hidden fees added on move day?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            No! We maintain a strict policy of transparent billing with zero hidden charges.
+            No! We strictly adhere to fixed written estimates. All packing materials, vehicle fuel, toll taxes, labor handling charges, and GST invoice breakdowns are finalized upfront prior to dispatch with zero hidden fees on move day.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q10: What is the contact number for packers and movers in harmu ranchi?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            You can call or WhatsApp our official Helpline at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong>.
+            You can call or WhatsApp our Ranchi Head Office Helpline directly at <strong><?php echo SITE_PHONE; ?></strong> (Raw: <strong><?php echo SITE_PHONE_RAW; ?></strong>) or email us at <strong><?php echo SITE_EMAIL; ?></strong> for immediate on-site survey and quotation.
           </p>
         </div>
 

@@ -223,6 +223,33 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Kantatoli Chowk, Bus Stand &amp; Flyover Corridor</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Kantatoli is one of Ranchi's most bustling commercial hubs and key transit intersections, serving as a primary link connecting Purulia Road, Kokar Industrial Area, Namkum Station Road, and Lalpur Circular Road. Home to major intercity bus terminals, retail commercial complexes, and dense residential housing societies, relocating homes, corporate offices, or retail store inventory in Kantatoli requires tactical planning to navigate local traffic congestion smoothly.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers in kantatoli ranchi</strong> team deploys specialized move marshals who schedule optimal non-peak loading hours, securing early-morning or dedicated night-time parking permits near Kantatoli Chowk and the new flyover access ramps. This prevents any traffic disruption while loading your valuable household goods, commercial merchandise, or heavy office furniture into our enclosed weatherproof container trucks.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Whether you are shifting a multi-story family residence near Kokar Road, relocating an electronics showroom near Kantatoli Bus Stand, or moving to a modern apartment along Purulia Road, Shree Ashirwad Packers and Movers delivers 7-layer shockproof protective packaging, transparent itemized pricing, and official IBA-approved GST billing for seamless corporate and government reimbursement claims.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers in Kantatoli?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Kantatoli Chowk &amp; Bus Stand</strong> specialized moving marshals.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for corporate &amp; official claims.</li>
+            <li>✔ <strong>Purulia Road &amp; Namkum Corridor</strong> fast local transit.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>Complete Furniture Dismantling &amp; Setup</strong> service.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
@@ -549,35 +576,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers kantatoli ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, elevator access, and transit distance.
+            Charges are calculated transparently based on total household or store inventory volume, selected protective packaging tier (air-bubble film, 5-ply corrugated boxes, custom timber crates), apartment floor elevation, elevator accessibility, loading crew size, and total transit distance from Kantatoli.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for commercial &amp; corporate moves in Kantatoli?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized inventory packing lists fully accepted by Central/State Government HRs, Defense departments, bank officers, and corporate firms.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Kantatoli?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
+            For local household shifting in Kantatoli and Kokar, booking 2 to 3 days in advance secures your preferred slot. For long-distance intercity moves across India, we advise booking 4 to 7 days in advance for dedicated container vehicle scheduling.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you handle packing in high-density areas near Kantatoli Chowk?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We schedule optimal loading hours and deploy dedicated move marshals to handle traffic and ensure smooth loading into container trucks.
+            We schedule optimal non-peak loading hours, securing early-morning or dedicated night-time parking permits, and deploy dedicated move marshals to manage local traffic and ensure smooth loading into container trucks.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Can I track my moving container truck during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your move supervisor.
+            Yes, all our enclosed moving container trucks are equipped with real-time satellite GPS tracking. You receive live location updates and direct communication with your dedicated shift supervisor throughout the journey.
           </p>
         </div>
 

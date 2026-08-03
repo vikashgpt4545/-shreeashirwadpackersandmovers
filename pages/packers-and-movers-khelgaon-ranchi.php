@@ -223,6 +223,33 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Khelgaon Housing Complex, Mega Sports Complex &amp; Booty More Corridor</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Khelgaon is one of Ranchi's most prominent sports and modern residential zones, featuring the massive Mega Sports Complex, multi-storey Khelgaon Housing Complex apartments, corporate residences, and high-density developments connecting to Booty More and Kokar. Relocating apartments in high-rise towers requires specialized lift handling, narrow corridor navigation, and structured loading procedures.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers in khelgaon ranchi</strong> team brings over 15 years of expert experience handling high-rise apartment shifts and sports authority relocations. We deploy 7-layer protective packaging consisting of water-resistant stretch wrap, thick air-bubble film, 5-ply corrugated sheets, and custom-built wooden crates to safeguard delicate electronics, glass furniture, and sports equipment during transit across Ring Road and NH-33.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Whether you are moving between flats in Khelgaon Housing Complex, shifting to Lalpur, Kokar, or Morabadi, or executing an intercity move to Jamshedpur, Dhanbad, or Kolkata, Shree Ashirwad Packers and Movers provides 100% compliant IBA GST bills, real-time satellite GPS tracking, and complete unpacking with furniture re-assembly.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers in Khelgaon?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Khelgaon Housing Complex</strong> high-rise tower shifting experts.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for corporate &amp; official claims.</li>
+            <li>✔ <strong>Booty More &amp; Ring Road Link</strong> fast local logistics.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>On-Site Custom Wood Crating</strong> for LCD/LED TVs &amp; glass.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
@@ -549,35 +576,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: How are packers and movers khelgaon ranchi charges calculated?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges depend on total goods volume, packing material quality (wooden crates, bubble film), apartment floor level, and transit distance.
+            Charges are calculated transparently based on total household goods volume, chosen protective packaging grade (bubble wrap, 5-ply corrugated sheets, custom timber crates), apartment floor height in Khelgaon Housing Complex, elevator availability, loading manpower required, and transit distance.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: Do you issue IBA approved bills for official moves in Khelgaon?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and packing lists accepted by all corporate audit departments.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized inventory packing lists fully accepted by corporate audit departments, PSU offices, defense establishments, and bank officers.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: How early should I book household shifting in Khelgaon?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            For local household shifting, booking 2 to 3 days in advance is ideal. For long-distance intercity moves, we advise booking 4 to 7 days in advance.
+            For local household shifting in Khelgaon, Kokar, or Booty More, booking 2 to 3 days in advance secures your preferred date. For long-distance intercity moves across India, we recommend booking 4 to 7 days in advance for dedicated container truck allocation.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you protect home furniture and electronics during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            We build heavy-duty wooden crates on-site and use 7-layer protective packaging consisting of air-bubble wrap, corrugated sheets, and foam corner guards.
+            We construct custom wooden crates on-site for Smart TVs, mirrors, and glass tops, while wrapping furniture and appliances in 7 layers of protective material (stretch wrap, thick air-bubble film, corrugated board, foam edge guards) locked tightly inside enclosed container trucks.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Can I track my moving container truck during transit?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking with live updates from your move supervisor.
+            Yes, all our enclosed moving container trucks are equipped with real-time satellite GPS tracking. You receive live location updates and direct communication with your dedicated shift supervisor throughout the journey.
           </p>
         </div>
 

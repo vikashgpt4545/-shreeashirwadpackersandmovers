@@ -193,6 +193,33 @@ require_once __DIR__ . '/../includes/header.php';
 
         </div>
 
+        <!-- Localized Relocation Overview Box -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Solutions for Ranchi to Kolkata Interstate Express Highway Route</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            The 415 km interstate highway route connecting Ranchi to Kolkata via Asansol, Durgapur, and the NH-19 (Grand Trunk Road) corridor is one of the busiest long-distance commercial and residential relocation corridors in eastern India. High volume migration on this route includes corporate IT professionals moving to Salt Lake Sector V and New Town Rajarhat, PSU executives, banking managers, medical specialists, and commercial business traders.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Our <strong>packers and movers ranchi to kolkata</strong> team enforces a rigorous 7-layer protective packaging standard designed for interstate transit. All household items, furniture, and appliances receive multi-layer wrapping using waterproof stretch film, heavy bubble wrap, 5-ply corrugated sheets, foam edge protectors, and custom wooden crating for glass items, marble tables, and LED TVs.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            We deliver door-to-door across all Kolkata metropolitan sectors including Salt Lake, New Town Rajarhat, Howrah, Dum Dum, Ballygunge, Alipore, Tollygunge, Behala, and Garia. Every interstate move comes with 100% genuine IBA-approved GST invoices for corporate claim reimbursement, satellite GPS container tracking, comprehensive transit insurance, and destination furniture assembly.
+          </p>
+        </div>
+
+        <!-- Highlight Summary Box -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Ranchi to Kolkata?</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
+            <li>✔ <strong>Interstate Express Highway Transit</strong> 8 to 9 hours fast container delivery.</li>
+            <li>✔ <strong>100% IBA Approved Bills</strong> for IT, Corporate &amp; Banking claims.</li>
+            <li>✔ <strong>Door Delivery</strong> across Salt Lake, New Town, Howrah &amp; Garia.</li>
+            <li>✔ <strong>Enclosed Hydraulic Car Carriers</strong> &amp; bike containers.</li>
+            <li>✔ <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; appliances.</li>
+            <li>✔ <strong>Live Satellite GPS Tracking</strong> on container trucks.</li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
@@ -519,35 +546,35 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q1: What are the packers and movers ranchi to kolkata charges?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Charges range from ₹9,000 to ₹16,000 for a 1BHK/2BHK household move, and ₹16,000 to ₹26,000 for a 3BHK household, depending on goods volume and packing requirements.
+            Charges are calculated transparently based on total household inventory volume, selected protective packaging grade (bubble wrap, corrugated sheets, custom timber crates), container truck size, loading floor height, and destination delivery point in Kolkata. A 1BHK/2BHK move typically ranges from ₹9,000 to ₹16,000, while a 3BHK household ranges from ₹16,000 to ₹26,000.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q2: How long does it take for delivery from Ranchi to Kolkata?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            The road distance is approximately 415 km via NH-19 corridor. Transit time is 8 to 9 hours, ensuring next-day or express same-day delivery.
+            The road distance between Ranchi and Kolkata is approximately 415 km via the four-lane NH-19 corridor. Our dedicated enclosed container trucks complete interstate transit in 8 to 9 hours, ensuring guaranteed next-day or express same-day loading and door delivery.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q3: Do you issue IBA approved bills for corporate relocation claims?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we provide 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists for corporate claim reimbursement.
+            Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized inventory lists fully accepted by corporate HR teams, IT firms in Salt Lake/New Town, financial institutions, PSU audit teams, government departments, and bank officers.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q4: How do you transport bikes and cars from Ranchi to Kolkata?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Bikes are wrapped in paddy-straw bubble wrap and locked inside container trucks. Cars travel inside closed hydraulic car carriers.
+            Two-wheelers are wrapped in paddy-straw padding and corrugated sheets and secured inside locked container trucks. Automobiles travel inside specialized covered hydraulic car carriers with wheel chocks for complete scratch-free door-to-door interstate transit.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q5: Is transit insurance available for Ranchi to Kolkata shifting?</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            Yes, we offer comprehensive transit insurance covering full invoice value against unforeseen road hazards during interstate highway transit.
+            Yes, we provide comprehensive transit insurance policy documentation covering declared goods value against unforeseen highway hazards or accidents during the Ranchi to Kolkata interstate journey.
           </p>
         </div>
 

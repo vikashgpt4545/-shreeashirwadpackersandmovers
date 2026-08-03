@@ -172,55 +172,66 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📍</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Lalpur Hub Expertise</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Lalpur is Ranchi's prime educational and commercial epicenter. Navigating busy lanes around Circular Road and Plaza Chowk demands skilled local <strong>packers and movers lalpur ranchi</strong> with specialized packing crews.
+              Lalpur stands as Ranchi's prime educational, commercial, and student hub. Navigating dense residential lanes surrounding Circular Road, Plaza Chowk, Peace Road, and HB Road demands local operational expertise from experienced <strong>packers and movers lalpur ranchi</strong> who understand traffic peak hours and narrow building access.
             </p>
           </div>
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏙️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Apartment &amp; High-Rise Shifting</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">High-Rise Flat &amp; Hostel Moving</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              From multi-story apartment complexes to narrow residential streets near Peace Road, our team utilizes heavy hoist ropes, floor protectors, and compact shifting vehicles for safe handling.
+              From multi-story apartment complexes along Nu-Tech Complex to student hostels and residential flats near Women's College, our moving team utilizes heavy pulley ropes, protective floor runners, and compact moving mini-trucks for smooth maneuvering.
             </p>
           </div>
 
           <!-- Card 3 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Bills</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Bills &amp; Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              We issue 100% genuine IBA-approved GST invoices and Lorry Receipts for Bank, PSU, Railways, and Defense officers residing in Lalpur requiring relocation allowance claims.
+              We issue 100% genuine IBA-approved GST bills, consignment notes, Lorry Receipts (LR), and itemized inventories required by Bank officers, PSU staff, Defense personnel, and private corporate HRs residing in Lalpur for seamless transfer claim reimbursements.
             </p>
           </div>
 
           <!-- Card 4 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Enclosed Fleet</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our weatherproof enclosed container trucks operate continuously between Lalpur Chowk and outer expressways, equipped with satellite GPS tracking and padded interiors for maximum safety.
+              Our company-owned weatherproof containerized trucks operate continuously between Lalpur Chowk and outer national expressways. Each vehicle is fitted with satellite GPS tracking and padded interiors for absolute transit security.
             </p>
           </div>
 
           <!-- Card 5 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
-            <h3 style="font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">7-Layer Material Wrap</h3>
+            <h3 style="font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">7-Layer Packaging Shield</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Every household item is wrapped with bubble wrap, corrugated sheets, foam guards, stretch film, and custom wooden crates to prevent scratches or transit damage.
+              Every household item is multi-layer protected with high-grade bubble wrap, 5-ply corrugated sheets, foam edge corner guards, stretch film, and custom wooden crates to prevent scratches, dents, or transit shock.
             </p>
           </div>
 
           <!-- Card 6 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
             <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Unpacking &amp; Re-Assembly</h3>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Furniture Carpentry &amp; Setup</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Our trained move staff dismantles double beds, dining tables, and modular furniture at your Lalpur address and reassembles everything neatly at your destination.
+              Our trained move staff dismantles heavy king-size beds, wooden wardrobes, dining tables, and modular desks at your Lalpur residence and systematically reassembles them neatly at your destination address.
             </p>
           </div>
 
+        </div>
+
+        <!-- Comprehensive Local Context & Coaching Hub Shifting Guide -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #081026 100%); border: 1px solid rgba(245, 158, 11, 0.25); padding: 30px; border-radius: 12px; margin: 30px 0;">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 14px;">Specialized Shifting Services for Lalpur Commercial &amp; Coaching Hubs</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
+            Lalpur is recognized as Ranchi's main educational core, hosting dozens of prominent competitive exam coaching centers, student libraries, book hubs, IT training centers, and corporate offices along Circular Road and Plaza Chowk. Relocating a commercial office or coaching facility requires precision scheduling to avoid disrupting student batches or business operations.
+          </p>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Our <strong>office shifting in lalpur ranchi</strong> division provides specialized overnight and weekend relocation services. We utilize color-coded label tags, heavy-duty computer screen protection crates, server rack padding, and systematic library book packing boxes to ensure zero operational downtime during your commercial move.
+          </p>
         </div>
 
         <!-- Highlight Summary Box -->
@@ -231,8 +242,11 @@ require_once __DIR__ . '/../includes/header.php';
             <li>✔ <strong>Transparent Costing</strong> with zero unexpected charges on move day.</li>
             <li>✔ <strong>Specialized Office Moving</strong> for coaching centers &amp; commercial hubs.</li>
             <li>✔ <strong>Dedicated Vehicle Carriers</strong> for safe bike and car transport.</li>
+            <li>✔ <strong>Full Packing &amp; Unpacking</strong> with room-wise furniture setup.</li>
+            <li>✔ <strong>24/7 Support Helpline</strong> via phone and WhatsApp support.</li>
           </ul>
         </div>
+
 
       </div>
 
