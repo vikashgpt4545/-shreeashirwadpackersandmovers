@@ -63,3 +63,7 @@
       9. Contextual Intercity Route Link Grid
       10. 20 Detailed SEO FAQs
       11. Call to Action Banner with styled gradient pill buttons
+
+17. **STRICT CLEAN URL MANDATE (NO `/pages/`, NO `.php`)**:
+    - All internal links in code (`href`), canonicals, sitemap links, and `urls.txt` entries MUST strictly use clean URLs without `/pages/` directory prefix and without `.php` file extension (e.g. `<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad`). Never write `/pages/` or `.php` in internal anchor tags.
+

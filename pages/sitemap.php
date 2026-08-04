@@ -13,6 +13,10 @@ $files = glob($pages_dir . '/*.php');
 
 $ranchi_localities = [];
 $jamshedpur_localities = [];
+$dhanbad_localities = [];
+$bokaro_localities = [];
+$hazaribagh_localities = [];
+$deoghar_localities = [];
 $intercity_routes = [];
 $guides_and_services = [];
 
@@ -24,11 +28,19 @@ foreach ($files as $file) {
 
     $title = ucwords(str_replace('-', ' ', $filename));
 
-    if (stripos($filename, 'ranchi-to-') !== false || stripos($filename, 'jamshedpur-to-') !== false) {
+    if (stripos($filename, '-to-') !== false) {
         $intercity_routes[$filename] = $title;
-    } elseif (stripos($filename, 'ranchi') !== false && stripos($filename, 'packers-and-movers') !== false) {
+    } elseif (stripos($filename, 'dhanbad') !== false) {
+        $dhanbad_localities[$filename] = $title;
+    } elseif (stripos($filename, 'bokaro') !== false) {
+        $bokaro_localities[$filename] = $title;
+    } elseif (stripos($filename, 'hazaribagh') !== false) {
+        $hazaribagh_localities[$filename] = $title;
+    } elseif (stripos($filename, 'deoghar') !== false) {
+        $deoghar_localities[$filename] = $title;
+    } elseif (stripos($filename, 'ranchi') !== false) {
         $ranchi_localities[$filename] = $title;
-    } elseif (stripos($filename, 'jamshedpur') !== false && stripos($filename, 'packers-and-movers') !== false) {
+    } elseif (stripos($filename, 'jamshedpur') !== false) {
         $jamshedpur_localities[$filename] = $title;
     } else {
         $guides_and_services[$filename] = $title;
@@ -37,6 +49,10 @@ foreach ($files as $file) {
 
 ksort($ranchi_localities);
 ksort($jamshedpur_localities);
+ksort($dhanbad_localities);
+ksort($bokaro_localities);
+ksort($hazaribagh_localities);
+ksort($deoghar_localities);
 ksort($intercity_routes);
 ksort($guides_and_services);
 ?>
@@ -97,6 +113,22 @@ ksort($guides_and_services);
           <?php endforeach; ?>
         </div>
       </div>
+
+      <!-- Dhanbad Localities -->
+      <?php if (!empty($dhanbad_localities)): ?>
+      <div style="background: #fff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); margin-bottom: 30px;">
+        <h2 style="font-size: 1.5rem; color: #b91c1c; border-bottom: 2px solid #fef3c7; padding-bottom: 8px; margin-bottom: 20px;">
+          ⛏️ Dhanbad Locality Shifting Routes (<?php echo count($dhanbad_localities); ?> Hubs)
+        </h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; font-size: 0.92rem;">
+          <?php foreach ($dhanbad_localities as $slug => $title): ?>
+            <a href="<?php echo SITE_URL . $slug; ?>" style="color: #334155; text-decoration: none; padding: 4px 0; border-bottom: 1px dashed #e2e8f0;">
+              📍 <?php echo htmlspecialchars($title); ?>
+            </a>
+          <?php endforeach; ?>
+        </div>
+      </div>
+      <?php endif; ?>
 
       <!-- Intercity Shifting Routes -->
       <div style="background: #fff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); margin-bottom: 30px;">
