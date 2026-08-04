@@ -30,7 +30,36 @@
    - All 200 URLs from `urls.txt` must be registered in the XML sitemap.
 
 9. **LOCAL CONTEXT & REALITY**:
-   - Focus on genuine Ranchi geography (Lalpur, Harmu, Kanke Road, Ratu Road, Doranda, Bariatu, Hinoo, Morabadi, Namkum, etc.) and destination city route details (NH-33, NH-19, GT Road, Expressways, Transit Timelines).
+   - Focus on genuine local geography (Ranchi, Jamshedpur, Dhanbad, Bokaro, Hazaribagh, Deoghar, local areas, NH-33, NH-19, GT Road, Expressways, Transit Timelines, local landmarks, and PIN codes).
 
 10. **LOGO IS ONLY SWASTIK**:
     - The logo image (`assets/images/logo.png`) and site icon (`assets/images/favicon.png`) must ONLY contain the sacred Swastik symbol without text inside the image.
+
+11. **BATCH CONTENT & SYNTAX VERIFICATION**:
+    - After creating each page/batch, perform immediate line-by-line content inspection and syntax verification (`php -l`). Do NOT make assumptions about content validity or page formatting without verifying.
+
+12. **ZERO ASSUMPTIONS PROTOCOL**:
+    - Never assume that testing was completed or that past rules apply without re-checking the active codebase line-by-line. All newly created pages must comply with all dynamic header, footer, canonical, and schema requirements.
+
+13. **LOCALIZED SEO CONTENT DENSITY**:
+    - Every page must contain rich, localized copy mentioning genuine city-specific landmarks, industrial/residential zones, major transport arteries, local shifting challenges, and customized FAQs.
+
+14. **MANDATORY FAQ JSON-LD SCHEMA ARRAY (`$faq_list`)**:
+    - Every single page MUST define `$faq_list = [['q' => '...', 'a' => '...'], ...]` containing 10-20 localized questions and answers before calling `require_once header.php`. This allows `header.php` to automatically output Google FAQPage JSON-LD rich snippets.
+
+15. **DYNAMIC CITY SCOPE & GEO SCHEMA (`$page_city`)**:
+    - Every single page MUST define `$page_city = "Dhanbad";` (or Bokaro, Hazaribagh, Deoghar, Ranchi, Jamshedpur) at the top. This triggers `header.php` to generate city-specific `MovingCompany` schema, GeoCoordinates (lat/long), street address, state, and pincode.
+
+16. **11-SECTION PAGE LAYOUT MANDATE**:
+    - Every page must strictly implement the complete 11-section layout:
+      1. Hero Section + WhatsApp Lead Form
+      2. Trust Stats Counter
+      3. Locality Logistics Overview with 3x2 6-Card Grid
+      4. 4-Protocol Zero-Damage Safety Framework
+      5. Transparent Pricing Table
+      6. 5-Stage Execution Workflow
+      7. IBA Approved Corporate Claims Documentation
+      8. Contextual Locality Link Grid
+      9. Contextual Intercity Route Link Grid
+      10. 20 Detailed SEO FAQs
+      11. Call to Action Banner with styled gradient pill buttons
