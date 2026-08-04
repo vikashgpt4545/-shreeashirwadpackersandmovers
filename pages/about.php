@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "About Us | Shree Ashirwad Packers and Movers in Ranchi | 8409531615";
-$page_desc = "Learn about Shree Ashirwad Packers and Movers in Ranchi - Jharkhand's premier IBA-approved household, office, and vehicle relocation service provider. Call (+91) 8409531615.";
-$page_keywords = "packers and movers in ranchi, about shree ashirwad packers and movers, top movers ranchi, IBA approved packers movers ranchi, reliable shifting ranchi";
+$page_title = "About Us | Shree Ashirwad Packers and Movers in Ranchi & Jamshedpur | 8409531615";
+$page_desc = "Learn about Shree Ashirwad Packers and Movers - Jharkhand's premier IBA-approved household, office, and vehicle relocation service provider with 15+ years of trust. Call (+91) 8409531615.";
+$page_keywords = "about shree ashirwad packers and movers, packers and movers in ranchi, packers and movers in jamshedpur, IBA approved packers movers, reliable shifting jharkhand, government GST bill movers, ajit kumar gupta movers";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -22,48 +22,60 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 
   <!-- Inner Page Banner -->
-  <section class="page-banner">
+  <section class="page-banner" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
-      <div class="banner-content">
-        <h1 class="page-title">About <span>Packers and Movers in Ranchi</span></h1>
-        <p class="page-subtitle">Pioneering Safe, Seamless & IBA-Approved Relocation Solutions Across Jharkhand & Pan-India Routes</p>
+      <div class="banner-content" style="max-width: 850px; margin: 0 auto; text-align: center;">
+        <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+          Company Profile &amp; Legacy
+        </span>
+        <h1 class="page-title" style="font-size: 2.7rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+          About <span style="color: #f59e0b;">Shree Ashirwad Packers and Movers</span>
+        </h1>
+        <p class="page-subtitle" style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7;">
+          Pioneering Safe, Seamless, and IBA-Approved Household Shifting, Corporate Moving, and Vehicle Logistics Across Jharkhand &amp; Pan-India Routes Since 2011.
+        </p>
       </div>
     </div>
   </section>
 
   <!-- Company Overview & Story Section -->
-  <section class="about-story-section">
+  <section class="about-story-section" style="padding: 70px 0; background: #ffffff;">
     <div class="container">
-      <div class="about-story-grid">
+      <div class="about-story-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: start;">
+        
         <!-- Story Content Column -->
         <div class="about-story-content">
-          <span class="section-tag">Established Leadership</span>
-          <h2 class="section-title">Jharkhand's Premier Choice for <span>Packers and Movers in Ranchi</span></h2>
-          <p class="about-paragraph">
-            Welcome to <strong>Shree Ashirwad Packers and Movers in Ranchi</strong>, your trusted partner for stress-free, professional, and zero-damage shifting services. Over the past 15+ years, we have built an unshakeable reputation as the most reliable <strong>packers and movers in ranchi</strong> by consistently delivering high-quality household shifting, office relocation, car carrier transport, and bike logistics.
-          </p>
-          <p class="about-paragraph">
-            Headquartered at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, with a dedicated branch office in Sector 12/A, Bokaro, our company operates a state-of-the-art fleet of weather-proof, GPS-enabled containerized vehicles. Whether you are moving locally within Ranchi (Lalpur, Kanke Road, Ratu Road, Doranda, Bariatu, Hinoo, Morabadi, Namkum) or relocating intercity across India, our trained logistics professionals handle every single box with utmost reverence and safety.
+          <span class="section-tag" style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Established Leadership</span>
+          <h2 class="section-title" style="font-size: 2.2rem; color: #0b132b; font-weight: 800; margin: 8px 0 20px 0;">
+            Jharkhand's Premier Choice for <span style="color: #d32f2f;">Packers and Movers</span>
+          </h2>
+
+          <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 18px;">
+            Welcome to <strong>Shree Ashirwad Packers and Movers</strong>, your trusted partner for stress-free, professional, zero-damage household shifting and commercial relocation services across Eastern India. Founded under the visionary leadership of <strong>Mr. Ajit Kumar Gupta</strong>, our organization has spent over 15 years building an unshakeable reputation as the most reliable moving enterprise in Jharkhand.
           </p>
 
-          <div class="story-highlights-grid">
-            <div class="story-highlight-item">
-              <div class="story-highlight-icon">
-                <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-5.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
-              </div>
-              <div class="story-highlight-text">
-                <h4>IBA Approved GST Billing</h4>
-                <p>100% compliant claim-ready documentation for corporate & defense employees.</p>
+          <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 18px;">
+            Headquartered at Daladali Chowk, Ranchi, with operational branches at Vidyanagar Road (Harmu), Sector 12/A (Bokaro), and Sakchi/Bistupur (Jamshedpur), our company operates a state-of-the-art fleet of weather-proof, GPS-enabled containerized transport vehicles. Whether you are moving locally within Ranchi (Lalpur, Kanke Road, Ratu Road, Doranda, Bariatu, Hinoo, Morabadi, Namkum) or Jamshedpur (Bistupur, Sakchi, Mango, Kadma, Telco, Sonari, Adityapur), or relocating intercity to Kolkata, Patna, Delhi, Bangalore, or Mumbai, our trained logistics crew handles every item with absolute care.
+          </p>
+
+          <p style="color: #475569; font-size: 1rem; line-height: 1.8; margin-bottom: 25px;">
+            Over the past decade and a half, we have successfully executed over 25,000 household relocations, 1,200 office moves, and 5,000+ car and bike shipping orders. Our core strength lies in combining 7-layer industrial grade protective packaging with 100% transparent IBA-approved GST documentation, guaranteeing full reimbursement acceptance for government employees, defense personnel, bank officers, and corporate executives.
+          </p>
+
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; background: #f8fafc; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0;">
+            <div style="display: flex; gap: 12px; align-items: flex-start;">
+              <div style="background: #d32f2f; color: #fff; width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.1rem; flex-shrink: 0;">✓</div>
+              <div>
+                <h4 style="font-size: 1rem; color: #0b132b; font-weight: 700; margin-bottom: 4px;">IBA Approved GST Bills</h4>
+                <p style="font-size: 0.88rem; color: #64748b; margin: 0; line-height: 1.5;">Official claim-ready documentation for public and private sector employees.</p>
               </div>
             </div>
 
-            <div class="story-highlight-item">
-              <div class="story-highlight-icon">
-                <svg width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zM6 18.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm13.5-9l1.96 2.5H17V9.5h2.5zm-1.5 9c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg>
-              </div>
-              <div class="story-highlight-text">
-                <h4>50+ Modern Enclosed Trucks</h4>
-                <p>Customized dust-proof and waterproof containerized moving trucks.</p>
+            <div style="display: flex; gap: 12px; align-items: flex-start;">
+              <div style="background: #f59e0b; color: #fff; width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.1rem; flex-shrink: 0;">🚚</div>
+              <div>
+                <h4 style="font-size: 1rem; color: #0b132b; font-weight: 700; margin-bottom: 4px;">50+ Weather Containers</h4>
+                <p style="font-size: 0.88rem; color: #64748b; margin: 0; line-height: 1.5;">Customized dust-proof and waterproof containerized trucks.</p>
               </div>
             </div>
           </div>
@@ -71,96 +83,131 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <!-- Right Side: Trust & Badge Card with Verified E-E-A-T Govt Details -->
-        <div class="about-trust-card">
-          <div class="trust-badge-circle">
-            <span class="trust-years">15+</span>
-            <span class="trust-label">Years of Trust</span>
+        <div class="about-trust-card" style="background: #070d1e; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; color: #ffffff; box-shadow: 0 15px 35px rgba(0,0,0,0.2);">
+          
+          <div style="text-align: center; margin-bottom: 25px;">
+            <div style="display: inline-block; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); width: 80px; height: 80px; border-radius: 50%; line-height: 80px; font-weight: 800; font-size: 2.2rem; color: #fff; font-family: 'Poppins', sans-serif;">
+              15+
+            </div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: #ffffff; margin-top: 10px;">Years of Unbroken Trust</h3>
+            <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Serving Ranchi, Jamshedpur &amp; All India</p>
           </div>
-          <h3 class="trust-card-title">Verified Business Leadership &amp; Govt Licenses</h3>
-          <ul class="trust-features-list">
-            <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg>
+
+          <h4 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 15px; text-transform: uppercase; border-bottom: 1px solid rgba(245,158,11,0.2); padding-bottom: 8px;">
+            Government Registrations &amp; Licenses
+          </h4>
+
+          <ul style="list-style: none; padding: 0; margin: 0 0 25px 0; font-size: 0.92rem; color: #cbd5e1; line-height: 1.8;">
+            <li style="margin-bottom: 10px; display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">👤</span>
               <span><strong>Proprietor &amp; Founder:</strong> Mr. Ajit Kumar Gupta</span>
             </li>
-            <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+            <li style="margin-bottom: 10px; display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">📄</span>
               <span><strong>GSTIN Reg. No.:</strong> 20BIPPG5094Q1ZP (Govt of India)</span>
             </li>
-            <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-5.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
-              <span><strong>Ranchi Municipal Trade License:</strong> RAN37010821197380 (Reg: 97380)</span>
+            <li style="margin-bottom: 10px; display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">🏛️</span>
+              <span><strong>Municipal Trade License:</strong> RAN37010821197380 (Reg: 97380)</span>
             </li>
-            <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+            <li style="margin-bottom: 10px; display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">📍</span>
               <span><strong>Head Office:</strong> Daladali Chowk, Ranchi - 834005</span>
             </li>
-            <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-              <span><strong>Branch Office:</strong> Road No. 1 Harmu / Vidyanagar Road, Ranchi - 834001</span>
+            <li style="margin-bottom: 10px; display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">📍</span>
+              <span><strong>Branch Office 1:</strong> Vidyanagar Road, Harmu, Ranchi - 834001</span>
             </li>
-            <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+            <li style="margin-bottom: 10px; display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">📍</span>
+              <span><strong>Branch Office 2:</strong> Sakchi Main Road, Jamshedpur - 831001</span>
+            </li>
+            <li style="margin-bottom: 10px; display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">✉️</span>
               <span><strong>Official Email:</strong> shreeashirwadpackers@gmail.com</span>
             </li>
-            <li>
-              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>
+            <li style="display: flex; gap: 10px;">
+              <span style="color: #f59e0b;">🌐</span>
               <span><strong>Official Portal:</strong> <a href="https://shreeashirwadpackersandmovers.com/" style="color: #f59e0b; text-decoration: underline;" target="_blank">shreeashirwadpackersandmovers.com</a></span>
             </li>
           </ul>
 
-          <div class="trust-cta-box">
-            <p>Need immediate relocation assistance?</p>
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-secondary" style="width: 100%;">
-              Call Us: <?php echo SITE_PHONE; ?>
+          <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 10px; text-align: center;">
+            <p style="font-size: 0.88rem; color: #cbd5e1; margin-bottom: 10px;">Need immediate shifting assistance?</p>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: block; padding: 12px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">
+              📞 Call Us: <?php echo SITE_PHONE; ?>
             </a>
           </div>
+
         </div>
 
       </div>
     </div>
   </section>
 
-  <!-- Mission, Vision & Quality Policy Section -->
-  <section class="about-mv-section">
+  <!-- Section 3: Company Growth & Journey Narrative -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Growth Journey</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        From Local Movers to <span style="color: #f59e0b;">Jharkhand's Most Trusted Logistics Brand</span>
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        When <strong>Shree Ashirwad Packers and Movers</strong> began operations in 2011, the relocation landscape in Jharkhand was fragmented and unorganized. Customers frequently faced hidden costs, damaged furniture due to improper hand loading, and delays caused by unreliable local trucks. Recognizing the acute need for standardized, trustworthy, and technologically enabled shifting services, Mr. Ajit Kumar Gupta established a company grounded in absolute transparency, professional training, and customer-first integrity.
+      </p>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        Starting with two dedicated container trucks and a core team of experienced packers, we introduced standardized 7-layer packaging techniques to Ranchi and Jamshedpur. By replacing generic single-layer cardboard with multi-layer bubble wrap, heavy 5-ply corrugated sheets, stretch wrapping, and custom wooden crating, we drastically reduced transit damages to virtually zero.
+      </p>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        As our reputation grew, government officers, bank managers, defense staff, and corporate executives began choosing Shree Ashirwad Packers and Movers for their official transfers. We formalized our IBA-compliant billing structures, providing genuine GST invoices, Lorry Receipts (LR), and itemized inventory lists that pass government audits effortlessly. Today, our company operates over 50 containerized vehicles, serving all 24 districts of Jharkhand and connecting over 200 inter-state routes across India.
+      </p>
+
+    </div>
+  </section>
+
+  <!-- Section 4: Mission, Vision & Quality Policy Section -->
+  <section class="about-mv-section" style="padding: 70px 0; background: #f8fafc;">
     <div class="container">
-      <div class="section-header text-center">
-        <span class="section-tag">Our Foundational Beliefs</span>
-        <h2 class="section-title">Guided by Integrity, Driven by <span>Excellence</span></h2>
-        <p class="section-description">How our commitment to quality has established us as the benchmark for <strong>packers and movers in ranchi</strong>.</p>
+      <div class="section-header text-center" style="max-width: 800px; margin: 0 auto 40px auto;">
+        <span class="section-tag" style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Our Foundational Beliefs</span>
+        <h2 class="section-title" style="font-size: 2.2rem; color: #0b132b; font-weight: 800; margin-top: 5px;">
+          Guided by Integrity, Driven by <span style="color: #d32f2f;">Excellence</span>
+        </h2>
+        <p class="section-description" style="color: #64748b; font-size: 0.98rem; margin-top: 8px;">
+          How our unyielding commitment to safety and quality has established us as the benchmark for <strong>packers and movers in Ranchi and Jamshedpur</strong>.
+        </p>
       </div>
 
-      <div class="about-mv-grid">
+      <div class="about-mv-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
         
         <!-- Mission Card -->
-        <div class="mv-card mission-card">
-          <div class="mv-icon-box">
-            <svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
-          </div>
-          <h3 class="mv-card-title">Our Mission</h3>
-          <p class="mv-card-desc">
-            To provide families and businesses in Ranchi with smooth, stress-free, and 100% damage-free relocation services. We aim to revolutionize the logistics experience by using premium multi-layer protective packaging, transparent cost estimates, and punctual delivery schedules across India.
+        <div style="background: #ffffff; padding: 30px; border-radius: 14px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="background: rgba(211, 47, 47, 0.1); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #d32f2f; margin-bottom: 15px;">🎯</div>
+          <h3 style="font-size: 1.25rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">Our Mission</h3>
+          <p style="color: #64748b; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            To provide families and businesses across Jharkhand with smooth, stress-free, and 100% damage-free relocation services. We aim to revolutionize the logistics experience by combining multi-layer protective packaging, transparent upfront written estimates, and punctual delivery schedules on every route.
           </p>
         </div>
 
         <!-- Vision Card -->
-        <div class="mv-card vision-card">
-          <div class="mv-icon-box">
-            <svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
-          </div>
-          <h3 class="mv-card-title">Our Vision</h3>
-          <p class="mv-card-desc">
-            To become eastern India’s most technologically advanced and customer-revered relocation logistics brand. We continuously innovate our fleet, staff training, and tracking protocols so that every client selecting <strong>packers and movers in ranchi</strong> enjoys absolute peace of mind.
+        <div style="background: #ffffff; padding: 30px; border-radius: 14px; border-top: 4px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="background: rgba(245, 158, 11, 0.1); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #f59e0b; margin-bottom: 15px;">👁️</div>
+          <h3 style="font-size: 1.25rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">Our Vision</h3>
+          <p style="color: #64748b; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            To become Eastern India’s most technologically advanced, customer-revered relocation brand. We continuously innovate our container fleet, staff training programs, and live GPS tracking protocols so that every client enjoys absolute peace of mind.
           </p>
         </div>
 
         <!-- Quality Policy Card -->
-        <div class="mv-card policy-card">
-          <div class="mv-icon-box">
-            <svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
-          </div>
-          <h3 class="mv-card-title">Quality Assurance</h3>
-          <p class="mv-card-desc">
-            We adhere strictly to IBA-approved packing protocols and ISO-grade safety standards. From fragile glassware to heavy furniture, every item undergoes custom crating, waterproof wrapping, and systematic labeling supervised by experienced move directors.
+        <div style="background: #ffffff; padding: 30px; border-radius: 14px; border-top: 4px solid #d32f2f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="background: rgba(211, 47, 47, 0.1); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #d32f2f; margin-bottom: 15px;">🛡️</div>
+          <h3 style="font-size: 1.25rem; color: #0b132b; margin-bottom: 10px; font-weight: 700;">Quality Assurance</h3>
+          <p style="color: #64748b; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            We adhere strictly to IBA-approved packing protocols and ISO-grade safety standards. From fragile glassware and Smart TVs to heavy wooden wardrobes, every item undergoes custom crating, waterproof wrapping, and systematic room labeling supervised by experienced move directors.
           </p>
         </div>
 
@@ -168,93 +215,188 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Core Pillars of Service Section -->
-  <section class="about-pillars-section">
+  <!-- Section 5: Core Pillars of Service Section -->
+  <section class="about-pillars-section" style="padding: 70px 0; background: #ffffff;">
     <div class="container">
-      <div class="section-header text-center">
-        <span class="section-tag">Core Strengths</span>
-        <h2 class="section-title">The 4 Pillars Behind Our <span>Success</span></h2>
-        <p class="section-description">What sets Shree Ashirwad apart from standard <strong>packers and movers in ranchi</strong>.</p>
+      <div class="section-header text-center" style="max-width: 800px; margin: 0 auto 40px auto;">
+        <span class="section-tag" style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Core Strengths</span>
+        <h2 class="section-title" style="font-size: 2.2rem; color: #0b132b; font-weight: 800; margin-top: 5px;">The 4 Pillars Behind Our <span style="color: #d32f2f;">Success</span></h2>
+        <p class="section-description" style="color: #64748b; font-size: 0.98rem; margin-top: 8px;">What sets Shree Ashirwad apart from standard <strong>packers and movers in Ranchi and Jamshedpur</strong>.</p>
       </div>
 
-      <div class="about-pillars-grid">
+      <div class="about-pillars-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
         
-        <div class="pillar-card">
-          <div class="pillar-number">01</div>
-          <h3 class="pillar-title">7-Layer Material Shield</h3>
-          <p class="pillar-desc">
-            We utilize heavy-duty corrugated sheets, air-bubble wraps, waterproof stretch films, foam corners, and wooden crates to guarantee zero transit damage.
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; text-align: center;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #d32f2f; font-family: 'Poppins', sans-serif; margin-bottom: 8px;">01</div>
+          <h3 style="font-size: 1.1rem; color: #0b132b; font-weight: 700; margin-bottom: 8px;">7-Layer Material Shield</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">
+            We utilize heavy-duty corrugated sheets, air-bubble wraps, waterproof stretch films, foam corners, and custom wooden crates to guarantee zero transit damage.
           </p>
         </div>
 
-        <div class="pillar-card">
-          <div class="pillar-number">02</div>
-          <h3 class="pillar-title">Professional Uniformed Crew</h3>
-          <p class="pillar-desc">
-            Our packers and loaders undergo background checks and rigorous training in heavy lifting, furniture disassembly/reassembly, and polite customer care.
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; text-align: center;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif; margin-bottom: 8px;">02</div>
+          <h3 style="font-size: 1.1rem; color: #0b132b; font-weight: 700; margin-bottom: 8px;">Uniformed In-House Crew</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">
+            Our packers and loaders undergo background verification and rigorous training in heavy lifting, furniture disassembly/reassembly, and polite customer care.
           </p>
         </div>
 
-        <div class="pillar-card">
-          <div class="pillar-number">03</div>
-          <h3 class="pillar-title">Dedicated GPS Fleet</h3>
-          <p class="pillar-desc">
-            We never rely on unauthorized third-party trucks. Our company owns and manages all enclosed container transport vehicles with real-time GPS tracking.
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; text-align: center;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #d32f2f; font-family: 'Poppins', sans-serif; margin-bottom: 8px;">03</div>
+          <h3 style="font-size: 1.1rem; color: #0b132b; font-weight: 700; margin-bottom: 8px;">Dedicated GPS Fleet</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">
+            We never rely on unauthorized third-party trucks. Our company owns and manages all enclosed container transport vehicles with real-time GPS tracking hardware.
           </p>
         </div>
 
-        <div class="pillar-card">
-          <div class="pillar-number">04</div>
-          <h3 class="pillar-title">Transparent & Honest Billing</h3>
-          <p class="pillar-desc">
-            No last-minute surcharges or hidden costs. We provide clear, itemized GST bills accepted by all government, PSU, defense, and private corporate claims departments.
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; text-align: center;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif; margin-bottom: 8px;">04</div>
+          <h3 style="font-size: 1.1rem; color: #0b132b; font-weight: 700; margin-bottom: 8px;">Transparent GST Billing</h3>
+          <p style="color: #64748b; font-size: 0.88rem; line-height: 1.6; margin: 0;">
+            No last-minute surcharges or hidden costs. We provide clear, itemized GST bills accepted by all government, PSU, defense, bank, and corporate claims departments.
           </p>
         </div>
 
       </div>
+    </div>
+  </section>
+
+  <!-- Section 6: Comprehensive Service Portfolio -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Service Portfolio</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Full-Spectrum Relocation Solutions Across <span style="color: #f59e0b;">Jharkhand &amp; Pan-India</span>
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Our infrastructure is equipped to handle relocations of any scale or complexity. Key specialized divisions include:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 30px;">
+        
+        <div style="background: #101c40; padding: 22px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">🏡 Household Shifting &amp; Home Move</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Complete door-to-door domestic shifting including furniture dismantling, multi-layer wrapping, safe loading, truck transport, unloading, unboxing, and furniture reassembly.
+          </p>
+        </div>
+
+        <div style="background: #101c40; padding: 22px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">🏢 Corporate &amp; Office Relocation</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Systematic moving of IT hardware, office workstations, confidential files, conference furniture, and executive cabins with zero operational downtime.
+          </p>
+        </div>
+
+        <div style="background: #101c40; padding: 22px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">🚗 Enclosed Car Shipping</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Covered hydraulic car trailer carriers equipped with safety wheel locks for scratch-free door-to-door automobile transport across India.
+          </p>
+        </div>
+
+        <div style="background: #101c40; padding: 22px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">🏍️ Two-Wheeler / Bike Courier</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Multi-layer protective wrapping using air-bubble rolls, paddy straw padding, and corrugated sheets for scratch-proof motorcycle transport.
+          </p>
+        </div>
+
+        <div style="background: #101c40; padding: 22px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">📦 Wooden Crating &amp; Heavy Cargo</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Custom wooden crate fabrication for delicate glass dining tables, marble temples, LED TVs, paintings, and heavy industrial machinery.
+          </p>
+        </div>
+
+        <div style="background: #101c40; padding: 22px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">🏬 Secure Warehouse Storage</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Clean, CCTV-monitored, moisture-free, pest-controlled storage facilities in Ranchi and Jamshedpur for short-term or long-term household goods holding.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 7: Important Hubs & Regional Operations -->
+  <section style="padding: 70px 0; background: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 35px;">
+        <span class="section-tag" style="color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Regional Footprint</span>
+        <h2 style="font-size: 2.2rem; color: #0b132b; font-weight: 800; margin-top: 5px;">
+          Key Operational Centers in <span style="color: #d32f2f;">Jharkhand</span>
+        </h2>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.15rem; color: #0b132b; font-weight: 700; margin-bottom: 8px;">Ranchi Headquarters</h3>
+          <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6; margin-bottom: 12px;">
+            Head office at Daladali Chowk and Harmu Vidyanagar Road, managing capital city moving and inter-district routes.
+          </p>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
+            Explore Ranchi Packers →
+          </a>
+        </div>
+
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.15rem; color: #0b132b; font-weight: 700; margin-bottom: 8px;">Jamshedpur Hub</h3>
+          <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6; margin-bottom: 12px;">
+            Sakchi Main Road office managing steel city relocations, Tata company staff transfers, and industrial cargo.
+          </p>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
+            Explore Jamshedpur Packers →
+          </a>
+        </div>
+
+        <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0;">
+          <h3 style="font-size: 1.15rem; color: #0b132b; font-weight: 700; margin-bottom: 8px;">Bokaro Steel City Branch</h3>
+          <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6; margin-bottom: 12px;">
+            Sector 12/A office providing specialized moving services for BSL township employees and Chas commercial areas.
+          </p>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-bokaro" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
+            Explore Bokaro Services →
+          </a>
+        </div>
+
+      </div>
+
     </div>
   </section>
 
   <!-- Final Call To Action Banner -->
-  <section class="cta-banner-section">
-    <div class="container">
-      <div class="cta-banner-card">
-        <span class="cta-tag">Book Jharkhand's Top Movers</span>
-        <h2 class="cta-title">Ready to Move With the Most Trusted <span>Packers and Movers in Ranchi</span>?</h2>
-        <p class="cta-description">
-          Contact our Ranchi head office today for a quick custom estimate and experience zero-hassle household or office shifting.
-        </p>
+  <section class="cta-banner-section" style="padding: 70px 0; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff; border-top: 1.5px solid rgba(245, 158, 11, 0.4);">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      <span class="cta-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Jharkhand's Premier Movers
+      </span>
+      <h2 class="cta-title" style="font-size: 2.3rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Ready to Move With <span style="color: #f59e0b;">Shree Ashirwad Packers and Movers</span>?
+      </h2>
+      <p class="cta-description" style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Contact our Ranchi head office or Jamshedpur branch today for a quick custom estimate and experience zero-hassle household or office shifting.
+      </p>
 
-        <div class="cta-buttons-wrapper">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-secondary">
-            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
-            Call Now: <?php echo SITE_PHONE; ?>
-          </a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." target="_blank" class="btn btn-whatsapp-green">
-            <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-1.137 4.156 4.29-1.127z"/></svg>
-            Chat on WhatsApp
-          </a>
-          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline">
-            Get Custom Quote
-          </a>
-        </div>
-
-        <div class="cta-trust-highlights">
-          <span class="cta-trust-item">
-            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-            100% Safe Multi-Layer Packing
-          </span>
-          <span class="cta-trust-item">
-            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-            IBA Approved GST Billing
-          </span>
-          <span class="cta-trust-item">
-            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-            Live GPS Tracking
-          </span>
-        </div>
-
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
+          📞 Call Now: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          💬 Chat on WhatsApp
+        </a>
+        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+          📍 Contact Us
+        </a>
       </div>
+
     </div>
   </section>
 

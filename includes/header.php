@@ -82,14 +82,16 @@ require_once __DIR__ . '/config.php';
     "@graph": [
       {
         "@type": "MovingCompany",
-        "@id": "https://shreeashirwadpackersandmovers.com/#organization",
+        "@id": "<?php echo SITE_URL; ?>#organization",
         "name": "Shree Ashirwad Packers and Movers",
         "alternateName": "Packers and Movers <?php echo htmlspecialchars($target_city); ?>",
         "image": "<?php echo SITE_URL; ?>assets/images/logo.png",
         "telephone": "<?php echo SITE_PHONE_RAW; ?>",
         "email": "<?php echo SITE_EMAIL; ?>",
-        "url": "https://shreeashirwadpackersandmovers.com/",
+        "url": "<?php echo SITE_URL; ?>",
         "priceRange": "\u20b9\u20b9",
+        "currenciesAccepted": "INR",
+        "paymentAccepted": "Cash, Credit Card, Debit Card, UPI, Net Banking",
         "address": [
           {
             "@type": "PostalAddress",
@@ -127,12 +129,12 @@ require_once __DIR__ . '/config.php';
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "@id": "https://shreeashirwadpackersandmovers.com/#service-household-shifting",
+                "@id": "<?php echo SITE_URL; ?>#service-household-shifting",
                 "name": "Household Shifting in <?php echo htmlspecialchars($target_city); ?>",
                 "description": "Complete home relocation services in <?php echo htmlspecialchars($target_city); ?> with 7-layer bubble wrap packing, furniture disassembly, enclosed container truck transport, and room-by-room setup at destination.",
                 "serviceType": "Household Shifting",
                 "provider": {
-                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                  "@id": "<?php echo SITE_URL; ?>#organization"
                 },
                 "areaServed": {
                   "@type": "City",
@@ -144,12 +146,12 @@ require_once __DIR__ . '/config.php';
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "@id": "https://shreeashirwadpackersandmovers.com/#service-office-shifting",
+                "@id": "<?php echo SITE_URL; ?>#service-office-shifting",
                 "name": "Office and Commercial Shifting in <?php echo htmlspecialchars($target_city); ?>",
                 "description": "Zero-downtime corporate office relocation in <?php echo htmlspecialchars($target_city); ?> with anti-static IT hardware packing, tagged file inventory, and weekend or overnight shifting execution.",
                 "serviceType": "Office Shifting",
                 "provider": {
-                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                  "@id": "<?php echo SITE_URL; ?>#organization"
                 },
                 "areaServed": {
                   "@type": "City",
@@ -161,12 +163,12 @@ require_once __DIR__ . '/config.php';
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "@id": "https://shreeashirwadpackersandmovers.com/#service-car-transport",
+                "@id": "<?php echo SITE_URL; ?>#service-car-transport",
                 "name": "Car Transport in <?php echo htmlspecialchars($target_city); ?>",
                 "description": "Safe enclosed hydraulic car carrier transport from <?php echo htmlspecialchars($target_city); ?> to all Indian cities with zero mileage addition, doorstep pickup and delivery, and scratch-free guarantee.",
                 "serviceType": "Car Transportation",
                 "provider": {
-                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                  "@id": "<?php echo SITE_URL; ?>#organization"
                 },
                 "areaServed": {
                   "@type": "City",
@@ -178,12 +180,12 @@ require_once __DIR__ . '/config.php';
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "@id": "https://shreeashirwadpackersandmovers.com/#service-bike-transport",
+                "@id": "<?php echo SITE_URL; ?>#service-bike-transport",
                 "name": "Bike Transport in <?php echo htmlspecialchars($target_city); ?>",
                 "description": "Scratch-free bike transport from <?php echo htmlspecialchars($target_city); ?> with paddy straw padding, corrugated wrap, and belt-locked enclosed container truck delivery pan-India.",
                 "serviceType": "Bike Transportation",
                 "provider": {
-                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                  "@id": "<?php echo SITE_URL; ?>#organization"
                 },
                 "areaServed": {
                   "@type": "City",
@@ -195,12 +197,12 @@ require_once __DIR__ . '/config.php';
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "@id": "https://shreeashirwadpackersandmovers.com/#service-warehouse-storage",
+                "@id": "<?php echo SITE_URL; ?>#service-warehouse-storage",
                 "name": "Warehouse and Storage in <?php echo htmlspecialchars($target_city); ?>",
                 "description": "Secure short-term and long-term warehouse storage in <?php echo htmlspecialchars($target_city); ?> with 24/7 CCTV surveillance, pest control, moisture protection, and flexible rental plans.",
                 "serviceType": "Warehouse Storage",
                 "provider": {
-                  "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+                  "@id": "<?php echo SITE_URL; ?>#organization"
                 },
                 "areaServed": {
                   "@type": "City",
@@ -219,7 +221,7 @@ require_once __DIR__ . '/config.php';
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://shreeashirwadpackersandmovers.com/"
+            "item": "<?php echo SITE_URL; ?>"
           },
           {
             "@type": "ListItem",
@@ -239,7 +241,7 @@ require_once __DIR__ . '/config.php';
           "@id": "<?php echo htmlspecialchars($canonical_url); ?>#breadcrumb"
         },
         "isPartOf": {
-          "@id": "https://shreeashirwadpackersandmovers.com/#organization"
+          "@id": "<?php echo SITE_URL; ?>#organization"
         }
       }
 <?php if (isset($faq_list) && is_array($faq_list) && count($faq_list) > 0): ?>,

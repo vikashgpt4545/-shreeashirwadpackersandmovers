@@ -4,6 +4,12 @@
     # Prevent Directory Browsing
     Options -Indexes
 
+    # Force HTTPS for production domain (Skip on localhost/127.0.0.1)
+    RewriteCond %{HTTP_HOST} !^localhost [NC]
+    RewriteCond %{HTTP_HOST} !^127\.0\.0\.1 [NC]
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
     # Allow existing files and directories to pass through
     RewriteCond %{REQUEST_FILENAME} -f [OR]
     RewriteCond %{REQUEST_FILENAME} -d
