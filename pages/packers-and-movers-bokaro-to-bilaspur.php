@@ -8,7 +8,7 @@ $page_keywords = "packers and movers bokaro to bilaspur, bokaro to bilaspur pack
 $page_city = "Bokaro";
 
 $faq_list = [
-    ['q' => 'How much does household shifting cost from Bokaro to Bilaspur?', 'a' => 'Interstate house shifting from Bokaro to Bilaspur ranges from â‚¹14,000 to â‚¹22,000 for 1BHK, â‚¹20,000 to â‚¹32,000 for 2BHK, and â‚¹28,000 to â‚¹44,000 for 3BHK houses.'],
+    ['q' => 'How much does household shifting cost from Bokaro to Bilaspur?', 'a' => 'Interstate house shifting from Bokaro to Bilaspur ranges from &#8377;14,000 to &#8377;22,000 for 1BHK, &#8377;20,000 to &#8377;32,000 for 2BHK, and &#8377;28,000 to &#8377;44,000 for 3BHK houses.'],
     ['q' => 'How long does transit take from Bokaro to Bilaspur?', 'a' => 'The distance from Bokaro to Bilaspur (Chhattisgarh) is approx 520-560 km. Dedicated container trucks deliver within 2 to 3 days.'],
     ['q' => 'Are your GST bills valid for BSL SAIL & Chhattisgarh government employee claims?', 'a' => 'Yes, we provide 100% genuine IBA-compliant GST bills, LR copies, itemized inventory lists, and receipts accepted by BSL SAIL, railways, defence, SECL, and govt departments.'],
     ['q' => 'Do you provide car transport from Bokaro to Bilaspur?', 'a' => 'Yes, we transport cars using enclosed hydraulic car trailers with safety wheel locks for scratch-free highway transit.'],
@@ -51,7 +51,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            Bokaro â†’ Bilaspur (Chhattisgarh) Route
+            Bokaro &rarr; Bilaspur (Chhattisgarh) Route
           </span>
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Reliable <span style="color: #f59e0b;">Packers and Movers Bokaro to Bilaspur</span>
@@ -60,8 +60,8 @@ require_once __DIR__ . '/../includes/header.php';
             Shree Ashirwad Packers and Movers provides trusted household shifting, car shipping, bike transport, and commercial relocation from Bokaro Steel City to Bilaspur, Chhattisgarh. 7-layer protective packaging, 100% IBA-approved GST claim bills, and GPS tracking.
           </p>
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ“ž Call: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Bokaro%20to%20Bilaspur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?></a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Bokaro%20to%20Bilaspur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
           </div>
         </div>
 
@@ -98,11 +98,11 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #cbd5e1;">Official GST invoices and LR copies for employee transfer claims.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ“¦ 7-Layer Highway Wrapping</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-phone-alt"></i>¦ 7-Layer Highway Wrapping</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Air bubble rolls, corrugated sheets, stretch wrap, and wooden crates.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸš— Car &amp; Bike Carrier</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-car"></i> Car &amp; Bike Carrier</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Enclosed car trailers and 5-layer wrapped bike transport.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -157,7 +157,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px;">
         <div style="background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;"><i class="fas fa-car"></i> Enclosed Car Carrier Trailers</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -204,15 +204,15 @@ require_once __DIR__ . '/../includes/header.php';
               <th style="padding: 14px;">Shifting Type</th>
               <th style="padding: 14px;">Packaging Tier</th>
               <th style="padding: 14px;">Transit Time</th>
-              <th style="padding: 14px;">Estimated Cost (â‚¹)</th>
+              <th style="padding: 14px;">Estimated Cost (&#8377;)</th>
             </tr>
           </thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Flat Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹14,000 - â‚¹22,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK House Shifting</td><td style="padding: 12px;">5-Layer Highway</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹20,000 - â‚¹32,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Villa / House</td><td style="padding: 12px;">7-Layer + Crating</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹28,000 - â‚¹44,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Bubble Wrap + Box</td><td style="padding: 12px;">2 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹3,800 - â‚¹6,500</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Transport</td><td style="padding: 12px;">Hydraulic Trailer</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹10,500 - â‚¹18,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Flat Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">&#8377;14,000 - &#8377;22,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK House Shifting</td><td style="padding: 12px;">5-Layer Highway</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">&#8377;20,000 - &#8377;32,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Villa / House</td><td style="padding: 12px;">7-Layer + Crating</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">&#8377;28,000 - &#8377;44,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Bubble Wrap + Box</td><td style="padding: 12px;">2 Days</td><td style="padding: 12px; color: #f59e0b;">&#8377;3,800 - &#8377;6,500</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Transport</td><td style="padding: 12px;">Hydraulic Trailer</td><td style="padding: 12px;">2 - 3 Days</td><td style="padding: 12px; color: #f59e0b;">&#8377;10,500 - &#8377;18,000</td></tr>
           </tbody>
         </table>
       </div>
@@ -319,9 +319,9 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 15px;">Book Safe Shifting from <span style="color: #f59e0b;">Bokaro to Bilaspur</span></h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">Get written guaranteed pricing and 100% IBA-compliant bills today.</p>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">ðŸ“ž Call: <?php echo SITE_PHONE; ?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20from%20Bokaro%20to%20Bilaspur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">ðŸ’¬ WhatsApp</a>
-        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">ðŸ“ Contact Office</a>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?></a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20from%20Bokaro%20to%20Bilaspur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);"><i class="fas fa-phone-alt"></i> Contact Office</a>
       </div>
     </div>
   </section>
@@ -347,33 +347,33 @@ require_once __DIR__ . '/../includes/header.php';
           <tbody style="color: #cbd5e1; font-size: 0.95rem;">
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">1 BHK Complete Household Shifting</td>
-              <td style="padding: 14px 16px;">â‚¹3,500 - â‚¹6,500</td>
-              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,000</td>
-              <td style="padding: 14px 16px;">â‚¹14,500 - â‚¹22,000</td>
+              <td style="padding: 14px 16px;">&#8377;3,500 - &#8377;6,500</td>
+              <td style="padding: 14px 16px;">&#8377;8,500 - &#8377;14,000</td>
+              <td style="padding: 14px 16px;">&#8377;14,500 - &#8377;22,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">2 BHK Complete Household Shifting</td>
-              <td style="padding: 14px 16px;">â‚¹5,500 - â‚¹9,500</td>
-              <td style="padding: 14px 16px;">â‚¹12,000 - â‚¹20,000</td>
-              <td style="padding: 14px 16px;">â‚¹18,500 - â‚¹28,000</td>
+              <td style="padding: 14px 16px;">&#8377;5,500 - &#8377;9,500</td>
+              <td style="padding: 14px 16px;">&#8377;12,000 - &#8377;20,000</td>
+              <td style="padding: 14px 16px;">&#8377;18,500 - &#8377;28,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">3 BHK Complete Villa / Apartment</td>
-              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,500</td>
-              <td style="padding: 14px 16px;">â‚¹18,000 - â‚¹28,000</td>
-              <td style="padding: 14px 16px;">â‚¹26,000 - â‚¹38,000</td>
+              <td style="padding: 14px 16px;">&#8377;8,500 - &#8377;14,500</td>
+              <td style="padding: 14px 16px;">&#8377;18,000 - &#8377;28,000</td>
+              <td style="padding: 14px 16px;">&#8377;26,000 - &#8377;38,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Two-Wheeler Bike / Scooter Shipping</td>
-              <td style="padding: 14px 16px;">â‚¹1,500 - â‚¹2,500</td>
-              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
-              <td style="padding: 14px 16px;">â‚¹4,500 - â‚¹7,500</td>
+              <td style="padding: 14px 16px;">&#8377;1,500 - &#8377;2,500</td>
+              <td style="padding: 14px 16px;">&#8377;3,000 - &#8377;5,000</td>
+              <td style="padding: 14px 16px;">&#8377;4,500 - &#8377;7,500</td>
             </tr>
             <tr>
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Four-Wheeler Car Carrier Transport</td>
-              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
-              <td style="padding: 14px 16px;">â‚¹7,500 - â‚¹12,000</td>
-              <td style="padding: 14px 16px;">â‚¹12,500 - â‚¹22,000</td>
+              <td style="padding: 14px 16px;">&#8377;3,000 - &#8377;5,000</td>
+              <td style="padding: 14px 16px;">&#8377;7,500 - &#8377;12,000</td>
+              <td style="padding: 14px 16px;">&#8377;12,500 - &#8377;22,000</td>
             </tr>
           </tbody>
         </table>
@@ -427,7 +427,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“„ 100% Valid Tax Invoicing</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>„ 100% Valid Tax Invoicing</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our GSTIN (20BIPPG5094Q1ZP) and trade license numbers are verified on official portals, guaranteeing seamless tax credit verification and reimbursement processing.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
@@ -448,7 +448,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“¦ High-Density Air Bubble Cushioning</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>¦ High-Density Air Bubble Cushioning</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">80-micron virgin air-bubble sheets wrapping TV screens, glass mirrors, polished wooden furniture, and delicate crockery for shock absorption.</p>
         </div>
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">

@@ -404,33 +404,33 @@ require_once __DIR__ . '/../includes/header.php';
           <tbody style="color: #cbd5e1; font-size: 0.95rem;">
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">1 BHK Complete Household Shifting</td>
-              <td style="padding: 14px 16px;">â‚¹3,500 - â‚¹6,500</td>
-              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,000</td>
-              <td style="padding: 14px 16px;">â‚¹14,500 - â‚¹22,000</td>
+              <td style="padding: 14px 16px;">&#8377;3,500 - &#8377;6,500</td>
+              <td style="padding: 14px 16px;">&#8377;8,500 - &#8377;14,000</td>
+              <td style="padding: 14px 16px;">&#8377;14,500 - &#8377;22,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">2 BHK Complete Household Shifting</td>
-              <td style="padding: 14px 16px;">â‚¹5,500 - â‚¹9,500</td>
-              <td style="padding: 14px 16px;">â‚¹12,000 - â‚¹20,000</td>
-              <td style="padding: 14px 16px;">â‚¹18,500 - â‚¹28,000</td>
+              <td style="padding: 14px 16px;">&#8377;5,500 - &#8377;9,500</td>
+              <td style="padding: 14px 16px;">&#8377;12,000 - &#8377;20,000</td>
+              <td style="padding: 14px 16px;">&#8377;18,500 - &#8377;28,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">3 BHK Complete Villa / Apartment</td>
-              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,500</td>
-              <td style="padding: 14px 16px;">â‚¹18,000 - â‚¹28,000</td>
-              <td style="padding: 14px 16px;">â‚¹26,000 - â‚¹38,000</td>
+              <td style="padding: 14px 16px;">&#8377;8,500 - &#8377;14,500</td>
+              <td style="padding: 14px 16px;">&#8377;18,000 - &#8377;28,000</td>
+              <td style="padding: 14px 16px;">&#8377;26,000 - &#8377;38,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Two-Wheeler Bike / Scooter Shipping</td>
-              <td style="padding: 14px 16px;">â‚¹1,500 - â‚¹2,500</td>
-              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
-              <td style="padding: 14px 16px;">â‚¹4,500 - â‚¹7,500</td>
+              <td style="padding: 14px 16px;">&#8377;1,500 - &#8377;2,500</td>
+              <td style="padding: 14px 16px;">&#8377;3,000 - &#8377;5,000</td>
+              <td style="padding: 14px 16px;">&#8377;4,500 - &#8377;7,500</td>
             </tr>
             <tr>
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Four-Wheeler Car Carrier Transport</td>
-              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
-              <td style="padding: 14px 16px;">â‚¹7,500 - â‚¹12,000</td>
-              <td style="padding: 14px 16px;">â‚¹12,500 - â‚¹22,000</td>
+              <td style="padding: 14px 16px;">&#8377;3,000 - &#8377;5,000</td>
+              <td style="padding: 14px 16px;">&#8377;7,500 - &#8377;12,000</td>
+              <td style="padding: 14px 16px;">&#8377;12,500 - &#8377;22,000</td>
             </tr>
           </tbody>
         </table>
@@ -484,7 +484,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“„ 100% Valid Tax Invoicing</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>„ 100% Valid Tax Invoicing</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our GSTIN (20BIPPG5094Q1ZP) and trade license numbers are verified on official portals, guaranteeing seamless tax credit verification and reimbursement processing.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
@@ -505,7 +505,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“¦ High-Density Air Bubble Cushioning</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>¦ High-Density Air Bubble Cushioning</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">80-micron virgin air-bubble sheets wrapping TV screens, glass mirrors, polished wooden furniture, and delicate crockery for shock absorption.</p>
         </div>
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">

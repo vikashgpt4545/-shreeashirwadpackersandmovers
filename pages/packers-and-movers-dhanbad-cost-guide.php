@@ -8,11 +8,11 @@ $page_keywords = "packers and movers in dhanbad cost guide, movers and packers d
 $page_city = "Dhanbad";
 
 $faq_list = [
-    ['q' => 'How much does local household shifting cost in Dhanbad?', 'a' => 'Local home shifting rates in Dhanbad typically range from â‚¹3,000 to â‚¹5,500 for a 1BHK apartment, â‚¹5,500 to â‚¹9,500 for a 2BHK home, and â‚¹9,500 to â‚¹15,000 for a 3BHK villa, depending on total goods volume and packing tier.'],
+    ['q' => 'How much does local household shifting cost in Dhanbad?', 'a' => 'Local home shifting rates in Dhanbad typically range from &#8377;3,000 to &#8377;5,500 for a 1BHK apartment, &#8377;5,500 to &#8377;9,500 for a 2BHK home, and &#8377;9,500 to &#8377;15,000 for a 3BHK villa, depending on total goods volume and packing tier.'],
     ['q' => 'Are there any hidden fees added on the final moving day in Dhanbad?', 'a' => 'No! At Shree Ashirwad Packers and Movers, our written quotation is 100% fixed and inclusive of packing materials, loading labor, freight, toll taxes, and door unloading.'],
     ['q' => 'How is intercity moving cost calculated from Dhanbad to other cities?', 'a' => 'Intercity rates are calculated based on highway distance along GT Road NH-19, container truck type (dedicated vs shared part-load), packing materials used, toll taxes, and optional transit insurance coverage.'],
     ['q' => 'Do you provide IBA approved GST bills for BCCL corporate claim reimbursement?', 'a' => 'Yes, we issue 100% genuine IBA-approved GST consignment invoices, Lorry Receipts (LR), itemized inventory lists, and official receipts accepted by BCCL, Coal India, Railways, Banks, and defense units.'],
-    ['q' => 'How much does bike transport cost from Dhanbad?', 'a' => 'Local bike transit within Dhanbad costs approximately â‚¹1,500 to â‚¹2,500, while intercity bike transport to nearby states ranges between â‚¹2,500 and â‚¹5,500 with multi-layer bubble wrap protection.'],
+    ['q' => 'How much does bike transport cost from Dhanbad?', 'a' => 'Local bike transit within Dhanbad costs approximately &#8377;1,500 to &#8377;2,500, while intercity bike transport to nearby states ranges between &#8377;2,500 and &#8377;5,500 with multi-layer bubble wrap protection.'],
     ['q' => 'Does floor elevation affect the shifting quotation in Dhanbad apartments?', 'a' => 'Yes, moving goods to or from upper floors (3rd floor and above) without service elevators requires additional labor to carry heavy items up staircases, which is factored into the quote.'],
     ['q' => 'Is pre-move home inspection free of cost in Dhanbad?', 'a' => 'Yes, we offer 100% free physical home visits or virtual video surveys across Dhanbad to assess your inventory and provide a precise quotation.'],
     ['q' => 'How much is transit insurance for household relocation from Dhanbad?', 'a' => 'Transit insurance is typically calculated at 3% of the total declared value of your household goods, covering full financial risk against unforeseen road hazards.'],
@@ -57,10 +57,10 @@ require_once __DIR__ . '/../includes/header.php';
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              ðŸ“ž Call Now: <?php echo SITE_PHONE; ?>
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20costs%20in%20Dhanbad." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              ðŸ’¬ Chat on WhatsApp
+              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
           </div>
 
@@ -142,7 +142,7 @@ require_once __DIR__ . '/../includes/header.php';
           
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">ðŸ“¦</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i>¦</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Total Goods Volume &amp; Truck Size</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               The volume of furniture, electronics, and boxes dictates whether a 14ft container, 17ft Eicher, or 20ft container vehicle is required.
@@ -178,7 +178,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 5 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">ðŸš—</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-car"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Vehicle Transport Additions</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Adding a two-wheeler (Royal Enfield, scooter) or four-wheeler (hatchback, SUV) in enclosed car carriers or dedicated bike slots adds to the overall bill.
@@ -187,7 +187,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 6 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">ðŸ“„</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i>„</div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Transit Insurance &amp; GST Compliance</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Optional 3% transit insurance covering declared goods value against highway risks, combined with 18% GST invoice compliance for corporate claim submission.
@@ -223,7 +223,7 @@ require_once __DIR__ . '/../includes/header.php';
             Ideal for bachelor professionals, students, or small families moving minimal household goods locally within Dhanbad. Includes single bed, small fridge, washing machine, TV, and 10 to 15 luggage boxes.
           </p>
           <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Estimated Rate Range: â‚¹3,000 â€“ â‚¹5,500</li>
+            <li>Estimated Rate Range: &#8377;3,000 â€“ &#8377;5,500</li>
             <li>Vehicle Deployed: Tata Ace / Bolero Pickup</li>
             <li>Crew Deployed: 2 to 3 trained packers</li>
           </ul>
@@ -235,7 +235,7 @@ require_once __DIR__ . '/../includes/header.php';
             Standard 2BHK family relocation within Dhanbad. Includes 2 double beds, 4-seater dining table, sofa set, refrigerator, washing machine, 2 AC units, and 20 to 30 carton boxes.
           </p>
           <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Estimated Rate Range: â‚¹5,500 â€“ â‚¹9,500</li>
+            <li>Estimated Rate Range: &#8377;5,500 â€“ &#8377;9,500</li>
             <li>Vehicle Deployed: 14ft Covered Container Truck</li>
             <li>Crew Deployed: 3 to 4 expert packers</li>
           </ul>
@@ -247,7 +247,7 @@ require_once __DIR__ . '/../includes/header.php';
             Comprehensive large family home or bungalow shifting in Dhanbad. Includes 3 double beds, 6-seater dining set, heavy sofa sectional, double-door fridge, electronics, and 35 to 50 boxes.
           </p>
           <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Estimated Rate Range: â‚¹9,500 â€“ â‚¹15,000</li>
+            <li>Estimated Rate Range: &#8377;9,500 â€“ &#8377;15,000</li>
             <li>Vehicle Deployed: 17ft or 19ft Container Truck</li>
             <li>Crew Deployed: 5 to 6 specialized packers</li>
           </ul>
@@ -259,8 +259,8 @@ require_once __DIR__ . '/../includes/header.php';
             Local or intercity motorcycle and scooter packing and transport. Features paddy straw padding, bubble wrap, corrugated sheets, and heavy nylon tie-down belts inside enclosed trucks.
           </p>
           <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Local Transit Rate: â‚¹1,500 â€“ â‚¹2,500</li>
-            <li>Intercity Transit Rate: â‚¹2,500 â€“ â‚¹5,500</li>
+            <li>Local Transit Rate: &#8377;1,500 â€“ &#8377;2,500</li>
+            <li>Intercity Transit Rate: &#8377;2,500 â€“ &#8377;5,500</li>
             <li>Zero scratch guarantee included</li>
           </ul>
         </div>
@@ -271,7 +271,7 @@ require_once __DIR__ . '/../includes/header.php';
             Safe vehicle transportation for hatchbacks, sedans, and SUVs traveling intercity from Dhanbad to major Indian metro cities using specialized covered hydraulic car carrier trailers.
           </p>
           <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Intercity Rate Range: â‚¹4,800 â€“ â‚¹9,000</li>
+            <li>Intercity Rate Range: &#8377;4,800 â€“ &#8377;9,000</li>
             <li>Includes pre-transit condition inspection</li>
             <li>Real-time GPS tracking included</li>
           </ul>
@@ -308,7 +308,7 @@ require_once __DIR__ . '/../includes/header.php';
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bank More Commercial Hub</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Primary commercial trading center and business hub in central Dhanbad.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-bankmore-dhanbad" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Bank More â†’
+            Packers and Movers Bank More &rarr;
           </a>
         </div>
 
@@ -316,7 +316,7 @@ require_once __DIR__ . '/../includes/header.php';
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hirapur Educational Sector</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Key educational quarter near IIT ISM campus and Court Road.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-hirapur-dhanbad" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Hirapur â†’
+            Packers and Movers Hirapur &rarr;
           </a>
         </div>
 
@@ -324,7 +324,7 @@ require_once __DIR__ . '/../includes/header.php';
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Saraidhela Healthcare Hub</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Modern residential colonies, apartments, and hospital belt.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-saraidhela-dhanbad" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Saraidhela â†’
+            Packers and Movers Saraidhela &rarr;
           </a>
         </div>
 
@@ -332,7 +332,7 @@ require_once __DIR__ . '/../includes/header.php';
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Jharia Coalfield Township</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Historic mining township and commercial trading center.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-jharia-dhanbad" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Jharia â†’
+            Packers and Movers Jharia &rarr;
           </a>
         </div>
       </div>
@@ -354,7 +354,7 @@ require_once __DIR__ . '/../includes/header.php';
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhanbad to Patna</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container shifting rates connecting Dhanbad to Patna Bihar.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-dhanbad-to-patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Dhanbad to Patna Shifting Services â†’
+            Dhanbad to Patna Shifting Services &rarr;
           </a>
         </div>
 
@@ -362,7 +362,7 @@ require_once __DIR__ . '/../includes/header.php';
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhanbad to Kolkata</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct express container route via Grand Trunk Road NH-19 to West Bengal.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-dhanbad-to-kolkata" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Dhanbad to Kolkata Shifting Services â†’
+            Dhanbad to Kolkata Shifting Services &rarr;
           </a>
         </div>
       </div>
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-car"></i> Enclosed Car Carrier Trailers</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -505,13 +505,13 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="overflow-x: auto;">
         <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
-          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (â‚¹)</th></tr></thead>
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (&#8377;)</th></tr></thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹3,500 - â‚¹7,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹7,500 - â‚¹13,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹13,500 - â‚¹21,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,200 - â‚¹4,800</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,000 - â‚¹13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;3,500 - &#8377;7,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;7,500 - &#8377;13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;13,500 - &#8377;21,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;2,200 - &#8377;4,800</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;6,000 - &#8377;13,500</td></tr>
           </tbody>
         </table>
       </div>
@@ -536,13 +536,13 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          ðŸ“ž Call Now: <?php echo SITE_PHONE; ?>
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
         </a>
         <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20shifting%20quote." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          ðŸ’¬ Chat on WhatsApp
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
         </a>
         <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
-          ðŸ“ Contact Office
+          <i class="fas fa-phone-alt"></i> Contact Office
         </a>
       </div>
 

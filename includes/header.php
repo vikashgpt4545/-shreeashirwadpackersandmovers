@@ -73,6 +73,9 @@ require_once __DIR__ . '/config.php';
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap">
 
+  <!-- FontAwesome Icons CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
   <!-- CSS Stylesheet -->
   <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.css">
 

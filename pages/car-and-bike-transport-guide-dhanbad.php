@@ -10,8 +10,8 @@ $page_city = "Dhanbad";
 $faq_list = [
     ['q' => 'How are motorcycles and bikes packed for transport from Dhanbad?', 'a' => 'Motorcycles receive a 4-layer packaging treatment including paddy straw padding on petrol tanks, air-bubble wrap, 5-ply corrugated sheets, and heavy nylon tie-down straps.'],
     ['q' => 'How are cars transported long-distance from Dhanbad across India?', 'a' => 'Cars are loaded into specialized covered hydraulic car carrier trailers, secured with safety wheel chocks, and tracked via live GPS hardware.'],
-    ['q' => 'How much does bike transport cost from Dhanbad to other cities?', 'a' => 'Local bike shipping within Dhanbad costs â‚¹1,500 to â‚¹2,500, while intercity bike transport to major Indian cities ranges from â‚¹2,500 to â‚¹5,500.'],
-    ['q' => 'How much does car transport cost from Dhanbad?', 'a' => 'Intercity car transport from Dhanbad ranges between â‚¹4,800 and â‚¹9,000 depending on vehicle size (hatchback, sedan, SUV) and destination distance.'],
+    ['q' => 'How much does bike transport cost from Dhanbad to other cities?', 'a' => 'Local bike shipping within Dhanbad costs &#8377;1,500 to &#8377;2,500, while intercity bike transport to major Indian cities ranges from &#8377;2,500 to &#8377;5,500.'],
+    ['q' => 'How much does car transport cost from Dhanbad?', 'a' => 'Intercity car transport from Dhanbad ranges between &#8377;4,800 and &#8377;9,000 depending on vehicle size (hatchback, sedan, SUV) and destination distance.'],
     ['q' => 'Should I keep petrol in the bike tank before shipping?', 'a' => 'Keep only 1 to 2 liters of petrol in the tank to allow loading/unloading while adhering to safety regulations against flammable liquids in transit.'],
     ['q' => 'What documents are required for vehicle shipping from Dhanbad?', 'a' => 'You need a copy of the Vehicle Registration Certificate (RC), valid Vehicle Insurance Policy, Pollution Certificate (PUC), and owner Identity Proof.'],
     ['q' => 'Can I pack personal luggage inside my car during transport?', 'a' => 'Personal items weighing up to 20-30 kg can be placed in the car trunk, but valuable electronics or liquids are strictly prohibited.'],
@@ -57,10 +57,10 @@ require_once __DIR__ . '/../includes/header.php';
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              ðŸ“ž Call Now: <?php echo SITE_PHONE; ?>
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20information%20about%20car%20and%20bike%20transport%20from%20Dhanbad." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              ðŸ’¬ Chat on WhatsApp
+              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
           </div>
 
@@ -119,7 +119,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">ðŸš— Four-Wheeler Safety Protocol</div>
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;"><i class="fas fa-car"></i> Four-Wheeler Safety Protocol</div>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
             Cars are driven onto specialized covered hydraulic car carrier trailers. Wheels are locked using heavy-duty wheel chocks and safety straps, protecting vehicle paint from road dust, gravel, and weather exposure.
           </p>
@@ -170,7 +170,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-car"></i> Enclosed Car Carrier Trailers</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -240,13 +240,13 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="overflow-x: auto;">
         <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
-          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (â‚¹)</th></tr></thead>
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (&#8377;)</th></tr></thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹3,500 - â‚¹7,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹7,500 - â‚¹13,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹13,500 - â‚¹21,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,200 - â‚¹4,800</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,000 - â‚¹13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;3,500 - &#8377;7,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;7,500 - &#8377;13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;13,500 - &#8377;21,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;2,200 - &#8377;4,800</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;6,000 - &#8377;13,500</td></tr>
           </tbody>
         </table>
       </div>
@@ -294,7 +294,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“ž Instant Phone &amp; Video Estimates</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i> Instant Phone &amp; Video Estimates</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Speak directly with our move coordinators or schedule a virtual video walkthrough of your home for accurate, binding cost calculation without unexpected surcharges.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -338,7 +338,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“„ Official Policy Documentation</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>„ Official Policy Documentation</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">We issue valid transit insurance policies issued by recognized national insurance partners before truck dispatch, declaring full asset value and itemized coverage.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -392,10 +392,10 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          ðŸ“ž Call Now: <?php echo SITE_PHONE; ?>
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
         </a>
         <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20vehicle%20shipping%20quote." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          ðŸ’¬ Chat on WhatsApp
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
         </a>
       </div>
 
@@ -458,33 +458,33 @@ require_once __DIR__ . '/../includes/header.php';
           <tbody style="color: #cbd5e1; font-size: 0.95rem;">
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">1 BHK Complete Household Shifting</td>
-              <td style="padding: 14px 16px;">â‚¹3,500 - â‚¹6,500</td>
-              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,000</td>
-              <td style="padding: 14px 16px;">â‚¹14,500 - â‚¹22,000</td>
+              <td style="padding: 14px 16px;">&#8377;3,500 - &#8377;6,500</td>
+              <td style="padding: 14px 16px;">&#8377;8,500 - &#8377;14,000</td>
+              <td style="padding: 14px 16px;">&#8377;14,500 - &#8377;22,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">2 BHK Complete Household Shifting</td>
-              <td style="padding: 14px 16px;">â‚¹5,500 - â‚¹9,500</td>
-              <td style="padding: 14px 16px;">â‚¹12,000 - â‚¹20,000</td>
-              <td style="padding: 14px 16px;">â‚¹18,500 - â‚¹28,000</td>
+              <td style="padding: 14px 16px;">&#8377;5,500 - &#8377;9,500</td>
+              <td style="padding: 14px 16px;">&#8377;12,000 - &#8377;20,000</td>
+              <td style="padding: 14px 16px;">&#8377;18,500 - &#8377;28,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">3 BHK Complete Villa / Apartment</td>
-              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,500</td>
-              <td style="padding: 14px 16px;">â‚¹18,000 - â‚¹28,000</td>
-              <td style="padding: 14px 16px;">â‚¹26,000 - â‚¹38,000</td>
+              <td style="padding: 14px 16px;">&#8377;8,500 - &#8377;14,500</td>
+              <td style="padding: 14px 16px;">&#8377;18,000 - &#8377;28,000</td>
+              <td style="padding: 14px 16px;">&#8377;26,000 - &#8377;38,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Two-Wheeler Bike / Scooter Shipping</td>
-              <td style="padding: 14px 16px;">â‚¹1,500 - â‚¹2,500</td>
-              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
-              <td style="padding: 14px 16px;">â‚¹4,500 - â‚¹7,500</td>
+              <td style="padding: 14px 16px;">&#8377;1,500 - &#8377;2,500</td>
+              <td style="padding: 14px 16px;">&#8377;3,000 - &#8377;5,000</td>
+              <td style="padding: 14px 16px;">&#8377;4,500 - &#8377;7,500</td>
             </tr>
             <tr>
               <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Four-Wheeler Car Carrier Transport</td>
-              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
-              <td style="padding: 14px 16px;">â‚¹7,500 - â‚¹12,000</td>
-              <td style="padding: 14px 16px;">â‚¹12,500 - â‚¹22,000</td>
+              <td style="padding: 14px 16px;">&#8377;3,000 - &#8377;5,000</td>
+              <td style="padding: 14px 16px;">&#8377;7,500 - &#8377;12,000</td>
+              <td style="padding: 14px 16px;">&#8377;12,500 - &#8377;22,000</td>
             </tr>
           </tbody>
         </table>
@@ -506,7 +506,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“„ 100% Valid Tax Invoicing</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>„ 100% Valid Tax Invoicing</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our GSTIN (20BIPPG5094Q1ZP) and trade license numbers are verified on official portals, guaranteeing seamless tax credit verification and reimbursement processing.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
@@ -528,7 +528,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“¦ High-Density Air Bubble Cushioning</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>¦ High-Density Air Bubble Cushioning</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">80-micron virgin air-bubble sheets wrapping TV screens, glass mirrors, polished wooden furniture, and delicate crockery for shock absorption.</p>
         </div>
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">

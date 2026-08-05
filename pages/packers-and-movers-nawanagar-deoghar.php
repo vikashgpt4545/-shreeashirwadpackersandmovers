@@ -54,8 +54,8 @@ require_once __DIR__ . '/../includes/header.php';
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">Best <span style="color: #f59e0b;">Packers and Movers in Nawanagar Deoghar</span></h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">Looking for professional, damage-free household shifting, car transportation, bike moving, or office relocation services in Deoghar (Babadham)? Shree Ashirwad Packers and Movers provides 7-layer protective packaging, active GPS container tracking, full transit insurance, and genuine IBA-approved GST bills for corporate and government claims.</p>
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;">ðŸ“ž Call Now: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Packers+and+Movers+in+Nawanagar+Deoghar" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
+            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Packers+and+Movers+in+Nawanagar+Deoghar" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
           </div>
         </div>
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
@@ -94,13 +94,13 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Estimated Charges & Cost Breakdown for Packers and Movers in Nawanagar Deoghar</h2>
       <div style="overflow-x: auto; margin-top: 20px;">
         <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
-          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px;">Shifting Type</th><th style="padding: 14px;">Packaging Grade</th><th style="padding: 14px;">Vehicle Type</th><th style="padding: 14px;">Estimated Price (â‚¹)</th></tr></thead>
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px;">Shifting Type</th><th style="padding: 14px;">Packaging Grade</th><th style="padding: 14px;">Vehicle Type</th><th style="padding: 14px;">Estimated Price (&#8377;)</th></tr></thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">Pickup Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹4,500 - â‚¹8,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Shifting</td><td style="padding: 12px;">Premium 5-Layer</td><td style="padding: 12px;">14ft Sealed Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹8,500 - â‚¹14,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Shifting</td><td style="padding: 12px;">7-Layer Heavy Crate</td><td style="padding: 12px;">17ft/19ft Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹14,500 - â‚¹22,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Paddy + Bubble Wrap</td><td style="padding: 12px;">Enclosed Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,500 - â‚¹5,500</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Carrier Shifting</td><td style="padding: 12px;">Wheel-Chock Safety Locks</td><td style="padding: 12px;">Covered Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,500 - â‚¹14,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">Pickup Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;4,500 - &#8377;8,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Shifting</td><td style="padding: 12px;">Premium 5-Layer</td><td style="padding: 12px;">14ft Sealed Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;8,500 - &#8377;14,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Shifting</td><td style="padding: 12px;">7-Layer Heavy Crate</td><td style="padding: 12px;">17ft/19ft Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;14,500 - &#8377;22,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Paddy + Bubble Wrap</td><td style="padding: 12px;">Enclosed Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;2,500 - &#8377;5,500</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Carrier Shifting</td><td style="padding: 12px;">Wheel-Chock Safety Locks</td><td style="padding: 12px;">Covered Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;6,500 - &#8377;14,500</td></tr>
           </tbody>
         </table>
       </div>
@@ -116,12 +116,12 @@ require_once __DIR__ . '/../includes/header.php';
 
       <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Related Packers and Movers Services & Locations</h2>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Deoghar Hub â†’</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi â†’</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad â†’</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro â†’</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Ranchi Shifting â†’</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-patna" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Patna Shifting â†’</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Deoghar Hub &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Ranchi Shifting &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-patna" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Patna Shifting &rarr;</a></div>
       </div>
 
       
@@ -164,7 +164,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-car"></i> Enclosed Car Carrier Trailers</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -234,13 +234,13 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="overflow-x: auto;">
         <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
-          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (â‚¹)</th></tr></thead>
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (&#8377;)</th></tr></thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹3,500 - â‚¹7,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹7,500 - â‚¹13,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹13,500 - â‚¹21,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,200 - â‚¹4,800</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,000 - â‚¹13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;3,500 - &#8377;7,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;7,500 - &#8377;13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;13,500 - &#8377;21,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;2,200 - &#8377;4,800</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;6,000 - &#8377;13,500</td></tr>
           </tbody>
         </table>
       </div>
@@ -261,8 +261,8 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Ready to Shift with Packers and Movers in Nawanagar Deoghar?</h2>
         <p style="color: #cbd5e1; margin-top: 10px;">Contact our team today for a guaranteed fixed price quote with 100% damage-free delivery.</p>
         <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ“ž Call Now: <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20Packers+and+Movers+in+Nawanagar+Deoghar" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20Packers+and+Movers+in+Nawanagar+Deoghar" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
         </div>
       </div>
     </div>
