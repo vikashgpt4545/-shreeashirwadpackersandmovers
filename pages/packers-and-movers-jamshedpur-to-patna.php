@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Jamshedpur to Patna | 8409531615";
@@ -86,10 +86,10 @@ require_once __DIR__ . '/../includes/header.php';
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
-              📞 Call Now: <?php echo SITE_PHONE; ?>
+              ðŸ“ž Call Now: <?php echo SITE_PHONE; ?>
             </a>
             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Jamshedpur%20to%20Patna." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              💬 Chat on WhatsApp
+              ðŸ’¬ Chat on WhatsApp
             </a>
           </div>
         </div>
@@ -110,7 +110,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="move_to" class="form-control" value="Patna" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now ➔
+              Get Instant Estimate Now âž”
             </button>
           </form>
         </div>
@@ -181,27 +181,27 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏡 Jamshedpur to Patna Household Shifting</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ¡ Jamshedpur to Patna Household Shifting</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Complete house shifting services covering furniture disassembly, fragile packing, loading, and unpacking in Patna.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏛️ Govt Officer &amp; Corporate Relocation</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ›ï¸ Govt Officer &amp; Corporate Relocation</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Fast relocation solutions for government officers, PSU staff, and corporate executives transferring to Patna.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🚗 Closed Car Carrier Transport</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸš— Closed Car Carrier Transport</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Enclosed car container trailers for safe door-to-door car transport from Jamshedpur to Patna.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏍️ Two-Wheeler / Bike Shipping</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸï¸ Two-Wheeler / Bike Shipping</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Straw padding and corrugated box wrapping for scratch-free motorcycle transport to Patna.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">📦 Custom Wooden Box Crating</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ“¦ Custom Wooden Box Crating</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Solid wooden crate framing for glass tops, mandirs, LED TVs, and valuable artifacts on the Patna route.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">🏬 Safe Goods Storage Warehouse</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ¬ Safe Goods Storage Warehouse</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Clean, secure, moisture-free warehouse storage facility in Jamshedpur for temporary storage.</p>
         </div>
       </div>
@@ -250,14 +250,137 @@ require_once __DIR__ . '/../includes/header.php';
         <h3 style="font-size: 1.8rem; color: #0b132b; font-weight: 800;">Related <span style="color: #d32f2f;">Jamshedpur Shifting Routes</span> &amp; Areas</h3>
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Jamshedpur</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Bistupur</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Sakchi</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Mango</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-gaya" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Gaya</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Ranchi</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-hazaribagh" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Hazaribagh</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚛 Jamshedpur to Kolkata</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸ“ Movers in Jamshedpur</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸ“ Movers in Bistupur</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸ“ Movers in Sakchi</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸ“ Movers in Mango</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-gaya" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Gaya</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Ranchi</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-hazaribagh" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Hazaribagh</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Kolkata</a>
+      </div>
+    </div>
+  </section>
+
+  
+  <!-- Expanded Section: 7-Layer Highway Protective Packaging Specifications -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Packaging Engineering</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">7-Layer Protective Packaging Standards in , Jamshedpur</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Relocating households, corporate executive quarters, and commercial setups in , Jamshedpur requires heavy-duty protective material handling to safeguard goods against damage:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; margin-bottom: 30px;">
+        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 10px;">Layer 1 &amp; 2: Anti-Scratch Stretch Film &amp; Foam Padding</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Polished wooden surfaces, leather sofa sets, electronic display panels, and metallic refrigerator doors receive a primary wrap of non-adhesive anti-scratch stretch film followed by high-density polyethylene foam padding to cushion against surface abrasions.</p>
+        </div>
+        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 10px;">Layer 3 &amp; 4: 80-Micron Heavy Bubble Wrap &amp; Edge Guards</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item is enclosed within 80-micron heavy-duty shock-absorbing air-bubble film. All sharp furniture corners, table edges, and appliance borders are secured with L-shaped corrugated corner guards to prevent corner crushing.</p>
+        </div>
+        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 10px;">Layer 5 &amp; 6: 5-Ply Heavy Duty Corrugated Sheets &amp; Moisture Film</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Outer walls are covered with heavy 5-ply corrugated sheets taped with reinforced packing tape, and wrapped in waterproof polyethylene shrink film to protect against rain, dust, and humidity during transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 10px;">Layer 7: Custom Heavy Wooden Crating</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Fragile crockery cabinets, marble table tops, glass mirrors, large LED TVs, and delicate artwork receive on-site custom wooden crating built with solid timber frames and steel banding straps.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Expanded Section: Dedicated Vehicle Transport Logistics -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Automotive Transport</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Comprehensive Vehicle Transport & Relocation Services in , Jamshedpur</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        We offer complete car shipping and motorcycle transport solutions for residents moving in , Jamshedpur with zero odometer additions and complete safety:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px;">
+        <div style="background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
+        </div>
+        <div style="background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Expanded Section: IBA Approved GST Billing Documentation -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">IBA Approved GST Billing & Official Relocation Documentation in , Jamshedpur</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Tata Group executives, corporate officers, and bank staff shifting locally or intercity in , Jamshedpur receive official GST invoices and claim bills accepted for reimbursement:
+      </p>
+      <div style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 12px; font-weight: 700;">Included Employee Claim Documentation Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8;">
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing, loading, freight &amp; GST tax breakdown.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with official vehicle registration and driver details.</li>
+          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers and condition reports.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> on official company letterhead.</li>
+          <li><strong>Transit Insurance Policy Document</strong> issued by authorized insurance partners.</li>
+          <li><strong>Stamped Payment Receipt</strong> for corporate HR &amp; audit clearance.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  
+  <!-- Expanded Section: 4-Protocol Safety Framework -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocols</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">4-Protocol Zero-Damage Execution System for Jamshedpur to Patna</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 30px;">For all local and intercity relocations originating from Jamshedpur, we implement a mandatory 4-protocol safety framework applied to every single shipment without exception:</p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px;">
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.4rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">Protocol 1: Multi-Layer Material Shielding</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item undergoes multi-layer wrapping combining air-bubble film, waterproof shrink wrap, 5-ply corrugated sheets, and corner foam guards. Delicate items receive custom wooden crating built on-site at your property before loading.</p>
+        </div>
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.4rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">Protocol 2: Container Anchorage System</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Inside our closed container trucks, items are anchored using heavy-duty nylon safety belts attached to internal wall rings. This prevents item friction, movement, or tipping over during highway transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.4rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">Protocol 3: Live Satellite GPS Tracking</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Our container trucks are equipped with active GPS tracking hardware, allowing clients to receive real-time location updates throughout the entire transit journey.</p>
+        </div>
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.4rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">Protocol 4: Comprehensive Transit Insurance</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">We back all moves originating from Jamshedpur with 100% full-value transit insurance policy documentation, covering all declared household items, electronics, and vehicles against unexpected highway risks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+  <!-- Expanded Section: Tata Group & Corporate Relocation Policy -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Corporate Standard</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Tata Group &amp; PSU Corporate Relocation Compliance for Patna Moves</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        As Jamshedpur is the flagship industrial hub for Tata Steel, Tata Motors, Tinplate Company, Tata Power, TSLPL, and TSUISL, executive relocations to and from Patna require adherence to corporate HR reimbursement guidelines. Shree Ashirwad Packers and Movers provides standard IBA-certified document packages structured specifically to pass corporate HR audit verifications without delays:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px;">
+        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 10px;">Itemized Rate Quotations &amp; Work Orders</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">We issue advance formal quotations with complete cost breakdowns across packing material, labor, transit vehicle freight, transit insurance, and GST tax codes to fulfill corporate procurement procedures.</p>
+        </div>
+        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 10px;">Weight Bridge (Dharam Kanta) Slip Verification</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">For corporate claims requiring certified gross and tare vehicle weight evidence, we provide computer-generated weight bridge certificates stamped at accredited weighbridges before departure from Jamshedpur.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -289,8 +412,8 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="text-align: center; max-width: 800px; margin: 0 auto;">
         <h2 style="font-size: 2.1rem; font-weight: 800; margin-bottom: 15px;">Book Jamshedpur to Patna Shifting Today</h2>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Jamshedpur%20to%20Patna." target="_blank" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ“ž Call: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Jamshedpur%20to%20Patna." target="_blank" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
         </div>
       </div>
     </div>
@@ -299,3 +422,6 @@ require_once __DIR__ . '/../includes/header.php';
 </main>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+
+
+

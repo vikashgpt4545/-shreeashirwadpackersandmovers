@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Bokaro to Rajkot | 8409531615";
@@ -8,7 +8,7 @@ $page_keywords = "packers and movers bokaro to rajkot, bokaro to rajkot packers 
 $page_city = "Bokaro";
 
 $faq_list = [
-    ['q' => 'How much does household shifting cost from Bokaro to Rajkot?', 'a' => 'Interstate house shifting from Bokaro to Rajkot ranges from ₹23,500 to ₹35,500 for 1BHK, ₹31,500 to ₹49,500 for 2BHK, and ₹43,500 to ₹71,000 for 3BHK houses.'],
+    ['q' => 'How much does household shifting cost from Bokaro to Rajkot?', 'a' => 'Interstate house shifting from Bokaro to Rajkot ranges from â‚¹23,500 to â‚¹35,500 for 1BHK, â‚¹31,500 to â‚¹49,500 for 2BHK, and â‚¹43,500 to â‚¹71,000 for 3BHK houses.'],
     ['q' => 'How long does transit take from Bokaro to Rajkot?', 'a' => 'The highway distance from Bokaro to Rajkot is approx 1,750 km. Dedicated container trucks deliver within 4 to 5 days.'],
     ['q' => 'Are your GST bills valid for BSL SAIL & corporate employee claims in Rajkot?', 'a' => 'Yes, we provide 100% genuine IBA-compliant GST bills, LR copies, itemized inventory lists, and money receipts accepted by BSL SAIL, central/state govt, defense, and industrial/engineering firms.'],
     ['q' => 'Do you provide car transport from Bokaro to Rajkot?', 'a' => 'Yes, we transport cars using enclosed hydraulic car trailers with safety wheel locks for scratch-free long-haul transit.'],
@@ -51,7 +51,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            Bokaro → Rajkot Route
+            Bokaro â†’ Rajkot Route
           </span>
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Reliable <span style="color: #f59e0b;">Packers and Movers Bokaro to Rajkot</span>
@@ -60,8 +60,8 @@ require_once __DIR__ . '/../includes/header.php';
             Shree Ashirwad Packers and Movers provides trusted household shifting, car shipping, bike transport, and commercial relocation from Bokaro Steel City to Rajkot, Gujarat. 7-layer protective packaging, 100% IBA-approved GST claim bills, and GPS tracking.
           </p>
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Bokaro%20to%20Rajkot." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ“ž Call: <?php echo SITE_PHONE; ?></a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Bokaro%20to%20Rajkot." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
           </div>
         </div>
 
@@ -90,27 +90,27 @@ require_once __DIR__ . '/../includes/header.php';
       
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🏠 Intercity Home Shifting</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ  Intercity Home Shifting</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Safe packing and container transit for 1/2/3 BHK houses to Rajkot.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🛡️ IBA Compliant Bills</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ›¡ï¸ IBA Compliant Bills</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Official GST invoices and LR copies for employee transfer claims.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">📦 7-Layer Highway Wrapping</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ“¦ 7-Layer Highway Wrapping</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Air bubble rolls, corrugated sheets, stretch wrap, and wooden crates.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🚗 Car &amp; Bike Carrier</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸš— Car &amp; Bike Carrier</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Enclosed car trailers and 5-layer wrapped bike transport.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🏢 Office Shifting</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ¢ Office Shifting</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Corporate IT desks, server racks, and office records transport.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">👨‍🔧 Full Setup Service</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ‘¨â€ðŸ”§ Full Setup Service</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Dismantling in Bokaro &amp; complete reassembly at Rajkot destination.</p>
         </div>
       </div>
@@ -151,15 +151,15 @@ require_once __DIR__ . '/../includes/header.php';
               <th style="padding: 14px;">Shifting Type</th>
               <th style="padding: 14px;">Packaging Tier</th>
               <th style="padding: 14px;">Transit Time</th>
-              <th style="padding: 14px;">Estimated Cost (₹)</th>
+              <th style="padding: 14px;">Estimated Cost (â‚¹)</th>
             </tr>
           </thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Flat Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">₹23,500 - ₹35,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK House Shifting</td><td style="padding: 12px;">5-Layer Highway</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">₹31,500 - ₹49,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Villa / House</td><td style="padding: 12px;">7-Layer + Crating</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">₹43,500 - ₹71,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Bubble Wrap + Box</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">₹6,000 - ₹9,800</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Transport</td><td style="padding: 12px;">Hydraulic Trailer</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">₹18,200 - ₹29,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Flat Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹23,500 - â‚¹35,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK House Shifting</td><td style="padding: 12px;">5-Layer Highway</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹31,500 - â‚¹49,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Villa / House</td><td style="padding: 12px;">7-Layer + Crating</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹43,500 - â‚¹71,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Bubble Wrap + Box</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹6,000 - â‚¹9,800</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Transport</td><td style="padding: 12px;">Hydraulic Trailer</td><td style="padding: 12px;">4 - 5 Days</td><td style="padding: 12px; color: #f59e0b;">â‚¹18,200 - â‚¹29,500</td></tr>
           </tbody>
         </table>
       </div>
@@ -171,16 +171,16 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; text-align: center; margin-bottom: 30px;">Popular Intercity Routes from Bokaro</h2>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
         <div style="background: #101c40; padding: 16px; border-radius: 8px;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-ahmedabad" style="color: #f59e0b; font-weight: 600;">Bokaro to Ahmedabad Shifting →</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-ahmedabad" style="color: #f59e0b; font-weight: 600;">Bokaro to Ahmedabad Shifting â†’</a>
         </div>
         <div style="background: #101c40; padding: 16px; border-radius: 8px;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-surat" style="color: #f59e0b; font-weight: 600;">Bokaro to Surat Shifting →</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-surat" style="color: #f59e0b; font-weight: 600;">Bokaro to Surat Shifting â†’</a>
         </div>
         <div style="background: #101c40; padding: 16px; border-radius: 8px;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-vadodara" style="color: #f59e0b; font-weight: 600;">Bokaro to Vadodara Shifting →</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-vadodara" style="color: #f59e0b; font-weight: 600;">Bokaro to Vadodara Shifting â†’</a>
         </div>
         <div style="background: #101c40; padding: 16px; border-radius: 8px;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-mumbai" style="color: #f59e0b; font-weight: 600;">Bokaro to Mumbai Shifting →</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-mumbai" style="color: #f59e0b; font-weight: 600;">Bokaro to Mumbai Shifting â†’</a>
         </div>
       </div>
     </div>
@@ -198,13 +198,136 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+  
+  <!-- Section: 7-Layer Highway Protective Packaging Specifications -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Packaging Engineering</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">7-Layer Protective Packaging Standards for Bokaro to Rajkot Transit</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Relocating long-distance from Bokaro to Rajkot requires robust multi-layer material handling to safeguard household items and commercial cargo against highway vibration, dust, and humidity:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 30px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 1 &amp; 2: Anti-Scratch Stretch Film &amp; Foam Padding</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Polished wooden surfaces, leather sofa sets, electronic display panels, and metallic refrigerator doors receive a primary wrap of non-adhesive anti-scratch stretch film followed by high-density polyethylene foam padding to cushion against surface abrasions.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 3 &amp; 4: 80-Micron Heavy Bubble Wrap &amp; Edge Guards</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item is enclosed within 80-micron heavy-duty shock-absorbing air-bubble film. All sharp furniture corners, table edges, and appliance borders are secured with L-shaped corrugated corner guards to prevent corner crushing.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 5 &amp; 6: 5-Ply Heavy Duty Corrugated Sheets &amp; Moisture Film</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Outer walls are covered with heavy 5-ply corrugated sheets taped with reinforced packing tape, and wrapped in waterproof polyethylene shrink film to protect against rain, dust, and humidity during highway transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 7: Custom Heavy Wooden Crating</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Fragile crockery cabinets, marble table tops, glass mirrors, large LED TVs, and delicate artwork receive on-site custom wooden crating built with solid timber frames and steel banding straps.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Dedicated Vehicle Transport Logistics -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Automotive Transport</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Specialized Car & Bike Carrier Services from Bokaro to Rajkot</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        We offer closed multi-deck hydraulic car trailers and 5-layer motorcycle wrapping for vehicle transport between Bokaro and Rajkot with zero odometer additions:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: IBA Approved GST Billing Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">IBA Approved GST Billing & Corporate Relocation Claims for Rajkot Moves</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Executives, government employees, bank staff, and defense officers moving from Bokaro to Rajkot receive 100% compliant IBA-approved claim billing for HR reimbursement:
+      </p>
+      <div style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 10px; padding: 20px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 10px; font-weight: 700;">Included Employee Claim Documentation Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8;">
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing, loading, freight &amp; GST tax breakdown.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with official vehicle registration and driver details.</li>
+          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers and condition reports.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> on official company letterhead.</li>
+          <li><strong>Transit Insurance Policy Document</strong> issued by authorized insurance partners.</li>
+          <li><strong>Stamped Payment Receipt</strong> for corporate HR &amp; audit clearance.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: 4-Protocol Zero-Damage Execution System -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocols</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">4-Protocol Zero-Damage Execution System for Bokaro to Rajkot</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">For all relocations originating from or terminating in this region, we enforce a mandatory 4-protocol safety framework applied to every single shipment without exception:</p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 1: Multi-Layer Material Shielding</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item undergoes multi-layer wrapping combining air-bubble film, waterproof shrink wrap, 5-ply corrugated sheets, and corner foam guards. Delicate items receive custom wooden crating built on-site before loading.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 2: Container Anchorage System</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Inside our closed container trucks, items are anchored using heavy-duty nylon safety belts attached to internal wall rings. This prevents item friction, movement, or tipping over during highway transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 3: Live Satellite GPS Tracking</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Our container trucks are equipped with active GPS tracking hardware, allowing clients to receive real-time location updates throughout the entire transit journey.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 4: Comprehensive Transit Insurance</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">We back all moves originating from this location with 100% full-value transit insurance policy documentation, covering all declared household items, electronics, and vehicles against unexpected highway risks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Standardized Shifting Charge Calculation & Rate Matrix -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">How Shifting Charges are Calculated for Bokaro to Rajkot Moves</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Relocation pricing is calculated based on total cargo volume (CFT), floor elevation, elevator availability, packaging material grade, vehicle type, and total road distance. Our binding quotes guarantee zero hidden fees:
+      </p>
+      <div style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (â‚¹)</th></tr></thead>
+          <tbody style="color: #cbd5e1; font-size: 0.9rem;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹3,500 - â‚¹7,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹7,500 - â‚¹13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹13,500 - â‚¹21,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,200 - â‚¹4,800</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,000 - â‚¹13,500</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
   <section class="cta-banner-section" style="padding: 70px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); text-align: center; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 15px;">Book Safe Shifting from <span style="color: #f59e0b;">Bokaro to Rajkot</span></h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">Get written guaranteed pricing and 100% IBA-compliant bills today.</p>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 30px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20from%20Bokaro%20to%20Rajkot." target="_blank" style="padding: 14px 30px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp</a>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 30px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ“ž Call: <?php echo SITE_PHONE; ?></a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20from%20Bokaro%20to%20Rajkot." target="_blank" style="padding: 14px 30px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ’¬ WhatsApp</a>
       </div>
     </div>
   </section>
@@ -225,3 +348,5 @@ function sendHeroWhatsAppLead(event, form) {
 </script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+
+

@@ -1,6 +1,15 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
+    # 301 Redirect Typo Slug Fixes (urls.txt reconciliation)
+    RewriteRule ^packers-and-movers-nirrsa-dhanbad/?$ /packers-and-movers-nirsa-dhanbad [R=301,L]
+    RewriteRule ^packers-and-movers-rohani-deoghar/?$ /packers-and-movers-rohini-deoghar [R=301,L]
+    RewriteRule ^packers-and-movers-jarmundi-border-deoghar/?$ /packers-and-movers-jarmundi-deoghar [R=301,L]
+    RewriteRule ^packers-and-movers-mahadeodekh-deoghar/?$ /packers-and-movers-mahadeopur-deoghar [R=301,L]
+    RewriteRule ^packers-and-movers-shankari-deoghar/?$ /packers-and-movers-shankarpur-deoghar [R=301,L]
+    RewriteRule ^packers-and-movers-tapasvan-deoghar/?$ /packers-and-movers-tapas-tapovan-deoghar [R=301,L]
+    RewriteRule ^packers-and-movers-devipur-deoghar/?$ /packers-and-movers-devi-pur-deoghar [R=301,L]
+
     # Prevent Directory Browsing
     Options -Indexes
 

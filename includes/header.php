@@ -61,6 +61,7 @@ require_once __DIR__ . '/config.php';
   <meta name="twitter:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>">
   <meta name="twitter:description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
   <meta name="twitter:image" content="<?php echo htmlspecialchars($og_image_url); ?>">
+  <meta name="twitter:site" content="@shreeashirwad">
   
   <!-- Site Icon (Favicon Swastik) -->
   <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">

@@ -48,13 +48,33 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
 
       <!-- Quick Lead Call Box -->
-      <div style="background: rgba(23, 42, 84, 0.6); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; max-width: 550px; margin: 0 auto;">
+      <div style="background: rgba(23, 42, 84, 0.6); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; max-width: 550px; margin: 0 auto 35px auto;">
         <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">Need Urgent Shifting Assistance in Ranchi?</h3>
         <p style="font-size: 0.95rem; color: #cbd5e1; margin-bottom: 15px;">Call our 24/7 Ranchi Helpline for immediate shifting estimates:</p>
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="font-size: 1.3rem; font-weight: 800; color: #ffffff; text-decoration: none;">
           📞 <?php echo SITE_PHONE; ?>
         </a>
       </div>
+
+      <!-- Popular Shifting Destinations & Services Grid -->
+      <div style="background: rgba(11, 19, 43, 0.8); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 30px; text-align: left; max-width: 750px; margin: 0 auto;">
+        <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 15px; border-bottom: 1px solid rgba(245, 158, 11, 0.2); padding-bottom: 8px;">
+          Popular Relocation Hubs &amp; Services
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers and Movers Ranchi</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Jamshedpur</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Dhanbad</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Bokaro</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Hazaribagh</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Deoghar</a>
+          <a href="<?php echo SITE_URL; ?>services" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🚚 Household Shifting Services</a>
+          <a href="<?php echo SITE_URL; ?>gallery" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🖼️ Real Shifting Photo Gallery</a>
+          <a href="<?php echo SITE_URL; ?>about" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🏢 About Our Company</a>
+          <a href="<?php echo SITE_URL; ?>sitemap" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🗺️ Complete HTML Sitemap</a>
+        </div>
+      </div>
+
 
     </div>
   </section>

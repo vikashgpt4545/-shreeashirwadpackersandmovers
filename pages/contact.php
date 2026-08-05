@@ -5,8 +5,76 @@ $page_title = "Contact Us | Packers and Movers in Ranchi | 8409531615";
 $page_desc = "Contact Shree Ashirwad Packers and Movers in Ranchi for fast household & office shifting quotes. Phone: (+91) 8409531615. Anandpuri Chowk, Harmu, Ranchi.";
 $page_keywords = DEFAULT_KEYWORDS;
 
+// Local Business Branch Office Structured Data Schema
+$branch_schema = [
+  "@context" => "https://schema.org",
+  "@type" => "MovingCompany",
+  "name" => "Shree Ashirwad Packers and Movers",
+  "url" => SITE_URL . "contact",
+  "telephone" => SITE_PHONE_RAW,
+  "email" => SITE_EMAIL,
+  "priceRange" => "₹₹",
+  "image" => SITE_URL . "assets/images/logo.png",
+  "address" => [
+    [
+      "@type" => "PostalAddress",
+      "streetAddress" => "Anandpuri Chowk, Vidyanagar Road, Harmu",
+      "addressLocality" => "Ranchi",
+      "addressRegion" => "Jharkhand",
+      "postalCode" => "834002",
+      "addressCountry" => "IN"
+    ],
+    [
+      "@type" => "PostalAddress",
+      "streetAddress" => "Bistupur Main Road, Near Voltas Building",
+      "addressLocality" => "Jamshedpur",
+      "addressRegion" => "Jharkhand",
+      "postalCode" => "831001",
+      "addressCountry" => "IN"
+    ],
+    [
+      "@type" => "PostalAddress",
+      "streetAddress" => "Sector 4 Main Market, Near City Centre",
+      "addressLocality" => "Bokaro Steel City",
+      "addressRegion" => "Jharkhand",
+      "postalCode" => "827004",
+      "addressCountry" => "IN"
+    ],
+    [
+      "@type" => "PostalAddress",
+      "streetAddress" => "Bank More, Near Birsa Munda Chowk",
+      "addressLocality" => "Dhanbad",
+      "addressRegion" => "Jharkhand",
+      "postalCode" => "826001",
+      "addressCountry" => "IN"
+    ],
+    [
+      "@type" => "PostalAddress",
+      "streetAddress" => "Matwari Main Road, Near St. Columba College",
+      "addressLocality" => "Hazaribagh",
+      "addressRegion" => "Jharkhand",
+      "postalCode" => "825301",
+      "addressCountry" => "IN"
+    ],
+    [
+      "@type" => "PostalAddress",
+      "streetAddress" => "VIP Chowk, Near Baba Baidyanath Temple",
+      "addressLocality" => "Deoghar",
+      "addressRegion" => "Jharkhand",
+      "postalCode" => "814112",
+      "addressCountry" => "IN"
+    ]
+  ]
+];
+
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
+
+<script type="application/ld+json">
+<?php echo json_encode($branch_schema, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?>
+</script>
+
 
 <main class="site-main">
 
@@ -176,7 +244,7 @@ function sendContactWhatsAppLead(event, form) {
     message += "\n- Requirements: " + extraMsg;
   }
   
-  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615?text=" + encodeURIComponent(message);
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
   window.location.href = whatsappUrl;
 }
 </script>

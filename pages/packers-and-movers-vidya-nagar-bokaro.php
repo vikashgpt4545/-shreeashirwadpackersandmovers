@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Vidya Nagar Bokaro | 8409531615";
@@ -8,14 +8,14 @@ $page_keywords = "packers and movers vidya nagar bokaro, packers and movers in v
 $page_city = "Bokaro";
 
 $faq_list = [
-    ['q' => 'How much does local home shifting cost in Vidya Nagar Bokaro?', 'a' => 'Local household shifting within Vidya Nagar Bokaro ranges from ₹3,500 to ₹7,500 for 1BHK, ₹6,500 to ₹12,500 for 2BHK, and ₹10,500 to ₹18,500 for 3BHK houses.'],
+    ['q' => 'How much does local home shifting cost in Vidya Nagar Bokaro?', 'a' => 'Local household shifting within Vidya Nagar Bokaro ranges from â‚¹3,500 to â‚¹7,500 for 1BHK, â‚¹6,500 to â‚¹12,500 for 2BHK, and â‚¹10,500 to â‚¹18,500 for 3BHK houses.'],
     ['q' => 'How fast can your team reach Vidya Nagar Bokaro for packing?', 'a' => 'Our local packing crew arrives at your Vidya Nagar residence within 30 to 45 minutes of booking confirmation.'],
     ['q' => 'Are your GST invoices valid for BSL SAIL employee transfer claims in Vidya Nagar?', 'a' => 'Yes, we issue 100% genuine IBA-compliant GST bills, LR copies, itemized inventory lists, and payment receipts accepted by BSL SAIL, railways, and central government departments.'],
     ['q' => 'Do you provide car transport from Vidya Nagar Bokaro to major cities?', 'a' => 'Yes, we operate enclosed hydraulic car trailers with safety wheel locks for scratch-free transit.'],
     ['q' => 'How are bikes and scooters packaged in Vidya Nagar?', 'a' => 'Two-wheelers receive 5-layer bubble wrap, corrugated sheets, foam padding, and handlebar guards before being loaded inside container trucks.'],
     ['q' => 'What packaging materials are used for household goods?', 'a' => 'We deploy heavy bubble rolls, 5-ply corrugated cartons, stretch film, edge guards, and custom wooden crating.'],
     ['q' => 'Is transit insurance included for intercity relocations?', 'a' => 'Yes, we provide 100% full-value transit insurance policy documentation protecting your household goods, electronics, and vehicles against all highway risks, accidents, and unforeseen events during transit.'],
-    ['q' => 'How early should I book shifting in Vidya Nagar Bokaro?', 'a' => 'We recommend booking 1 to 2 days prior to your preferred moving date to lock in your dedicated container truck, packing crew, and vehicle carrier slot — especially during month-end and transfer periods.'],
+    ['q' => 'How early should I book shifting in Vidya Nagar Bokaro?', 'a' => 'We recommend booking 1 to 2 days prior to your preferred moving date to lock in your dedicated container truck, packing crew, and vehicle carrier slot â€” especially during month-end and transfer periods.'],
     ['q' => 'Do you disassemble and reassemble furniture in Vidya Nagar?', 'a' => 'Yes, our experienced carpenters handle full disassembly and reassembly of double beds, wardrobes, and tables.'],
     ['q' => 'Are there any hidden charges added later?', 'a' => 'No, we provide fixed written quotations with zero hidden or surprise charges.'],
     ['q' => 'How can I track my truck during intercity transit?', 'a' => 'All long-distance highway container vehicles are monitored via live GPS satellite hardware.'],
@@ -60,8 +60,8 @@ require_once __DIR__ . '/../includes/header.php';
             Shree Ashirwad Packers and Movers is Vidya Nagar's premier relocation provider for home shifting, commercial moving, car transport, bike shipping, and warehouse storage. Serving Vidya Nagar educational hub, teacher colony, and surrounding Bokaro sectors with 7-layer protective packaging and 100% IBA-approved GST claim bills.
           </p>
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20in%20Vidya%20Nagar%20Bokaro." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ“ž Call: <?php echo SITE_PHONE; ?></a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20in%20Vidya%20Nagar%20Bokaro." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
           </div>
         </div>
 
@@ -90,27 +90,27 @@ require_once __DIR__ . '/../includes/header.php';
       
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🏠 Home Shifting</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ  Home Shifting</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Safe packing and transit for 1/2/3 BHK houses in Vidya Nagar.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🛡️ IBA Approved</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ›¡ï¸ IBA Approved</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Official GST invoices and LR copies for employee claims.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">📦 7-Layer Packaging</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ“¦ 7-Layer Packaging</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Heavy air bubble rolls, corrugated sheets, and wooden crates.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🚗 Vehicle Transport</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸš— Vehicle Transport</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Car trailers & bike carriers with safety locks.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🏬 Commercial Goods</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ¬ Commercial Goods</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Shop inventory, office desks, and store stock moving.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">👨‍🔧 Carpentry Team</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ‘¨â€ðŸ”§ Carpentry Team</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Assembly and disassembly of beds, wardrobes, and TV units.</p>
         </div>
       </div>
@@ -152,16 +152,16 @@ require_once __DIR__ . '/../includes/header.php';
             <tr style="background: #1c2541; color: #f59e0b;">
               <th style="padding: 14px;">Shifting Type</th>
               <th style="padding: 14px;">Packaging</th>
-              <th style="padding: 14px;">Local Cost (₹)</th>
-              <th style="padding: 14px;">Intercity Cost (₹)</th>
+              <th style="padding: 14px;">Local Cost (â‚¹)</th>
+              <th style="padding: 14px;">Intercity Cost (â‚¹)</th>
             </tr>
           </thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK House</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px; color: #f59e0b;">₹3,500 - ₹7,500</td><td style="padding: 12px;">₹11,000 - ₹21,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK House</td><td style="padding: 12px;">5-Layer Protection</td><td style="padding: 12px; color: #f59e0b;">₹6,500 - ₹12,500</td><td style="padding: 12px;">₹16,000 - ₹29,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK House</td><td style="padding: 12px;">7-Layer + Crating</td><td style="padding: 12px; color: #f59e0b;">₹10,500 - ₹18,500</td><td style="padding: 12px;">₹24,000 - ₹42,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Bubble Wrap + Box</td><td style="padding: 12px; color: #f59e0b;">₹1,800 - ₹3,200</td><td style="padding: 12px;">₹4,200 - ₹8,500</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Transport</td><td style="padding: 12px;">Trailer + Locks</td><td style="padding: 12px; color: #f59e0b;">N/A (Local Tow)</td><td style="padding: 12px;">₹9,500 - ₹22,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK House</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px; color: #f59e0b;">â‚¹3,500 - â‚¹7,500</td><td style="padding: 12px;">â‚¹11,000 - â‚¹21,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK House</td><td style="padding: 12px;">5-Layer Protection</td><td style="padding: 12px; color: #f59e0b;">â‚¹6,500 - â‚¹12,500</td><td style="padding: 12px;">â‚¹16,000 - â‚¹29,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK House</td><td style="padding: 12px;">7-Layer + Crating</td><td style="padding: 12px; color: #f59e0b;">â‚¹10,500 - â‚¹18,500</td><td style="padding: 12px;">â‚¹24,000 - â‚¹42,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Bubble Wrap + Box</td><td style="padding: 12px; color: #f59e0b;">â‚¹1,800 - â‚¹3,200</td><td style="padding: 12px;">â‚¹4,200 - â‚¹8,500</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Transport</td><td style="padding: 12px;">Trailer + Locks</td><td style="padding: 12px; color: #f59e0b;">N/A (Local Tow)</td><td style="padding: 12px;">â‚¹9,500 - â‚¹22,000</td></tr>
           </tbody>
         </table>
       </div>
@@ -220,6 +220,129 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+  
+  <!-- Section: 7-Layer Highway Protective Packaging Specifications -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Packaging Engineering</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">7-Layer Protective Packaging Standards in Vidya Nagar Bokaro</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Relocating households, corporate executive quarters, and commercial setups in Vidya Nagar Bokaro requires heavy-duty protective material handling to prevent transit damage:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 30px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 1 &amp; 2: Anti-Scratch Stretch Film &amp; Foam Padding</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Polished wooden surfaces, leather sofa sets, electronic display panels, and metallic refrigerator doors receive a primary wrap of non-adhesive anti-scratch stretch film followed by high-density polyethylene foam padding to cushion against surface abrasions.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 3 &amp; 4: 80-Micron Heavy Bubble Wrap &amp; Edge Guards</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item is enclosed within 80-micron heavy-duty shock-absorbing air-bubble film. All sharp furniture corners, table edges, and appliance borders are secured with L-shaped corrugated corner guards to prevent corner crushing.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 5 &amp; 6: 5-Ply Heavy Duty Corrugated Sheets &amp; Moisture Film</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Outer walls are covered with heavy 5-ply corrugated sheets taped with reinforced packing tape, and wrapped in waterproof polyethylene shrink film to protect against rain, dust, and humidity during highway transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 7: Custom Heavy Wooden Crating</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Fragile crockery cabinets, marble table tops, glass mirrors, large LED TVs, and delicate artwork receive on-site custom wooden crating built with solid timber frames and steel banding straps.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Dedicated Vehicle Transport Logistics -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Automotive Transport</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Comprehensive Vehicle Transport & Relocation Services in Vidya Nagar Bokaro</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        We offer complete car shipping and motorcycle transport solutions for residents moving in Vidya Nagar Bokaro with zero odometer additions and complete safety:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: IBA Approved GST Billing Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">IBA Approved GST Billing & Official Relocation Documentation in Vidya Nagar Bokaro</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Corporate officers, government personnel, bank staff, and defense personnel shifting locally or intercity in Vidya Nagar Bokaro receive official GST invoices accepted for claim reimbursement:
+      </p>
+      <div style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 10px; padding: 20px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 10px; font-weight: 700;">Included Employee Claim Documentation Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8;">
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing, loading, freight &amp; GST tax breakdown.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with official vehicle registration and driver details.</li>
+          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers and condition reports.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> on official company letterhead.</li>
+          <li><strong>Transit Insurance Policy Document</strong> issued by authorized insurance partners.</li>
+          <li><strong>Stamped Payment Receipt</strong> for corporate HR &amp; audit clearance.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: 4-Protocol Zero-Damage Execution System -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocols</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">4-Protocol Zero-Damage Execution System in Vidya Nagar Bokaro</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">For all relocations originating from or terminating in this region, we enforce a mandatory 4-protocol safety framework applied to every single shipment without exception:</p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 1: Multi-Layer Material Shielding</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item undergoes multi-layer wrapping combining air-bubble film, waterproof shrink wrap, 5-ply corrugated sheets, and corner foam guards. Delicate items receive custom wooden crating built on-site before loading.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 2: Container Anchorage System</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Inside our closed container trucks, items are anchored using heavy-duty nylon safety belts attached to internal wall rings. This prevents item friction, movement, or tipping over during highway transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 3: Live Satellite GPS Tracking</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Our container trucks are equipped with active GPS tracking hardware, allowing clients to receive real-time location updates throughout the entire transit journey.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 4: Comprehensive Transit Insurance</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">We back all moves originating from this location with 100% full-value transit insurance policy documentation, covering all declared household items, electronics, and vehicles against unexpected highway risks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Standardized Shifting Charge Calculation & Rate Matrix -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">How Shifting Charges are Calculated in Vidya Nagar Bokaro</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Relocation pricing is calculated based on total cargo volume (CFT), floor elevation, elevator availability, packaging material grade, vehicle type, and total road distance. Our binding quotes guarantee zero hidden fees:
+      </p>
+      <div style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (â‚¹)</th></tr></thead>
+          <tbody style="color: #cbd5e1; font-size: 0.9rem;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹3,500 - â‚¹7,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹7,500 - â‚¹13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹13,500 - â‚¹21,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,200 - â‚¹4,800</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,000 - â‚¹13,500</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
   <!-- Section 8: Locality Link Grid -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
@@ -239,7 +362,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bokaro to Ranchi Route</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">State capital corridor via NH-320 — major intercity route from Vidya Nagar.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">State capital corridor via NH-320 â€” major intercity route from Vidya Nagar.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Ranchi Shifting &#8594;</a>
         </div>
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
@@ -268,9 +391,9 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 15px;">Ready for Safe Shifting in <span style="color: #f59e0b;">Vidya Nagar Bokaro</span>?</h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">Contact our team now for guaranteed fixed pricing and 100% safe relocation.</p>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">📞 Call: <?php echo SITE_PHONE; ?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20in%20Vidya%20Nagar." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">💬 WhatsApp</a>
-        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">📍 Contact Office</a>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">ðŸ“ž Call: <?php echo SITE_PHONE; ?></a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20in%20Vidya%20Nagar." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">ðŸ’¬ WhatsApp</a>
+        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">ðŸ“ Contact Office</a>
       </div>
     </div>
   </section>
@@ -291,3 +414,4 @@ function sendHeroWhatsAppLead(event, form) {
 </script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

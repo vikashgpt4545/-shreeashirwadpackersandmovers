@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Monsoon Relocation Tips Jamshedpur | Rain-Proof Moving | 8409531615";
@@ -382,6 +382,124 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+
+  <!-- Section: 5-Stage Damage-Free Relocation Workflow -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Structured Operations</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">5-Stage Damage-Free Relocation Workflow</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        To ensure total item safety and zero transit damage, Shree Ashirwad Packers and Movers executes a mandatory 5-stage relocation methodology:
+      </p>
+      <div style="display: flex; flex-direction: column; gap: 18px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Stage 1: Pre-Move Inventory Assessment &amp; Binding Quote</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our move coordinator inspects household volume, evaluates stairwells/elevators, checks parking access, and issues a guaranteed fixed price quote with zero hidden surcharges.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Stage 2: 7-Layer Precision Protective Packaging</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">On moving day, our uniform crew applies 80-micron air bubble wrap, 5-ply corrugated sheets, L-shaped foam corner guards, waterproof stretch film, and custom wooden crating for delicate items.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Stage 3: Anchorage Loading into Closed Container Trucks</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Heavy furniture, appliances, and packed cartons are loaded onto dedicated closed container trucks using heavy-duty nylon safety belts and internal wall anchorage systems to prevent movement during travel.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Stage 4: Real-Time GPS Highway Transit Monitoring</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Your consignment travels inside sealed, weatherproof trucks monitored via active satellite GPS tracking hardware, keeping you informed of exact vehicle progress.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Stage 5: Unloading, Room Unboxing &amp; Debris Removal</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Upon arrival, our team unloads, places heavy furniture per your preferences, unboxes items, verifies inventory against your LR checklist, and cleans up all discarded packing material.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Section: Itemized Tariff & Shifting Cost Matrix -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Standardized Shifting Rate &amp; Charge Breakdown Matrix</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Review our transparent, binding pricing framework for local household moves, intercity highway transport, bike shipping, and car carrier relocation with zero hidden surcharges:
+      </p>
+      <div style="overflow-x: auto; margin-bottom: 25px;">
+        <table style="width: 100%; border-collapse: collapse; background: #101c40; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <thead>
+            <tr style="background: linear-gradient(135deg, #172a54 0%, #0d1736 100%); color: #f59e0b; text-align: left;">
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Relocation Requirement</th>
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Local Move (Within City)</th>
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Inter-District (Short Route)</th>
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Long-Distance Highway Transit</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1; font-size: 0.95rem;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">1 BHK Complete Household Shifting</td>
+              <td style="padding: 14px 16px;">â‚¹3,500 - â‚¹6,500</td>
+              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,000</td>
+              <td style="padding: 14px 16px;">â‚¹14,500 - â‚¹22,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">2 BHK Complete Household Shifting</td>
+              <td style="padding: 14px 16px;">â‚¹5,500 - â‚¹9,500</td>
+              <td style="padding: 14px 16px;">â‚¹12,000 - â‚¹20,000</td>
+              <td style="padding: 14px 16px;">â‚¹18,500 - â‚¹28,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">3 BHK Complete Villa / Apartment</td>
+              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,500</td>
+              <td style="padding: 14px 16px;">â‚¹18,000 - â‚¹28,000</td>
+              <td style="padding: 14px 16px;">â‚¹26,000 - â‚¹38,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Two-Wheeler Bike / Scooter Shipping</td>
+              <td style="padding: 14px 16px;">â‚¹1,500 - â‚¹2,500</td>
+              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
+              <td style="padding: 14px 16px;">â‚¹4,500 - â‚¹7,500</td>
+            </tr>
+            <tr>
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Four-Wheeler Car Carrier Transport</td>
+              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
+              <td style="padding: 14px 16px;">â‚¹7,500 - â‚¹12,000</td>
+              <td style="padding: 14px 16px;">â‚¹12,500 - â‚¹22,000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Section: Specialized Corporate & Government Employee Claim Advisory -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Employer Reimbursement</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Comprehensive IBA Approved GST Documentation &amp; Reimbursement Guide</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        For employees working in public sector undertakings (PSUs), Coal India, BCCL, ECL, SAIL, Indian Railways, Central/State Government departments, and commercial banks (SBI, Bank of India, PNB, Canara Bank), obtaining 100% claim reimbursement requires valid, audited shifting documentation. Unregistered or local transporters cannot provide compliant billing, resulting in rejected applications.
+      </p>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Shree Ashirwad Packers and Movers supplies complete claim-ready documentation packages structured to satisfy government financial audit regulations. Every client receives an official 18% GST consignment invoice, Consignment Lorry Receipt (LR Copy) with vehicle registration details, itemized goods packing inventory, stamped official payment receipt, and transit insurance policy certificate accepted by corporate HR desks nationwide.
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“„ 100% Valid Tax Invoicing</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our GSTIN (20BIPPG5094Q1ZP) and trade license numbers are verified on official portals, guaranteeing seamless tax credit verification and reimbursement processing.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ›¡ï¸ Full-Value Transit Policy</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">All moves carry comprehensive transit insurance coverage issued by leading national underwriters with direct 7-day claim settlement assistance for minor damages.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
 </main>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+
+
+

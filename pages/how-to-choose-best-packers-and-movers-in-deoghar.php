@@ -1,0 +1,461 @@
+﻿<?php
+require_once __DIR__ . '/../includes/config.php';
+
+$page_title = 'How to Choose Best Packers and Movers in Deoghar | IBA Approved Shifting';
+$page_desc = 'Safe How to Choose Best Packers and Movers in Deoghar by Shree Ashirwad. IBA approved home, car & bike transport with insurance via NH-114A corridor. Call +91 9955554330!';
+$page_keywords = 'best packers and movers in deoghar, movers and packers deoghar, shifting charges deoghar, home relocation deoghar, bike transport deoghar, car transport deoghar, IBA approved packers movers deoghar';
+
+$page_city = 'Deoghar';
+
+$faq_list = [
+    ['q' => 'What are the shifting charges for How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for What are the shifting charges for How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'How long does delivery take for How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for How long does delivery take for How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Do you provide IBA approved bills for How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Do you provide IBA approved bills for How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'How are cars and bikes transported for How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for How are cars and bikes transported for How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Is transit insurance provided for How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Is transit insurance provided for How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'What packaging materials are used for fragile items?', 'a' => 'Detailed response for What packaging materials are used for fragile items? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Can I track my container truck during transit?', 'a' => 'Detailed response for Can I track my container truck during transit? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Do your packers assemble furniture at destination?', 'a' => 'Detailed response for Do your packers assemble furniture at destination? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Are there any hidden toll or entry tax charges?', 'a' => 'Detailed response for Are there any hidden toll or entry tax charges? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'What is the contact phone number for booking?', 'a' => 'Detailed response for What is the contact phone number for booking? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 11 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 11 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 12 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 12 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 13 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 13 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 14 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 14 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 15 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 15 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 16 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 16 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 17 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 17 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 18 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 18 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 19 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 19 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Additional Service Query 20 regarding How to Choose Best Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 20 regarding How to Choose Best Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+];
+
+require_once __DIR__ . '/../includes/header.php';
+?>
+
+<main class="site-main">
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar">Deoghar</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">How to Choose Best Packers and Movers in Deoghar</span>
+      </div>
+    </div>
+  </div>
+
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
+        <div class="hero-text">
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">IBA Approved Professional Relocation</span>
+          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">Best <span style="color: #f59e0b;">How to Choose Best Packers and Movers in Deoghar</span></h1>
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">Looking for professional, damage-free household shifting, car transportation, bike moving, or office relocation services in Deoghar (Babadham)? Shree Ashirwad Packers and Movers provides 7-layer protective packaging, active GPS container tracking, full transit insurance, and genuine IBA-approved GST bills for corporate and government claims.</p>
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;">ðŸ“ž Call Now: <?php echo SITE_PHONE; ?></a>
+            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20How+to+Choose+Best+Packers+and+Movers+in+Deoghar" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
+          </div>
+        </div>
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Quote</h2>
+          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
+            <div style="margin-bottom: 14px;"><input type="text" name="name" placeholder="Your Full Name" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
+            <div style="margin-bottom: 14px;"><input type="tel" name="phone" placeholder="10-Digit Phone / WhatsApp" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+              <input type="text" name="move_from" placeholder="From" value="Deoghar" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" placeholder="To" value="Destination" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 16px;"><textarea name="message" rows="2" placeholder="Items (1BHK, 2BHK, Bike, Car)" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea></div>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000; font-weight: 800; font-size: 1rem; border-radius: 8px; border: none;">Get Free Quote on WhatsApp</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding: 40px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">100% Safe</div><div style="font-size: 0.85rem; color: #cbd5e1;">7-Layer Protection</div></div>
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">IBA Approved</div><div style="font-size: 0.85rem; color: #cbd5e1;">GST Claim Bills</div></div>
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">GPS Tracked</div><div style="font-size: 0.85rem; color: #cbd5e1;">Closed Containers</div></div>
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">2,500+</div><div style="font-size: 0.85rem; color: #cbd5e1;">Satisfied Moves</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
+    <div class="container" style="max-width: 950px;">
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Complete Relocation Logistics & Services for How to Choose Best Packers and Movers in Deoghar</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;">Shree Ashirwad Packers and Movers is the premier relocation company serving Deoghar and surrounding regions. Moving your home, office, two-wheeler, or car requires absolute precision, professional packing materials, trained logistics handlers, and guaranteed zero-damage execution. Our dedicated fleet operates continuously across NH-114A, NH-333, and major national routes connecting Deoghar to all major cities across India.</p>
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;">Whether you are shifting locally in Deoghar or moving to long-distance destinations, we bring over 15 years of industry excellence. Our move supervisors conduct pre-move surveys, create itemized inventory lists, and apply 7-layer protective packaging combining bubble wrap, 5-ply corrugated sheets, stretch wrap, foam corner guards, and custom wooden crating for delicate Smart TVs and glass items.</p>
+      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Estimated Charges & Cost Breakdown for How to Choose Best Packers and Movers in Deoghar</h2>
+      <div style="overflow-x: auto; margin-top: 20px;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px;">Shifting Type</th><th style="padding: 14px;">Packaging Grade</th><th style="padding: 14px;">Vehicle Type</th><th style="padding: 14px;">Estimated Price (â‚¹)</th></tr></thead>
+          <tbody style="color: #cbd5e1; font-size: 0.9rem;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">Pickup Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹4,500 - â‚¹8,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Shifting</td><td style="padding: 12px;">Premium 5-Layer</td><td style="padding: 12px;">14ft Sealed Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹8,500 - â‚¹14,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Shifting</td><td style="padding: 12px;">7-Layer Heavy Crate</td><td style="padding: 12px;">17ft/19ft Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹14,500 - â‚¹22,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Paddy + Bubble Wrap</td><td style="padding: 12px;">Enclosed Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,500 - â‚¹5,500</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Carrier Shifting</td><td style="padding: 12px;">Wheel-Chock Safety Locks</td><td style="padding: 12px;">Covered Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,500 - â‚¹14,500</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Our 5-Stage Damage-Free Relocation Workflow</h2>
+      <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">1. Pre-Move Survey & Written Quote</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Physical or virtual video survey to assess goods volume and provide transparent binding rates.</p></div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">2. Multi-Layer Protective Packaging</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Uniformed experts apply bubble wrap, corrugated sheets, foam guards, and custom wooden crating.</p></div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">3. Safe Loading & Anchorage</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Goods are loaded using hydraulic ramps and anchored with safety belts inside closed container trucks.</p></div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">4. Highway Transit & Live GPS Monitoring</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Vehicles move under active GPS surveillance with regular position updates sent to clients.</p></div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">5. Unloading, Unboxing & Reassembly</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Complete door delivery, unpacking, furniture reassembly, and item positioning at destination.</p></div>
+      </div>
+
+      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Related Packers and Movers Services & Locations</h2>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Deoghar Hub â†’</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi â†’</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad â†’</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro â†’</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Ranchi Shifting â†’</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-patna" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Patna Shifting â†’</a></div>
+      </div>
+
+      
+  <!-- Section: 7-Layer Highway Protective Packaging Specifications -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Packaging Engineering</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">7-Layer Protective Packaging Standards in How To Choose Best In Deoghar</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Relocating households, corporate executive quarters, and commercial setups in How To Choose Best In Deoghar requires heavy-duty protective material handling to prevent transit damage:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 30px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 1 &amp; 2: Anti-Scratch Stretch Film &amp; Foam Padding</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Polished wooden surfaces, leather sofa sets, electronic display panels, and metallic refrigerator doors receive a primary wrap of non-adhesive anti-scratch stretch film followed by high-density polyethylene foam padding to cushion against surface abrasions.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 3 &amp; 4: 80-Micron Heavy Bubble Wrap &amp; Edge Guards</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item is enclosed within 80-micron heavy-duty shock-absorbing air-bubble film. All sharp furniture corners, table edges, and appliance borders are secured with L-shaped corrugated corner guards to prevent corner crushing.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 5 &amp; 6: 5-Ply Heavy Duty Corrugated Sheets &amp; Moisture Film</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Outer walls are covered with heavy 5-ply corrugated sheets taped with reinforced packing tape, and wrapped in waterproof polyethylene shrink film to protect against rain, dust, and humidity during highway transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; margin-bottom: 8px;">Layer 7: Custom Heavy Wooden Crating</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Fragile crockery cabinets, marble table tops, glass mirrors, large LED TVs, and delicate artwork receive on-site custom wooden crating built with solid timber frames and steel banding straps.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Dedicated Vehicle Transport Logistics -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Automotive Transport</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Comprehensive Vehicle Transport & Relocation Services in How To Choose Best In Deoghar</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        We offer complete car shipping and motorcycle transport solutions for residents moving in How To Choose Best In Deoghar with zero odometer additions and complete safety:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸš— Enclosed Car Carrier Trailers</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: IBA Approved GST Billing Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">IBA Approved GST Billing & Official Relocation Documentation in How To Choose Best In Deoghar</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Corporate officers, government personnel, bank staff, and defense personnel shifting locally or intercity in How To Choose Best In Deoghar receive official GST invoices accepted for claim reimbursement:
+      </p>
+      <div style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 10px; padding: 20px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 10px; font-weight: 700;">Included Employee Claim Documentation Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8;">
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized packing, loading, freight &amp; GST tax breakdown.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with official vehicle registration and driver details.</li>
+          <li><strong>Itemized Goods Inventory Packing List</strong> with room-wise tag numbers and condition reports.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Verification</strong> on official company letterhead.</li>
+          <li><strong>Transit Insurance Policy Document</strong> issued by authorized insurance partners.</li>
+          <li><strong>Stamped Payment Receipt</strong> for corporate HR &amp; audit clearance.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: 4-Protocol Zero-Damage Execution System -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocols</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">4-Protocol Zero-Damage Execution System in How To Choose Best In Deoghar</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">For all relocations originating from or terminating in this region, we enforce a mandatory 4-protocol safety framework applied to every single shipment without exception:</p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 1: Multi-Layer Material Shielding</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Every item undergoes multi-layer wrapping combining air-bubble film, waterproof shrink wrap, 5-ply corrugated sheets, and corner foam guards. Delicate items receive custom wooden crating built on-site before loading.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 2: Container Anchorage System</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Inside our closed container trucks, items are anchored using heavy-duty nylon safety belts attached to internal wall rings. This prevents item friction, movement, or tipping over during highway transit.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 3: Live Satellite GPS Tracking</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Our container trucks are equipped with active GPS tracking hardware, allowing clients to receive real-time location updates throughout the entire transit journey.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 8px;">Protocol 4: Comprehensive Transit Insurance</div>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">We back all moves originating from this location with 100% full-value transit insurance policy documentation, covering all declared household items, electronics, and vehicles against unexpected highway risks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Standardized Shifting Charge Calculation & Rate Matrix -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">How Shifting Charges are Calculated in How To Choose Best In Deoghar</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Relocation pricing is calculated based on total cargo volume (CFT), floor elevation, elevator availability, packaging material grade, vehicle type, and total road distance. Our binding quotes guarantee zero hidden fees:
+      </p>
+      <div style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
+          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px; text-align: left;">Shifting Category</th><th style="padding: 14px; text-align: left;">Material Grade</th><th style="padding: 14px; text-align: left;">Dedicated Vehicle</th><th style="padding: 14px; text-align: left;">Price Range (â‚¹)</th></tr></thead>
+          <tbody style="color: #cbd5e1; font-size: 0.9rem;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Apartment / Quarter</td><td style="padding: 12px;">Standard 3-Layer Wrap</td><td style="padding: 12px;">Tata Ace / Bolero Pickup</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹3,500 - â‚¹7,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Family Residence</td><td style="padding: 12px;">Premium 5-Layer Bubble</td><td style="padding: 12px;">14ft Covered Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹7,500 - â‚¹13,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK / Independent Villa</td><td style="padding: 12px;">7-Layer Wooden Crating</td><td style="padding: 12px;">17ft/19ft Container Truck</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹13,500 - â‚¹21,000</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Two-Wheeler Transport</td><td style="padding: 12px;">5-Layer Foam &amp; Bubble</td><td style="padding: 12px;">Covered Bike Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹2,200 - â‚¹4,800</td></tr>
+            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Four-Wheeler Car Carrier</td><td style="padding: 12px;">Wheel Chock Lock System</td><td style="padding: 12px;">Closed Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">â‚¹6,000 - â‚¹13,500</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Frequently Asked Questions (20 FAQs)</h2>
+      <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 20px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+        <div style="background: #101c40; padding: 18px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 6px;"><?php echo htmlspecialchars($faq['a']); ?></p>
+        </div>
+        <?php endforeach; ?>
+      </div>
+
+      <div style="margin-top: 50px; text-align: center; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); padding: 40px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.4);">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Ready to Shift with How to Choose Best Packers and Movers in Deoghar?</h2>
+        <p style="color: #cbd5e1; margin-top: 10px;">Contact our team today for a guaranteed fixed price quote with 100% damage-free delivery.</p>
+        <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ“ž Call Now: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20How+to+Choose+Best+Packers+and+Movers+in+Deoghar" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">ðŸ’¬ WhatsApp Quote</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Itemized Tariff & Shifting Cost Matrix -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Standardized Shifting Rate &amp; Charge Breakdown Matrix</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Review our transparent, binding pricing framework for local household moves, intercity highway transport, bike shipping, and car carrier relocation with zero hidden surcharges:
+      </p>
+      <div style="overflow-x: auto; margin-bottom: 25px;">
+        <table style="width: 100%; border-collapse: collapse; background: #101c40; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <thead>
+            <tr style="background: linear-gradient(135deg, #172a54 0%, #0d1736 100%); color: #f59e0b; text-align: left;">
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Relocation Requirement</th>
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Local Move (Within City)</th>
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Inter-District (Short Route)</th>
+              <th style="padding: 16px; font-weight: 700; border-bottom: 2px solid rgba(245, 158, 11, 0.3);">Long-Distance Highway Transit</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1; font-size: 0.95rem;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">1 BHK Complete Household Shifting</td>
+              <td style="padding: 14px 16px;">â‚¹3,500 - â‚¹6,500</td>
+              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,000</td>
+              <td style="padding: 14px 16px;">â‚¹14,500 - â‚¹22,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">2 BHK Complete Household Shifting</td>
+              <td style="padding: 14px 16px;">â‚¹5,500 - â‚¹9,500</td>
+              <td style="padding: 14px 16px;">â‚¹12,000 - â‚¹20,000</td>
+              <td style="padding: 14px 16px;">â‚¹18,500 - â‚¹28,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">3 BHK Complete Villa / Apartment</td>
+              <td style="padding: 14px 16px;">â‚¹8,500 - â‚¹14,500</td>
+              <td style="padding: 14px 16px;">â‚¹18,000 - â‚¹28,000</td>
+              <td style="padding: 14px 16px;">â‚¹26,000 - â‚¹38,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Two-Wheeler Bike / Scooter Shipping</td>
+              <td style="padding: 14px 16px;">â‚¹1,500 - â‚¹2,500</td>
+              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
+              <td style="padding: 14px 16px;">â‚¹4,500 - â‚¹7,500</td>
+            </tr>
+            <tr>
+              <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Four-Wheeler Car Carrier Transport</td>
+              <td style="padding: 14px 16px;">â‚¹3,000 - â‚¹5,000</td>
+              <td style="padding: 14px 16px;">â‚¹7,500 - â‚¹12,000</td>
+              <td style="padding: 14px 16px;">â‚¹12,500 - â‚¹22,000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Section: Specialized Corporate & Government Employee Claim Advisory -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Employer Reimbursement</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Comprehensive IBA Approved GST Documentation &amp; Reimbursement Guide</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        For employees working in public sector undertakings (PSUs), Coal India, BCCL, ECL, SAIL, Indian Railways, Central/State Government departments, and commercial banks (SBI, Bank of India, PNB, Canara Bank), obtaining 100% claim reimbursement requires valid, audited shifting documentation. Unregistered or local transporters cannot provide compliant billing, resulting in rejected applications.
+      </p>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Shree Ashirwad Packers and Movers supplies complete claim-ready documentation packages structured to satisfy government financial audit regulations. Every client receives an official 18% GST consignment invoice, Consignment Lorry Receipt (LR Copy) with vehicle registration details, itemized goods packing inventory, stamped official payment receipt, and transit insurance policy certificate accepted by corporate HR desks nationwide.
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“„ 100% Valid Tax Invoicing</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our GSTIN (20BIPPG5094Q1ZP) and trade license numbers are verified on official portals, guaranteeing seamless tax credit verification and reimbursement processing.</p>
+        </div>
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ›¡ï¸ Full-Value Transit Policy</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">All moves carry comprehensive transit insurance coverage issued by leading national underwriters with direct 7-day claim settlement assistance for minor damages.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Section: Specialized Packaging Materials & Multi-Layer Engineering -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Material Engineering</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">7-Layer Industrial Grade Packaging Material Specifications</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        To withstand highway vibrations, climate variations, and transit shocks during local or intercity movement, Shree Ashirwad Packers enforces standardized material grading for all household and commercial items:
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ“¦ High-Density Air Bubble Cushioning</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">80-micron virgin air-bubble sheets wrapping TV screens, glass mirrors, polished wooden furniture, and delicate crockery for shock absorption.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸªµ Heavy Wooden Crating &amp; Edge Guards</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">On-site wooden crate construction with steel banding for marble items and oversized LED displays, reinforced with L-shaped corrugated corner protectors.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸŒ§ï¸ Waterproof Stretch &amp; Shrink Film</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Full exterior shrink-wrap sealing over corrugated boxes to protect against rain, highway dust, humidity, and accidental moisture exposure.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸšš Container Safety Belt Anchoring</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Internal wall-mounted nylon safety belts and wheel chocks preventing item movement or tipping during sudden braking on national highways.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Section: Regional Transportation & Locality Logistics Network Advisory -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Logistics Network</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Regional Highway Access &amp; Locality Transport Operations</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        Operating across Jharkhand's key residential corridors, industrial zones, coalfield sectors, and township colonies requires extensive route planning and specialized vehicle fleets. Shree Ashirwad Packers maintains local branch hubs and container parking yards to service relocations promptly without transit delays:
+      </p>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Whether shifting household items locally within municipal limits or booking long-distance intercity transport to West Bengal, Bihar, Odisha, Chhattisgarh, Uttar Pradesh, Delhi NCR, or South India, our enclosed covered trucks provide weatherproof protection. Every move is coordinated by certified logistics supervisors who manage loading, highway transit documentation, toll permits, and doorstep unloading.
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
+          <div style="font-size: 1.5rem; margin-bottom: 6px;">ðŸš›</div>
+          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">Dedicated Fleet</h4>
+          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">14ft, 17ft &amp; 19ft closed container trucks</p>
+        </div>
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
+          <div style="font-size: 1.5rem; margin-bottom: 6px;">ðŸ“</div>
+          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">GPS Live Tracking</h4>
+          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">24/7 active satellite vehicle tracking</p>
+        </div>
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
+          <div style="font-size: 1.5rem; margin-bottom: 6px;">ðŸ“‘</div>
+          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">IBA &amp; GST Certified</h4>
+          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">100% claim-ready billing documentation</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Section: Specialized Route Planning & Transit Protocol -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Transit Governance</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Local Route Security &amp; Highway Vehicle Transit Protocol</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        Managing relocations through congested city streets, narrow residential bypass roads, and heavy highway truck corridors requires strict operational oversight. Shree Ashirwad Packers conducts pre-move route surveys to identify low-hanging overhead cables, narrow alley turnings, height restrictions, and local loading time windows:
+      </p>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+        Our transport crew arrives equipped with heavy-duty loading ramps, hydraulic furniture dollies, protective floor runner mats, and padded door-frame guards to prevent structural wall or floor scratches during loading. Every item is cross-verified against the master inventory packing sheet prior to truck gate-out, guaranteeing full accountability and smooth delivery.
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸš§ Pre-Loading Survey &amp; Parking Clearances</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">We arrange local society permissions, elevator booking slots, and municipal parking access ahead of time to eliminate loading delays on moving day.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ  Floor Protection &amp; Door Frame Shielding</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Rubber floor runners protect expensive tiles and marble floors while high-density foam wrapping guards door frames against furniture scrapes during moving.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]').value;
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nQuote Request:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
+  if (extraMsg) { message += "\n- Details: " + extraMsg; }
+  window.location.href = "https://api.whatsapp.com/send?phone=919955554330&text=" + encodeURIComponent(message);
+}
+</script>
+
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+
+
+
+
+
+
+
