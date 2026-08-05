@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Faridabad | Reliable Intercity Relocation";
+$page_title = "Packers and Movers Ranchi to Faridabad | 8409531615 Shifting";
 $page_desc = "Professional packers and movers from Ranchi to Faridabad, NCR. Dedicated container transport, home shifting, car carrier, bike relocation & 100% insured transit. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to faridabad, ranchi to faridabad shifting rates, home relocation ranchi to ncr faridabad, car transport ranchi to faridabad, intercity movers ranchi haryana";
 

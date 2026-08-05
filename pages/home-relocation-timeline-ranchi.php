@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Home Relocation Timeline Ranchi | 4-Week Moving Planner";
+$page_title = "Home Relocation Timeline Ranchi | 8409531615 Shifting";
 $page_desc = "Complete home relocation timeline for Ranchi households. 4-week step-by-step moving checklist, pre-move survey, packing schedules & unpacking guide. Call 8409531615.";
 $page_keywords = "home relocation timeline ranchi, moving timeline ranchi, household shifting checklist ranchi, pre move planner ranchi, Packers movers schedule ranchi";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Korrah Hazaribagh | Safe House Shifting Services";
+$page_title = "Packers and Movers Korrah Hazaribagh | 8409531615 Shifting";
 $page_desc = "Best Packers and Movers in Korrah Hazaribagh offering professional household shifting, office relocation, bike shipping, car carrier & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers korrah hazaribagh, packers and movers in korrah, house shifting korrah hazaribagh, relocation services korrah, best packers movers korrah hazaribagh, IBA approved movers hazaribagh";
 

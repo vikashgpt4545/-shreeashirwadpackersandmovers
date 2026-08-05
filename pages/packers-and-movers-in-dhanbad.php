@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Dhanbad | IBA Approved Moving Company";
+$page_title = "Packers and Movers in Dhanbad | 8409531615 Shifting";
 $page_desc = "Professional Packers and Movers in Dhanbad offering safe household shifting, office relocation, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers in dhanbad, packers and movers dhanbad, best packers movers dhanbad, household shifting dhanbad, bank more movers, saraidhela packers, jharia packers, office relocation dhanbad, car transport dhanbad, bike shipping dhanbad, IBA approved movers dhanbad";
 

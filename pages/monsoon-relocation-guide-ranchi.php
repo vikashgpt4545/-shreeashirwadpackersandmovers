@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Monsoon Relocation Guide Ranchi 2026 | Rainy Season Shifting";
+$page_title = "Monsoon Relocation Guide Ranchi | 8409531615 Shifting";
 $page_desc = "Complete monsoon relocation guide for Ranchi. Rain-proof 7-layer packaging, waterproof sealed closed container trucks, floor protection & safety tips. Call 8409531615.";
 $page_keywords = "monsoon relocation guide ranchi, rainy season shifting ranchi, waterproof packing packers movers ranchi, monsoon home shifting ranchi, rain proof container transport ranchi";
 

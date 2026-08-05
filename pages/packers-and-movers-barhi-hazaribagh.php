@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Barhi Hazaribagh | Safe Shifting Services";
+$page_title = "Packers and Movers Barhi Hazaribagh | 8409531615 Shifting";
 $page_desc = "Top Packers and Movers in Barhi Hazaribagh offering household shifting, office relocation, vehicle transport & warehousing. Call (+91) 8409531615.";
 $page_keywords = "packers and movers barhi hazaribagh, packers and movers in barhi, house shifting barhi hazaribagh, relocation services barhi, best packers movers barhi hazaribagh, IBA approved movers hazaribagh";
 

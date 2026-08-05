@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Demotand Hazaribagh | Safe Shifting Services";
+$page_title = "Packers and Movers Demotand Hazaribagh | 8409531615 Shifting";
 $page_desc = "Top Packers and Movers in Demotand Hazaribagh offering household shifting, office relocation, vehicle transport & warehousing. Call (+91) 8409531615.";
 $page_keywords = "packers and movers demotand hazaribagh, packers and movers in demotand, house shifting demotand hazaribagh, relocation services demotand, best packers movers demotand hazaribagh, IBA approved movers hazaribagh";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Transit Insurance Guide Packers Movers Ranchi | Full Moving Cover";
+$page_title = "Transit Insurance Guide Packers Movers Ranchi | 8409531615 Shifting";
 $page_desc = "Complete transit insurance guide for packers and movers in Ranchi. Learn all-risk moving insurance, coverage policy slabs, claim process & valuation tips. Call 8409531615.";
 $page_keywords = "transit insurance guide packers movers ranchi, moving insurance ranchi, goods in transit policy ranchi, declared value insurance ranchi, goods damage claim ranchi";
 

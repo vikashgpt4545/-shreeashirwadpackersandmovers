@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Matwari Hazaribagh | Safe Shifting Services";
+$page_title = "Packers and Movers Matwari Hazaribagh | 8409531615 Shifting";
 $page_desc = "Top Packers and Movers in Matwari Hazaribagh offering expert house shifting, office relocation, vehicle shipping & warehousing. Call (+91) 8409531615.";
 $page_keywords = "packers and movers matwari hazaribagh, packers and movers in matwari, house shifting matwari hazaribagh, relocation services matwari, best packers movers matwari hazaribagh, IBA approved movers hazaribagh";
 

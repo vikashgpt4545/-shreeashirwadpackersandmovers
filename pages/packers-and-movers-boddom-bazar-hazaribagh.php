@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Boddom Bazar Hazaribagh | Safe Shifting Services";
+$page_title = "Packers and Movers Boddom Bazar Hazaribagh | 8409531615 Shifting";
 $page_desc = "Top Packers and Movers in Boddom Bazar Hazaribagh offering household shifting, office relocation, vehicle transport & warehousing. Call (+91) 8409531615.";
 $page_keywords = "packers and movers boddom bazar hazaribagh, packers and movers in boddom bazar, house shifting boddom bazar hazaribagh, relocation services boddom bazar, best packers movers boddom bazar hazaribagh, IBA approved movers hazaribagh";
 

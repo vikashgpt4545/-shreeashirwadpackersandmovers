@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Commercial Shifting Best Practices Ranchi | Office Relocation Guide";
+$page_title = "Commercial Shifting Best Practices Ranchi | 8409531615 Shifting";
 $page_desc = "Expert commercial shifting best practices in Ranchi. Learn corporate office moving strategies, IT server rack packing, weekend downtime management & rate estimates. Call 8409531615.";
 $page_keywords = "commercial shifting best practices ranchi, office relocation guide ranchi, corporate shifting ranchi, IT equipment packing ranchi, office movers ranchi";
 

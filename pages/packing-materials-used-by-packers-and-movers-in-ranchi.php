@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packing Materials Used by Packers and Movers in Ranchi | Materials Guide";
+$page_title = "Packing Materials Used by Packers and Movers in Ranchi | 8409531615 Shifting";
 $page_desc = "Complete breakdown of premium packing materials used by packers and movers in Ranchi. 7-layer corrugated boxes, air bubble wrap, stretch film, wooden crates & foam. Call 8409531615.";
 $page_keywords = "packing materials used by packers and movers in ranchi, moving box types ranchi, bubble wrap packing ranchi, industrial stretch film packing ranchi, timber crate packing ranchi";
 

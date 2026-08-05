@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Household and Office Relocation FAQs Ranchi | Complete Moving Guide";
+$page_title = "Household and Office Relocation FAQs Ranchi | 8409531615 Shifting";
 $page_desc = "Comprehensive household and office relocation FAQs in Ranchi. Answers on shifting rates, packing materials, weekend office moves, vehicle transport & insurance. Call 8409531615.";
 $page_keywords = "household and office relocation faqs ranchi, packers and movers faqs ranchi, office shifting questions ranchi, home moving guide ranchi, relocation answers ranchi";
 
