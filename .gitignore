@@ -23,3 +23,6 @@ scratch/
 # Dependency directories
 vendor/
 node_modules/
+
+# Google Service Account Credentials
+service_account.json
