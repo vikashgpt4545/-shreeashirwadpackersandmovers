@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Lakhisarai | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Lakhisarai | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Lakhisarai for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to lakhisarai, packers and movers from dhanbad to lakhisarai, dhanbad to lakhisarai shifting charges, household relocation dhanbad to lakhisarai, car transport dhanbad to lakhisarai, bike shipping dhanbad to lakhisarai, IBA approved movers dhanbad lakhisarai";
 

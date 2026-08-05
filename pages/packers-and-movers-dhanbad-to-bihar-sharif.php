@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Bihar Sharif | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Bihar Sharif | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Bihar Sharif for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to bihar sharif, packers and movers from dhanbad to bihar sharif, dhanbad to bihar sharif shifting charges, household relocation dhanbad to bihar sharif, car transport dhanbad to bihar sharif, bike shipping dhanbad to bihar sharif, IBA approved movers dhanbad bihar sharif";
 

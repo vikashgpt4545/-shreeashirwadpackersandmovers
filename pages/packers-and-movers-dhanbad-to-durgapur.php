@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Durgapur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Durgapur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Durgapur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to durgapur, packers and movers from dhanbad to durgapur, dhanbad to durgapur shifting charges, household relocation dhanbad to durgapur, car transport dhanbad to durgapur, bike shipping dhanbad to durgapur, IBA approved movers dhanbad durgapur";
 

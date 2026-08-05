@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "How to Choose Best Packers and Movers in Ranchi | Guide 8409531615";
+$page_title = "How to Choose Best Packers and Movers in Ranchi | 8409531615";
 $page_desc = "Expert guide on how to choose the best packers and movers in Ranchi. Learn 10 critical steps to verify moving company credentials, licensing, IBA approval & pricing. Call 8409531615.";
 $page_keywords = "how to choose best packers and movers in ranchi, select reliable packers movers ranchi, verified moving company ranchi, genuine packers movers ranchi checklist, IBA approved packers movers ranchi, top relocation company ranchi, fraud movers prevention ranchi, home shifting guide ranchi";
 

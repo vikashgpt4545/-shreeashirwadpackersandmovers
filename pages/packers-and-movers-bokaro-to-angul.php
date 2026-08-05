@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Angul | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Angul | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Angul for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bokaro to angul, bokaro to angul packers and movers, bokaro to angul shifting charges, IBA approved movers bokaro to angul";
 

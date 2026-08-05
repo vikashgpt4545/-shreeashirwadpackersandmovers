@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Aurangabad Bihar | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Aurangabad Bihar | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Aurangabad Bihar for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to aurangabad bihar, packers and movers from dhanbad to aurangabad bihar, dhanbad to aurangabad bihar shifting charges, household relocation dhanbad to aurangabad, car transport dhanbad to aurangabad, bike shipping dhanbad to aurangabad, IBA approved movers dhanbad aurangabad";
 

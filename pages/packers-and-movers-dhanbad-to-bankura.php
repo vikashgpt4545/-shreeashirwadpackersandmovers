@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Bankura | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Bankura | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Bankura for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to bankura, packers and movers from dhanbad to bankura, dhanbad to bankura shifting charges, household relocation dhanbad to bankura, car transport dhanbad to bankura, bike shipping dhanbad to bankura, IBA approved movers dhanbad bankura";
 

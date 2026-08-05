@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dharampur Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Dharampur Bokaro | 8409531615";
 $page_desc = "Packers and Movers Dharampur Bokaro for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dharampur bokaro, packers and movers in dharampur bokaro, dharampur bokaro shifting, shifting charges dharampur bokaro, IBA approved movers dharampur";
 

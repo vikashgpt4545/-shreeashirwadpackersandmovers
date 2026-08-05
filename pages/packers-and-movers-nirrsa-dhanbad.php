@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Nirsa Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Nirsa Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Nirsa Dhanbad for home relocation, GT Road industrial moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers nirsa dhanbad, packers and movers in nirsa, best packers movers nirsa, household shifting nirsa, nirsa packers, nirsa movers, car transport nirsa, bike shipping nirsa, IBA approved movers nirsa";
 

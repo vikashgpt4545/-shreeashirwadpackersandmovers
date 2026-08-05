@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers ISM Campus Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers ISM Campus Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in ISM Campus Dhanbad for faculty quarters relocation, IIT Dhanbad campus moving, scholar shifting, car carrier & bike shipping. Call (+91) 8409531615.";
 $page_keywords = "packers and movers ism campus dhanbad, packers and movers in ism campus, best packers movers ism campus, iit dhanbad packers movers, faculty quarters shifting dhanbad, ism campus relocation, car transport ism campus, bike shipping ism campus, IBA approved movers ism campus";
 

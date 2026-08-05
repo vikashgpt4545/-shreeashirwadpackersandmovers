@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Ghaziabad | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Ghaziabad | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Ghaziabad for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to ghaziabad, packers and movers from dhanbad to ghaziabad, dhanbad to ghaziabad shifting charges, household relocation dhanbad to ghaziabad, car transport dhanbad to ghaziabad, bike shipping dhanbad to ghaziabad, IBA approved movers dhanbad ghaziabad";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Hirapur Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Hirapur Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Hirapur Dhanbad offering professional house shifting, IIT ISM campus moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers hirapur dhanbad, packers and movers in hirapur, best packers movers hirapur, household shifting hirapur, iit ism campus movers, court road packers, car transport hirapur, bike shipping hirapur, IBA approved movers hirapur";
 

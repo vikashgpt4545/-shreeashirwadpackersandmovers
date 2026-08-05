@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Single Item & Luggage Shifting Ranchi | 8409531615 Shifting";
+$page_title = "Single Item & Luggage Shifting Ranchi | 8409531615";
 $page_desc = "Affordable single item and luggage shifting in Ranchi. Move single sofa, bed, fridge, washing machine or parcel luggage safely with shared vehicle rates. Call 8409531615.";
 $page_keywords = "single item luggage shifting ranchi, single furniture movers ranchi, small luggage transport ranchi, part load shifting ranchi, single appliance moving ranchi";
 

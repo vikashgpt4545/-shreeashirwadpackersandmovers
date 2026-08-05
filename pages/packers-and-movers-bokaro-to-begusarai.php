@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Begusarai | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Begusarai | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Begusarai for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bokaro to begusarai, bokaro to begusarai packers and movers, bokaro to begusarai shifting charges, IBA approved movers bokaro to begusarai";
 

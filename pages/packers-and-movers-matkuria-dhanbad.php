@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Matkuria Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Matkuria Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Matkuria Dhanbad for home shifting, BCCL & railway quarter moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers matkuria dhanbad, packers and movers in matkuria, best packers movers matkuria, household shifting matkuria, matkuria bypass packers, railway quarter movers, car transport matkuria, bike shipping matkuria, IBA approved movers matkuria";
 

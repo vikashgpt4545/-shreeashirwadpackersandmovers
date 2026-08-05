@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Katras Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Katras Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Katras Dhanbad providing top-quality house shifting, BCCL officer relocation, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers katras dhanbad, packers and movers in katras, best packers movers katras, household shifting katras, bccl quarter movers katras, surya mandir packers, car transport katras, bike shipping katras, IBA approved movers katras";
 

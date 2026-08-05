@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Hazaribagh | 8409531615 Shifting";
+$page_title = "Packers and Movers in Hazaribagh | 8409531615";
 $page_desc = "Professional Packers and Movers in Hazaribagh offering safe household shifting, office relocation, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers in hazaribagh, packers and movers hazaribagh, best packers movers hazaribagh, household shifting hazaribagh, korrah packers, matwari movers, canary hill road packers, office relocation hazaribagh, car transport hazaribagh, bike shipping hazaribagh, IBA approved movers hazaribagh";
 

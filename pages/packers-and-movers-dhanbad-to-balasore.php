@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Balasore | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Balasore | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Balasore for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to balasore, packers and movers from dhanbad to balasore, dhanbad to balasore shifting charges, household relocation dhanbad to balasore, car transport dhanbad to balasore, bike shipping dhanbad to balasore, IBA approved movers dhanbad balasore";
 

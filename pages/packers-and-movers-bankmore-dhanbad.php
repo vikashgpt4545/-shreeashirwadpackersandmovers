@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bankmore Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Bankmore Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bankmore Dhanbad offering reliable home shifting, office relocation, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bankmore dhanbad, packers and movers in bankmore, best packers movers bankmore, household shifting bankmore, dhanbad plaza movers, office relocation bankmore, car transport bankmore, bike shipping bankmore, IBA approved movers bankmore";
 

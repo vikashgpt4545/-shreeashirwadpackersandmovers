@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Sudamdih Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Sudamdih Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Sudamdih Dhanbad for BCCL Eastern Jharia Area quarter shifting, household moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers sudamdih dhanbad, packers and movers in sudamdih, best packers movers sudamdih, household shifting sudamdih, sudamdih shaft mine packers, bccl quarter movers, car transport sudamdih, bike shipping sudamdih, IBA approved movers sudamdih";
 

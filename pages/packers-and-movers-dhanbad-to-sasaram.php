@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Sasaram | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Sasaram | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Sasaram for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to sasaram, packers and movers from dhanbad to sasaram, dhanbad to sasaram shifting charges, household relocation dhanbad to sasaram, car transport dhanbad to sasaram, bike shipping dhanbad to sasaram, IBA approved movers dhanbad sasaram";
 

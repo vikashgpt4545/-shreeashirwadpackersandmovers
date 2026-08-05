@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Tundu Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Tundu Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Tundu Dhanbad for home relocation, industrial quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers tundu dhanbad, packers and movers in tundu, best packers movers tundu, household shifting tundu, tundu packers, tundu smelter movers, car transport tundu, bike shipping tundu, IBA approved movers tundu";
 

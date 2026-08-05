@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kumardhubi Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Kumardhubi Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Kumardhubi Dhanbad offering border highway relocation, industrial & household shifting, car carrier, bike transport & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kumardhubi dhanbad, packers and movers in kumardhubi, best packers movers kumardhubi, household shifting kumardhubi, kew industrial movers, ecl quarter packers, car transport kumardhubi, bike shipping kumardhubi, IBA approved movers kumardhubi";
 

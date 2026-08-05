@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Akola | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Akola | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Akola for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to akola, packers and movers from dhanbad to akola, dhanbad to akola shifting charges, household relocation dhanbad to akola, car transport dhanbad to akola, bike shipping dhanbad to akola, IBA approved movers dhanbad akola";
 

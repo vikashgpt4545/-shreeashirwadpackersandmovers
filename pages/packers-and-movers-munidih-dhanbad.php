@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Munidih Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Munidih Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Munidih Dhanbad for BCCL Munidih Project quarter shifting, household moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers munidih dhanbad, packers and movers in munidih, best packers movers munidih, household shifting munidih, munidih project bccl packers, munidih quarter movers, car transport munidih, bike shipping munidih, IBA approved movers munidih";
 

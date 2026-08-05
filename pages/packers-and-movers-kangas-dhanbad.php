@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kangas Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Kangas Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Kangas Dhanbad for home relocation, BCCL colliery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kangas dhanbad, packers and movers in kangas, best packers movers kangas, household shifting kangas, kangas packers, kangas movers, car transport kangas, bike shipping kangas, IBA approved movers kangas";
 

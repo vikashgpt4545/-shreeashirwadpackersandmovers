@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers City Centre Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers City Centre Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in City Centre Dhanbad for home relocation, office shifting, shop inventory moving, car carrier & bike shipping. Call (+91) 8409531615.";
 $page_keywords = "packers and movers city centre dhanbad, packers and movers in city centre, best packers movers city centre, household shifting city centre, Luby Circular Road packers, office shifting city centre, car transport city centre, bike shipping city centre, IBA approved movers city centre";
 

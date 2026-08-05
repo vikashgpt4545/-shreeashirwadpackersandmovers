@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Jharia Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Jharia Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Jharia Dhanbad offering professional home relocation, BCCL officer shifting, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers jharia dhanbad, packers and movers in jharia, best packers movers jharia, household shifting jharia, bccl quarter movers, poddar para packers, car transport jharia, bike shipping jharia, IBA approved movers jharia";
 

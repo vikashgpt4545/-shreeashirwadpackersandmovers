@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Cooperative Colony Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Cooperative Colony Bokaro | 8409531615";
 $page_desc = "Packers and Movers Cooperative Colony Bokaro for home shifting, villa relocation, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers cooperative colony bokaro, packers and movers in cooperative colony, cooperative colony bokaro shifting, shifting charges cooperative colony, IBA approved movers cooperative colony";
 

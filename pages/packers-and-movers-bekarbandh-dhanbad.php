@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bekarbandh Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Bekarbandh Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bekarbandh Dhanbad for home relocation, Bekarbandh Park area moving, railway colony shifting, car carrier & bike shipping. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bekarbandh dhanbad, packers and movers in bekarbandh, best packers movers bekarbandh, household shifting bekarbandh, bekarbandh park packers, polytechnic road movers, car transport bekarbandh, bike shipping bekarbandh, IBA approved movers bekarbandh";
 

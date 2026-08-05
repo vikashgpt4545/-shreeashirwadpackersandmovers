@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Moving Heavy Furniture Tips Ranchi | 8409531615 Shifting";
+$page_title = "Moving Heavy Furniture Tips Ranchi | 8409531615";
 $page_desc = "Expert moving heavy furniture tips in Ranchi. Learn safe dismantling, slider techniques, lifting straps, 3-layer bubble packing & professional transport. Call 8409531615.";
 $page_keywords = "moving heavy furniture tips ranchi, heavy furniture movers ranchi, sofa bed dismantling ranchi, furniture lifting straps ranchi, wooden furniture packing ranchi";
 

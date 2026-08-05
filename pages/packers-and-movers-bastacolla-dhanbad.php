@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bastacolla Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Bastacolla Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bastacolla Dhanbad for home relocation, BCCL colliery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bastacolla dhanbad, packers and movers in bastacolla, best packers movers bastacolla, household shifting bastacolla, bastacolla packers, bastacolla movers, car transport bastacolla, bike shipping bastacolla, IBA approved movers bastacolla";
 

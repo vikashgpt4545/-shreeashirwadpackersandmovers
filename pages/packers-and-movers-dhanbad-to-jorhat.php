@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Jorhat | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Jorhat | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Jorhat for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to jorhat, packers and movers from dhanbad to jorhat, dhanbad to jorhat shifting charges, household relocation dhanbad to jorhat, car transport dhanbad to jorhat, bike shipping dhanbad to jorhat, IBA approved movers dhanbad jorhat";
 

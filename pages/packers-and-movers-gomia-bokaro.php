@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Gomia Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Gomia Bokaro | 8409531615";
 $page_desc = "Packers and Movers Gomia Bokaro for local household shifting, IEL industrial colony relocation, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers gomia bokaro, packers and movers in gomia, IEL gomia shifting, shifting charges gomia bokaro, IBA approved movers gomia";
 

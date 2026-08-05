@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Wrasse Colony Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Wrasse Colony Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Wrasse Colony Dhanbad for home relocation, BCCL quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers wrasse colony dhanbad, packers and movers in wrasse colony, best packers movers wrasse colony, household shifting wrasse colony, wrasse colony packers, wrasse colony movers, car transport wrasse colony, bike shipping wrasse colony, IBA approved movers wrasse colony";
 

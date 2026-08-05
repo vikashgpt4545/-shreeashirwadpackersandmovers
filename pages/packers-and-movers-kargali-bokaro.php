@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kargali Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Kargali Bokaro | 8409531615";
 $page_desc = "Packers and Movers Kargali Bokaro for home shifting, CCL coal field quarter relocation, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kargali bokaro, packers and movers in kargali, CCL kargali shifting, shifting charges kargali bokaro, IBA approved movers kargali";
 

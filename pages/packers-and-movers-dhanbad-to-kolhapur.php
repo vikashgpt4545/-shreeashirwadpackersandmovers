@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Kolhapur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Kolhapur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Kolhapur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to kolhapur, packers and movers from dhanbad to kolhapur, dhanbad to kolhapur shifting charges, household relocation dhanbad to kolhapur, car transport dhanbad to kolhapur, bike shipping dhanbad to kolhapur, IBA approved movers dhanbad kolhapur";
 

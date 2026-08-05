@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Lonavala | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Lonavala | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Lonavala for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to lonavala, packers and movers from dhanbad to lonavala, dhanbad to lonavala shifting charges, household relocation dhanbad to lonavala, car transport dhanbad to lonavala, bike shipping dhanbad to lonavala, IBA approved movers dhanbad lonavala";
 

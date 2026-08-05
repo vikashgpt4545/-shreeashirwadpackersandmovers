@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike and Car Transportation Guide Ranchi | Rates & Carrier 8409531615";
+$page_title = "Bike and Car Transportation Guide Ranchi | 8409531615";
 $page_desc = "Complete Bike and Car Transportation Guide in Ranchi. Safe vehicle shipping in covered hydraulic car carriers & multi-layer motorcycle wrapping. Call 8409531615.";
 $page_keywords = "bike car transportation guide ranchi, car carrier service ranchi, bike transport cost ranchi, motorcycle packing service ranchi, enclosed car transport ranchi, IBA approved vehicle bill ranchi, safe car moving ranchi, bike shipping quote ranchi";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Tetulmari Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Tetulmari Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Tetulmari Dhanbad for home relocation, railway colony & BCCL quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers tetulmari dhanbad, packers and movers in tetulmari, best packers movers tetulmari, household shifting tetulmari, tetulmari packers, tetulmari railway movers, car transport tetulmari, bike shipping tetulmari, IBA approved movers tetulmari";
 

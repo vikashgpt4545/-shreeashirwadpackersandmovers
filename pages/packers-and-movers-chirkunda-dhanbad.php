@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Chirkunda Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Chirkunda Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Chirkunda Dhanbad providing safe border corridor house shifting, Maithon Kumardhubi relocation, car carrier & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers chirkunda dhanbad, packers and movers in chirkunda, best packers movers chirkunda, household shifting chirkunda, kumardhubi packers, maithon dam movers, car transport chirkunda, bike shipping chirkunda, IBA approved movers chirkunda";
 

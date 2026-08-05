@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Cuttack | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Cuttack | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Cuttack for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to cuttack, packers and movers from dhanbad to cuttack, dhanbad to cuttack shifting charges, household relocation dhanbad to cuttack, car transport dhanbad to cuttack, bike shipping dhanbad to cuttack, IBA approved movers dhanbad cuttack";
 

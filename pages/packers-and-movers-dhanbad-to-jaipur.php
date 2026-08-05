@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Jaipur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Jaipur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Jaipur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to jaipur, packers and movers from dhanbad to jaipur, dhanbad to jaipur shifting charges, household relocation dhanbad to jaipur, car transport dhanbad to jaipur, bike shipping dhanbad to jaipur, IBA approved movers dhanbad jaipur";
 

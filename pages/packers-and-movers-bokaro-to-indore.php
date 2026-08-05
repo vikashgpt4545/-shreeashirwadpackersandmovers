@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Indore | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Indore | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Indore for home relocation, car shipping, bike transport & IBA claim bills. Call (+91) 8409531615 for free quote.";
 $page_keywords = "packers and movers bokaro to indore, bokaro to indore packers and movers, bokaro to indore shifting charges, IBA approved movers bokaro to indore";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Putki Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Putki Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Putki Dhanbad for PB Area BCCL quarter shifting, household moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers putki dhanbad, packers and movers in putki, best packers movers putki, household shifting putki, pb area bccl packers, munidih quarter movers, car transport putki, bike shipping putki, IBA approved movers putki";
 

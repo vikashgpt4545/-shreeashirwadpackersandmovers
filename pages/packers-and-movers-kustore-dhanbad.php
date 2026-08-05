@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kustore Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Kustore Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Kustore Dhanbad for BCCL Kustore Area quarter shifting, household moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kustore dhanbad, packers and movers in kustore, best packers movers kustore, household shifting kustore, kustore colliery packers, bccl quarter movers, car transport kustore, bike shipping kustore, IBA approved movers kustore";
 

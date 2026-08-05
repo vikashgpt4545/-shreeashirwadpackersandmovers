@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Digwadih Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Digwadih Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Digwadih Dhanbad for home relocation, Tata Steel & BCCL quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers digwadih dhanbad, packers and movers in digwadih, best packers movers digwadih, household shifting digwadih, digwadih packers, digwadih movers, car transport digwadih, bike shipping digwadih, IBA approved movers digwadih";
 

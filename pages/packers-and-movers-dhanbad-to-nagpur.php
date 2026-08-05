@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Nagpur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Nagpur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Nagpur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to nagpur, packers and movers from dhanbad to nagpur, dhanbad to nagpur shifting charges, household relocation dhanbad to nagpur, car transport dhanbad to nagpur, bike shipping dhanbad to nagpur, IBA approved movers dhanbad nagpur";
 

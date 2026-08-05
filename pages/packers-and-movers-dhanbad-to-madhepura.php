@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Madhepura | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Madhepura | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Madhepura for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to madhepura, packers and movers from dhanbad to madhepura, dhanbad to madhepura shifting charges, household relocation dhanbad to madhepura, car transport dhanbad to madhepura, bike shipping dhanbad to madhepura, IBA approved movers dhanbad madhepura";
 

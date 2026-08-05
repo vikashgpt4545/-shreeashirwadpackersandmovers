@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Unpacking and Setting Up New Home Ranchi | 8409531615 Shifting";
+$page_title = "Unpacking and Setting Up New Home Ranchi | 8409531615";
 $page_desc = "Complete guide to unpacking and setting up new home in Ranchi. Learn room-by-room unpacking priority, furniture reassembly, electrical installation & debris disposal. Call 8409531615.";
 $page_keywords = "unpacking and setting up new home ranchi, home unpacking services ranchi, furniture reassembly ranchi, new house setup guide ranchi, post move unpacking ranchi";
 

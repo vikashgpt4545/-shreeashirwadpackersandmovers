@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Chandigarh | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Chandigarh | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Chandigarh for house shifting, car carrier, bike shipping, office moving & IBA GST claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bokaro to chandigarh, bokaro to chandigarh packers and movers, bokaro to chandigarh shifting charges, IBA approved movers bokaro to chandigarh";
 

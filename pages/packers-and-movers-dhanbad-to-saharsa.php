@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Saharsa | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Saharsa | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Saharsa for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to saharsa, packers and movers from dhanbad to saharsa, dhanbad to saharsa shifting charges, household relocation dhanbad to saharsa, car transport dhanbad to saharsa, bike shipping dhanbad to saharsa, IBA approved movers dhanbad saharsa";
 

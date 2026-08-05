@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dugda Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Dugda Bokaro | 8409531615";
 $page_desc = "Packers and Movers Dugda Bokaro for home shifting, coal washery township relocation, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dugda bokaro, packers and movers in dugda, dugda coal washery shifting, shifting charges dugda bokaro, IBA approved movers dugda";
 

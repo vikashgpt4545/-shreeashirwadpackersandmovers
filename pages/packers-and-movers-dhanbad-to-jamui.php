@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Jamui | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Jamui | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Jamui for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to jamui, packers and movers from dhanbad to jamui, dhanbad to jamui shifting charges, household relocation dhanbad to jamui, car transport dhanbad to jamui, bike shipping dhanbad to jamui, IBA approved movers dhanbad jamui";
 

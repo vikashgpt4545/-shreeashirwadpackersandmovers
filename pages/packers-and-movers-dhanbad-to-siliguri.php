@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Siliguri | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Siliguri | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Siliguri for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to siliguri, packers and movers from dhanbad to siliguri, dhanbad to siliguri shifting charges, household relocation dhanbad to siliguri, car transport dhanbad to siliguri, bike shipping dhanbad to siliguri, IBA approved movers dhanbad siliguri";
 

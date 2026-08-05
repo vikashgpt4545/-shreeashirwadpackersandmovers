@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Vidya Nagar Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Vidya Nagar Bokaro | 8409531615";
 $page_desc = "Packers and Movers Vidya Nagar Bokaro for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers vidya nagar bokaro, packers and movers in vidya nagar bokaro, vidya nagar bokaro shifting, shifting charges vidya nagar bokaro, IBA approved movers vidya nagar";
 

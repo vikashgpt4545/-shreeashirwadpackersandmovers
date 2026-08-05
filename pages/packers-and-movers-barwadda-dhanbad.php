@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Barwadda Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Barwadda Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Barwadda Dhanbad offering fast GT Road highway relocation, household shifting, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers barwadda dhanbad, packers and movers in barwadda, best packers movers barwadda, household shifting barwadda, kisan chowk packers, gt road barwadda movers, car transport barwadda, bike shipping barwadda, IBA approved movers barwadda";
 

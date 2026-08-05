@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Purana Bazar Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Purana Bazar Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Purana Bazar Dhanbad for home relocation, shop shifting, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers purana bazar dhanbad, packers and movers in purana bazar, best packers movers purana bazar, household shifting purana bazar, purana bazar packers, purana bazar movers, car transport purana bazar, bike shipping purana bazar, IBA approved movers purana bazar";
 

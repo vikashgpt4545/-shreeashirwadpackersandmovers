@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Mugma Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Mugma Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Mugma Dhanbad for home relocation, BCCL Mugma Area quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers mugma dhanbad, packers and movers in mugma, best packers movers mugma, household shifting mugma, mugma packers, bccl quarter movers mugma, car transport mugma, bike shipping mugma, IBA approved movers mugma";
 

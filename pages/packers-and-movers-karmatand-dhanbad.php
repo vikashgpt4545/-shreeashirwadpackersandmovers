@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Karmatand Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Karmatand Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Karmatand Dhanbad for household relocation, Govindpur GT Road link moving, car carrier & bike shipping. Call (+91) 8409531615.";
 $page_keywords = "packers and movers karmatand dhanbad, packers and movers in karmatand, best packers movers karmatand, household shifting karmatand, karmatand residential packers, govindpur link movers, car transport karmatand, bike shipping karmatand, IBA approved movers karmatand";
 

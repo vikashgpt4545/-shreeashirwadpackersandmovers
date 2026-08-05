@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Ranchi Cost Guide | Price Rates 8409531615";
+$page_title = "Packers and Movers in Ranchi Cost Guide | 8409531615";
 $page_desc = "Complete Packers and Movers in Ranchi Cost Guide. Detailed breakdown of 1BHK, 2BHK, 3BHK home relocation rates, packing material costs, vehicle transport pricing & IBA billing. Call 8409531615.";
 $page_keywords = "packers and movers in ranchi cost guide, movers and packers ranchi rate list, ranchi shifting price calculation, household relocation cost ranchi, 1bhk shifting rate ranchi, 2bhk moving cost ranchi, 3bhk relocation pricing ranchi, bike transport cost ranchi, car carrier rate ranchi, IBA approved moving bill ranchi, packing material cost ranchi, local shifting pricing ranchi";
 

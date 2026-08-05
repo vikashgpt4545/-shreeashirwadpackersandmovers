@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Telo Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Telo Bokaro | 8409531615";
 $page_desc = "Packers and Movers Telo Bokaro for home shifting, commercial relocation, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers telo bokaro, packers and movers in telo, telo bokaro shifting, shifting charges telo, IBA approved movers telo";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Sijua Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Sijua Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Sijua Dhanbad for home relocation, BCCL staff quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers sijua dhanbad, packers and movers in sijua, best packers movers sijua, household shifting sijua, sijua packers, bccl quarter movers sijua, car transport sijua, bike shipping sijua, IBA approved movers sijua";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Coimbatore | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Coimbatore | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Coimbatore for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to coimbatore, packers and movers from dhanbad to coimbatore, dhanbad to coimbatore shifting charges, household relocation dhanbad to coimbatore, car transport dhanbad to coimbatore, bike shipping dhanbad to coimbatore, IBA approved movers dhanbad coimbatore";
 

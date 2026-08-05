@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Sindri Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Sindri Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Sindri Dhanbad providing BIT Sindri, FCIL township & ACC cement plant relocation, household shifting, car carrier & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers sindri dhanbad, packers and movers in sindri, best packers movers sindri, household shifting sindri, bit sindri packers, fcil township movers, car transport sindri, bike shipping sindri, IBA approved movers sindri";
 

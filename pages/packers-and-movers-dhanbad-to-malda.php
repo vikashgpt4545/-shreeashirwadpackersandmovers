@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Malda | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Malda | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Malda for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to malda, packers and movers from dhanbad to malda, dhanbad to malda shifting charges, household relocation dhanbad to malda, car transport dhanbad to malda, bike shipping dhanbad to malda, IBA approved movers dhanbad malda";
 

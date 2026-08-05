@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Jharsuguda | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Jharsuguda | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Jharsuguda for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to jharsuguda, packers and movers from dhanbad to jharsuguda, dhanbad to jharsuguda shifting charges, household relocation dhanbad to jharsuguda, car transport dhanbad to jharsuguda, bike shipping dhanbad to jharsuguda, IBA approved movers dhanbad jharsuguda";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kamaldih Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Kamaldih Bokaro | 8409531615";
 $page_desc = "Packers and Movers Kamaldih Bokaro for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kamaldih bokaro, packers and movers in kamaldih bokaro, kamaldih bokaro shifting, shifting charges kamaldih bokaro, IBA approved movers kamaldih";
 

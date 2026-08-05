@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Jamshedpur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Jamshedpur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Jamshedpur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to jamshedpur, packers and movers from dhanbad to jamshedpur, dhanbad to jamshedpur shifting charges, household relocation dhanbad to jamshedpur, car transport dhanbad to jamshedpur, bike shipping dhanbad to jamshedpur, IBA approved movers dhanbad jamshedpur";
 

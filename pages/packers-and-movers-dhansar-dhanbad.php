@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhansar Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Dhansar Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Dhansar Dhanbad for fast household relocation, office moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhansar dhanbad, packers and movers in dhansar, best packers movers dhansar, household shifting dhansar, dhansar chowk movers, bccl quarter packers, car transport dhansar, bike shipping dhansar, IBA approved movers dhansar";
 

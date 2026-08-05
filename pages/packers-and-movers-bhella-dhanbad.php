@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bhella Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Bhella Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bhella Dhanbad for home relocation, BCCL colliery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bhella dhanbad, packers and movers in bhella, best packers movers bhella, household shifting bhella, bhella packers, bhella movers, car transport bhella, bike shipping bhella, IBA approved movers bhella";
 

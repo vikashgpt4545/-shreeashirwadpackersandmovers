@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Haldia | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Haldia | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Haldia for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to haldia, packers and movers from dhanbad to haldia, dhanbad to haldia shifting charges, household relocation dhanbad to haldia, car transport dhanbad to haldia, bike shipping dhanbad to haldia, IBA approved movers dhanbad haldia";
 

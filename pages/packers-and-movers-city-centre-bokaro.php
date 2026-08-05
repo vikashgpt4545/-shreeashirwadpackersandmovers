@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers City Centre Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers City Centre Bokaro | 8409531615";
 $page_desc = "Packers and Movers City Centre Bokaro for home shifting, commercial office moving, shop relocation, vehicle transport & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers city centre bokaro, packers and movers in city centre bokaro, city centre bokaro shifting, office relocation city centre bokaro, IBA approved movers city centre";
 

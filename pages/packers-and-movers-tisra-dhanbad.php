@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Tisra Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Tisra Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Tisra Dhanbad for BCCL South Tisra quarter shifting, household moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers tisra dhanbad, packers and movers in tisra, best packers movers tisra, household shifting tisra, south tisra colliery packers, bccl quarter movers, car transport tisra, bike shipping tisra, IBA approved movers tisra";
 

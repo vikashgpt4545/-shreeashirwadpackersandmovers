@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Loyabad Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Loyabad Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Loyabad Dhanbad for home relocation, BCCL colony moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers loyabad dhanbad, packers and movers in loyabad, best packers movers loyabad, household shifting loyabad, loyabad packers, bccl quarter movers loyabad, car transport loyabad, bike shipping loyabad, IBA approved movers loyabad";
 

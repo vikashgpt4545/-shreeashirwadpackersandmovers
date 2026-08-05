@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bhaga Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Bhaga Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bhaga Dhanbad for home relocation, BCCL colliery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bhaga dhanbad, packers and movers in bhaga, best packers movers bhaga, household shifting bhaga, bhaga packers, bhaga movers, car transport bhaga, bike shipping bhaga, IBA approved movers bhaga";
 

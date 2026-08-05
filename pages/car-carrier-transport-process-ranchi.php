@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Carrier Transport Process Ranchi | 8409531615 Shifting";
+$page_title = "Car Carrier Transport Process Ranchi | 8409531615";
 $page_desc = "Step-by-step car carrier transport process in Ranchi. Covered double-decker car trailers, wheel clamp locking, hydraulic ramp loading & live GPS tracking. Call 8409531615.";
 $page_keywords = "car carrier transport process ranchi, car shipping packers movers ranchi, car carrier trailer ranchi, vehicle relocation guide ranchi, intercity car transport ranchi";
 

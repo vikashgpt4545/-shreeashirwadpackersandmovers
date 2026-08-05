@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Dumka | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Dumka | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Dumka for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to dumka, packers and movers from dhanbad to dumka, dhanbad to dumka shifting charges, household relocation dhanbad to dumka, car transport dhanbad to dumka, bike shipping dhanbad to dumka, IBA approved movers dhanbad dumka";
 

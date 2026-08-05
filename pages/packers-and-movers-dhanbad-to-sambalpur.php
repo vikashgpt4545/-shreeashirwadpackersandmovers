@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Sambalpur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Sambalpur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Sambalpur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to sambalpur, packers and movers from dhanbad to sambalpur, dhanbad to sambalpur shifting charges, household relocation dhanbad to sambalpur, car transport dhanbad to sambalpur, bike shipping dhanbad to sambalpur, IBA approved movers dhanbad sambalpur";
 

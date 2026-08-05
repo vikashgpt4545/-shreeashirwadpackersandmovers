@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Giridih | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Giridih | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Giridih for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to giridih, packers and movers from dhanbad to giridih, dhanbad to giridih shifting charges, household relocation dhanbad to giridih, car transport dhanbad to giridih, bike shipping dhanbad to giridih, IBA approved movers dhanbad giridih";
 

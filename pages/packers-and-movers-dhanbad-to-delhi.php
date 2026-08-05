@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Delhi | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Delhi | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Delhi NCR for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to delhi, packers and movers from dhanbad to delhi, dhanbad to delhi shifting charges, household relocation dhanbad to delhi, car transport dhanbad to delhi, bike shipping dhanbad to delhi, IBA approved movers dhanbad delhi";
 

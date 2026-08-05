@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Maithon Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Maithon Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Maithon Dhanbad for home relocation, DVC Maithon & MPPL quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers maithon dhanbad, packers and movers in maithon, best packers movers maithon, household shifting maithon, maithon packers, dvc quarter movers maithon, mppl movers maithon, car transport maithon, bike shipping maithon, IBA approved movers maithon";
 

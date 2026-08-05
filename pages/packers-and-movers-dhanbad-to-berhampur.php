@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Berhampur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Berhampur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Berhampur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to berhampur, packers and movers from dhanbad to berhampur, dhanbad to berhampur shifting charges, household relocation dhanbad to berhampur, car transport dhanbad to berhampur, bike shipping dhanbad to berhampur, IBA approved movers dhanbad berhampur";
 

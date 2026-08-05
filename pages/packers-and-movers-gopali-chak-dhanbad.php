@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Gopali Chak Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Gopali Chak Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Gopali Chak Dhanbad for home relocation, BCCL colliery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers gopali chak dhanbad, packers and movers in gopali chak, best packers movers gopali chak, household shifting gopali chak, gopali chak packers, gopali chak movers, car transport gopali chak, bike shipping gopali chak, IBA approved movers gopali chak";
 

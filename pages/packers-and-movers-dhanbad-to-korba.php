@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Korba | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Korba | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Korba for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to korba, packers and movers from dhanbad to korba, dhanbad to korba shifting charges, household relocation dhanbad to korba, car transport dhanbad to korba, bike shipping dhanbad to korba, IBA approved movers dhanbad korba";
 

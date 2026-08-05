@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bartand Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Bartand Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bartand Dhanbad for home relocation, Bartand Bus Stand vicinity moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bartand dhanbad, packers and movers in bartand, best packers movers bartand, household shifting bartand, bartand bus stand packers, ISM proximity movers, car transport bartand, bike shipping bartand, IBA approved movers bartand";
 

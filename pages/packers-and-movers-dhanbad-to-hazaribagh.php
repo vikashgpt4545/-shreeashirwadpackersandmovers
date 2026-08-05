@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Hazaribagh | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Hazaribagh | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Hazaribagh for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to hazaribagh, packers and movers from dhanbad to hazaribagh, dhanbad to hazaribagh shifting charges, household relocation dhanbad to hazaribagh, car transport dhanbad to hazaribagh, bike shipping dhanbad to hazaribagh, IBA approved movers dhanbad hazaribagh";
 

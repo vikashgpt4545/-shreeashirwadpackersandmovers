@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Chandrapura Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Chandrapura Bokaro | 8409531615";
 $page_desc = "Packers and Movers Chandrapura Bokaro for home shifting, DVC CTPS thermal colony moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers chandrapura bokaro, packers and movers in chandrapura, DVC shifting chandrapura, shifting charges chandrapura bokaro, IBA approved movers chandrapura";
 

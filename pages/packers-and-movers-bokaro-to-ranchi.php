@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Ranchi | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Ranchi | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Ranchi for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bokaro to ranchi, bokaro to ranchi packers and movers, bokaro to ranchi shifting charges, IBA approved movers bokaro to ranchi";
 

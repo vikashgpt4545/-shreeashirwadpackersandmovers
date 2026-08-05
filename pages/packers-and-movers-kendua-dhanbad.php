@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kendua Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Kendua Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Kendua Dhanbad for BCCL quarter shifting, household moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kendua dhanbad, packers and movers in kendua, best packers movers kendua, household shifting kendua, kenduadih coalfield packers, bccl quarter movers, car transport kendua, bike shipping kendua, IBA approved movers kendua";
 

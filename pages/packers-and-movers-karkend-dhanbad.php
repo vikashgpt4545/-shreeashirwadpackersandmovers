@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Karkend Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Karkend Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Karkend Dhanbad for home relocation, BCCL colony moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers karkend dhanbad, packers and movers in karkend, best packers movers karkend, household shifting karkend, karkend packers, bccl quarter movers karkend, car transport karkend, bike shipping karkend, IBA approved movers karkend";
 

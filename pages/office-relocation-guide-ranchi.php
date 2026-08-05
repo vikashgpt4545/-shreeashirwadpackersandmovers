@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Office Relocation Guide Ranchi 2026 | Corporate Movers 8409531615";
+$page_title = "Office Relocation Guide Ranchi 2026 | 8409531615";
 $page_desc = "Complete Office Relocation Guide in Ranchi. Commercial corporate shifting, IT server moves, office furniture packing & zero-downtime transition. Call 8409531615.";
 $page_keywords = "office relocation guide ranchi, corporate packers and movers ranchi, commercial shifting ranchi, IT server moving ranchi, office moving checklist ranchi, business relocation ranchi";
 

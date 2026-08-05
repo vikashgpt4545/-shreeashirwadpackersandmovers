@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "IBA Approved Packers and Movers Ranchi Benefits | 8409531615 Shifting";
+$page_title = "IBA Approved Packers and Movers Ranchi Benefits | 8409531615";
 $page_desc = "Key benefits of hiring IBA approved packers and movers in Ranchi. Bank & Govt relocation clearance, claim reimbursement, verified transport & insurance. Call 8409531615.";
 $page_keywords = "iba approved packers and movers ranchi benefits, iba approved movers ranchi, bank employee relocation ranchi, iba bill format ranchi, verified packers movers ranchi, iba code relocation ranchi";
 

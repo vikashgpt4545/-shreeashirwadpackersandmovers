@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Buxar | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Buxar | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Buxar for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to buxar, packers and movers from dhanbad to buxar, dhanbad to buxar shifting charges, household relocation dhanbad to buxar, car transport dhanbad to buxar, bike shipping dhanbad to buxar, IBA approved movers dhanbad buxar";
 

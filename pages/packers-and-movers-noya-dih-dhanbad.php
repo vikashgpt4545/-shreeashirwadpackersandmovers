@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Noya Dih Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Noya Dih Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Noya Dih Dhanbad for home relocation, Barwadda bypass vicinity moving, car carrier & bike shipping. Call (+91) 8409531615.";
 $page_keywords = "packers and movers noya dih dhanbad, packers and movers in noya dih, best packers movers noya dih, household shifting noya dih, noya dih residential packers, barwadda bypass movers, car transport noya dih, bike shipping noya dih, IBA approved movers noya dih";
 

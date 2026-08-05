@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Garga Bridge Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Garga Bridge Bokaro | 8409531615";
 $page_desc = "Packers and Movers Garga Bridge Bokaro for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers garga bridge bokaro, packers and movers in garga bridge bokaro, garga bridge bokaro shifting, shifting charges garga bridge bokaro, IBA approved movers garga bridge";
 

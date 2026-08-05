@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bhowra Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Bhowra Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bhowra Dhanbad for BCCL Bhowra Area quarter shifting, household moving, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bhowra dhanbad, packers and movers in bhowra, best packers movers bhowra, household shifting bhowra, bhowra colliery packers, bccl quarter movers, car transport bhowra, bike shipping bhowra, IBA approved movers bhowra";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Varanasi | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Varanasi | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Varanasi for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to varanasi, packers and movers from dhanbad to varanasi, dhanbad to varanasi shifting charges, household relocation dhanbad to varanasi, car transport dhanbad to varanasi, bike shipping dhanbad to varanasi, IBA approved movers dhanbad varanasi";
 

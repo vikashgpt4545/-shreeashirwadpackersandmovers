@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Surat | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Surat | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Surat for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to surat, packers and movers from dhanbad to surat, dhanbad to surat shifting charges, household relocation dhanbad to surat, car transport dhanbad to surat, bike shipping dhanbad to surat, IBA approved movers dhanbad surat";
 

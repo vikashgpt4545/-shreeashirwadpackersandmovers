@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Canary Hill Road Hazaribagh | 8409531615 Shifting";
+$page_title = "Packers and Movers Canary Hill Road Hazaribagh | 8409531615";
 $page_desc = "Top Packers and Movers in Canary Hill Road Hazaribagh offering household shifting, office relocation, vehicle transport & warehousing. Call (+91) 8409531615.";
 $page_keywords = "packers and movers canary hill road hazaribagh, packers and movers in canary hill road, house shifting canary hill road hazaribagh, relocation services canary hill road, best packers movers canary hill road hazaribagh, IBA approved movers hazaribagh";
 

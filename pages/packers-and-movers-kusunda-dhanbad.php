@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kusunda Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Kusunda Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Kusunda Dhanbad for home relocation, BCCL colliery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kusunda dhanbad, packers and movers in kusunda, best packers movers kusunda, household shifting kusunda, kusunda packers, kusunda movers, car transport kusunda, bike shipping kusunda, IBA approved movers kusunda";
 

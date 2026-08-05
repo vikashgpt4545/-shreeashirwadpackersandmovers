@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Top 10 Shifting Tips Packers and Movers in Ranchi | Guide 8409531615";
+$page_title = "Top 10 Shifting Tips Packers and Movers in Ranchi | 8409531615";
 $page_desc = "Master the top 10 shifting tips from expert packers and movers in Ranchi. Essential relocation advice for packing, decluttering, electronics safety & stress-free home moving. Call 8409531615.";
 $page_keywords = "top 10 shifting tips packers and movers in ranchi, home relocation advice ranchi, household moving guide ranchi, hassle free shifting tips ranchi, packing checklist ranchi, electronics moving safety ranchi, IBA bill relocation ranchi, fast home shifting tips ranchi";
 

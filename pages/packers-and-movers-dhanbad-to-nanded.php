@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Nanded | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Nanded | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Nanded for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to nanded, packers and movers from dhanbad to nanded, dhanbad to nanded shifting charges, household relocation dhanbad to nanded, car transport dhanbad to nanded, bike shipping dhanbad to nanded, IBA approved movers dhanbad nanded";
 

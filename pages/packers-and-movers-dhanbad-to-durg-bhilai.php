@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Durg Bhilai | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Durg Bhilai | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Durg Bhilai for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to durg bhilai, packers and movers from dhanbad to durg bhilai, dhanbad to durg bhilai shifting charges, household relocation dhanbad to durg bhilai, car transport dhanbad to durg bhilai, bike shipping dhanbad to durg bhilai, IBA approved movers dhanbad durg bhilai";
 

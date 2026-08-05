@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Raipur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Raipur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Raipur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to raipur, packers and movers from dhanbad to raipur, dhanbad to raipur shifting charges, household relocation dhanbad to raipur, car transport dhanbad to raipur, bike shipping dhanbad to raipur, IBA approved movers dhanbad raipur";
 

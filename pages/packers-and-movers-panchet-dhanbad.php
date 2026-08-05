@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Panchet Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Panchet Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Panchet Dhanbad for home relocation, DVC Panchet colony moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers panchet dhanbad, packers and movers in panchet, best packers movers panchet, household shifting panchet, panchet packers, dvc quarter movers panchet, car transport panchet, bike shipping panchet, IBA approved movers panchet";
 

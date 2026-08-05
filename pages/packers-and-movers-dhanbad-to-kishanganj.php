@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Kishanganj | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Kishanganj | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Kishanganj for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to kishanganj, packers and movers from dhanbad to kishanganj, dhanbad to kishanganj shifting charges, household relocation dhanbad to kishanganj, car transport dhanbad to kishanganj, bike shipping dhanbad to kishanganj, IBA approved movers dhanbad kishanganj";
 

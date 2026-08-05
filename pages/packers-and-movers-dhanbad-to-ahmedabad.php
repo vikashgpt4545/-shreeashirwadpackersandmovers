@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Ahmedabad | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Ahmedabad | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Ahmedabad for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to ahmedabad, packers and movers from dhanbad to ahmedabad, dhanbad to ahmedabad shifting charges, household relocation dhanbad to ahmedabad, car transport dhanbad to ahmedabad, bike shipping dhanbad to ahmedabad, IBA approved movers dhanbad ahmedabad";
 

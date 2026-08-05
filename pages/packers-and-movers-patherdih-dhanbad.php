@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Patherdih Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Patherdih Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Patherdih Dhanbad for home relocation, BCCL Coal Washery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers patherdih dhanbad, packers and movers in patherdih, best packers movers patherdih, household shifting patherdih, patherdih packers, patherdih movers, car transport patherdih, bike shipping patherdih, IBA approved movers patherdih";
 

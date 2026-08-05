@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Steel Gate Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Steel Gate Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Steel Gate Dhanbad for premium apartment shifting, doctor & executive household moving, car carrier & bike shipping. Call (+91) 8409531615.";
 $page_keywords = "packers and movers steel gate dhanbad, packers and movers in steel gate, best packers movers steel gate, household shifting steel gate, steel gate saraidhela packers, doctor quarter movers, car transport steel gate, bike shipping steel gate, IBA approved movers steel gate";
 

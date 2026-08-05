@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Howrah | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Howrah | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Howrah for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to howrah, packers and movers from dhanbad to howrah, dhanbad to howrah shifting charges, household relocation dhanbad to howrah, car transport dhanbad to howrah, bike shipping dhanbad to howrah, IBA approved movers dhanbad howrah";
 

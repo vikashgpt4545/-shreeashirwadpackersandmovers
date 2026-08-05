@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bermo Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Bermo Bokaro | 8409531615";
 $page_desc = "Packers and Movers Bermo Bokaro for local home shifting, CCL office relocation, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bermo bokaro, packers and movers in bermo, CCL shifting bermo, shifting charges bermo bokaro, IBA approved movers bermo";
 

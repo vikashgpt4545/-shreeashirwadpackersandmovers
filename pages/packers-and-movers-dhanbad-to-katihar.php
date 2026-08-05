@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Katihar | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Katihar | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Katihar for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to katihar, packers and movers from dhanbad to katihar, dhanbad to katihar shifting charges, household relocation dhanbad to katihar, car transport dhanbad to katihar, bike shipping dhanbad to katihar, IBA approved movers dhanbad katihar";
 

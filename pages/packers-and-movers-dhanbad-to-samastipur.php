@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Samastipur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Samastipur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Samastipur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to samastipur, packers and movers from dhanbad to samastipur, dhanbad to samastipur shifting charges, household relocation dhanbad to samastipur, car transport dhanbad to samastipur, bike shipping dhanbad to samastipur, IBA approved movers dhanbad samastipur";
 

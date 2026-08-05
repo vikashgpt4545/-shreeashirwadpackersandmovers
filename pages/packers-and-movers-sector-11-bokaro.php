@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Sector 11 Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Sector 11 Bokaro | 8409531615";
 $page_desc = "Packers and Movers Sector 11 Bokaro Steel City for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers sector 11 bokaro, packers and movers in sector 11 bokaro, sector 11 bokaro shifting, shifting charges sector 11 bokaro, IBA approved movers sector 11";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Egarkund Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Egarkund Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Egarkund Dhanbad for home relocation, industrial & colliery quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers egarkund dhanbad, packers and movers in egarkund, best packers movers egarkund, household shifting egarkund, egarkund packers, egarkund movers, car transport egarkund, bike shipping egarkund, IBA approved movers egarkund";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Ramgarh | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Ramgarh | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Ramgarh Cantt for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to ramgarh, packers and movers from dhanbad to ramgarh, dhanbad to ramgarh shifting charges, household relocation dhanbad to ramgarh, car transport dhanbad to ramgarh, bike shipping dhanbad to ramgarh, IBA approved movers dhanbad ramgarh";
 

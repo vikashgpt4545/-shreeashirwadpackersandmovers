@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Rajganj Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Rajganj Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Rajganj Dhanbad for home relocation, GT Road highway corridor moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers rajganj dhanbad, packers and movers in rajganj, best packers movers rajganj, household shifting rajganj, rajganj packers, gt road rajganj movers, car transport rajganj, bike shipping rajganj, IBA approved movers rajganj";
 

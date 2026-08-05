@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Durg Bhilai | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Durg Bhilai | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Durg Bhilai for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bokaro to durg bhilai, bokaro to durg bhilai packers and movers, bokaro to bhilai shifting charges, IBA approved movers bokaro to durg bhilai";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Purulia | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Purulia | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Purulia for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to purulia, packers and movers from dhanbad to purulia, dhanbad to purulia shifting charges, household relocation dhanbad to purulia, car transport dhanbad to purulia, bike shipping dhanbad to purulia, IBA approved movers dhanbad purulia";
 

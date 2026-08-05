@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Bhopal | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Bhopal | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Bhopal for home shifting, corporate relocation, car shipping, bike transport & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bokaro to bhopal, bokaro to bhopal packers and movers, bokaro to bhopal shifting charges, IBA approved movers bokaro to bhopal";
 

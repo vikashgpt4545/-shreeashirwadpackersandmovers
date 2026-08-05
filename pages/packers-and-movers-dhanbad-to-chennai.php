@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Chennai | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Chennai | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Chennai for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to chennai, packers and movers from dhanbad to chennai, dhanbad to chennai shifting charges, household relocation dhanbad to chennai, car transport dhanbad to chennai, bike shipping dhanbad to chennai, IBA approved movers dhanbad chennai";
 

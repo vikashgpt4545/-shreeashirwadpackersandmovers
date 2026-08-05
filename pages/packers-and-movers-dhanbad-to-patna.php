@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Patna | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Patna | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Patna for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to patna, packers and movers from dhanbad to patna, dhanbad to patna shifting charges, household relocation dhanbad to patna, car transport dhanbad to patna, bike shipping dhanbad to patna, IBA approved movers dhanbad patna";
 

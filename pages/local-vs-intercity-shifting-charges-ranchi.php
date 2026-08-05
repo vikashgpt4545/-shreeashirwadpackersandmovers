@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Local vs Intercity Shifting Rates in Ranchi | 8409531615 Shifting";
+$page_title = "Local vs Intercity Shifting Rates in Ranchi | 8409531615";
 $page_desc = "Detailed comparison of local vs intercity shifting rates in Ranchi. Learn cost factors, distance slabs, packing levels & vehicle types. Call 8409531615.";
 $page_keywords = "local vs intercity shifting rates ranchi, local moving pricing ranchi, intercity relocation cost ranchi, household shifting tariffs ranchi, packers and movers rate comparison ranchi";
 

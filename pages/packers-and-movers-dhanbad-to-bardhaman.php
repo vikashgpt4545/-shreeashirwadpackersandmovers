@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Bardhaman | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Bardhaman | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Bardhaman for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to bardhaman, packers and movers from dhanbad to bardhaman, dhanbad to bardhaman shifting charges, household relocation dhanbad to bardhaman, car transport dhanbad to bardhaman, bike shipping dhanbad to bardhaman, IBA approved movers dhanbad bardhaman";
 

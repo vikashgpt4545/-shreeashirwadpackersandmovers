@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranchi to Berhampur | 8409531615 Shifting";
+$page_title = "Packers and Movers Ranchi to Berhampur | 8409531615";
 $page_desc = "Professional packers and movers from Ranchi to Berhampur (Brahmapur), Odisha. Dedicated container transport, home shifting, car carrier, bike relocation & 100% insured transit. Call 8409531615.";
 $page_keywords = "packers and movers ranchi to berhampur, ranchi to berhampur shifting rates, home relocation ranchi to brahmapur, car transport ranchi to berhampur, intercity movers ranchi odisha";
 

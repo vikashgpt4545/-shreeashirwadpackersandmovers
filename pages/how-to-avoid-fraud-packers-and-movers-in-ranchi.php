@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "How to Avoid Fraud Packers and Movers in Ranchi | 8409531615 Shifting";
+$page_title = "How to Avoid Fraud Packers and Movers in Ranchi | 8409531615";
 $page_desc = "Learn how to avoid fraud packers and movers in Ranchi. Verification checklist, red flags, IBA compliance, physical office checks & genuine rates. Call 8409531615.";
 $page_keywords = "how to avoid fraud packers and movers in ranchi, scam movers prevention ranchi, verified movers ranchi, fake packers movers identification ranchi, IBA approved packers ranchi, genuine moving company ranchi";
 

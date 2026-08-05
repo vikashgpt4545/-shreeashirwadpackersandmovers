@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Topchanchi Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Topchanchi Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Topchanchi Dhanbad for home relocation, GT Road lake area moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers topchanchi dhanbad, packers and movers in topchanchi, best packers movers topchanchi, household shifting topchanchi, topchanchi packers, topchanchi lake movers, car transport topchanchi, bike shipping topchanchi, IBA approved movers topchanchi";
 

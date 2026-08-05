@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Warehouse Storage Facilities in Ranchi | 8409531615 Shifting";
+$page_title = "Warehouse Storage Facilities in Ranchi | 8409531615";
 $page_desc = "Safe warehouse storage facilities in Ranchi. 24/7 CCTV surveillance, pest control, elevated wooden pallets & flexible short/long-term storage. Call 8409531615.";
 $page_keywords = "warehouse storage facilities in ranchi, household storage ranchi, goods luggage storage ranchi, commercial warehousing ranchi, short term storage unit ranchi";
 

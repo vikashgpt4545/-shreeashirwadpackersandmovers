@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Kalyaneshwari Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Kalyaneshwari Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Kalyaneshwari Dhanbad for home relocation, temple area & DVC quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers kalyaneshwari dhanbad, packers and movers in kalyaneshwari, best packers movers kalyaneshwari, household shifting kalyaneshwari, kalyaneshwari packers, kalyaneshwari movers, car transport kalyaneshwari, bike shipping kalyaneshwari, IBA approved movers kalyaneshwari";
 

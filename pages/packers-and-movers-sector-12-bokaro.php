@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Sector 12 Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Sector 12 Bokaro | 8409531615";
 $page_desc = "Packers and Movers Sector 12 Bokaro for local household shifting, office relocation, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers sector 12 bokaro, packers and movers in sector 12 bokaro, household relocation sector 12, shifting charges sector 12 bokaro, IBA approved movers sector 12";
 

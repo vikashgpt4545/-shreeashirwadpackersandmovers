@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Nawada | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Nawada | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Nawada for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to nawada, packers and movers from dhanbad to nawada, dhanbad to nawada shifting charges, household relocation dhanbad to nawada, car transport dhanbad to nawada, bike shipping dhanbad to nawada, IBA approved movers dhanbad nawada";
 

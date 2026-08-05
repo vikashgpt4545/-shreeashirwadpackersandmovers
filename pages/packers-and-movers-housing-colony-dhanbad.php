@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Housing Colony Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Housing Colony Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Housing Colony Dhanbad for home relocation, Bartand housing sector moving, car carrier & bike shipping. Call (+91) 8409531615.";
 $page_keywords = "packers and movers housing colony dhanbad, packers and movers in housing colony, best packers movers housing colony, household shifting housing colony, housing colony packers, bartand housing movers, car transport housing colony, bike shipping housing colony, IBA approved movers housing colony";
 

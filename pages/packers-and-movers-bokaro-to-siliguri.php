@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bokaro to Siliguri | 8409531615 Shifting";
+$page_title = "Packers and Movers Bokaro to Siliguri | 8409531615";
 $page_desc = "Packers and Movers Bokaro to Siliguri for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bokaro to siliguri, bokaro to siliguri packers and movers, bokaro to siliguri shifting charges, IBA approved movers bokaro to siliguri";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Bokaro Steel City | 8409531615 Shifting";
+$page_title = "Packers and Movers in Bokaro Steel City | 8409531615";
 $page_desc = "Packers and Movers in Bokaro Steel City for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers in bokaro, packers and movers bokaro steel city, household relocation bokaro, car transport bokaro, bike shipping bokaro, IBA approved movers bokaro, shifting charges bokaro";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Moving with Pets in Ranchi Guide | 8409531615 Shifting";
+$page_title = "Moving with Pets in Ranchi Guide | 8409531615";
 $page_desc = "Complete guide for moving with pets in Ranchi. Climate-controlled pet carriers, veterinary documentation, stress reduction tips & safe pet transport. Call 8409531615.";
 $page_keywords = "moving with pets in ranchi guide, pet relocation services ranchi, dog transport ranchi, cat relocation services ranchi, pet safe packers and movers ranchi";
 

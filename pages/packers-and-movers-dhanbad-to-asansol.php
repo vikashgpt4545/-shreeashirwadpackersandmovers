@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Asansol | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Asansol | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Asansol for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to asansol, packers and movers from dhanbad to asansol, dhanbad to asansol shifting charges, household relocation dhanbad to asansol, car transport dhanbad to asansol, bike shipping dhanbad to asansol, IBA approved movers dhanbad asansol";
 

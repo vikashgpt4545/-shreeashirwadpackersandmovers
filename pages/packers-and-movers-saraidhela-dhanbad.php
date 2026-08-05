@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Saraidhela Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Saraidhela Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Saraidhela Dhanbad providing professional home shifting, hospital staff relocation, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers saraidhela dhanbad, packers and movers in saraidhela, best packers movers saraidhela, household shifting saraidhela, central hospital movers, steel gate packers, car transport saraidhela, bike shipping saraidhela, IBA approved movers saraidhela";
 

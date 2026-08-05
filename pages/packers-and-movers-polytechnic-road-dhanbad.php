@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Polytechnic Road Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Polytechnic Road Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Polytechnic Road Dhanbad for home relocation, Bekarbandh connection moving, student & faculty shifting, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers polytechnic road dhanbad, packers and movers in polytechnic road, best packers movers polytechnic road, household shifting polytechnic road, polytechnic road packers, bekarbandh movers, car transport polytechnic road, bike shipping polytechnic road, IBA approved movers polytechnic road";
 

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Muzaffarpur | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Muzaffarpur | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Muzaffarpur for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to muzaffarpur, packers and movers from dhanbad to muzaffarpur, dhanbad to muzaffarpur shifting charges, household relocation dhanbad to muzaffarpur, car transport dhanbad to muzaffarpur, bike shipping dhanbad to muzaffarpur, IBA approved movers dhanbad muzaffarpur";
 

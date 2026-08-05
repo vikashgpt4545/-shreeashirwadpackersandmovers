@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Pandarpala Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Pandarpala Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Pandarpala Dhanbad for home relocation, apartment moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers pandarpala dhanbad, packers and movers in pandarpala, best packers movers pandarpala, household shifting pandarpala, pandarpala packers, pandarpala movers, car transport pandarpala, bike shipping pandarpala, IBA approved movers pandarpala";
 

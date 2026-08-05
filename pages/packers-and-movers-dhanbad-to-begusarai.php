@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Begusarai | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Begusarai | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Begusarai for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to begusarai, packers and movers from dhanbad to begusarai, dhanbad to begusarai shifting charges, household relocation dhanbad to begusarai, car transport dhanbad to begusarai, bike shipping dhanbad to begusarai, IBA approved movers dhanbad begusarai";
 

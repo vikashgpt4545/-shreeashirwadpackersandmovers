@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bhuli Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Bhuli Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Bhuli Dhanbad for home relocation, BCCL township quarter moving, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers bhuli dhanbad, packers and movers in bhuli, best packers movers bhuli, household shifting bhuli, bhuli packers, bhuli movers, car transport bhuli, bike shipping bhuli, IBA approved movers bhuli";
 

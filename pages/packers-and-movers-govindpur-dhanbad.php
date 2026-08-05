@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Govindpur Dhanbad | 8409531615 Shifting Services";
+$page_title = "Packers and Movers Govindpur Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Govindpur Dhanbad offering fast GT Road highway relocation, household shifting, car carrier, bike shipping & storage. Call (+91) 8409531615.";
 $page_keywords = "packers and movers govindpur dhanbad, packers and movers in govindpur, best packers movers govindpur, household shifting govindpur, gt road nh19 movers, industrial estate packers, car transport govindpur, bike shipping govindpur, IBA approved movers govindpur";
 

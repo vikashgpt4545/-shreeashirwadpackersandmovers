@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Chira Chas Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Chira Chas Bokaro | 8409531615";
 $page_desc = "Packers and Movers Chira Chas Bokaro for home shifting, apartment moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers chira chas bokaro, packers and movers in chira chas, chira chas bokaro shifting, shifting charges chira chas, IBA approved movers chira chas";
 

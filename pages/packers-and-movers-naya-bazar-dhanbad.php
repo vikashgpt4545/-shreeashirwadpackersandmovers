@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Naya Bazar Dhanbad | 8409531615 Shifting";
+$page_title = "Packers and Movers Naya Bazar Dhanbad | 8409531615";
 $page_desc = "Packers and Movers in Naya Bazar Dhanbad for home relocation, shop shifting, car carrier & bike transport. Call (+91) 8409531615.";
 $page_keywords = "packers and movers naya bazar dhanbad, packers and movers in naya bazar, best packers movers naya bazar, household shifting naya bazar, naya bazar packers, naya bazar movers, car transport naya bazar, bike shipping naya bazar, IBA approved movers naya bazar";
 

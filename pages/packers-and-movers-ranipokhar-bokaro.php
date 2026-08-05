@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Ranipokhar Bokaro | 8409531615 Shifting";
+$page_title = "Packers and Movers Ranipokhar Bokaro | 8409531615";
 $page_desc = "Packers and Movers Ranipokhar Bokaro for home shifting, commercial moving, car transport, bike shipping & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers ranipokhar bokaro, packers and movers in ranipokhar bokaro, ranipokhar bokaro shifting, shifting charges ranipokhar bokaro, IBA approved movers ranipokhar";
 

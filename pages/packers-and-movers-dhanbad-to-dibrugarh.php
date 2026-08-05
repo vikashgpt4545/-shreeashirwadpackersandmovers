@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Dhanbad to Dibrugarh | 8409531615 Shifting";
+$page_title = "Packers and Movers Dhanbad to Dibrugarh | 8409531615";
 $page_desc = "Packers and Movers Dhanbad to Dibrugarh for household relocation, car transport, bike shipping, office moving & IBA claim bills. Call (+91) 8409531615.";
 $page_keywords = "packers and movers dhanbad to dibrugarh, packers and movers from dhanbad to dibrugarh, dhanbad to dibrugarh shifting charges, household relocation dhanbad to dibrugarh, car transport dhanbad to dibrugarh, bike shipping dhanbad to dibrugarh, IBA approved movers dhanbad dibrugarh";
 
