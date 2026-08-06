@@ -395,6 +395,206 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+  <!-- Section 6: Step-by-Step 5-Stage Relocation Workflow -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="workflow-section">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Relocation Workflow</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
+        Step-by-Step 5-Stage Relocation Workflow: Office Relocation Services In Chatra
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
+        To guarantee 100% damage-free execution, Shree Ashirwad Packers and Movers follows a strictly monitored 5-stage moving workflow for every household, office, and vehicle relocation in Office Relocation Services In Chatra:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px;">
+        
+        <!-- Stage 1 -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
+          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">01</span>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 1: Pre-Move Technical Survey &amp; Assessment</h3>
+          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Our certified move coordinator conducts an on-site or digital inventory audit to evaluate item volume, fragile goods, floor elevation, and vehicle transport requirements, issuing an all-inclusive binding written estimate.
+          </p>
+        </div>
+
+        <!-- Stage 2 -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
+          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">02</span>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 2: Multi-Layer Protective Shielding &amp; Wrapping</h3>
+          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Our expert packing crew applies specialized 7-layer materials including high-density air-bubble rolls, 5-ply corrugated sheets, stretch wrap, edge corner guards, and custom wooden crating for Smart TVs and glass items.
+          </p>
+        </div>
+
+        <!-- Stage 3 -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
+          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">03</span>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 3: Container Anchorage &amp; Vehicle Loading</h3>
+          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Goods are systematically loaded into weather-proof enclosed container trucks using heavy-duty nylon safety belts and wall anchorage rings to prevent cargo movement, friction scuffs, or shifting during transit.
+          </p>
+        </div>
+
+        <!-- Stage 4 -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
+          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">04</span>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 4: Live Satellite GPS Transit &amp; Toll Management</h3>
+          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Vehicles travel along optimized highway corridors under constant satellite GPS tracking. Clients receive real-time location updates on WhatsApp, backed by full transit insurance documentation.
+          </p>
+        </div>
+
+        <!-- Stage 5 -->
+        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
+          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">05</span>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 5: Destination Unboxing, Carpentry &amp; Positioning</h3>
+          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Upon arrival at destination, our move team unloads, unpacks, reassembles double beds, modular wardrobes, and dining tables, placing each item in your designated rooms for immediate hassle-free living.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 7: IBA Approved Corporate & Government Reimbursement Documentation -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="iba-documentation-section">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">IBA Reimbursement Docs</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
+        100% Claimable IBA Approved Billing &amp; Relocation Documentation: Office Relocation Services In Chatra
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
+        Government officers, PSU employees, police personnel, defense staff, and corporate executives in Office Relocation Services In Chatra receive complete, 100% claimable relocation documentation accepted by all employers across India:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
+        
+        <!-- Doc 1 -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📄</div>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Official GST Moving Invoice</h3>
+          </div>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Original TAX invoice generated with valid 15-digit GSTIN, state SAC code (996511), clear freight charges, labor fees, and packaging material breakdowns for tax claim approval.
+          </p>
+        </div>
+
+        <!-- Doc 2 -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🚚</div>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Consignment Lorry Receipt (LR Copy)</h3>
+          </div>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Official stamped transport Lorry Receipt verifying container truck registration number, driver details, origin-to-destination route, and weight dispatch certificate.
+          </p>
+        </div>
+
+        <!-- Doc 3 -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📋</div>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Itemized Inventory Packing List</h3>
+          </div>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Comprehensive box-by-box inventory declaration sheet listing all furniture, electronics, kitchenware, and personal effects signed by origin packing supervisor.
+          </p>
+        </div>
+
+        <!-- Doc 4 -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">💳</div>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Payment Money Receipt</h3>
+          </div>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Official company-stamped financial payment receipt specifying payment transaction ID, advance booking amount, and final settlement confirmation.
+          </p>
+        </div>
+
+        <!-- Doc 5 -->
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🛡️</div>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Valid Transit Insurance Policy</h3>
+          </div>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Original 100% full-value transit insurance policy document issued by national insurance partners protecting household assets against highway hazards.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 8: Internal Locality & Route Links Grid -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="internal-links-grid-section">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Chatra Relocation Network</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
+        Chatra District &amp; Intercity Relocation Network
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
+        Explore our key service hubs, major industrial townships, and primary intercity transport corridors connected to Office Relocation Services In Chatra:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
+        
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-hub">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra Main Hub</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Central City &amp; District Headquarters Shifting</div>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-ranchi" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-ranchi">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Ranchi</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Capital City Express Household Transport</div>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-jamshedpur" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-jamshedpur">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Jamshedpur</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Steel City Industrial &amp; Residential Moving</div>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-dhanbad" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-dhanbad">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Dhanbad</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Coal Belt Container Cargo Shifting</div>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-hazaribagh" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-hazaribagh">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Hazaribagh</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">NH-522 Express Inter-District Corridor</div>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-bokaro" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-bokaro">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Bokaro</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Steel City Dedicated Truck Shifting</div>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-ntpc-township-tandwa-chatra" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-ntpc-tandwa">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">NTPC Township Tandwa</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Thermal Power Quarter Moving Services</div>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-ccl-colony-tandwa-chatra" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-ccl-tandwa">
+          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">CCL Colony Tandwa</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Amrapali &amp; Magadh Mining Project Shifting</div>
+        </a>
+
+      </div>
+
+    </div>
+  </section>
+
+
+
+
 
 
   <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-office-guide">
