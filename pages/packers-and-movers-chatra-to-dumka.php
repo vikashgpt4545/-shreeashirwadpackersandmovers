@@ -269,6 +269,134 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+  <!-- Section 4: 4-Protocol Zero-Damage Safety System -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="safety-protocols-section">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Safety Protocols</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
+        Our 4-Protocol Zero-Damage Execution System
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 30px;">
+        Transporting valuable household goods, commercial cargo, and personal vehicles demands rigorous safety engineering. At Shree Ashirwad Packers and Movers, we enforce a mandatory 4-protocol safety system for every move:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
+        
+        <!-- Protocol 1 -->
+        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 1: Multi-Layer Material Shielding</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Every household item undergoes multi-layer wrapping combining air-bubble film, waterproof shrink wrap, 5-ply corrugated sheets, and foam corner guards. Fragile Smart TVs, glass tops, and mirrors receive custom wooden crating built on-site before vehicle loading.
+          </p>
+        </div>
+
+        <!-- Protocol 2 -->
+        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 2: Container Anchorage System</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Inside our closed container trucks, goods are anchored using heavy-duty nylon safety belts tied to internal wall rings. This eliminates cargo sliding, friction scuffs, or tipping over during highway acceleration and sudden braking.
+          </p>
+        </div>
+
+        <!-- Protocol 3 -->
+        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 3: Live Satellite GPS Tracking</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            Our vehicles are fitted with real-time satellite GPS tracking hardware. Clients receive direct location updates on WhatsApp, allowing complete peace of mind while your container truck travels to its destination.
+          </p>
+        </div>
+
+        <!-- Protocol 4 -->
+        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 4: Comprehensive Transit Insurance</div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+            We back every shipment with 100% full-value transit insurance policy documentation. In the unlikely event of any highway incident, claims are processed promptly with zero financial loss to you.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 5: Transparent Pricing Matrix Table -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;" id="pricing-matrix-section">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Transparent Pricing</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
+        Estimated Shifting Charges & Tariff Breakdown: Chatra To Dumka
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+        We believe in 100% transparent pricing with zero hidden fees or surprise surcharges. Below is our baseline tariff breakdown for household shifting, vehicle transport, and luggage items:
+      </p>
+
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <thead>
+            <tr style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); color: #f59e0b; text-align: left; font-size: 0.95rem;">
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Shifting Type / House Size</th>
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Packaging &amp; Material</th>
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Truck Type &amp; Vehicle</th>
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Estimated Cost (₹)</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">1 BHK Small House / Studio</td>
+              <td style="padding: 14px 20px;">Standard 3-Layer Packaging</td>
+              <td style="padding: 14px 20px;">11 ft Covered Pickup Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹3,500 - ₹6,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">2 BHK Standard Apartment</td>
+              <td style="padding: 14px 20px;">Premium 5-Layer Packaging</td>
+              <td style="padding: 14px 20px;">14 ft Sealed Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹6,500 - ₹11,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">3 BHK Large Residence</td>
+              <td style="padding: 14px 20px;">7-Layer Packaging + TV Crate</td>
+              <td style="padding: 14px 20px;">17/19 ft Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹11,500 - ₹17,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">4 BHK Independent Villa / Duplex</td>
+              <td style="padding: 14px 20px;">Full Heavy Packaging &amp; Wooden Crating</td>
+              <td style="padding: 14px 20px;">22 ft Dedicated Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹17,500 - ₹25,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Bike Transport (100cc - 350cc+)</td>
+              <td style="padding: 14px 20px;">Bubble + Corrugated + Paddy Padding</td>
+              <td style="padding: 14px 20px;">Enclosed Bike Carrier Vehicle</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹1,800 - ₹3,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Car Transport (Hatchback/Sedan/SUV)</td>
+              <td style="padding: 14px 20px;">Car Cover &amp; Wheel Chock Safety Locks</td>
+              <td style="padding: 14px 20px;">Covered Hydraulic Car Carrier Trailer</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹4,500 - ₹8,500</td>
+            </tr>
+            <tr style="background: rgba(255,255,255,0.04);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Part-Load Luggage / Single Item</td>
+              <td style="padding: 14px 20px;">Standard Protection Wrapping</td>
+              <td style="padding: 14px 20px;">Shared Express Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹1,500 - ₹3,800</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.6; margin: 0;">
+        *Note: Final price estimates depend on total inventory volume, selected packaging materials, origin/destination floor elevation (elevator availability), and specific insurance requirements. Contact us at <strong>+91 8409531615</strong> for a fixed written quotation.
+      </p>
+
+    </div>
+  </section>
+
+
 
   <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-chatra-dumka-guide">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
