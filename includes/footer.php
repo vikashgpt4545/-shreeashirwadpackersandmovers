@@ -41,6 +41,8 @@ require_once __DIR__ . '/config.php';
             <a href="<?php echo SITE_URL; ?>services">Services</a>
             <a href="<?php echo SITE_URL; ?>gallery">Gallery</a>
             <a href="<?php echo SITE_URL; ?>contact">Contact Us</a>
+            <a href="<?php echo SITE_URL; ?>privacy-policy">Privacy Policy</a>
+            <a href="<?php echo SITE_URL; ?>terms">Terms &amp; Conditions</a>
             <a href="<?php echo SITE_URL; ?>sitemap" style="color: #f59e0b; font-weight: 600;">HTML Sitemap Directory</a>
           </div>
         </div>

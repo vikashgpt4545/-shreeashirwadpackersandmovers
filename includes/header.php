@@ -310,6 +310,8 @@ require_once __DIR__ . '/config.php';
           <li><a href="<?php echo SITE_URL; ?>services" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>">Services</a></li>
           <li><a href="<?php echo SITE_URL; ?>gallery" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
           <li><a href="<?php echo SITE_URL; ?>contact" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
+          <li><a href="<?php echo SITE_URL; ?>privacy-policy" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'privacy-policy.php') ? 'active' : ''; ?>">Privacy Policy</a></li>
+          <li><a href="<?php echo SITE_URL; ?>terms" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'terms.php') ? 'active' : ''; ?>">Terms</a></li>
         </ul>
 
         <!-- Call Button (No 'Call Us Now' text label as requested) -->
