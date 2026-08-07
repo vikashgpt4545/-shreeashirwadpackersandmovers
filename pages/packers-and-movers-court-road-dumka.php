@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Court Road Dumka | Safe Home Shifting";
+$page_title = "Packers and Movers Court Road Dumka | 8409531615";
 $page_desc = "Best Packers and Movers in Court Road Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.";
 $page_keywords = "packers and movers court road dumka, packers movers in court road, house shifting court road dumka, relocation services court road, iba approved movers court road, home relocation court road, car transport court road, bike shipping court road, local packers court road, intercity movers court road, office shifting court road, warehouse storage court road, shifting charges court road, ashrivad packers court road, Dumka locality movers";
 

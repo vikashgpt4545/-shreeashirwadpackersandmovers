@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Hospital Road Dumka | Safe Home Shifting";
+$page_title = "Packers and Movers Hospital Road Dumka | 8409531615";
 $page_desc = "Best Packers and Movers in Hospital Road Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.";
 $page_keywords = "packers and movers hospital road dumka, packers movers in hospital road, house shifting hospital road dumka, relocation services hospital road, iba approved movers hospital road, home relocation hospital road, car transport hospital road, bike shipping hospital road, local packers hospital road, intercity movers hospital road, office shifting hospital road, warehouse storage hospital road, shifting charges hospital road, ashrivad packers hospital road, Dumka locality movers";
 

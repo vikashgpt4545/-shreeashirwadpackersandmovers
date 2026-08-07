@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Jarmundi Dumka | Safe Home Shifting";
+$page_title = "Packers and Movers Jarmundi Dumka | 8409531615";
 $page_desc = "Best Packers and Movers in Jarmundi Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.";
 $page_keywords = "packers and movers jarmundi dumka, packers movers in jarmundi, house shifting jarmundi dumka, relocation services jarmundi, iba approved movers jarmundi, home relocation jarmundi, car transport jarmundi, bike shipping jarmundi, local packers jarmundi, intercity movers jarmundi, office shifting jarmundi, warehouse storage jarmundi, shifting charges jarmundi, ashrivad packers jarmundi, Dumka locality movers";
 

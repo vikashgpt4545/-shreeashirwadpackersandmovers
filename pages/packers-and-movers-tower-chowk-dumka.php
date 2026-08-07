@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Tower Chowk Dumka | Safe Home Shifting";
+$page_title = "Packers and Movers Tower Chowk Dumka | 8409531615";
 $page_desc = "Best Packers and Movers in Tower Chowk Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.";
 $page_keywords = "packers and movers tower chowk dumka, packers movers in tower chowk, house shifting tower chowk dumka, relocation services tower chowk, iba approved movers tower chowk, home relocation tower chowk, car transport tower chowk, bike shipping tower chowk, local packers tower chowk, intercity movers tower chowk, office shifting tower chowk, warehouse storage tower chowk, shifting charges tower chowk, ashrivad packers tower chowk, Dumka locality movers";
 

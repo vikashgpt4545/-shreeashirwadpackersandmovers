@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Babu Para Dumka | Safe Home Shifting";
+$page_title = "Packers and Movers Babu Para Dumka | 8409531615";
 $page_desc = "Best Packers and Movers in Babu Para Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.";
 $page_keywords = "packers and movers babu para dumka, packers movers in babu para, house shifting babu para dumka, relocation services babu para, iba approved movers babu para, home relocation babu para, car transport babu para, bike shipping babu para, local packers babu para, intercity movers babu para, office shifting babu para, warehouse storage babu para, shifting charges babu para, ashrivad packers babu para, Dumka locality movers";
 

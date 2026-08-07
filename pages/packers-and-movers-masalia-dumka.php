@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Masalia Dumka | Safe Home Shifting";
+$page_title = "Packers and Movers Masalia Dumka | 8409531615";
 $page_desc = "Best Packers and Movers in Masalia Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.";
 $page_keywords = "packers and movers masalia dumka, packers movers in masalia, house shifting masalia dumka, relocation services masalia, iba approved movers masalia, home relocation masalia, car transport masalia, bike shipping masalia, local packers masalia, intercity movers masalia, office shifting masalia, warehouse storage masalia, shifting charges masalia, ashrivad packers masalia, Dumka locality movers";
 

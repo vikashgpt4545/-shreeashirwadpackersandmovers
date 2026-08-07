@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Jama Dumka | Safe Home Shifting";
+$page_title = "Packers and Movers Jama Dumka | 8409531615";
 $page_desc = "Best Packers and Movers in Jama Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.";
 $page_keywords = "packers and movers jama dumka, packers movers in jama, house shifting jama dumka, relocation services jama, iba approved movers jama, home relocation jama, car transport jama, bike shipping jama, local packers jama, intercity movers jama, office shifting jama, warehouse storage jama, shifting charges jama, ashrivad packers jama, Dumka locality movers";
 
