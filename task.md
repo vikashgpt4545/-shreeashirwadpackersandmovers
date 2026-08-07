@@ -303,7 +303,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Babu Para, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Babu Para Dumka
@@ -324,7 +324,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Tower Chowk, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Tower Chowk Dumka
@@ -345,7 +345,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Station Road, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Station Road Dumka
@@ -366,7 +366,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Bus Stand Road, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Bus Stand Road Dumka
@@ -387,7 +387,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Court Road, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Court Road Dumka
@@ -408,7 +408,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Hospital Road, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Hospital Road Dumka
@@ -429,7 +429,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Bypass Road, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Bypass Road Dumka
@@ -450,7 +450,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Jama, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Jama Dumka
@@ -471,7 +471,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Jarmundi, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Jarmundi Dumka
@@ -492,7 +492,7 @@ Every created page MUST contain the following 11 architectural sections:
 * **City:** Dumka
 * **Locality:** Masalia, Dumka
 * **Route:** N/A
-* **Current Status:** Not Started
+* **Current Status:** Completed
 
 ##### SEO & Local Information Planning
 * **Main Keyword:** Packers and Movers Masalia Dumka
