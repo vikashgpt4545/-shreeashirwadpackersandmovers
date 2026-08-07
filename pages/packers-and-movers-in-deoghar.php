@@ -283,5 +283,21 @@ function sendHeroWhatsAppLead(event, form) {
 }
 </script>
 
+  <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+        <div>
+          <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Deoghar Moving Proof</span>
+          <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Better packing and transport support for Deoghar relocations</h3>
+          <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">The moving process is built around thoughtful packaging, organized loading, and careful attention to fragile household items and vehicles.</p>
+        </div>
+        <div style="display: grid; gap: 16px;">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packing method for Deoghar household moving" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Wrapping and protection used in Deoghar relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
 

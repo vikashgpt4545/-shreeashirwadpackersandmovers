@@ -120,7 +120,7 @@ require_once __DIR__ . '/../includes/header.php';
             Premier <span style="color: #f59e0b;">Packers and Movers in Bokaro Steel City</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers is Bokaro's most trusted name for local household shifting, intercity relocation, enclosed car transport, bike carriers, office moving, and warehouse storage. Serving Chas, Sector 4, Sector 1, City Centre, Sector 9, Sector 12, Phusro, Bermo, and Balidih Industrial Area with 7-layer protective packaging and 100% IBA-approved GST claim bills for BSL SAIL employees, ONGC officers &amp; bank staff.
+            Shree Ashirwad Packers and Movers supports families and businesses in Bokaro Steel City with local shifting across Sector 1 to Sector 12, Chas, City Centre, Balidih, and nearby industrial corridors. Whether the requirement is a household move, office relocation, bike shipment, or enclosed car transport, the service is built around safe packing, reliable loading, and documented moving support.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -665,5 +665,21 @@ function sendHeroWhatsAppLead(event, form) {
   window.location.href = whatsappUrl;
 }
 </script>
+
+  <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+        <div>
+          <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Bokaro Service Proof</span>
+          <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Practical moving support for Bokaro homes, offices, and vehicle transport</h3>
+          <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">From fragile appliances to complete household loads, the team combines careful packing with organized transport plans that help customers move without stress.</p>
+        </div>
+        <div style="display: grid; gap: 16px;">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Protective crate packing used for Bokaro moving service" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Packing and wrapping for Bokaro household relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

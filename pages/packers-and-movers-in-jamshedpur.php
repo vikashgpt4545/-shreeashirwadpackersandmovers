@@ -80,7 +80,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Packers and Movers in Jamshedpur</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Are you searching for trusted, reliable, and verified <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #f59e0b; text-decoration: underline;"><strong>packers and movers in jamshedpur</strong></a>? Shree Ashirwad Packers and Movers is Steel City Jamshedpur's premier shifting company providing zero-damage household relocation, corporate office shifting, car carrier transport, bike logistics, and secure warehouse storage across Jamshedpur and pan-India routes.
+            From Bistupur, Sakchi, Mango, Adityapur, Kadma, and Sonari to longer intercity relocation routes, Shree Ashirwad Packers and Movers provides practical shifting support for homes, offices, bike transport, and car transport in Jamshedpur. The service is designed for families and businesses that need safe packing, careful loading, and dependable delivery support without confusion or last-minute surprises.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -755,5 +755,21 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
 </main>
+
+  <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+        <div>
+          <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Steel City Moving Proof</span>
+          <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">A cleaner moving experience for homes and offices in Jamshedpur</h3>
+          <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our packing team works with care for electronics, furniture, and household goods so the move feels organised and predictable from the first pickup to final placement.</p>
+        </div>
+        <div style="display: grid; gap: 16px;">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packing and wrapping process for Jamshedpur relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Household item packing in Jamshedpur moving service" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

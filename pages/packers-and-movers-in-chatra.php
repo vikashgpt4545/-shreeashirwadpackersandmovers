@@ -120,7 +120,7 @@ require_once __DIR__ . '/../includes/header.php';
           Packers and Movers in Chatra
         </h1>
         <p style="font-size: 1.15rem; line-height: 1.8; color: #94a3b8; margin-bottom: 30px;">
-          Welcome to Shree Ashirwad Packers and Movers, Chatra's most dependable and IBA-compliant home shifting, office relocation, vehicle shipping, and storage partner. Operating across Chatra Sadar, Main Road, Post Office Chowk, and all 12 block headquarters, we deliver 100% damage-free moving solutions backed by 7-layer safety packaging, dedicated container transport, full transit insurance, and official GST bills.
+          Welcome to Shree Ashirwad Packers and Movers, a practical moving partner for households and offices in Chatra Sadar, Main Road, Post Office Chowk, Kutchery Road, and nearby blocks. Our service is focused on local support, safe packing, and reliable transit for home shifting, office moves, bike transport, and vehicle relocation.
         </p>
         
         <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
@@ -559,5 +559,21 @@ function sendHeroWhatsAppLead(event, form) {
   window.location.href = whatsappUrl;
 }
 </script>
+
+  <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+        <div>
+          <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Chatra Moving Proof</span>
+          <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Packing and transport support for everyday household moves in Chatra</h3>
+          <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">The crew works carefully with furniture, electronics, and fragile household items so the move remains secure and manageable at every stage.</p>
+        </div>
+        <div style="display: grid; gap: 16px;">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Chatra relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Loading and transport process for Chatra moving service" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

@@ -120,7 +120,7 @@ require_once __DIR__ . '/../includes/header.php';
           Packers and Movers in Dumka
         </h1>
         <p style="font-size: 1.15rem; line-height: 1.8; color: #94a3b8; margin-bottom: 30px;">
-          Planning household shifting, office relocation, or vehicle transport in Dumka? Shree Ashirwad Packers and Movers provides top-rated 7-layer protective wrapping, GPS-enabled enclosed container trucks, 100% claimable IBA GST bills, and hassle-free door-to-door execution across Dumka district and all-India highways.
+          Whether you are shifting around Central Dumka, Dudhani, Rasikpur, Court Road, or moving out of Dumka to another city, our team provides practical household shifting, office relocation, bike transport, and car transport support with documented packing and transit service. We focus on local service coverage, safe loading, and transparent moving support for residents and businesses in the Dumka district.
         </p>
         
         <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
@@ -676,5 +676,21 @@ function sendHeroWhatsAppLead(event, form) {
   window.location.href = whatsappUrl;
 }
 </script>
+
+  <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+        <div>
+          <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Local Moving Proof</span>
+          <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Reliable packing and loading support for Dumka residents</h3>
+          <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our move crews handle delicate items, furniture, bike transport, and full household loads with careful wrapping, strong loading systems, and clear moving communication from start to finish.</p>
+        </div>
+        <div style="display: grid; gap: 16px;">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike packing and protective wrapping for Dumka shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Dumka relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

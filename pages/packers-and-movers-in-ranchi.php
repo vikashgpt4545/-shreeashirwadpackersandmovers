@@ -80,7 +80,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Packers and Movers in Ranchi</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Are you searching for trusted, reliable, and verified <a href="<?php echo SITE_URL; ?>" style="color: #f59e0b; text-decoration: underline;"><strong>packers and movers in ranchi</strong></a>? Shree Ashirwad Packers and Movers is Jharkhand's premier shifting company providing zero-damage household relocation, corporate office shifting, car carrier transport, bike logistics, and secure warehouse storage across Ranchi and India.
+            Whether you are shifting within Lalpur, Hinoo, Doranda, Bariatu, Kanke Road, or moving out of Ranchi to another city, Shree Ashirwad Packers and Movers helps families, offices, and vehicle owners move with a clear plan, safe packing, and documented support. Our team covers local homes, office spaces, car and bike transport, and intercity relocation routes with practical packing and loading service that suits the needs of Ranchi residents.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -732,5 +732,21 @@ function sendHeroWhatsAppLead(event, form) {
   window.location.href = whatsappUrl;
 }
 </script>
+
+  <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+        <div>
+          <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Real Moving Proof</span>
+          <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Packing, loading, and vehicle handling that helps Ranchi families move with confidence</h3>
+          <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">From fragile TV and glass protection to secure loading for household items and cars, our work is built around careful handling, clear documentation, and dependable movement support for local and intercity relocation.</p>
+        </div>
+        <div style="display: grid; gap: 16px;">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Wooden crate protection for fragile items in Ranchi shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Container loading process for household shifting in Ranchi" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
