@@ -37,9 +37,9 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh">Hazaribagh</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" title="Hazaribagh">Hazaribagh</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Packers and Movers in Gopikandar Hazaribagh</span>
       </div>
@@ -54,8 +54,8 @@ require_once __DIR__ . '/../includes/header.php';
           <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">Best <span style="color: #f59e0b;">Packers and Movers in Gopikandar Hazaribagh</span></h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">Looking for professional, damage-free household shifting, car transportation, bike moving, or office relocation services in Hazaribagh? Shree Ashirwad Packers and Movers provides 7-layer protective packaging, active GPS container tracking, full transit insurance, and genuine IBA-approved GST bills for corporate and government claims.</p>
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Packers+and+Movers+in+Gopikandar+Hazaribagh" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
+            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Packers+and+Movers+in+Gopikandar+Hazaribagh" title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
           </div>
         </div>
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
@@ -116,12 +116,12 @@ require_once __DIR__ . '/../includes/header.php';
 
       <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Related Packers and Movers Services & Locations</h2>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Hazaribagh Hub &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-ranchi" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Ranchi Shifting &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-patna" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Patna Shifting &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" title="Packers and Movers in Hazaribagh Hub &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Hazaribagh Hub &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" title="Packers and Movers in Dhanbad &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" title="Packers and Movers in Bokaro &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-ranchi" title="Hazaribagh to Ranchi Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Ranchi Shifting &rarr;</a></div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-patna" title="Hazaribagh to Patna Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Patna Shifting &rarr;</a></div>
       </div>
 
       
@@ -220,8 +220,8 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Ready to Shift with Packers and Movers in Gopikandar Hazaribagh?</h2>
         <p style="color: #cbd5e1; margin-top: 10px;">Contact our team today for a guaranteed fixed price quote with 100% damage-free delivery.</p>
         <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20Packers+and+Movers+in+Gopikandar+Hazaribagh" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20Packers+and+Movers+in+Gopikandar+Hazaribagh" title="WhatsApp Quote" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
         </div>
       </div>
     </div>

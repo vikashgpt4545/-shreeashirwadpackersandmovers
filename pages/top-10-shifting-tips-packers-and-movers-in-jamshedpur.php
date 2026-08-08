@@ -29,9 +29,9 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur">Jamshedpur</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title="Jamshedpur">Jamshedpur</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Top 10 Shifting Tips Packers and Movers in Jamshedpur</span>
       </div>
@@ -56,10 +56,10 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Consult Expert:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               📞 Consult Expert: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20tips%20and%20quote%20in%20Jamshedpur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20tips%20and%20quote%20in%20Jamshedpur." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
@@ -364,7 +364,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Main Jamshedpur City Hub</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Central headquarters serving all Jamshedpur sectors.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title="Packers and Movers Jamshedpur Main →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Jamshedpur Main →
           </a>
         </div>
@@ -372,7 +372,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bistupur Central Sector</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Premium residential home shifting in Bistupur.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" title="Packers and Movers Bistupur →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Bistupur →
           </a>
         </div>
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Sakchi Sector</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Commercial and residential moving services in Sakchi.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" title="Packers and Movers Sakchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Sakchi →
           </a>
         </div>
@@ -388,7 +388,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Mango Sector</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Northern gateway household moving in Mango.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" title="Packers and Movers Mango →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Mango →
           </a>
         </div>
@@ -410,7 +410,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Household Shifting Checklist</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Complete week-by-week room-by-room moving checklist.</p>
-          <a href="<?php echo SITE_URL; ?>household-shifting-checklist-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>household-shifting-checklist-jamshedpur" title="View Shifting Checklist →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             View Shifting Checklist →
           </a>
         </div>
@@ -418,7 +418,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Moving with Kids &amp; Elderly</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Specialized care guide for family household moves.</p>
-          <a href="<?php echo SITE_URL; ?>moving-with-kids-and-elderly-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>moving-with-kids-and-elderly-jamshedpur" title="View Family Moving Guide →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             View Family Moving Guide →
           </a>
         </div>
@@ -426,7 +426,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Jamshedpur Cost Guide</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Comprehensive cost breakdown for local and long distance moves.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-cost-guide" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-cost-guide" title="View Cost Guide →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             View Cost Guide →
           </a>
         </div>
@@ -434,7 +434,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Avoid Fraud Packers</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Guide to identifying verified movers vs fraudulent operators.</p>
-          <a href="<?php echo SITE_URL; ?>how-to-avoid-fraud-packers-movers-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>how-to-avoid-fraud-packers-movers-jamshedpur" title="View Fraud Prevention Guide →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             View Fraud Prevention Guide →
           </a>
         </div>
@@ -618,13 +618,13 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
           📞 Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20tips%20and%20quote%20in%20Jamshedpur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20tips%20and%20quote%20in%20Jamshedpur." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           💬 Chat on WhatsApp
         </a>
-        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+        <a href="<?php echo SITE_URL; ?>contact" title="📍 Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
           📍 Contact Office
         </a>
       </div>

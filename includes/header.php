@@ -295,8 +295,8 @@ require_once __DIR__ . '/config.php';
     <div class="container">
       <nav class="navbar">
         <!-- Logo (Pure Swastik Symbol Image) -->
-        <a href="<?php echo SITE_URL; ?>" class="brand-logo" aria-label="Home">
-          <img src="<?php echo SITE_URL; ?>assets/images/logo.png" alt="Swastik Logo" width="48" height="48">
+        <a href="<?php echo SITE_URL; ?>" class="brand-logo" aria-label="Home" title="Shree Ashirwad Packers and Movers Homepage">
+          <img src="<?php echo SITE_URL; ?>assets/images/logo.png" alt="Swastik Logo" title="Shree Ashirwad Packers and Movers Swastik Logo" width="48" height="48">
           <div class="brand-text">
             <span class="brand-title">SHREE ASHIRWAD</span>
             <span class="brand-subtitle">PACKERS &amp; MOVERS</span>
@@ -305,17 +305,17 @@ require_once __DIR__ . '/config.php';
 
         <!-- Navigation Menu -->
         <ul class="nav-menu" id="navMenu">
-          <li><a href="<?php echo SITE_URL; ?>" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>">Home</a></li>
-          <li><a href="<?php echo SITE_URL; ?>about" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>">About Us</a></li>
-          <li><a href="<?php echo SITE_URL; ?>services" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>">Services</a></li>
-          <li><a href="<?php echo SITE_URL; ?>gallery" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
-          <li><a href="<?php echo SITE_URL; ?>contact" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
-          <li><a href="<?php echo SITE_URL; ?>privacy-policy" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'privacy-policy.php') ? 'active' : ''; ?>">Privacy Policy</a></li>
-          <li><a href="<?php echo SITE_URL; ?>terms" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'terms.php') ? 'active' : ''; ?>">Terms</a></li>
+          <li><a href="<?php echo SITE_URL; ?>" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>" title="Home - Shree Ashirwad Packers and Movers">Home</a></li>
+          <li><a href="<?php echo SITE_URL; ?>about" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>" title="About Us - Shree Ashirwad Packers and Movers">About Us</a></li>
+          <li><a href="<?php echo SITE_URL; ?>services" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>" title="Relocation Services - Shree Ashirwad Packers and Movers">Services</a></li>
+          <li><a href="<?php echo SITE_URL; ?>gallery" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>" title="Photo Gallery - Shree Ashirwad Packers and Movers">Gallery</a></li>
+          <li><a href="<?php echo SITE_URL; ?>contact" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>" title="Contact Us - Shree Ashirwad Packers and Movers">Contact</a></li>
+          <li><a href="<?php echo SITE_URL; ?>privacy-policy" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'privacy-policy.php') ? 'active' : ''; ?>" title="Privacy Policy - Shree Ashirwad Packers and Movers">Privacy Policy</a></li>
+          <li><a href="<?php echo SITE_URL; ?>terms" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'terms.php') ? 'active' : ''; ?>" title="Terms and Conditions - Shree Ashirwad Packers and Movers">Terms</a></li>
         </ul>
 
         <!-- Call Button (No 'Call Us Now' text label as requested) -->
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="header-call-btn">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="header-call-btn" title="Call Shree Ashirwad Packers and Movers at <?php echo SITE_PHONE; ?>">
           <div class="call-icon-circle">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
           </div>

@@ -100,8 +100,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb" style="display: flex; gap: 8px; font-size: 0.9rem; color: #64748b; list-style: none; margin: 0; padding: 0;">
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" style="color: #2563eb; text-decoration: none;">Home</a></li>
-          <li class="breadcrumb-item"><span style="margin: 0 4px;">/</span> <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" style="color: #2563eb; text-decoration: none;">Chatra</a></li>
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #2563eb; text-decoration: none;">Home</a></li>
+          <li class="breadcrumb-item"><span style="margin: 0 4px;">/</span> <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" title="Chatra" style="color: #2563eb; text-decoration: none;">Chatra</a></li>
           <li class="breadcrumb-item active" aria-current="page" style="color: #1e293b; font-weight: 600;"><span style="margin: 0 4px;">/</span> Packers and Movers in Chatra</li>
         </ol>
       </nav>
@@ -124,10 +124,10 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
         
         <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-          <a href="tel:+918409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
+          <a href="tel:+918409531615" title="Call +91 8409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
             <i class="fa-solid fa-phone"></i> Call +91 8409531615
           </a>
-          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote%20in%20Chatra." class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote%20in%20Chatra." title="WhatsApp Quote" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
             <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
           </a>
         </div>
@@ -452,42 +452,42 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
         
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-hunterganj-chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-hunterganj-chatra" title="Packers &amp; Movers Hunterganj Local house shifting &amp; border relocation in Hunterganj Chatra." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Packers &amp; Movers Hunterganj</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Local house shifting &amp; border relocation in Hunterganj Chatra.</p>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-tandwa-chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-tandwa-chatra" title="Packers &amp; Movers Tandwa NTPC project area &amp; industrial equipment shifting in Tandwa." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Packers &amp; Movers Tandwa</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">NTPC project area &amp; industrial equipment shifting in Tandwa.</p>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-simaria-chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-simaria-chatra" title="Packers &amp; Movers Simaria Residential &amp; commercial relocation across Simaria block." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Packers &amp; Movers Simaria</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Residential &amp; commercial relocation across Simaria block.</p>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-itkhori-chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-itkhori-chatra" title="Packers &amp; Movers Itkhori Safe home moving &amp; vehicle transport in Itkhori region." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Packers &amp; Movers Itkhori</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Safe home moving &amp; vehicle transport in Itkhori region.</p>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-ranchi" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-ranchi" title="Chatra to Ranchi Relocation Daily intercity container transport from Chatra to Ranchi (~140 km)." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Chatra to Ranchi Relocation</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Daily intercity container transport from Chatra to Ranchi (~140 km).</p>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-patna" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-patna" title="Chatra to Patna Relocation Interstate highway house shifting from Chatra to Patna (~190 km)." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Chatra to Patna Relocation</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Interstate highway house shifting from Chatra to Patna (~190 km).</p>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-cost-guide" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-cost-guide" title="Chatra Shifting Cost Guide Complete rate breakdown and tariff estimator for Chatra moves." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Chatra Shifting Cost Guide</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Complete rate breakdown and tariff estimator for Chatra moves.</p>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>iba-approved-packers-and-movers-in-chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
+        <a href="<?php echo SITE_URL; ?>iba-approved-packers-and-movers-in-chatra" title="IBA Approved Movers Chatra Bank &amp; govt employee claimable GST moving bills." style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; transition: border-color 0.3s; display: block;">
           <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">IBA Approved Movers Chatra</h4>
           <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Bank &amp; govt employee claimable GST moving bills.</p>
         </a>
@@ -528,10 +528,10 @@ require_once __DIR__ . '/../includes/header.php';
         Contact Chatra's most trusted IBA-approved relocation team today. Get your free custom quote and enjoy 100% safe household packing and delivery!
       </p>
       <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="tel:+918409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
+        <a href="tel:+918409531615" title="Call +91 8409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
           <i class="fa-solid fa-phone"></i> Call +91 8409531615
         </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote%20in%20Chatra." style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
+        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote%20in%20Chatra." title="Chat on WhatsApp" style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
           <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
         </a>
       </div>
@@ -569,8 +569,8 @@ function sendHeroWhatsAppLead(event, form) {
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">The crew works carefully with furniture, electronics, and fragile household items so the move remains secure and manageable at every stage.</p>
         </div>
         <div style="display: grid; gap: 16px;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Chatra relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Loading and transport process for Chatra moving service" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Chatra relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Loading and transport process for Chatra moving service" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
         </div>
       </div>
     </div>

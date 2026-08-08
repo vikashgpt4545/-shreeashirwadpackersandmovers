@@ -40,7 +40,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <h2 style="font-size: 1.15rem; margin-top: 28px; color: #111827;">Contact Us</h2>
         <p style="color: #475569; line-height: 1.8;">
-          If you have any questions about this Privacy Policy, please contact us at <a href="mailto:<?php echo SITE_EMAIL; ?>" style="color: #dc2626; font-weight: 600;"><?php echo SITE_EMAIL; ?></a> or call <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="color: #dc2626; font-weight: 600;"><?php echo SITE_PHONE; ?></a>.
+          If you have any questions about this Privacy Policy, please contact us at <a href="mailto:<?php echo SITE_EMAIL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #dc2626; font-weight: 600;"><?php echo SITE_EMAIL; ?></a> or call <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Shree Ashirwad Packers and Movers" style="color: #dc2626; font-weight: 600;"><?php echo SITE_PHONE; ?></a>.
         </p>
       </div>
     </div>

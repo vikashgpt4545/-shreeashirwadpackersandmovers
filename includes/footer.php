@@ -27,7 +27,7 @@ require_once __DIR__ . '/config.php';
             <!-- Email -->
             <div class="footer-address-item">
               <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
-              <a href="mailto:<?php echo SITE_EMAIL; ?>"><?php echo SITE_EMAIL; ?></a>
+              <a href="mailto:<?php echo SITE_EMAIL; ?>" title="Email Shree Ashirwad Packers and Movers"><?php echo SITE_EMAIL; ?></a>
             </div>
           </div>
         </div>
@@ -36,14 +36,14 @@ require_once __DIR__ . '/config.php';
         <div class="footer-col">
           <h3 class="footer-heading">Quick Links</h3>
           <div class="footer-links">
-            <a href="<?php echo SITE_URL; ?>">Home</a>
-            <a href="<?php echo SITE_URL; ?>about">About Us</a>
-            <a href="<?php echo SITE_URL; ?>services">Services</a>
-            <a href="<?php echo SITE_URL; ?>gallery">Gallery</a>
-            <a href="<?php echo SITE_URL; ?>contact">Contact Us</a>
-            <a href="<?php echo SITE_URL; ?>privacy-policy">Privacy Policy</a>
-            <a href="<?php echo SITE_URL; ?>terms">Terms &amp; Conditions</a>
-            <a href="<?php echo SITE_URL; ?>sitemap" style="color: #f59e0b; font-weight: 600;">HTML Sitemap Directory</a>
+            <a href="<?php echo SITE_URL; ?>" title="Home Page - Shree Ashirwad Packers and Movers">Home</a>
+            <a href="<?php echo SITE_URL; ?>about" title="About Us - Shree Ashirwad Packers and Movers">About Us</a>
+            <a href="<?php echo SITE_URL; ?>services" title="Our Shifting Services">Services</a>
+            <a href="<?php echo SITE_URL; ?>gallery" title="Relocation Photo Gallery">Gallery</a>
+            <a href="<?php echo SITE_URL; ?>contact" title="Contact Customer Support">Contact Us</a>
+            <a href="<?php echo SITE_URL; ?>privacy-policy" title="Privacy Policy">Privacy Policy</a>
+            <a href="<?php echo SITE_URL; ?>terms" title="Terms & Conditions">Terms &amp; Conditions</a>
+            <a href="<?php echo SITE_URL; ?>sitemap" style="color: #f59e0b; font-weight: 600;" title="HTML Sitemap Page Directory">HTML Sitemap Directory</a>
           </div>
         </div>
 
@@ -51,7 +51,7 @@ require_once __DIR__ . '/config.php';
         <div class="footer-col">
           <h3 class="footer-heading">Customer Assistance</h3>
           <p style="font-size: 0.88rem; margin-bottom: 12px;">Need instant relocation assistance or transparent rate estimation in <?php echo isset($target_city) ? htmlspecialchars($target_city) : 'Ranchi'; ?>?</p>
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary" style="width: 100%; text-align: center; margin-bottom: 15px;">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary" style="width: 100%; text-align: center; margin-bottom: 15px;" title="Call Customer Support at <?php echo SITE_PHONE; ?>">
             Call Now: <?php echo SITE_PHONE; ?>
           </a>
           <h4 style="font-size: 0.95rem; margin-top: 10px; margin-bottom: 8px; color: #f59e0b; font-weight: 700;">Follow & Find Us</h4>
@@ -73,42 +73,42 @@ require_once __DIR__ . '/config.php';
       <div style="border-top: 1px solid rgba(255,255,255,0.1); margin-top: 25px; padding-top: 20px; font-size: 0.82rem; color: #94a3b8;">
         <div style="margin-bottom: 12px;">
           <strong style="color: #f59e0b;">Popular Ranchi Shifting Hubs:</strong>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #cbd5e1; margin: 0 4px;">Packers and Movers Ranchi</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-lalpur-ranchi" style="color: #cbd5e1; margin: 0 4px;">Lalpur</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-kanke-road-ranchi" style="color: #cbd5e1; margin: 0 4px;">Kanke Road</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ratu-road-ranchi" style="color: #cbd5e1; margin: 0 4px;">Ratu Road</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-doranda-ranchi" style="color: #cbd5e1; margin: 0 4px;">Doranda</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bariatu-ranchi" style="color: #cbd5e1; margin: 0 4px;">Bariatu</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-hinoo-ranchi" style="color: #cbd5e1; margin: 0 4px;">Hinoo</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-morabadi-ranchi" style="color: #cbd5e1; margin: 0 4px;">Morabadi</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-harmu-ranchi" style="color: #cbd5e1; margin: 0 4px;">Harmu</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-namkum-ranchi" style="color: #cbd5e1; margin: 0 4px;">Namkum</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-kokar-ranchi" style="color: #cbd5e1; margin: 0 4px;">Kokar</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Packers and Movers Ranchi">Packers and Movers Ranchi</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-lalpur-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Lalpur">Lalpur</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-kanke-road-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Kanke Road">Kanke Road</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ratu-road-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ratu Road">Ratu Road</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-doranda-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Doranda">Doranda</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bariatu-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Bariatu">Bariatu</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-hinoo-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Hinoo">Hinoo</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-morabadi-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Morabadi">Morabadi</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-harmu-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Harmu">Harmu</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-namkum-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Namkum">Namkum</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-kokar-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Kokar">Kokar</a>
         </div>
         <div style="margin-bottom: 12px;">
           <strong style="color: #f59e0b;">Popular Jamshedpur Shifting Hubs:</strong>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Packers and Movers Jamshedpur</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Bistupur</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Sakchi</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Mango</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-kadma-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Kadma</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-sonari-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Sonari</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-telco-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Telco</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-adityapur-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Adityapur</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-golmuri-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Golmuri</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-baridih-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Baridih</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-sundernagar-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Sundernagar</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Packers and Movers Jamshedpur">Packers and Movers Jamshedpur</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Bistupur">Bistupur</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Sakchi">Sakchi</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Mango">Mango</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-kadma-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Kadma">Kadma</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-sonari-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Sonari">Sonari</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-telco-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Telco">Telco</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-adityapur-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Adityapur">Adityapur</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-golmuri-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Golmuri">Golmuri</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-baridih-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Baridih">Baridih</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-sundernagar-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Sundernagar">Sundernagar</a>
         </div>
         <div>
           <strong style="color: #f59e0b;">Major Intercity Routes:</strong>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-jamshedpur" style="color: #cbd5e1; margin: 0 4px;">Ranchi to Jamshedpur</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-dhanbad" style="color: #cbd5e1; margin: 0 4px;">Ranchi to Dhanbad</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-bokaro" style="color: #cbd5e1; margin: 0 4px;">Ranchi to Bokaro</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-kolkata" style="color: #cbd5e1; margin: 0 4px;">Ranchi to Kolkata</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-patna" style="color: #cbd5e1; margin: 0 4px;">Ranchi to Patna</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-delhi" style="color: #cbd5e1; margin: 0 4px;">Ranchi to Delhi</a> •
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" style="color: #cbd5e1; margin: 0 4px;">Jamshedpur to Kolkata</a> •
-          <a href="<?php echo SITE_URL; ?>sitemap" style="color: #f59e0b; font-weight: 600; margin-left: 6px;">[View All 400+ Locations Directory &raquo;]</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Jamshedpur">Ranchi to Jamshedpur</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-dhanbad" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Dhanbad">Ranchi to Dhanbad</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-bokaro" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Bokaro">Ranchi to Bokaro</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-kolkata" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Kolkata">Ranchi to Kolkata</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-patna" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Patna">Ranchi to Patna</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-delhi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Delhi">Ranchi to Delhi</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Jamshedpur to Kolkata">Jamshedpur to Kolkata</a> •
+          <a href="<?php echo SITE_URL; ?>sitemap" style="color: #f59e0b; font-weight: 600; margin-left: 6px;" title="View All Location Pages Directory">[View All 400+ Locations Directory &raquo;]</a>
         </div>
       </div>
 

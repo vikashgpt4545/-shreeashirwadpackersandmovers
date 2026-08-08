@@ -82,7 +82,7 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Contact Us</span>
       </div>
@@ -113,7 +113,7 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
             <div class="info-content">
               <h3>Phone & WhatsApp</h3>
-              <p><a href="tel:<?php echo SITE_PHONE_RAW; ?>"><?php echo SITE_PHONE; ?></a></p>
+              <p><a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Shree Ashirwad Packers and Movers"><?php echo SITE_PHONE; ?></a></p>
               <span class="info-tag">Available 24/7 for Shifting Queries</span>
             </div>
           </div>
@@ -124,7 +124,7 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
             <div class="info-content">
               <h3>Email Inquiry</h3>
-              <p><a href="mailto:<?php echo SITE_EMAIL; ?>"><?php echo SITE_EMAIL; ?></a></p>
+              <p><a href="mailto:<?php echo SITE_EMAIL; ?>" title="Shree Ashirwad Packers and Movers"><?php echo SITE_EMAIL; ?></a></p>
               <span class="info-tag">Prompt Response within 1 Hour</span>
             </div>
           </div>
@@ -237,8 +237,8 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our moving crews handle household items, furniture, and vehicles with careful wrapping and protective materials. These photos show real packing and loading work from our team.</p>
         </div>
         <div style="display: grid; gap: 16px;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike packing and protective wrapping for shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike packing and protective wrapping for shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
         </div>
       </div>
     </div>

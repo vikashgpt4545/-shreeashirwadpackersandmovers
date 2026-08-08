@@ -29,9 +29,9 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi">Ranchi</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Ranchi">Ranchi</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Home Relocation Timeline Ranchi</span>
       </div>
@@ -57,10 +57,10 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Moving Desk:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               📞 Call Moving Desk: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20need%20home%20relocation%20timeline%20details." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20need%20home%20relocation%20timeline%20details." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
@@ -322,7 +322,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Morabadi Executive Hub</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Residential apartment home relocation services in Morabadi.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-morabadi-ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-morabadi-ranchi" title="Packers Movers Morabadi Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers Movers Morabadi Ranchi →
           </a>
         </div>
@@ -330,7 +330,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ashok Nagar Villa Zone</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Villa and multi-story bungalow home shifting in Ashok Nagar.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ashok-nagar-ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ashok-nagar-ranchi" title="Packers Movers Ashok Nagar Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers Movers Ashok Nagar Ranchi →
           </a>
         </div>
@@ -338,7 +338,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Argora Housing Board Sector</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Structured family home relocation planner services in Argora.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-argora-ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-argora-ranchi" title="Packers Movers Argora Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers Movers Argora Ranchi →
           </a>
         </div>
@@ -346,7 +346,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Chutia Residential Enclave</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Complete home relocation and packing services in Chutia.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-chutia-ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-chutia-ranchi" title="Packers Movers Chutia Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers Movers Chutia Ranchi →
           </a>
         </div>
@@ -373,7 +373,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Jamshedpur Shifting Route</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Inter-city household relocation connecting Ranchi to Jamshedpur.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-jamshedpur" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-jamshedpur" title="Ranchi to Jamshedpur Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Jamshedpur Shifting Services →
           </a>
         </div>
@@ -381,7 +381,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Dhanbad Express Corridor</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Full container home relocation connecting Ranchi to Dhanbad.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-dhanbad" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-dhanbad" title="Ranchi to Dhanbad Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Dhanbad Shifting Services →
           </a>
         </div>
@@ -389,7 +389,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Bokaro Steel City Shifting</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Inter-district family home relocation connecting Ranchi to Bokaro.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-bokaro" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-bokaro" title="Ranchi to Bokaro Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Bokaro Shifting Services →
           </a>
         </div>
@@ -397,7 +397,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Ranchi to Hazaribagh Relocation Link</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Scheduled container household transit connecting Ranchi to Hazaribagh.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-hazaribagh" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-hazaribagh" title="Ranchi to Hazaribagh Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Ranchi to Hazaribagh Shifting Services →
           </a>
         </div>
@@ -698,13 +698,13 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Moving Helpline:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
           📞 Call Moving Helpline: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20to%20plan%20home%20relocation." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20to%20plan%20home%20relocation." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           💬 Chat on WhatsApp
         </a>
-        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+        <a href="<?php echo SITE_URL; ?>contact" title="📍 Visit Ranchi Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
           📍 Visit Ranchi Office
         </a>
       </div>

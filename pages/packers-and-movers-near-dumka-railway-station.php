@@ -101,8 +101,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb" style="display: flex; gap: 8px; font-size: 0.9rem; color: #64748b; list-style: none; margin: 0; padding: 0;">
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" style="color: #2563eb; text-decoration: none;">Home</a></li>
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" style="color: #2563eb; text-decoration: none;">Dumka</a></li>
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #2563eb; text-decoration: none;">Home</a></li>
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" title="Dumka" style="color: #2563eb; text-decoration: none;">Dumka</a></li>
           <li class="breadcrumb-item active" aria-current="page" style="color: #1e293b; font-weight: 600;"><span style="margin: 0 4px;">/</span> Dumka Railway Station</li>
         </ol>
       </nav>
@@ -125,10 +125,10 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
         
         <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-          <a href="tel:+918409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
+          <a href="tel:+918409531615" title="Call +91 8409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
             <i class="fa-solid fa-phone"></i> Call +91 8409531615
           </a>
-          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20near%20Dumka%20Railway%20Station." class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20near%20Dumka%20Railway%20Station." title="WhatsApp Quote" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
             <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
           </a>
         </div>
@@ -510,32 +510,32 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
         
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-main">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" title="Packers and Movers in Dumka Main city hub relocation services &amp; booking" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-main">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers in Dumka</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Main city hub relocation services &amp; booking</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-cost-guide" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-cost-guide">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-cost-guide" title="Dumka Cost &amp; Tariff Guide Complete 1BHK, 2BHK, 3BHK rate breakdown" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-cost-guide">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka Cost &amp; Tariff Guide</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Complete 1BHK, 2BHK, 3BHK rate breakdown</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dudhani-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dudhani">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dudhani-dumka" title="Packers and Movers in Dudhani Local Dudhani household &amp; bike shifting" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dudhani">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers in Dudhani</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Local Dudhani household &amp; bike shifting</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-rasikpur-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-rasikpur">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-rasikpur-dumka" title="Packers and Movers in Rasikpur Local Rasikpur home &amp; office relocation" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-rasikpur">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers in Rasikpur</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Local Rasikpur home &amp; office relocation</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>car-and-bike-transport-guide-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-vehicle-guide">
+        <a href="<?php echo SITE_URL; ?>car-and-bike-transport-guide-dumka" title="Car &amp; Bike Transport Guide Safe vehicle shipping rates &amp; process" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-vehicle-guide">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Car &amp; Bike Transport Guide</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Safe vehicle shipping rates &amp; process</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>iba-approved-packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-iba-approved">
+        <a href="<?php echo SITE_URL; ?>iba-approved-packers-and-movers-in-dumka" title="IBA Approved Movers Dumka 100% claimable GST bill relocation" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-iba-approved">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">IBA Approved Movers Dumka</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">100% claimable GST bill relocation</div>
         </a>
@@ -613,10 +613,10 @@ require_once __DIR__ . '/../includes/header.php';
         Call Shree Ashirwad Packers and Movers for premium 7-layer packing, enclosed container trucks, and 100% IBA GST bills!
       </p>
       <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="tel:+918409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
+        <a href="tel:+918409531615" title="Call +91 8409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
           <i class="fa-solid fa-phone"></i> Call +91 8409531615
         </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20near%20Dumka%20Railway%20Station." style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
+        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20near%20Dumka%20Railway%20Station." title="Chat on WhatsApp" style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
           <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
         </a>
       </div>

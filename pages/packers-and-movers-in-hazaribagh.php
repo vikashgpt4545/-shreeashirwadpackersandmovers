@@ -99,7 +99,7 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Packers and Movers in Hazaribagh</span>
       </div>
@@ -124,10 +124,10 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               📞 Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20for%20Hazaribagh." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20for%20Hazaribagh." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
@@ -508,7 +508,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Korrah Residential Hub</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Prime residential sector near Hazaribagh bus stand and NH-33.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-korrah-hazaribagh" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-korrah-hazaribagh" title="Packers and Movers Korrah →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Korrah →
           </a>
         </div>
@@ -516,7 +516,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Matwari Educational Zone</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Key educational and residential belt near Lake Road.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-matwari-hazaribagh" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-matwari-hazaribagh" title="Packers and Movers Matwari →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Matwari →
           </a>
         </div>
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Canary Hill Road Sector</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Scenic residential neighborhood with modern apartments.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-canary-hill-road-hazaribagh" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-canary-hill-road-hazaribagh" title="Packers and Movers Canary Hill Road →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Canary Hill Road →
           </a>
         </div>
@@ -532,7 +532,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Boddom Bazar Commercial Area</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Central commercial market and traditional shopping district.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-boddom-bazar-hazaribagh" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-boddom-bazar-hazaribagh" title="Packers and Movers Boddom Bazar →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers Boddom Bazar →
           </a>
         </div>
@@ -559,7 +559,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hazaribagh to Ranchi</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct 3-hour express highway container route to state capital Ranchi via NH-33.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-ranchi" title="Hazaribagh to Ranchi Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Hazaribagh to Ranchi Shifting Services →
           </a>
         </div>
@@ -567,7 +567,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hazaribagh to Dhanbad</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct highway container route connecting Hazaribagh to Coal City Dhanbad.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-dhanbad" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-dhanbad" title="Hazaribagh to Dhanbad Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Hazaribagh to Dhanbad Shifting Services →
           </a>
         </div>
@@ -575,7 +575,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hazaribagh to Bokaro</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Inter-district relocation route between Hazaribagh and Bokaro Steel City.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-bokaro" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-bokaro" title="Hazaribagh to Bokaro Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Hazaribagh to Bokaro Shifting Services →
           </a>
         </div>
@@ -583,7 +583,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hazaribagh to Patna</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate highway route via Barhi and Gaya to Bihar capital Patna.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-patna" title="Hazaribagh to Patna Shifting Services →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Hazaribagh to Patna Shifting Services →
           </a>
         </div>
@@ -636,13 +636,13 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
           📞 Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20for%20Hazaribagh." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20for%20Hazaribagh." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           💬 Chat on WhatsApp
         </a>
-        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+        <a href="<?php echo SITE_URL; ?>contact" title="📍 Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
           📍 Contact Office
         </a>
       </div>
@@ -681,8 +681,8 @@ function sendHeroWhatsAppLead(event, form) {
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">The team uses careful wrapping and secure loading methods to keep household items and vehicles protected from pickup to delivery.</p>
         </div>
         <div style="display: grid; gap: 16px;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packing and wrapping for Hazaribagh moving work" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for fragile items in Hazaribagh relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packing and wrapping for Hazaribagh moving work" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for fragile items in Hazaribagh relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
         </div>
       </div>
     </div>

@@ -67,7 +67,7 @@ $totalCount = count($files) - 1; // excluding 404
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Sitemap</span>
       </div>
@@ -83,7 +83,7 @@ $totalCount = count($files) - 1; // excluding 404
 
       <!-- Homepage Entry -->
       <div style="margin-bottom: 40px; background: #172a54; padding: 15px 20px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.3);">
-        <a href="<?php echo SITE_URL; ?>" style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; text-decoration: none;">
+        <a href="<?php echo SITE_URL; ?>" title="🏠 Homepage - Shree Ashirwad Packers and Movers (Main Headquarters)" style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; text-decoration: none;">
           🏠 Homepage - Shree Ashirwad Packers and Movers (Main Headquarters)
         </a>
       </div>
@@ -97,7 +97,7 @@ $totalCount = count($files) - 1; // excluding 404
           <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px;">
             <?php foreach ($catItems as $item): ?>
               <div style="background: #172a54; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2); transition: transform 0.2s ease;">
-                <a href="<?php echo $item['url']; ?>" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; font-weight: 500; display: block;">
+                <a href="<?php echo $item['url']; ?>" title="Shree Ashirwad Packers and Movers" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; font-weight: 500; display: block;">
                   <?php echo htmlspecialchars($item['title']); ?>
                 </a>
               </div>

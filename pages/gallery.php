@@ -39,7 +39,7 @@ require_once __DIR__ . '/../includes/header.php';
         
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp', 'Two-Wheeler / Bike Straw Padding & Branded Tape Packing');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" width="800" height="600" loading="lazy">
+            <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #1</div>
           </div>
           <div class="gallery-card-info">
@@ -50,7 +50,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp', 'Complete Cardboard & Stretch Wrap Bike Transport Packaging');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" width="800" height="600" loading="lazy">
+            <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #2</div>
           </div>
           <div class="gallery-card-info">
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp', 'Custom Wooden Crate Box Framing for Glassware & Heavy Items');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" width="800" height="600" loading="lazy">
+            <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #3</div>
           </div>
           <div class="gallery-card-info">
@@ -72,7 +72,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp', 'Wooden Crate & Box Protection for Large Smart LED TV');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" width="800" height="600" loading="lazy">
+            <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #4</div>
           </div>
           <div class="gallery-card-info">
@@ -83,7 +83,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp', 'Heavy Corrugated Carton Boxes & Foam Sheet Packing');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" width="800" height="600" loading="lazy">
+            <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #5</div>
           </div>
           <div class="gallery-card-info">
@@ -94,7 +94,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp', 'Cushioned Quilted Blanket & Shrink Wrap LED TV Packing');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" width="800" height="600" loading="lazy">
+            <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #6</div>
           </div>
           <div class="gallery-card-info">
@@ -105,7 +105,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div class="gallery-card-item" onclick="openLightbox('<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp', 'Full Transport Container Truck Loaded with Household Goods');">
           <div class="gallery-img-wrapper">
-            <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" width="800" height="600" loading="lazy">
+            <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" width="800" height="600" loading="lazy">
             <div class="gallery-card-badge">Photo #7</div>
           </div>
           <div class="gallery-card-info">
@@ -253,15 +253,15 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
 
         <div class="cta-buttons-wrapper">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-secondary">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" class="btn btn-secondary">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
             Call Now: <?php echo SITE_PHONE; ?>
           </a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20saw%20your%20shifting%20gallery%20and%20want%20a%20quote." target="_blank" class="btn btn-whatsapp-green">
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20saw%20your%20shifting%20gallery%20and%20want%20a%20quote." title="Chat on WhatsApp" target="_blank" class="btn btn-whatsapp-green">
             <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-1.137 4.156 4.29-1.127z"/></svg>
             Chat on WhatsApp
           </a>
-          <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline">
+          <a href="<?php echo SITE_URL; ?>contact" title="Get Custom Quote" class="btn btn-outline">
             Get Custom Quote
           </a>
         </div>
@@ -275,7 +275,7 @@ require_once __DIR__ . '/../includes/header.php';
 <div id="galleryModal" class="gallery-modal" onclick="closeLightbox();">
   <span class="modal-close">&times;</span>
   <div class="modal-content-wrapper" onclick="event.stopPropagation();">
-    <img id="modalImg" src="" alt="Full Shifting Photo">
+    <img id="modalImg" src="" alt="Full Shifting Photo" title="Full Shifting Photo">
     <p id="modalCaption"></p>
   </div>
 </div>

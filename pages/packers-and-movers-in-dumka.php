@@ -101,7 +101,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb" style="display: flex; gap: 8px; font-size: 0.9rem; color: #64748b; list-style: none; margin: 0; padding: 0;">
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" style="color: #2563eb; text-decoration: none;">Home</a></li>
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #2563eb; text-decoration: none;">Home</a></li>
           <li class="breadcrumb-item active" aria-current="page" style="color: #1e293b; font-weight: 600;"><span style="margin: 0 4px;">/</span> Packers and Movers in Dumka</li>
         </ol>
       </nav>
@@ -124,10 +124,10 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
         
         <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-          <a href="tel:+918409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
+          <a href="tel:+918409531615" title="Call +91 8409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
             <i class="fa-solid fa-phone"></i> Call +91 8409531615
           </a>
-          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dumka." class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dumka." title="WhatsApp Quote" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
             <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
           </a>
         </div>
@@ -526,42 +526,42 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
         
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dudhani-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dudhani-dumka">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dudhani-dumka" title="Packers and Movers Dudhani Dudhani sector local household &amp; vehicle shifting" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dudhani-dumka">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers Dudhani</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Dudhani sector local household &amp; vehicle shifting</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-rasikpur-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-rasikpur-dumka">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-rasikpur-dumka" title="Packers and Movers Rasikpur Rasikpur residential quarter moving services" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-rasikpur-dumka">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers Rasikpur</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Rasikpur residential quarter moving services</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-babu-para-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-babu-para-dumka">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-babu-para-dumka" title="Packers and Movers Babu Para Babu Para central Dumka home relocation" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-babu-para-dumka">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers Babu Para</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Babu Para central Dumka home relocation</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-ranchi" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-ranchi">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-ranchi" title="Dumka to Ranchi Capital express household &amp; car transport" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-ranchi">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka to Ranchi</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Capital express household &amp; car transport</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-deoghar" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-deoghar">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-deoghar" title="Dumka to Deoghar Inter-district Santhal Pargana express route" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-deoghar">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka to Deoghar</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Inter-district Santhal Pargana express route</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-patna" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-patna">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-patna" title="Dumka to Patna Interstate Bihar highway container transport" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-patna">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka to Patna</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Interstate Bihar highway container transport</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-kolkata" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-kolkata">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-kolkata" title="Dumka to Kolkata West Bengal interstate relocation corridor" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-kolkata">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka to Kolkata</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">West Bengal interstate relocation corridor</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-dhanbad" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-dhanbad">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-to-dhanbad" title="Dumka to Dhanbad Coal Capital cargo &amp; home shifting" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-dhanbad">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka to Dhanbad</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Coal Capital cargo &amp; home shifting</div>
         </a>
@@ -687,10 +687,10 @@ require_once __DIR__ . '/../includes/header.php';
         Call Shree Ashirwad Packers and Movers for transparent quotes, 7-layer packaging, and IBA-compliant shifting!
       </p>
       <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="tel:+918409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
+        <a href="tel:+918409531615" title="Call +91 8409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
           <i class="fa-solid fa-phone"></i> Call +91 8409531615
         </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dumka." style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
+        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dumka." title="Chat on WhatsApp" style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
           <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
         </a>
       </div>
@@ -728,8 +728,8 @@ function sendHeroWhatsAppLead(event, form) {
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our move crews handle delicate items, furniture, bike transport, and full household loads with careful wrapping, strong loading systems, and clear moving communication from start to finish.</p>
         </div>
         <div style="display: grid; gap: 16px;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike packing and protective wrapping for Dumka shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Dumka relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike packing and protective wrapping for Dumka shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Dumka relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
         </div>
       </div>
     </div>

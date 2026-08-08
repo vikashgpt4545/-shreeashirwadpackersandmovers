@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "About Us | Shree Ashirwad Packers and Movers in Ranchi & Jamshedpur | 8409531615";
@@ -14,7 +14,7 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">About Us</span>
       </div>
@@ -128,13 +128,13 @@ require_once __DIR__ . '/../includes/header.php';
             </li>
             <li style="display: flex; gap: 10px;">
               <span style="color: #f59e0b;">ðŸŒ</span>
-              <span><strong>Official Portal:</strong> <a href="https://shreeashirwadpackersandmovers.com/" style="color: #f59e0b; text-decoration: underline;" target="_blank">shreeashirwadpackersandmovers.com</a></span>
+              <span><strong>Official Portal:</strong> <a href="https://shreeashirwadpackersandmovers.com/" title="shreeashirwadpackersandmovers.com" style="color: #f59e0b; text-decoration: underline;" target="_blank">shreeashirwadpackersandmovers.com</a></span>
             </li>
           </ul>
 
           <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 10px; text-align: center;">
             <p style="font-size: 0.88rem; color: #cbd5e1; margin-bottom: 10px;">Need immediate shifting assistance?</p>
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: block; padding: 12px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us:" style="display: block; padding: 12px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">
               <i class="fas fa-phone-alt"></i> Call Us: <?php echo SITE_PHONE; ?>
             </a>
           </div>
@@ -342,7 +342,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6; margin-bottom: 12px;">
             Head office at Daladali Chowk and Harmu Vidyanagar Road, managing capital city moving and inter-district routes.
           </p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Explore Ranchi Packers &rarr;" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
             Explore Ranchi Packers &rarr;
           </a>
         </div>
@@ -352,7 +352,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6; margin-bottom: 12px;">
             Sakchi Main Road office managing steel city relocations, Tata company staff transfers, and industrial cargo.
           </p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title="Explore Jamshedpur Packers &rarr;" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
             Explore Jamshedpur Packers &rarr;
           </a>
         </div>
@@ -362,7 +362,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6; margin-bottom: 12px;">
             Sector 12/A office providing specialized moving services for BSL township employees and Chas commercial areas.
           </p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-bokaro" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-bokaro" title="Explore Bokaro Ser Packaging Engineering 7-Layer Protective Packaging Standards at Shree Ashirwad Packers Relocating households, corporate executive quarters, and commercial setups across Jharkhand requires heavy-duty protective material handling to prevent transit damage: Layer 1 &amp; 2: Anti-Scratch Stretch Film &amp; Foam Padding Polished wooden surfaces, leather sofa sets, electronic display panels, and metallic refrigerator doors receive a primary wrap of non-adhesive anti-scratch stretch film followed by high-density polyethylene foam padding to cushion against surface abrasions. Layer 3 &amp; 4: 80-Micron Heavy Bubble Wrap &amp; Edge Guards Every item is enclosed within 80-micron heavy-duty shock-absorbing air-bubble film. All sharp furniture corners, table edges, and appliance borders are secured with L-shaped corrugated corner guards to prevent corner crushing. Layer 5 &amp; 6: 5-Ply Heavy Duty Corrugated Sheets &amp; Moisture Film Outer walls are covered with heavy 5-ply corrugated sheets taped with reinforced packing tape, and wrapped in waterproof polyethylene shrink film to protect against rain, dust, and humidity during highway transit. Layer 7: Custom Heavy Wooden Crating Fragile crockery cabinets, marble table tops, glass mirrors, large LED TVs, and delicate artwork receive on-site custom wooden crating built with solid timber frames and steel banding straps. Automotive Transport Comprehensive Vehicle Transport &amp; Relocation Services in Jharkhand We offer complete car shipping and motorcycle transport solutions for residents moving across Ranchi, Jamshedpur, Dhanbad, Bokaro, and pan-India with zero odometer additions and complete safety: 🚙 Enclosed Car Carrier Trailers Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided. 🏍️ 5-Layer Bike Wrapping &amp; Stand Anchorage Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks. Official Documentation IBA Approved GST Billing &amp; Official Relocation Documentation Corporate officers, government personnel, bank staff, and defense personnel shifting locally or intercity receive official GST invoices accepted for claim reimbursement: Included Employee Claim Documentation Set: Official GST Consignment Invoice detailing itemized packing, loading, freight &amp; GST tax breakdown. Consignment Lorry Receipt (LR Copy) with official vehicle registration and driver details. Itemized Goods Inventory Packing List with room-wise tag numbers and condition reports. IBA Approved Stamp &amp; Registration Verification on official company letterhead. Transit Insurance Policy Document issued by authorized insurance partners. Stamped Payment Receipt for corporate HR &amp; audit clearance. Safety Protocols 4-Protocol Zero-Damage Execution System For all relocations managed by our logistics network, we enforce a mandatory 4-protocol safety framework applied to every single shipment without exception: Protocol 1: Multi-Layer Material Shielding Every item undergoes multi-layer wrapping combining air-bubble film, waterproof shrink wrap, 5-ply corrugated sheets, and corner foam guards. Delicate items receive custom wooden crating built on-site before loading. Protocol 2: Container Anchorage System Inside our closed container trucks, items are anchored using heavy-duty nylon safety belts attached to internal wall rings. This prevents item friction, movement, or tipping over during highway transit. Protocol 3: Live Satellite GPS Tracking Our container trucks are equipped with active GPS tracking hardware, allowing clients to receive real-time location updates throughout the entire transit journey. Protocol 4: Comprehensive Transit Insurance We back all moves originating from our branches with 100% full-value transit insurance policy documentation, covering all declared household items, electronics, and vehicles against unexpected highway risks. Pricing Transparency How Shifting Charges are Calculated at Shree Ashirwad Packers Relocation pricing is calculated based on total cargo volume (CFT), floor elevation, elevator availability, packaging material grade, vehicle type, and total road distance. Our binding quotes guarantee zero hidden fees: or availability, packaging material grade, vehicle type, and total road distance. Our binding quotes guarantee zero hidden fees: Shifting CategoryMaterial GradeDedicated VehiclePrice Range (&#8377;) 1 BHK Apartment / QuarterStandard 3-Layer WrapTata Ace / Bolero Pickup&#8377;3,500 - &#8377;7,500 2 BHK Family ResidencePremium 5-Layer Bubble14ft Covered Container&#8377;7,500 - &#8377;13,500 3 BHK / Independent Villa7-Layer Wooden Crating17ft/19ft Container Truck&#8377;13,500 - &#8377;21,000 Two-Wheeler Transport5-Layer Foam &amp; BubbleCovered Bike Carrier&#8377;2,200 - &#8377;4,800 Four-Wheeler Car CarrierWheel Chock Lock SystemClosed Hydraulic Trailer&#8377;6,000 - &#8377;13,500 Book Jharkhand's Premier Movers Ready to Move With Shree Ashirwad Packers and Movers? Contact our Ranchi head office or Jamshedpur branch today for a quick custom estimate and experience zero-hassle household or office shifting. &quot; style=&quot;display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);&quot;> Call Now:" style="color: #d32f2f; font-weight: 700; text-decoration: underline; font-size: 0.9rem;">
             Explore Bokaro Ser  <!-- Section: 7-Layer Highway Protective Packaging Specifications -->
   <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
     <div class="container" style="max-width: 950px;">
@@ -499,13 +499,13 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Shree Ashirwad Packers and Movers at <?php echo SITE_PHONE; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
           <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           <i class="fab fa-whatsapp"></i> Chat on WhatsApp
         </a>
-        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+        <a href="<?php echo SITE_URL; ?>contact" title=" Contact Us" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
           <i class="fas fa-phone-alt"></i> Contact Us
         </a>
       </div>
@@ -604,8 +604,8 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our team handles household goods, fragile items, furniture, and vehicles with careful wrapping and protective materials. These photos show real work from our moving crews across Jharkhand.</p>
         </div>
         <div style="display: grid; gap: 16px;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Wooden crate protection for fragile items" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Container loading process for household shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Wooden crate protection for fragile items" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-7.webp" alt="Container loading process for household shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
         </div>
       </div>
     </div>

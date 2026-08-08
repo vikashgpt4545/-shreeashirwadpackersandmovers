@@ -59,7 +59,7 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Packers and Movers in Jamshedpur</span>
       </div>
@@ -84,10 +84,10 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
               📞 Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services%20in%20Jamshedpur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services%20in%20Jamshedpur." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               💬 Chat on WhatsApp
             </a>
           </div>
@@ -555,19 +555,19 @@ require_once __DIR__ . '/../includes/header.php';
           Popular Jamshedpur Locality Services:
         </h3>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" title="📍 Movers in Bistupur ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>📍 Movers in Bistupur</span>
             <span style="color: #f59e0b;">➔</span>
           </a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" title="📍 Movers in Sakchi ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>📍 Movers in Sakchi</span>
             <span style="color: #f59e0b;">➔</span>
           </a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" title="📍 Movers in Mango ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>📍 Movers in Mango</span>
             <span style="color: #f59e0b;">➔</span>
           </a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-adityapur-jamshedpur" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-adityapur-jamshedpur" title="📍 Movers in Adityapur ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>📍 Movers in Adityapur</span>
             <span style="color: #f59e0b;">➔</span>
           </a>
@@ -580,19 +580,19 @@ require_once __DIR__ . '/../includes/header.php';
           Popular Intercity Shifting Routes:
         </h3>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-ranchi" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-ranchi" title="🚛 Jamshedpur to Ranchi ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>🚛 Jamshedpur to Ranchi</span>
             <span style="color: #d32f2f;">➔</span>
           </a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" title="🚛 Jamshedpur to Kolkata ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>🚛 Jamshedpur to Kolkata</span>
             <span style="color: #d32f2f;">➔</span>
           </a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-patna" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-patna" title="🚛 Jamshedpur to Patna ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>🚛 Jamshedpur to Patna</span>
             <span style="color: #d32f2f;">➔</span>
           </a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-dhanbad" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-dhanbad" title="🚛 Jamshedpur to Dhanbad ➔" style="background: #ffffff; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0; color: #0b132b; font-weight: 600; text-decoration: none; display: flex; align-items: center; justify-content: space-between; transition: all 0.3s ease;">
             <span>🚛 Jamshedpur to Dhanbad</span>
             <span style="color: #d32f2f;">➔</span>
           </a>
@@ -736,10 +736,10 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
 
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Helpline:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
             📞 Call Helpline: <?php echo SITE_PHONE; ?>
           </a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services%20in%20Jamshedpur." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services%20in%20Jamshedpur." title="💬 Instant WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
             💬 Instant WhatsApp Quote
           </a>
         </div>
@@ -765,8 +765,8 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our packing team works with care for electronics, furniture, and household goods so the move feels organised and predictable from the first pickup to final placement.</p>
         </div>
         <div style="display: grid; gap: 16px;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packing and wrapping process for Jamshedpur relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Household item packing in Jamshedpur moving service" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Packing and wrapping process for Jamshedpur relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Household item packing in Jamshedpur moving service" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
         </div>
       </div>
     </div>

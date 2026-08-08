@@ -35,14 +35,14 @@ require_once __DIR__ . '/../includes/header.php';
 
       <!-- Quick Action Buttons -->
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 45px;">
-        <a href="<?php echo SITE_URL; ?>" class="btn btn-primary" style="padding: 14px 28px; font-weight: 700;">
+        <a href="<?php echo SITE_URL; ?>" title="Return to Homepage" class="btn btn-primary" style="padding: 14px 28px; font-weight: 700;">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle; margin-right: 6px;"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
           Return to Homepage
         </a>
-        <a href="<?php echo SITE_URL; ?>services" class="btn btn-secondary" style="padding: 14px 28px; font-weight: 700;">
+        <a href="<?php echo SITE_URL; ?>services" title="View All Services" class="btn btn-secondary" style="padding: 14px 28px; font-weight: 700;">
           View All Services
         </a>
-        <a href="<?php echo SITE_URL; ?>contact" class="btn btn-outline" style="padding: 14px 28px; font-weight: 700;">
+        <a href="<?php echo SITE_URL; ?>contact" title="Contact Us" class="btn btn-outline" style="padding: 14px 28px; font-weight: 700;">
           Contact Us
         </a>
       </div>
@@ -51,7 +51,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="background: rgba(23, 42, 84, 0.6); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px; max-width: 550px; margin: 0 auto 35px auto;">
         <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">Need Urgent Shifting Assistance in Ranchi?</h3>
         <p style="font-size: 0.95rem; color: #cbd5e1; margin-bottom: 15px;">Call our 24/7 Ranchi Helpline for immediate shifting estimates:</p>
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="font-size: 1.3rem; font-weight: 800; color: #ffffff; text-decoration: none;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞" style="font-size: 1.3rem; font-weight: 800; color: #ffffff; text-decoration: none;">
           📞 <?php echo SITE_PHONE; ?>
         </a>
       </div>
@@ -62,16 +62,16 @@ require_once __DIR__ . '/../includes/header.php';
           Popular Relocation Hubs &amp; Services
         </h3>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers and Movers Ranchi</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Jamshedpur</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Dhanbad</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Bokaro</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Hazaribagh</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Deoghar</a>
-          <a href="<?php echo SITE_URL; ?>services" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🚚 Household Shifting Services</a>
-          <a href="<?php echo SITE_URL; ?>gallery" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🖼️ Real Shifting Photo Gallery</a>
-          <a href="<?php echo SITE_URL; ?>about" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🏢 About Our Company</a>
-          <a href="<?php echo SITE_URL; ?>sitemap" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🗺️ Complete HTML Sitemap</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="📍 Packers and Movers Ranchi" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers and Movers Ranchi</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title="📍 Packers Movers Jamshedpur" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Jamshedpur</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" title="📍 Packers Movers Dhanbad" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Dhanbad</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" title="📍 Packers Movers Bokaro" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Bokaro</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" title="📍 Packers Movers Hazaribagh" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Hazaribagh</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" title="📍 Packers Movers Deoghar" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">📍 Packers Movers Deoghar</a>
+          <a href="<?php echo SITE_URL; ?>services" title="🚚 Household Shifting Services" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🚚 Household Shifting Services</a>
+          <a href="<?php echo SITE_URL; ?>gallery" title="🖼️ Real Shifting Photo Gallery" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🖼️ Real Shifting Photo Gallery</a>
+          <a href="<?php echo SITE_URL; ?>about" title="🏢 About Our Company" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🏢 About Our Company</a>
+          <a href="<?php echo SITE_URL; ?>sitemap" title="🗺️ Complete HTML Sitemap" style="color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: color 0.2s;" onmouseover="this.style.color='#f59e0b'" onmouseout="this.style.color='#cbd5e1'">🗺️ Complete HTML Sitemap</a>
         </div>
       </div>
 

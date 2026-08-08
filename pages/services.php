@@ -14,7 +14,7 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Services</span>
       </div>
@@ -324,14 +324,14 @@ require_once __DIR__ . '/../includes/header.php';
         <h3 style="font-size: 1.8rem; color: #0b132b; font-weight: 800;">Explore Localities &amp; <span style="color: #d32f2f;">Specialized Service Pages</span></h3>
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Ranchi</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Jamshedpur</a>
-        <a href="<?php echo SITE_URL; ?>warehouse-storage-facilities-in-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🏭 Warehouse Storage</a>
-        <a href="<?php echo SITE_URL; ?>pet-relocation-services-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🐾 Pet Relocation</a>
-        <a href="<?php echo SITE_URL; ?>plant-and-garden-shifting-jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🌱 Plant Shifting</a>
-        <a href="<?php echo SITE_URL; ?>car-transportation-services-in-ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚗 Car Transport Ranchi</a>
-        <a href="<?php echo SITE_URL; ?>household-goods-shifting-in-ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🏠 Home Shifting Ranchi</a>
-        <a href="<?php echo SITE_URL; ?>office-shifting-services-in-ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🏢 Office Shifting Ranchi</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="📍 Movers in Ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Ranchi</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title="📍 Movers in Jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Jamshedpur</a>
+        <a href="<?php echo SITE_URL; ?>warehouse-storage-facilities-in-jamshedpur" title="🏭 Warehouse Storage" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🏭 Warehouse Storage</a>
+        <a href="<?php echo SITE_URL; ?>pet-relocation-services-jamshedpur" title="🐾 Pet Relocation" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🐾 Pet Relocation</a>
+        <a href="<?php echo SITE_URL; ?>plant-and-garden-shifting-jamshedpur" title="🌱 Plant Shifting" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🌱 Plant Shifting</a>
+        <a href="<?php echo SITE_URL; ?>car-transportation-services-in-ranchi" title="🚗 Car Transport Ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🚗 Car Transport Ranchi</a>
+        <a href="<?php echo SITE_URL; ?>household-goods-shifting-in-ranchi" title="🏠 Home Shifting Ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🏠 Home Shifting Ranchi</a>
+        <a href="<?php echo SITE_URL; ?>office-shifting-services-in-ranchi" title="🏢 Office Shifting Ranchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🏢 Office Shifting Ranchi</a>
       </div>
     </div>
   </section>
@@ -370,10 +370,10 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
 
         <div class="cta-buttons-wrapper" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-secondary" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" class="btn btn-secondary" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">
             📞 Call Now: <?php echo SITE_PHONE; ?>
           </a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." target="_blank" class="btn btn-whatsapp-green" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20your%20shifting%20services." title="💬 Chat on WhatsApp" target="_blank" class="btn btn-whatsapp-green" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">
             💬 Chat on WhatsApp
           </a>
         </div>

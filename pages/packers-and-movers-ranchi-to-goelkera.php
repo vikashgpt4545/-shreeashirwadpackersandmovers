@@ -26,9 +26,9 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi">Ranchi</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Ranchi">Ranchi</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Packers and Movers Ranchi to Goelkera</span>
       </div>
@@ -43,8 +43,8 @@ require_once __DIR__ . '/../includes/header.php';
           <h1 style="font-size:2.8rem;font-weight:800;line-height:1.2;margin-bottom:20px;">Reliable <span style="color:#f59e0b;">Packers and Movers Ranchi to Goelkera</span></h1>
           <p style="font-size:1.1rem;color:#cbd5e1;line-height:1.7;margin-bottom:25px;">Planning household shifting or vehicle transportation from Ranchi to Goelkera (West Singhbhum mining belt)? Shree Ashirwad Packers and Movers offers daily express container transit via NH-75 with 7-layer safety packaging, GPS tracking, transit insurance, and 100% IBA-approved GST bills.</p>
           <div style="display:flex;gap:15px;flex-wrap:wrap;margin-bottom:30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW;?>" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📞 Call: <?php echo SITE_PHONE;?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20shifting%20from%20Ranchi%20to%20Goelkera." target="_blank" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">💬 WhatsApp</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW;?>" title="📞 Call:" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📞 Call: <?php echo SITE_PHONE;?></a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20shifting%20from%20Ranchi%20to%20Goelkera." title="💬 WhatsApp" target="_blank" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">💬 WhatsApp</a>
           </div>
           <div style="display:flex;gap:20px;font-size:.9rem;color:#94a3b8;">
             <span><strong style="color:#f59e0b;">980+</strong> Ranchi to Goelkera Moves</span>
@@ -342,19 +342,19 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;">
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi Main Office</h4>
-          <a href="<?php echo SITE_URL;?>packers-and-movers-in-ranchi.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Packers and Movers in Ranchi →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-in-ranchi.php" title="Packers and Movers in Ranchi →" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Packers and Movers in Ranchi →</a>
         </div>
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi to Chaibasa Route</h4>
-          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-chaibasa.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chaibasa Shifting →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-chaibasa.php" title="Ranchi to Chaibasa Shifting →" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chaibasa Shifting →</a>
         </div>
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi to Chakradharpur</h4>
-          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-chakradharpur.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chakradharpur Shifting →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-chakradharpur.php" title="Ranchi to Chakradharpur Shifting →" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Chakradharpur Shifting →</a>
         </div>
         <div style="background:#101c40;padding:18px;border-radius:10px;border:1px solid rgba(245,158,11,.2);">
           <h4 style="color:#fff;margin-bottom:8px;">Ranchi to Noamundi</h4>
-          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-noamundi.php" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Noamundi Shifting →</a>
+          <a href="<?php echo SITE_URL;?>packers-and-movers-ranchi-to-noamundi.php" title="Ranchi to Noamundi Shifting →" style="color:#f59e0b;text-decoration:underline;font-weight:600;font-size:.9rem;">Ranchi to Noamundi Shifting →</a>
         </div>
       </div>
     </div>
@@ -394,9 +394,9 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size:2.3rem;font-weight:800;margin:15px 0;color:#fff;">Ready to Move with <span style="color:#f59e0b;">Packers and Movers Ranchi to Goelkera</span>?</h2>
       <p style="font-size:1.05rem;color:#cbd5e1;max-width:750px;margin:0 auto 30px;line-height:1.7;">Contact us for a guaranteed fixed-price quote with same-day delivery to Goelkera.</p>
       <div style="display:flex;gap:15px;justify-content:center;flex-wrap:wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW;?>" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📞 Call: <?php echo SITE_PHONE;?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Goelkera." target="_blank" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">💬 WhatsApp</a>
-        <a href="<?php echo SITE_URL;?>contact" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#1e293b,#0f172a);border:1.5px solid #f59e0b;color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📍 Contact Office</a>
+        <a href="tel:<?php echo SITE_PHONE_RAW;?>" title="📞 Call:" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📞 Call: <?php echo SITE_PHONE;?></a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Goelkera." title="💬 WhatsApp" target="_blank" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">💬 WhatsApp</a>
+        <a href="<?php echo SITE_URL;?>contact" title="📍 Contact Office" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#1e293b,#0f172a);border:1.5px solid #f59e0b;color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📍 Contact Office</a>
       </div>
     </div>
   </section>

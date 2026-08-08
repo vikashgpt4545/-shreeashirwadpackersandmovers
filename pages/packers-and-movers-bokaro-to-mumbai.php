@@ -37,9 +37,9 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>">Home</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro">Bokaro</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" title="Bokaro">Bokaro</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Bokaro to Mumbai Shifting</span>
       </div>
@@ -60,8 +60,8 @@ require_once __DIR__ . '/../includes/header.php';
             Shree Ashirwad Packers and Movers offers top-tier long-distance house shifting, vehicle transportation, bike shipping, and commercial moving from Bokaro Steel City to Mumbai, Navi Mumbai, and Thane. 7-layer protective packaging, 100% IBA-approved GST bills, and live GPS tracking.
           </p>
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Bokaro%20to%20Mumbai." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?></a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Bokaro%20to%20Mumbai." title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
           </div>
         </div>
 
@@ -281,22 +281,22 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bokaro to Pune Route</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate transport connecting Bokaro Steel City to Pune.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-pune" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Pune Shifting &#8594;</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-pune" title="Bokaro to Pune Shifting &#8594;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Pune Shifting &#8594;</a>
         </div>
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bokaro to Bangalore Route</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Long-distance interstate highway transport to Karnataka.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-bangalore" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Bangalore Shifting &#8594;</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-bangalore" title="Bokaro to Bangalore Shifting &#8594;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Bangalore Shifting &#8594;</a>
         </div>
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bokaro to Delhi Route</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">National capital long-distance interstate transport route.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-delhi" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Delhi Shifting &#8594;</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-delhi" title="Bokaro to Delhi Shifting &#8594;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Delhi Shifting &#8594;</a>
         </div>
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bokaro to Hyderabad Route</h4>
           <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Interstate highway route connecting Bokaro to Telangana.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-hyderabad" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Hyderabad Shifting &#8594;</a>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-bokaro-to-hyderabad" title="Bokaro to Hyderabad Shifting &#8594;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">Bokaro to Hyderabad Shifting &#8594;</a>
         </div>
       </div>
     </div>
@@ -319,9 +319,9 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 15px;">Book Safe Shifting from <span style="color: #f59e0b;">Bokaro to Mumbai</span></h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">Get written guaranteed pricing and 100% IBA-compliant bills today.</p>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20from%20Bokaro%20to%20Mumbai." target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);"><i class="fab fa-whatsapp"></i> WhatsApp</a>
-        <a href="<?php echo SITE_URL; ?>contact" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);"><i class="fas fa-phone-alt"></i> Contact Office</a>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?></a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20from%20Bokaro%20to%20Mumbai." title="WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+        <a href="<?php echo SITE_URL; ?>contact" title=" Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);"><i class="fas fa-phone-alt"></i> Contact Office</a>
       </div>
     </div>
   </section>

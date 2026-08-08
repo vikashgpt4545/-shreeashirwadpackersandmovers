@@ -101,8 +101,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb" style="display: flex; gap: 8px; font-size: 0.9rem; color: #64748b; list-style: none; margin: 0; padding: 0;">
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" style="color: #2563eb; text-decoration: none;">Home</a></li>
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" style="color: #2563eb; text-decoration: none;">Chatra</a></li>
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #2563eb; text-decoration: none;">Home</a></li>
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" title="Chatra" style="color: #2563eb; text-decoration: none;">Chatra</a></li>
           <li class="breadcrumb-item active" aria-current="page" style="color: #1e293b; font-weight: 600;"><span style="margin: 0 4px;">/</span> Dantra Chatra</li>
         </ol>
       </nav>
@@ -125,10 +125,10 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
         
         <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-          <a href="tel:+918409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
+          <a href="tel:+918409531615" title="Call +91 8409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
             <i class="fa-solid fa-phone"></i> Call +91 8409531615
           </a>
-          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dantra%20Chatra." class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dantra%20Chatra." title="WhatsApp Quote" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
             <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
           </a>
         </div>
@@ -548,42 +548,42 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
         
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-hub">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" title="Chatra Main Hub Central City &amp; District Headquarters Shifting" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-hub">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra Main Hub</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Central City &amp; District Headquarters Shifting</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-ranchi" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-ranchi">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-ranchi" title="Chatra to Ranchi Capital City Express Household Transport" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-ranchi">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Ranchi</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Capital City Express Household Transport</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-jamshedpur" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-jamshedpur">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-jamshedpur" title="Chatra to Jamshedpur Steel City Industrial &amp; Residential Moving" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-jamshedpur">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Jamshedpur</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Steel City Industrial &amp; Residential Moving</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-dhanbad" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-dhanbad">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-dhanbad" title="Chatra to Dhanbad Coal Belt Container Cargo Shifting" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-dhanbad">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Dhanbad</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Coal Belt Container Cargo Shifting</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-hazaribagh" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-hazaribagh">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-hazaribagh" title="Chatra to Hazaribagh NH-522 Express Inter-District Corridor" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-hazaribagh">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Hazaribagh</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">NH-522 Express Inter-District Corridor</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-bokaro" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-bokaro">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-chatra-to-bokaro" title="Chatra to Bokaro Steel City Dedicated Truck Shifting" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-chatra-bokaro">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Chatra to Bokaro</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Steel City Dedicated Truck Shifting</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-ntpc-township-tandwa-chatra" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-ntpc-tandwa">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-ntpc-township-tandwa-chatra" title="NTPC Township Tandwa Thermal Power Quarter Moving Services" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-ntpc-tandwa">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">NTPC Township Tandwa</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Thermal Power Quarter Moving Services</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-ccl-colony-tandwa-chatra" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-ccl-tandwa">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-ccl-colony-tandwa-chatra" title="CCL Colony Tandwa Amrapali &amp; Magadh Mining Project Shifting" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-ccl-tandwa">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">CCL Colony Tandwa</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Amrapali &amp; Magadh Mining Project Shifting</div>
         </a>
@@ -657,10 +657,10 @@ require_once __DIR__ . '/../includes/header.php';
         Call Shree Ashirwad Packers and Movers for transparent quotes, 7-layer packaging, and IBA-compliant shifting!
       </p>
       <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="tel:+918409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
+        <a href="tel:+918409531615" title="Call +91 8409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
           <i class="fa-solid fa-phone"></i> Call +91 8409531615
         </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dantra%20Chatra." style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
+        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20moving%20quote%20in%20Dantra%20Chatra." title="Chat on WhatsApp" style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
           <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
         </a>
       </div>
