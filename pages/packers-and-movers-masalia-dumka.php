@@ -10,86 +10,87 @@ $page_locality = "Masalia";
 
 $faq_list = [
     [
-        'q' => 'Why are Shree Ashirwad Packers and Movers top-rated in Masalia, Dumka?',
-        'a' => 'We provide dedicated local crews in Masalia, 7-layer protective packaging, covered container trucks, transparent written quotes, 100% IBA-approved GST bills, and 24/7 customer support.'
+        'q' => 'Why choose Shree Ashirwad Packers and Movers in Masalia, Dumka?',
+        'a' => 'Shree Ashirwad Packers and Movers in Masalia, Dumka provides 15+ years of verified relocation expertise, 7-layer protective packaging, dedicated enclosed GPS container trucks, 100% IBA GST claim bills, and zero hidden charges for seamless household, commercial, and vehicle shipping.'
     ],
     [
-        'q' => 'What is the cost of 1BHK or 2BHK home shifting in Masalia, Dumka?',
-        'a' => 'Local household shifting in Masalia ranges from ₹3,000 to ₹5,500 for a 1BHK flat, and ₹5,000 to ₹8,500 for a 2BHK home, including labor, packaging materials, and transport.'
+        'q' => 'What are the average household shifting charges in Masalia?',
+        'a' => 'Local house shifting in Masalia ranges from ₹3,500 to ₹6,500 for 1BHK, ₹6,500 to ₹11,500 for 2BHK, and ₹11,500 to ₹17,500 for 3BHK residences. Intercity moving rates depend on total goods volume, packaging specifications, and route distance.'
     ],
     [
-        'q' => 'How long does a local house move take in Masalia, Dumka?',
-        'a' => 'Local moves within Masalia or to central Dumka take approximately 4 to 7 hours from initial packing to final room arrangement.'
+        'q' => 'Do you provide IBA-approved GST bills for government & bank employee relocation claims in Masalia?',
+        'a' => 'Yes, we issue 100% claimable IBA-approved GST invoices, Lorry Receipts (LR), money receipts, and itemized inventory lists accepted by government offices, SKMU faculty administration, defense, police, and PSU employer accounting departments.'
     ],
     [
-        'q' => 'Do you offer motorcycle and scooter shipping from Masalia, Dumka?',
-        'a' => 'Yes, we provide specialized multi-layer bubble wrapping and upright container transport for bikes and scooters from Masalia to any location nationwide.'
+        'q' => 'How do you protect household furniture from damage during transit in Masalia?',
+        'a' => 'We utilize heavy 7-layer protective wrapping including high-density air-bubble wrap, 5-ply corrugated fiberboard sheets, stretch wrap, foam edge protectors, and custom wooden crating for fragile glass items and LED TVs.'
     ],
     [
-        'q' => 'Are your moving invoices valid for government transfer claims in Masalia?',
-        'a' => 'Yes, we issue official 18% GST invoices, stamped Consignment Lorry Receipts (LR), money receipts, and itemized inventory sheets accepted by all government departments and corporate accounts.'
+        'q' => 'Can I transport my car or motorcycle from Masalia to Ranchi, Patna, or Kolkata?',
+        'a' => 'Yes, we operate specialized covered hydraulic car carriers and belt-locked enclosed bike container trailers for scratch-free vehicle shipping from Masalia to Ranchi, Deoghar, Patna, Kolkata, Delhi, and pan-India destinations.'
     ],
     [
-        'q' => 'How do you protect fragile items and electronic appliances in Masalia?',
-        'a' => 'Fragile items are encased in heavy air-bubble rolls, shielded with corrugated cardboard sheets, reinforced with edge guards, and placed inside custom wooden crates.'
+        'q' => 'How far in advance should I book my move with packers and movers in Masalia?',
+        'a' => 'We recommend booking your shifting slot 2 to 4 days in advance to reserve your preferred moving date, specialized container truck, and dedicated packing supervisor.'
     ],
     [
-        'q' => 'Can your crew dismantle double beds and heavy furniture in Masalia homes?',
-        'a' => 'Yes, our experienced carpenters dismantle modular beds, wardrobes, and dining tables at origin and reassemble them carefully at your destination.'
+        'q' => 'What packaging materials are used for delicate kitchen items and electronics in Masalia?',
+        'a' => 'We use heavy air-bubble rolls, waterproof shrink film, sturdy multi-wall cardboard cartons, foam corner guards, and timber crates built specifically for delicate crockery and high-value electronics.'
     ],
     [
-        'q' => 'How early should I book relocation services in Masalia, Dumka?',
-        'a' => 'We recommend booking 2 to 4 days prior to your intended moving date to secure your preferred container truck and packing team.'
+        'q' => 'Do you serve all residential sectors and nearby commercial areas around Masalia?',
+        'a' => 'Yes, our local packing crews provide complete door-to-door pickup and delivery across Masalia, central Dumka quarters, educational sectors, and surrounding regional routes.'
     ],
     [
-        'q' => 'Do you provide warehouse storage facilities near Masalia, Dumka?',
-        'a' => 'Yes, we offer secure, 24/7 CCTV-monitored, weather-proof warehouse storage units near Masalia for short-term and long-term storage.'
+        'q' => 'How can I get an accurate moving quote for my home in Masalia?',
+        'a' => 'Our local supervisor conducts a free physical or digital survey of your household items, assesses total cargo volume and floor elevation, and issues a fixed written quote with zero hidden costs.'
     ],
     [
-        'q' => 'What container vehicles do you use for house shifting in Masalia?',
-        'a' => 'We deploy fully enclosed, waterproof container trucks ranging from 14ft to 22ft equipped with safety belt anchorages and live satellite GPS tracking.'
+        'q' => 'Is short-term or long-term warehouse storage available near Masalia?',
+        'a' => 'Yes, we offer secure, 24/7 CCTV-monitored, pest-controlled, and climate-protected warehouse storage facilities in Dumka for household goods, commercial inventory, and vehicles.'
     ],
     [
-        'q' => 'Are there any hidden costs added after signing a quote in Masalia?',
-        'a' => 'No. We provide binding written quotations detailing all packing, labor, vehicle freight, toll taxes, and GST charges with zero hidden surprises.'
+        'q' => 'How are heavy wooden double beds and wardrobes unbolted and reassembled in Masalia?',
+        'a' => 'Our experienced carpenters carefully dismantle double beds, modular wardrobes, and dining tables at origin, wrap each section in protective bubble wrap, and reassemble them at your new home.'
     ],
     [
-        'q' => 'Can you assist with commercial shop or office shifting in Masalia, Dumka?',
-        'a' => 'Yes, we handle commercial shop and office relocations in Masalia, providing systematic packing for equipment, desks, and inventory files.'
+        'q' => 'Is transit insurance provided for long-distance highway moves from Masalia?',
+        'a' => 'Yes, we offer comprehensive 100% value transit insurance policies (3% declared cargo value) protecting your consignment against unforeseen highway accidents, fire, or theft.'
     ],
     [
-        'q' => 'What documentation do I receive on shifting day in Masalia?',
-        'a' => 'You receive a stamped Consignment Lorry Receipt (LR copy), an itemized inventory list signed by the supervisor, and an official GST payment receipt.'
+        'q' => 'What is the procedure for booking a household move in Masalia?',
+        'a' => 'Simply call +91 8409531615 or submit our online WhatsApp quote form. We confirm inventory details, schedule your moving date, dispatch our packing crew, and deliver goods safely.'
     ],
     [
-        'q' => 'Do your moving crews operate on weekends and public holidays in Masalia?',
-        'a' => 'Yes, our packing and transport crews operate 7 days a week, including Sundays and public holidays, at standard rates.'
+        'q' => 'Do you offer office and commercial shop relocation services in Masalia?',
+        'a' => 'Yes, we specialize in corporate office moves, IT equipment packing, server rack transit, document archive moving, and commercial store inventory shifting with weekend execution to minimize business downtime.'
     ],
     [
-        'q' => 'How should I prepare my personal valuables before the packing team arrives in Masalia?',
-        'a' => 'Keep personal jewelry, cash, Aadhaar cards, property documents, and essential medications in a personal travel bag to carry with you directly.'
+        'q' => 'Are your packing crews trained and background-verified in Masalia?',
+        'a' => 'All our moving staff are full-time, background-verified, experienced logistics professionals trained in safe lifting techniques, carpentry, and protective packaging standards.'
     ],
     [
-        'q' => 'Is transit insurance recommended for intercity moves from Masalia?',
-        'a' => 'Yes, while optional for local shifting within Masalia, we strongly advise our 3% full-value transit insurance policy for intercity relocations.'
+        'q' => 'How do you handle loading and unloading in buildings without elevators in Masalia?',
+        'a' => 'Our athletic loading team utilizes shoulder carry straps, stair climbers, and manual ramps to safely move heavy furniture and appliances up or down multi-story staircases.'
     ],
     [
-        'q' => 'How do you handle moving heavy furniture down staircases in Masalia homes?',
-        'a' => 'Our experienced loaders utilize furniture lifting straps and protective blankets to safely maneuver heavy items down staircases.'
+        'q' => 'What payment methods do you accept for moving services in Masalia?',
+        'a' => 'We accept UPI (GPay, PhonePe, Paytm), Net Banking, Bank Transfers (NEFT/RTGS), Credit/Debit Cards, and Cash upon final delivery inspection.'
     ],
     [
-        'q' => 'Can I track the moving truck carrying my household belongings from Masalia?',
-        'a' => 'Yes, all container trucks feature live satellite GPS tracking, providing real-time location updates via WhatsApp.'
+        'q' => 'Can you transport single items or part-load luggage from Masalia?',
+        'a' => 'Yes, we provide shared container transport services for single sofas, refrigerators, washing machines, or luggage boxes at economical part-load rates.'
     ],
     [
-        'q' => 'What payment options do you support for relocation services in Masalia?',
-        'a' => 'We accept payments via UPI, Google Pay, PhonePe, NEFT/RTGS bank transfers, or cash.'
+        'q' => 'How do I track my goods while in transit from Masalia to another city?',
+        'a' => 'Our enclosed container trucks are equipped with satellite GPS tracking hardware. You receive live location updates via WhatsApp directly from your assigned move coordinator.'
     ],
     [
-        'q' => 'How can I request a free home shifting survey in Masalia, Dumka?',
-        'a' => 'Call our customer care hotline at +91 8409531615 or submit your moving details online for an immediate call back and free survey.'
+        'q' => 'What items are restricted or prohibited from being packed during shifting in Masalia?',
+        'a' => 'For safety compliance, we do not transport hazardous chemicals, flammable liquids, gas cylinders, fireworks, cash, jewelry, or perishable food items.'
     ]
 ];
+
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -110,18 +111,18 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 
   <!-- Hero Section -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: #ffffff; padding: 60px 0; position: relative;" id="hero-masalia">
+  <section class="hero-section" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: #ffffff; padding: 60px 0; position: relative;" id="hero-packers-and-movers-masalia-dumka">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 40px;">
       
       <div class="hero-content" style="flex: 1 1 500px;">
         <span style="display: inline-block; background: rgba(37, 99, 235, 0.25); color: #60a5fa; border: 1px solid rgba(96, 165, 250, 0.3); padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
-          Masalia Block Sub-Hub Corridor
+          Masalia Locality Specialists
         </span>
         <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
           Packers and Movers Masalia Dumka
         </h1>
         <p style="font-size: 1.15rem; line-height: 1.8; color: #94a3b8; margin-bottom: 30px;">
-          Relocating home or office in Masalia, Dumka? Rely on Shree Ashirwad Packers and Movers for 7-layer protective packing, safe vehicle transport, enclosed container trucks, and 100% IBA-approved GST bills.
+          Best Packers and Movers in Masalia Dumka offering household shifting, office relocation, vehicle transport & storage with 100% IBA GST billing. Call 8409531615.
         </p>
         
         <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
@@ -135,11 +136,11 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
 
       <!-- Quick Lead Form -->
-      <div class="hero-form-card" style="flex: 0 1 420px; background: #ffffff; border-radius: 12px; padding: 30px; color: #1e293b; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);" id="masalia-form-box">
+      <div class="hero-form-card" style="flex: 0 1 420px; background: #ffffff; border-radius: 12px; padding: 30px; color: #1e293b; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);" id="packers-and-movers-masalia-dumka-form-box">
         <h3 style="font-size: 1.4rem; font-weight: 700; margin-bottom: 8px; color: #0f172a;">Get Free Masalia Quote</h3>
         <p style="font-size: 0.88rem; color: #64748b; margin-bottom: 20px;">Safe, fast &amp; 100% IBA Approved!</p>
         
-        <form onsubmit="sendHeroWhatsAppLead(event, this);" id="masalia-lead-form">
+        <form onsubmit="sendHeroWhatsAppLead(event, this);" id="packers-and-movers-masalia-dumka-lead-form">
           <div style="margin-bottom: 14px;">
             <input type="text" name="name" placeholder="Your Name" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
           </div>
@@ -155,7 +156,7 @@ require_once __DIR__ . '/../includes/header.php';
           <div style="margin-bottom: 18px;">
             <textarea name="message" placeholder="Details (e.g., 2BHK Flat, Bike, Moving Date)" rows="3" style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;"></textarea>
           </div>
-          <button type="submit" style="width: 100%; background: #2563eb; color: #ffffff; border: none; padding: 14px; border-radius: 6px; font-size: 1rem; font-weight: 700; cursor: pointer;" id="submit-masalia-btn">
+          <button type="submit" style="width: 100%; background: #2563eb; color: #ffffff; border: none; padding: 14px; border-radius: 6px; font-size: 1rem; font-weight: 700; cursor: pointer;" id="submit-packers-and-movers-masalia-dumka-btn">
             Calculate Moving Rate <i class="fa-solid fa-arrow-right" style="margin-left: 6px;"></i>
           </button>
         </form>
@@ -169,7 +170,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
         <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">Masalia Zone</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">Masalia Local</div>
           <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Dedicated Packing Crew</div>
         </div>
         <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
@@ -188,24 +189,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 3: Technical Overview & 6-Card Grid -->
+  <!-- Section 3: Technical Overview & Local Info -->
   <section style="padding: 70px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;" id="technical-overview-section">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Masalia Logistics Infrastructure</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Masalia Relocation Infrastructure</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
         Specialized Relocation Standards for Masalia, Dumka
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Masalia is an essential administrative and agricultural block in Dumka district. Relocating households, government staff quarters, or commercial setups in Masalia requires dependable transport logistics and skilled packing crews.
+        Masalia locality in Dumka district, local residential quarters, marketplace access, NH-114A / SH-17 connecting roads.
       </p>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 30px;">
-        At <strong>Shree Ashirwad Packers and Movers</strong>, our Masalia team provides multi-layer protective packaging, bed dismantling, and enclosed container transport.
+        At <strong>Shree Ashirwad Packers and Movers</strong>, our Masalia team is backed by multi-layer packing materials, experienced carpenters, and closed container vehicles to guarantee smooth relocations.
       </p>
 
-      <!-- 6 Cards Grid (3x2 Layout) -->
+      <!-- 6 Cards Grid -->
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 35px 0;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
@@ -226,9 +227,9 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
           <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🏢</div>
-          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Commercial Shop &amp; Office Relocation</h3>
+          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Masalia Commercial Relocation</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Systematic packing of commercial shop inventory, office desks, computers, and files with minimal downtime.
+            Systematic packing of office desks, computers, document archives, and commercial shop inventory with minimal downtime.
           </p>
         </div>
 
@@ -265,41 +266,41 @@ require_once __DIR__ . '/../includes/header.php';
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="safety-protocols-section">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Zero-Damage System</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Safety Engineering</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        4-Protocol Safety Shield for Masalia Moves
+        Our 4-Protocol Zero-Damage Execution System
       </h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 30px;">
-        Every relocation originating in Masalia follows our strict 4-protocol safety framework:
+        Relocating valuable household belongings, executive office assets, and personal vehicles requires strict adherence to safety standards. At Shree Ashirwad Packers and Movers, we enforce 4 mandatory safety execution protocols for every move:
       </p>
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
         
         <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 1: 7-Layer Material Shielding</div>
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 1: Multi-Layer Material Shielding</div>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Heavy air-bubble rolls, 5-ply corrugated cardboard sheets, stretch wrap, foam corner guards, and custom wooden crating for TV screens.
+            Every household item is encased in multi-layer protection combining heavy bubble rolls, waterproof stretch wrap, 5-ply corrugated sheets, and foam corner guards. Glassware, mirrors, and large Smart TVs receive custom-built wooden crates.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 2: Container Belt Anchorage</div>
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 2: Internal Container Anchorage</div>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Heavy furniture and appliances are secured inside container trucks using heavy-duty nylon safety belts to prevent highway movement.
+            Inside our enclosed container trucks, cargo is anchored securely using heavy-duty nylon safety belts anchored to internal wall rings. This prevents sliding, friction scuffs, or tipping over during highway acceleration and emergency braking.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 3: Live Satellite GPS Tracking</div>
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 3: Live GPS Transit Monitoring</div>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Real-time satellite tracking hardware allows continuous monitoring of your container truck during transit.
+            Our vehicles are fitted with live satellite GPS tracking hardware. Clients receive real-time location updates on WhatsApp, allowing full visibility while container trucks navigate highway corridors.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 4: Full Transit Insurance Coverage</div>
+          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Protocol 4: Comprehensive Transit Insurance</div>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            100% full-value transit insurance policy documentation issued by leading national insurance partners.
+            We back every move with 100% full-value transit insurance policy documentation. In the rare event of a highway incident, damage claims are processed rapidly with zero financial loss to you.
           </p>
         </div>
 
@@ -312,58 +313,74 @@ require_once __DIR__ . '/../includes/header.php';
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;" id="pricing-matrix-section">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Masalia Rate Card</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Transparent Pricing</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        Transparent Shifting Cost Matrix: Masalia, Dumka
+        Estimated Shifting Charges &amp; Tariff Breakdown: Dumka
       </h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-        Review baseline shifting costs for local moves in Masalia and intercity relocations across India:
+        We operate on 100% transparent pricing with zero hidden surcharges. Below is our baseline tariff breakdown for local shifting within Dumka and intercity moving to other cities:
       </p>
 
       <div style="overflow-x: auto; margin-bottom: 30px;">
         <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
           <thead>
             <tr style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); color: #f59e0b; text-align: left; font-size: 0.95rem;">
-              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">House Size / Vehicle</th>
-              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Local Move (Within Masalia/Dumka)</th>
-              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Intercity Move (Up to 300 km)</th>
-              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Long Distance Intercity (500+ km)</th>
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Shifting Type / House Size</th>
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Packaging &amp; Material</th>
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Truck Type &amp; Fleet</th>
+              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Estimated Cost (₹)</th>
             </tr>
           </thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">1 BHK Household</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹3,000 - ₹5,500</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹8,500 - ₹14,000</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹15,000 - ₹22,000</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">1 BHK Small House / Apartment</td>
+              <td style="padding: 14px 20px;">Standard 3-Layer Packaging</td>
+              <td style="padding: 14px 20px;">11 ft Covered Pickup Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹3,500 - ₹6,500</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">2 BHK Household</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹5,000 - ₹8,500</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹14,000 - ₹22,000</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹24,000 - ₹34,000</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">2 BHK Standard Home / Flat</td>
+              <td style="padding: 14px 20px;">Premium 5-Layer Packaging</td>
+              <td style="padding: 14px 20px;">14 ft Sealed Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹6,500 - ₹11,500</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">3 BHK Household</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹8,000 - ₹12,500</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹20,000 - ₹30,000</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹32,000 - ₹45,000</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">3 BHK Large Residence / Bungalow</td>
+              <td style="padding: 14px 20px;">7-Layer Packaging + TV Crate</td>
+              <td style="padding: 14px 20px;">17/19 ft Dedicated Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹11,500 - ₹17,500</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Two-Wheeler Bike</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹1,200 - ₹1,800</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹2,200 - ₹3,500</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹3,500 - ₹5,000</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">4 BHK Villa / Executive Residence</td>
+              <td style="padding: 14px 20px;">Full Heavy Packaging &amp; Wooden Crating</td>
+              <td style="padding: 14px 20px;">22 ft High-Cube Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹17,500 - ₹25,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Bike Transport (100cc - 350cc+)</td>
+              <td style="padding: 14px 20px;">Bubble + Corrugated + Paddy Padding</td>
+              <td style="padding: 14px 20px;">Enclosed Bike Carrier Vehicle</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹1,800 - ₹3,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Car Transport (Hatchback/Sedan/SUV)</td>
+              <td style="padding: 14px 20px;">Car Cover &amp; Wheel Chock Safety Locks</td>
+              <td style="padding: 14px 20px;">Covered Hydraulic Car Carrier Trailer</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹4,500 - ₹8,500</td>
             </tr>
             <tr style="background: rgba(255,255,255,0.04);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Car Transport</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹2,500 - ₹4,000</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹6,500 - ₹9,500</td>
-              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹11,000 - ₹16,000</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Part-Load Luggage / Single Item</td>
+              <td style="padding: 14px 20px;">Standard Protection Wrapping</td>
+              <td style="padding: 14px 20px;">Shared Express Container Truck</td>
+              <td style="padding: 14px 20px; font-weight: 700; color: #f59e0b;">₹1,500 - ₹3,800</td>
             </tr>
           </tbody>
         </table>
       </div>
+
+      <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.6; margin: 0;">
+        *Note: Final prices depend on total consignment volume, specific packing material choices, origin/destination floor elevation (elevator access), and selected transit insurance options. Call <strong>+91 8409531615</strong> for a free binding quote.
+      </p>
 
     </div>
   </section>
@@ -372,53 +389,53 @@ require_once __DIR__ . '/../includes/header.php';
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="workflow-section">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Step-by-Step Process</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Execution Process</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        5-Stage Shifting Process in Masalia, Dumka
+        Step-by-Step 5-Stage Relocation Workflow: Dumka
       </h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
-        Here is how our crew executes your relocation in Masalia:
+        To guarantee 100% damage-free delivery, Shree Ashirwad Packers and Movers follows a 5-stage systematic moving workflow for every household, commercial, and vehicle relocation in Dumka:
       </p>
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px;">
         
         <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
           <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">01</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 1: Free Pre-Move Survey in Masalia</h3>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 1: Pre-Move Survey &amp; Volume Audit</h3>
           <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Our supervisor visits your Masalia address to inspect items, evaluate container requirements, and issue a fixed quote.
+            Our certified move coordinator conducts an on-site or digital inventory audit to evaluate item volume, fragile items, floor elevation, and vehicle transport requirements, issuing an all-inclusive binding written estimate.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
           <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">02</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 2: 7-Layer Packing &amp; Bed Dismantling</h3>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 2: 7-Layer Protective Packaging</h3>
           <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Our crew wraps goods in bubble rolls and corrugated sheets, dismantling beds and wardrobes with expert tools.
+            Our expert packing crew applies specialized 7-layer materials including high-density air-bubble rolls, 5-ply corrugated sheets, stretch wrap, edge corner guards, and custom wooden crating for Smart TVs and glass items.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
           <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">03</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 3: Container Loading &amp; LR Copy Handover</h3>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 3: Container Loading &amp; Anchorage</h3>
           <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Goods are loaded into enclosed container trucks, anchored securely with safety belts, and stamped LR copy is provided.
+            Goods are systematically loaded into weather-proof enclosed container trucks using heavy-duty nylon safety belts and wall anchorage rings to prevent cargo movement, friction scuffs, or shifting during transit.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
           <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">04</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 4: Live GPS Transit Monitoring</h3>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 4: Satellite GPS Transit &amp; Updates</h3>
           <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Your shipment travels under continuous satellite GPS monitoring backed by 100% full-value transit insurance policy.
+            Vehicles travel along optimized highway corridors under constant satellite GPS tracking. Clients receive real-time location updates on WhatsApp, backed by full transit insurance documentation.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
           <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">05</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 5: Unloading, Reassembly &amp; IBA Bill Delivery</h3>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 5: Destination Unboxing &amp; Reassembly</h3>
           <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            We unload boxes into designated rooms, reassemble double beds and wardrobes, and deliver complete IBA GST claim bills.
+            Upon arrival at destination, our move team unloads, unpacks, reassembles double beds, modular wardrobes, and dining tables, placing each item in your designated rooms for immediate hassle-free living.
           </p>
         </div>
 
@@ -431,12 +448,12 @@ require_once __DIR__ . '/../includes/header.php';
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="iba-documentation-section">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Claim Documentation</span>
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Official Documentation</span>
       <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        100% Claimable Relocation Document Packet: Masalia
+        100% Claimable IBA Approved Billing &amp; Relocation Documentation: Dumka
       </h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
-        Government, bank, and corporate employees residing in Masalia receive our full claim packet:
+        Government officers, bank managers, SKMU professors, defense staff, and PSU employees in Dumka receive 100% claimable relocation documentation accepted across all government and corporate accounts offices:
       </p>
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
@@ -444,50 +461,50 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
             <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📄</div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Original 18% GST Moving Invoice</h3>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Official GST Moving Invoice</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Original TAX invoice generated with 15-digit GSTIN, SAC code (996511), and clear cost breakdowns for official reimbursement.
+            Original TAX invoice generated with valid 15-digit GSTIN, SAC code (996511), detailed freight charges, packing fees, and labor cost breakdowns for seamless claim processing.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
             <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🚚</div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Consignment Lorry Receipt (LR)</h3>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Consignment Lorry Receipt (LR Copy)</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Stamped transport Lorry Receipt recording vehicle registration number, driver mobile, route, and weight dispatch approvals.
+            Official company-stamped transport Lorry Receipt verifying vehicle registration number, driver details, origin-to-destination route, and weight dispatch approval.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
             <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📋</div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Itemized Inventory Packing Sheet</h3>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Itemized Inventory Packing List</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Master inventory packing sheet detailing all packed furniture, appliances, and numbered boxes signed by the move supervisor.
+            Detailed item-by-item inventory packing sheet specifying all furniture, appliances, kitchen boxes, and personal goods signed by our origin move supervisor.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
             <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">💳</div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Money Payment Receipt</h3>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Payment Money Receipt</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Stamped payment receipt confirming advance payments and final bill settlement for accounts verification.
+            Official stamped financial receipt detailing advance payment receipts, transaction IDs, and final bill settlement confirmation.
           </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
             <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🛡️</div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Valid Transit Insurance Policy</h3>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Valid Transit Insurance Certificate</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Original 100% full-value transit insurance policy document issued by national insurance partners.
+            Original 100% value transit insurance policy certificate issued by national insurance partners protecting household assets during transit.
           </p>
         </div>
 
@@ -496,7 +513,91 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 8: Internal Locality & Route Links Grid -->
+  <!-- Section 9: Locality Content & Strategic Guide (High Density, 1800+ Words) -->
+  <section class="content-guide-section" style="background: #ffffff; padding: 70px 0; border-top: 1px solid #e2e8f0;" 
+
+  <!-- Section 9: Locality Content & Strategic Guide (High Density, 1800+ Words) -->
+  <section class="content-guide-section" style="background: #ffffff; padding: 70px 0; border-top: 1px solid #e2e8f0;" id="detailed-dumka-guide">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
+      
+      <span class="section-tag" style="color: #2563eb; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Comprehensive Logistics Guide</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 20px;">
+        Comprehensive Packing &amp; Moving Logistics Guide: Dumka Region
+      </h2>
+
+      <p style="font-size: 1.05rem; margin-bottom: 25px; color: #475569;">
+        Dumka, serving as the sub-capital of Jharkhand and the headquarters of Santhal Pargana division, is a rapidly expanding urban and educational center. Connecting key administrative hubs like Central Dumka Sadar, Court Road, and Bus Stand Road with major educational campuses like Sido Kanhu Murmu University (SKMU), Dumka witnesses continuous residential movements of government personnel, university staff, corporate employees, and commercial businesses.
+      </p>
+
+      <p style="font-size: 1.05rem; margin-bottom: 35px; color: #475569;">
+        Navigating relocations through regional highway corridors such as NH-114A connecting towards Deoghar and Banka, alongside SH-17 leading towards Pakur and Rampurhat, requires structured logistical planning. At Shree Ashirwad Packers and Movers, our local operations team combines heavy-duty fleet vehicles, trained packing specialists, and 100% claimable IBA-approved billing documentation to ensure every relocation is executed with complete safety, zero cargo movement, and predictable arrival timelines.
+      </p>
+
+      <!-- 4 Styled Sub-sections Container -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(480px, 1fr)); gap: 24px;">
+        
+        <!-- Subsection 1 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">01</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">Specialized Household Shifting across Dumka Localities</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Household shifting in Dumka requires localized planning, especially when handling residential moves across dense commercial belts such as Tower Chowk, Dudhani, Rasikpur, Babu Para, and Shivpahar. Our packing crews conduct thorough pre-move surveys, itemizing furniture, electronics, and kitchenware before wrapping each item in 7-layer shock-proof packaging. Glass tables, mirrors, and large screens receive custom wooden crating to withstand transit over regional highways including NH-114A and SH-17.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            We utilize heavy-duty 5-ply corrugated fiberboard boxes for heavy books and kitchen utensils, while delicate glass items, porcelain crockery, and electronics are double-wrapped in 100-GSM air-bubble rolls. Our carpenters dismantle modular beds, wall units, and dining setups at your origin home, labeling every fastener for seamless reassembly at your destination residence.
+          </p>
+        </div>
+
+        <!-- Subsection 2 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">02</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">IBA-Approved Relocation Billing for Govt &amp; PSU Employees</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            For officers posted at Dumka District Collectorate (DC Office), Police Line, Civil Court, SKMU, and public sector banks, employer relocation reimbursement requires strict documentation compliance. Shree Ashirwad Packers and Movers issues 100% claimable IBA-compliant bills complete with valid 15-digit GSTIN details, SAC coding (996511), stamped Consignment Lorry Receipts (LR), money receipts, and itemized inventory lists accepted by all government accounts departments.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Our administrative billing team ensures that all freight charges, packing fees, loading/unloading costs, and transit insurance premiums are itemized accurately according to government transfer allowance rules. We provide both physical stamped originals and digital PDF copies for immediate submission to your accounts department.
+          </p>
+        </div>
+
+        <!-- Subsection 3 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">03</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">Scratch-Free Car &amp; Two-Wheeler Shipping Services</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Transporting vehicles from Dumka to state capitals or remote cities requires dedicated vehicle shipping infrastructure. We operate specialized covered hydraulic car carriers fitted with wheel-chock safety locks and enclosed motorcycle container trucks padded with paddy straw and corrugated wraps. This ensures your vehicle travels safely without road mileage addition or scratch hazards.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Prior to loading, a detailed vehicle condition report is logged documenting existing odometer readings, fuel levels, and physical condition. Motorcycles are drained of excess fuel, battery terminals isolated, and secured using heavy nylon tie-down belts inside enclosed car carriers to eliminate tipping risks.
+          </p>
+        </div>
+
+        <!-- Subsection 4 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">04</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">Safe Warehouse Storage Facilities in Dumka</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            For clients experiencing gaps between lease transitions or home construction completion, we provide secure short-term and long-term warehouse storage in Dumka. Our storage facilities feature 24/7 CCTV surveillance, fire prevention systems, pest control, and moisture protection to keep household goods safe for any duration.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Stored consignments are placed on wooden pallets off the floor, sealed in waterproof plastic wrap, and tagged with unique warehouse barcode identifiers. Clients receive weekly digital reports and can request partial or complete dispatch of stored items to any location across India at short notice.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 4: Internal Links Grid -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="internal-links-grid-section">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       
@@ -510,32 +611,32 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
         
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-main">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);" id="link-dumka-main">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers in Dumka</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Main city hub relocation services &amp; booking</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-cost-guide" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-cost-guide">
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-cost-guide" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);" id="link-cost-guide">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka Cost &amp; Tariff Guide</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Complete 1BHK, 2BHK, 3BHK rate breakdown</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>how-to-choose-best-packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-choose-movers">
+        <a href="<?php echo SITE_URL; ?>how-to-choose-best-packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);" id="link-choose-movers">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">How to Choose Best Movers</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Expert selection guide &amp; verification checklist</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>household-shifting-checklist-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-shifting-checklist">
+        <a href="<?php echo SITE_URL; ?>household-shifting-checklist-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);" id="link-shifting-checklist">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Household Shifting Checklist</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Step-by-step 30-day pre-move planner</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>car-and-bike-transport-guide-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-vehicle-guide">
+        <a href="<?php echo SITE_URL; ?>car-and-bike-transport-guide-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);" id="link-vehicle-guide">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Car &amp; Bike Transport Guide</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">Safe vehicle shipping rates &amp; process</div>
         </a>
 
-        <a href="<?php echo SITE_URL; ?>iba-approved-packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-iba-approved">
+        <a href="<?php echo SITE_URL; ?>iba-approved-packers-and-movers-in-dumka" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);" id="link-iba-approved">
           <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">IBA Approved Movers Dumka</div>
           <div style="font-size: 0.88rem; color: #94a3b8;">100% claimable GST bill relocation</div>
         </a>
@@ -545,48 +646,15 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 9: Locality Content & Strategic Guide (High Density, 1800+ Words) -->
-  <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-masalia-guide">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
-      
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 25px;">
-        Comprehensive Home &amp; Office Shifting Guide for Masalia, Dumka
-      </h2>
-
-      <p style="font-size: 1.05rem; margin-bottom: 20px;">
-        Masalia is an essential administrative and agricultural block in Dumka district. Relocating households, government staff quarters, or commercial setups in Masalia requires dependable transport logistics and skilled packing crews.
-      </p>
-
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        1. Suburban Sub-Hub Route Planning for Masalia Relocations
-      </h3>
-      <p style="margin-bottom: 20px;">
-        Our team coordinates transport along the Dumka-Masalia highway corridor, ensuring container trucks reach your specific village or residential quarter without delays.
-      </p>
-
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        2. High-Density Protective Packaging for Household Goods
-      </h3>
-      <p style="margin-bottom: 20px;">
-        Whether shifting an independent home, flat, or commercial establishment in Masalia, protecting items against road dust and movement is essential. We deploy 7-layer protective packaging, including heavy air-bubble rolls, 5-ply corrugated boxes, stretch wrap, and foam edge guards.
-      </p>
-
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        3. 100% IBA Approved Reimbursement Documentation
-      </h3>
-      <p style="margin-bottom: 20px;">
-        Government personnel, teachers, and bank officers residing in Masalia receive complete official relocation paperwork, including original 18% GST invoices (SAC 996511), stamped Consignment Lorry Receipts (LR), inventory sheets, and payment receipts.
-      </p>
-
-    </div>
-  </section>
+  <!-- Bottom CTA Banner -->
+  <section class="cta-banner" style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 50px 0; text-align: center;" 
 
   <!-- Section 10: 20-FAQ Accordion -->
   <section class="faq-section" style="background: #f8fafc; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="faqs">
     <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
       <div style="text-align: center; margin-bottom: 45px;">
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Frequently Asked Questions (FAQs)</h2>
-        <p style="color: #64748b; font-size: 1rem;">Clear answers to common questions about moving services in Masalia, Dumka.</p>
+        <p style="color: #64748b; font-size: 1rem;">Everything you need to know about house shifting and vehicle shipping in Masalia, Dumka.</p>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 15px;">
@@ -605,8 +673,32 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 11: Bottom Call/WhatsApp CTA Banner -->
-  <section class="cta-banner" style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 50px 0; text-align: center;" id="bottom-cta">
+  <!-- JSON-LD FAQ Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_faqs = [];
+      foreach ($faq_list as $item) {
+          $schema_faqs[] = json_encode([
+              "@type" => "Question",
+              "name" => $item['q'],
+              "acceptedAnswer" => [
+                  "@type" => "Answer",
+                  "text" => $item['a']
+              ]
+          ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+      }
+      echo implode(",
+      ", $schema_faqs);
+      ?>
+    ]
+  }
+  </script>
+
+  <section id="bottom-cta">
     <div class="container" style="max-width: 900px; margin: 0 auto; padding: 0 15px;">
       <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Book Packers and Movers in Masalia Dumka Today!</h2>
       <p style="font-size: 1.1rem; color: #cbd5e1; margin-bottom: 30px; line-height: 1.7;">

@@ -21,6 +21,7 @@ $categories = [
     'Hazaribagh Location Pages & Routes' => [],
     'Deoghar Location Pages & Routes' => [],
     'Chatra Location Pages & Routes' => [],
+    'Dumka Location Pages & Routes' => [],
     'Other Regional Relocation Routes' => []
 ];
 
@@ -51,6 +52,8 @@ foreach ($files as $file) {
         $categories['Deoghar Location Pages & Routes'][] = $item;
     } elseif (strpos($slug, 'chatra') !== false) {
         $categories['Chatra Location Pages & Routes'][] = $item;
+    } elseif (strpos($slug, 'dumka') !== false) {
+        $categories['Dumka Location Pages & Routes'][] = $item;
     } else {
         $categories['Other Regional Relocation Routes'][] = $item;
     }

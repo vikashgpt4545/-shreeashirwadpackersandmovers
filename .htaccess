@@ -19,6 +19,10 @@
     RewriteCond %{HTTPS} off
     RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
+    # 301 Redirect direct /pages/xyz.php requests to clean /xyz URL
+    RewriteCond %{THE_REQUEST} \s/+pages/([^/\s]+)\.php[\s\?] [NC]
+    RewriteRule ^pages/([^/\s]+)\.php$ /%1 [R=301,L]
+
     # Allow existing files and directories to pass through
     RewriteCond %{REQUEST_FILENAME} -f [OR]
     RewriteCond %{REQUEST_FILENAME} -d

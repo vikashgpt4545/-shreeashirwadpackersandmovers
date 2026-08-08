@@ -164,24 +164,25 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
   <!-- Section 2: Trust Counter Bar -->
+    <!-- Section 2: Trust Counter Bar -->
   <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);" id="trust-counter-bar">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">4,200+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Relocations Completed</div>
+        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;"><?php echo isset($page_locality) ? htmlspecialchars($page_locality) : 'Dumka'; ?> Local</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Dedicated Packing Crew</div>
         </div>
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">Express Fleet</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Dedicated GPS Container Trucks</div>
+        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">7-Layer Wrap</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Zero-Damage Cargo Packaging</div>
         </div>
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100%</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Safe 7-Layer Protection</div>
-        </div>
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
           <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">GST Invoice &amp; Employee Claims</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">100% Claimable Relocation Bills</div>
+        </div>
+        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">GPS Fleet</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Live Satellite Tracking</div>
         </div>
       </div>
     </div>
@@ -571,44 +572,85 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
   <!-- Section 9: Locality Content & Strategic Guide (High Density, 1800+ Words) -->
-  <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-dumka-guide">
+  <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" 
+
+  <!-- Section 9: Locality Content & Strategic Guide (High Density, 1800+ Words) -->
+  <section class="content-guide-section" style="background: #ffffff; padding: 70px 0; border-top: 1px solid #e2e8f0;" id="detailed-dumka-guide">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
       
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 25px;">
-        Comprehensive Packing &amp; Moving Services in Dumka District
+      <span class="section-tag" style="color: #2563eb; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Comprehensive Logistics Guide</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 20px;">
+        Comprehensive Packing &amp; Moving Logistics Guide: Dumka Region
       </h2>
 
-      <p style="font-size: 1.05rem; margin-bottom: 20px;">
+      <p style="font-size: 1.05rem; margin-bottom: 25px; color: #475569;">
         Dumka, serving as the sub-capital of Jharkhand and the headquarters of Santhal Pargana division, is a rapidly expanding urban and educational center. Connecting key administrative hubs like Central Dumka Sadar, Court Road, and Bus Stand Road with major educational campuses like Sido Kanhu Murmu University (SKMU), Dumka witnesses continuous residential movements of government personnel, university staff, corporate employees, and commercial businesses.
       </p>
 
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        1. Specialized Household Shifting across Dumka Localities
-      </h3>
-      <p style="margin-bottom: 20px;">
-        Household shifting in Dumka requires localized planning, especially when handling residential moves across dense commercial belts such as Tower Chowk, Dudhani, Rasikpur, and Shivpahar. Our packing crews conduct thorough pre-move surveys, itemizing furniture, electronics, and kitchenware before wrapping each item in 7-layer shock-proof packaging. Glass tables, mirrors, and large screens receive custom wooden crating to withstand transit over regional highways.
+      <p style="font-size: 1.05rem; margin-bottom: 35px; color: #475569;">
+        Navigating relocations through regional highway corridors such as NH-114A connecting towards Deoghar and Banka, alongside SH-17 leading towards Pakur and Rampurhat, requires structured logistical planning. At Shree Ashirwad Packers and Movers, our local operations team combines heavy-duty fleet vehicles, trained packing specialists, and 100% claimable IBA-approved billing documentation to ensure every relocation is executed with complete safety, zero cargo movement, and predictable arrival timelines.
       </p>
 
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        2. IBA-Approved Relocation Billing for Government &amp; PSU Employees
-      </h3>
-      <p style="margin-bottom: 20px;">
-        For officers posted at Dumka District Collectorate (DC Office), Police Line, Civil Court, SKMU, and public sector banks, employer relocation reimbursement requires strict documentation compliance. Shree Ashirwad Packers and Movers issues 100% claimable IBA-compliant bills complete with valid 15-digit GSTIN details, SAC coding (996511), stamped Consignment Lorry Receipts (LR), money receipts, and itemized inventory lists accepted by all government accounts departments.
-      </p>
+      <!-- 4 Styled Sub-sections Container -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(480px, 1fr)); gap: 24px;">
+        
+        <!-- Subsection 1 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">01</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">Specialized Household Shifting across Dumka Localities</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Household shifting in Dumka requires localized planning, especially when handling residential moves across dense commercial belts such as Tower Chowk, Dudhani, Rasikpur, Babu Para, and Shivpahar. Our packing crews conduct thorough pre-move surveys, itemizing furniture, electronics, and kitchenware before wrapping each item in 7-layer shock-proof packaging. Glass tables, mirrors, and large screens receive custom wooden crating to withstand transit over regional highways including NH-114A and SH-17.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            We utilize heavy-duty 5-ply corrugated fiberboard boxes for heavy books and kitchen utensils, while delicate glass items, porcelain crockery, and electronics are double-wrapped in 100-GSM air-bubble rolls. Our carpenters dismantle modular beds, wall units, and dining setups at your origin home, labeling every fastener for seamless reassembly at your destination residence.
+          </p>
+        </div>
 
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        3. Scratch-Free Car &amp; Two-Wheeler Shipping Services
-      </h3>
-      <p style="margin-bottom: 20px;">
-        Transporting vehicles from Dumka to state capitals or remote cities requires dedicated vehicle shipping infrastructure. We operate specialized covered hydraulic car carriers fitted with wheel-chock safety locks and enclosed motorcycle container trucks padded with paddy straw and corrugated wraps. This ensures your vehicle travels safely without road mileage addition or scratch hazards.
-      </p>
+        <!-- Subsection 2 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">02</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">IBA-Approved Relocation Billing for Govt &amp; PSU Employees</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            For officers posted at Dumka District Collectorate (DC Office), Police Line, Civil Court, SKMU, and public sector banks, employer relocation reimbursement requires strict documentation compliance. Shree Ashirwad Packers and Movers issues 100% claimable IBA-compliant bills complete with valid 15-digit GSTIN details, SAC coding (996511), stamped Consignment Lorry Receipts (LR), money receipts, and itemized inventory lists accepted by all government accounts departments.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Our administrative billing team ensures that all freight charges, packing fees, loading/unloading costs, and transit insurance premiums are itemized accurately according to government transfer allowance rules. We provide both physical stamped originals and digital PDF copies for immediate submission to your accounts department.
+          </p>
+        </div>
 
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        4. Safe Warehouse Storage Facilities in Dumka
-      </h3>
-      <p style="margin-bottom: 20px;">
-        For clients experiencing gaps between lease transitions or home construction completion, we provide secure short-term and long-term warehouse storage in Dumka. Our storage facilities feature 24/7 CCTV surveillance, fire prevention systems, pest control, and moisture protection to keep household goods safe for any duration.
-      </p>
+        <!-- Subsection 3 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">03</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">Scratch-Free Car &amp; Two-Wheeler Shipping Services</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Transporting vehicles from Dumka to state capitals or remote cities requires dedicated vehicle shipping infrastructure. We operate specialized covered hydraulic car carriers fitted with wheel-chock safety locks and enclosed motorcycle container trucks padded with paddy straw and corrugated wraps. This ensures your vehicle travels safely without road mileage addition or scratch hazards.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Prior to loading, a detailed vehicle condition report is logged documenting existing odometer readings, fuel levels, and physical condition. Motorcycles are drained of excess fuel, battery terminals isolated, and secured using heavy nylon tie-down belts inside enclosed car carriers to eliminate tipping risks.
+          </p>
+        </div>
+
+        <!-- Subsection 4 -->
+        <div style="background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+            <span style="background: #2563eb; color: #ffffff; width: 36px; height: 36px; border-radius: 8px; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;">04</span>
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f172a; margin: 0;">Safe Warehouse Storage Facilities in Dumka</h3>
+          </div>
+          <p style="margin-bottom: 15px; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            For clients experiencing gaps between lease transitions or home construction completion, we provide secure short-term and long-term warehouse storage in Dumka. Our storage facilities feature 24/7 CCTV surveillance, fire prevention systems, pest control, and moisture protection to keep household goods safe for any duration.
+          </p>
+          <p style="margin: 0; color: #475569; font-size: 0.98rem; line-height: 1.75;">
+            Stored consignments are placed on wooden pallets off the floor, sealed in waterproof plastic wrap, and tagged with unique warehouse barcode identifiers. Clients receive weekly digital reports and can request partial or complete dispatch of stored items to any location across India at short notice.
+          </p>
+        </div>
+
+      </div>
 
     </div>
   </section>
