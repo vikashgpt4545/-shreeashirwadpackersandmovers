@@ -142,7 +142,7 @@ require_once __DIR__ . '/../includes/header.php';
           
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i>¦</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Total Goods Volume &amp; Truck Size</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               The volume of furniture, electronics, and boxes dictates whether a 14ft container, 17ft Eicher, or 20ft container vehicle is required.
@@ -151,7 +151,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">ðŸ›£ï¸</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Transit Distance &amp; Fuel Consumption</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Local moves within Dhanbad (e.g. Bank More to Saraidhela) cost less than intercity trips to Patna, Kolkata, or Delhi via GT Road NH-19.
@@ -160,7 +160,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 3 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">ðŸ›¡ï¸</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Packaging Quality Tier</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Standard corrugated packaging vs multi-layer heavy air bubble wrap, foam corner guards, and custom wooden crating for delicate Smart TVs and glass items.
@@ -169,7 +169,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 4 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">ðŸ¢</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Floor Elevation &amp; Elevator Status</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Ground floor loading is faster, whereas carrying heavy furniture up 4th or 5th-floor staircases without service elevators requires extra labor deployment.
@@ -187,7 +187,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 6 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i>„</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Transit Insurance &amp; GST Compliance</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Optional 3% transit insurance covering declared goods value against highway risks, combined with 18% GST invoice compliance for corporate claim submission.
@@ -439,7 +439,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
         </div>
       </div>

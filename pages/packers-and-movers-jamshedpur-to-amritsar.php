@@ -181,11 +181,11 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ¡ Jamshedpur to Amritsar Household Shifting</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Jamshedpur to Amritsar Household Shifting</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Complete house shifting services covering furniture disassembly, fragile packing, loading, and unpacking in Amritsar.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸŽ–ï¸ Defense &amp; Corporate Staff Relocation</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Defense &amp; Corporate Staff Relocation</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Specialized relocation for BSF/Army officers, business leaders, and bank managers transferring to Amritsar.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
@@ -193,15 +193,15 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="color: #64748b; font-size: 0.9rem;">Enclosed car container trailers for safe door-to-door car transport from Jamshedpur to Amritsar.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸï¸ Two-Wheeler / Bike Shipping</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Two-Wheeler / Bike Shipping</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Straw padding and corrugated box wrapping for scratch-free motorcycle transport to Amritsar.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-phone-alt"></i>¦ Custom Wooden Box Crating</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-phone-alt"></i> Custom Wooden Box Crating</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Solid wooden crate framing for glass tops, mandirs, LED TVs, and valuable artifacts on the Amritsar route.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ¬ Safe Goods Storage Warehouse</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Safe Goods Storage Warehouse</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Clean, secure, moisture-free warehouse storage facility in Jamshedpur for temporary storage.</p>
         </div>
       </div>
@@ -253,11 +253,11 @@ require_once __DIR__ . '/../includes/header.php';
         <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title=" Movers in Jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-phone-alt"></i> Movers in Jamshedpur</a>
         <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" title=" Movers in Bistupur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-phone-alt"></i> Movers in Bistupur</a>
         <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" title=" Movers in Sakchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-phone-alt"></i> Movers in Sakchi</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-delhi" title="ðŸš› Jamshedpur to Delhi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Delhi</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-ludhiana" title="ðŸš› Jamshedpur to Ludhiana" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Ludhiana</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-jalandhar" title="ðŸš› Jamshedpur to Jalandhar" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Jalandhar</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-chandigarh" title="ðŸš› Jamshedpur to Chandigarh" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Chandigarh</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-jaipur" title="ðŸš› Jamshedpur to Jaipur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Jaipur</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-delhi" title="Jamshedpur to Delhi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Delhi</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-ludhiana" title="Jamshedpur to Ludhiana" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Ludhiana</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-jalandhar" title="Jamshedpur to Jalandhar" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Jalandhar</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-chandigarh" title="Jamshedpur to Chandigarh" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Chandigarh</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-jaipur" title="Jamshedpur to Jaipur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Jaipur</a>
       </div>
     </div>
   </section>
@@ -306,7 +306,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;"><i class="fas fa-star"></i> 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
         </div>
       </div>

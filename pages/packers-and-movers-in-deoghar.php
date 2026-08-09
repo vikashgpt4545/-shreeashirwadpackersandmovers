@@ -168,7 +168,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
         </div>
       </div>
@@ -285,15 +285,15 @@ function sendHeroWhatsAppLead(event, form) {
 
   <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+      <div style="display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); align-items: center;">
         <div>
           <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Deoghar Moving Proof</span>
           <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Better packing and transport support for Deoghar relocations</h3>
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">The moving process is built around thoughtful packaging, organized loading, and careful attention to fragile household items and vehicles.</p>
         </div>
-        <div style="display: grid; gap: 16px;">
-          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packing method for Deoghar household moving" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Wrapping and protection used in Deoghar relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-5.webp" alt="Packing method for Deoghar household moving" style="width: 100%; height: 250px; object-fit: cover; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-6.webp" alt="Wrapping and protection used in Deoghar relocation" style="width: 100%; height: 250px; object-fit: cover; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" loading="lazy">
         </div>
       </div>
     </div>

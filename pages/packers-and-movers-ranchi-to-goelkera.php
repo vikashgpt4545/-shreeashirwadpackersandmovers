@@ -43,8 +43,8 @@ require_once __DIR__ . '/../includes/header.php';
           <h1 style="font-size:2.8rem;font-weight:800;line-height:1.2;margin-bottom:20px;">Reliable <span style="color:#f59e0b;">Packers and Movers Ranchi to Goelkera</span></h1>
           <p style="font-size:1.1rem;color:#cbd5e1;line-height:1.7;margin-bottom:25px;">Planning household shifting or vehicle transportation from Ranchi to Goelkera (West Singhbhum mining belt)? Shree Ashirwad Packers and Movers offers daily express container transit via NH-75 with 7-layer safety packaging, GPS tracking, transit insurance, and 100% IBA-approved GST bills.</p>
           <div style="display:flex;gap:15px;flex-wrap:wrap;margin-bottom:30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW;?>" title="📞 Call:" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📞 Call: <?php echo SITE_PHONE;?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20shifting%20from%20Ranchi%20to%20Goelkera." title="💬 WhatsApp" target="_blank" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">💬 WhatsApp</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW;?>" title="Call:" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE;?></a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20shifting%20from%20Ranchi%20to%20Goelkera." title="WhatsApp" target="_blank" style="display:inline-flex;align-items:center;padding:14px 28px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;"><i class="fab fa-whatsapp"></i> WhatsApp</a>
           </div>
           <div style="display:flex;gap:20px;font-size:.9rem;color:#94a3b8;">
             <span><strong style="color:#f59e0b;">980+</strong> Ranchi to Goelkera Moves</span>
@@ -99,7 +99,7 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size:2.2rem;font-weight:800;color:#fff;margin:10px 0 30px;">Why Choose Us for <span style="color:#f59e0b;">Ranchi to Goelkera Shifting</span>?</h2>
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
         <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
-          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">🚚</div>
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;"><i class="fas fa-truck"></i></div>
           <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">Direct Daily NH-75 Container Fleet</h3>
           <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">We operate dedicated weatherproof container vehicles connecting Capital Ranchi with Goelkera in West Singhbhum (approx. 180 km via NH-75 and Chaibasa corridor) delivering safe same-day arrival within 4 hours.</p>
         </div>
@@ -109,22 +109,22 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Complete door delivery across Goelkera Town, Railway Colony, Roro River residential areas, Forest quarters, and tribal welfare office quarters with full unloading, unpacking, and positioning.</p>
         </div>
         <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
-          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">🛡️</div>
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;"><i class="fas fa-shield-alt"></i></div>
           <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">IBA Approved GST Billing</h3>
           <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">100% genuine IBA-compliant GST invoices, money receipts, and Lorry Receipts (LR) tailored for South Eastern Railway employees, SAIL mining staff, teachers, and bank officers seeking quick reimbursement.</p>
         </div>
         <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
-          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">📦</div>
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;"><i class="fas fa-box"></i></div>
           <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">7-Layer Heavy Packaging</h3>
           <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Heavy-duty air bubble wrap, 5-ply corrugated sheets, stretch film, edge guards, moving blankets, branded tape, and custom timber crating for zero transit damage during long highway moves.</p>
         </div>
         <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
-          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">🚗</div>
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;"><i class="fas fa-car"></i></div>
           <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">Enclosed Car &amp; Bike Transport</h3>
           <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Padded motorcycle transport containers and enclosed hydraulic car trailers ensuring 100% scratch-free vehicle shifting from Ranchi to Goelkera with complete door pickup and delivery.</p>
         </div>
         <div style="background:linear-gradient(145deg,#172a54,#0d1736);border:1.5px solid rgba(245,158,11,.3);border-radius:14px;padding:22px;">
-          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;">👨‍🔧</div>
+          <div style="background:rgba(245,158,11,.15);width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:#f59e0b;margin-bottom:12px;"><i class="fas fa-user-cog"></i></div>
           <h3 style="font-size:1.1rem;color:#fff;font-weight:700;margin-bottom:10px;">Complete Furniture Carpentry</h3>
           <p style="font-size:.9rem;color:#cbd5e1;line-height:1.6;margin:0;">Trained move crew handles complete disassembly of modular beds and wardrobes at Ranchi origin and full reassembly at your destination home in Goelkera for maximum convenience.</p>
         </div>
@@ -154,12 +154,12 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0; color: #ffffff;">
         <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers for Ranchi to Goelkera Relocation?</h3>
         <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
-          <li>✔ <strong>Express NH-75 Delivery</strong> in ~4 hours from Ranchi.</li>
-          <li>✔ <strong>100% IBA Approved Bills</strong> for Railways, SAIL &amp; PSU staff.</li>
-          <li>✔ <strong>Door Delivery</strong> across Goelkera Town, Railway Colony &amp; Posoita.</li>
-          <li>✔ <strong>Dedicated Closed Container Trucks</strong> with GPS tracking.</li>
-          <li>✔ <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; marble mandirs.</li>
-          <li>✔ <strong>Full Transit Insurance</strong> covering door-to-door goods.</li>
+          <li><i class="fas fa-check-circle"></i> <strong>Express NH-75 Delivery</strong> in ~4 hours from Ranchi.</li>
+          <li><i class="fas fa-check-circle"></i> <strong>100% IBA Approved Bills</strong> for Railways, SAIL &amp; PSU staff.</li>
+          <li><i class="fas fa-check-circle"></i> <strong>Door Delivery</strong> across Goelkera Town, Railway Colony &amp; Posoita.</li>
+          <li><i class="fas fa-check-circle"></i> <strong>Dedicated Closed Container Trucks</strong> with GPS tracking.</li>
+          <li><i class="fas fa-check-circle"></i> <strong>On-Site Custom Timber Crating</strong> for Smart TVs &amp; marble mandirs.</li>
+          <li><i class="fas fa-check-circle"></i> <strong>Full Transit Insurance</strong> covering door-to-door goods.</li>
         </ul>
       </div>
     </div>
@@ -394,9 +394,9 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="font-size:2.3rem;font-weight:800;margin:15px 0;color:#fff;">Ready to Move with <span style="color:#f59e0b;">Packers and Movers Ranchi to Goelkera</span>?</h2>
       <p style="font-size:1.05rem;color:#cbd5e1;max-width:750px;margin:0 auto 30px;line-height:1.7;">Contact us for a guaranteed fixed-price quote with same-day delivery to Goelkera.</p>
       <div style="display:flex;gap:15px;justify-content:center;flex-wrap:wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW;?>" title="📞 Call:" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📞 Call: <?php echo SITE_PHONE;?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Goelkera." title="💬 WhatsApp" target="_blank" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">💬 WhatsApp</a>
-        <a href="<?php echo SITE_URL;?>contact" title="📍 Contact Office" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#1e293b,#0f172a);border:1.5px solid #f59e0b;color:#fff;border-radius:50px;font-weight:700;text-decoration:none;">📍 Contact Office</a>
+        <a href="tel:<?php echo SITE_PHONE_RAW;?>" title="Call:" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#e11d48,#be123c);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE;?></a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Goelkera." title="WhatsApp" target="_blank" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:50px;font-weight:700;text-decoration:none;"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+        <a href="<?php echo SITE_URL;?>contact" title="Contact Office" style="display:inline-flex;align-items:center;padding:14px 30px;background:linear-gradient(135deg,#1e293b,#0f172a);border:1.5px solid #f59e0b;color:#fff;border-radius:50px;font-weight:700;text-decoration:none;"><i class="fas fa-map-marker-alt"></i> Contact Office</a>
       </div>
     </div>
   </section>

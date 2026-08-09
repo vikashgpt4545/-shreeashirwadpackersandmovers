@@ -86,11 +86,11 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              📞 Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20services%20in%20Lalpur%20Ranchi." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              💬 Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20services%20in%20Lalpur%20Ranchi." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
           </div>
 
@@ -169,7 +169,7 @@ require_once __DIR__ . '/../includes/header.php';
           
           <!-- Card 1 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📍</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-map-marker-alt"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Lalpur Hub Expertise</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Lalpur stands as Ranchi's prime educational, commercial, and student hub. Navigating dense residential lanes surrounding Circular Road, Plaza Chowk, Peace Road, and HB Road demands local operational expertise from experienced <strong>packers and movers lalpur ranchi</strong> who understand traffic peak hours and narrow building access.
@@ -178,7 +178,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 2 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏙️</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-city"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">High-Rise Flat &amp; Hostel Moving</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               From multi-story apartment complexes along Nu-Tech Complex to student hostels and residential flats near Women's College, our moving team utilizes heavy pulley ropes, protective floor runners, and compact moving mini-trucks for smooth maneuvering.
@@ -187,7 +187,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 3 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🛡️</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved Bills &amp; Claims</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               We issue 100% genuine IBA-approved GST bills, consignment notes, Lorry Receipts (LR), and itemized inventories required by Bank officers, PSU staff, Defense personnel, and private corporate HRs residing in Lalpur for seamless transfer claim reimbursements.
@@ -196,7 +196,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 4 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚚</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Our company-owned weatherproof containerized trucks operate continuously between Lalpur Chowk and outer national expressways. Each vehicle is fitted with satellite GPS tracking and padded interiors for absolute transit security.
@@ -205,7 +205,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 5 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box"></i></div>
             <h3 style="font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">7-Layer Packaging Shield</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Every household item is multi-layer protected with high-grade bubble wrap, 5-ply corrugated sheets, foam edge corner guards, stretch film, and custom wooden crates to prevent scratches, dents, or transit shock.
@@ -214,7 +214,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <!-- Card 6 -->
           <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">👨‍🔧</div>
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-user-cog"></i></div>
             <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Furniture Carpentry &amp; Setup</h3>
             <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
               Our trained move staff dismantles heavy king-size beds, wooden wardrobes, dining tables, and modular desks at your Lalpur residence and systematically reassembles them neatly at your destination address.
@@ -238,12 +238,12 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border-left: 4px solid #f59e0b; padding: 25px; border-radius: 8px; margin: 35px 0;">
           <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">Why Choose Shree Ashirwad Packers in Lalpur?</h3>
           <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1;">
-            <li>✔ <strong>Punctual Doorstep Arrival</strong> at Circular Road &amp; Plaza Chowk.</li>
-            <li>✔ <strong>Transparent Costing</strong> with zero unexpected charges on move day.</li>
-            <li>✔ <strong>Specialized Office Moving</strong> for coaching centers &amp; commercial hubs.</li>
-            <li>✔ <strong>Dedicated Vehicle Carriers</strong> for safe bike and car transport.</li>
-            <li>✔ <strong>Full Packing &amp; Unpacking</strong> with room-wise furniture setup.</li>
-            <li>✔ <strong>24/7 Support Helpline</strong> via phone and WhatsApp support.</li>
+            <li><i class="fas fa-check-circle"></i> <strong>Punctual Doorstep Arrival</strong> at Circular Road &amp; Plaza Chowk.</li>
+            <li><i class="fas fa-check-circle"></i> <strong>Transparent Costing</strong> with zero unexpected charges on move day.</li>
+            <li><i class="fas fa-check-circle"></i> <strong>Specialized Office Moving</strong> for coaching centers &amp; commercial hubs.</li>
+            <li><i class="fas fa-check-circle"></i> <strong>Dedicated Vehicle Carriers</strong> for safe bike and car transport.</li>
+            <li><i class="fas fa-check-circle"></i> <strong>Full Packing &amp; Unpacking</strong> with room-wise furniture setup.</li>
+            <li><i class="fas fa-check-circle"></i> <strong>24/7 Support Helpline</strong> via phone and WhatsApp support.</li>
           </ul>
         </div>
 
@@ -696,14 +696,14 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          📞 Call Now: <?php echo SITE_PHONE; ?>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20in%20Lalpur%20Ranchi." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          💬 Chat on WhatsApp
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20quote%20for%20relocation%20in%20Lalpur%20Ranchi." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
         </a>
-        <a href="<?php echo SITE_URL; ?>contact" title="📍 Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
-          📍 Contact Office
+        <a href="<?php echo SITE_URL; ?>contact" title="Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-map-marker-alt"></i> Contact Office
         </a>
       </div>
 

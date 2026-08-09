@@ -49,11 +49,11 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
-              📞 Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(211, 47, 47, 0.4);">
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20rain-proof%20monsoon%20shifting%20quote%20in%20Jamshedpur." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              💬 Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20rain-proof%20monsoon%20shifting%20quote%20in%20Jamshedpur." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
           </div>
         </div>
@@ -333,12 +333,12 @@ require_once __DIR__ . '/../includes/header.php';
         <h3 style="font-size: 1.8rem; color: #0b132b; font-weight: 800;">Explore Related <span style="color: #d32f2f;">Packing &amp; Relocation Guides</span></h3>
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title="📍 Movers in Jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Jamshedpur</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" title="📍 Movers in Bistupur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Bistupur</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" title="📍 Movers in Sakchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📍 Movers in Sakchi</a>
-        <a href="<?php echo SITE_URL; ?>packing-materials-guide-jamshedpur" title="📦 Packing Materials Guide" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📦 Packing Materials Guide</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" title="Movers in Jamshedpur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-map-marker-alt"></i> Movers in Jamshedpur</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" title="Movers in Bistupur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-map-marker-alt"></i> Movers in Bistupur</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" title="Movers in Sakchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-map-marker-alt"></i> Movers in Sakchi</a>
+        <a href="<?php echo SITE_URL; ?>packing-materials-guide-jamshedpur" title="Packing Materials Guide" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-box"></i> Packing Materials Guide</a>
         <a href="<?php echo SITE_URL; ?>top-10-shifting-tips-packers-and-movers-in-jamshedpur" title="💡 Top 10 Shifting Tips" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">💡 Top 10 Shifting Tips</a>
-        <a href="<?php echo SITE_URL; ?>household-shifting-checklist-jamshedpur" title="📋 Shifting Checklist" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">📋 Shifting Checklist</a>
+        <a href="<?php echo SITE_URL; ?>household-shifting-checklist-jamshedpur" title="Shifting Checklist" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-clipboard-list"></i> Shifting Checklist</a>
         <a href="<?php echo SITE_URL; ?>warehouse-storage-facilities-in-jamshedpur" title="🏭 Warehouse Facilities" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🏭 Warehouse Facilities</a>
         <a href="<?php echo SITE_URL; ?>single-item-luggage-shifting-jamshedpur" title="🧳 Single Item Shifting" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">🧳 Single Item Shifting</a>
       </div>
@@ -375,8 +375,8 @@ require_once __DIR__ . '/../includes/header.php';
         <h2 style="font-size: 2.1rem; font-weight: 800; margin-bottom: 15px;">Book 100% Rain-Proof Shifting in Jamshedpur</h2>
         <p style="color: #cbd5e1; font-size: 0.98rem; margin-bottom: 25px;">Waterproof 7-layer packaging and sealed container trucks for safe monsoon moves.</p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call:" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">📞 Call: <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20rain-proof%20monsoon%20shifting%20quote." title="💬 WhatsApp Quote" target="_blank" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;">💬 WhatsApp Quote</a>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call:" style="padding: 14px 32px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20rain-proof%20monsoon%20shifting%20quote." title="WhatsApp Quote" target="_blank" style="padding: 14px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
         </div>
       </div>
     </div>
@@ -486,11 +486,11 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>„ 100% Valid Tax Invoicing</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i> 100% Valid Tax Invoicing</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our GSTIN (20BIPPG5094Q1ZP) and trade license numbers are verified on official portals, guaranteeing seamless tax credit verification and reimbursement processing.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ›¡ï¸ Full-Value Transit Policy</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> Full-Value Transit Policy</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">All moves carry comprehensive transit insurance coverage issued by leading national underwriters with direct 7-day claim settlement assistance for minor damages.</p>
         </div>
       </div>

@@ -66,11 +66,11 @@ require_once __DIR__ . '/../includes/header.php';
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              📞 Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Jamshedpur%20to%20Gumla." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              💬 Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Jamshedpur%20to%20Gumla." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
           </div>
 
@@ -171,7 +171,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">📦</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box"></i></div>
           <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Safety Wrap</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Air-bubble rolls, 5-ply corrugated sheets, foam corner guards, and stretch wrapping for 100% scratch-free transport.
@@ -179,7 +179,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🏡</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-house-user"></i></div>
           <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Residential House Moving</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Smooth loading and packing for civil quarters, teacher colonies, and private homes in Gumla.
@@ -187,7 +187,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;">🚛</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-moving"></i></div>
           <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Fleet</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Sealed weather-proof container vehicles equipped with active satellite tracking for real-time location updates.
@@ -221,35 +221,35 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         
         <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">🏡 Complete House Shifting</h3>
+          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-house-user"></i> Complete House Shifting</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             End-to-end relocation covering furniture disassembly, 7-layer wrapping, truck loading, highway transit, unloading, and unpacking in Gumla.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">🏢 Office &amp; Administrative Relocation</h3>
+          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-building"></i> Office &amp; Administrative Relocation</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Express office move for government departments, IT hardware, document archives, and modular workstation setup.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">🚗 Closed Car Carrier Transport</h3>
+          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-car"></i> Closed Car Carrier Transport</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Hydraulic car carrier trailers with wheel safety locks to ship hatchbacks, sedans, and SUVs safely from Jamshedpur to Gumla.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">🏍️ Two-Wheeler / Bike Shipping</h3>
+          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-motorcycle"></i> Two-Wheeler / Bike Shipping</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Multi-layer bubble wrapping and corrugated cardboard armor for scratch-free motorcycle and scooter shipping.
           </p>
         </div>
 
         <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">📦 Custom Wooden Box Crating</h3>
+          <h3 style="font-size: 1.2rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-box"></i> Custom Wooden Box Crating</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Solid wooden box crates custom-built for glass dining tables, marble temples, Smart TVs, and delicate artwork.
           </p>
@@ -594,14 +594,14 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="📞 Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          📞 Call Now: <?php echo SITE_PHONE; ?>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Jamshedpur%20to%20Gumla." title="💬 Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          💬 Chat on WhatsApp
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20shifting%20quote%20from%20Jamshedpur%20to%20Gumla." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
         </a>
-        <a href="<?php echo SITE_URL; ?>contact" title="📍 Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
-          📍 Contact Office
+        <a href="<?php echo SITE_URL; ?>contact" title="Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-map-marker-alt"></i> Contact Office
         </a>
       </div>
 

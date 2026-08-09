@@ -209,7 +209,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 35px 0;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🚚</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-truck"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Dedicated Weatherproof Containers</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Sealed container vehicles (14ft, 17ft, 19ft, 22ft) engineered to protect household consignment from torrential monsoons, road dust, and highway vibrations.
@@ -217,7 +217,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🏙️</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-city"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Complete Doorstep Execution</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Full origin doorstep packing, high-rise stair lifting, highway container dispatch, and destination unboxing with carpentry reassembly included.
@@ -225,7 +225,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🛡️</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-shield-alt"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Billing</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             100% claimable IBA-compliant relocation invoices, Lorry Receipts (LR), stamped money receipts, and itemized inventory lists for official employer reimbursement.
@@ -233,7 +233,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">📦</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-box"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Shock Absorption Wrapping</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Multi-tier protective wrapping utilizing heavy air-bubble rolls, 5-ply corrugated cardboard sheets, stretch film, foam corner guards, and timber crating.
@@ -241,7 +241,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🚗</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-car"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Covered Hydraulic Vehicle Shipping</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Specialized covered car trailers equipped with wheel-chock safety locks and belt-secured motorcycle container transport for scratch-free delivery.
@@ -249,7 +249,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">👨‍🔧</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-user-cog"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Carpentry &amp; Furniture Reassembly</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Professional technicians unbolt modular double beds, wardrobes, and dining sets at origin and reassemble every item at destination.
@@ -459,7 +459,7 @@ require_once __DIR__ . '/../includes/header.php';
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📄</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-file-alt"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Official GST Moving Invoice</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -469,7 +469,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🚚</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-truck"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Consignment Lorry Receipt (LR Copy)</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -479,7 +479,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📋</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-clipboard-list"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Itemized Inventory Packing List</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">💳</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-credit-card"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Payment Money Receipt</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -499,7 +499,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🛡️</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-shield-alt"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Valid Transit Insurance Certificate</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -721,15 +721,15 @@ function sendHeroWhatsAppLead(event, form) {
 
   <section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; gap: 24px; grid-template-columns: 1.15fr 0.85fr; align-items: center;">
+      <div style="display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); align-items: center;">
         <div>
           <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Local Moving Proof</span>
           <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Reliable packing and loading support for Dumka residents</h3>
           <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our move crews handle delicate items, furniture, bike transport, and full household loads with careful wrapping, strong loading systems, and clear moving communication from start to finish.</p>
         </div>
-        <div style="display: grid; gap: 16px;">
-          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike packing and protective wrapping for Dumka shifting" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
-          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Dumka relocation" style="width: 100%; height: auto; border-radius: 12px; border: 1px solid #e2e8f0;" loading="lazy">
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike packing and protective wrapping for Dumka shifting" style="width: 100%; height: 250px; object-fit: cover; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Protective packing for delicate items in Dumka relocation" style="width: 100%; height: 250px; object-fit: cover; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" loading="lazy">
         </div>
       </div>
     </div>

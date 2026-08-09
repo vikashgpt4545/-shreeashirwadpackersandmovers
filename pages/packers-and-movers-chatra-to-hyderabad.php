@@ -212,7 +212,7 @@ require_once __DIR__ . '/../includes/header.php';
         
         <!-- Card 1 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🚚</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-truck"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Dedicated Enclosed Containers</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Weatherproof sealed container trucks (14ft, 17ft, 19ft, 22ft) protecting goods against rain, highway dust, and transit vibration with zero transshipment.
@@ -221,7 +221,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Card 2 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🏙️</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-city"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Complete Doorstep Service</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Complete origin pickup, ground floor to high-rise loading, highway express transit, and destination doorstep delivery with zero hassle.
@@ -230,7 +230,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Card 3 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🛡️</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-shield-alt"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Billing</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             100% claimable IBA-compliant relocation bills, Lorry Receipts (LR), money receipts, and itemized inventory lists for corporate & employee reimbursement.
@@ -239,7 +239,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Card 4 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">📦</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-box"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Heavy Packaging</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Multi-layer shock protection combining heavy bubble wrap, 5-ply corrugated fiberboard, stretch wrap, foam corner guards, and timber crating.
@@ -248,7 +248,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Card 5 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🚗</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-car"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Covered Vehicle Carriers</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Specialized covered car trailers with wheel-chock safety locks and padded motorcycle container transport for scratch-free delivery.
@@ -257,7 +257,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Card 6 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">👨‍🔧</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-user-cog"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Carpentry &amp; Assembly Included</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Experienced move crews dismantle double beds, wardrobes, and dining tables at origin and reassemble every item at destination.
@@ -477,7 +477,7 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Doc 1 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📄</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-file-alt"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Official GST Moving Invoice</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -488,7 +488,7 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Doc 2 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🚚</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-truck"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Consignment Lorry Receipt (LR Copy)</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -499,7 +499,7 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Doc 3 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📋</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-clipboard-list"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Itemized Inventory Packing List</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -510,7 +510,7 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Doc 4 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">💳</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-credit-card"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Payment Money Receipt</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -521,7 +521,7 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Doc 5 -->
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🛡️</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-shield-alt"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Valid Transit Insurance Policy</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">

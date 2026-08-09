@@ -226,7 +226,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🏢</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-building"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Workstation Carpentry &amp; Assembly</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Skilled carpentry crew for dismantling and reassembling modular office cubicles, conference tables, and executive desks.
@@ -234,7 +234,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">📜</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-certificate"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Corporate GST Tax Invoicing</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             100% claimable official 18% GST TAX invoices (SAC 996511), stamped Consignment LR receipts, and audit inventory sheets.
@@ -242,7 +242,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🚚</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-truck"></i></div>
           <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed GPS Cargo Fleet</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Fully covered container vehicles equipped with safety belt anchorages and live GPS tracking for real-time asset tracking.
@@ -438,7 +438,7 @@ require_once __DIR__ . '/../includes/header.php';
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📄</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-file-alt"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Original 18% GST TAX Invoice</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -448,7 +448,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🚚</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-truck"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Consignment Lorry Receipt (LR)</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -458,7 +458,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">📋</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-clipboard-list"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Itemized Office Asset Inventory Sheet</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -468,7 +468,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">💳</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-credit-card"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Payment Money Receipt</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
@@ -478,7 +478,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
           <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;">🛡️</div>
+            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-shield-alt"></i></div>
             <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Valid Transit Insurance Policy</h3>
           </div>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">

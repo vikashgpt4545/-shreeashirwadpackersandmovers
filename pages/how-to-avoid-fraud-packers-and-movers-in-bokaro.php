@@ -112,7 +112,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(244, 63, 94, 0.4); border-radius: 14px; padding: 22px;">
-          <div style="background: rgba(244, 63, 94, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f43f5e; margin-bottom: 12px;">ðŸš«</div>
+          <div style="background: rgba(244, 63, 94, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f43f5e; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
           <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Unrealistically Low Quote</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Quoting 50% below market rates over phone call to trap customers, then demanding extra money after loading.
@@ -128,7 +128,7 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(244, 63, 94, 0.4); border-radius: 14px; padding: 22px;">
-          <div style="background: rgba(244, 63, 94, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f43f5e; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i>„</div>
+          <div style="background: rgba(244, 63, 94, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f43f5e; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i></div>
           <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">No Written Quotation</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Refusing to issue an official signed quotation detailing breakdown of packing, labor, taxes, and transport.
@@ -184,7 +184,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
         </div>
       </div>
@@ -308,7 +308,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Speak directly with our move coordinators or schedule a virtual video walkthrough of your home for accurate, binding cost calculation without unexpected surcharges.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ›¡ï¸ 100% Risk-Free Transit Protection</h3>
+          <h3 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> 100% Risk-Free Transit Protection</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.7; margin: 0;">All moves are covered by official transit insurance policies with 7-day fast track claim settlements in the event of minor road transit damages.</p>
         </div>
       </div>
@@ -494,11 +494,11 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>„ 100% Valid Tax Invoicing</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i> 100% Valid Tax Invoicing</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Our GSTIN (20BIPPG5094Q1ZP) and trade license numbers are verified on official portals, guaranteeing seamless tax credit verification and reimbursement processing.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸ›¡ï¸ Full-Value Transit Policy</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> Full-Value Transit Policy</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">All moves carry comprehensive transit insurance coverage issued by leading national underwriters with direct 7-day claim settlement assistance for minor damages.</p>
         </div>
       </div>
@@ -516,19 +516,19 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i>¦ High-Density Air Bubble Cushioning</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-phone-alt"></i> High-Density Air Bubble Cushioning</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">80-micron virgin air-bubble sheets wrapping TV screens, glass mirrors, polished wooden furniture, and delicate crockery for shock absorption.</p>
         </div>
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸªµ Heavy Wooden Crating &amp; Edge Guards</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-box-open"></i> Heavy Wooden Crating &amp; Edge Guards</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">On-site wooden crate construction with steel banding for marble items and oversized LED displays, reinforced with L-shaped corrugated corner protectors.</p>
         </div>
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸŒ§ï¸ Waterproof Stretch &amp; Shrink Film</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> Waterproof Stretch &amp; Shrink Film</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Full exterior shrink-wrap sealing over corrugated boxes to protect against rain, highway dust, humidity, and accidental moisture exposure.</p>
         </div>
         <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">ðŸšš Container Safety Belt Anchoring</h3>
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-truck-moving"></i> Container Safety Belt Anchoring</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Internal wall-mounted nylon safety belts and wheel chocks preventing item movement or tipping during sudden braking on national highways.</p>
         </div>
       </div>

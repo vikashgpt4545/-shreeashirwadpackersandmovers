@@ -18,6 +18,8 @@ if (!defined('SITE_URL')) {
 }
 
 // Contact details extracted directly from site images
+$SITE_NAME = 'Shree Ashirwad Packers and Movers';
+define('SITE_NAME', 'Shree Ashirwad Packers and Movers');
 define('SITE_PHONE', '(+91) 8409531615');
 define('SITE_PHONE_RAW', '+918409531615');
 define('SITE_EMAIL', 'enquiry@shreeashirwadpackers.in');

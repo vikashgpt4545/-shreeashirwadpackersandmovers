@@ -90,15 +90,15 @@ require_once __DIR__ . '/../includes/header.php';
       
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ  Intercity Home Shifting</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-star"></i>  Intercity Home Shifting</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Safe packing and container transit for 1/2/3 BHK houses to Puri.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ›¡ï¸ IBA Compliant Bills</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-star"></i> IBA Compliant Bills</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Official GST invoices and LR copies for employee transfer claims.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-phone-alt"></i>¦ 7-Layer Highway Wrapping</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-phone-alt"></i> 7-Layer Highway Wrapping</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Air bubble rolls, corrugated sheets, stretch wrap, and wooden crates.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
@@ -106,11 +106,11 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.9rem; color: #cbd5e1;">Enclosed car trailers and 5-layer wrapped bike transport.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ¢ Office Shifting</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-star"></i> Office Shifting</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Corporate IT desks, server racks, and office records transport.</p>
         </div>
         <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">ðŸ‘¨â€ðŸ”§ Full Setup Service</h3>
+          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-star"></i> Full Setup Service</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1;">Dismantling in Bokaro &amp; complete reassembly at Puri destination.</p>
         </div>
       </div>
@@ -161,7 +161,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;"><i class="fas fa-star"></i> 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
         </div>
       </div>

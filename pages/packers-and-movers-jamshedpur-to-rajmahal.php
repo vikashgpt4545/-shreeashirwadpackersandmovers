@@ -151,11 +151,11 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ¡ Jamshedpur to Rajmahal Home Relocation</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Jamshedpur to Rajmahal Home Relocation</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Full-service residential shifting including furniture disassembly, kitchenware wrapping, loading, and unloading in Rajmahal.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ¢ Government &amp; Office Shifting</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Government &amp; Office Shifting</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Secure transfer of official files, IT equipment, furniture, and office setups from Jamshedpur to Rajmahal.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
@@ -163,15 +163,15 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="color: #64748b; font-size: 0.9rem;">Hydraulic car carrier trailers ensuring door-to-door scratch-free vehicle shipping to Rajmahal.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸï¸ Two-Wheeler / Bike Courier</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Two-Wheeler / Bike Courier</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Corrugated sheet wrapping, paddy straw padding, and belt-locking for motorcycle shipping to Rajmahal.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-phone-alt"></i>¦ Wooden Box Crating</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-phone-alt"></i> Wooden Box Crating</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Custom-built wooden crates for glass dining tables, marble mandirs, large TVs, and fragile items.</p>
         </div>
         <div style="background: #f8fafc; padding: 25px; border-radius: 10px; border: 1px solid #e2e8f0;">
-          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;">ðŸ¬ Household Warehouse Storage</h3>
+          <h3 style="font-size: 1.2rem; color: #0b132b; margin-bottom: 10px;"><i class="fas fa-star"></i> Household Warehouse Storage</h3>
           <p style="color: #64748b; font-size: 0.9rem;">Clean, moisture-controlled, CCTV-monitored warehouse storage facility for short-term or long-term needs.</p>
         </div>
       </div>
@@ -224,10 +224,10 @@ require_once __DIR__ . '/../includes/header.php';
         <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" title=" Movers in Bistupur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-phone-alt"></i> Movers in Bistupur</a>
         <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" title=" Movers in Sakchi" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-phone-alt"></i> Movers in Sakchi</a>
         <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" title=" Movers in Mango" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-phone-alt"></i> Movers in Mango</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-sahibganj" title="ðŸš› Jamshedpur to Sahibganj" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Sahibganj</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-pakur" title="ðŸš› Jamshedpur to Pakur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Pakur</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-godda" title="ðŸš› Jamshedpur to Godda" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Godda</a>
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-dumka" title="ðŸš› Jamshedpur to Dumka" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;">ðŸš› Jamshedpur to Dumka</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-sahibganj" title="Jamshedpur to Sahibganj" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Sahibganj</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-pakur" title="Jamshedpur to Pakur" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Pakur</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-godda" title="Jamshedpur to Godda" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Godda</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-dumka" title="Jamshedpur to Dumka" style="background: #fff; padding: 14px; border-radius: 6px; border: 1px solid #e2e8f0; color: #0b132b; text-decoration: none; font-weight: 600; text-align: center; display: block;"><i class="fas fa-truck"></i> Jamshedpur to Dumka</a>
       </div>
     </div>
   </section>
@@ -276,7 +276,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Cars are driven onto closed multi-deck hydraulic ramp trailers. Wheels are locked using heavy-duty wheel chocks and high-tensile safety belts to prevent vehicle movement during highway braking. Detailed pre-loading condition inspection reports and photos are provided.</p>
         </div>
         <div style="background: #172a54; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;">ðŸï¸ 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
+          <h3 style="color: #ffffff; font-size: 1.15rem; margin-bottom: 10px; font-weight: 700;"><i class="fas fa-star"></i> 5-Layer Bike Wrapping &amp; Stand Anchorage</h3>
           <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">Two-wheelers receive complete fuel tank draining, battery disconnection, bubble wrap shielding on mirrors and handlebars, 5-ply carton box outer wrapping, and vertical stand tie-down anchorage inside covered container trucks.</p>
         </div>
       </div>
