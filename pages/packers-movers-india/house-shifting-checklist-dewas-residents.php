@@ -21,7 +21,6 @@ include __DIR__ . '/../../includes/header.php';
     </div>
   </section>
 
-
   <!-- Section: Comprehensive Informational Guide & Unique Article Content -->
   <article class="info-guide-article-section" style="padding: 60px 0; background: #070d19; color: #ffffff;">
     <div class="container" style="max-width: 980px; margin: 0 auto; padding: 0 15px;">
@@ -171,7 +170,6 @@ include __DIR__ . '/../../includes/header.php';
     </div>
   </article>
 
-
   <!-- Section: Article Related FAQ Accordion & Schema -->
   <script type="application/ld+json">
 {
@@ -253,7 +251,6 @@ include __DIR__ . '/../../includes/header.php';
             Relocation costs in Dewas vary based on transport distance, volume of goods, carrier type (Open vs Enclosed), and optional transit insurance. Local shifting starts from ₹3,000 to ₹12,000, while intercity shifting ranges from ₹7,000 to ₹28,000. We provide 100% itemized fixed-price quotes.
           </div>
         </details>
-        
 
         <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;">
           <summary style="padding: 18px 22px; color: #ffffff; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
@@ -264,7 +261,6 @@ include __DIR__ . '/../../includes/header.php';
             We recommend booking your shifting slot at least 3 to 5 days in advance for local moves in Dewas, and 5 to 7 days ahead for peak weekend or month-end intercity relocations to reserve dedicated GPS-tracked container trucks.
           </div>
         </details>
-        
 
         <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;">
           <summary style="padding: 18px 22px; color: #ffffff; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
@@ -275,7 +271,6 @@ include __DIR__ . '/../../includes/header.php';
             Yes, Shree Ashirwad provides 100% comprehensive transit insurance coverage (calculated at 0.3% of total declared value) covering household goods, commercial stock, and personal vehicles against any unforeseen highway damage or theft.
           </div>
         </details>
-        
 
         <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;">
           <summary style="padding: 18px 22px; color: #ffffff; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
@@ -286,7 +281,6 @@ include __DIR__ . '/../../includes/header.php';
             Our certified moving crew in Dewas utilizes 80-GSM heavy-duty bubble wrap, high-density corrugated sheets, stretch film, edge corner protectors, and custom wooden crates for glass items, LED TVs, and delicate electronics.
           </div>
         </details>
-        
 
         <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;">
           <summary style="padding: 18px 22px; color: #ffffff; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
@@ -297,7 +291,6 @@ include __DIR__ . '/../../includes/header.php';
             Key documents include your vehicle Registration Certificate (RC), valid insurance policy, government ID proof (Aadhaar/PAN), and our official Lorry Receipt (LR) with consignment inventory list.
           </div>
         </details>
-        
 
         <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;">
           <summary style="padding: 18px 22px; color: #ffffff; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
@@ -313,7 +306,6 @@ include __DIR__ . '/../../includes/header.php';
 
     </div>
   </section>
-
 
   <!-- Section: Final Conversion Call to Action Banner -->
   <section class="smooth-move-cta-section" style="padding: 55px 0; background: #070d19; color: #ffffff;">

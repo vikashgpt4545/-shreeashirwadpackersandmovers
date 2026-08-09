@@ -31,7 +31,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </div>
 
-
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
@@ -80,37 +79,6 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
       </div>
-    </div>
-  </section>
-
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Breakdown: Local vs Intercity Shifting Charges in Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Understanding the financial structure of relocation services is essential for house owners and corporate executives planning a move in East Singhbhum. This detailed technical guide on <strong>local vs intercity shifting charges in Jamshedpur</strong> outlines how logistics pricing is calculated, comparing intra-city transfers with long-haul interstate routes across Bistupur, Sakchi, Mango, Adityapur, Telco Colony, Sonari, Kadma, Jugsalai, and Baridih.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        <strong>Local Intra-City Shifting (Under 30 km):</strong> For short-distance moves within Jamshedpur, pricing is primarily driven by labor force size, staircase floor height, elevator availability, and cargo volume. Freight costs remain low as diesel consumption is minimal, highway tolls do not apply, and basic scratch-wrap packaging using moving blankets and stretch film is typically sufficient.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        <strong>Intercity Long-Haul Relocation (250 km to 2,000+ km):</strong> Relocating from Jamshedpur to major metro hubs like Ranchi, Kolkata, Patna, Delhi, Bangalore, or Mumbai shifts the primary cost weight to long-haul vehicle freight, national highway tolls, state border permits, driver allowances, and mandatory 3% transit insurance.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Intercity moves also demand heavy 7-layer protective packaging—combining 300 GSM air-bubble wrap, 5-ply heavy corrugated cartons, high-density L-profile foam guards, and custom wooden crating—to withstand vibrations and road shocks over hundreds of kilometers.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For employees at Tata Steel, Tata Motors, Tinplate, and public sector banks claiming corporate relocation allowances, Shree Ashirwad Packers provides transparent 18% GST invoices, stamped Consignment Notes (LR), and IBA-approved bill formats detailing all cost components.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Seasonality and booking timing also influence relocation bills. Moving during peak month-end cycles or festive seasons can increase vehicle rental rates; booking 3 to 5 days in advance locks in off-peak pricing and guarantees preferred container slot allocations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our logistics team conducts transparent doorstep surveys to provide binding written quotes. We guarantee zero post-booking price escalation, ensuring complete peace of mind whether you are moving across Bistupur streets or across state borders.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Explore our 5-step cost estimation workflow, local vs intercity price comparison matrix, safety protocols, and shifting charges FAQs below.
-      </p>
     </div>
   </section>
 

@@ -270,11 +270,6 @@ require_once __DIR__ . '/../includes/header.php';
 
   <!-- Comprehensive Content Guide -->
 
-
-
-
-
-
   <section class="content-guide-section" style="background: #f8fafc; padding: 60px 0;" id="cost-factors-guide">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
       

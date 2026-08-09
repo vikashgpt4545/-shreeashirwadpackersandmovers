@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Kiriburu Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Kiriburu is a major hill town and iron ore mining center operated by Steel Authority of India Limited (SAIL), situated in the scenic Saranda Forest range along the border of West Singhbhum district and Odisha. Positioned adjacent to Meghahatuburu township, Kiriburu houses extensive SAIL executive quarters, mining officer residential colonies, central market complexes, and administrative offices.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our packing and moving operations in Kiriburu are specially adapted to the terrain and logistics requirements of hill mining townships. We specialize in household shifting for SAIL executives and PSU employees, office relocations, custom two-wheeler motorcycle shipping, and enclosed car carrier transport locally across Kiriburu or outstation to Jamshedpur, Ranchi, Chaibasa, Dhanbad, Kolkata, Patna, and across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect household goods against winding hill roads, forest climate moisture, and long-distance transit vibrations, we implement our signature 7-layer safety packaging system. This includes 300 GSM heavy air-bubble wrap, 5-ply corrugated outer armor sheets, foam corner guards, stretch wrap moisture seals, and wooden crate framing for glass dining sets, LED TVs, mandirs, and valuable home decor.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For SAIL officers, public sector employees, bank personnel, and corporate executives claiming official employer transfer reimbursements, we provide 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized packing inventory slips, and IBA-compliant bills accepted by PSU HR departments.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed enclosed container trucks equipped with real-time GPS satellite tracking and internal cargo tie-down safety belts, ensuring constant location visibility and physical security across hill highways.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination residence, our professional crew handles unloading, staircase handling, room-wise placement, uncrating, and reassembly of all heavy furniture items. A joint physical verification inspection ensures complete customer satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving between quarters in Kiriburu/Meghahatuburu or transferring across India, Shree Ashirwad Packers and Movers guarantees punctual, transparent, and stress-free service. Explore our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

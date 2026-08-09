@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Potka Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Potka is a prominent administrative block and southern regional hub of East Singhbhum district, located along the state highway route connecting Sundernagar Jamshedpur to Haldudpukur, Kowali, and the Odisha border corridor. Hosting government administrative offices, schools, rural banking establishments, residential colonies, and commercial markets, Potka sees regular local and outstation moving demands.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating in and out of Potka requires careful logistics management to navigate state highway truck regulations, rural road connectivity, and long-distance inter-state transit toward Mayurbhanj (Odisha) or West Bengal. Shree Ashirwad Packers and Movers provides end-to-end relocation solutions for Potka residents, government personnel, business owners, and agricultural traders.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guard goods against vibration and dust on regional routes, we apply our signature 7-layer safety packaging protocol. High-density 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner guards, moisture-resistant stretch film, and heavy wooden box crating protect fragile glassware, home appliances, mandirs, and electronic equipment.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For government officers, teachers, bank staff, and corporate executives claiming transfer allowances, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and IBA-approved bill formats accepted nationwide.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our vehicle fleet features closed, weather-sealed container trucks outfitted with continuous satellite GPS tracking systems, heavy-duty cargo belts, and impact-absorbing floor mats for maximum safety during highway transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our skilled crew handles unloading, room placement, unpacking, and complete reassembly of all heavy furniture items, concluding with a mandatory joint inspection.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are shifting locally within Potka, moving to Jamshedpur city center, or relocating to Ranchi, Dhanbad, Kolkata, Patna, or Baripada, Shree Ashirwad Packers and Movers guarantees a smooth relocation experience. Review our rate matrix, safety protocols, 5-stage workflow, and 20 FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Chakulia Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Chakulia is a prominent industrial and commercial township in East Singhbhum district, located approximately 75 km east of Jamshedpur near the West Bengal border along national highway corridors and South Eastern Railway rail routes. Known for its major rice mills, manufacturing plants, forest trade, and railway freight connectivity, shifting in Chakulia involves handling diverse requirements ranging from residential home relocations to industrial equipment and commercial goods shipping.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Chakulia includes Station Road, Rice Mill Complex, Main Market, Dhalbhumgarh Road, Baharagora Link Road, Kanyabari sector, and surrounding agricultural and industrial zones. We serve mill owners, industrial staff, railway employees, government officials, and local families moving locally or outstation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect household goods and commercial equipment against transit shock on highway routes, all items are encased in our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner guards, stretch film moisture wrapping, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and heavy teak furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate personnel, railway officials, bank managers, and industrial executives needing official relocation expense reimbursement, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved billing documentation accepted across government and private organizations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-proof sealed container trucks, dedicated covered car carriers, and heavy-duty loading equipment equipped with real-time satellite GPS tracking and cargo tie-down ratchets for secure highway transport.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon destination arrival, our trained unloading crew manages careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. A complete joint inventory audit is performed prior to final customer sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are planning local house shifting in Chakulia town or an intercity move to Jamshedpur, Ranchi, Kolkata, or anywhere in India, Shree Ashirwad Packers and Movers guarantees punctual arrival, dedicated move manager support, and zero damage performance. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below for complete pricing and operational details.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

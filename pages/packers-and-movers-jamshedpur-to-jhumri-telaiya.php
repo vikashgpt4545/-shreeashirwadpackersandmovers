@@ -119,31 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Route Overview: Jamshedpur to Jhumri Telaiya Relocation</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating from Jamshedpur to the famous commercial mica trading center and railway hub of Jhumri Telaiya (Koderma district) spans a distance of approximately 235 km via the NH-33 highway corridor through Hazaribagh and Barhi. Shree Ashirwad Packers and Movers provides direct, same-day closed-container shifting services guaranteeing transit within 6 to 7 hours of departure.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our inter-district logistics setup serves business owners, trading firms, DVC Dam power project staff, railway personnel, and families relocating across all major Jhumri Telaiya sectors including Station Road, Mahavir Chowk, Ranchi Patna Road, Bypass Chowk, Telaiya Dam Link Road, and Koderma railway colony.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guard against road vibrations over the 235-kilometer route, items are packed using our heavy-duty 7-layer safety system—combining 300 GSM air-bubble wrap, 5-ply corrugated sheets, high-density L-shaped foam corner guards, stretch film, and custom wooden crating for delicate glass cabinets, electronics, and temple mandirs.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, government officers, and bank managers claiming transfer reimbursement, we provide 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized packing lists, and IBA-approved bill formats for hassle-free claim approval.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transit fleet features sealed weather-proof container trucks outfitted with real-time GPS tracking and internal ratchets, ensuring zero exposure to rain or highway dust from Jamshedpur loading to Jhumri Telaiya doorstep delivery.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Explore our 5-step relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

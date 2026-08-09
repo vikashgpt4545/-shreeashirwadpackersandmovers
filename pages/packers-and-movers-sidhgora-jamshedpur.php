@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Sidhgora Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Sidhgora is a prominent eastern residential township of Jamshedpur, famous for the iconic Surya Mandir complex, Cinema Road commercial market, Tata Steel employee quarters, and educational institutions. Connected directly to Agrico, Bhalubasa, Baridih, and Golmuri, Sidhgora experiences high daily volume for household shifting, employee transfers, and commercial moving.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Moving households, multi-story apartment flats, and commercial establishments in Sidhgora requires specialized packing techniques to handle staircases, narrow lanes around Cinema Road, and heavy traffic along main connecting corridors. Shree Ashirwad Packers and Movers provides end-to-end zero-damage relocation solutions tailored for Sidhgora families, Tata employees, business owners, and students.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our signature 7-layer safety packaging protocol shields goods during loading and transit. High-density 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam edge protectors, waterproof stretch film, heavy quilted blankets, and sturdy wooden crate framing protect fragile glassware, LED TVs, double beds, refrigerators, and temple altars against vibrations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, bank personnel, and Tata group employees claiming relocation allowances, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and IBA-approved bill formats valid across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet consists of weather-proof, sealed container trucks and enclosed car carriers equipped with continuous satellite GPS tracking systems, safety cargo belts, and padded flooring for secure highway transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert crew carries out careful unloading, room-wise placement, unpacking, and complete reassembly of all heavy furniture items, ending with a detailed joint physical audit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Sidhgora, shifting to neighboring Agrico or Baridih, or relocating intercity to Ranchi, Dhanbad, Kolkata, Patna, or Bhubaneswar, Shree Ashirwad Packers and Movers guarantees a hassle-free experience. Review our rate matrix, safety protocols, 5-stage workflow, and 20 FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

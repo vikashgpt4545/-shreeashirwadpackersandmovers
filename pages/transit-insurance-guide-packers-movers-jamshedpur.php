@@ -31,7 +31,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </div>
 
-
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
@@ -80,37 +79,6 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
       </div>
-    </div>
-  </section>
-
-  <!-- Section 1: Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Complete Transit Insurance Guide for Packers and Movers in Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating your valuable household furniture, electronic appliances, and personal vehicles from Jamshedpur over long national highway distances involves inherent transportation risks such as highway collisions, vehicle overturns, rain water seepage, or fire accidents. Understanding our <strong>transit insurance guide for packers and movers in Jamshedpur</strong> ensures complete financial protection for your goods from origin pickup to final destination delivery.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Shree Ashirwad Packers and Movers collaborates with leading IRDAI-approved insurance partners (National Insurance, Oriental Insurance, New India Assurance, and ICICI Lombard) to issue legitimate marine cargo and household goods transit policies for clients across Bistupur, Sakchi, Mango, Adityapur, Telco, Sonari, Kadma, Jugsalai, Golmuri, Baridih, and Sundarnagar.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        It is vital to distinguish between two main insurance types: <strong>Transit Risk Insurance (1.5% to 3% premium)</strong> which protects against catastrophic vehicle accidents, fire, and overturn during highway travel, and <strong>All-Risk Comprehensive Insurance</strong> which covers accidental breakage during handling, loading, transit, and unloading when packed by our professional crew.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To ensure valid policy issuance, clients complete a declared value inventory sheet specifying the current market replacement values of double beds, sofas, LED TVs, refrigerators, washing machines, and vehicles. This declared sum insured forms the legal basis for surveyor assessments and compensation claims.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Beware of fraudulent moving operators who collect 3% insurance money from customers but fail to generate an authentic insurance policy certificate. At Shree Ashirwad Packers, we issue the official insurance policy document stamped with policy serial numbers and insurer contact details prior to container truck dispatch.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives at Tata Steel, Tata Motors, and bank officers seeking employer relocation claims, transit insurance premium receipts issued by Shree Ashirwad Packers are 100% recognized for HR allowance reimbursement.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our customer support hotline remains active throughout the transit journey. In the unlikely event of any minor scratch or bumper impact, our claim desk arranges instant surveyor visits at the destination city to expedite claim settlement without delays.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Review our detailed insurance policy breakdown, premium calculation matrix, claim survey procedure, and transit insurance FAQs below.
-      </p>
     </div>
   </section>
 

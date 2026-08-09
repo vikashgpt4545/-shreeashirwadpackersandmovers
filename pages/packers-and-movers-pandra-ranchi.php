@@ -130,7 +130,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 2: Trust Counter & Live Achievements -->
   <section class="stats-section" style="padding: 50px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
@@ -647,7 +646,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  
   <!-- Section: Google Map & Location Details -->
   <section style="padding: 50px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container" style="max-width: 900px;">

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Telco Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Telco Colony is one of Jamshedpur's largest and most historic industrial townships, built around the flagship Tata Motors manufacturing plant. Home to thousands of Tata Motors employees, executive quarters, Plaza Market commercial complex, Hill Top School, and surrounding residential sectors like Cross Road and River View Colony, Telco is a prime hub for corporate employee transfers and residential moves.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Shifting home quarters, multi-story apartments, or commercial office setups in Telco Colony requires specialized handling to manage security gate permits, restricted heavy vehicle timing, and narrow internal quarter lanes. Shree Ashirwad Packers and Movers brings over 15 years of local operational expertise in executing seamless, zero-damage relocations throughout Telco Colony.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our signature 7-layer safety packaging protocol protects goods during loading and transit. High-density 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam edge caps, waterproof stretch film, heavy quilted blankets, and custom wooden crating safeguard fragile glass dining sets, LED TVs, double beds, refrigerators, and temple altars against road vibrations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For Tata Motors officers, corporate executives, and defense personnel claiming official relocation allowances, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and IBA-approved bill formats valid across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet consists of weather-proof, sealed container trucks and enclosed car carriers equipped with continuous satellite GPS tracking systems, safety cargo belts, and padded flooring for secure highway transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert crew carries out careful unloading, room-wise placement, unpacking, and complete reassembly of all heavy furniture items, concluding with a detailed joint physical audit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Telco Colony, shifting to neighboring Sakchi or Bistupur, or relocating intercity to Ranchi, Dhanbad, Kolkata, Patna, or Pune, Shree Ashirwad Packers and Movers guarantees a hassle-free experience. Review our rate matrix, safety protocols, 5-stage workflow, and 20 FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

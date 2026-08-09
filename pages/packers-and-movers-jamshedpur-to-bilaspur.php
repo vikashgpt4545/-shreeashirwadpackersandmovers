@@ -119,31 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Route Overview: Jamshedpur to Bilaspur Interstate Relocation</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating from Jamshedpur to the major railway and judicial hub of Bilaspur in Chhattisgarh covers a distance of approximately 480 km along the Sambalpur / Raigarh / NH-49 highway corridor. Shree Ashirwad Packers and Movers provides direct, express closed-container shifting services guaranteeing safe door-to-door delivery within 10 to 12 hours of departure. Our dedicated logistics team manages every detail of the interstate transfer.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our inter-city transportation network connects Jamshedpur to all prominent Bilaspur areas including Sarkanda, Vyas Nagar, Link Road, Torwa, Rajendra Nagar, Bodri High Court complex area, Chakarbhatha, SECR Railway quarters, and NTPC townships. We coordinate smooth entry clearance and gate handovers.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect household goods over 480 km of highway transit, items undergo our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated sheets, foam edge corner guards, stretch film moisture barrier, and custom wooden box crating for glass dining tops, LED screens, and mandir shrines.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For SECR South East Central Railway officers, High Court advocates, Tata Group employees, NTPC staff, and government officials claiming official relocation allowance, we issue 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our fleet consists of fully enclosed weather-tight container trucks with live GPS satellite tracking and heavy-duty floor ratchets, eliminating moisture risk and road dust contamination during the Jamshedpur to Bilaspur transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

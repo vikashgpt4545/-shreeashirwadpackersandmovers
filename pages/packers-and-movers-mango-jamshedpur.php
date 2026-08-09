@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Mango Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Mango is Jamshedpur's largest and most rapidly expanding residential and educational township, situated north of the Subarnarekha River. Home to major arterial corridors including Dimna Road, Ulidih, Azad Nagar, Pardih Chowk, and Old Purulia Road, Mango serves as the critical gateway connecting Jamshedpur to Ranchi and Kolkata via National Highway 33 (NH-33).
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating relocations in Mango requires specialized logistics planning due to high traffic volumes along Dimna Road and narrow interior residential lanes in Azad Nagar and Ulidih. Shree Ashirwad Packers and Movers provides comprehensive end-to-end relocation services across Mango, including multi-story apartment moves, independent house shifting, commercial office relocation, two-wheeler shipping, and enclosed car container transport.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee zero transit damage during short intra-city transfers or long-distance national transit, we enforce our mandatory 7-layer packaging protocol. Heavy 300 GSM air-bubble rolls, 5-ply corrugated cardboard armor, high-density foam corner guards, stretch wrap moisture barriers, and custom wooden box crating protect fragile items such as glass dining tables, LED TVs, mandirs, and electronic appliances.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, Tata Group professionals, bank personnel, and government officers requiring official employer reimbursement, we issue 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory lists, and IBA-approved bill formats.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our logistics fleet consists of weather-proof enclosed container vehicles equipped with live satellite GPS tracking, safety belts, and internal cargo tie-downs, ensuring complete goods protection and real-time location visibility throughout the journey.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination residence, our trained crew manages offloading, elevator/staircase hoisting, room-wise placement, uncrating, and reassembly of all heavy furniture items. A final joint physical inspection guarantees complete satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Dimna Road or relocating outstation to Ranchi, Dhanbad, Kolkata, or Bihar, Shree Ashirwad Packers and Movers guarantees top-tier service. Explore our 5-stage relocation workflow, 6-card feature grid, safety protocols, rate matrix, and 20 comprehensive FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

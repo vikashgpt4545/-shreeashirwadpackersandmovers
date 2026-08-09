@@ -165,11 +165,6 @@ require_once __DIR__ . '/../includes/header.php';
 
   <!-- Detailed Content Guide (1800+ words) -->
 
-
-
-
-
-
   <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-fraud-guide">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
       

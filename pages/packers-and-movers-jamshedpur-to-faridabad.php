@@ -119,31 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Route Overview: Jamshedpur to Faridabad Relocation</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating from Steel City Jamshedpur to the industrial hub of Faridabad in the National Capital Region (NCR) spans a distance of approximately 1,280 km via the NH-19 and Yamuna Expressway corridors. Shree Ashirwad Packers and Movers provides direct, express closed-container shifting services guaranteeing delivery within 24 to 30 hours of departure.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our inter-state logistics network connects Jamshedpur to all prominent Faridabad sectors including NIT 1, 2, 3, 4, 5, Ballabgarh, Sector 15, Sector 21, Sector 31, Greater Faridabad Neharpar, Surajkund Road, Old Faridabad, and Mathura Road industrial hubs. We handle high-rise apartment elevator clearances and gate pass formalities smoothly.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect household cargo across the 1,280 km highway transit, items undergo our heavy-duty 7-layer safety packaging—utilizing 300 GSM air-bubble wrap, 5-ply corrugated sheets, edge foam guards, stretch film moisture sealing, and custom wooden crating for glass dining tables, large smart TVs, and wooden mandirs.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, industrial engineers, PSU personnel, and bank managers claiming company relocation allowance, we issue 100% compliant 18% GST invoices, stamped Consignment Lorry Receipts (LR), itemized inventory lists, and IBA-approved bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our fleet consists of fully enclosed weather-tight container trucks equipped with live satellite GPS tracking and internal floor tie-down ratchets, eliminating vibration damage and dust infiltration over long-distance highway travel.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

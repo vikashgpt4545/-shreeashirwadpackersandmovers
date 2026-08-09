@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Boram Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Boram is a prominent suburban block and residential zone located in the East Singhbhum district near Patamda, connected to central Jamshedpur via Mango link roads and state highways. Relocating household goods, agricultural produce equipment, or commercial stock from Boram demands expert rural and suburban logistics management, dedicated transport vehicles, and skilled manpower trained in handling long-distance transits.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Boram encompasses Boram Block Market, Patamda road link, Mango-Boram highway, surrounding village clusters, and local residential sectors. We coordinate vehicle loading permits, road clearance, and safety protocols for seamless intercity and local relocations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee complete protection against highway vibrations and rough rural roads, all items receive our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner protectors, stretch film moisture barrier, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and delicate items.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For government personnel, bank staff, police officers, teachers, and corporate employees claiming official transfer reimbursement, we provide 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory sheets, and IBA-approved bill documentation recognized across departments.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed container trucks, specialized enclosed car transport carriers, and city feeder trucks equipped with real-time satellite GPS tracking, floor tie-down ratchets, and heavy-duty loading ramps for smooth operations across Boram.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our trained unloading crew handles careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. We conduct a joint inventory check to ensure complete satisfaction before final sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are planning local residential moving in Boram or intercity relocation across Jharkhand and neighboring states, Shree Ashirwad Packers and Movers guarantees punctual arrival, dedicated move coordinator assistance, and zero damage delivery. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below for full operational details.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

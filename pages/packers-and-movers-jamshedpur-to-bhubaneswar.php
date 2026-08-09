@@ -262,7 +262,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  
   <!-- Expanded Section: 7-Layer Highway Protective Packaging Specifications -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
     <div class="container" style="max-width: 950px;">
@@ -335,7 +334,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  
   <!-- Expanded Section: 4-Protocol Safety Framework -->
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
     <div class="container" style="max-width: 950px;">
@@ -363,7 +361,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  
   <!-- Expanded Section: Tata Group & Corporate Relocation Policy -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
     <div class="container" style="max-width: 950px;">
@@ -422,6 +419,4 @@ require_once __DIR__ . '/../includes/header.php';
 </main>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
-
-
 

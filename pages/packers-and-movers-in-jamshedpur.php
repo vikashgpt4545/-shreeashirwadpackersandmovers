@@ -134,34 +134,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Comprehensive Relocation Operations across Greater Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Jamshedpur, India's premier planned industrial city, features a complex mix of Tata Steel company quarters, high-rise luxury residential towers in Bistupur and Sakchi, dense commercial markets, expansive industrial belts in Adityapur and Gamharia, and sprawling residential townships in Mango, Telco, and Sonari. Shree Ashirwad Packers and Movers serves as the central relocation hub for the entire Greater Jamshedpur region, providing specialized logistics management for residential, corporate, industrial, and outstation moves.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating Jamshedpur requires deep local route familiarity: bypassing restricted truck timing windows along Bistupur main road and Sakchi roundabout, managing steep apartment staircases in older housing quarters, navigating multi-level basements in modern residential complexes, and handling industrial freight routes connecting NH-33 and NH-49. Our operational fleet consists of dedicated, weatherproof container vehicles ranging from 14-foot city movers to 32-foot multi-axle outstation container trucks.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        We strictly implement our signature 7-layer protective packaging system across all Jamshedpur relocations. High-density air bubble wrap, 5-ply corrugated sheets, foam edge guards, moisture-proof stretch film, padded moving blankets, tamper-evident security tape, and custom timber crate frames protect expensive furniture, LED Smart TVs, glass dining sets, mandirs, and delicate home electronics against highway vibrations and rough terrain.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        As Jamshedpur's trusted relocation partner for Tata Steel, Tata Motors, Tata Power, Tinplate, Tata AutoComp, bank personnel, healthcare professionals, defense staff, and government employees, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and itemized inventory lists formatted specifically for official employer claim reimbursements.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Every vehicle in our transport fleet is equipped with live satellite GPS tracking, floor ratchets, and soft inner wall padding, offering customers real-time location tracking and complete cargo protection throughout the relocation journey.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert unloading crew handles careful offloading, room-by-room furniture placement, uncrating, and full reassembly of beds, wardrobes, dining tables, and modular furniture, followed by a final physical inventory verification.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving across town from Bistupur to Telco, or relocating intercity to Ranchi, Kolkata, Patna, Delhi, or Bangalore, Shree Ashirwad Packers guarantees fixed transparent quotes, zero hidden charges, full transit insurance coverage, and 24/7 dedicated customer support. Review our feature grid, safety protocols, pricing matrix, workflow, and 20 comprehensive FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Trust Counter Stats -->
   <section style="padding: 40px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

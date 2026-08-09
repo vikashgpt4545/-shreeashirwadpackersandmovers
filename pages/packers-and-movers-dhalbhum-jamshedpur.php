@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Dhalbhum Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Dhalbhum is the historic sub-divisional administrative headquarters of East Singhbhum district, encompassing the core urban municipalities and commercial centers of Jamshedpur along with surrounding industrial corridors. Hosting key administrative bodies such as the SDO Office, Civil Court, District Collectorate, and major government quarters, relocation in Dhalbhum involves handling high-density urban residential moves, official government transfers, corporate office shifting, and vehicle transportation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Dhalbhum includes the SDO Court area, Bistupur link, Sakchi market belt, Northern Town, Circuit House Area, Kadma, Sonari, Marine Drive bypass, and surrounding residential colonies across East Singhbhum. We serve administrative officers, judicial staff, corporate executives, Tata Steel personnel, bank managers, and local families moving locally or outstation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee zero transit damage during city navigation and highway transport, all items are wrapped using our signature 7-layer safety packaging system—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam edge protectors, stretch film moisture sealing, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and heavy teak furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For administrative personnel, bank officers, railway staff, and corporate employees claiming official relocation allowances, we issue 100% genuine 18% GST invoices, stamped Consignment Notes (LR), itemized inventory lists, and IBA-approved billing documentation recognized across government departments and private organizations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet consists of weather-proof sealed container trucks, specialized enclosed car carriers, and dedicated city moving vehicles equipped with real-time satellite GPS tracking and cargo tie-down ratchets for secure urban and intercity transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon destination arrival, our trained unloading team manages careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. A complete joint inventory verification is conducted before final customer sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are planning local house shifting in Dhalbhum or an intercity relocation to Ranchi, Dhanbad, Kolkata, Patna, or anywhere in India, Shree Ashirwad Packers and Movers guarantees punctual delivery, dedicated move management, and zero damage performance. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below for full operational details.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Jharkhand Nagar Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Jharkhand Nagar is a prominent residential locality situated in eastern Jamshedpur, adjacent to Telco Township, Birsanagar, and Rahargora link corridor. Homes in Jharkhand Nagar comprise multi-story private family residences, Tata Motors &amp; ancillary company employee homes, local business establishments, and staff quarters.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Jharkhand Nagar extends across all blocks, Main Road, Telco Colony border, Rahargora junction, Birsanagar Zone 1-6 link, and Chhota Govindpur link roads. We specialize in household shifting, industrial worker transfers, office moves, bike transport, and car shipping locally within Jamshedpur or outstation to Ranchi, Dhanbad, Kolkata, Patna, and pan-India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect household goods during loading from narrow residential lanes and highway transport, every item is wrapped using our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner guards, stretch film moisture sealing, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and heavy teakwood furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, Tata Motors engineers, defense personnel, and bank staff requiring official relocation claim reimbursements, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory lists, and IBA-approved bills recognized by corporate HR and audit departments.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed enclosed container vehicles, specialized enclosed car carriers, and dedicated pick-up trucks fitted with real-time satellite GPS tracking and interior wall padding for secure transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our trained crew manages unloading, room-specific placement, wooden crate unboxing, and complete reassembly of all disassembled furniture. A comprehensive joint inventory inspection is conducted before final project sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are planning a local house move within Jharkhand Nagar or an outstation relocation to Ranchi, Kolkata, Dhanbad, or Patna, Shree Ashirwad Packers and Movers guarantees timely delivery, dedicated move management, and zero damage performance. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

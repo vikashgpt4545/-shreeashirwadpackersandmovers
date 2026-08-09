@@ -52,7 +52,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
   <section class="track-record-section" style="padding: 60px 0; background: #070d19; color: #ffffff; text-align: center;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       
@@ -117,36 +116,6 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.5; margin: 0;">
             Round-the-clock dedicated assistance from experienced <strong>packers and movers hazaribagh to jamshedpur</strong> specialists.
           </p>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: Why Are We Ranked Among the Top -->
-  <section class="top-ranked-section" style="padding: 50px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="background: linear-gradient(135deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.9) 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-left: 5px solid #e11d48; border-radius: 16px; padding: 35px 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-        
-        <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; flex-wrap: wrap;">
-          
-          <div style="flex: 1; min-width: 300px;">
-            <h3 style="font-size: 1.75rem; font-weight: 800; color: #ffffff; margin-bottom: 14px; line-height: 1.3;">
-              Why Are We Ranked Among the Top <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Jamshedpur</span>?
-            </h3>
-            <p style="font-size: 1.02rem; color: #cbd5e1; line-height: 1.75; margin: 0;">
-              Relocating your home or office doesn't have to be stressful. Our professional team handles every aspect of your move &mdash; from premium bubble-wrap packing and heavy furniture dismantling to safe container transport and unloading at your destination. When you choose our verified <strong>packers and movers hazaribagh to jamshedpur</strong> in Bistupur, you get 100% damage-free assurance, transparent billing, and zero hidden charges.
-            </p>
-          </div>
-
-          <div style="flex-shrink: 0;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="padding: 16px 32px; background: linear-gradient(135deg, #e11d48 0%, #f59e0b 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; box-shadow: 0 6px 20px rgba(225, 29, 72, 0.4); white-space: nowrap;">
-              <i class="fas fa-phone-alt" style="margin-right: 10px;"></i> Call (+91) 8409531615
-            </a>
-          </div>
-
         </div>
 
       </div>
@@ -353,96 +322,6 @@ require_once __DIR__ . '/../includes/header.php';
           <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Intercity%20Shifting%20from%20Bistupur" title="Book Intercity Shifting" target="_blank" style="width: 100%; padding: 12px; border: 1.5px solid #f59e0b; border-radius: 10px; background: transparent; color: #ffffff; font-weight: 700; font-size: 0.9rem; text-align: center; text-decoration: none; display: block; box-sizing: border-box;">
             Book Intercity Shifting
           </a>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: Why We Are the Most Preferred -->
-  <section class="most-preferred-section" style="padding: 65px 0; background: #070d19; color: #ffffff;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          UNMATCHED QUALITY &amp; TRUST
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Why We Are the Most Preferred <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Jamshedpur</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          Selecting reliable <strong>packers and movers hazaribagh to jamshedpur</strong> shouldn't involve guesswork. At Shree Ashirwad, we combine licensed operational standards, transparent billing practices, and state-of-the-art vehicle tracking to guarantee 100% peace of mind during your relocation in Bistupur.
-        </p>
-      </div>
-
-      <!-- 6 Trust Feature Cards 3x2 Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
-        
-        <!-- Trust Card 1 (Highlighted) -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.6); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(245, 158, 11, 0.15);">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-            <i class="fas fa-shield-alt"></i>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Govt. Registered &amp; IBA Approved</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            We are fully licensed, GST-compliant <strong>packers and movers hazaribagh to jamshedpur</strong> providing valid IBA-approved bills for easy corporate or bank claim reimbursements across Bistupur.
-          </p>
-        </div>
-
-        <!-- Trust Card 2 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-            <i class="fas fa-file-invoice-dollar"></i>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Transparent &amp; Honest Pricing</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            No hidden fees, surprise taxes, or moving-day price jumps. When you hire our <strong>packers and movers hazaribagh to jamshedpur</strong>, the quoted estimate remains fixed and transparent.
-          </p>
-        </div>
-
-        <!-- Trust Card 3 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-            <i class="fas fa-map-marker-alt"></i>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Real-Time GPS Tracking</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Track your shifting container truck live via satellite GPS. Our <strong>packers and movers hazaribagh to jamshedpur</strong> ensure you know your vehicle location every minute of the journey.
-          </p>
-        </div>
-
-        <!-- Trust Card 4 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-            <i class="fas fa-box"></i>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Multi-Layer Safe Packing</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Using heavy-duty bubble wraps, corrugated sheets, stretch films, and corner guards, our <strong>packers and movers hazaribagh to jamshedpur</strong> guarantee 100% damage-free delivery.
-          </p>
-        </div>
-
-        <!-- Trust Card 5 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-            <i class="fas fa-clock"></i>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Guaranteed On-Time Delivery</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            We value your time. As punctual <strong>packers and movers hazaribagh to jamshedpur</strong>, our logistics team strictly meets all pickup times and promised delivery windows without delay.
-          </p>
-        </div>
-
-        <!-- Trust Card 6 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-            <i class="fas fa-shield-virus"></i>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Full Transit Insurance Protection</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            For maximum financial security, our <strong>packers and movers hazaribagh to jamshedpur</strong> provide complete transit insurance policies to cover unforeseen transit risks.
-          </p>
         </div>
 
       </div>
@@ -988,17 +867,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-
-
-
-
-
-
-
-
-
-
-
   <section style="padding: 40px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
@@ -1048,7 +916,6 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-patna" title="Hazaribagh to Patna Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Patna Shifting &rarr;</a></div>
       </div>
 
-      
   <!-- Expanded Section: 7-Layer Highway Protective Packaging Specifications -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
     <div class="container" style="max-width: 950px;">

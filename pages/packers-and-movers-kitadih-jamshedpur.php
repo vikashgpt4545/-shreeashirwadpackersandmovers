@@ -134,34 +134,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Comprehensive Relocation Operations in Kitadih Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Kitadih is a vital residential locality in southern Jamshedpur, situated immediately adjacent to Bagbera, Parsudih, Loco Colony, and Tatanagar Railway Station. Characterized by dense residential quarters, single-family homes, multi-story apartments, and active commercial link roads, Kitadih generates heavy demand for professional home relocation, inter-district shifting, and railway staff transfers. Shree Ashirwad Packers and Movers serves as the primary relocation provider in Kitadih, offering specialized packing and logistics services tailored to the locality's unique urban layout.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating Kitadih requires expert local knowledge to maneuver through narrow residential lanes near Loco Colony, manage heavy traffic along Bagbera link road, and align truck arrival times around Tatanagar Railway Station congestion. Our operational fleet features 14-foot to 19-foot city container vehicles equipped with hydraulic tail lifts for narrow alley access, alongside 32-foot multi-axle outstation container trucks for long-distance relocations to Ranchi, Patna, Kolkata, and beyond.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        We enforce our signature 7-layer protective packaging system for every Kitadih assignment. High-density stretch wrapping, multi-layer air bubble cushion rolls, 5-ply corrugated cardboard sheets, foam corner guards, heavy fabric moving blankets, official tamper-evident security tape, and custom timber box crating protect valuable wooden furniture, LED Smart TVs, glass dining tables, and delicate home items against transit shock and road vibration.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        As an IBA-approved logistics provider, we supply 100% authentic 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and itemized inventory lists accepted by South Eastern Railway HR, Tata Group companies, state government departments, banks, and defense organizations for prompt employee relocation claim reimbursement.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        All container vehicles in our Kitadih operational fleet are outfitted with real-time satellite GPS tracking, internal floor lashing ratchets, and protective wall padding, ensuring full visibility and cargo safety from loading to final delivery.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your new residence, our dedicated unloading team carefully unloads, unpacks, places items room-by-room, and completes full furniture reassembly for double beds, wardrobes, and modular units, concluding with a comprehensive physical inventory check.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are shifting locally within Kitadih or relocating outstation across Eastern India, Shree Ashirwad Packers guarantees upfront transparent rates, zero hidden charges, full transit insurance coverage, and round-the-clock customer support. Review our feature grid, safety protocols, pricing matrix, workflow, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Trust Counter Stats -->
   <section style="padding: 40px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

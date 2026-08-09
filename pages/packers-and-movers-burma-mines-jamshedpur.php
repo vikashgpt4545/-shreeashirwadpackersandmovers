@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Burma Mines Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Burma Mines is a key industrial and commercial hub in central Jamshedpur, situated immediately adjacent to Tata Steel plant gates, Tatanagar Railway Station link corridor, Laxminagar, and Golmuri. Relocating residential homes, industrial workshops, employee quarters, or heavy equipment in Burma Mines requires heavy-duty vehicle access management, industrial safety protocols, and experienced logistics execution.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Burma Mines covers Station Road link, Laxminagar, East Plant busty, Carriage Colony, Tube Gate area, and surrounding commercial transport yards. We coordinate gate passes, heavy vehicle parking clearances, and industrial security permissions for smooth loading.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee complete item protection against heavy traffic and highway vibrations, all goods receive our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner protectors, stretch film moisture barrier, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and heavy tools.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For Tata Steel employees, industrial contractors, railway staff, and corporate managers claiming official relocation reimbursement, we provide 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory sheets, and IBA-approved bill documentation recognized across corporate HR departments.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed container trucks, specialized enclosed car transport carriers, and heavy hydraulic ramps equipped with real-time satellite GPS tracking and floor tie-down ratchets for secure transport.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our trained unloading crew handles careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. We conduct a joint inventory check to ensure complete satisfaction before final sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

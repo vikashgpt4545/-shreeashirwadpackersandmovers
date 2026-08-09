@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Kandra Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Kandra is an essential industrial and railway junction corridor located strategically along the Gamharia-Seraikela highway belt near Jamshedpur. Kandra encompasses major industrial production plants, glass manufacturing complexes, railway staff quarters, plant worker housing colonies, and commercial marketplace zones. It serves as a vital logistics node connecting Adityapur Industrial Area with Seraikela-Kharsawan district headquarters.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational logistics across Kandra are customized to handle both heavy industrial machinery moving and residential household relocations. We specialize in household shifting for plant engineers and factory employees, corporate office relocations, warehouse inventory transfers, two-wheeler motor transport, and enclosed car carrier shipping locally across Jamshedpur or outstation to Ranchi, Kolkata, Dhanbad, Patna, and nationwide destinations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee zero-damage transit over state highways and industrial access roads, we enforce our signature 7-layer safety packaging system. This process utilizes 300 GSM heavy air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner guards, stretch wrap moisture barriers, and custom wooden box crating for fragile glass items, electronic appliances, mandirs, and high-value machinery parts.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For industrial executives, plant supervisors, government employees, and business proprietors requiring official relocation claim reimbursements, we issue 100% authentic 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory lists, and IBA-approved bill formats compliant with corporate HR and audit standards.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet includes weather-sealed enclosed container trucks and heavy-duty carriers fitted with real-time satellite GPS tracking and interior cargo tie-down ratchets to ensure maximum security during transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our experienced unloading team performs complete offloading, room-specific placement, wooden box uncrating, and reassembly of all heavy furniture items. A joint physical inventory audit ensures complete client satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are relocating a family home near Kandra Station Road or transferring industrial goods outstation, Shree Ashirwad Packers and Movers guarantees timely, reliable, and stress-free execution. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 location-specific FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

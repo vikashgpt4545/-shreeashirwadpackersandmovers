@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Jugsalai Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Jugsalai is Jamshedpur's historical wholesale commercial hub and major railway transportation gateway, situated directly adjacent to Tatanagar Railway Station, Station Road, Gausala Nala, and Meany Colony. Jugsalai houses major wholesale cloth markets, hardware trade centers, grain merchants, as well as dense residential apartments and traditional family homes.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational network in Jugsalai covers Station Road, Gausala Chowk, Dukhudihan, Islamnagar, Naya Bazaar, Meany Colony, Piggot Hill area, and all connecting arterial roads leading to Bistupur and Tata-Kandra Road. We offer residential household shifting, wholesale shop relocation, railway parcel handling, bike shipping, and car transport locally across Jamshedpur or long-distance to Kolkata, Ranchi, Dhanbad, Patna, and pan-India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating Jugsalai's bustling commercial lanes and high-density traffic requires specialized logistics timing. To safeguard household items and commercial goods against transit shock and urban congestion, we deploy our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner protectors, stretch film moisture sealing, and custom wooden box crating for glass showcases, LED TVs, mandirs, and valuable antique furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate personnel, railway employees, traders, and government officials requiring official relocation reimbursement, we provide 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill formats recognized across corporate and government audit divisions.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our logistics fleet includes weather-sealed enclosed container trucks, specialized enclosed car carriers, and compact city mini-trucks fitted with real-time satellite GPS tracking and floor tie-down ratchets for secure urban and highway transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon destination arrival, our professional unloading crew handles offloading, room-specific placement, wooden box uncrating, and complete reassembly of all disassembled furniture. A comprehensive joint inventory check is performed before final sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are planning a local house move in Jugsalai or an intercity relocation to Ranchi, Kolkata, Dhanbad, or Patna, Shree Ashirwad Packers and Movers guarantees punctual service, dedicated move management, and zero damage performance. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below for full details.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

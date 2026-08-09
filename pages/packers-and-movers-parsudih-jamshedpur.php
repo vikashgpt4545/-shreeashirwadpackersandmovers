@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Parsudih Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Parsudih is a major southern residential and commercial sector of Jamshedpur, located immediately south of Tatanagar Railway Station. It encompasses prominent sub-localities including Pramatha Nagar, Haludbani, Khasmahal, Golpahari, and Karandih border areas. Due to its direct proximity to railway lines, railway staff colonies, markets, and regional highways, Parsudih experiences high volume domestic and commercial relocation demands.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating Parsudih requires local expertise due to narrow residential lanes in older colonies, railway overbridge traffic, and active market lanes around Pramatha Nagar. Shree Ashirwad Packers and Movers provides end-to-end relocation services tailored for Parsudih residents, covering household shifting, railway staff moves, shop relocation, and vehicle transportation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect cargo against road bumps and transit movement across state routes, we strictly follow our signature 7-layer safety packaging protocol. Heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, high-density foam corner guards, waterproof stretch film, and wooden box crating protect delicate electronics, glass furniture, mandirs, and home appliances.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For railway employees, Tata Steel personnel, government staff, and corporate executives eligible for shifting allowance claims, we issue 100% authentic 18% GST invoices, stamped Lorry Receipts (LR), packing inventory lists, and IBA-approved bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet comprises closed, all-weather container trucks equipped with continuous satellite GPS tracking, inner cargo tie-downs, and padded flooring, providing full security and live location visibility throughout transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our professional crew handles unloading, room-wise placement, unpacking, and complete reassembly of all heavy furniture items, followed by a final physical audit to guarantee customer satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Parsudih or relocating to Ranchi, Dhanbad, Kolkata, Patna, or Delhi, Shree Ashirwad Packers and Movers ensures a seamless transition. Explore our 5-stage workflow, rate matrix, safety protocols, and 20 comprehensive FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

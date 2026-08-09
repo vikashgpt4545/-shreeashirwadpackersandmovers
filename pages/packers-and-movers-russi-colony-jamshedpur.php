@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Russi Colony Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Russi Colony is an exclusive, high-profile residential enclave located within the premium Bistupur zone of Jamshedpur, adjacent to Tata Steel senior executives' bungalows, Contractors Area, and Circuit House Road. Characterized by spacious independent residences, corporate bungalows, tree-lined quiet avenues, and high security standards, Russi Colony demands superior relocation expertise.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Moving executive households, premium Italian marble furniture, heavy antique woodwork, imported electronics, and luxury vehicles out of Russi Colony requires specialized handling, white-glove packing, and precise vehicle positioning. Shree Ashirwad Packers and Movers provides top-tier relocation solutions customized for corporate leaders, Tata Steel executives, business owners, and senior professionals.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our signature 7-layer safety packaging protocol safeguards high-value assets. High-density 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, heavy foam corner guards, moisture-resistant stretch film, quilted furniture blankets, and custom wooden box crating protect delicate chandeliers, glass dining tables, wooden mandirs, and large OLED screens against transit shocks.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives and transferred officials claiming relocation allowances, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill formats compliant with company policies nationwide.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our vehicle fleet comprises sealed, weather-proof closed container trucks and hydraulic enclosed car carriers outfitted with live satellite GPS tracking systems, heavy-duty load belts, and protective floor carpeting for smooth interstate transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert crew completes cautious unloading, room placement, unpacking, and complete reassembly of modular furniture and wardrobes, concluding with a comprehensive physical audit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are shifting locally within Bistupur / Russi Colony, or relocating intercity to Ranchi, Dhanbad, Kolkata, Delhi, Bangalore, or Mumbai, Shree Ashirwad Packers and Movers delivers an uncompromised white-glove experience. Review our rate matrix, safety protocols, 5-stage workflow, and 20 FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -119,31 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Route Overview: Jamshedpur to Kolkata Relocation</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating from Steel City Jamshedpur to the metropolitan hub of Kolkata spans a distance of approximately 290 km via the NH-49 and NH-16 expressways passing through Baharagora and Kharagpur. Shree Ashirwad Packers and Movers provides direct, express closed-container shifting services guaranteeing transit within 6 hours of departure. Our professional logistics team coordinates every leg of the journey to ensure stress-free transit across state borders.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our inter-state logistics network connects Jamshedpur to all key Kolkata zones including Salt Lake Sector V, New Town Action Areas 1/2/3, Rajarhat, Park Street, Howrah, Alipore, Ballygunge, Behala, Jadavpur, and EM Bypass high-rise residential complexes. We manage society gate permissions and service elevator reservations to expedite door-to-door unloading.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect cargo against 290 km highway speeds and potential weather hazards, items undergo our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated sheets, foam corner guards, stretch film barrier sealing, and wooden crate framing for glass tops, LED screens, and mandirs.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For IT corporate executives, Tata Group employees, PSU officials, and bank managers claiming transfer relocation allowance, we issue 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our fleet consists of fully enclosed weather-tight container trucks with GPS tracking and heavy-duty floor ratchets, eliminating moisture risk and dust contamination during the Jamshedpur to Kolkata journey.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -31,7 +31,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </div>
 
-
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
@@ -80,43 +79,6 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
       </div>
-    </div>
-  </section>
-
-  <!-- Specialized Packing Material Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">7-Layer Packaging Supplies &amp; Damage-Proof Shifting Standards in Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        High-grade packing material is the foundational defense against transit damage, road vibration, moisture exposure, and structural impact during household or commercial relocation. Shree Ashirwad Packers and Movers provides a comprehensive <strong>packing materials guide in Jamshedpur</strong> showcasing the industrial-grade wrapping supplies, 5-ply heavy duty corrugated boxes, 200-micron stretch films, and custom wooden crating used across all shifting operations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our professional packing teams serve all major residential hubs and commercial localities across East Singhbhum including Bistupur, Sakchi, Mango, Adityapur, Telco, Sonari, Kadma, Jugsalai, Golmuri, Baridih, and Sundarnagar. Every relocation project is executed using standardized 7-layer safety protocols customized for fragile crockery, glass dining tops, LED smart TVs, wooden beds, wardrobes, and heavy office IT servers.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Unlike cheap local movers who use thin single-wall cardboard boxes or discarded grocery cartons that collapse under weight, we manufacture and deploy virgin 5-ply and 7-ply corrugated boxes capable of supporting over 45 kg of internal weight. For electronic appliances, anti-static air-bubble films and thermocol buffer sheets are applied to absorb highway G-forces and prevent electrical short circuits.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        During the wet monsoon months in Jamshedpur, all packed items receive an additional outer sheath of waterproof plastic stretch film and silica gel desiccant packets inside cardboard boxes to absorb atmospheric humidity and prevent fungal mold or fabric dampness.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Furthermore, our trained carpenters construct customized heavy-duty wooden box crates for delicate items such as marble mandir idols, crystal chandeliers, antique mirrors, and grand piano instruments, ensuring zero movement or surface friction during long-distance transit to Kolkata, Ranchi, Patna, Delhi, or Bangalore.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Proper material selection also protects valuable corporate assets during commercial office moves. For bank IT hardware, servers, and executive desks in Bistupur or Sakchi, we deploy heavy-duty anti-static bubble wrap, color-coded file cartons, and tamper-evident security tape seals to prevent data theft or physical scratch marks.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        All packing materials used by Shree Ashirwad Packers are eco-friendly, recyclable, and non-hazardous. Our team conducts on-site post-unpacking cleanup services, collecting discarded cardboard and plastic wrap so your new home or office remains spotlessly clean.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Additionally, for defence personnel, Tata Steel executives, and government employees transferring out of Jamshedpur, our packing material invoice breakdown meets all official RTO and IBA claim reimbursement documentation criteria.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        With over 15 years of operational excellence in East Singhbhum, Shree Ashirwad Packers guarantees 100% zero-damage shifting backed by comprehensive transit insurance policy coverage on all packed inventory.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Explore our complete material specification catalog, 7-layer safety protocol, apartment-wise material estimator chart, and packing FAQs below.
-      </p>
     </div>
   </section>
 

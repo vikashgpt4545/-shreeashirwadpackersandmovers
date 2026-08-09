@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Shyamnagar Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Shyamnagar is a vibrant residential suburb situated near Telco colony in eastern Jamshedpur. Characterized by independent multi-story homes, residential colonies, private housing societies, and thriving commercial hubs along Cross Roads 1 through 5 and Plaza market link, Shyamnagar connects smoothly to Rahargora, Chhota Govindpur, and Baridih.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating narrow residential avenues, multi-floor stairwells, and busy commercial sectors in Shyamnagar requires structured packing and heavy lifting expertise. Shree Ashirwad Packers and Movers brings over 15 years of operational excellence in delivering safe, scratch-free, damage-free moving services across Shyamnagar and Greater Jamshedpur.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our signature 7-layer safety packaging system protects all household goods against transit shocks. Heavy-duty 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner protectors, waterproof stretch wrapping, quilted furniture blankets, and custom wooden box crating shield glass dining tables, LED TVs, double beds, refrigerators, and temple altars during loading and transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For Tata Motors executives, industrial employees, bank officers, and defense personnel requiring official claim documentation, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and IBA-approved bill formats valid across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed container trucks and specialized enclosed vehicle carriers outfitted with continuous satellite GPS tracking, cargo tie-down straps, and shock-absorbing rubber padding for highway safety.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our moving team handles unloading, room-by-room placement, unpacking, and complete reassembly of all heavy furniture items, concluding with a detailed joint physical audit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Shyamnagar, shifting to nearby Telco, Baridih, or Golmuri, or relocating outstation to Ranchi, Dhanbad, Kolkata, Patna, or Delhi, Shree Ashirwad Packers and Movers ensures a smooth, stress-free experience. Review our rate matrix, safety protocols, 5-stage workflow, and 20 FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

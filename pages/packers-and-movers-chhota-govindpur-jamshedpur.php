@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Chhota Govindpur Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Chhota Govindpur is a major residential township situated in eastern Jamshedpur, immediately adjacent to the Telco industrial region and Tata Motors manufacturing plant. Home to thousands of industrial employees, Tata Motors supervisors, commercial shop owners, and local families across Anna Chowk, Rahargora, Plaza sector, and Ghorabandha, Chhota Govindpur experiences heavy ongoing demand for zero-damage home moving, corporate relocation, and outstation vehicle transport.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating Chhota Govindpur requires local route mastery to manage colony layout roads, congested market stretches around Anna Chowk, and seamless access to the NH-33 bypass via Telco main artery. Our transport crews schedule loading operations to avoid shift-change traffic near the Tata Motors gate, utilizing compact dedicated container trucks for effortless loading.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        We enforce our signature 7-layer safety packaging system for all local and long-distance relocations from Chhota Govindpur. Heavy 300 GSM air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner guards, waterproof stretch wrapping, and custom wooden box crating protect glass dining tables, LED Smart TVs, mandirs, and high-value appliances against transit vibrations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For Tata Motors workers, Telco ancillary staff, bank officers, teachers, and corporate executives requiring employer reimbursement, we issue 100% authentic 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory lists, and IBA-approved bill formats accepted nationwide.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet consists of sealed weatherproof container trucks equipped with live satellite GPS tracking, internal floor ratchets, and protective padding, guaranteeing complete cargo security and real-time location monitoring throughout the move.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert unloading crew manages careful offloading, stair and elevator navigation, room-by-room item positioning, uncrating, and reassembly of all heavy furniture items. A joint physical inventory inspection ensures total customer satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether shifting locally within Chhota Govindpur or moving outstation to Ranchi, Kolkata, Patna, or Dhanbad, Shree Ashirwad Packers and Movers guarantees fixed transparent quotes, zero hidden fees, and complete transit insurance. Review our 5-stage workflow, 6-card feature grid, safety protocols, pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

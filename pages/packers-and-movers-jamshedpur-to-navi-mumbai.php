@@ -119,31 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Route Overview: Jamshedpur to Navi Mumbai Relocation</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating from Jamshedpur to Navi Mumbai involves a long-distance interstate transit of approximately 1,680 km along the National Highway NH-53 corridor. Whether you are moving household goods, IT equipment, corporate office assets, or personal vehicles, Shree Ashirwad Packers and Movers provides a dedicated, direct closed-container transport service ensuring complete security and guaranteed delivery within 32 to 36 hours.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our intercity logistics setup caters extensively to IT engineers, corporate managers, bank officers, port employees, and industrial personnel moving to key Navi Mumbai nodes including Vashi, Nerul, Belapur, Kharghar, Panvel, Airoli, Ghansoli, Seawoods, Kopar Khairane, and Ulwe. We specialize in handling complex high-rise residential apartment moves requiring service elevator coordination and gated community security clearances.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To withstand highway vibrations over 1,680 kilometers, cargo is packaged using our heavy-duty 7-layer protective system—combining 300 GSM air-bubble wrap, 5-ply corrugated sheets, high-density L-shaped foam edge guards, moisture-proof stretch film, and custom wooden crating for glass tops, mandirs, and LED televisions.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives working at Tata Steel, Tata Motors, Tinplate, Tata Power, and financial institutions, we supply full 18% GST billing compliance, stamped Lorry Receipts (LR), itemized inventory manifests, and IBA-approved bill formats for seamless employer relocation allowance claim reimbursement.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        All transit trucks in our fleet are 100% weather-proof closed container vehicles equipped with live satellite GPS tracking, hydraulic tail-lifts, and internal cargo tie-down ratchets to eliminate any risk of shift damage, rain exposure, or unauthorized access during highway transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Explore our 5-step relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

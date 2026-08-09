@@ -33,7 +33,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </div>
 
-
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">

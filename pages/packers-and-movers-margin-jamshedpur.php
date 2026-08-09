@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Margin Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Margin is a key residential and commercial perimeter corridor situated along the outer ring road loop of central Jamshedpur, connecting Bistupur, Sakchi, Marine Drive, and Sonari. Positioned adjacent to vital industrial and administrative zones, Margin experiences steady residential turnover, corporate officer transfers, and commercial shop relocations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Executing smooth moves in Margin requires specialized logistics coordination due to multi-lane perimeter traffic, arterial junction intersections, and varied housing formats ranging from independent villas to multi-story apartment complexes. Shree Ashirwad Packers and Movers provides full-spectrum relocation solutions across Margin, including household shifting, office relocation, vehicle logistics, and secure warehousing.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To protect cargo against vibration and handling shock during local transfers or long-distance intercity transit, we strictly apply our signature 7-layer packaging protocol. Heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboards, high-density foam corner guards, stretch film moisture wraps, and heavy-duty wooden box crating safeguard glass tops, LED TVs, mandirs, and delicate electronics.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, Tata Steel personnel, bank managers, and defense staff requiring official employer reimbursement, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory lists, and IBA-approved bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transportation fleet comprises all-weather enclosed container trucks fitted with real-time satellite GPS tracking, safety harness systems, and internal padded floor lining, ensuring total goods security and live tracking visibility throughout transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        At the destination residence, our trained crew manages unloading, room-specific placement, uncrating, and reassembly of all heavy furniture items. A final physical verification ensures complete client satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Margin or relocating to Ranchi, Dhanbad, Kolkata, or Patna, Shree Ashirwad Packers and Movers delivers premium quality. Review our 5-stage workflow, rate matrix, safety protocols, and 20 comprehensive FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in New Colony Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        New Colony is an established, high-density residential locality in Jamshedpur, conveniently located near key urban nodes such as Mango link road, Nimdih link corridor, Sakchi access road, and Adityapur transit routes. Characterized by a mix of multi-story apartment complexes, independent housing units, and busy neighborhood commercial markets, New Colony sees continuous movement of families, corporate employees, and shop owners.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating in New Colony requires specialized neighborhood logistics execution to manage narrow access streets, multi-level staircases, and peak-hour traffic along connecting arteries. Shree Ashirwad Packers and Movers delivers complete, hassle-free relocation solutions across New Colony, including domestic house shifting, office relocation, vehicle shipping, and secure long-term warehousing.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guard all belongings against transit vibration, handling friction, and seasonal weather impacts during local or intercity transit, we strictly enforce our signature 7-layer safety packaging system. High-grade 300 GSM air-bubble wraps, 5-ply heavy corrugated cardboards, high-density foam corner cushions, stretch film moisture seals, and wooden crating protect delicate glass tops, electronics, mandirs, and luxury furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate personnel, PSU officers, Tata Group employees, and defense officers who require official relocation expense reimbursements, we supply 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), detailed packing inventory manifests, and IBA-compliant bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transit fleet comprises sealed, all-weather container trucks outfitted with real-time satellite GPS tracking, internal safety tying belts, and protective floor mats, guaranteeing total cargo protection and continuous location monitoring.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our experienced crew carries out careful unloading, room placement, uncrating, and furniture assembly. A joint physical inventory audit is conducted to ensure complete satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are shifting locally within New Colony or moving intercity to Ranchi, Dhanbad, Kolkata, or Patna, trust Shree Ashirwad Packers and Movers for dependable service. Review our 5-stage workflow, rate matrix, safety standards, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

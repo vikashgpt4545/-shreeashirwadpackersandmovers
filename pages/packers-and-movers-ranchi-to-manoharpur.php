@@ -36,7 +36,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </div>
 
-
   <section class="hero-section" style="background:linear-gradient(135deg,#0b132b 0%,#1c2541 100%);padding:60px 0;color:#fff;">
     <div class="container">
       <div style="display:grid;grid-template-columns:1.2fr 0.8fr;gap:40px;align-items:center;">

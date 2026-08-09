@@ -31,7 +31,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </div>
 
-
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
@@ -80,31 +79,6 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
       </div>
-    </div>
-  </section>
-
-  <!-- Specialized Single Item & Luggage Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Specialized Single Item &amp; Part-Load Luggage Shifting Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Transporting a single piece of furniture, a double-door refrigerator, a 65-inch LED TV, or a few student luggage trunks from Jamshedpur no longer requires paying for an entire dedicated moving truck. Shree Ashirwad Packers and Movers introduces budget-friendly <strong>single item luggage shifting in Jamshedpur</strong> utilizing our daily express shared container transport network connecting East Singhbhum to all major Indian cities.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our part-load parcel shifting services cover all residential and commercial localities across Jamshedpur, including Bistupur, Sakchi, Mango, Adityapur, Telco, Sonari, Kadma, Jugsalai, Golmuri, and Baridih. Whether you are a college student moving from XLRI Jamshedpur or NIT Jamshedpur, a working professional transferring jobs, or a family sending a single antique furniture piece to relatives, our service guarantees 100% safe doorstep pickup and doorstep delivery.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Unlike unorganized luggage couriers, every single item handled by Shree Ashirwad Packers receives our signature 7-layer protective packaging—including heavy-duty air-bubble film, corrugated cardboard corner armor, poly-stretch film, and custom wooden box crating for glass and electronics. Each parcel is assigned a unique tracking consignment note (LR copy) backed by real-time satellite GPS truck monitoring.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our shared container trucks run daily schedules connecting Jamshedpur to Ranchi, Dhanbad, Bokaro, Kolkata, Patna, Bhubaneswar, Delhi NCR, Bangalore, Pune, and Mumbai. By consolidating multiple partial shipments into unified heavy transport vehicles, we drastically reduce transit costs while maintaining the highest level of security, handling care, and punctual delivery timelines.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        All part-load transactions are backed by official GST invoices, clear LR consignment bills, and dedicated customer support support representatives. We take away the hassle of hiring local tempos or negotiating with railway parcel offices by managing complete loading, lashing, transit, and door-step unloading at destination.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Experience seamless, low-cost part-load relocation with zero hidden charges. Review our single item rate charts, protective packaging standards, and booking procedure below.
-      </p>
     </div>
   </section>
 

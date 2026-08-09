@@ -124,7 +124,6 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-patna" title="Deoghar to Patna Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Patna Shifting &rarr;</a></div>
       </div>
 
-      
   <!-- Expanded Section: 7-Layer Highway Protective Packaging Specifications -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
     <div class="container" style="max-width: 950px;">

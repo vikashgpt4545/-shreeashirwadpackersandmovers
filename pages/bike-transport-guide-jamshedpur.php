@@ -33,7 +33,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </div>
 
-
   <!-- Hero Section -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
@@ -82,37 +81,6 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
       </div>
-    </div>
-  </section>
-
-  <!-- Specialized Bike Transport Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Scratch-Proof Bike Shipping &amp; Two-Wheeler Courier Logistics Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Transporting your motorcycle, gear scooter, heavy cruiser, or electric bike from Jamshedpur to any destination in India requires professional multi-layer packaging and secure transit containment. Shree Ashirwad Packers and Movers provides specialized <strong>bike transport guide services in Jamshedpur</strong> using scratch-proof 4-layer wrapping, fuel safety drain protocols, and dedicated enclosed container vehicles.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our two-wheeler shipping network covers all residential and industrial neighborhoods across East Singhbhum including Bistupur, Sakchi, Mango, Adityapur, Telco, Sonari, Kadma, Jugsalai, Golmuri, Baridih, and Sundarnagar. We connect Jamshedpur with daily scheduled bike courier container trips to major cities like Kolkata, Ranchi, Patna, Bhubaneswar, Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, and Chennai.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Unlike train parcel offices or unorganized local transporters where bikes suffer from scratched petrol tanks, broken indicators, and bent brake levers, our trained crew wraps your motorcycle in high-density air-bubble sheets, corrugated paper sheets on body panels, and a heavy waterproof stretch film sheath.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Before loading, a detailed joint vehicle condition report is recorded, documenting existing kilometer readings, battery condition, fuel level, and body paint quality. To comply with national highway transport fire safety norms, petrol tanks are safely drained to under 1 liter before loading into covered container trucks.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Inside our covered container trucks, every bike is secured in an upright position using 4-point heavy-duty nylon ratchet tie-down straps anchored to truck side rails, preventing side tilting or metal-on-metal friction during long-distance highway travel.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives transferring from Tata Motors, Tata Steel, or Uranium Corporation of India (UCIL), our bike transportation bills and Lorry Receipts (LR) are recognized for official IBA-approved company relocation allowance claims.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        We also offer real-time GPS tracking so vehicle owners receive active location updates from the moment of doorstep pickup in Jamshedpur until final delivery at the target destination city.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Explore our complete two-wheeler category guide, packaging standards, city-wise route rate matrix, document checklist, and bike transport FAQs below.
-      </p>
     </div>
   </section>
 

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Loyabad Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Loyabad is a thriving residential locality positioned off Dimna Road in Mango, northern Jamshedpur. Connected seamlessly to the NH-33 bypass, Subarnarekha River bridge, Ulidih, and Dimna Lake road, Loyabad is a rapidly expanding residential hub hosting independent houses, housing societies, private apartments, and commercial retail shops.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our packing and moving operations in Loyabad are structured to provide hassle-free relocations across narrow neighborhood lanes as well as major arterial roads. We specialize in complete household shifting, commercial office moving, custom bike transportation, and enclosed car carrier shipping locally within Jamshedpur or outstation to Ranchi, Dhanbad, Kolkata, Patna, and across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To ensure total physical protection during transit over national highways, we enforce our signature 7-layer safety packaging protocol. Heavy multi-layered wrapping using 300 GSM air-bubble rolls, 5-ply corrugated sheets, foam corner guards, stretch wrap moisture barriers, and custom wooden box crating protects glass dining tables, LED TVs, mandirs, and delicate home decor.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate employees, Tata Group personnel, bank officers, and defense personnel requiring official employer reimbursement, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-compliant bills.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed enclosed container trucks equipped with live GPS satellite tracking and internal cargo safety tie-downs, guaranteeing total cargo protection and real-time visibility throughout transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination residence, our professional unloading crew manages careful offloading, staircase/elevator handling, room-wise placement, uncrating, and reassembly of all heavy furniture items. A joint physical inventory inspection ensures total peace of mind.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are shifting locally within Loyabad Colony or relocating outstation, Shree Ashirwad Packers and Movers guarantees punctual, transparent, and stress-free service. Explore our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

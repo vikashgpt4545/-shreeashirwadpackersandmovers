@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Chakradharpur Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Chakradharpur is a vital railway divisional headquarters of South Eastern Railway in West Singhbhum district, located 85 km west of Jamshedpur along major rail and road arteries. Hosting the Divisional Railway Manager (DRM) Office, extensive Railway Colony quarters, loco sheds, hospital complexes, and commercial markets, shifting in Chakradharpur requires specialized regional logistics handling and secure long-haul transport.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage across Chakradharpur encompasses Railway Officers Colony, North Colony, South Colony, Chaibasa Road, Main Market, Asantalia, and surrounding residential sectors. We cater to railway officers, central government personnel, state officials, and private residents across West Singhbhum.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To shield household goods against regional transit shock and road vibrations, all items are protected using our signature 7-layer safety packaging—incorporating heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam edge protectors, waterproof stretch film, and sturdy wooden crate framing for glass items, LED TVs, mandirs, and heavy teak furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For railway executives, government officers, bank managers, and corporate employees requiring official transfer reimbursement, we provide 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory manifests, and IBA-approved bill documentation recognized across all public sector and railway finance departments.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-proof sealed container trucks, specialized covered car carriers, and heavy-duty loading gear equipped with real-time satellite GPS tracking and interior cargo tie-down ratchets for safe long-distance transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our trained unloading crew manages careful offloading, room placement, wooden crate uncrating, and reassembly of all disassembled furniture. A complete joint inventory check is conducted prior to final sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Chakradharpur Railway Division or relocating long-distance across India, Shree Ashirwad Packers and Movers guarantees timely execution, dedicated move coordinator assistance, and zero transit damage. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below for comprehensive logistics details.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

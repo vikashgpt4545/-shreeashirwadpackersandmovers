@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Noamundi Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Noamundi is a major iron ore mining township in West Singhbhum district, operating as a key industrial center under Tata Steel. The area hosts extensive Tata Steel Officers Colonies, employee quarters, administrative complexes, Noamundi Club, and surrounding commercial settlements along the Chaibasa-Jamshedpur highway corridor. Due to frequent corporate transfers, executive reassignments, and family relocations, Noamundi requires structured logistics solutions.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Executing successful moves in Noamundi demands dedicated planning to navigate regional highway connections, mining entry access protocols, and long-distance inter-district routes. Shree Ashirwad Packers and Movers offers full-service relocation solutions in Noamundi, covering domestic house shifting, mining corporate transfers, vehicle shipping, and secure warehouse storage.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guard goods against vibration, road dust, and transit shock over long-haul mining highways, we strictly apply our signature 7-layer safety packaging protocol. Heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, high-density foam corner guards, waterproof stretch film, and sturdy wooden crates protect delicate electronics, glass furniture, mandirs, and appliances.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For Tata Steel employees, mining engineers, government officials, and corporate staff eligible for company relocation claims, we provide 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), detailed packing inventory lists, and IBA-approved bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transportation fleet features sealed, all-weather container trucks equipped with continuous satellite GPS tracking, inner safety tie-downs, and padded flooring, providing full security and live location visibility throughout transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        At destination, our crew handles unloading, room-wise placement, unpacking, and complete reassembly of all heavy furniture items, followed by a final physical audit to ensure complete customer satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Noamundi or relocating to Jamshedpur, Ranchi, Dhanbad, Kolkata, or Patna, Shree Ashirwad Packers and Movers ensures a seamless transition. Explore our 5-stage workflow, rate matrix, safety protocols, and 20 comprehensive FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

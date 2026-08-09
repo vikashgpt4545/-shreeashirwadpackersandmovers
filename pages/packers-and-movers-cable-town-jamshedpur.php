@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Cable Town Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Cable Town is a prominent historical industrial residential colony situated in Golmuri near Tinplate Company, Incab Cable plant premises, Tuiladungri, and Namda Community Center in eastern Jamshedpur. Relocating residential quarters, company bungalows, commercial shops, or vehicle assets from Cable Town demands specialized packing standards, neighborhood vehicle navigation, and disciplined logistics execution.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Cable Town encompasses Cable Town Main Road, Incab Gate border, Golmuri Link Road, Tinplate colony border, Namda Community Center area, and surrounding residential lanes. We coordinate loading permits, gate passes, and vehicle parking clearances for smooth local and outstation relocations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee complete protection against transit vibrations and rough roads, all items receive our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner protectors, stretch film moisture barrier, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and delicate artifacts.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate employees, industrial workers, bank staff, defence personnel, and government officers claiming official transfer reimbursement, we provide 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory sheets, and IBA-approved bill documentation recognized across corporate HR departments.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed container trucks, specialized enclosed car transport carriers, and city feeder trucks equipped with real-time satellite GPS tracking, floor tie-down ratchets, and heavy-duty loading ramps for smooth operations across Cable Town.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our trained unloading crew handles careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. We conduct a joint inventory check to ensure complete satisfaction before final sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

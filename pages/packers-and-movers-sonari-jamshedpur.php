@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Sonari Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Sonari is one of the premier, sprawling residential sectors of Jamshedpur, situated along the picturesque Subarnarekha and Kharkai River bank near Marine Drive and Sonari Aerodrome. Comprising key sub-localities such as Kagalnagar, West Layout, Aerodrome Road, and Circuit House link, Sonari features upscale executive bungalows, modern gated apartment complexes, and Tata Steel residential colonies.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Relocating executive residences, multi-story apartments, and commercial offices in Sonari requires high operational precision to manage tight colony access gates, elevator restrictions, and busy traffic along Marine Drive. Shree Ashirwad Packers and Movers provides bespoke white-glove relocation services tailored for Sonari residents, Tata officers, corporate personnel, and business owners.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our signature 7-layer safety packaging protocol guarantees complete protection for high-value items during transit. Multi-density 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, shock-absorbing foam corner caps, waterproof stretch film, heavy quilted fabric blankets, and custom wooden crating safeguard fragile chandeliers, glass dining tables, wooden mandirs, and large OLED screens against shocks.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives and defense personnel claiming official relocation allowances, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and IBA-approved bill formats compliant with company policies across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our vehicle fleet comprises sealed, weather-proof closed container trucks and hydraulic enclosed car carriers outfitted with live satellite GPS tracking systems, safety cargo belts, and protective floor carpeting for smooth interstate transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert crew performs careful unloading, room placement, unpacking, and complete reassembly of all heavy furniture items, concluding with a comprehensive physical audit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are shifting locally within Sonari, moving to neighboring Kadma or Bistupur, or relocating intercity to Ranchi, Dhanbad, Kolkata, Patna, or Delhi, Shree Ashirwad Packers and Movers delivers an uncompromised service experience. Review our rate matrix, safety protocols, 5-stage workflow, and 20 FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

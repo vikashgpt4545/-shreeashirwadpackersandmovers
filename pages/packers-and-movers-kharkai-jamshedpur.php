@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Kharkai Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Kharkai is a prominent residential and riverside corridor located along the Kharkai River in Jamshedpur. Positioned strategically between Kadma, Sonari, Marine Drive, and the Adityapur Bridge link, Kharkai hosts luxury apartment complexes, residential housing societies, riverside enclaves, and commercial establishments. Its scenic location and vital bridge connections make it a major residential transit zone in urban Jamshedpur.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our packing and moving operations in Kharkai are structured to deliver seamless relocations across high-rise apartments, multi-floor residential societies, and riverside villas. We specialize in complete household shifting, executive office relocations, custom two-wheeler bike shipping, and enclosed car carrier transport locally within Jamshedpur or outstation to Ranchi, Dhanbad, Kolkata, Patna, and across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee complete protection against transit shocks and humidity along riverside roadways, we enforce our signature 7-layer safety packaging protocol. This system includes 300 GSM heavy air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner guards, stretch wrap moisture barriers, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and valuable home decor.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, bank personnel, Tata group employees, and private professionals requiring official employer relocation reimbursement, we provide 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized packing inventories, and IBA-compliant bill documentation.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed enclosed container trucks equipped with live satellite GPS tracking and internal cargo tie-down safety straps, ensuring real-time visibility and physical security throughout the moving process.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination home, our professional unloading crew handles careful offloading, elevator/staircase handling, room-wise item placement, uncrating, and reassembly of all heavy furniture items. A joint physical inventory inspection ensures total peace of mind.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving between apartments in Kharkai Enclave or transferring across Jharkhand, Shree Ashirwad Packers and Movers guarantees punctual, transparent, and stress-free service. Explore our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

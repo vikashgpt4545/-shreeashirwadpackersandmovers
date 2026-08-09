@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Dhalbhumgarh Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Dhalbhumgarh is an important block headquarters and transit township in East Singhbhum district, located along the major National Highway 18 (NH-18) corridor connecting Jamshedpur (60 km) with Ghatsila, Chakulia, and the West Bengal highway border. Famous for its World War II historic airfield grounds, rural commercial markets, government offices, and agricultural trading hubs, relocation in Dhalbhumgarh requires experienced regional logistics management, secure highway packing standards, and dedicated transport crews.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Dhalbhumgarh encompasses Main Bazaar, Airfield area, Station Road, NH-18 highway bypass, Kokpara link, and surrounding rural Panchayats. We serve government employees, bank managers, school teachers, local traders, and families relocating locally within East Singhbhum or long-distance to Kolkata, Ranchi, and major Indian metros.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To ensure complete cargo protection against regional highway vibration and long-distance transit hazards, all items receive our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner protectors, stretch film moisture wrapping, and custom wooden box crating for glass tables, LED TVs, mandirs, and heavy wooden furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For government officers, railway personnel, bank executives, and corporate staff claiming official relocation expense reimbursement, we provide 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill documentation recognized across government departments and corporate HR offices.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed container trucks, specialized enclosed car carriers, and dedicated city pick-up vehicles equipped with real-time satellite GPS tracking and floor tie-down ratchets for safe regional and intercity transport.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our trained unloading crew handles careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. A comprehensive joint inventory check is performed prior to final customer sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are planning a local house move in Dhalbhumgarh or an intercity relocation across Jharkhand and West Bengal, Shree Ashirwad Packers and Movers guarantees punctual arrival, dedicated move coordinator assistance, and zero damage delivery. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below for full operational details.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Ulidih Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Ulidih is a prominent and densely populated residential sector situated in northern Mango, Jamshedpur. Encompassing active residential pockets such as Shankosai Road, Tanki Road, Post Office Road, and Jawaharnagar extensions, Ulidih is home to multi-story apartments, independent duplex homes, and busy local retail marketplaces.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating household moves or office shifting in Ulidih requires expert local knowledge to manage narrow inner lanes, tight residential alleyways, and overhead cable obstructions. Shree Ashirwad Packers and Movers brings over 15 years of continuous operational expertise in conducting smooth, zero-damage relocations throughout Ulidih and Greater Mango.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our signature 7-layer safety packaging protocol guarantees complete physical defense for all household belongings and fragile equipment. High-density 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner protectors, waterproof stretch wrapping, heavy quilted blankets, and custom wooden box crating protect glass dining tables, LED TVs, double beds, refrigerators, and temple altars against road shocks and bumps.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For corporate executives, government officers, and Tata group employees claiming official relocation allowances, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), money receipts, and IBA-approved bill formats valid across India.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet features weather-sealed container trucks and specialized enclosed vehicle carriers outfitted with continuous satellite GPS tracking systems, safety cargo belts, and padded flooring for secure highway transit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert crew carries out careful unloading, room-wise placement, unpacking, and complete reassembly of all heavy furniture items, concluding with a detailed joint physical audit.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Ulidih, shifting to nearby Azadnagar or Dimna, or relocating intercity to Ranchi, Dhanbad, Kolkata, Patna, or Pune, Shree Ashirwad Packers and Movers guarantees a hassle-free experience. Review our rate matrix, safety protocols, 5-stage workflow, and 20 FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

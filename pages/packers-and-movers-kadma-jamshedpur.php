@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Kadma Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Kadma is one of Jamshedpur's largest and most established residential hubs, bounded by Marine Drive to the north and West Park to the east. Kadma encompasses prominent sub-localities including Uliyan, Bhatia Park, Farm Area, Ramdas Bhatta, Vijaya Heritage, Rankini Mandir area, and Marine Drive residential apartments. It houses a blend of TATA Steel company quarters, luxury high-rise apartments, independent bungalows, and bustling local markets.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage across Kadma extends through Marine Drive express corridor, Kadma Market Chowk, Uliyan Main Road, Bhatia Park Colony, Farm Area, and Sonari-Kadma Link Road. We specialize in household shifting, corporate employee relocations, apartment stairwell and elevator logistics, bike transportation, and closed car carrier shipping locally in Jamshedpur or long-distance to Kolkata, Ranchi, Dhanbad, Patna, and nationwide.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To ensure total protection for high-value home appliances, premium wooden furniture, glass showcases, and delicate decor items during transit, we enforce our signature 7-layer safety packaging system. This process utilizes 300 GSM heavy air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner bumpers, stretch wrap moisture barriers, and tailor-made wooden box crates for fragile electronics, mandirs, and marble tops.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For TATA Group employees, defence personnel, government officers, and corporate executives requiring official relocation reimbursement, we issue 100% genuine 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory lists, and IBA-approved bill formats compliant with corporate HR audit specifications.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our fleet consists of modern, weather-proof enclosed container trucks, specialized vehicle transports, and city mini-trucks fitted with real-time satellite GPS tracking and interior floor tie-down ratchets for maximum stability along urban streets and national highways.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your new destination, our trained unloading team manages complete offloading, room-specific placement, wooden box uncrating, and full reassembly of all disassembled beds, wardrobes, and dining tables. A thorough joint inventory verification is conducted prior to final job sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are moving locally within Kadma or relocating intercity to Ranchi, Kolkata, Dhanbad, or Patna, Shree Ashirwad Packers and Movers delivers punctual service, transparent pricing, and zero-damage execution. Explore our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 location-specific FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Dhatkidih Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Dhatkidih is a centrally situated, high-density residential and commercial locality in Jamshedpur, conveniently positioned between the major commercial hub of Bistupur, the residential sectors of Kadma, and the medical campus of Tata Main Hospital (TMH). Known for its medical housing quarters, bustling local markets, educational institutes, and close proximity to Tata Steel works, relocation in Dhatkidih requires precision navigating narrow residential lanes, apartment stairwells, and busy main market traffic.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our operational coverage in Dhatkidih includes Main Market road, TMH Medical Officers Colony, Bistupur Link road, Straight Mile Road intersection, Kadma border, and surrounding residential apartment complexes. We cater to hospital doctors, medical staff, Tata Steel executives, commercial shop owners, and local families moving locally within Jamshedpur or long-distance to Ranchi, Patna, Kolkata, and nationwide destinations.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        To guarantee complete protection for your home or office goods during urban loading and transit, all items receive our signature 7-layer safety packaging—utilizing heavy 300 GSM air-bubble wrap, 5-ply corrugated cardboard sheets, foam corner guards, stretch film moisture wrapping, and custom wooden box crating for glass dining tables, LED TVs, mandirs, and heavy wooden furniture.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For medical professionals, Tata Steel employees, bank officers, and corporate staff claiming official relocation expense reimbursement, we provide 100% compliant 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory slips, and IBA-approved bill documentation recognized across corporate HR departments and public sector institutions.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet includes weather-sealed container trucks, specialized enclosed car carriers, and dedicated city pick-up vehicles equipped with real-time satellite GPS tracking and floor tie-down ratchets for safe regional and intercity transport.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at your destination, our trained unloading crew handles careful offloading, room-specific placement, wooden box uncrating, and reassembly of all disassembled furniture. A comprehensive joint inventory check is performed prior to final customer sign-off.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether you are planning a local house move in Dhatkidih or an intercity relocation across Jharkhand and Bihar, Shree Ashirwad Packers and Movers guarantees punctual arrival, dedicated move coordinator assistance, and zero damage delivery. Review our 5-stage relocation workflow, 6-card feature grid, safety protocols, route pricing matrix, and 20 detailed FAQs below for full operational details.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">

@@ -119,34 +119,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 1: Technical Overview Box -->
-  <section style="padding: 50px 0; background: linear-gradient(145deg, #0b132b 0%, #172a54 100%); border-bottom: 1px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 14px;">Technical Overview: Professional Relocation Services in Gamharia Jamshedpur</h3>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Gamharia is a major industrial township and expanding residential sector located along the Tata-Kandra main road in the western peripheral corridor of Greater Jamshedpur. Home to heavy industrial manufacturing plants, auto-ancillary workshops, Usha Martin units, Tayo Rolls colonies, and modern housing complexes, Gamharia generates heavy ongoing demand for zero-damage home moving, corporate relocation, factory machinery transport, and outstation vehicle freight.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Navigating Gamharia requires specialized logistical expertise to handle heavy industrial truck traffic along the Tata-Kandra highway, access residential housing colonies around Tayo and Usha Martin, and manage narrow lane loading in interior Gamharia villages. Our logistics teams time move schedules to bypass industrial shift-change rush hours, deploying compact dedicated container trucks for seamless residential access.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        We enforce our signature 7-layer safety packaging system for all local and long-distance relocations from Gamharia. Heavy 300 GSM air-bubble rolls, 5-ply corrugated cardboard sheets, foam corner guards, waterproof stretch wrapping, and custom wooden box crating protect glass dining tables, LED Smart TVs, mandirs, and high-value appliances against transit vibrations on regional highways.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        For industrial plant engineers, Tata AutoComp staff, factory managers, bank officers, teachers, and corporate executives requiring employer reimbursement, we issue 100% authentic 18% GST invoices, stamped Lorry Receipts (LR), itemized inventory lists, and IBA-approved bill formats accepted nationwide.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Our transport fleet consists of sealed weatherproof container trucks equipped with live satellite GPS tracking, internal floor ratchets, and protective padding, guaranteeing complete cargo security and real-time location monitoring throughout the move.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 14px;">
-        Upon arrival at destination, our expert unloading crew manages careful offloading, stair and elevator navigation, room-by-room item positioning, uncrating, and reassembly of all heavy furniture items. A joint physical inventory inspection ensures total customer satisfaction.
-      </p>
-      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
-        Whether shifting locally within Gamharia or moving outstation to Ranchi, Kolkata, Patna, or Dhanbad, Shree Ashirwad Packers and Movers guarantees fixed transparent quotes, zero hidden fees, and complete transit insurance. Review our 5-stage workflow, 6-card feature grid, safety protocols, pricing matrix, and 20 detailed FAQs below.
-      </p>
-    </div>
-  </section>
-
   <!-- Section 2: Stats Bar -->
   <section style="padding: 35px 0; background: #070d19; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
