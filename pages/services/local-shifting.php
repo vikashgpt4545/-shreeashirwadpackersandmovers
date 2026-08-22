@@ -4,7 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Local Shifting Services in India 8409531615";
 $page_desc = "Fast same-day local shifting services across Indian cities. Shree Ashirwad Packers and Movers offers quick packing, city-permitted trucks, transparent rates, and zero hidden fees. Call 8409531615. Complete door-to-door relocation coverage across Services, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "local shifting, best local shifting, affordable local shifting, packers and movers, packers and movers in ranchi, top local shifting company, household shifting local shifting, doorstep local shifting, verified local shifting services, shree ashirwad local shifting";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/local-shifting.php";
+$canonical_url = SITE_URL . "services/local-shifting";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>

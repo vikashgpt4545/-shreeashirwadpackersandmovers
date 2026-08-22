@@ -4,7 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Household Shifting Services in India 8409531615";
 $page_desc = "Reliable household shifting services across India. Shree Ashirwad Packers and Movers provides expert home packing, furniture disassembly, container transport, and transit insurance. Call 8409531615. Complete door-to-door relocation coverage across Services, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "household shifting, best household shifting, affordable household shifting, packers and movers, packers and movers in ranchi, top household shifting company, household shifting household shifting, doorstep household shifting, verified household shifting services, shree ashirwad household shifting";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/household-shifting.php";
+$canonical_url = SITE_URL . "services/household-shifting";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>

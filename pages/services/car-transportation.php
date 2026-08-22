@@ -4,7 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Car Transportation Services in India 8409531615";
 $page_desc = "Professional door-to-door car transportation services in India. Shree Ashirwad Packers and Movers offers enclosed car carriers, GPS tracking, vehicle inspection, and full transit insurance. Call 8409531615. Complete door-to-door relocation coverage across Services, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "car transportation, best car transportation, affordable car transportation, packers and movers, packers and movers in ranchi, top car transportation company, household shifting car transportation, doorstep car transportation, verified car transportation services, shree ashirwad car transportation";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/car-transportation.php";
+$canonical_url = SITE_URL . "services/car-transportation";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>

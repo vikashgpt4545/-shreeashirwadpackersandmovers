@@ -60,11 +60,21 @@
     # e.g., /packers-and-movers-in-ranchi -> pages/packers-and-movers-in-ranchi.php
     # e.g., /services/car-transportation -> pages/services/car-transportation.php
     # e.g., /packers-movers-india/madhya-pradesh/dewas -> pages/packers-movers-india/madhya-pradesh/dewas.php
-    RewriteCond %{DOCUMENT_ROOT}/pages/$1.php -f
+    RewriteCond %{DOCUMENT_ROOT}/pages/$1.php -f [OR]
+    RewriteCond pages/$1.php -f
     RewriteRule ^(.+?)/?$ pages/$1.php [L,QSA]
 
     # Custom 404 Error Page
     ErrorDocument 404 /pages/404.php
+</IfModule>
+
+# Prevent caching of sitemap XML files so changes update immediately
+<IfModule mod_headers.c>
+    <FilesMatch "(sitemap\.xml|sitemap.*\.xml)$">
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+        Header set Pragma "no-cache"
+        Header set Expires 0
+    </FilesMatch>
 </IfModule>
 
 # Enable Browser Caching (Expires Headers & Cache-Control for 1 year / 365 days)
