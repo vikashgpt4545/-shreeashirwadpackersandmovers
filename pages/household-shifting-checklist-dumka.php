@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Ultimate Household Shifting Checklist for Dumka Relocation";
 $page_desc = "Complete step-by-step household shifting checklist for residents in Dumka. Plan your move 30 days ahead with expert packing and moving tips.";
 $page_keywords = "household shifting checklist dumka, house moving checklist dumka, home relocation guide dumka, shifting planner dumka, packing tips dumka, moving preparation dumka, pre move checklist dumka, smooth shifting guide, stress free moving dumka, luggage packing list dumka, utility transfer checklist, moving day guide dumka, inventory list packing, home shifting schedule, relocation checklist dumka";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/household-shifting-checklist-dumka.php";
 
 $page_city = "Dumka";
 $page_locality = "District-wide Dumka";

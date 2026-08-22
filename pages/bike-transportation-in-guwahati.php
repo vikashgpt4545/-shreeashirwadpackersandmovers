@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Guwahati | Safe Two-Wheeler Shifting Assam";
 $page_desc = "Professional bike transportation in Guwahati. Doorstep two-wheeler shifting in the Gateway to Northeast with 4-layer monsoon-proof packing and transit insurance.";
-$page_keywords = "bike transportation in guwahati, best bike transportation in guwahati, affordable bike transportation in guwahati, packers and movers, packers and movers in ranchi, top bike transportation in guwahati company, household shifting bike transportation in guwahati, doorstep bike transportation in guwahati, verified bike transportation in guwahati services, shree ashirwad bike transportation in guwahati";
+$page_keywords = "bike transportation in guwahati, best bike transportation in guwahati, affordable bike transportation in guwahati, packers and movers, top bike transportation in guwahati company, household shifting bike transportation in guwahati, doorstep bike transportation in guwahati, verified bike transportation in guwahati services, shree ashirwad bike transportation in guwahati";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-guwahati.php";
 
 require_once __DIR__ . '/../includes/header.php';

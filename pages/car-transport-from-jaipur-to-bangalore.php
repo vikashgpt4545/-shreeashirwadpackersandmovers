@@ -2,7 +2,7 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transport from Jaipur to Bangalore | Safe Auto Carrier";
-$page_desc = "Secure car transport from Jaipur to Bangalore. Certified open & enclosed car carriers, door-to-door shipping, real-time GPS tracking, and comprehensive transit insurance. Complete door-to-door relocation coverage across Koramangala, Indiranagar, Whitefield, HSR Layout, Electronic City.";
+$page_desc = "Secure car transport from Jaipur to Bangalore. Certified open & enclosed car carriers, door-to-door shipping, real-time GPS tracking, and comprehensive transit insurance across Jaipur to Bangalore route. Complete door-to-door relocation coverage across Koramangala, Indiranagar, Whitefield, HSR Layout, Electronic City.";
 $page_keywords = "car transport from jaipur to bangalore, best car transport from jaipur to bangalore, affordable car transport from jaipur to bangalore, packers and movers, packers and movers in ranchi, top car transport from jaipur to bangalore company, household shifting car transport from jaipur to bangalore, doorstep car transport from jaipur to bangalore, verified car transport from jaipur to bangalore services, shree ashirwad car transport from jaipur to bangalore";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transport-from-jaipur-to-bangalore.php";
 

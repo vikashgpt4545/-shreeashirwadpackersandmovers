@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Siliguri | Safe Shifting West Bengal";
 $page_desc = "Professional two-wheeler relocation in Siliguri, West Bengal. Insured doorstep transport with 4-layer packaging to guard against Mahananda river silt, winter fog moisture, and foothill highway vibrations.";
-$page_keywords = "bike transportation in siliguri, best bike transportation in siliguri, affordable bike transportation in siliguri, packers and movers, packers and movers in ranchi, top bike transportation in siliguri company, household shifting bike transportation in siliguri, doorstep bike transportation in siliguri, verified bike transportation in siliguri services, shree ashirwad bike transportation in siliguri";
+$page_keywords = "bike transportation in siliguri, best bike transportation in siliguri, affordable bike transportation in siliguri, packers and movers, top bike transportation in siliguri company, household shifting bike transportation in siliguri, doorstep bike transportation in siliguri, verified bike transportation in siliguri services, shree ashirwad bike transportation in siliguri";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-siliguri.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,29 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Logistics Guide & Local Information -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Bike Transportation Services in Siliguri, West Bengal</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides secure and professional two-wheeler relocation services across Siliguri and neighboring regions in West Bengal. Whether you are moving a commuter motorcycle, scooter, or premium superbike, our dedicated bike transport team ensures scratch-free, doorstep delivery.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Local Transport Corridors & RTO Compliance</h3>
+        <p style="margin-bottom: 20px;">
+          Siliguri vehicles are registered under WB-74 RTO; key freight connectivity via NH-27, NH-10 (Sikkim route), and NH-31. Highlight Fulbari Truck Terminal, Matigara, Salugara, Air View More, and Junction logistics corridors.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Vehicle Safety & Multi-Layer Packaging Standards</h3>
+        <p style="margin-bottom: 20px;">
+          7-layer bubble wrap, moisture-resistant film against winter fog, handlebar cushioning, and fuel tank draining. Every bike undergoes pre-transit inspection, fuel draining procedures, bubble wrapping, corrugated sheet encasing, and heavy-duty nylon belt lashing inside closed motor carriers.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

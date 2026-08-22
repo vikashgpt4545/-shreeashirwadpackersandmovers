@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Ahmedabad 8409531615";
 $page_desc = "Reliable car transportation in Ahmedabad. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in ahmedabad, best car transportation in ahmedabad, affordable car transportation in ahmedabad, packers and movers, packers and movers in ranchi, top car transportation in ahmedabad company, household shifting car transportation in ahmedabad, doorstep car transportation in ahmedabad, verified car transportation in ahmedabad services, shree ashirwad car transportation in ahmedabad";
+$page_keywords = "car transportation in ahmedabad, best car transportation in ahmedabad, affordable car transportation in ahmedabad, packers and movers, top car transportation in ahmedabad company, household shifting car transportation in ahmedabad, doorstep car transportation in ahmedabad, verified car transportation in ahmedabad services, shree ashirwad car transportation in ahmedabad";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-ahmedabad.php";
 
 require_once __DIR__ . '/../includes/header.php';

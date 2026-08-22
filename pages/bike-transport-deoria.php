@@ -4,7 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Bike Transport in Deoria  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Deoria? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Bike Transport Deoria, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "bike transport deoria, best bike transport deoria, affordable bike transport deoria, packers and movers, packers and movers in ranchi, top bike transport deoria company, household shifting bike transport deoria, doorstep bike transport deoria, verified bike transport deoria services, shree ashirwad bike transport deoria";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-deoria.php";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/bike-transportation-in-deoria";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>

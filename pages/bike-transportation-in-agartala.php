@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Agartala | Safe Two-Wheeler Shifting Tripura";
 $page_desc = "Planning bike transportation in Agartala, Tripura? Get safe, insured, and doorstep motorcycle shifting. High-quality multi-layer packing and real-time tracking.";
-$page_keywords = "bike transportation in agartala, best bike transportation in agartala, affordable bike transportation in agartala, packers and movers, packers and movers in ranchi, top bike transportation in agartala company, household shifting bike transportation in agartala, doorstep bike transportation in agartala, verified bike transportation in agartala services, shree ashirwad bike transportation in agartala";
+$page_keywords = "bike transportation in agartala, best bike transportation in agartala, affordable bike transportation in agartala, packers and movers, top bike transportation in agartala company, household shifting bike transportation in agartala, doorstep bike transportation in agartala, verified bike transportation in agartala services, shree ashirwad bike transportation in agartala";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-agartala.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Agartala Tripura Bike Shipping Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Agartala Two-Wheeler Logistics & North-East Transit</h2>
+        <p style="margin-bottom: 20px;">
+          Agartala is Tripura's capital city and a key strategic hub connecting North-East India along NH-8. Shree Ashirwad Packers and Movers provides safe, insured bike transport covering Banamalipur, Dhaleswar, GB Bazar, Kunjaban, and Badharghat.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Long-Distance Packaging & TR-01 Documentation</h3>
+        <p style="margin-bottom: 20px;">
+          All motorcycles departing Agartala are shielded using heavy-duty 7-layer bubble wrapping, foam padding, and corrugated crates. Complete TR-01 Tripura RTO documentation and inter-state permits are cleared prior to dispatch.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

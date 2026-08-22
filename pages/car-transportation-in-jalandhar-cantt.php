@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Jalandhar Cantt. 8409531615";
 $page_desc = "Reliable car transportation in Jalandhar Cantt.. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in jalandhar cantt, best car transportation in jalandhar cantt, affordable car transportation in jalandhar cantt, packers and movers, packers and movers in ranchi, top car transportation in jalandhar cantt company, household shifting car transportation in jalandhar cantt, doorstep car transportation in jalandhar cantt, verified car transportation in jalandhar cantt services, shree ashirwad car transportation in jalandhar cantt";
+$page_keywords = "car transportation in jalandhar cantt, best car transportation in jalandhar cantt, affordable car transportation in jalandhar cantt, packers and movers, top car transportation in jalandhar cantt company, household shifting car transportation in jalandhar cantt, doorstep car transportation in jalandhar cantt, verified car transportation in jalandhar cantt services, shree ashirwad car transportation in jalandhar cantt";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-jalandhar-cantt.php";
 
 require_once __DIR__ . '/../includes/header.php';

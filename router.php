@@ -16,21 +16,40 @@ if (empty($cleanUri)) {
     exit;
 }
 
-// 3. Route /slug -> pages/slug.php
-$pageFile = __DIR__ . '/pages/' . $cleanUri . '.php';
+// Normalize slug by removing leading 'pages/' and trailing '.php'
+$slug = $cleanUri;
+if (strpos($slug, 'pages/') === 0) {
+    $slug = substr($slug, 6);
+}
+if (substr($slug, -4) === '.php') {
+    $slug = substr($slug, 0, -4);
+}
+
+// 3. Route /slug or /pages/slug.php -> pages/slug.php
+$pageFile = __DIR__ . '/pages/' . $slug . '.php';
 if (file_exists($pageFile)) {
     require $pageFile;
     exit;
 }
 
-// 4. Route /pages/slug.php directly if requested
+// 4. Route direct file if requested
 $directPage = __DIR__ . '/' . $cleanUri;
 if (file_exists($directPage) && !is_dir($directPage)) {
     require $directPage;
     exit;
 }
 
-// 5. Route blog posts -> pages/blog/slug.php
+// 5. Smart Fallback for guide <-> checklist variations
+$altSlug = str_replace(['-guide-', '-checklist-'], ['-checklist-', '-guide-'], $slug);
+if ($altSlug !== $slug) {
+    $altPageFile = __DIR__ . '/pages/' . $altSlug . '.php';
+    if (file_exists($altPageFile)) {
+        require $altPageFile;
+        exit;
+    }
+}
+
+// 6. Route blog posts -> pages/blog/slug.php
 if (strpos($cleanUri, 'blog/') === 0) {
     $blogSlug = substr($cleanUri, 5);
     $blogFile = __DIR__ . '/pages/blog/' . $blogSlug . '.php';
@@ -40,10 +59,11 @@ if (strpos($cleanUri, 'blog/') === 0) {
     }
 }
 
-// 6. 404 Fallback
+// 7. 404 Fallback
 http_response_code(404);
 if (file_exists(__DIR__ . '/pages/404.php')) {
     require __DIR__ . '/pages/404.php';
 } else {
     echo "<h1>404 Page Not Found</h1><p>The requested route /" . htmlspecialchars($cleanUri) . " does not exist.</p>";
 }
+

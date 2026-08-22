@@ -1,36 +1,80 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = 'Packers And Movers Navatand Deoghar | IBA Approved Shifting';
-$page_desc = 'Safe Packers And Movers Navatand Deoghar by Shree Ashirwad. IBA approved home, car & bike transport with insurance via main transport corridors. Call +91 9955554330!';
-$page_keywords = 'packers-and-movers-navatand-deoghar, movers and packers Deoghar, shifting charges Deoghar, home relocation Deoghar, bike transport Deoghar, car transport Deoghar, IBA approved packers movers Deoghar';
+$page_title = 'Packers and Movers in Navatand Deoghar | IBA Approved Shifting';
+$page_desc = 'Safe Packers and Movers in Navatand Deoghar by Shree Ashirwad. IBA approved home, car & bike transport with insurance via main transport corridors. Call +91 9955554330!';
+$page_keywords = 'packers and movers navatand deoghar, movers and packers deoghar, shifting charges deoghar, home relocation deoghar, bike transport deoghar, car transport deoghar, IBA approved packers movers deoghar';
 
 $page_city = 'Deoghar';
 
 $faq_list = [
-    ['q' => 'What are the shifting charges for ', 'a' => 'Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation for Packers And Movers Navatand Deoghar starting from &#8377;4,500 for 1BHK shifting with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'How long does delivery take for ', 'a' => 'Local moves are completed on the same day within 4-6 hours. Intercity relocations take 24-48 hours with active GPS tracking depending on highway distance.'],
-    ['q' => 'Do you provide IBA approved bills for ', 'a' => 'Yes, we provide 100% genuine IBA-approved GST bills, consignment notes, car condition reports, and itemized inventory lists for official claim reimbursement.'],
-    ['q' => 'How are cars and bikes transported for ', 'a' => 'Vehicles are packed using paddy straw padding and corrugated sheets, loaded onto hydraulic ramps, and secured with safety belt locks inside closed car carriers.'],
-    ['q' => 'Is transit insurance provided for ', 'a' => 'Yes, we provide comprehensive 100% transit insurance covering all household goods, electronics, and vehicles against unforeseen transit damage.'],
-    ['q' => 'What packaging materials are used for fragile items?', 'a' => 'We use 7-layer protective packaging including heavy-duty bubble wrap, 5-ply corrugated boxes, stretch wrap, foam corner guards, and wooden crating for delicate items.'],
-    ['q' => 'Can I track my container truck during transit?', 'a' => 'Yes, all our long-distance container trucks are equipped with active GPS tracking devices, providing real-time location updates throughout the journey.'],
-    ['q' => 'Do your packers assemble furniture at destination?', 'a' => 'Yes, our trained logistics staff handles full unboxing, furniture reassembly, bed setup, and room positioning at your destination.'],
-    ['q' => 'Are there any hidden toll or entry tax charges?', 'a' => 'No, all quotes provided by Shree Ashirwad Packers and Movers are 100% transparent and inclusive of loading, unloading, packing, freight, tolls, and taxes.'],
-    ['q' => 'What is the contact phone number for booking?', 'a' => 'You can instantly book or get a free survey quote by calling +91 9955554330 or messaging us directly on WhatsApp.'],
-    ['q' => 'Do you offer office relocation services for ', 'a' => 'Yes, we specialize in zero-downtime office shifting, IT hardware anti-static packing, modular furniture dismantling, and file archiving.'],
-    ['q' => 'What warehouse storage options are available in ', 'a' => 'We operate 24/7 CCTV surveillance warehouse facilities in Deoghar for short-term and long-term household goods and commercial storage.'],
-    ['q' => 'How far in advance should I book my move for ', 'a' => 'We recommend booking 2 to 4 days in advance for long-distance relocations, though emergency same-day local shifting is also available.'],
-    ['q' => 'Are electronic items like OLED TVs specially protected?', 'a' => 'Yes, LED/OLED Smart TVs are packed in specialized screen guards, bubble wrap layers, and sturdy wooden crates for absolute shock resistance.'],
-    ['q' => 'Do you provide pet moving or plant relocation guidance?', 'a' => 'Yes, we offer specialized guidelines and climate-aware transportation assistance for safe pet and household plant shifting.'],
-    ['q' => 'What payment methods are accepted by Shree Ashirwad Packers?', 'a' => 'We accept Cash, UPI (GPay, PhonePe, Paytm), Net Banking, Credit Cards, and Debit Cards with immediate GST invoices.'],
-    ['q' => 'Can I shift a single heavy item like a refrigerator or sofa?', 'a' => 'Yes, we provide single-item luggage shifting and part-load truck transport for single furniture or heavy appliance moves.'],
-    ['q' => 'Is pre-move inspection free of charge for ', 'a' => 'Yes, our move supervisor conducts a 100% free home or office inspection to assess goods volume and issue a binding written quote.'],
-    ['q' => 'What precautions are taken during monsoon shifting?', 'a' => 'We utilize 100% waterproof tarpaulin wrapping, heavy stretch film sealing, and rain-tested closed container vehicles during monsoon relocations.'],
-    ['q' => 'Why choose Shree Ashirwad Packers and Movers for ', 'a' => 'With 15+ years of operational excellence, IBA certification, 7-layer safety packing, and 2,500+ satisfied clients, we are your most trusted movers.']
+    ['q' => 'What are the household shifting charges in Navatand Deoghar?', 'a' => 'Local shifting in Navatand Deoghar starts from ₹4,500 for 1 BHK, ₹8,500 for 2 BHK, and ₹14,500 for 3 BHK homes depending on goods volume and packing requirements.'],
+    ['q' => 'Do you provide IBA approved GST bills for official claims in Navatand Deoghar?', 'a' => 'Yes, Shree Ashirwad Packers and Movers provides genuine IBA approved GST bills with complete consigment note, invoice, and itemized breakdown for government and corporate claim reimbursements.'],
+    ['q' => 'How are fragile items and electronics protected during shifting in Navatand?', 'a' => 'We use a 7-layer safety packaging system including 80-GSM bubble wrap, corrugated sheets, foam edge guards, stretch film, and custom wooden crating for LEDs and glass items.'],
+    ['q' => 'What is the transit time from Navatand Deoghar to major cities like Ranchi or Patna?', 'a' => 'Intercity relocations to Ranchi, Patna, or Kolkata are typically delivered within 24 to 48 hours using dedicated GPS-enabled container vehicles.'],
+    ['q' => 'Is transit insurance provided for home relocation in Navatand Deoghar?', 'a' => 'Yes, we offer 100% full transit insurance coverage (1.5% - 3% value) protecting your belongings against accidental damage, theft, or unforeseen transit risks.'],
+    ['q' => 'Can you transport cars and two-wheelers from Navatand Deoghar?', 'a' => 'We operate specialized closed car carriers and bike transport vehicles with wheel-chock locking systems for 100% scratch-free vehicle shifting.'],
+    ['q' => 'What documentation is required to book Packers and Movers in Navatand?', 'a' => 'You need basic identity proof (Aadhaar or PAN) and destination address details for consignment note preparation and GST billing.'],
+    ['q' => 'Do your moving experts handle disassembly and reassembly of furniture?', 'a' => 'Yes, our trained crew handles complete dismantling and reassembly of beds, wardrobes, dining tables, and modular furniture at no extra labor cost.'],
+    ['q' => 'Are there any hidden costs like toll charges or unloading fees?', 'a' => 'No, our written quotations are 100% transparent and inclusive of all packing, loading, highway toll taxes, unloading, and unboxing charges.'],
+    ['q' => 'How far in advance should I book my relocation from Navatand?', 'a' => 'We recommend booking 2 to 4 days prior to your preferred shifting date to secure dedicated container trucks and specialized crew.'],
+    ['q' => 'Do you provide warehouse storage facilities in Deoghar region?', 'a' => 'Yes, we offer secure, climate-controlled, 24/7 CCTV monitored short-term and long-term warehouse storage in Deoghar for household and commercial goods.'],
+    ['q' => 'How can I track my consignment truck during intercity transit?', 'a' => 'Every container vehicle is outfitted with live GPS tracking systems, and our move supervisor provides real-time location updates directly via WhatsApp.'],
+    ['q' => 'What safety measures are followed for bike transport from Navatand?', 'a' => 'Bikes are wrapped in paddy sheet, bubble wrap, and corrugated board before being locked with safety belts inside enclosed car carriers.'],
+    ['q' => 'Do you offer office and commercial relocation services in Deoghar district?', 'a' => 'Yes, we specialize in office shifting, IT equipment moving, server rack transport, and industrial machinery shifting with minimal operational downtime.'],
+    ['q' => 'What is the process to claim transit insurance in case of damage?', 'a' => 'In the rare event of damage, note it on the consignment receipt during delivery, submit photos, and our team settles the claim directly with the insurance provider.'],
+    ['q' => 'Can I transport household gas cylinders and liquids?', 'a' => 'For safety compliance, empty gas cylinders are accepted with proper clearance, while inflammable liquids and hazardous items are strictly prohibited.'],
+    ['q' => 'How do you handle high-rise apartment shifting without service lifts?', 'a' => 'Our crew is equipped with heavy-duty moving straps, ropes, and portable ramps to maneuver bulky furniture safely through staircases.'],
+    ['q' => 'Are weekends or end-of-month dates more expensive for shifting?', 'a' => 'We maintain uniform transparent pricing throughout the month, though early booking is advised for weekends due to high customer demand.'],
+    ['q' => 'What is the contact number for instant quote and booking in Navatand Deoghar?', 'a' => 'You can call our master customer helpline directly at +91 9955554330 or message us on WhatsApp for an instant zero-obligation quote.'],
+    ['q' => 'Why choose Shree Ashirwad Packers and Movers over unverified local vendors?', 'a' => 'We are an IBA approved, ISO certified company with 15+ years of experience, owned dedicated fleet, transparent pricing, and 100% damage-free delivery record.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
+?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MovingCompany",
+      "@id": "<?php echo SITE_URL; ?>packers-and-movers-navatand-deoghar#organization",
+      "name": "Shree Ashirwad Packers and Movers Navatand Deoghar",
+      "url": "<?php echo SITE_URL; ?>packers-and-movers-navatand-deoghar",
+      "logo": "<?php echo SITE_URL; ?>assets/images/logo.png",
+      "telephone": "+91-9955554330",
+      "priceRange": "₹2,500 - ₹25,000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Navatand, Deoghar",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Navatand, Deoghar"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "<?php echo SITE_URL; ?>packers-and-movers-navatand-deoghar#faq",
+      "mainEntity": [
+        <?php foreach ($faq_list as $i => $faq): ?>
+        {
+          "@type": "Question",
+          "name": <?php echo json_encode($faq['q']); ?>,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": <?php echo json_encode($faq['a']); ?>
+          }
+        }<?php echo ($i < count($faq_list) - 1) ? ',' : ''; ?>
+        <?php endforeach; ?>
+      ]
+    }
+  ]
+}
+</script>
 ?>
 
 <main class="site-main">
@@ -136,7 +180,7 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
 
       <div style="margin-top: 50px; text-align: center; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); padding: 40px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.4);">
-        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Ready to Shift with </h2>
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Ready to Shift with Packers and Movers in Navatand Deoghar?</h2>
         <p style="color: #cbd5e1; margin-top: 10px;">Contact our team today for a guaranteed fixed price quote with 100% damage-free delivery.</p>
         <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
           <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>

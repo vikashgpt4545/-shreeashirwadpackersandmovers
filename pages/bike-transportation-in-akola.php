@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Akola | Safe Two-Wheeler Shifting Cotton City";
 $page_desc = "Planning bike transportation in Akola, Maharashtra? Get safe, insured, and doorstep motorcycle shifting. High-quality multi-layer packing and real-time tracking.";
-$page_keywords = "bike transportation in akola, best bike transportation in akola, affordable bike transportation in akola, packers and movers, packers and movers in ranchi, top bike transportation in akola company, household shifting bike transportation in akola, doorstep bike transportation in akola, verified bike transportation in akola services, shree ashirwad bike transportation in akola";
+$page_keywords = "bike transportation in akola, best bike transportation in akola, affordable bike transportation in akola, packers and movers, top bike transportation in akola company, household shifting bike transportation in akola, doorstep bike transportation in akola, verified bike transportation in akola services, shree ashirwad bike transportation in akola";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-akola.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Akola Vidarbha Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Akola Two-Wheeler Logistics & Vidarbha Shifting Hub</h2>
+        <p style="margin-bottom: 20px;">
+          Akola is a major commercial city in Maharashtra's Vidarbha region connected via NH-53. Shree Ashirwad Packers and Movers offers reliable bike transportation covering Ramdas Peth, Civil Lines, Kaulkhed, Old City, and Gorakshan Road.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & MH-30 RTO Compliance</h3>
+        <p style="margin-bottom: 20px;">
+          Every motorcycle dispatched from Akola is wrapped using 7-layer bubble padding and heavy-duty outer cardboard. Complete MH-30 Akola RTO documentation is processed prior to long-haul road transit to Mumbai, Pune, or Nagpur.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

@@ -73,7 +73,7 @@ require_once __DIR__ . '/config.php';
       <div style="border-top: 1px solid rgba(255,255,255,0.1); margin-top: 25px; padding-top: 20px; font-size: 0.82rem; color: #94a3b8;">
         <div style="margin-bottom: 12px;">
           <strong style="color: #f59e0b;">Popular Ranchi Shifting Hubs:</strong>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Packers and Movers Ranchi">Packers and Movers Ranchi</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi">Packers and Movers Ranchi</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-lalpur-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Lalpur">Lalpur</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-kanke-road-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Kanke Road">Kanke Road</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-ratu-road-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ratu Road">Ratu Road</a> •
@@ -87,7 +87,7 @@ require_once __DIR__ . '/config.php';
         </div>
         <div style="margin-bottom: 12px;">
           <strong style="color: #f59e0b;">Popular Jamshedpur Shifting Hubs:</strong>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Packers and Movers Jamshedpur">Packers and Movers Jamshedpur</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Jamshedpur">Packers and Movers Jamshedpur</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-bistupur-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Bistupur">Bistupur</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-sakchi-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Sakchi">Sakchi</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-mango-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Mango">Mango</a> •

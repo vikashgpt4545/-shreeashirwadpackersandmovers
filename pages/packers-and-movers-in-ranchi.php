@@ -1,13 +1,12 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Ranchi | ${SITE_NAME}";
+$page_title = "Packers and Movers in Ranchi | " . SITE_NAME;
 $page_desc = "Looking for the best packers and movers in Ranchi? Shree Ashirwad Packers and Movers (OPC) Pvt. Ltd. is an IBA approved, top-rated moving company in Ranchi, Jharkhand. Household shifting, office relocation, car & bike transport at affordable rates. Call for a free quote. Complete door-to-door relocation coverage across Lalpur, Harmu, Kanke Road, Main Road, Ratu Road, Bariatu, Doranda.";
 $page_keywords = "packers and movers in ranchi, best packers and movers in ranchi, affordable packers and movers in ranchi, packers and movers, packers and movers in ranchi, top packers and movers in ranchi company, household shifting packers and movers in ranchi, doorstep packers and movers in ranchi, verified packers and movers in ranchi services, shree ashirwad packers and movers in ranchi";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-ranchi.php";
 
 require_once __DIR__ . '/../includes/header.php';
-?>
 ?>
 
 <main class="site-main">

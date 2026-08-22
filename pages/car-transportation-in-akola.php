@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Akola 8409531615";
 $page_desc = "Reliable car transportation in Akola. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in akola, best car transportation in akola, affordable car transportation in akola, packers and movers, packers and movers in ranchi, top car transportation in akola company, household shifting car transportation in akola, doorstep car transportation in akola, verified car transportation in akola services, shree ashirwad car transportation in akola";
+$page_keywords = "car transportation in akola, best car transportation in akola, affordable car transportation in akola, packers and movers, top car transportation in akola company, household shifting car transportation in akola, doorstep car transportation in akola, verified car transportation in akola services, shree ashirwad car transportation in akola";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-akola.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Akola Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Akola Car Carrier & Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides dependable car carrier service for Akola. Operating open and enclosed car carriers along the NH-53 corridor, we ensure safe car transit to major destinations.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Insurance Protection</h3>
+        <p style="margin-bottom: 20px;">
+          All cars transported from Akola are fully insured and secured on multi-car trailers with wheel locks and hydraulic ramps.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

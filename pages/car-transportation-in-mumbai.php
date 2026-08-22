@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Mumbai 8409531615";
 $page_desc = "Reliable car transportation in Mumbai. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615. Complete door-to-door relocation coverage across Andheri, Bandra, Thane, Navi Mumbai, Powai, Borivali, Dadar.";
-$page_keywords = "car transportation in mumbai, best car transportation in mumbai, affordable car transportation in mumbai, packers and movers, packers and movers in ranchi, top car transportation in mumbai company, household shifting car transportation in mumbai, doorstep car transportation in mumbai, verified car transportation in mumbai services, shree ashirwad car transportation in mumbai";
+$page_keywords = "car transportation in mumbai, best car transportation in mumbai, affordable car transportation in mumbai, packers and movers, top car transportation in mumbai company, household shifting car transportation in mumbai, doorstep car transportation in mumbai, verified car transportation in mumbai services, shree ashirwad car transportation in mumbai";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-mumbai.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Mumbai Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Mumbai Enclosed & Open Car Shipping Hub</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides expert car transportation services across Mumbai and MMR, utilizing Vashi and Kalamboli car carrier terminals for smooth highway access to NH-48 and NH-66.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Enclosed Car Carriers</h3>
+        <p style="margin-bottom: 20px;">
+          All luxury sedans and SUVs transported from Mumbai are protected inside closed car containers with hydraulic ramps, wheel chocks, and comprehensive transit insurance.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

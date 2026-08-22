@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Allahabad 8409531615";
 $page_desc = "Reliable car transportation in Allahabad. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in allahabad, best car transportation in allahabad, affordable car transportation in allahabad, packers and movers, packers and movers in ranchi, top car transportation in allahabad company, household shifting car transportation in allahabad, doorstep car transportation in allahabad, verified car transportation in allahabad services, shree ashirwad car transportation in allahabad";
+$page_keywords = "car transportation in allahabad, best car transportation in allahabad, affordable car transportation in allahabad, packers and movers, top car transportation in allahabad company, household shifting car transportation in allahabad, doorstep car transportation in allahabad, verified car transportation in allahabad services, shree ashirwad car transportation in allahabad";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-allahabad.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Allahabad Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Allahabad (Prayagraj) Car Carrier & Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides professional car transport in Allahabad (Prayagraj). Operating open and enclosed car carriers along NH-19 and NH-30 corridors, we ensure safe car shipping across India.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Insurance Protection</h3>
+        <p style="margin-bottom: 20px;">
+          Every car shipped from Allahabad is fully insured and secured on specialized trailers with wheel locks and protective coverings.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

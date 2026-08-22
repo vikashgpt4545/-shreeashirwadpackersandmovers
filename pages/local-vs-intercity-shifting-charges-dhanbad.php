@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Local vs Intercity Shifting Charges Dhanbad | 8409531615";
@@ -9,15 +9,25 @@ $page_city = "Dhanbad";
 
 $faq_list = [
     ['q' => 'What is the main cost difference between local Dhanbad shifting and intercity moving?', 'a' => 'Local shifting rates depend primarily on labor deployment and home size, whereas intercity rates include distance fuel expenses, highway toll taxes, dedicated highway container costs, and transit insurance.'],
-    ['q' => 'How much does local household shifting cost within Dhanbad?', 'a' => 'Local home shifting rates range from &#8377;3,000 to &#8377;5,500 for a 1BHK, &#8377;5,500 to &#8377;9,500 for a 2BHK, and &#8377;9,500 to &#8377;15,000 for a 3BHK home.'],
-    ['q' => 'How much does intercity shifting cost from Dhanbad to Patna, Kolkata, or Delhi?', 'a' => 'Intercity rates from Dhanbad range from &#8377;8,500 to &#8377;24,000 depending on destination distance, container truck size, and total goods volume.'],
+    ['q' => 'How much does local household shifting cost within Dhanbad?', 'a' => 'Local home shifting rates range from ₹3,000 to ₹5,500 for a 1BHK, ₹5,500 to ₹9,500 for a 2BHK, and ₹9,500 to ₹15,000 for a 3BHK home.'],
+    ['q' => 'How much does intercity shifting cost from Dhanbad to Patna, Kolkata, or Delhi?', 'a' => 'Intercity rates from Dhanbad range from ₹8,500 to ₹24,000 depending on destination distance, container truck size, and total goods volume.'],
     ['q' => 'Is packaging quality different for local vs intercity shifting in Dhanbad?', 'a' => 'Yes, local moves use standard 3 to 5-layer protective wrapping, while intercity moves receive heavy 7-layer packaging with bubble wrap, corrugated sheets, and wooden crating.'],
     ['q' => 'Are highway toll taxes and state entry permits included in intercity quotes?', 'a' => 'Yes, our written intercity quotations are 100% inclusive of fuel, driver tariffs, state permits, and highway toll gate charges.'],
     ['q' => 'What vehicle types are deployed for local vs intercity moves?', 'a' => 'Local moves utilize Tata Ace, Bolero Pickup, or 14ft open/covered trucks, while intercity moves use 14ft, 17ft, 19ft, or 24ft fully enclosed container trucks.'],
     ['q' => 'Is transit insurance required for local moves within Dhanbad?', 'a' => 'Transit insurance is optional for short local moves within Dhanbad, but strongly recommended for long-distance intercity highway transit.'],
     ['q' => 'Can I choose part-load shared container shipping for intercity moves?', 'a' => 'Yes, part-load shared container shipping offers budget-friendly rates for single items or smaller luggage moving long-distance from Dhanbad.'],
     ['q' => 'Does floor elevation affect both local and intercity shifting costs?', 'a' => 'Yes, carrying heavy items up staircases (3rd floor and above) without service elevators requires additional labor deployment, which is factored into quotes.'],
-    ['q' => 'How can I get an exact written quote comparing local vs intercity shifting in Dhanbad?', 'a' => 'Call +91 8409531615 or WhatsApp your item list to receive an immediate itemized cost breakdown.']
+    ['q' => 'How can I get an exact written quote comparing local vs intercity shifting in Dhanbad?', 'a' => 'Call +91 8409531615 or WhatsApp your item list to receive an immediate itemized cost breakdown.'],
+    ['q' => 'What is the price difference between shared truck and dedicated container intercity moving?', 'a' => 'Shared containers cost 30-40% less for partial loads but take 3-5 days delivery, whereas dedicated containers provide immediate direct transport within 24-48 hours.'],
+    ['q' => 'Are packing materials included in both local and intercity relocation rates?', 'a' => 'Yes, all bubble wrap, carton boxes, corrugated rolls, and stretch film materials are fully included in our written quotation.'],
+    ['q' => 'How are GST taxes calculated for local vs intercity shifting in Dhanbad?', 'a' => 'GST is charged at 5% for transport-only services or 18% for complete end-to-end packing, loading, transport, and unloading services.'],
+    ['q' => 'Can I transport my bike inside the same intercity household container truck?', 'a' => 'Yes, two-wheelers are securely padded and tied using nylon chassis belts inside the same enclosed container along with your household furniture.'],
+    ['q' => 'What is the cost of storage or warehousing if my destination home in Kolkata/Delhi is not ready?', 'a' => 'We offer 15 days free warehouse storage in our secure, covered Dhanbad godowns, followed by nominal daily storage rates thereafter.'],
+    ['q' => 'Why do weekend moving dates cost slightly more than weekday moves in Dhanbad?', 'a' => 'High demand on weekends and month-end dates increases vehicle slot competition. Booking 3-5 days in advance guarantees standard weekday pricing.'],
+    ['q' => 'What documents are issued for intercity highway moves leaving Dhanbad?', 'a' => 'You receive a Consignment Lorry Receipt (LR), GST Tax Invoice, Insurance Policy Document, and Signed Inventory Packing List.'],
+    ['q' => 'Are there extra charges for unmounting ACs, wall TVs, and ceiling fans?', 'a' => 'Basic unmounting is included, while specialized electrical AC gas pumping or carpenter fitting carries nominal fixed service charges.'],
+    ['q' => 'How do weather conditions affect intercity transit times from Dhanbad?', 'a' => 'Heavy monsoon rains or severe winter fog on GT Road NH-19 may add 6-12 hours of safety buffer time for long-distance highway trucks.'],
+    ['q' => 'Why choose Shree Ashirwad Packers for local or intercity shifting in Dhanbad?', 'a' => 'We offer 15+ years of verified expertise, zero hidden fees, 100% IBA compliance, and dedicated closed container trucks for all routes.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -201,6 +211,35 @@ require_once __DIR__ . '/../includes/header.php';
         </a>
       </div>
 
+    </div>
+  </section>
+
+  <!-- Cluster Internal Link Grid -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+        Related Dhanbad Relocation Guides &amp; Services
+      </h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>pages/iba-approved-packers-and-movers-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-file-invoice" style="color: #f59e0b; margin-right: 8px;"></i> IBA Approved Movers Dhanbad
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/office-relocation-services-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-building" style="color: #f59e0b; margin-right: 8px;"></i> Office Relocation Dhanbad
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/household-shifting-checklist-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-list-check" style="color: #f59e0b; margin-right: 8px;"></i> Moving Timeline Checklist
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/car-and-bike-transport-guide-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-car" style="color: #f59e0b; margin-right: 8px;"></i> Vehicle Transport Guide
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-choose-best-packers-and-movers-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-user-check" style="color: #f59e0b; margin-right: 8px;"></i> Choosing Best Movers
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-avoid-fraud-packers-and-movers-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-shield-alt" style="color: #f59e0b; margin-right: 8px;"></i> Avoid Moving Scams
+        </a>
+      </div>
     </div>
   </section>
 

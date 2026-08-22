@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Warehouse and Storage Facilities in Dumka | 8409531615";
 $page_desc = "Safe, CCTV-monitored warehouse and household storage facilities in Dumka. Short-term and long-term luggage storage with 100% moisture-proof safety.";
 $page_keywords = "warehouse and storage facilities in dumka, household storage dumka, secure warehousing dumka, luggage storage dumka, short term storage dumka, long term storage dumka, CCTV monitored warehouse, moisture proof storage dumka, commercial warehousing dumka, furniture storage dumka, goods storage rates dumka, safe storage facility dumka, logistics warehouse dumka, storage units dumka, ashrivad storage dumka";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/warehouse-and-storage-facilities-in-dumka.php";
 
 $page_city = "Dumka";
 $page_locality = "District-wide Dumka";

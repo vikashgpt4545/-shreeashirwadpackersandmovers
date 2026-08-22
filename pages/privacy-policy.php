@@ -68,7 +68,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <h2 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin: 30px 0 12px 0;">5. Contact Us Regarding Your Data</h2>
         <p>
-          If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <a href="mailto:info@shreeashirwadpackersandmovers.com" style="color: #f59e0b; text-decoration: none;">info@shreeashirwadpackersandmovers.com</a> or call our official helpline at <strong><?php echo SITE_PHONE; ?></strong>.
+          If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <a href="mailto:<?php echo SITE_EMAIL; ?>" style="color: #f59e0b; text-decoration: none;"><?php echo SITE_EMAIL; ?></a> or call our official helpline at <strong><?php echo SITE_PHONE; ?></strong>.
         </p>
 
       </div>

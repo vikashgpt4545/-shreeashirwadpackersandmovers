@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transport in Jalandhar  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Jalandhar? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Bike Transport Jalandhar, Railway Station Road, Main Market, College Road, Civil Lines.";
-$page_keywords = "bike transport jalandhar, best bike transport jalandhar, affordable bike transport jalandhar, packers and movers, packers and movers in ranchi, top bike transport jalandhar company, household shifting bike transport jalandhar, doorstep bike transport jalandhar, verified bike transport jalandhar services, shree ashirwad bike transport jalandhar";
+$page_keywords = "bike transport jalandhar, best bike transport jalandhar, affordable bike transport jalandhar, packers and movers, top bike transport jalandhar company, household shifting bike transport jalandhar, doorstep bike transport jalandhar, verified bike transport jalandhar services, shree ashirwad bike transport jalandhar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-jalandhar.php";
 
 require_once __DIR__ . '/../includes/header.php';

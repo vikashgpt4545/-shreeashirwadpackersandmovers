@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Pune 8409531615";
 $page_desc = "Reliable car transportation in Pune. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in pune, best car transportation in pune, affordable car transportation in pune, packers and movers, packers and movers in ranchi, top car transportation in pune company, household shifting car transportation in pune, doorstep car transportation in pune, verified car transportation in pune services, shree ashirwad car transportation in pune";
+$page_keywords = "car transportation in pune, best car transportation in pune, affordable car transportation in pune, packers and movers, top car transportation in pune company, household shifting car transportation in pune, doorstep car transportation in pune, verified car transportation in pune services, shree ashirwad car transportation in pune";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-pune.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Pune Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Pune Enclosed & Open Car Shipping Hub</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers operates dedicated car carrier services in Pune, utilizing the Mumbai-Pune Expressway and NH-48 corridors. We serve all major IT hubs and residential suburbs across Pimpri-Chinchwad, Baner, Wakad, and Hadapsar.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Expressway Carrier Terminals</h3>
+        <p style="margin-bottom: 20px;">
+          Vehicles dispatched from Pune are secured on specialized multi-car hydraulic carriers with wheel clamps, soft-tie straps, and comprehensive transit insurance.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

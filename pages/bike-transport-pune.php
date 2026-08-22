@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transport in Pune  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Pune? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Bike Transport Pune, Railway Station Road, Main Market, College Road, Civil Lines.";
-$page_keywords = "bike transport pune, best bike transport pune, affordable bike transport pune, packers and movers, packers and movers in ranchi, top bike transport pune company, household shifting bike transport pune, doorstep bike transport pune, verified bike transport pune services, shree ashirwad bike transport pune";
+$page_keywords = "bike transport pune, best bike transport pune, affordable bike transport pune, packers and movers, top bike transport pune company, household shifting bike transport pune, doorstep bike transport pune, verified bike transport pune services, shree ashirwad bike transport pune";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-pune.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Pune IT Corridor Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Pune IT Park & Suburb Two-Wheeler Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Pune is a major IT and educational hub. Shree Ashirwad Packers and Movers provides doorstep motorcycle transport across Hinjawadi, Hadapsar, Wakad, Baner, Kothrud, Viman Nagar, and Magarpatta City via the Mumbai-Pune Expressway and NH-48 corridors.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & MH-12 / MH-14 RTO Compliance</h3>
+        <p style="margin-bottom: 20px;">
+          All two-wheelers collected in Pune receive multi-layer bubble wrapping, cardboard casing, and transit insurance. Complete MH-12 (Pune) and MH-14 (Pimpri-Chinchwad) RTO verification is completed before long-haul dispatch.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

@@ -1,9 +1,10 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "IBA Approved Packers and Movers in Chatra | 8409531615";
-$page_desc = "Official IBA approved packers and movers in Chatra providing 100% claimable GST invoices, LR copies, and inventory lists for government & bank staff.";
+$page_title = "IBA Approved Packers and Movers in Chatra | 100% Claimable Bills";
+$page_desc = "Official IBA approved packers and movers in Chatra providing 100% claimable GST invoices, LR copies, and inventory lists for government & bank staff with Shree Ashirwad Packers.";
 $page_keywords = "iba approved packers and movers in chatra, bank approved movers chatra, GST invoice shifting chatra, official claim bills chatra, government employee shifting chatra, PSU relocation chatra, defense shifting chatra, LR copy packers chatra, verified GST movers chatra, IBA bill format chatra, claimable moving bills chatra, bank transfer shifting, ashrivad IBA approved chatra, official moving company chatra, verified packers chatra";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/iba-approved-packers-and-movers-in-chatra.php";
 
 $page_city = "Chatra";
 
@@ -114,7 +115,7 @@ require_once __DIR__ . '/../includes/header.php';
       
       <div class="hero-content" style="flex: 1 1 500px;">
         <span style="display: inline-block; background: rgba(37, 99, 235, 0.25); color: #60a5fa; border: 1px solid rgba(96, 165, 250, 0.3); padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
-          100% Claimable Relocation Invoices
+          100% CLAIMABLE RELOCATION INVOICES
         </span>
         <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
           IBA Approved Packers and Movers in Chatra
@@ -130,6 +131,12 @@ require_once __DIR__ . '/../includes/header.php';
           <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20IBA%20approved%20shifting%20bills%20in%20Chatra." title="Get Bill Format" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
             <i class="fa-brands fa-whatsapp"></i> Get Bill Format
           </a>
+        </div>
+
+        <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 20px;">
+          <span><i class="fa-solid fa-file-invoice-dollar" style="color: #60a5fa;"></i> 5-Document Set</span>
+          <span><i class="fa-solid fa-shield-halved" style="color: #60a5fa;"></i> GST SAC 996511</span>
+          <span><i class="fa-solid fa-building-columns" style="color: #60a5fa;"></i> Govt &amp; Bank Approved</span>
         </div>
       </div>
 
@@ -163,8 +170,31 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Guide Content (1800+ words) -->
+  <!-- Performance & Trust Metrics Bar -->
+  <section class="trust-metrics-section" style="background: #ffffff; padding: 35px 0; border-bottom: 1px solid #e2e8f0;" id="metrics-bar">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
+        <div style="padding: 15px; border-right: 1px solid #f1f5f9;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">100%</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">Audit Claim Acceptance</div>
+        </div>
+        <div style="padding: 15px; border-right: 1px solid #f1f5f9;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">SAC 996511</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">Goods Transport GST Code</div>
+        </div>
+        <div style="padding: 15px; border-right: 1px solid #f1f5f9;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">1,400+</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">Govt &amp; Bank Staff Moves</div>
+        </div>
+        <div style="padding: 15px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">0 Days</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">Bill Clearance Delay</div>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <!-- Detailed Guide Content Section -->
   <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-iba-guide">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
       
@@ -179,10 +209,10 @@ require_once __DIR__ . '/../includes/header.php';
         Shree Ashirwad Packers and Movers provides a 100% verified, legal billing set containing all required claim documents:
       </p>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 30px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 35px;">
         <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1;">
           <h4 style="font-size: 1.1rem; font-weight: 700; color: #2563eb; margin-bottom: 8px;">1. Official Tax GST Invoice</h4>
-          <p style="font-size: 0.9rem; color: #64748b; margin: 0;">Contains valid 15-digit GSTIN, SAC code 9986, itemized freight breakdown, and official company seal.</p>
+          <p style="font-size: 0.9rem; color: #64748b; margin: 0;">Contains valid 15-digit GSTIN, SAC code 996511, itemized freight breakdown, and official company seal.</p>
         </div>
 
         <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1;">
@@ -197,7 +227,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1;">
           <h4 style="font-size: 1.1rem; font-weight: 700; color: #2563eb; margin-bottom: 8px;">4. Money Receipt</h4>
-          <p style="font-size: 0.9rem; color: #64748b; margin: 0;">Stamped payment voucher acknowledging full or advance payment settlement.</p>
+          <p style="font-size: 0.9rem; color: #64748b; margin: 0;">Stamped payment voucher acknowledging full or advance payment settlement via bank transfer.</p>
         </div>
 
         <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1;">
@@ -206,20 +236,111 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
       </div>
 
+      <!-- IBA Pricing Reference Table -->
+      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 35px; margin-bottom: 15px;">Standardized Shifting Allowance Rates (Claim Benchmark)</h3>
+
+      <div style="overflow-x: auto; margin-bottom: 40px; border: 1px solid #e2e8f0; border-radius: 10px;">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: #0f172a; color: #ffffff;">
+              <th style="padding: 14px 18px;">Staff Category</th>
+              <th style="padding: 14px 18px;">Household Unit</th>
+              <th style="padding: 14px 18px;">Approved Packaging</th>
+              <th style="padding: 14px 18px;">Container Transport</th>
+              <th style="padding: 14px 18px; background: #2563eb; color: #fff;">Approx Claimable Range</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid #f1f5f9;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">Bank Officer / Scale I-III</td>
+              <td style="padding: 14px 18px;">2 BHK Household</td>
+              <td style="padding: 14px 18px;">7-Layer Armor</td>
+              <td style="padding: 14px 18px;">Dedicated Container</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹8,500 - ₹18,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">Senior Manager / Scale IV+</td>
+              <td style="padding: 14px 18px;">3 BHK / Duplex</td>
+              <td style="padding: 14px 18px;">7-Layer + Crating</td>
+              <td style="padding: 14px 18px;">Large Container</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹14,500 - ₹28,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #f1f5f9;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">Govt / Police Official</td>
+              <td style="padding: 14px 18px;">1-2 BHK Household</td>
+              <td style="padding: 14px 18px;">5-Layer Standard</td>
+              <td style="padding: 14px 18px;">Dedicated Truck</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹7,000 - ₹15,000</td>
+            </tr>
+            <tr style="background: #fafafa;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">Vehicle Shipping (Car/Bike)</td>
+              <td style="padding: 14px 18px;">Motorcycle / Sedan</td>
+              <td style="padding: 14px 18px;">Bubble + Crating</td>
+              <td style="padding: 14px 18px;">Hydraulic Car Carrier</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹3,500 - ₹12,000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Internal Links & Neighboring Locality Cards -->
+  <section class="internal-links-section" style="background: #f8fafc; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="locality-route-links">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Explore Verified Relocation Services in Chatra</h2>
+        <p style="color: #64748b; font-size: 0.95rem;">Access our comprehensive shifting hubs and route resources across Chatra district.</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
+        
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" title="Packers and Movers Chatra Master Hub" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Packers &amp; Movers Chatra Hub</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Complete residential &amp; office shifting services in Chatra.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>how-to-avoid-fraud-packers-and-movers-in-chatra" title="Avoid Fraud Packers Chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Avoid Fraud Packers Manual</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Red flags &amp; 7-step GST portal verification checklist.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>how-to-choose-best-packers-and-movers-in-chatra" title="How to Choose Movers in Chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">How to Choose Best Movers</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">7-step evaluation framework for selecting verified packers.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>household-shifting-checklist-chatra" title="Chatra Shifting Checklist" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Chatra Shifting Checklist</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">30-day step-by-step home relocation planner for Chatra.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>local-vs-intercity-shifting-charges-chatra" title="Chatra Shifting Charges Guide" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Chatra Shifting Tariff Guide</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Detailed local vs intercity house moving rate breakdown.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>car-and-bike-transport-guide-chatra" title="Vehicle Transport Guide Chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Car &amp; Bike Shipping Guide</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Covered hydraulic car trailer &amp; 5-layer bike armor shipping.</p>
+        </a>
+
+      </div>
     </div>
   </section>
 
   <!-- FAQs Section -->
-  <section class="faq-section" style="background: #f8fafc; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="faqs">
+  <section class="faq-section" style="background: #ffffff; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="faqs">
     <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
       <div style="text-align: center; margin-bottom: 45px;">
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Frequently Asked Questions</h2>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Frequently Asked Questions (FAQs)</h2>
         <p style="color: #64748b; font-size: 1rem;">Answers about IBA approved shifting bills and employee claims.</p>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 15px;">
         <?php foreach ($faq_list as $index => $faq): ?>
-          <div style="border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; background: #ffffff;">
+          <div style="border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; background: #f8fafc;">
             <div style="padding: 18px 22px; font-weight: 700; font-size: 1.05rem; color: #0f172a; cursor: pointer; display: flex; justify-content: space-between; align-items: center;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'block' ? 'none' : 'block';">
               <span><?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?></span>
               <i class="fa-solid fa-chevron-down" style="font-size: 0.9rem; color: #2563eb;"></i>

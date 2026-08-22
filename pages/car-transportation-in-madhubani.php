@@ -4,7 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Car Transportation in Madhubani 8409531615";
 $page_desc = "Reliable car transportation in Madhubani. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
 $page_keywords = "car transportation in madhubani, best car transportation in madhubani, affordable car transportation in madhubani, packers and movers, packers and movers in ranchi, top car transportation in madhubani company, household shifting car transportation in madhubani, doorstep car transportation in madhubani, verified car transportation in madhubani services, shree ashirwad car transportation in madhubani";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-madhubani.php";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/car-transportation-in-madhubani";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>

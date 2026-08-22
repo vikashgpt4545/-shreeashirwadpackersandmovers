@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Jaipur 8409531615";
 $page_desc = "Reliable car transportation in Jaipur. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in jaipur, best car transportation in jaipur, affordable car transportation in jaipur, packers and movers, packers and movers in ranchi, top car transportation in jaipur company, household shifting car transportation in jaipur, doorstep car transportation in jaipur, verified car transportation in jaipur services, shree ashirwad car transportation in jaipur";
+$page_keywords = "car transportation in jaipur, best car transportation in jaipur, affordable car transportation in jaipur, packers and movers, top car transportation in jaipur company, household shifting car transportation in jaipur, doorstep car transportation in jaipur, verified car transportation in jaipur services, shree ashirwad car transportation in jaipur";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-jaipur.php";
 
 require_once __DIR__ . '/../includes/header.php';

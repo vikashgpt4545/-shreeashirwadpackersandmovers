@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transport in Kolkata  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Kolkata? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Salt Lake, New Town, Park Street, Howrah, Dum Dum, Ballygunge.";
-$page_keywords = "bike transport kolkata, best bike transport kolkata, affordable bike transport kolkata, packers and movers, packers and movers in ranchi, top bike transport kolkata company, household shifting bike transport kolkata, doorstep bike transport kolkata, verified bike transport kolkata services, shree ashirwad bike transport kolkata";
+$page_keywords = "bike transport kolkata, best bike transport kolkata, affordable bike transport kolkata, packers and movers, top bike transport kolkata company, household shifting bike transport kolkata, doorstep bike transport kolkata, verified bike transport kolkata services, shree ashirwad bike transport kolkata";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-kolkata.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Kolkata Metro Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Kolkata Metro & Howrah Two-Wheeler Logistics</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides doorstep bike transport across Kolkata, Salt Lake, New Town, Howrah, Behala, Dum Dum, and Garia via Dankuni and NH-19 logistics corridors.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & WB-01 / WB-02 RTO Compliance</h3>
+        <p style="margin-bottom: 20px;">
+          All two-wheelers collected in Greater Kolkata receive multi-layer bubble wrap, foam corner pads, transit insurance, and complete WB RTO documentation.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

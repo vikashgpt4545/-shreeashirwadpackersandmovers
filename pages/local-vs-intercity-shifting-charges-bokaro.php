@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Local vs Intercity Shifting Charges Bokaro | 8409531615";
@@ -9,15 +9,25 @@ $page_city = "Bokaro";
 
 $faq_list = [
     ['q' => 'What is the primary difference between local Bokaro moving and intercity shifting costs?', 'a' => 'Local moves (e.g. Sector 4 to Chas) are charged primarily based on labor deployment, packing level, and truck size, whereas intercity moves factor in highway fuel, toll taxes, container size, and distance.'],
-    ['q' => 'How much does local household shifting cost within Bokaro Steel City?', 'a' => 'Local household shifting rates in Bokaro range from &#8377;3,000 to &#8377;5,500 for a 1BHK, &#8377;5,500 to &#8377;9,500 for a 2BHK, and &#8377;9,500 to &#8377;15,000 for a 3BHK home.'],
-    ['q' => 'How much does intercity shifting cost from Bokaro to Patna, Kolkata, or Delhi?', 'a' => 'Intercity relocation from Bokaro ranges between &#8377;8,500 and &#8377;25,000 depending on total distance, container truck size, and volume of household belongings.'],
+    ['q' => 'How much does local household shifting cost within Bokaro Steel City?', 'a' => 'Local household shifting rates in Bokaro range from ₹3,000 to ₹5,500 for a 1BHK, ₹5,500 to ₹9,500 for a 2BHK, and ₹9,500 to ₹15,000 for a 3BHK home.'],
+    ['q' => 'How much does intercity shifting cost from Bokaro to Patna, Kolkata, or Delhi?', 'a' => 'Intercity relocation from Bokaro ranges between ₹8,500 and ₹25,000 depending on total distance, container truck size, and volume of household belongings.'],
     ['q' => 'Is packaging quality different for local vs intercity shifting in Bokaro?', 'a' => 'Yes, local moves receive 3 to 5-layer standard protective wrapping, while long-distance highway intercity moves receive heavy 7-layer bubble wrap, corrugated sheets, and wooden crating.'],
     ['q' => 'Are highway toll charges and state entry permits included in intercity quotes?', 'a' => 'Yes, our transparent written intercity quotations are 100% all-inclusive covering highway toll taxes, state permits, fuel, driver allowances, and GST billing.'],
     ['q' => 'What truck types are deployed for local vs long-distance intercity moves?', 'a' => 'Local moves deploy open/covered pickups or 14ft trucks, while intercity moves deploy 14ft, 17ft, 19ft, or 24ft fully enclosed container trucks.'],
     ['q' => 'Is transit insurance required for local shifting within Bokaro?', 'a' => 'Transit insurance is optional for short local moves within Bokaro, but strongly recommended for long-distance highway intercity transit.'],
     ['q' => 'Can I choose part-load shared container shipping for long-distance moves?', 'a' => 'Yes, part-load shared container shipping offers economical rates for single furniture items or smaller luggage boxes moving long-distance from Bokaro.'],
     ['q' => 'Does floor height affect both local and intercity shifting charges in Bokaro?', 'a' => 'Yes, carrying heavy items up higher floors (3rd floor and above) without elevator access requires extra labor deployment, which is factored into quotes.'],
-    ['q' => 'How can I get an exact written quotation comparing local vs intercity rates in Bokaro?', 'a' => 'Call +91 8409531615 or WhatsApp your item list to receive an immediate itemized cost breakdown.']
+    ['q' => 'How can I get an exact written quotation comparing local vs intercity rates in Bokaro?', 'a' => 'Call +91 8409531615 or WhatsApp your item list to receive an immediate itemized cost breakdown.'],
+    ['q' => 'What is the labor charge structure for local shifting in Bokaro?', 'a' => 'Labor charges depend on crew size (typically 3–5 trained movers), loading duration, and special heavy-lifting requirements such as double-door refrigerators or marble top tables.'],
+    ['q' => 'Are there hidden charges for weekend or holiday relocations in Bokaro?', 'a' => 'No, Shree Ashirwad Packers maintains transparent pricing with zero weekend or holiday surcharges.'],
+    ['q' => 'How does car or bike transportation impact intercity moving charges?', 'a' => 'Adding a bike adds approximately ₹2,500–₹5,000, while a car adds ₹8,500–₹18,000 depending on destination distance and enclosed carrier type.'],
+    ['q' => 'What payment options are available for local and intercity moves?', 'a' => 'We accept booking advances via UPI, bank transfer, or online payment, with final settlement due upon doorstep delivery.'],
+    ['q' => 'How far in advance should I book an intercity move from Bokaro?', 'a' => 'Intercity relocations should ideally be booked 5 to 7 days in advance to reserve dedicated container trucks and arrange transit permits.'],
+    ['q' => 'Do you provide IBA-approved GST bills for corporate claim reimbursement?', 'a' => 'Yes, all our invoices carry valid 18% GST (SAC 996511) and IBA-compliant consignment LR receipts accepted by PSU and bank employers.'],
+    ['q' => 'What happens if there is a delay during long-distance intercity transit?', 'a' => 'We provide real-time GPS tracking and driver contact updates; any weather or highway delays are communicated proactively.'],
+    ['q' => 'Can I store my household items temporarily between local and intercity moves?', 'a' => 'Yes, we offer secure warehouse storage in Bokaro with 24/7 CCTV surveillance for short-term or long-term retention.'],
+    ['q' => 'Are uninstallation and reinstallation of ACs and wall-mounted TVs included?', 'a' => 'Standard furniture dismantling is included; AC uninstallation/reinstallation and electrical masonry works can be added upon request.'],
+    ['q' => 'Why choose Shree Ashirwad Packers for local or intercity shifting in Bokaro?', 'a' => 'With 15+ years of operational experience, transparent pricing matrices, IBA certification, and 24/7 support, we provide Bokaro\'s most trusted relocation service.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -201,6 +211,35 @@ require_once __DIR__ . '/../includes/header.php';
         </a>
       </div>
 
+    </div>
+  </section>
+
+  <!-- Cluster Internal Link Grid -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+        Related Bokaro Relocation Guides &amp; Services
+      </h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>pages/iba-approved-packers-and-movers-in-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-file-invoice" style="color: #f59e0b; margin-right: 8px;"></i> IBA Approved Movers Bokaro
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/office-relocation-services-in-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-building" style="color: #f59e0b; margin-right: 8px;"></i> Office Relocation Bokaro
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/household-shifting-checklist-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-tasks" style="color: #f59e0b; margin-right: 8px;"></i> Home Shifting Checklist
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/car-and-bike-transport-guide-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-car" style="color: #f59e0b; margin-right: 8px;"></i> Vehicle Transport Guide
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-choose-best-packers-and-movers-in-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-user-check" style="color: #f59e0b; margin-right: 8px;"></i> Choosing Best Movers
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-avoid-fraud-packers-and-movers-in-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-shield-alt" style="color: #f59e0b; margin-right: 8px;"></i> Avoid Moving Scams
+        </a>
+      </div>
     </div>
   </section>
 

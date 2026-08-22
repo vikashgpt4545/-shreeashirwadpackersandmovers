@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Ambikapur | Safe Two-Wheeler Shifting Surguja";
 $page_desc = "Planning bike transportation in Ambikapur, Chhattisgarh? Get safe, insured, and doorstep motorcycle shifting. High-quality multi-layer packing and real-time tracking.";
-$page_keywords = "bike transportation in ambikapur, best bike transportation in ambikapur, affordable bike transportation in ambikapur, packers and movers, packers and movers in ranchi, top bike transportation in ambikapur company, household shifting bike transportation in ambikapur, doorstep bike transportation in ambikapur, verified bike transportation in ambikapur services, shree ashirwad bike transportation in ambikapur";
+$page_keywords = "bike transportation in ambikapur, best bike transportation in ambikapur, affordable bike transportation in ambikapur, packers and movers, top bike transportation in ambikapur company, household shifting bike transportation in ambikapur, doorstep bike transportation in ambikapur, verified bike transportation in ambikapur services, shree ashirwad bike transportation in ambikapur";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-ambikapur.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Ambikapur Surguja Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Ambikapur Two-Wheeler Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Ambikapur is Surguja district's headquarter in Chhattisgarh, situated along NH-43. Shree Ashirwad Packers and Movers provides safe, insured bike relocation across Ring Road, School Road, Manipur, and Gandhinagar localities.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & CG-15 RTO Clearance</h3>
+        <p style="margin-bottom: 20px;">
+          All motorcycles departing Ambikapur are protected with 7-layer bubble wrapping and heavy cardboard sheets. CG-15 Surguja RTO documentation and transit insurance are cleared before highway dispatch to Bilaspur, Raipur, or Ranchi.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

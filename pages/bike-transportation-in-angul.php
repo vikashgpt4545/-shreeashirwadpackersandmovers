@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Angul | Safe Two-Wheeler Shifting Industrial Hub";
 $page_desc = "Planning bike transportation in Angul, Odisha? Get safe, insured, and doorstep motorcycle shifting. High-quality multi-layer packing and real-time tracking.";
-$page_keywords = "bike transportation in angul, best bike transportation in angul, affordable bike transportation in angul, packers and movers, packers and movers in ranchi, top bike transportation in angul company, household shifting bike transportation in angul, doorstep bike transportation in angul, verified bike transportation in angul services, shree ashirwad bike transportation in angul";
+$page_keywords = "bike transportation in angul, best bike transportation in angul, affordable bike transportation in angul, packers and movers, top bike transportation in angul company, household shifting bike transportation in angul, doorstep bike transportation in angul, verified bike transportation in angul services, shree ashirwad bike transportation in angul";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-angul.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Angul Odisha Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Angul Industrial Belt Two-Wheeler Logistics</h2>
+        <p style="margin-bottom: 20px;">
+          Angul is Odisha's major industrial hub housing NALCO Nagar, JSPL, and thermal power complexes. Shree Ashirwad Packers and Movers provides doorstep motorcycle transport across NALCO Nagar, Tamrit Colony, Hakimpada, and Hulurisingha via NH-55.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & OD-19 RTO Verification</h3>
+        <p style="margin-bottom: 20px;">
+          Two-wheelers collected in Angul are protected with 7-layer bubble wrap and heavy corrugated sheets before highway haulage to Bhubaneswar, Cuttack, or interstate terminals. OD-19 Angul RTO documentation is checked prior to dispatch.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

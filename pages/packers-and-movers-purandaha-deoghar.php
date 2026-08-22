@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = 'Packers and Movers in Purandaha Deoghar | IBA Approved Shifting';
@@ -8,29 +8,73 @@ $page_keywords = 'packers and movers purandaha deoghar, movers and packers deogh
 $page_city = 'Deoghar';
 
 $faq_list = [
-    ['q' => 'What are the shifting charges for Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for What are the shifting charges for Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'How long does delivery take for Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for How long does delivery take for Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Do you provide IBA approved bills for Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Do you provide IBA approved bills for Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'How are cars and bikes transported for Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for How are cars and bikes transported for Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Is transit insurance provided for Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Is transit insurance provided for Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'What packaging materials are used for fragile items?', 'a' => 'Detailed response for What packaging materials are used for fragile items? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Can I track my container truck during transit?', 'a' => 'Detailed response for Can I track my container truck during transit? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Do your packers assemble furniture at destination?', 'a' => 'Detailed response for Do your packers assemble furniture at destination? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Are there any hidden toll or entry tax charges?', 'a' => 'Detailed response for Are there any hidden toll or entry tax charges? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'What is the contact phone number for booking?', 'a' => 'Detailed response for What is the contact phone number for booking? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 11 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 11 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 12 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 12 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 13 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 13 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 14 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 14 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 15 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 15 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 16 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 16 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 17 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 17 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 18 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 18 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 19 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 19 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 20 regarding Packers and Movers in Purandaha Deoghar?', 'a' => 'Detailed response for Additional Service Query 20 regarding Packers and Movers in Purandaha Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'What are the household shifting charges in Purandaha Deoghar?', 'a' => 'Local shifting in Purandaha Deoghar starts from ₹4,500 for 1 BHK, ₹8,500 for 2 BHK, and ₹14,500 for 3 BHK homes depending on goods volume and packing requirements.'],
+    ['q' => 'Do you provide IBA approved GST bills for official claims in Purandaha Deoghar?', 'a' => 'Yes, Shree Ashirwad Packers and Movers provides genuine IBA approved GST bills with complete consigment note, invoice, and itemized breakdown for government and corporate claim reimbursements.'],
+    ['q' => 'How are fragile items and electronics protected during shifting in Purandaha?', 'a' => 'We use a 7-layer safety packaging system including 80-GSM bubble wrap, corrugated sheets, foam edge guards, stretch film, and custom wooden crating for LEDs and glass items.'],
+    ['q' => 'What is the transit time from Purandaha Deoghar to major cities like Ranchi or Patna?', 'a' => 'Intercity relocations to Ranchi, Patna, or Kolkata are typically delivered within 24 to 48 hours using dedicated GPS-enabled container vehicles.'],
+    ['q' => 'Is transit insurance provided for home relocation in Purandaha Deoghar?', 'a' => 'Yes, we offer 100% full transit insurance coverage (1.5% - 3% value) protecting your belongings against accidental damage, theft, or unforeseen transit risks.'],
+    ['q' => 'Can you transport cars and two-wheelers from Purandaha Deoghar?', 'a' => 'We operate specialized closed car carriers and bike transport vehicles with wheel-chock locking systems for 100% scratch-free vehicle shifting.'],
+    ['q' => 'What documentation is required to book Packers and Movers in Purandaha?', 'a' => 'You need basic identity proof (Aadhaar or PAN) and destination address details for consignment note preparation and GST billing.'],
+    ['q' => 'Do your moving experts handle disassembly and reassembly of furniture?', 'a' => 'Yes, our trained crew handles complete dismantling and reassembly of beds, wardrobes, dining tables, and modular furniture at no extra labor cost.'],
+    ['q' => 'Are there any hidden costs like toll charges or unloading fees?', 'a' => 'No, our written quotations are 100% transparent and inclusive of all packing, loading, highway toll taxes, unloading, and unboxing charges.'],
+    ['q' => 'How far in advance should I book my relocation from Purandaha?', 'a' => 'We recommend booking 2 to 4 days prior to your preferred shifting date to secure dedicated container trucks and specialized crew.'],
+    ['q' => 'Do you provide warehouse storage facilities in Deoghar region?', 'a' => 'Yes, we offer secure, climate-controlled, 24/7 CCTV monitored short-term and long-term warehouse storage in Deoghar for household and commercial goods.'],
+    ['q' => 'How can I track my consignment truck during intercity transit?', 'a' => 'Every container vehicle is outfitted with live GPS tracking systems, and our move supervisor provides real-time location updates directly via WhatsApp.'],
+    ['q' => 'What safety measures are followed for bike transport from Purandaha?', 'a' => 'Bikes are wrapped in paddy sheet, bubble wrap, and corrugated board before being locked with safety belts inside enclosed car carriers.'],
+    ['q' => 'Do you offer office and commercial relocation services in Deoghar district?', 'a' => 'Yes, we specialize in office shifting, IT equipment moving, server rack transport, and industrial machinery shifting with minimal operational downtime.'],
+    ['q' => 'What is the process to claim transit insurance in case of damage?', 'a' => 'In the rare event of damage, note it on the consignment receipt during delivery, submit photos, and our team settles the claim directly with the insurance provider.'],
+    ['q' => 'Can I transport household gas cylinders and liquids?', 'a' => 'For safety compliance, empty gas cylinders are accepted with proper clearance, while inflammable liquids and hazardous items are strictly prohibited.'],
+    ['q' => 'How do you handle high-rise apartment shifting without service lifts?', 'a' => 'Our crew is equipped with heavy-duty moving straps, ropes, and portable ramps to maneuver bulky furniture safely through staircases.'],
+    ['q' => 'Are weekends or end-of-month dates more expensive for shifting?', 'a' => 'We maintain uniform transparent pricing throughout the month, though early booking is advised for weekends due to high customer demand.'],
+    ['q' => 'What is the contact number for instant quote and booking in Purandaha Deoghar?', 'a' => 'You can call our master customer helpline directly at +91 9955554330 or message us on WhatsApp for an instant zero-obligation quote.'],
+    ['q' => 'Why choose Shree Ashirwad Packers and Movers over unverified local vendors?', 'a' => 'We are an IBA approved, ISO certified company with 15+ years of experience, owned dedicated fleet, transparent pricing, and 100% damage-free delivery record.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
+?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MovingCompany",
+      "@id": "<?php echo SITE_URL; ?>packers-and-movers-purandaha-deoghar#organization",
+      "name": "Shree Ashirwad Packers and Movers Purandaha Deoghar",
+      "url": "<?php echo SITE_URL; ?>packers-and-movers-purandaha-deoghar",
+      "logo": "<?php echo SITE_URL; ?>assets/images/logo.png",
+      "telephone": "+91-9955554330",
+      "priceRange": "₹2,500 - ₹25,000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Purandaha, Deoghar",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Purandaha, Deoghar"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "<?php echo SITE_URL; ?>packers-and-movers-purandaha-deoghar#faq",
+      "mainEntity": [
+        <?php foreach ($faq_list as $i => $faq): ?>
+        {
+          "@type": "Question",
+          "name": <?php echo json_encode($faq['q']); ?>,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": <?php echo json_encode($faq['a']); ?>
+          }
+        }<?php echo ($i < count($faq_list) - 1) ? ',' : ''; ?>
+        <?php endforeach; ?>
+      ]
+    }
+  ]
+}
+</script>
 ?>
 
 <main class="site-main">

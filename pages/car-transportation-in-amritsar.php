@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Amritsar 8409531615";
 $page_desc = "Reliable car transportation in Amritsar. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in amritsar, best car transportation in amritsar, affordable car transportation in amritsar, packers and movers, packers and movers in ranchi, top car transportation in amritsar company, household shifting car transportation in amritsar, doorstep car transportation in amritsar, verified car transportation in amritsar services, shree ashirwad car transportation in amritsar";
+$page_keywords = "car transportation in amritsar, best car transportation in amritsar, affordable car transportation in amritsar, packers and movers, top car transportation in amritsar company, household shifting car transportation in amritsar, doorstep car transportation in amritsar, verified car transportation in amritsar services, shree ashirwad car transportation in amritsar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-amritsar.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Amritsar Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Amritsar Car Carrier & Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides specialized car carrier services in Amritsar. Operating via covered container trailers, we ensure safe nationwide car relocation for all vehicle types.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Insurance Protection</h3>
+        <p style="margin-bottom: 20px;">
+          Every car transported from Amritsar is fully insured and secured using hydraulic ramps and nylon safety tie-downs.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

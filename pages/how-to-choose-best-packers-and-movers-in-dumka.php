@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "How to Choose the Best Packers and Movers in Dumka: Complete Guide";
 $page_desc = "Expert guide on selecting reliable, IBA-approved packers and movers in Dumka. Learn key verification factors, GST bill verification, and quote evaluation.";
 $page_keywords = "choose best packers movers dumka, verified movers dumka, hire reliable packers dumka, IBA approved movers verification, best moving company dumka, shifting guide dumka, relocation tips dumka, check GST bill movers, avoid moving scams dumka, top rated packers dumka, safe home shifting dumka, moving agency selection dumka, transport verification dumka, luggage movers guide dumka, ashrivad packers tips";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/how-to-choose-best-packers-and-movers-in-dumka.php";
 
 $page_city = "Dumka";
 $page_locality = "District-wide Dumka";

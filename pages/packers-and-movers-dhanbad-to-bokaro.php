@@ -5,9 +5,52 @@ $page_title = "Packers and Movers Dhanbad to Bokaro 8409531615";
 $page_desc = "Get reliable packers and movers services from Dhanbad to Bokaro. Shree Ashirwad Packers and Movers offers secure household shifting, vehicle transport, and transit insurance with zero hidden charges. Complete door-to-door relocation coverage across Sector 1-12, Chas, Co-operative Colony, City Centre, Sector 4 Market.";
 $page_keywords = "packers and movers dhanbad to bokaro, best packers and movers dhanbad to bokaro, affordable packers and movers dhanbad to bokaro, packers and movers, packers and movers in ranchi, top packers and movers dhanbad to bokaro company, household shifting packers and movers dhanbad to bokaro, doorstep packers and movers dhanbad to bokaro, verified packers and movers dhanbad to bokaro services, shree ashirwad packers and movers dhanbad to bokaro";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-dhanbad-to-bokaro.php";
+$page_city = "Dhanbad";
+
+$faq_list = [
+    [
+        'q' => 'How much does home shifting from Dhanbad to Bokaro cost?',
+        'a' => 'Intercity house relocation from Dhanbad to Bokaro ranges from ₹4,500 to ₹7,500 for 1BHK, ₹7,500 to ₹12,500 for 2BHK, and ₹12,500 to ₹18,500 for 3BHK residences, depending on volume and packaging material.'
+    ],
+    [
+        'q' => 'How long does moving goods from Dhanbad to Bokaro take?',
+        'a' => 'The transit distance via NH-32 and Chas is approximately 45 km. Our dedicated container trucks complete door delivery within 2 to 3 hours.'
+    ],
+    [
+        'q' => 'Are your GST invoices valid for SAIL, BCCL, Govt, and Bank employee claim reimbursement?',
+        'a' => 'Yes, we issue 100% genuine IBA-compliant GST bills, Lorry Receipts (LR Copy), itemized inventory lists, and money receipts for SAIL, BCCL, Govt, PSU, and Bank employee transfer claims.'
+    ],
+    [
+        'q' => 'Do you provide car carrier transport from Dhanbad to Bokaro?',
+        'a' => 'Yes, we operate enclosed hydraulic car trailers and single-car carriers equipped with wheel lock safety systems for scratch-free vehicle transit.'
+    ],
+    [
+        'q' => 'How are motorcycles and bikes shipped from Dhanbad to Bokaro?',
+        'a' => 'Bikes are multi-wrapped with bubble wrap, corrugated sheets, foam pads, and handlebar protectors, then transported inside closed container trucks.'
+    ],
+    [
+        'q' => 'What packaging materials are used for shifting to Bokaro?',
+        'a' => 'We deploy a 7-layer protective system comprising heavy air-bubble rolls, 5-ply corrugated sheets, waterproof shrink wrap, foam edge guards, corner protectors, and custom wooden crating.'
+    ],
+    [
+        'q' => 'Is transit insurance included for Dhanbad to Bokaro relocation?',
+        'a' => 'Yes, we provide 100% full-value transit insurance policy documentation protecting your household goods, electronics, and vehicles against highway risks.'
+    ],
+    [
+        'q' => 'How early should I book shifting services from Dhanbad to Bokaro?',
+        'a' => 'We recommend booking 1 to 2 days prior to your preferred moving date to reserve your dedicated container truck and packing team.'
+    ],
+    [
+        'q' => 'Do you dismantle and reassemble furniture like double beds and wardrobes?',
+        'a' => 'Yes, our experienced carpenters disassemble beds, wardrobes, dining tables, and TV units at your Dhanbad residence and reassemble them at your Bokaro address.'
+    ],
+    [
+        'q' => 'Are there any hidden fees added after quotation?',
+        'a' => 'No, we provide 100% transparent fixed written quotes prior to move execution without any hidden or unexpected fees.'
+    ]
+];
 
 require_once __DIR__ . '/../includes/header.php';
-?>
 ?>
 
 <main class="site-main">

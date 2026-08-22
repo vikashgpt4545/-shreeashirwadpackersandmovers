@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Kolkata 8409531615";
 $page_desc = "Reliable car transportation in Kolkata. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615. Complete door-to-door relocation coverage across Salt Lake, New Town, Park Street, Howrah, Dum Dum, Ballygunge.";
-$page_keywords = "car transportation in kolkata, best car transportation in kolkata, affordable car transportation in kolkata, packers and movers, packers and movers in ranchi, top car transportation in kolkata company, household shifting car transportation in kolkata, doorstep car transportation in kolkata, verified car transportation in kolkata services, shree ashirwad car transportation in kolkata";
+$page_keywords = "car transportation in kolkata, best car transportation in kolkata, affordable car transportation in kolkata, packers and movers, top car transportation in kolkata company, household shifting car transportation in kolkata, doorstep car transportation in kolkata, verified car transportation in kolkata services, shree ashirwad car transportation in kolkata";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-kolkata.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Kolkata Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Kolkata Enclosed & Open Car Shipping Hub</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers operates hydraulic car carrier services out of Dankuni Expressway Terminal (NH-19 / NH-16) for cars relocating from Kolkata, Salt Lake, New Town, and Howrah to major Indian metros.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Dankuni Ramp Terminals</h3>
+        <p style="margin-bottom: 20px;">
+          Vehicles transported from Kolkata are mounted on multi-car enclosed or open carriers with soft harness tie-downs, wheel locks, and 100% transit insurance.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

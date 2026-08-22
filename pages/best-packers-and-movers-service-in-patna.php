@@ -1,10 +1,53 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Best Packers and Movers Service in Patna 8409531615";
-$page_desc = "Hire the best packers and movers service in Patna. Shree Ashirwad Packers and Movers delivers premium, damage-free household relocations, vehicle transit, and secure commercial moves. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.";
-$page_keywords = "best packers and movers service in patna, best best packers and movers service in patna, affordable best packers and movers service in patna, packers and movers, packers and movers in ranchi, top best packers and movers service in patna company, household shifting best packers and movers service in patna, doorstep best packers and movers service in patna, verified best packers and movers service in patna services, shree ashirwad best packers and movers service in patna";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/best-packers-and-movers-service-in-patna.php";
+$page_title = "Best Packers and Movers Service in Patna | Full Relocation Solutions";
+$page_desc = "Looking for the best packers and movers service in Patna? Shree Ashirwad provides complete household shifting, bike transport, car carrier, and IBA-approved GST billing.";
+$page_keywords = "best packers and movers service in patna, top relocation service patna, complete shifting service patna, IBA GST bill movers patna, professional packing service patna";
+$page_city = "Patna, Bihar";
+
+$faq_list = [
+    [
+        'q' => 'What services are included in the best packers and movers service package in Patna?',
+        'a' => 'Our full service includes doorstep physical survey, 7-layer protective packing, loading, enclosed container highway transit, unloading, unpacking, and furniture re-assembly.'
+    ],
+    [
+        'q' => 'How much does full-service packing and moving cost in Patna?',
+        'a' => 'Local 1BHK service ranges from ₹4,200 to ₹6,500, 2BHK service ranges from ₹6,500 to ₹9,500, and 3BHK household service ranges from ₹9,500 to ₹14,500.'
+    ],
+    [
+        'q' => 'Which areas in Patna receive full-service doorstep relocation support?',
+        'a' => 'Doorstep service covers Boring Road, Kankarbagh, Danapur, Bailey Road, Patliputra Colony, Ashiana Nagar, Exhibition Road, and Bihta.'
+    ],
+    [
+        'q' => 'Do you offer bike transportation service in Patna?',
+        'a' => 'Yes, two-wheelers are packed using 7-layer bubble/foam wrap and shipped in wooden/metal crates inside container trucks.'
+    ],
+    [
+        'q' => 'Do you provide enclosed car carrier service from Patna to other states?',
+        'a' => 'Yes, dedicated enclosed hydraulic car trailers are used for zero-scratch interstate automobile transportation.'
+    ],
+    [
+        'q' => 'Are IBA approved GST invoices supplied for official corporate claims?',
+        'a' => 'Yes, 100% official IBA-compliant GST consignment invoices, bills, and payment receipts are supplied for government and corporate claim reimbursements.'
+    ],
+    [
+        'q' => 'Is transit insurance included in full-service shifting packages?',
+        'a' => 'Yes, comprehensive transit insurance policy certificates covering declared goods value are issued before vehicle dispatch.'
+    ],
+    [
+        'q' => 'Can I schedule a weekend or holiday move in Patna?',
+        'a' => 'Yes, our relocation services operate 7 days a week, including weekends and public holidays.'
+    ],
+    [
+        'q' => 'How are electronic appliances and computers packed safely?',
+        'a' => 'Laptops, TVs, and monitors are packed in anti-static bubble wrap, double-walled corrugated boxes, and foam corner blocks.'
+    ],
+    [
+        'q' => 'How can I request a full-service moving quote for Patna?',
+        'a' => 'Call +91 8409531615 or submit your request via WhatsApp for an immediate itemized cost breakdown.'
+    ]
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -23,56 +66,64 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 
   <!-- Hero Section with Lead Form -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
+  <section class="hero-section" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
         <!-- Hero Text Column -->
         <div class="hero-text">
-          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BEST PACKERS AND MOVERS SERVIC RELOCATION SPECIALISTS
+          <span class="section-tag" style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+            FULL RELOCATION SERVICE PATNA
           </span>
           <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Best Packers and Movers Service in Patna</span>
+            The <span style="color: #10b981;">Best Packers & Movers Service</span> in Patna
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Hire the best packers and movers service in Patna. Shree Ashirwad Packers and Movers delivers premium, damage-free household relocations, vehicle transit, and secure commercial moves. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.
+            Shree Ashirwad Packers and Movers delivers full-service household relocation, vehicle shipping, and IBA-approved GST billing across Patna with 7-layer protective packaging and 24/7 tracking.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20full-service%20shifting%20quote%20for%20Patna." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+          <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 20px;">
+            <div>
+              <h4 style="color: #10b981; font-size: 1.3rem; margin-bottom: 2px;">Full Service</h4>
+              <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Packing to Setup</p>
+            </div>
+            <div>
+              <h4 style="color: #10b981; font-size: 1.3rem; margin-bottom: 2px;">7-Layer</h4>
+              <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Safety Wrap Spec</p>
+            </div>
+            <div>
+              <h4 style="color: #10b981; font-size: 1.3rem; margin-bottom: 2px;">IBA Approved</h4>
+              <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">GST Invoice</p>
+            </div>
           </div>
         </div>
 
-        <!-- Hero Lead Form Column -->
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Boring Road Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
-
-          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;">
-              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Boring Road" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
+        <!-- Hero Form Column -->
+        <div class="hero-form-wrapper" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 30px; border-radius: 16px;">
+          <h3 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 20px; text-align: center;">Get Full-Service Quote</h3>
+          <form id="heroLeadForm" onsubmit="sendHeroWhatsAppLead(event)" style="display: flex; flex-direction: column; gap: 15px;">
+            <input type="text" id="hero_name" placeholder="Your Full Name *" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.2); background: rgba(0, 0, 0, 0.3); color: #ffffff; font-size: 0.95rem;">
+            <input type="tel" id="hero_phone" placeholder="Mobile / WhatsApp Number *" required pattern="[0-9]{10}" style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.2); background: rgba(0, 0, 0, 0.3); color: #ffffff; font-size: 0.95rem;">
+            <input type="text" id="hero_from" placeholder="Pickup Locality in Patna *" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.2); background: rgba(0, 0, 0, 0.3); color: #ffffff; font-size: 0.95rem;">
+            <input type="text" id="hero_to" placeholder="Destination City / Locality *" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.2); background: rgba(0, 0, 0, 0.3); color: #ffffff; font-size: 0.95rem;">
+            <select id="hero_service" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.2); background: #1e293b; color: #ffffff; font-size: 0.95rem;">
+              <option value="Full Service 1BHK Relocation">Full Service 1BHK Relocation</option>
+              <option value="Full Service 2BHK Relocation">Full Service 2BHK Relocation</option>
+              <option value="Full Service 3BHK Relocation">Full Service 3BHK Relocation</option>
+              <option value="Car Carrier Service">Enclosed Car Carrier Service</option>
+              <option value="Two-Wheeler Bike Transport">Two-Wheeler Bike Transport</option>
+            </select>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border: none; border-radius: 8px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
+              Get Full-Service Quote on WhatsApp <i class="fab fa-whatsapp" style="margin-left: 6px;"></i>
             </button>
           </form>
         </div>
@@ -81,8 +132,181 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Service Guide Section -->
+  <section class="service-guide" style="padding: 60px 0; background: #f8fafc;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; background: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+        
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px; font-weight: 800;">
+          Full-Service Relocation Standard in Patna
+        </h2>
+        
+        <p style="font-size: 1.05rem; line-height: 1.8; color: #334155; margin-bottom: 20px;">
+          Our full-service relocation packages take the stress out of moving. From initial doorstep evaluation to complete unpacking at your new location in <strong>Patna (Bihar)</strong>, we handle every detail across <strong>Boring Road, Kankarbagh, Danapur, Bailey Road, Patliputra Colony, Ashiana Nagar, Exhibition Road, and Bihta</strong>.
+        </p>
+
+        <h3 style="font-size: 1.4rem; color: #1e293b; margin: 25px 0 15px; font-weight: 700;">
+          Comprehensive Service Spectrum
+        </h3>
+        
+        <ul style="line-height: 1.8; color: #334155; margin-bottom: 25px; padding-left: 20px;">
+          <li><strong>Doorstep Survey & Customized Planning:</strong> Expert assessment of goods volume and transit logistics.</li>
+          <li><strong>Multi-Layer Professional Packing:</strong> Bubble wrap, corrugated boxes, foam blocks, and stretch film sealing.</li>
+          <li><strong>Weatherproof Container Transport:</strong> Fully enclosed trucks with hydraulic ramp loading and GPS tracking.</li>
+          <li><strong>Unpacking & Furniture Re-Assembly:</strong> Dedicated team re-assembles wardrobes, beds, and dining setups.</li>
+        </ul>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Rate Matrix Table -->
+  <section class="rate-matrix" style="padding: 60px 0; background: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 700px; margin: 0 auto 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a;">Full-Service Relocation Tariff Matrix (Patna)</h2>
+        <p style="color: #64748b; font-size: 1.05rem;">Itemized rates for full-service household moving in Patna.</p>
+      </div>
+
+      <div style="max-width: 950px; margin: 0 auto; overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06);">
+          <thead>
+            <tr style="background: #0f172a; color: #ffffff; text-align: left;">
+              <th style="padding: 16px 20px; font-size: 0.95rem;">Service Package</th>
+              <th style="padding: 16px 20px; font-size: 0.95rem;">Local Patna Shifting</th>
+              <th style="padding: 16px 20px; font-size: 0.95rem;">Intercity (Up to 500 km)</th>
+              <th style="padding: 16px 20px; font-size: 0.95rem;">Interstate Relocation</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid #e2e8f0;">
+              <td style="padding: 16px 20px; font-weight: 600; color: #1e293b;">1 BHK Full-Service Relocation</td>
+              <td style="padding: 16px 20px; color: #059669; font-weight: 700;">₹4,200 - ₹6,500</td>
+              <td style="padding: 16px 20px; color: #3b82f6; font-weight: 700;">₹9,000 - ₹14,500</td>
+              <td style="padding: 16px 20px; color: #6366f1; font-weight: 700;">₹14,000 - ₹20,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #e2e8f0; background: #f8fafc;">
+              <td style="padding: 16px 20px; font-weight: 600; color: #1e293b;">2 BHK Full-Service Relocation</td>
+              <td style="padding: 16px 20px; color: #059669; font-weight: 700;">₹6,500 - ₹9,500</td>
+              <td style="padding: 16px 20px; color: #3b82f6; font-weight: 700;">₹14,000 - ₹22,000</td>
+              <td style="padding: 16px 20px; color: #6366f1; font-weight: 700;">₹21,000 - ₹31,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #e2e8f0;">
+              <td style="padding: 16px 20px; font-weight: 600; color: #1e293b;">3 BHK Full-Service Relocation</td>
+              <td style="padding: 16px 20px; color: #059669; font-weight: 700;">₹9,500 - ₹14,500</td>
+              <td style="padding: 16px 20px; color: #3b82f6; font-weight: 700;">₹21,000 - ₹32,000</td>
+              <td style="padding: 16px 20px; color: #6366f1; font-weight: 700;">₹30,000 - ₹46,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #e2e8f0; background: #f8fafc;">
+              <td style="padding: 16px 20px; font-weight: 600; color: #1e293b;">Bike Shipping Service</td>
+              <td style="padding: 16px 20px; color: #059669; font-weight: 700;">₹2,000 - ₹3,200</td>
+              <td style="padding: 16px 20px; color: #3b82f6; font-weight: 700;">₹3,500 - ₹5,500</td>
+              <td style="padding: 16px 20px; color: #6366f1; font-weight: 700;">₹5,200 - ₹8,000</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 600; color: #1e293b;">Car Transport Service</td>
+              <td style="padding: 16px 20px; color: #059669; font-weight: 700;">₹4,800 - ₹7,200</td>
+              <td style="padding: 16px 20px; color: #3b82f6; font-weight: 700;">₹9,000 - ₹15,000</td>
+              <td style="padding: 16px 20px; color: #6366f1; font-weight: 700;">₹14,000 - ₹23,000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section with Schema Support -->
+  <section class="faq-section" style="padding: 60px 0; background: #f8fafc;">
+    <div class="container">
+      <div style="text-align: center; max-width: 700px; margin: 0 auto 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a;">Frequently Asked Questions (Relocation Service Patna)</h2>
+        <p style="color: #64748b; font-size: 1.05rem;">Common questions about full-service packing and moving solutions in Patna.</p>
+      </div>
+
+      <div style="max-width: 850px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.02);">
+            <h4 style="font-size: 1.1rem; color: #0f172a; margin-bottom: 10px; font-weight: 700;">
+              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?>
+            </h4>
+            <p style="font-size: 0.98rem; color: #475569; line-height: 1.7; margin: 0;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<!-- Inline JSON-LD Structured Data Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_faqs = [];
+    foreach ($faq_list as $faq) {
+        $schema_faqs[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($faq['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($faq['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_faqs);
+    ?>
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers",
+  "description": "The best packers and movers service in Patna providing complete end-to-end relocation, 7-layer safety packaging, and IBA-approved GST bills.",
+  "url": "<?php echo SITE_URL; ?>/best-packers-and-movers-service-in-patna.php",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Patna, Bihar",
+  "priceRange": "₹4200 - ₹46000"
+}
+</script>
+
+<!-- Custom WhatsApp Lead Handler Script -->
+<script>
+function sendHeroWhatsAppLead(event) {
+  event.preventDefault();
+  
+  var name = document.getElementById('hero_name').value.trim();
+  var phone = document.getElementById('hero_phone').value.trim();
+  var from = document.getElementById('hero_from').value.trim();
+  var to = document.getElementById('hero_to').value.trim();
+  var service = document.getElementById('hero_service').value;
+
+  var message = "Hello Shree Ashirwad Packers,%0A%0A" +
+    "I would like to request a *Full-Service Relocation Quote* for Patna:%0A" +
+    "*Name:* " + encodeURIComponent(name) + "%0A" +
+    "*Phone:* " + encodeURIComponent(phone) + "%0A" +
+    "*Pickup Locality:* " + encodeURIComponent(from) + "%0A" +
+    "*Destination:* " + encodeURIComponent(to) + "%0A" +
+    "*Service Type:* " + encodeURIComponent(service) + "%0A%0A" +
+    "Please send me a full-service relocation quote on WhatsApp.";
+
+  window.open("https://wa.me/918409531615?text=" + message, "_blank");
+}
+</script>
+
+<?php 
+require_once __DIR__ . '/../includes/footer.php'; 
+?>

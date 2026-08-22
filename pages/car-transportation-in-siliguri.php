@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Siliguri 8409531615";
 $page_desc = "Reliable car transportation in Siliguri. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in siliguri, best car transportation in siliguri, affordable car transportation in siliguri, packers and movers, packers and movers in ranchi, top car transportation in siliguri company, household shifting car transportation in siliguri, doorstep car transportation in siliguri, verified car transportation in siliguri services, shree ashirwad car transportation in siliguri";
+$page_keywords = "car transportation in siliguri, best car transportation in siliguri, affordable car transportation in siliguri, packers and movers, top car transportation in siliguri company, household shifting car transportation in siliguri, doorstep car transportation in siliguri, verified car transportation in siliguri services, shree ashirwad car transportation in siliguri";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-siliguri.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -50,7 +50,7 @@ require_once __DIR__ . '/../includes/header.php';
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
             <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
+            <span><strong style="color: #f59e0b;">Enclosed Carrier</strong> Option</span>
             <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
           </div>
         </div>
@@ -81,7 +81,29 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Logistics Guide & Local Information -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Car Transportation Services in Siliguri, West Bengal</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides professional open-car trailers and covered car carrier services in Siliguri, West Bengal. Our car transport solution features hydraulic loading ramps, wheel stoppers, multi-point safety tie-downs, and full transit insurance protection.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Local Transport Corridors & RTO Clearance</h3>
+        <p style="margin-bottom: 20px;">
+          Siliguri is the primary transit gateway for North Bengal & Sikkim (WB-74 RTO). Detail Fulbari Truck Terminal, Matigara Industrial Hub, and NH-27 bypass routes for enclosed vehicle carriers.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Car Carrier Transport Protocol & Insurance</h3>
+        <p style="margin-bottom: 20px;">
+          Hydraulic loading ramp safety, multi-point tire tie-down straps, and pre-loading inspection checklists. Prior to dispatch, our vehicle specialists perform comprehensive exterior inspection, document odometer readings, lock down doors, and secure battery connections for safe long-distance highway hauling.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

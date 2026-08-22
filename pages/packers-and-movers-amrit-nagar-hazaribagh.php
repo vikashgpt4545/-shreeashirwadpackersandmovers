@@ -1,39 +1,82 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = 'Packers and Movers in Amrit Nagar Hazaribagh | IBA Approved Shifting';
-$page_desc = 'Safe Packers and Movers in Amrit Nagar Hazaribagh by Shree Ashirwad. IBA approved home, car & bike transport with insurance via NH-33 corridor. Call +91 9955554330!';
-$page_keywords = 'packers and movers amrit nagar hazaribagh, movers and packers hazaribagh, shifting charges hazaribagh, home relocation hazaribagh, bike transport hazaribagh, car transport hazaribagh, IBA approved packers movers hazaribagh';
+$page_title = "Packers and Movers Amrit Nagar Hazaribagh | 8409531615";
+$page_desc = "Packers and Movers in Amrit Nagar Hazaribagh by Shree Ashirwad. IBA approved household shifting, bike/car transport, 7-layer packaging & GST bills. Call 8409531615.";
+$page_keywords = "packers and movers amrit nagar hazaribagh, packers and movers in amrit nagar, best packers movers amrit nagar hazaribagh, house shifting amrit nagar hazaribagh, bike transport hazaribagh, car carrier amrit nagar, IBA approved movers hazaribagh";
 
-$page_city = 'Hazaribagh';
+$page_city = "Hazaribagh";
+$canonical_url = SITE_URL . 'packers-and-movers-in-hazaribagh';
 
 $faq_list = [
-    ['q' => 'What are the shifting charges for Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for What are the shifting charges for Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'How long does delivery take for Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for How long does delivery take for Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Do you provide IBA approved bills for Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Do you provide IBA approved bills for Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'How are cars and bikes transported for Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for How are cars and bikes transported for Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Is transit insurance provided for Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Is transit insurance provided for Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'What packaging materials are used for fragile items?', 'a' => 'Detailed response for What packaging materials are used for fragile items? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Can I track my container truck during transit?', 'a' => 'Detailed response for Can I track my container truck during transit? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Do your packers assemble furniture at destination?', 'a' => 'Detailed response for Do your packers assemble furniture at destination? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Are there any hidden toll or entry tax charges?', 'a' => 'Detailed response for Are there any hidden toll or entry tax charges? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'What is the contact phone number for booking?', 'a' => 'Detailed response for What is the contact phone number for booking? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 11 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 11 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 12 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 12 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 13 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 13 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 14 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 14 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 15 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 15 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 16 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 16 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 17 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 17 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 18 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 18 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 19 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 19 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 20 regarding Packers and Movers in Amrit Nagar Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 20 regarding Packers and Movers in Amrit Nagar Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
+    [
+        'q' => 'What services do Packers and Movers in Amrit Nagar Hazaribagh offer?',
+        'a' => 'Shree Ashirwad Packers and Movers provides complete household shifting, office relocation, car carrier transport, bike shipping, IBA-approved billing, and secure warehouse storage across Amrit Nagar and Hazaribagh.'
+    ],
+    [
+        'q' => 'How are house shifting charges calculated in Amrit Nagar Hazaribagh?',
+        'a' => 'Relocation charges depend on the volume of goods, packing material quality, floor height, elevator access, and destination distance. Local moves in Hazaribagh start at ₹3,500.'
+    ],
+    [
+        'q' => 'Do you provide IBA approved GST bills for employer reimbursement?',
+        'a' => 'Yes! We issue 100% genuine IBA-compliant GST invoices, Lorry Receipts (LR), packing lists, and official receipts accepted by government departments, CCL, PSU firms, and corporate employers.'
+    ],
+    [
+        'q' => 'How many days before moving should I book packers in Amrit Nagar?',
+        'a' => 'We recommend booking 2 to 4 days in advance for local Hazaribagh shifting and 5 to 7 days in advance for long-distance intercity moves.'
+    ],
+    [
+        'q' => 'How do you protect delicate furniture and Smart TVs during transit?',
+        'a' => 'We use a 7-layer protective packaging system comprising heavy-duty bubble wrap, 5-ply corrugated cardboard sheets, stretch film, foam corner guards, and custom wooden crating.'
+    ],
+    [
+        'q' => 'Is live GPS vehicle tracking available for container trucks?',
+        'a' => 'Yes, all our dedicated enclosed moving container trucks feature 24/7 GPS satellite tracking with real-time location updates provided to clients.'
+    ],
+    [
+        'q' => 'Do you provide safe bike and car transport from Amrit Nagar Hazaribagh?',
+        'a' => 'Yes, we operate specialized hydraulic covered car trailers and wheel-locked bike container carriers with paddy-padded wrapping for scratch-free vehicle transport.'
+    ],
+    [
+        'q' => 'Is transit insurance included with home relocation from Amrit Nagar?',
+        'a' => 'Yes, we provide 100% full-value transit insurance policy documentation protecting household goods, appliances, and vehicles against transit risks.'
+    ],
+    [
+        'q' => 'Do your packers disassemble and reassemble furniture at the new home?',
+        'a' => 'Yes, our experienced technicians dismantle double beds, modular wardrobes, and wall units at origin and reassemble them at your destination.'
+    ],
+    [
+        'q' => 'Are there any hidden costs added on shifting day?',
+        'a' => 'No, we provide 100% price transparency with written itemized quotes provided prior to move execution.'
+    ],
+    [
+        'q' => 'What is the helpline number for packers and movers in Amrit Nagar Hazaribagh?',
+        'a' => 'Call +91 8409531615 or submit your request via WhatsApp for instant shifting quotes and survey scheduling.'
+    ],
+    [
+        'q' => 'Can you handle commercial office and shop shifting in Amrit Nagar?',
+        'a' => 'Yes, we provide office desk moving, IT server transport, document archiving, and commercial equipment relocation across Hazaribagh.'
+    ],
+    [
+        'q' => 'Do you provide warehouse storage facilities in Hazaribagh?',
+        'a' => 'Yes, we operate secure, CCTV-monitored, moisture-proof short-term and long-term storage facilities in Hazaribagh.'
+    ],
+    [
+        'q' => 'Are packing materials included in the estimated shifting quote?',
+        'a' => 'Yes, all 7 layers of packaging materials (bubble wrap, corrugated sheets, stretch wrap, cartons) are fully included in the estimate.'
+    ],
+    [
+        'q' => 'Do your moving teams operate on weekends and public holidays?',
+        'a' => 'Yes, our crews operate 365 days a year, including Sundays and holidays, to accommodate your schedule.'
+    ]
 ];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
@@ -41,155 +84,245 @@ require_once __DIR__ . '/../includes/header.php';
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" title="Hazaribagh">Hazaribagh</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active">Packers and Movers in Amrit Nagar Hazaribagh</span>
+        <span class="breadcrumb-item active">Packers and Movers Amrit Nagar Hazaribagh</span>
       </div>
     </div>
   </div>
 
+  <!-- Hero Section with WhatsApp Lead Capture -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
+        
         <div class="hero-text">
-          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">IBA Approved Professional Relocation</span>
-          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">Best <span style="color: #f59e0b;">Packers and Movers in Amrit Nagar Hazaribagh</span></h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">Looking for professional, damage-free household shifting, car transportation, bike moving, or office relocation services in Hazaribagh? Shree Ashirwad Packers and Movers provides 7-layer protective packaging, active GPS container tracking, full transit insurance, and genuine IBA-approved GST bills for corporate and government claims.</p>
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+            IBA Approved Relocation Experts in Hazaribagh
+          </span>
+          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Best <span style="color: #f59e0b;">Packers and Movers in Amrit Nagar Hazaribagh</span>
+          </h1>
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Looking for trustworthy, zero-damage <strong>packers and movers in Amrit Nagar Hazaribagh</strong>? Shree Ashirwad Packers and Movers delivers premium home shifting, office relocation, vehicle shipping, and IBA-approved billing along the NH-33 corridor and across all major localities in Hazaribagh district.
+          </p>
+
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Packers+and+Movers+in+Amrit+Nagar+Hazaribagh" title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Packers+and+Movers+in+Amrit+Nagar+Hazaribagh." title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp"></i> WhatsApp Quote
+            </a>
+          </div>
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
+            <span><strong style="color: #f59e0b;">2,850+</strong> Hazaribagh Relocations</span>
+            <span><strong style="color: #f59e0b;">15+ Years</strong> Excellence</span>
+            <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
         </div>
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
+
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
           <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;"><input type="text" name="name" placeholder="Your Full Name" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="margin-bottom: 14px;"><input type="tel" name="phone" placeholder="10-Digit Phone / WhatsApp" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" placeholder="From" value="Hazaribagh" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" placeholder="To" value="Destination" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div style="margin-bottom: 16px;"><textarea name="message" rows="2" placeholder="Items (1BHK, 2BHK, Bike, Car)" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea></div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000; font-weight: 800; font-size: 1rem; border-radius: 8px; border: none;">Get Free Quote on WhatsApp</button>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+              <input type="text" name="move_from" class="form-control" placeholder="From" value="Amrit Nagar Hazaribagh" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="To Destination" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Items (1BHK, 2BHK, Bike, Car)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000; font-weight: 800; font-size: 1rem; border-radius: 8px; border: none;">
+              Get Free Quote on WhatsApp
+            </button>
           </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Key Stats Bar -->
+  <section class="stats-section" style="padding: 40px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">2,850+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Hazaribagh Relocations</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">15+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Years Local Experience</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100%</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">7-Layer Safety Framework</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">IBA Approved</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">GST Invoice &amp; Claims</div>
         </div>
       </div>
     </div>
   </section>
 
-  <section style="padding: 40px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+  <!-- 6-Card Feature Grid -->
+  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">100% Safe</div><div style="font-size: 0.85rem; color: #cbd5e1;">7-Layer Protection</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">IBA Approved</div><div style="font-size: 0.85rem; color: #cbd5e1;">GST Claim Bills</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">GPS Tracked</div><div style="font-size: 0.85rem; color: #cbd5e1;">Closed Containers</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">2,500+</div><div style="font-size: 0.85rem; color: #cbd5e1;">Satisfied Moves</div></div>
+      <div style="max-width: 950px; margin: 0 auto;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Amrit Nagar Logistics</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose <span style="color: #f59e0b;">Packers and Movers in Amrit Nagar Hazaribagh</span>?
+        </h2>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 10px;"><i class="fas fa-home"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 8px;">Residential Neighborhood Coverage</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Comprehensive home shifting across Amrit Nagar, Canary Hill Road, Hurhuru, and Korrah sectors.</p>
+          </div>
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 10px;"><i class="fas fa-road"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 8px;">NH-33 Highway Corridor Access</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Direct access to NH-33 and NH-520 highways for rapid intercity transport to Ranchi, Dhanbad, and Patna.</p>
+          </div>
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 10px;"><i class="fas fa-file-invoice"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 8px;">IBA GST Billing</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">100% claim-ready invoices, LR copies, and itemized inventory lists for government &amp; CCL employees.</p>
+          </div>
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 10px;"><i class="fas fa-truck-moving"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 8px;">GPS Closed Containers</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Weatherproof closed container trucks with live satellite GPS tracking for complete peace of mind.</p>
+          </div>
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 10px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 8px;">7-Layer Protection</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Bubble wrap, 5-ply corrugated sheets, stretch wrap, foam guards, and custom wooden crating.</p>
+          </div>
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 10px;"><i class="fas fa-car"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 8px;">Enclosed Vehicle Carriers</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Hydraulic car trailers and covered bike carriers for scratch-free vehicle shifting nationwide.</p>
+          </div>
+        </div>
       </div>
     </div>
   </section>
 
+  <!-- 7-Layer Safety Framework -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
+    <div class="container" style="max-width: 950px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Our 7-Layer Protective Packaging System</h2>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">1. Heavy-Duty Bubble Wrap</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Initial shock-absorbing layer wrapped directly around glass, mirrors, and electronic screens.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">2. 5-Ply Corrugated Sheets</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Rigid exterior board defense protecting furniture surfaces from friction and pressure points.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">3. High-Density Foam Guards</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Custom corner protectors shielding wooden table edges, wardrobes, and TV panels.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;">4. Waterproof Stretch Wrap</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">Tightly sealed moisture-barrier film preventing dust, rain, and humidity penetration.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table Matrix -->
   <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container" style="max-width: 950px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Complete Relocation Logistics & Services for Packers and Movers in Amrit Nagar Hazaribagh</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;">Shree Ashirwad Packers and Movers is the premier relocation company serving Hazaribagh and surrounding regions. Moving your home, office, two-wheeler, or car requires absolute precision, professional packing materials, trained logistics handlers, and guaranteed zero-damage execution. Our dedicated fleet operates continuously across NH-33, NH-520, and major national routes connecting Hazaribagh to all major cities across India.</p>
-      <p style='font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;'>Whether you are shifting locally in Hazaribagh or moving to long-distance destinations, we bring over 15 years of industry excellence. Our move supervisors conduct pre-move surveys, create itemized inventory lists, and apply 7-layer protective packaging combining bubble wrap, 5-ply corrugated sheets, stretch wrap, foam corner guards, and custom wooden crating for delicate Smart TVs and glass items.</p>
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Estimated Charges & Cost Breakdown for Packers and Movers in Amrit Nagar Hazaribagh</h2>
+      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Estimated Charges &amp; Cost Breakdown for Amrit Nagar Hazaribagh</h2>
       <div style="overflow-x: auto; margin-top: 20px;">
         <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
-          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px;">Shifting Type</th><th style="padding: 14px;">Packaging Grade</th><th style="padding: 14px;">Vehicle Type</th><th style="padding: 14px;">Estimated Price (&#8377;)</th></tr></thead>
+          <thead>
+            <tr style="background: #1c2541; color: #f59e0b;">
+              <th style="padding: 14px; text-align: left;">Shifting Type</th>
+              <th style="padding: 14px; text-align: left;">Packaging Grade</th>
+              <th style="padding: 14px; text-align: left;">Vehicle Type</th>
+              <th style="padding: 14px; text-align: left;">Estimated Price (₹)</th>
+            </tr>
+          </thead>
           <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">Pickup Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;4,500 - &#8377;8,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Shifting</td><td style="padding: 12px;">Premium 5-Layer</td><td style="padding: 12px;">14ft Sealed Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;8,500 - &#8377;14,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Shifting</td><td style="padding: 12px;">7-Layer Heavy Crate</td><td style="padding: 12px;">17ft/19ft Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;14,500 - &#8377;22,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Paddy + Bubble Wrap</td><td style="padding: 12px;">Enclosed Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;2,500 - &#8377;5,500</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Carrier Shifting</td><td style="padding: 12px;">Wheel-Chock Safety Locks</td><td style="padding: 12px;">Covered Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;6,500 - &#8377;14,500</td></tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK House Shifting</td>
+              <td style="padding: 12px;">Standard 3-Layer</td>
+              <td style="padding: 12px;">Pickup Container</td>
+              <td style="padding: 12px; font-weight: 700; color: #f59e0b;">₹3,500 - ₹7,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK House Shifting</td>
+              <td style="padding: 12px;">Premium 5-Layer</td>
+              <td style="padding: 12px;">14ft Sealed Container</td>
+              <td style="padding: 12px; font-weight: 700; color: #f59e0b;">₹7,500 - ₹13,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK House Shifting</td>
+              <td style="padding: 12px;">7-Layer Heavy Crate</td>
+              <td style="padding: 12px;">17ft/19ft Container</td>
+              <td style="padding: 12px; font-weight: 700; color: #f59e0b;">₹13,500 - ₹21,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transportation</td>
+              <td style="padding: 12px;">Paddy + Bubble Wrap</td>
+              <td style="padding: 12px;">Enclosed Bike Carrier</td>
+              <td style="padding: 12px; font-weight: 700; color: #f59e0b;">₹2,500 - ₹5,000</td>
+            </tr>
+            <tr>
+              <td style="padding: 12px; font-weight: 700; color: #fff;">Car Carrier Shifting</td>
+              <td style="padding: 12px;">Wheel-Chock Safety Locks</td>
+              <td style="padding: 12px;">Covered Hydraulic Trailer</td>
+              <td style="padding: 12px; font-weight: 700; color: #f59e0b;">₹6,500 - ₹14,000</td>
+            </tr>
           </tbody>
         </table>
       </div>
 
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Our 5-Stage Damage-Free Relocation Workflow</h2>
-      <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">1. Pre-Move Survey & Written Quote</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Physical or virtual video survey to assess goods volume and provide transparent binding rates.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">2. Multi-Layer Protective Packaging</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Uniformed experts apply bubble wrap, corrugated sheets, foam guards, and custom wooden crating.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">3. Safe Loading & Anchorage</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Goods are loaded using hydraulic ramps and anchored with safety belts inside closed container trucks.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">4. Highway Transit & Live GPS Monitoring</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Vehicles move under active GPS surveillance with regular position updates sent to clients.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">5. Unloading, Unboxing & Reassembly</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Complete door delivery, unpacking, furniture reassembly, and item positioning at destination.</p></div>
-      </div>
-
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Related Packers and Movers Services & Locations</h2>
+      <!-- Intercity Network Grid -->
+      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Related Shifting Services &amp; Network Hubs</h2>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
         <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" title="Packers and Movers in Hazaribagh Hub &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Hazaribagh Hub &rarr;</a></div>
         <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi &rarr;</a></div>
         <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" title="Packers and Movers in Dhanbad &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad &rarr;</a></div>
         <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" title="Packers and Movers in Bokaro &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-ranchi" title="Hazaribagh to Ranchi Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Ranchi Shifting &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-patna" title="Hazaribagh to Patna Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Patna Shifting &rarr;</a></div>
       </div>
 
-  <!-- Section: Regional Transportation & Locality Logistics Network Advisory -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Logistics Network</span>
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Regional Highway Access &amp; Locality Transport Operations</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Operating across Jharkhand's key residential corridors, industrial zones, coalfield sectors, and township colonies requires extensive route planning and specialized vehicle fleets. Shree Ashirwad Packers maintains local branch hubs and container parking yards to service relocations promptly without transit delays:
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Whether shifting household items locally within municipal limits or booking long-distance intercity transport to West Bengal, Bihar, Odisha, Chhattisgarh, Uttar Pradesh, Delhi NCR, or South India, our enclosed covered trucks provide weatherproof protection. Every move is coordinated by certified logistics supervisors who manage loading, highway transit documentation, toll permits, and doorstep unloading.
-      </p>
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <div style="font-size: 1.5rem; margin-bottom: 6px;"><i class="fas fa-truck"></i></div>
-          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">Dedicated Fleet</h4>
-          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">14ft, 17ft &amp; 19ft closed container trucks</p>
+      <!-- FAQ Section -->
+      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Frequently Asked Questions (15 FAQs)</h2>
+      <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 20px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+        <div style="background: #101c40; padding: 18px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 6px;"><?php echo htmlspecialchars($faq['a']); ?></p>
         </div>
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <div style="font-size: 1.5rem; margin-bottom: 6px;"><i class="fas fa-phone-alt"></i></div>
-          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">GPS Live Tracking</h4>
-          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">24/7 active satellite vehicle tracking</p>
-        </div>
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <div style="font-size: 1.5rem; margin-bottom: 6px;"><i class="fas fa-phone-alt"></i>‘</div>
-          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">IBA &amp; GST Certified</h4>
-          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">100% claim-ready billing documentation</p>
+        <?php endforeach; ?>
+      </div>
+
+      <!-- CTA Footer Banner -->
+      <div style="margin-top: 50px; text-align: center; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); padding: 40px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.4);">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Ready to Move in Amrit Nagar Hazaribagh?</h2>
+        <p style="color: #cbd5e1; margin-top: 10px;">Contact our expert relocation team today for guaranteed fixed-price quotes and zero-damage delivery.</p>
+        <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20Packers+and+Movers+in+Amrit+Nagar+Hazaribagh" title="WhatsApp Quote" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
         </div>
       </div>
-    </div>
-  </section>
 
-  <!-- Section: Specialized Route Planning & Transit Protocol -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Transit Governance</span>
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Local Route Security &amp; Highway Vehicle Transit Protocol</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Managing relocations through congested city streets, narrow residential bypass roads, and heavy highway truck corridors requires strict operational oversight. Shree Ashirwad Packers conducts pre-move route surveys to identify low-hanging overhead cables, narrow alley turnings, height restrictions, and local loading time windows:
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Our transport crew arrives equipped with heavy-duty loading ramps, hydraulic furniture dollies, protective floor runner mats, and padded door-frame guards to prevent structural wall or floor scratches during loading. Every item is cross-verified against the master inventory packing sheet prior to truck gate-out, guaranteeing full accountability and smooth delivery.
-      </p>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> Pre-Loading Survey &amp; Parking Clearances</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">We arrange local society permissions, elevator booking slots, and municipal parking access ahead of time to eliminate loading delays on moving day.</p>
-        </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i>  Floor Protection &amp; Door Frame Shielding</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Rubber floor runners protect expensive tiles and marble floors while high-density foam wrapping guards door frames against furniture scrapes during moving.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section: Specialized Hazaribagh Highway & Intercity Service Standards -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Intercity Operations</span>
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Hazaribagh Highway Transportation &amp; Long-Distance Relocation</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Connecting Hazaribagh with major metro destinations including Ranchi, Patna, Kolkata, Delhi NCR, Bangalore, Mumbai, and Hyderabad requires experienced highway logistics management. Our containerized transport vehicles operate daily along NH-33 and NH-19 (Grand Trunk Road), providing continuous satellite GPS tracking, transit insurance coverage, and scheduled loading windows.
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Every household item, electronic appliance, two-wheeler vehicle, and commercial inventory shipment is cataloged on master consignment documentation, ensuring full protection against loss or damage throughout the transit journey.
-      </p>
     </div>
   </section>
 
@@ -205,9 +338,8 @@ function sendHeroWhatsAppLead(event, form) {
   var extraMsg = form.querySelector('[name="message"]').value;
   var message = "Hello Shree Ashirwad Packers & Movers,\n\nQuote Request:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
   if (extraMsg) { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=919955554330&text=" + encodeURIComponent(message);
+  window.location.href = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
 }
 </script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
-

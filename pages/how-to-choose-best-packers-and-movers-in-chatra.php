@@ -1,9 +1,10 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "How to Choose the Best Packers and Movers in Chatra: Complete Guide";
-$page_desc = "Expert guide on selecting reliable, IBA-approved packers and movers in Chatra. Learn key verification factors, GST bill verification, and quote evaluation.";
+$page_title = "How to Choose the Best Packers and Movers in Chatra: Complete Selection Guide";
+$page_desc = "Expert guide on selecting reliable, IBA-approved packers and movers in Chatra. Learn key verification factors, GST bill verification, quote evaluation, and safety tips with Shree Ashirwad Packers.";
 $page_keywords = "choose best packers movers chatra, verified movers chatra, hire reliable packers chatra, IBA approved movers verification, best moving company chatra, shifting guide chatra, relocation tips chatra, check GST bill movers, avoid moving scams chatra, top rated packers chatra, safe home shifting chatra, moving agency selection chatra, transport verification chatra, luggage movers guide chatra, ashrivad packers tips";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/how-to-choose-best-packers-and-movers-in-chatra.php";
 
 $page_city = "Chatra";
 
@@ -114,7 +115,7 @@ require_once __DIR__ . '/../includes/header.php';
       
       <div class="hero-content" style="flex: 1 1 500px;">
         <span style="display: inline-block; background: rgba(37, 99, 235, 0.25); color: #60a5fa; border: 1px solid rgba(96, 165, 250, 0.3); padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
-          Expert Relocation Selection Guide 2026
+          EXPERT RELOCATION SELECTION MANUAL
         </span>
         <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
           How to Choose Best Packers and Movers in Chatra
@@ -130,6 +131,12 @@ require_once __DIR__ . '/../includes/header.php';
           <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20advice%20on%20choosing%20packers%20in%20Chatra." title="Speak with Advisor" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
             <i class="fa-brands fa-whatsapp"></i> Speak with Advisor
           </a>
+        </div>
+
+        <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 20px;">
+          <span><i class="fa-solid fa-clipboard-check" style="color: #60a5fa;"></i> 7 Evaluation Steps</span>
+          <span><i class="fa-solid fa-file-invoice" style="color: #60a5fa;"></i> Binding Written Quotes</span>
+          <span><i class="fa-solid fa-shield-halved" style="color: #60a5fa;"></i> 100% IBA GST Bills</span>
         </div>
       </div>
 
@@ -163,8 +170,31 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Content Guide Section (1800+ words) -->
+  <!-- Performance & Trust Metrics Bar -->
+  <section class="trust-metrics-section" style="background: #ffffff; padding: 35px 0; border-bottom: 1px solid #e2e8f0;" id="metrics-bar">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
+        <div style="padding: 15px; border-right: 1px solid #f1f5f9;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">15+ Years</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">Verified Relocation Track Record</div>
+        </div>
+        <div style="padding: 15px; border-right: 1px solid #f1f5f9;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">7-Layer</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">Safety Packing Standards</div>
+        </div>
+        <div style="padding: 15px; border-right: 1px solid #f1f5f9;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">100%</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">IBA GST Bill Clearance</div>
+        </div>
+        <div style="padding: 15px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #2563eb;">GPS</div>
+          <div style="font-size: 0.95rem; color: #64748b; font-weight: 600; margin-top: 4px;">Enclosed Container Fleet</div>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <!-- Detailed Content Guide Section -->
   <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-selection-guide">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
       
@@ -199,20 +229,121 @@ require_once __DIR__ . '/../includes/header.php';
         Ensure your household articles will be transported in clean, fully enclosed container trucks fitted with active GPS satellite hardware, rather than open pick-up trucks exposed to rain, dust, and highway hazards.
       </p>
 
+      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Step 6: Review Insurance Policies &amp; Claim Terms</h3>
+      <p style="margin-bottom: 20px;">
+        Ensure the mover provides full transit insurance from a recognized insurer covering declared goods value against fire, road accidents, or handling mishaps.
+      </p>
+
+      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Step 7: Evaluate Customer Testimonials &amp; Track Record</h3>
+      <p style="margin-bottom: 20px;">
+        Check verified customer reviews, Google business ratings, and local references across Chatra Sadar, Main Road, and neighboring block hubs to confirm consistent service quality.
+      </p>
+
+      <!-- Shifting Rates Reference Table -->
+      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 35px; margin-bottom: 15px;">Verified Shifting Rate Benchmark in Chatra</h3>
+
+      <div style="overflow-x: auto; margin-bottom: 40px; border: 1px solid #e2e8f0; border-radius: 10px;">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: #0f172a; color: #ffffff;">
+              <th style="padding: 14px 18px;">Relocation Type</th>
+              <th style="padding: 14px 18px;">Packing &amp; Materials</th>
+              <th style="padding: 14px 18px;">Labor &amp; Handling</th>
+              <th style="padding: 14px 18px;">Transport Charge</th>
+              <th style="padding: 14px 18px; background: #2563eb; color: #fff;">Total Approx Cost</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid #f1f5f9;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">1 BHK House Shifting</td>
+              <td style="padding: 14px 18px;">₹1,200 - ₹2,000</td>
+              <td style="padding: 14px 18px;">₹1,000 - ₹1,800</td>
+              <td style="padding: 14px 18px;">₹1,500 - ₹2,200</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹3,000 - ₹5,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">2 BHK House Shifting</td>
+              <td style="padding: 14px 18px;">₹2,200 - ₹3,500</td>
+              <td style="padding: 14px 18px;">₹1,800 - ₹3,000</td>
+              <td style="padding: 14px 18px;">₹2,200 - ₹3,500</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹5,500 - ₹9,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #f1f5f9;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">3 BHK / Villa Shifting</td>
+              <td style="padding: 14px 18px;">₹3,500 - ₹5,500</td>
+              <td style="padding: 14px 18px;">₹3,000 - ₹4,500</td>
+              <td style="padding: 14px 18px;">₹3,500 - ₹5,000</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹9,500 - ₹15,000</td>
+            </tr>
+            <tr style="background: #fafafa;">
+              <td style="padding: 14px 18px; font-weight: 600; color: #0f172a;">Bike / Two-Wheeler Shipping</td>
+              <td style="padding: 14px 18px;">₹800 - ₹1,200</td>
+              <td style="padding: 14px 18px;">₹500 - ₹800</td>
+              <td style="padding: 14px 18px;">₹1,500 - ₹2,500</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹2,500 - ₹4,500</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Internal Links & Neighboring Locality Cards -->
+  <section class="internal-links-section" style="background: #f8fafc; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="locality-route-links">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Explore Verified Relocation Services in Chatra</h2>
+        <p style="color: #64748b; font-size: 0.95rem;">Access our comprehensive shifting hubs and route resources across Chatra district.</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
+        
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" title="Packers and Movers Chatra Master Hub" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Packers &amp; Movers Chatra Hub</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Complete residential &amp; office shifting services in Chatra.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>how-to-avoid-fraud-packers-and-movers-in-chatra" title="Avoid Fraud Packers Chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Avoid Fraud Packers Manual</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Red flags &amp; 7-step GST portal verification checklist.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>household-shifting-checklist-chatra" title="Chatra Shifting Checklist" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Chatra Shifting Checklist</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">30-day step-by-step home relocation planner for Chatra.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>iba-approved-packers-and-movers-in-chatra" title="IBA Approved Movers Chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">IBA Approved Movers Chatra</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Government &amp; bank employee claimable GST bill documentation.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>local-vs-intercity-shifting-charges-chatra" title="Chatra Shifting Charges Guide" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Chatra Shifting Tariff Guide</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Detailed local vs intercity house moving rate breakdown.</p>
+        </a>
+
+        <a href="<?php echo SITE_URL; ?>car-and-bike-transport-guide-chatra" title="Vehicle Transport Guide Chatra" style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; text-decoration: none; color: #0f172a; display: block;">
+          <h4 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #2563eb;">Car &amp; Bike Shipping Guide</h4>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0;">Covered hydraulic car trailer &amp; 5-layer bike armor shipping.</p>
+        </a>
+
+      </div>
     </div>
   </section>
 
   <!-- FAQs Section -->
-  <section class="faq-section" style="background: #f8fafc; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="faqs">
+  <section class="faq-section" style="background: #ffffff; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="faqs">
     <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
       <div style="text-align: center; margin-bottom: 45px;">
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Frequently Asked Questions</h2>
-        <p style="color: #64748b; font-size: 1rem;">Expert advice on choosing reliable relocation partners in Chatra.</p>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Frequently Asked Questions (FAQs)</h2>
+        <p style="color: #64748b; font-size: 1rem;">Expert guidance on choosing reliable relocation partners in Chatra.</p>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 15px;">
         <?php foreach ($faq_list as $index => $faq): ?>
-          <div style="border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; background: #ffffff;">
+          <div style="border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; background: #f8fafc;">
             <div style="padding: 18px 22px; font-weight: 700; font-size: 1.05rem; color: #0f172a; cursor: pointer; display: flex; justify-content: space-between; align-items: center;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'block' ? 'none' : 'block';">
               <span><?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?></span>
               <i class="fa-solid fa-chevron-down" style="font-size: 0.9rem; color: #2563eb;"></i>

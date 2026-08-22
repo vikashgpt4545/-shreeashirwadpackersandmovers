@@ -2,8 +2,9 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Ultimate Household Shifting Checklist for Chatra Relocation";
-$page_desc = "Complete step-by-step household shifting checklist for residents in Chatra. Plan your move 30 days ahead with expert packing and moving tips.";
+$page_desc = "Complete step-by-step household shifting checklist for residents in Chatra. Plan your move 30 days ahead with expert packing and moving tips. Call 8409531615.";
 $page_keywords = "household shifting checklist chatra, house moving checklist chatra, home relocation guide chatra, shifting planner chatra, packing tips chatra, moving preparation chatra, pre move checklist chatra, smooth shifting guide, stress free moving chatra, luggage packing list chatra, utility transfer checklist, moving day guide chatra, inventory list packing, home shifting schedule, relocation checklist chatra";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/household-shifting-checklist-chatra.php";
 
 $page_city = "Chatra";
 
@@ -96,165 +97,154 @@ require_once __DIR__ . '/../includes/header.php';
 <main class="site-main">
 
   <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 14px 0; border-bottom: 1px solid #e2e8f0;">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb" style="display: flex; gap: 8px; font-size: 0.9rem; color: #64748b; list-style: none; margin: 0; padding: 0;">
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #2563eb; text-decoration: none;">Home</a></li>
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" title="Chatra" style="color: #2563eb; text-decoration: none;">Chatra</a></li>
-          <li class="breadcrumb-item active" aria-current="page" style="color: #1e293b; font-weight: 600;"><span style="margin: 0 4px;">/</span> Shifting Checklist</li>
-        </ol>
-      </nav>
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-chatra" title="Chatra">Chatra</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+      </div>
     </div>
   </div>
 
-  <!-- Hero Section -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: #ffffff; padding: 60px 0; position: relative;" id="hero-checklist">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 40px;">
-      
-      <div class="hero-content" style="flex: 1 1 500px;">
-        <span style="display: inline-block; background: rgba(37, 99, 235, 0.25); color: #60a5fa; border: 1px solid rgba(96, 165, 250, 0.3); padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
-          Master Relocation Planner 2026
-        </span>
-        <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-          Household Shifting Checklist &amp; Guide for Chatra
-        </h1>
-        <p style="font-size: 1.15rem; line-height: 1.8; color: #94a3b8; margin-bottom: 30px;">
-          Planning a house move in Chatra? Follow our step-by-step 30-day relocation timeline to eliminate moving stress, organize inventory, coordinate utility transfers, and ensure a 100% smooth, damage-free moving experience with Shree Ashirwad Packers and Movers.
-        </p>
+  <!-- Hero Section with Lead Form -->
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
-        <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-          <a href="tel:+918409531615" title="Call +91 8409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
-            <i class="fa-solid fa-phone"></i> Call +91 8409531615
-          </a>
-          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20send%20me%20the%20shifting%20checklist." title="Get PDF Checklist" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
-            <i class="fa-brands fa-whatsapp"></i> Get PDF Checklist
-          </a>
+        <!-- Hero Text Column -->
+        <div class="hero-text">
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+            MASTER RELOCATION PLANNER
+          </span>
+          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Authoritative <span style="color: #f59e0b;">Household Shifting Checklist for Chatra</span>
+          </h1>
+          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Planning a home move in Chatra? Follow our step-by-step 30-day relocation timeline to eliminate moving stress, organize inventory, coordinate utility transfers, and ensure a 100% smooth, damage-free moving experience with Shree Ashirwad Packers and Movers.
+          </p>
+
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20send%20me%20the%20Chatra%20shifting%20checklist." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+            </a>
+          </div>
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
+            <span><strong style="color: #f59e0b;">30-Day</strong> Relocation Timeline</span>
+            <span><strong style="color: #f59e0b;">7-Layer</strong> Protective Wrapping</span>
+            <span><strong style="color: #f59e0b;">100%</strong> Zero-Damage Guarantee</span>
+          </div>
         </div>
-      </div>
 
-      <!-- Quick Form -->
-      <div class="hero-form-card" style="flex: 0 1 420px; background: #ffffff; border-radius: 12px; padding: 30px; color: #1e293b; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);" id="checklist-form-box">
-        <h3 style="font-size: 1.4rem; font-weight: 700; margin-bottom: 8px; color: #0f172a;">Plan Your Move Today</h3>
-        <p style="font-size: 0.88rem; color: #64748b; margin-bottom: 20px;">Book your shifting date with professional experts!</p>
+        <!-- Hero Lead Form Column -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Free Moving Plan</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive custom shifting guide on WhatsApp</p>
+
+          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Mobile Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+              <input type="text" name="move_from" class="form-control" value="Chatra" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="message" class="form-control" placeholder="Moving Details (e.g. 2BHK Home, Target Date)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
+              Lock Shifting Date &rarr;
+            </button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Detailed Timeline Guide & Checklist Sections -->
+  <section class="details-section" style="padding: 60px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 950px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2.2rem; color: #0f172a; margin-bottom: 20px; font-weight: 800;">30-Day Step-by-Step Household Shifting Timeline in Chatra</h2>
+        <p style="margin-bottom: 20px; font-size: 1.05rem;">
+          Relocating a home in Chatra — whether moving locally across Kutchery Road, Tandwa, or Simaria, or shifting intercity to Ranchi, Patna, or Kolkata — involves dozens of interconnected tasks. Following a structured shifting timeline eliminates last-minute panic and keeps your belongings 100% safe.
+        </p>
+
+        <!-- 4-Phase Timeline Grid -->
+        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Our 4-Phase Home Relocation Roadmap</h3>
         
-        <form onsubmit="sendHeroWhatsAppLead(event, this);" id="checklist-lead-form">
-          <div style="margin-bottom: 14px;">
-            <input type="text" name="name" placeholder="Your Name" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px;">
+          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Phase 1 (30-20 Days)</div>
+            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Declutter &amp; Pre-Move Survey</h4>
+            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Sort unused items, schedule a free on-site survey in Chatra, and organize important document binders.</p>
           </div>
-          <div style="margin-bottom: 14px;">
-            <input type="tel" name="phone" placeholder="Mobile Number" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
+          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Phase 2 (15-7 Days)</div>
+            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Utilities &amp; Appliance Prep</h4>
+            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Transfer LPG gas, electricity, broadband. Service ACs, water purifiers, and washing machines.</p>
           </div>
-          <div style="margin-bottom: 14px;">
-            <input type="text" name="move_from" placeholder="Pickup Area in Chatra" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
+          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Phase 3 (2-1 Days)</div>
+            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Fridge Defrost &amp; Open-First Box</h4>
+            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Defrost fridge 24h prior, pack personal jewelry/cash/laptops, and prepare an essentials survival box.</p>
           </div>
-          <div style="margin-bottom: 14px;">
-            <input type="text" name="move_to" placeholder="Destination City" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
+          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Phase 4 (Moving Day)</div>
+            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Packing Supervision &amp; LR Verification</h4>
+            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Monitor 7-layer packing, cross-check box tags against inventory Lorry Receipt, and inspect empty rooms.</p>
           </div>
-          <div style="margin-bottom: 18px;">
-            <textarea name="message" placeholder="Details of move (Target date, house size)" rows="3" style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;"></textarea>
-          </div>
-          <button type="submit" style="width: 100%; background: #2563eb; color: #ffffff; border: none; padding: 14px; border-radius: 6px; font-size: 1rem; font-weight: 700; cursor: pointer;" id="submit-plan-btn">
-            Lock Shifting Date <i class="fa-solid fa-arrow-right" style="margin-left: 6px;"></i>
-          </button>
-        </form>
-      </div>
+        </div>
 
+        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Essential Items for Your Personal Hand Baggage</h3>
+        <p style="margin-bottom: 15px;">The following critical items should never be loaded into transport trucks:</p>
+        <ul style="margin-bottom: 25px; padding-left: 20px; color: #475569;">
+          <li><strong>Identity &amp; Legal Papers:</strong> Aadhar cards, property deeds, birth certificates, and financial passbooks.</li>
+          <li><strong>Valuables &amp; Cash:</strong> Gold jewelry, wristwatches, currency, and bank locker keys.</li>
+          <li><strong>Daily Medications:</strong> Prescription drugs, first-aid kits, and emergency contact lists.</li>
+          <li><strong>Electronics:</strong> Laptops, mobile phones, power banks, and original chargers.</li>
+        </ul>
+
+      </div>
     </div>
   </section>
 
-  <!-- Step-by-Step Checklist Content Guide (1800+ words) -->
+  <!-- High-Intent 20 FAQ Accordion Section -->
+  <section class="faq-section" style="padding: 60px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+    <div class="container">
+      <div style="max-width: 950px; margin: 0 auto;">
+        
+        <div style="text-align: center; margin-bottom: 40px;">
+          <span style="background: rgba(245, 158, 11, 0.15); color: #b45309; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">FREQUENTLY ASKED QUESTIONS</span>
+          <h2 style="font-size: 2.2rem; color: #0f172a; margin-top: 10px; font-weight: 800;">Chatra Moving Checklist FAQs</h2>
+          <p style="color: #64748b; font-size: 1rem;">Clear answers to common questions about organizing home relocation in Chatra, Jharkhand</p>
+        </div>
 
-  <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-checklist-guide">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
-      
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 25px;">30-Day Step-by-Step Household Shifting Timeline</h2>
-
-      <p style="font-size: 1.05rem; margin-bottom: 20px;">
-        Relocating a household involves dozens of interconnected tasks, from sorting wardrobes and disconnecting electronic appliances to securing official IBA-compliant GST bills and organizing transit insurance. To ensure nothing is overlooked, follow our structured 30-day relocation checklist designed specifically for Chatra residents:
-      </p>
-
-      <div style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 25px; border-radius: 0 8px 8px 0; margin-bottom: 35px;">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 12px;">Phase 1: 30 to 20 Days Before Moving (Planning &amp; Survey)</h3>
-        <ul style="padding-left: 20px; margin: 0;">
-          <li style="margin-bottom: 10px;"><strong>Declutter Unwanted Articles:</strong> Inspect room-by-room, sell or donate unused furniture, old clothing, and surplus electronics to reduce packing volume.</li>
-          <li style="margin-bottom: 10px;"><strong>Book Pre-Move Inspection:</strong> Contact Shree Ashirwad Packers to schedule a free physical or video home survey in Chatra.</li>
-          <li style="margin-bottom: 10px;"><strong>Organize Important Documents:</strong> Gather Aadhar cards, property papers, insurance files, school certificates, and medical records in a portable file binder.</li>
-          <li style="margin-bottom: 10px;"><strong>Check Employer Relocation Norms:</strong> If claiming shifting expenses, confirm IBA billing guidelines with your HR or accounts department.</li>
-        </ul>
-      </div>
-
-      <div style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 25px; border-radius: 0 8px 8px 0; margin-bottom: 35px;">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 12px;">Phase 2: 15 to 7 Days Before Moving (Logistics &amp; Utility Prep)</h3>
-        <ul style="padding-left: 20px; margin: 0;">
-          <li style="margin-bottom: 10px;"><strong>Address Update &amp; Utility Transfers:</strong> Submit transfer applications for broadband internet, LPG gas connections, DTH TV, and bank postal addresses.</li>
-          <li style="margin-bottom: 10px;"><strong>Service Household Appliances:</strong> Arrange technician visits for AC uninstallation, water purifier dismantling, and washing machine drum lock securing.</li>
-          <li style="margin-bottom: 10px;"><strong>Lock Moving Slot &amp; Written Quote:</strong> Finalize moving terms, confirm container truck availability, and receive signed written quotation.</li>
-          <li style="margin-bottom: 10px;"><strong>Notify Apartment Management:</strong> Secure elevator usage permissions and gate entry passes for packing crews on moving day.</li>
-        </ul>
-      </div>
-
-      <div style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 25px; border-radius: 0 8px 8px 0; margin-bottom: 35px;">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 12px;">Phase 3: 2 to 1 Days Before Moving (Final Preparation)</h3>
-        <ul style="padding-left: 20px; margin: 0;">
-          <li style="margin-bottom: 10px;"><strong>Defrost Refrigerator:</strong> Clean and dry fridge compartments at least 24 hours prior to loading to prevent water leaks inside the truck.</li>
-          <li style="margin-bottom: 10px;"><strong>Pack Personal Valuables:</strong> Keep gold jewelry, cash, laptops, camera gear, and vital medicine boxes separate to carry personally.</li>
-          <li style="margin-bottom: 10px;"><strong>Prepare "Open First" Box:</strong> Pack essential toiletries, towels, nightwear, basic utensils, tea/coffee mix, and phone chargers.</li>
-          <li style="margin-bottom: 10px;"><strong>Confirm Crew Arrival Time:</strong> Reconfirm morning arrival time with your dedicated Chatra move supervisor.</li>
-        </ul>
-      </div>
-
-      <div style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 25px; border-radius: 0 8px 8px 0; margin-bottom: 35px;">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 12px;">Phase 4: Moving Day Execution &amp; Unloading</h3>
-        <ul style="padding-left: 20px; margin: 0;">
-          <li style="margin-bottom: 10px;"><strong>Supervise 7-Layer Packing:</strong> Monitor the application of bubble wrap, corrugated sheets, stretch film, and wooden crating for TV/glass.</li>
-          <li style="margin-bottom: 10px;"><strong>Master Inventory List Verification:</strong> Cross-check box tags as items are loaded into the container truck and sign the LR copy.</li>
-          <li style="margin-bottom: 10px;"><strong>Final Property Inspection:</strong> Inspect all cupboards, drawers, balconies, and switchboards before locking your Chatra residence.</li>
-          <li style="margin-bottom: 10px;"><strong>Unloading &amp; Reassembly:</strong> Verify box counts upon delivery at your new home, inspect major items, and oversee furniture reassembly.</li>
-        </ul>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- FAQs Section -->
-  <section class="faq-section" style="background: #f8fafc; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="faqs">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Frequently Asked Questions</h2>
-        <p style="color: #64748b; font-size: 1rem;">Solutions for organized household relocation in Chatra.</p>
-      </div>
-
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        <?php foreach ($faq_list as $index => $faq): ?>
-          <div style="border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; background: #ffffff;">
-            <div style="padding: 18px 22px; font-weight: 700; font-size: 1.05rem; color: #0f172a; cursor: pointer; display: flex; justify-content: space-between; align-items: center;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'block' ? 'none' : 'block';">
-              <span><?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?></span>
-              <i class="fa-solid fa-chevron-down" style="font-size: 0.9rem; color: #2563eb;"></i>
+        <div class="faq-grid" style="display: grid; gap: 16px;">
+          <?php foreach ($faq_list as $index => $faq): ?>
+            <div class="faq-item" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 22px 26px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
+              <h3 style="font-size: 1.1rem; color: #0f172a; margin-bottom: 10px; font-weight: 700; display: flex; align-items: center;">
+                <span style="color: #f59e0b; margin-right: 12px; font-weight: 800;">Q<?php echo $index + 1; ?>.</span>
+                <?php echo htmlspecialchars($faq['q']); ?>
+              </h3>
+              <p style="color: #475569; font-size: 0.95rem; line-height: 1.7; margin: 0; padding-left: 32px;">
+                <?php echo htmlspecialchars($faq['a']); ?>
+              </p>
             </div>
-            <div style="padding: 0 22px 18px 22px; font-size: 0.95rem; color: #475569; line-height: 1.7; display: <?php echo $index === 0 ? 'block' : 'none'; ?>;">
-              <?php echo htmlspecialchars($faq['a']); ?>
-            </div>
-          </div>
-        <?php endforeach; ?>
-      </div>
-    </div>
-  </section>
+          <?php endforeach; ?>
+        </div>
 
-  <!-- Bottom CTA Banner -->
-  <section class="cta-banner" style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 50px 0; text-align: center;" id="bottom-cta">
-    <div class="container" style="max-width: 900px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Start Your Organized Move in Chatra Today!</h2>
-      <p style="font-size: 1.1rem; color: #cbd5e1; margin-bottom: 30px; line-height: 1.7;">
-        Call Shree Ashirwad Packers and Movers for a hassle-free, perfectly planned household relocation!
-      </p>
-      <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="tel:+918409531615" title="Call +91 8409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
-          <i class="fa-solid fa-phone"></i> Call +91 8409531615
-        </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20send%20me%20the%20shifting%20checklist." title="Chat on WhatsApp" style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
-          <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
-        </a>
       </div>
     </div>
   </section>
@@ -262,15 +252,15 @@ require_once __DIR__ . '/../includes/header.php';
 </main>
 
 <script>
-function sendHeroWhatsAppLead(event, form) {
-  event.preventDefault();
+function sendHeroWhatsAppLead(e, form) {
+  e.preventDefault();
   var name = form.querySelector('[name="name"]').value;
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
   var extraMsg = form.querySelector('[name="message"]').value;
   
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Checklist & Quote in Chatra:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination: " + moveTo;
   
   if (extraMsg && extraMsg.trim() !== '') {
     message += "\n- Details: " + extraMsg;

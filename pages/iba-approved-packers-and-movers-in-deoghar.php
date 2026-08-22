@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = 'IBA Approved Packers and Movers in Deoghar | IBA Approved Shifting';
@@ -8,26 +8,26 @@ $page_keywords = 'iba approved packers movers deoghar, movers and packers deogha
 $page_city = 'Deoghar';
 
 $faq_list = [
-    ['q' => 'What are the shifting charges for IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for What are the shifting charges for IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'How long does delivery take for IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for How long does delivery take for IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Do you provide IBA approved bills for IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Do you provide IBA approved bills for IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'How are cars and bikes transported for IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for How are cars and bikes transported for IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Is transit insurance provided for IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Is transit insurance provided for IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'What packaging materials are used for fragile items?', 'a' => 'Detailed response for What packaging materials are used for fragile items? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Can I track my container truck during transit?', 'a' => 'Detailed response for Can I track my container truck during transit? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Do your packers assemble furniture at destination?', 'a' => 'Detailed response for Do your packers assemble furniture at destination? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Are there any hidden toll or entry tax charges?', 'a' => 'Detailed response for Are there any hidden toll or entry tax charges? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'What is the contact phone number for booking?', 'a' => 'Detailed response for What is the contact phone number for booking? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 11 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 11 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 12 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 12 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 13 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 13 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 14 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 14 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 15 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 15 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 16 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 16 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 17 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 17 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 18 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 18 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 19 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 19 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 20 regarding IBA Approved Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 20 regarding IBA Approved Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    ['q' => 'Are your packing and moving services in Deoghar officially IBA approved?', 'a' => 'Yes, Shree Ashirwad Packers and Movers provides 100% IBA-compliant relocation services in Deoghar with official Consignment Lorry Receipts (LR), GST invoices (SAC 996511), and bills accepted by all public sector banks, AIIMS Deoghar, Railways, and central government departments.'],
+    ['q' => 'Which areas in Deoghar do you cover for household and office shifting?', 'a' => 'We provide door-to-door shifting across all major Deoghar localities including Jasidih, Castairs Town, VIP Road, Bilasi Town, Bompas Town, Karnibabad, Satsang Nagar, AIIMS Campus area, and Deoghar Railway Station road.'],
+    ['q' => 'How much does local home shifting cost in Deoghar?', 'a' => 'Local home shifting within Deoghar ranges between ₹3,500 and ₹6,500 for a 1BHK, ₹6,500 to ₹10,500 for a 2BHK, and ₹10,500 to ₹16,500 for a 3BHK home.'],
+    ['q' => 'How much does intercity shifting cost from Deoghar to Ranchi, Patna, or Kolkata?', 'a' => 'Intercity relocation from Deoghar via NH-114A / NH-333 ranges from ₹8,500 to ₹22,000 depending on total goods volume, container vehicle size, and destination distance.'],
+    ['q' => 'Do you issue complete reimbursement bill sets for AIIMS Deoghar and Bank officers?', 'a' => 'Yes, we provide 100% valid reimbursement paperwork packages including GST Tax Invoices, stamped Lorry Receipts (LR Copy), Itemized Packing Inventories, and Money Receipts.'],
+    ['q' => 'How are motorcycles and bikes safely transported from Deoghar?', 'a' => 'Bikes receive 5-layer packaging using bubble wrap, corrugated sheets, foam padding on mirrors/tanks, and stretch film sealing before being loaded into enclosed vehicle carriers.'],
+    ['q' => 'How are cars transported long-distance from Deoghar to other states?', 'a' => 'Cars are loaded into covered hydraulic car trailers, secured with rubber wheel chocks and nylon chassis straps, and tracked via live GPS hardware.'],
+    ['q' => 'What packaging materials are used for fragile kitchen crockery and electronics?', 'a' => 'We utilize heavy 80-micron bubble rolls, 5-ply corrugated cartons, high-density foam guards, plastic stretch wrap, and custom wooden crating for Smart TVs and glass tops.'],
+    ['q' => 'Can I track my shifting truck during highway transit from Deoghar?', 'a' => 'Yes, all our intercity container trucks are fitted with active GPS trackers, allowing real-time location tracking and direct communication with your move manager.'],
+    ['q' => 'Do your packers dismantle and reassemble heavy wooden beds and wardrobes in Deoghar?', 'a' => 'Yes, our skilled carpenters handle the unbolting, protective wrapping, loading, and reassembly of double beds, wardrobes, and modular furniture at your new residence.'],
+    ['q' => 'What documents are required to book an IBA-approved move in Deoghar?', 'a' => 'You need to provide a copy of your ID proof (Aadhar / PAN), destination address proof, and transfer order copy if claiming official corporate or PSU reimbursement.'],
+    ['q' => 'Are highway toll charges and state entry permits included in your written quotes?', 'a' => 'Yes, all written quotations issued by Shree Ashirwad Packers are 100% transparent and inclusive of fuel costs, driver allowances, toll taxes, and state permits.'],
+    ['q' => 'How far in advance should I book my relocation service in Deoghar?', 'a' => 'We recommend booking 2 to 4 days prior to your intended shifting date to reserve enclosed container slots and specialized packing crews.'],
+    ['q' => 'Is transit insurance available for household moves from Deoghar?', 'a' => 'Yes, we offer comprehensive full-value transit insurance covering your consignment against highway transit damage, accidental risks, fire, or theft.'],
+    ['q' => 'Can you transport household goods and personal cars simultaneously from Deoghar?', 'a' => 'Yes, we arrange combined carrier containers or deploy separate specialized car trailers alongside household trucks for seamless single-day dispatch.'],
+    ['q' => 'How do you handle household shifting during monsoon season in Deoghar?', 'a' => 'We deploy 100% waterproof closed container trucks and wrap all furniture items in double-layer moisture-proof stretch film to guarantee dry delivery.'],
+    ['q' => 'Do you provide warehousing and storage facilities in Deoghar?', 'a' => 'Yes, we maintain clean, covered, 24/7 guarded warehousing space in Deoghar for short-term and long-term household goods storage.'],
+    ['q' => 'What is the payment procedure for booking shifting services with Shree Ashirwad Packers?', 'a' => 'Pay a modest 10-20% advance booking fee, with the remaining balance settled upon loading inspection or doorstep delivery.'],
+    ['q' => 'Can I change or reschedule my moving date after booking in Deoghar?', 'a' => 'Yes, you can reschedule your move date free of cost by informing our customer support team at least 24 hours prior to dispatch.'],
+    ['q' => 'How can I contact Shree Ashirwad Packers for a free pre-move survey in Deoghar?', 'a' => 'Call +91 8409531615 or submit your request via WhatsApp to schedule an immediate physical or virtual home survey.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -200,6 +200,35 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
+  <!-- Deoghar Cluster Internal Link Grid -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+        Related Deoghar Relocation Guides &amp; Services
+      </h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>pages/office-relocation-services-in-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-building" style="color: #f59e0b; margin-right: 8px;"></i> Office Relocation Deoghar
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/household-shifting-checklist-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-list-check" style="color: #f59e0b; margin-right: 8px;"></i> Moving Timeline Checklist
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/car-and-bike-transport-guide-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-car" style="color: #f59e0b; margin-right: 8px;"></i> Vehicle Transport Guide
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-choose-best-packers-and-movers-in-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-user-check" style="color: #f59e0b; margin-right: 8px;"></i> Choosing Best Movers
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-avoid-fraud-packers-and-movers-in-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-shield-alt" style="color: #f59e0b; margin-right: 8px;"></i> Avoid Moving Scams
+        </a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Deoghar Main City Hub
+        </a>
+      </div>
+    </div>
+  </section>
+
 </main>
 
 <script>
@@ -210,9 +239,9 @@ function sendHeroWhatsAppLead(event, form) {
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
   var extraMsg = form.querySelector('[name="message"]').value;
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nQuote Request:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nQuote Request Deoghar:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
   if (extraMsg) { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=919955554330&text=" + encodeURIComponent(message);
+  window.location.href = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
 }
 </script>
 

@@ -1,88 +1,350 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Patna to Allahabad 8409531615";
-$page_desc = "Get reliable packers and movers services from Patna to Allahabad. Shree Ashirwad Packers and Movers offers secure household shifting, vehicle transport, and transit insurance with zero hidden charges. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.";
-$page_keywords = "packers and movers patna to allahabad, best packers and movers patna to allahabad, affordable packers and movers patna to allahabad, packers and movers, packers and movers in ranchi, top packers and movers patna to allahabad company, household shifting packers and movers patna to allahabad, doorstep packers and movers patna to allahabad, verified packers and movers patna to allahabad services, shree ashirwad packers and movers patna to allahabad";
+$page_title = "Packers and Movers Patna to Allahabad (Prayagraj) | Shree Ashirwad Packers";
+$page_desc = "Hire certified packers and movers from Patna to Allahabad (Prayagraj). Top-rated intercity relocation, 7-layer protective packaging, GPS-tracked container transport, and 100% transit insurance. Get free quotes now!";
+$page_keywords = "packers and movers patna to allahabad, packers and movers patna to prayagraj, best packers and movers patna to allahabad, Patna to Prayagraj shifting charges, household relocation patna to allahabad, car transport patna to prayagraj";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-allahabad.php";
+
+// FAQ Array for Schema and On-Page Render
+$faqs = [
+    [
+        "q" => "What is the cost of Packers and Movers from Patna to Allahabad (Prayagraj)?",
+        "a" => "Intercity shifting costs from Patna to Allahabad range from ₹11,500 to ₹24,500 for 1-3 BHK apartments depending on household volume, packing quality, and transit insurance selection."
+    ],
+    [
+        "q" => "How long does household goods transit take from Patna to Prayagraj?",
+        "a" => "The average highway transit time between Patna and Allahabad is approximately 9 to 12 hours via NH 19 (AH1), enabling fast 24-hour door-to-door delivery."
+    ],
+    [
+        "q" => "Do you provide dedicated container trucks for Patna to Allahabad moves?",
+        "a" => "Yes, we offer both dedicated enclosed container trucks and cost-effective shared container logistics for Patna to Prayagraj relocations."
+    ],
+    [
+        "q" => "Is transit insurance mandatory for Patna to Allahabad shifting?",
+        "a" => "We strongly recommend 3% transit insurance covering all household goods against accidental damage, theft, or unforeseen highway risks."
+    ],
+    [
+        "q" => "Can I transport my car or bike along with household goods to Prayagraj?",
+        "a" => "Yes, we operate specialized car carrier trailers and enclosed bike transport containers for safe vehicle shipping alongside home relocation."
+    ],
+    [
+        "q" => "What packaging materials are used for fragile electronics and furniture?",
+        "a" => "We utilize heavy-duty corrugated sheets, multi-layer bubble wrap, foam corner guards, stretch film wrapping, and sturdy wooden crates for delicate items."
+    ],
+    [
+        "q" => "Are loading, unloading, and unpacking included in the final estimate?",
+        "a" => "Yes, our comprehensive quote covers end-to-end services including expert packing, loading, highway transit, unloading, and room-wise unpacking."
+    ],
+    [
+        "q" => "How far in advance should I book my Patna to Allahabad relocation?",
+        "a" => "We advise booking at least 2 to 4 days prior to your preferred shifting date to secure specialized trucks and optimal crew allocation."
+    ],
+    [
+        "q" => "What documents are required for intercity goods transport from Patna to UP?",
+        "a" => "You need to provide a copy of your ID proof (Aadhaar/PAN), consignment note/bill provided by us, and a detailed inventory list."
+    ],
+    [
+        "q" => "How can I track my consignment during Patna to Prayagraj transit?",
+        "a" => "All our long-distance carrier vehicles are equipped with real-time GPS tracking, and our dedicated move coordinators provide regular WhatsApp location updates."
+    ]
+];
+
+// Generate JSON-LD FAQ Schema
+$faq_schema_items = [];
+foreach ($faqs as $faq) {
+    $faq_schema_items[] = [
+        "@type" => "Question",
+        "name" => $faq["q"],
+        "acceptedAnswer" => [
+            "@type" => "Answer",
+            "text" => $faq["a"]
+        ]
+    ];
+}
+$faq_schema = [
+    "@context" => "https://schema.org",
+    "@type" => "FAQPage",
+    "mainEntity" => $faq_schema_items
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<!-- JSON-LD FAQ Schema Injection -->
+<script type="application/ld+json">
+<?php echo json_encode($faq_schema, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?>
+</script>
 
-  <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
-    <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+<div class="dark-theme-override">
+  <main class="site-main">
+
+    <!-- Visual Breadcrumbs -->
+    <div class="breadcrumb-wrapper">
+      <div class="container">
+        <div class="breadcrumb-list">
+          <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+          <span class="breadcrumb-separator">/</span>
+          <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/branches.php">Intercity Shifting</a></span>
+          <span class="breadcrumb-separator">/</span>
+          <span class="breadcrumb-item active">Patna to Allahabad</span>
+        </div>
       </div>
     </div>
-  </div>
 
-  <!-- Hero Section with Lead Form -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
-    <div class="container">
-      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
-        
-        <!-- Hero Text Column -->
-        <div class="hero-text">
-          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            PACKERS AND MOVERS PATNA ALLAH RELOCATION SPECIALISTS
-          </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Packers and Movers Patna to Allahabad</span>
-          </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Get reliable packers and movers services from Patna to Allahabad. Shree Ashirwad Packers and Movers offers secure household shifting, vehicle transport, and transit insurance with zero hidden charges. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.
-          </p>
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <div class="container">
+        <div class="hero-grid">
+          
+          <div class="hero-text">
+            <span class="section-tag">PATNA TO ALLAHABAD (PRAYAGRAJ) RELOCATION</span>
+            <h1>Verified <span class="highlight">Packers and Movers Patna to Allahabad</span></h1>
+            <p>Experience seamless, stress-free intercity relocation from Patna to Allahabad (Prayagraj) with Shree Ashirwad Packers and Movers. We offer 7-layer protective packaging, dedicated sealed container trucks, real-time GPS tracking, and 100% transit insurance for complete peace of mind.</p>
+            
+            <div class="hero-buttons">
+              <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-call" title="Call Us Now">
+                <i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?>
+              </a>
+              <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Patna%20to%20Allahabad%20relocation." class="btn btn-whatsapp" target="_blank" title="Chat on WhatsApp">
+                <i class="fab fa-whatsapp"></i> WhatsApp Quote
+              </a>
+            </div>
 
-          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
-            </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
-            </a>
+            <div class="hero-badges">
+              <span><i class="fas fa-shield-alt"></i> Fully Insured</span>
+              <span><i class="fas fa-box-open"></i> 7-Layer Packing</span>
+              <span><i class="fas fa-truck-moving"></i> Door-to-Door</span>
+            </div>
           </div>
 
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+          <div class="hero-form-card">
+            <h2>Get Free Patna to Allahabad Quote</h2>
+            <p>Fast estimation sent directly to your phone</p>
+            <form onsubmit="sendHeroWhatsAppLead(event, this);">
+              <div class="form-group">
+                <input type="text" name="name" class="form-control" placeholder="Your Full Name" required>
+              </div>
+              <div class="form-group">
+                <input type="tel" name="phone" class="form-control" placeholder="10-Digit Mobile Number" required pattern="[0-9]{10}">
+              </div>
+              <div class="form-row">
+                <input type="text" name="move_from" class="form-control" value="Patna" readonly>
+                <input type="text" name="move_to" class="form-control" value="Allahabad" readonly>
+              </div>
+              <button type="submit" class="btn btn-submit">Get Instant Price &rarr;</button>
+            </form>
           </div>
+
         </div>
-
-        <!-- Hero Lead Form Column -->
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Boring Road Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
-
-          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;">
-              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Boring Road" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
-            </button>
-          </form>
-        </div>
-
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+    <!-- Trust Stats Bar -->
+    <section class="stats-bar">
+      <div class="container">
+        <div class="stats-grid">
+          <div class="stat-item">
+            <span class="number">12,500+</span>
+            <span class="label">Moves Completed</span>
+          </div>
+          <div class="stat-item">
+            <span class="number">99.4%</span>
+            <span class="label">On-Time Delivery</span>
+          </div>
+          <div class="stat-item">
+            <span class="number">4.9/5</span>
+            <span class="label">Customer Rating</span>
+          </div>
+          <div class="stat-item">
+            <span class="number">100%</span>
+            <span class="label">Safe Transit Guarantee</span>
+          </div>
+        </div>
+      </div>
+    </section>
 
-</main>
+    <!-- Service Offerings -->
+    <section class="services-section">
+      <div class="container">
+        <div class="section-header text-center">
+          <h2>Complete Patna to Allahabad (Prayagraj) Shifting Solutions</h2>
+          <p>End-to-end relocation services tailored for your home, office, and vehicles</p>
+        </div>
+
+        <div class="services-grid">
+          <div class="service-card">
+            <div class="icon-box"><i class="fas fa-home"></i></div>
+            <h3>Household Relocation</h3>
+            <p>Complete packing, loading, container transit, and unpacking of furniture, appliances, and personal belongings from Patna to Civil Lines, Katra, Naini, or any locality in Allahabad.</p>
+          </div>
+          <div class="service-card">
+            <div class="icon-box"><i class="fas fa-car"></i></div>
+            <h3>Vehicle Carrier Transport</h3>
+            <p>Safe shipping of cars and bikes in hydraulic car carriers and specialized enclosed trailers with scratch-free loading guarantees.</p>
+          </div>
+          <div class="service-card">
+            <div class="icon-box"><i class="fas fa-building"></i></div>
+            <h3>Corporate & Office Shifting</h3>
+            <p>Systematic moving of office desks, IT equipment, server racks, and office archives with minimal operational downtime.</p>
+          </div>
+          <div class="service-card">
+            <div class="icon-box"><i class="fas fa-warehouse"></i></div>
+            <h3>Storage & Warehousing</h3>
+            <p>Short-term and long-term secure warehousing facilities in Patna and Allahabad with 24/7 CCTV surveillance and climate protection.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tariff & Pricing Table -->
+    <section class="pricing-section">
+      <div class="container">
+        <div class="section-header text-center">
+          <h2>Estimated Patna to Allahabad Shifting Tariffs</h2>
+          <p>Transparent rates with zero hidden charges or unexpected fees</p>
+        </div>
+
+        <div class="table-responsive">
+          <table class="pricing-table">
+            <thead>
+              <tr>
+                <th>Shifting Type</th>
+                <th>Packing Level</th>
+                <th>Estimated Cost (₹)</th>
+                <th>Est. Transit Time</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1 BHK Apartment Move</td>
+                <td>Standard 5-Layer</td>
+                <td>₹11,500 - ₹15,500</td>
+                <td>9 - 12 Hours</td>
+              </tr>
+              <tr>
+                <td>2 BHK Apartment Move</td>
+                <td>Premium 7-Layer</td>
+                <td>₹16,000 - ₹21,500</td>
+                <td>12 - 16 Hours</td>
+              </tr>
+              <tr>
+                <td>3 BHK / Villa Shifting</td>
+                <td>Ultra Executive Crating</td>
+                <td>₹22,000 - ₹29,500</td>
+                <td>16 - 20 Hours</td>
+              </tr>
+              <tr>
+                <td>Two-Wheeler Transport</td>
+                <td>Bubble Wrap + Wooden Frame</td>
+                <td>₹3,200 - ₹4,800</td>
+                <td>24 Hours</td>
+              </tr>
+              <tr>
+                <td>Car Carrier Transport</td>
+                <td>Covered Trailer Container</td>
+                <td>₹9,000 - ₹13,500</td>
+                <td>24 Hours</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- Relocation Workflow -->
+    <section class="workflow-section">
+      <div class="container">
+        <div class="section-header text-center">
+          <h2>Our 6-Step Patna to Allahabad Relocation Process</h2>
+          <p>How we ensure a smooth, worry-free moving experience from start to finish</p>
+        </div>
+
+        <div class="workflow-grid">
+          <div class="step-card">
+            <div class="step-num">01</div>
+            <h3>Pre-Move Survey</h3>
+            <p>Comprehensive video or in-person evaluation to record item volume and special crating requirements.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-num">02</div>
+            <h3>Multi-Layer Packing</h3>
+            <p>Professional packing using bubble wraps, corrugated sheets, edge guards, and waterproof stretch film.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-num">03</div>
+            <h3>Heavy Loading</h3>
+            <p>Skilled handling of bulky furniture and heavy appliances using ramps, sliders, and safety belts.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-num">04</div>
+            <h3>Highway Transit</h3>
+            <p>Express transit via NH 19 (Grand Trunk Road) in sealed, weather-proof containers equipped with GPS tracking.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-num">05</div>
+            <h3>Doorstep Unloading</h3>
+            <p>Safe unloading and room-wise placement of items at your new address in Allahabad / Prayagraj.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-num">06</div>
+            <h3>Unpacking & Setup</h3>
+            <p>Unpacking, inspection, and furniture re-assembly to help you settle in effortlessly.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Route Safety & Info -->
+    <section class="route-info-section">
+      <div class="container">
+        <div class="route-card">
+          <h2>Patna to Allahabad Highway Transit & Safety Protocol</h2>
+          <p>The road distance between Patna and Allahabad is approximately <strong>370 km</strong> via National Highway 19 (NH 19). Our drivers are seasoned long-haul specialists accustomed to navigating state borders, toll plazas, and highway transit conditions.</p>
+          <div class="route-features">
+            <div class="r-feat"><i class="fas fa-shield-alt"></i> Sealed Container Lock System</div>
+            <div class="r-feat"><i class="fas fa-satellite"></i> 24/7 Satellite GPS Monitoring</div>
+            <div class="r-feat"><i class="fas fa-file-invoice-dollar"></i> Instant E-Way Bill & Transit Permit</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section">
+      <div class="container">
+        <div class="section-header text-center">
+          <h2>Frequently Asked Questions (Patna to Allahabad Move)</h2>
+          <p>Get answers to common queries regarding intercity moving, insurance, and transit times</p>
+        </div>
+
+        <div class="faq-accordion">
+          <?php foreach ($faqs as $index => $faq): ?>
+            <div class="faq-item">
+              <h3 class="faq-question"><?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?></h3>
+              <div class="faq-answer">
+                <p><?php echo htmlspecialchars($faq['a']); ?></p>
+              </div>
+            </div>
+          <?php endforeach; ?>
+        </div>
+      </div>
+    </section>
+
+    <!-- Call to Action Banner -->
+    <section class="cta-banner">
+      <div class="container text-center">
+        <h2>Ready for a Smooth Move from Patna to Allahabad?</h2>
+        <p>Book with Patna's most trusted intercity relocation company today and enjoy stress-free shifting.</p>
+        <div class="cta-buttons">
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-call-large"><i class="fas fa-phone-alt"></i> Call <?php echo SITE_PHONE; ?></a>
+          <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20book%20my%20Patna%20to%20Allahabad%20relocation." class="btn btn-whatsapp-large" target="_blank"><i class="fab fa-whatsapp"></i> Chat on WhatsApp</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</div>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

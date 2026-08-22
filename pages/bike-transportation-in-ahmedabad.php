@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Ahmedabad | Safe Two-Wheeler Shifting Services";
 $page_desc = "Planning bike transportation in Ahmedabad? Get safe, insured, and doorstep motorcycle shifting. High-quality multi-layer packing, GPS tracking, and budget charges.";
-$page_keywords = "bike transportation in ahmedabad, best bike transportation in ahmedabad, affordable bike transportation in ahmedabad, packers and movers, packers and movers in ranchi, top bike transportation in ahmedabad company, household shifting bike transportation in ahmedabad, doorstep bike transportation in ahmedabad, verified bike transportation in ahmedabad services, shree ashirwad bike transportation in ahmedabad";
+$page_keywords = "bike transportation in ahmedabad, best bike transportation in ahmedabad, affordable bike transportation in ahmedabad, packers and movers, top bike transportation in ahmedabad company, household shifting bike transportation in ahmedabad, doorstep bike transportation in ahmedabad, verified bike transportation in ahmedabad services, shree ashirwad bike transportation in ahmedabad";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-ahmedabad.php";
 
 require_once __DIR__ . '/../includes/header.php';

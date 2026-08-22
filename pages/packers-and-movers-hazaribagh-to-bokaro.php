@@ -8,7 +8,6 @@ $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-mo
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
-?>
 
 <main class="site-main">
   <div class="breadcrumb-wrapper">

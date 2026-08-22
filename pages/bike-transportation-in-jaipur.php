@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Jaipur | Safe Two-Wheeler Shifting Rajasthan";
 $page_desc = "Professional bike transportation in Jaipur. Doorstep two-wheeler shifting in the Pink City with 4-layer desert-sand proof packing, enclosed carriers, and insurance.";
-$page_keywords = "bike transportation in jaipur, best bike transportation in jaipur, affordable bike transportation in jaipur, packers and movers, packers and movers in ranchi, top bike transportation in jaipur company, household shifting bike transportation in jaipur, doorstep bike transportation in jaipur, verified bike transportation in jaipur services, shree ashirwad bike transportation in jaipur";
+$page_keywords = "bike transportation in jaipur, best bike transportation in jaipur, affordable bike transportation in jaipur, packers and movers, top bike transportation in jaipur company, household shifting bike transportation in jaipur, doorstep bike transportation in jaipur, verified bike transportation in jaipur services, shree ashirwad bike transportation in jaipur";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-jaipur.php";
 
 require_once __DIR__ . '/../includes/header.php';

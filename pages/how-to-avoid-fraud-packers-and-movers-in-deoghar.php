@@ -1,201 +1,341 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = 'How to Avoid Fraud Packers and Movers in Deoghar | IBA Approved Shifting';
-$page_desc = 'Safe How to Avoid Fraud Packers and Movers in Deoghar by Shree Ashirwad. IBA approved home, car & bike transport with insurance via NH-114A corridor. Call +91 9955554330!';
-$page_keywords = 'avoid fraud packers movers deoghar, movers and packers deoghar, shifting charges deoghar, home relocation deoghar, bike transport deoghar, car transport deoghar, IBA approved packers movers deoghar';
+$page_title = 'How to Avoid Fraud Packers and Movers in Deoghar | 8409531615';
+$page_desc = 'Complete anti-fraud relocation guide for Deoghar (Babadham). Learn to spot fake moving companies, verify GSTIN & IBA credentials, prevent hidden charges, and hire verified movers with Shree Ashirwad Packers.';
+$page_keywords = 'avoid fraud packers movers deoghar, moving scams deoghar, fake movers alert deoghar, verify packers and movers deoghar, IBA approved movers deoghar, genuine moving company jasidih, safe household shifting deoghar';
+$canonical_url = 'https://shreeashirwadpackersandmovers.com/pages/how-to-avoid-fraud-packers-and-movers-in-deoghar.php';
 
 $page_city = 'Deoghar';
 
 $faq_list = [
-    ['q' => 'What are the shifting charges for How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for What are the shifting charges for How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'How long does delivery take for How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for How long does delivery take for How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Do you provide IBA approved bills for How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Do you provide IBA approved bills for How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'How are cars and bikes transported for How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for How are cars and bikes transported for How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Is transit insurance provided for How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Is transit insurance provided for How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'What packaging materials are used for fragile items?', 'a' => 'Detailed response for What packaging materials are used for fragile items? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Can I track my container truck during transit?', 'a' => 'Detailed response for Can I track my container truck during transit? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Do your packers assemble furniture at destination?', 'a' => 'Detailed response for Do your packers assemble furniture at destination? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Are there any hidden toll or entry tax charges?', 'a' => 'Detailed response for Are there any hidden toll or entry tax charges? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'What is the contact phone number for booking?', 'a' => 'Detailed response for What is the contact phone number for booking? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 11 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 11 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 12 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 12 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 13 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 13 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 14 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 14 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 15 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 15 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 16 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 16 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 17 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 17 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 18 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 18 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 19 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 19 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
-    ['q' => 'Additional Service Query 20 regarding How to Avoid Fraud Packers and Movers in Deoghar?', 'a' => 'Detailed response for Additional Service Query 20 regarding How to Avoid Fraud Packers and Movers in Deoghar? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks in Deoghar.'],
+    [
+        'q' => 'How can I identify fraudulent packers and movers in Deoghar?',
+        'a' => 'Fraudulent operators typically offer unusually cheap verbal quotes, lack a physical office in Deoghar (Jasidih/Satsang Nagar), operate without a valid 15-digit GSTIN, demand 100% advance payment in cash, and refuse to issue a written binding contract.'
+    ],
+    [
+        'q' => 'How do I verify the GST registration of a moving company in Deoghar?',
+        'a' => 'Ask for their 15-digit GSTIN number and verify it on the official government GST portal (services.gst.gov.in). Check if the registered business name, address in Deoghar, and active status match their claimed identity.'
+    ],
+    [
+        'q' => 'Why do fake movers quote extremely low prices initially?',
+        'a' => 'Low verbal quotes are a bait technique used by rogue operators. Once your household goods are loaded into their truck, they hold your items hostage at a remote warehouse and demand double or triple the initial amount before agreeing to unload.'
+    ],
+    [
+        'q' => 'How can I confirm if a packer and mover in Deoghar is IBA-approved?',
+        'a' => 'Request their official IBA code and approval letter issued by the Indian Banks\' Association. Verify that the code is active and matches their transport company letterhead before booking.'
+    ],
+    [
+        'q' => 'Should I pay 100% advance payment for house shifting in Deoghar?',
+        'a' => 'Never pay 100% advance upfront to any moving company. Professional movers like Shree Ashirwad Packers accept a small booking token (10-20%), with the balance payable upon safe loading and final destination unloading.'
+    ],
+    [
+        'q' => 'What physical verification checks should I perform in Deoghar?',
+        'a' => 'Visit the mover\'s physical office in Deoghar. Inspect their company banner, landline phone, trade license, GST certificate, and check if they own dedicated container trucks or are mere commission brokers.'
+    ],
+    [
+        'q' => 'What is the risk of hiring unverified movers operating only via WhatsApp or mobile numbers?',
+        'a' => 'Mover operators with no physical address can easily change their mobile numbers and disappear if your goods are stolen, damaged, or delayed in highway transit.'
+    ],
+    [
+        'q' => 'What legal document acts as proof of transit for household goods?',
+        'a' => 'The Lorry Receipt (LR Copy) / Consignment Note, itemized inventory packing list signed by the supervisor, and official GST tax invoice act as legal proof of transit.'
+    ],
+    [
+        'q' => 'How do fraudulent movers trick clients with fake insurance claims?',
+        'a' => 'Fraudulent vendors collect 3% "insurance money" in cash but fail to issue an actual policy document from an IRDAI-registered insurer. When damage occurs, they disown responsibility.'
+    ],
+    [
+        'q' => 'What packaging tricks do cheap, fraudulent movers use?',
+        'a' => 'Unverified movers use old torn cardboard boxes, thin single-layer plastic, or dirty blankets instead of 7-layer protective materials (bubble wrap, 5-ply corrugated sheets, foam edge guards, and wooden crates).'
+    ],
+    [
+        'q' => 'How can I prevent hidden charges during my move in Deoghar?',
+        'a' => 'Insist on a written binding quotation that clearly explicitly covers packing labor, loading/unloading, packaging materials, toll taxes, GST, and unloading floor charges.'
+    ],
+    [
+        'q' => 'What should I do if a mover in Deoghar holds my goods hostage for more money?',
+        'a' => 'Immediately file a complaint at the local Deoghar police station (e.g. Jasidih or Town Police Station), notify the National Consumer Helpline (1915), and present your written quotation and payment receipts.'
+    ],
+    [
+        'q' => 'Are online reviews on Google and directories reliable for selecting movers in Deoghar?',
+        'a' => 'Cross-check online reviews by looking for detailed customer experiences with photos. Watch out for fake profiles posting identical 5-star reviews on the same day.'
+    ],
+    [
+        'q' => 'How does Shree Ashirwad Packers protect clients against shifting fraud in Deoghar?',
+        'a' => 'We operate a physical office in Deoghar, provide 100% written binding contracts, maintain active GSTIN and IBA compliance, deploy GPS-tracked closed containers, and charge zero hidden fees.'
+    ],
+    [
+        'q' => 'Can I verify truck vehicle registration numbers before loading?',
+        'a' => 'Yes! Verify the truck registration number on the mParivahan app to ensure the vehicle belongs to or is authorized by the transport operator.'
+    ],
+    [
+        'q' => 'What precautions should be taken when transferring payment for shifting?',
+        'a' => 'Always pay via current bank account NEFT/RTGS, official UPI QR codes, or account-payee cheques linked to the registered company name. Never transfer money to personal savings accounts.'
+    ],
+    [
+        'q' => 'Why is an itemized inventory list necessary before loading?',
+        'a' => 'An itemized inventory sheet signed by both you and the loading supervisor prevents claims of "missing items" or disputed box counts at the destination.'
+    ],
+    [
+        'q' => 'How can I ensure my car or bike is not driven illegally during transit?',
+        'a' => 'Note down the exact odometer mileage reading and fuel level on the vehicle inspection sheet before handing over your vehicle key.'
+    ],
+    [
+        'q' => 'What should government/bank officers check when submitting shifting bills in Deoghar?',
+        'a' => 'Ensure the bill includes the company\'s valid GSTIN, SAC Code 996511, Money Receipt, original Lorry Receipt (LR), itemized inventory, and official rubber seal.'
+    ],
+    [
+        'q' => 'How do I book a verified pre-move survey with Shree Ashirwad Packers in Deoghar?',
+        'a' => 'Call +91 8409531615 or click the WhatsApp button to schedule a free physical or video home inspection with our certified move surveyor.'
+    ]
 ];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
-  <div class="breadcrumb-wrapper">
-    <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" title="Deoghar">Deoghar</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active">How to Avoid Fraud Packers and Movers in Deoghar</span>
-      </div>
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 14px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb" style="display: flex; gap: 8px; font-size: 0.9rem; color: #64748b; list-style: none; margin: 0; padding: 0;">
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #2563eb; text-decoration: none;">Home</a></li>
+          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" title="Deoghar" style="color: #2563eb; text-decoration: none;">Deoghar</a></li>
+          <li class="breadcrumb-item active" aria-current="page" style="color: #1e293b; font-weight: 600;"><span style="margin: 0 4px;">/</span> How to Avoid Fraud Movers</li>
+        </ol>
+      </nav>
     </div>
   </div>
 
-  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
-    <div class="container">
-      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
-        <div class="hero-text">
-          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">IBA Approved Professional Relocation</span>
-          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">Best <span style="color: #f59e0b;">How to Avoid Fraud Packers and Movers in Deoghar</span></h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">Looking for professional, damage-free household shifting, car transportation, bike moving, or office relocation services in Deoghar (Babadham)? Shree Ashirwad Packers and Movers provides 7-layer protective packaging, active GPS container tracking, full transit insurance, and genuine IBA-approved GST bills for corporate and government claims.</p>
-          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20How+to+Avoid+Fraud+Packers+and+Movers+in+Deoghar" title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
+  <!-- Hero Section -->
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff; padding: 60px 0; position: relative;" id="hero-deoghar-fraud">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 40px;">
+      
+      <div class="hero-content" style="flex: 1 1 500px;">
+        <span style="display: inline-block; background: rgba(245, 158, 11, 0.2); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
+          CONSUMER PROTECTION ADVISORY 2026
+        </span>
+        <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          How to Avoid Fraud Packers and Movers in Deoghar
+        </h1>
+        <p style="font-size: 1.15rem; line-height: 1.8; color: #94a3b8; margin-bottom: 30px;">
+          Protect your household goods, vehicle, and hard-earned money from rogue moving scams in Deoghar (Babadham). Learn to spot fake quotes, verify physical office setups near Jasidih/Castairs Town, check GSTIN &amp; IBA credentials, and hire verified movers with Shree Ashirwad Packers.
+        </p>
+        
+        <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
+          <a href="tel:+918409531615" title="Call +91 8409531615" class="btn-call" style="background: #e11d48; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(225, 29, 72, 0.4);" id="hero-call-btn">
+            <i class="fa-solid fa-phone"></i> Call +91 8409531615
+          </a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20verify%20shifting%20credentials%20in%20Deoghar." title="Verify Mover Credentials" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
+            <i class="fa-brands fa-whatsapp"></i> Verify Mover Credentials
+          </a>
+        </div>
+
+        <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 20px;">
+          <span><i class="fa-solid fa-shield-cat" style="color: #f59e0b;"></i> 100% Anti-Fraud Shield</span>
+          <span><i class="fa-solid fa-file-contract" style="color: #f59e0b;"></i> Written Price Contract</span>
+          <span><i class="fa-solid fa-building-circle-check" style="color: #f59e0b;"></i> Verified Physical Office</span>
+        </div>
+      </div>
+
+      <!-- Quick Lead Form -->
+      <div class="hero-form-card" style="flex: 0 1 420px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 30px; color: #ffffff; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);" id="deoghar-fraud-form-box">
+        <h3 style="font-size: 1.4rem; font-weight: 700; margin-bottom: 8px; color: #ffffff; text-align: center;">Get Verified Safe Quote</h3>
+        <p style="font-size: 0.88rem; color: #cbd5e1; margin-bottom: 20px; text-align: center;">Zero hidden charges &bull; Genuine IBA GST bills</p>
+        
+        <form onsubmit="sendHeroWhatsAppLead(event, this);" id="deoghar-fraud-lead-form">
+          <div style="margin-bottom: 14px;">
+            <input type="text" name="name" placeholder="Your Full Name" required style="width: 100%; padding: 12px 14px; border: 1px solid rgba(255,255,255,0.2); border-radius: 6px; font-size: 0.95rem; background: rgba(0,0,0,0.4); color: #fff; box-sizing: border-box;">
           </div>
+          <div style="margin-bottom: 14px;">
+            <input type="tel" name="phone" placeholder="Mobile Number" required style="width: 100%; padding: 12px 14px; border: 1px solid rgba(255,255,255,0.2); border-radius: 6px; font-size: 0.95rem; background: rgba(0,0,0,0.4); color: #fff; box-sizing: border-box;">
+          </div>
+          <div style="margin-bottom: 14px;">
+            <input type="text" name="move_from" placeholder="Pickup Area in Deoghar" required style="width: 100%; padding: 12px 14px; border: 1px solid rgba(255,255,255,0.2); border-radius: 6px; font-size: 0.95rem; background: rgba(0,0,0,0.4); color: #fff; box-sizing: border-box;">
+          </div>
+          <div style="margin-bottom: 14px;">
+            <input type="text" name="move_to" placeholder="Destination City" required style="width: 100%; padding: 12px 14px; border: 1px solid rgba(255,255,255,0.2); border-radius: 6px; font-size: 0.95rem; background: rgba(0,0,0,0.4); color: #fff; box-sizing: border-box;">
+          </div>
+          <div style="margin-bottom: 18px;">
+            <textarea name="message" placeholder="House size or items (e.g. 2BHK, Bike, Car)" rows="3" style="width: 100%; padding: 12px 14px; border: 1px solid rgba(255,255,255,0.2); border-radius: 6px; font-size: 0.95rem; background: rgba(0,0,0,0.4); color: #fff; box-sizing: border-box;"></textarea>
+          </div>
+          <button type="submit" style="width: 100%; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000000; border: none; padding: 14px; border-radius: 6px; font-size: 1rem; font-weight: 800; cursor: pointer;" id="submit-deoghar-fraud-btn">
+            Get Verified Estimate <i class="fa-solid fa-arrow-right" style="margin-left: 6px;"></i>
+          </button>
+        </form>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Performance & Trust Metrics Bar -->
+  <section class="trust-metrics-section" style="background: #070d1e; padding: 35px 0; border-bottom: 1px solid rgba(245, 158, 11, 0.2);" id="metrics-bar">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100% Genuine</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1; font-weight: 600; margin-top: 4px;">Deoghar Branch &amp; Fleet</div>
         </div>
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Quote</h2>
-          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;"><input type="text" name="name" placeholder="Your Full Name" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="margin-bottom: 14px;"><input type="tel" name="phone" placeholder="10-Digit Phone / WhatsApp" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" placeholder="From" value="Deoghar" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" placeholder="To" value="Destination" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="margin-bottom: 16px;"><textarea name="message" rows="2" placeholder="Items (1BHK, 2BHK, Bike, Car)" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea></div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000; font-weight: 800; font-size: 1rem; border-radius: 8px; border: none;">Get Free Quote on WhatsApp</button>
-          </form>
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">Zero Hidden</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1; font-weight: 600; margin-top: 4px;">Transparent Binding Rates</div>
+        </div>
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">7-Layer</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1; font-weight: 600; margin-top: 4px;">Heavy Duty Armor Packing</div>
+        </div>
+        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100% IBA</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1; font-weight: 600; margin-top: 4px;">Claim-Ready GST Bills</div>
         </div>
       </div>
     </div>
   </section>
 
-  <section style="padding: 40px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
-    <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">100% Safe</div><div style="font-size: 0.85rem; color: #cbd5e1;">7-Layer Protection</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">IBA Approved</div><div style="font-size: 0.85rem; color: #cbd5e1;">GST Claim Bills</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">GPS Tracked</div><div style="font-size: 0.85rem; color: #cbd5e1;">Closed Containers</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">2,500+</div><div style="font-size: 0.85rem; color: #cbd5e1;">Satisfied Moves</div></div>
-      </div>
-    </div>
-  </section>
+  <!-- Detailed Anti-Fraud Checklist & Guidance Section -->
+  <section class="content-guide-section" style="padding: 60px 0; background: #0b132b; color: #cbd5e1; line-height: 1.8;" id="detailed-fraud-guide">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
 
-  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
-    <div class="container" style="max-width: 950px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Complete Relocation Logistics & Services for How to Avoid Fraud Packers and Movers in Deoghar</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;">Shree Ashirwad Packers and Movers is the premier relocation company serving Deoghar and surrounding regions. Moving your home, office, two-wheeler, or car requires absolute precision, professional packing materials, trained logistics handlers, and guaranteed zero-damage execution. Our dedicated fleet operates continuously across NH-114A, NH-333, and major national routes connecting Deoghar to all major cities across India.</p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;">Whether you are shifting locally in Deoghar or moving to long-distance destinations, we bring over 15 years of industry excellence. Our move supervisors conduct pre-move surveys, create itemized inventory lists, and apply 7-layer protective packaging combining bubble wrap, 5-ply corrugated sheets, stretch wrap, foam corner guards, and custom wooden crating for delicate Smart TVs and glass items.</p>
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Estimated Charges & Cost Breakdown for How to Avoid Fraud Packers and Movers in Deoghar</h2>
-      <div style="overflow-x: auto; margin-top: 20px;">
-        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
-          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px;">Shifting Type</th><th style="padding: 14px;">Packaging Grade</th><th style="padding: 14px;">Vehicle Type</th><th style="padding: 14px;">Estimated Price (&#8377;)</th></tr></thead>
-          <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">Pickup Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;4,500 - &#8377;8,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Shifting</td><td style="padding: 12px;">Premium 5-Layer</td><td style="padding: 12px;">14ft Sealed Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;8,500 - &#8377;14,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Shifting</td><td style="padding: 12px;">7-Layer Heavy Crate</td><td style="padding: 12px;">17ft/19ft Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;14,500 - &#8377;22,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Paddy + Bubble Wrap</td><td style="padding: 12px;">Enclosed Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;2,500 - &#8377;5,500</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Carrier Shifting</td><td style="padding: 12px;">Wheel-Chock Safety Locks</td><td style="padding: 12px;">Covered Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;6,500 - &#8377;14,500</td></tr>
+      <h2 style="font-size: 2.2rem; color: #ffffff; margin-bottom: 20px; font-weight: 800;">Common Relocation Scams in Deoghar &amp; Prevention Checklist</h2>
+      <p style="margin-bottom: 20px; font-size: 1.05rem;">
+        With rapid urbanization around Jasidih, Satsang Nagar, Williams Town, and Castairs Town, unverified moving operators frequently exploit unsuspecting customers. Below are the most frequent moving scams reported in Jharkhand and how you can protect yourself:
+      </p>
+
+      <!-- 4 Common Moving Scams Grid -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 35px;">
+        <div style="background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">1. Low-Bait &amp; Hostage Scam</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Unverified operators quote ₹3,000 verbally over phone. After loading, they demand ₹15,000 before releasing your truck at destination.</p>
+        </div>
+        <div style="background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">2. Fake GST &amp; IBA Bills</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Fictitious companies print fake GSTINs and IBA logos on bill copies, leading to rejected employer reimbursement claims and legal trouble.</p>
+        </div>
+        <div style="background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">3. Phantom Mover Disappearance</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Brokers with no physical office collect 100% cash advance, load your goods into a hired open truck, and switch off their phones.</p>
+        </div>
+        <div style="background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">4. Fake Insurance Money Trap</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Operators collect 3% insurance charges in cash without issuing an official IRDAI policy, leaving you uncompensated when goods break.</p>
+        </div>
+      </div>
+
+      <!-- Tariff Benchmark Table -->
+      <h3 style="font-size: 1.6rem; color: #ffffff; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Fair Market Tariff Matrix (Deoghar Benchmarks 2026)</h3>
+      <p style="margin-bottom: 20px;">Use this official rate guide to spot unrealistically low fraudulent quotes:</p>
+
+      <div style="overflow-x: auto; margin-bottom: 40px; border: 1px solid rgba(255,255,255,0.1); border-radius: 10px;">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem; background: #172a54;">
+          <thead>
+            <tr style="background: #0f172a; color: #f59e0b;">
+              <th style="padding: 14px 18px;">Relocation Type</th>
+              <th style="padding: 14px 18px;">Local Shifting (Deoghar)</th>
+              <th style="padding: 14px 18px;">Intercity (Ranchi / Patna)</th>
+              <th style="padding: 14px 18px; background: #2563eb; color: #fff;">Long Distance (Delhi / Kolkata)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 18px; font-weight: 600; color: #ffffff;">1 BHK Household</td>
+              <td style="padding: 14px 18px;">₹4,500 - ₹6,500</td>
+              <td style="padding: 14px 18px;">₹7,500 - ₹11,500</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #f59e0b;">₹14,500 - ₹22,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(0,0,0,0.15);">
+              <td style="padding: 14px 18px; font-weight: 600; color: #ffffff;">2 BHK Household</td>
+              <td style="padding: 14px 18px;">₹6,500 - ₹9,500</td>
+              <td style="padding: 14px 18px;">₹11,000 - ₹16,500</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #f59e0b;">₹22,000 - ₹32,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 18px; font-weight: 600; color: #ffffff;">3 BHK Household / Villa</td>
+              <td style="padding: 14px 18px;">₹9,500 - ₹15,000</td>
+              <td style="padding: 14px 18px;">₹16,500 - ₹24,500</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #f59e0b;">₹32,000 - ₹48,000</td>
+            </tr>
+            <tr style="background: rgba(0,0,0,0.15);">
+              <td style="padding: 14px 18px; font-weight: 600; color: #ffffff;">Bike Shipping</td>
+              <td style="padding: 14px 18px;">₹1,800 - ₹2,800</td>
+              <td style="padding: 14px 18px;">₹3,200 - ₹4,800</td>
+              <td style="padding: 14px 18px; font-weight: 700; color: #f59e0b;">₹4,500 - ₹6,500</td>
+            </tr>
           </tbody>
         </table>
       </div>
 
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Our 5-Stage Damage-Free Relocation Workflow</h2>
-      <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">1. Pre-Move Survey & Written Quote</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Physical or virtual video survey to assess goods volume and provide transparent binding rates.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">2. Multi-Layer Protective Packaging</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Uniformed experts apply bubble wrap, corrugated sheets, foam guards, and custom wooden crating.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">3. Safe Loading & Anchorage</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Goods are loaded using hydraulic ramps and anchored with safety belts inside closed container trucks.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">4. Highway Transit & Live GPS Monitoring</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Vehicles move under active GPS surveillance with regular position updates sent to clients.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">5. Unloading, Unboxing & Reassembly</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Complete door delivery, unpacking, furniture reassembly, and item positioning at destination.</p></div>
+    </div>
+  </section>
+
+  <!-- FAQs Section -->
+  <section class="faq-section" style="background: #070d1e; padding: 60px 0; border-top: 1px solid rgba(255,255,255,0.1);" id="faqs">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 10px;">Frequently Asked Questions (20 FAQs)</h2>
+        <p style="color: #cbd5e1; font-size: 1rem;">Essential guidance to avoid shifting fraud and select genuine movers in Deoghar.</p>
       </div>
 
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Related Packers and Movers Services & Locations</h2>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" title="Packers and Movers in Deoghar Hub &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Deoghar Hub &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" title="Packers and Movers in Dhanbad &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" title="Packers and Movers in Bokaro &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-ranchi" title="Deoghar to Ranchi Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Ranchi Shifting &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-deoghar-to-patna" title="Deoghar to Patna Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Deoghar to Patna Shifting &rarr;</a></div>
-      </div>
-
-  <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Frequently Asked Questions (20 FAQs)</h2>
-      <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 20px;">
+      <div style="display: flex; flex-direction: column; gap: 15px;">
         <?php foreach ($faq_list as $index => $faq): ?>
-        <div style="background: #101c40; padding: 18px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 6px;"><?php echo htmlspecialchars($faq['a']); ?></p>
-        </div>
+          <div style="border: 1px solid rgba(245, 158, 11, 0.2); border-radius: 8px; overflow: hidden; background: #101c40;">
+            <div style="padding: 18px 22px; font-weight: 700; font-size: 1.05rem; color: #f59e0b; cursor: pointer; display: flex; justify-content: space-between; align-items: center;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'block' ? 'none' : 'block';">
+              <span><?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?></span>
+              <i class="fa-solid fa-chevron-down" style="font-size: 0.9rem; color: #f59e0b;"></i>
+            </div>
+            <div style="padding: 0 22px 18px 22px; font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; display: <?php echo $index === 0 ? 'block' : 'none'; ?>;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </div>
+          </div>
         <?php endforeach; ?>
       </div>
+    </div>
+  </section>
 
-      <div style="margin-top: 50px; text-align: center; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); padding: 40px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.4);">
-        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Ready to Shift with How to Avoid Fraud Packers and Movers in Deoghar?</h2>
-        <p style="color: #cbd5e1; margin-top: 10px;">Contact our team today for a guaranteed fixed price quote with 100% damage-free delivery.</p>
-        <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20How+to+Avoid+Fraud+Packers+and+Movers+in+Deoghar" title="WhatsApp Quote" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
-        </div>
+  <!-- Deoghar Cluster Internal Link Grid -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+      <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+        Related Deoghar Relocation Guides &amp; Services
+      </h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>pages/iba-approved-packers-and-movers-in-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-file-invoice" style="color: #f59e0b; margin-right: 8px;"></i> IBA Approved Movers Deoghar
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/office-relocation-services-in-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-building" style="color: #f59e0b; margin-right: 8px;"></i> Office Relocation Deoghar
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/household-shifting-checklist-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-list-check" style="color: #f59e0b; margin-right: 8px;"></i> Moving Timeline Checklist
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/car-and-bike-transport-guide-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-car" style="color: #f59e0b; margin-right: 8px;"></i> Vehicle Transport Guide
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-choose-best-packers-and-movers-in-deoghar.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-user-check" style="color: #f59e0b; margin-right: 8px;"></i> Choosing Best Movers
+        </a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Deoghar Main City Hub
+        </a>
       </div>
     </div>
   </section>
 
-  <!-- Section: Regional Transportation & Locality Logistics Network Advisory -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Logistics Network</span>
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Regional Highway Access &amp; Locality Transport Operations</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Operating across Jharkhand's key residential corridors, industrial zones, coalfield sectors, and township colonies requires extensive route planning and specialized vehicle fleets. Shree Ashirwad Packers maintains local branch hubs and container parking yards to service relocations promptly without transit delays:
+  <!-- Bottom CTA Banner -->
+  <section class="cta-banner" style="background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); color: #ffffff; padding: 50px 0; text-align: center; border-top: 1px solid rgba(245, 158, 11, 0.3);" id="bottom-cta">
+    <div class="container" style="max-width: 900px; margin: 0 auto; padding: 0 15px;">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Avoid Moving Scams &mdash; Hire Deoghar's Verified Team!</h2>
+      <p style="font-size: 1.1rem; color: #cbd5e1; margin-bottom: 30px; line-height: 1.7;">
+        Call Shree Ashirwad Packers and Movers today for binding written estimates, physical office verification, and 100% IBA GST compliance!
       </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Whether shifting household items locally within municipal limits or booking long-distance intercity transport to West Bengal, Bihar, Odisha, Chhattisgarh, Uttar Pradesh, Delhi NCR, or South India, our enclosed covered trucks provide weatherproof protection. Every move is coordinated by certified logistics supervisors who manage loading, highway transit documentation, toll permits, and doorstep unloading.
-      </p>
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <div style="font-size: 1.5rem; margin-bottom: 6px;"><i class="fas fa-truck"></i></div>
-          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">Dedicated Fleet</h4>
-          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">14ft, 17ft &amp; 19ft closed container trucks</p>
-        </div>
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <div style="font-size: 1.5rem; margin-bottom: 6px;"><i class="fas fa-phone-alt"></i></div>
-          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">GPS Live Tracking</h4>
-          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">24/7 active satellite vehicle tracking</p>
-        </div>
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <div style="font-size: 1.5rem; margin-bottom: 6px;"><i class="fas fa-phone-alt"></i>‘</div>
-          <h4 style="color: #ffffff; font-size: 1rem; font-weight: 700; margin-bottom: 4px;">IBA &amp; GST Certified</h4>
-          <p style="font-size: 0.85rem; color: #cbd5e1; margin: 0;">100% claim-ready billing documentation</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section: Specialized Route Planning & Transit Protocol -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Transit Governance</span>
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Local Route Security &amp; Highway Vehicle Transit Protocol</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Managing relocations through congested city streets, narrow residential bypass roads, and heavy highway truck corridors requires strict operational oversight. Shree Ashirwad Packers conducts pre-move route surveys to identify low-hanging overhead cables, narrow alley turnings, height restrictions, and local loading time windows:
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-        Our transport crew arrives equipped with heavy-duty loading ramps, hydraulic furniture dollies, protective floor runner mats, and padded door-frame guards to prevent structural wall or floor scratches during loading. Every item is cross-verified against the master inventory packing sheet prior to truck gate-out, guaranteeing full accountability and smooth delivery.
-      </p>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i> Pre-Loading Survey &amp; Parking Clearances</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">We arrange local society permissions, elevator booking slots, and municipal parking access ahead of time to eliminate loading delays on moving day.</p>
-        </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px; font-weight: 700;"><i class="fas fa-star"></i>  Floor Protection &amp; Door Frame Shielding</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Rubber floor runners protect expensive tiles and marble floors while high-density foam wrapping guards door frames against furniture scrapes during moving.</p>
-        </div>
+      <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+        <a href="tel:+918409531615" title="Call +91 8409531615" style="background: #e11d48; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
+          <i class="fa-solid fa-phone"></i> Call +91 8409531615
+        </a>
+        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20verify%20shifting%20credentials%20in%20Deoghar." title="Chat on WhatsApp" style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
+          <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
+        </a>
       </div>
     </div>
   </section>
@@ -210,11 +350,16 @@ function sendHeroWhatsAppLead(event, form) {
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
   var extraMsg = form.querySelector('[name="message"]').value;
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nQuote Request:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
-  if (extraMsg) { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=919955554330&text=" + encodeURIComponent(message);
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI want to request a verified quote in Deoghar:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Details: " + extraMsg;
+  }
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
 }
 </script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
-

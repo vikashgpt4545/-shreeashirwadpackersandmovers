@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Transportation Mumbai to Delhi | Safe Auto Carrier";
-$page_desc = "Secure car transportation from Mumbai to Delhi. Certified open & enclosed car carriers, door-to-door shipping, real-time GPS tracking, and comprehensive transit insurance. Complete door-to-door relocation coverage across Connaught Place, Dwarka, Rohini, South Ext, Janakpuri, Laxmi Nagar.";
+$page_title = "Car Transportation from Mumbai to Delhi | Safe Auto Carrier";
+$page_desc = "Secure car transportation from Mumbai to Delhi. Certified open & enclosed car carriers, door-to-door shipping, real-time GPS tracking, and comprehensive transit insurance across Mumbai to Delhi highway corridor. Reliable vehicle relocation services with professional handling.";
 $page_keywords = "car transportation from mumbai to delhi, best car transportation from mumbai to delhi, affordable car transportation from mumbai to delhi, packers and movers, packers and movers in ranchi, top car transportation from mumbai to delhi company, household shifting car transportation from mumbai to delhi, doorstep car transportation from mumbai to delhi, verified car transportation from mumbai to delhi services, shree ashirwad car transportation from mumbai to delhi";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-from-mumbai-to-delhi.php";
 

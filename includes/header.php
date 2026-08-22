@@ -10,11 +10,22 @@ require_once __DIR__ . '/config.php';
   <meta name="description" content="<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>">
   <meta name="keywords" content="<?php echo isset($page_keywords) ? htmlspecialchars($page_keywords) : DEFAULT_KEYWORDS; ?>">
 <?php
-  // Compute Clean Dynamic Canonical URL
-  $request_path = parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH);
-  $clean_slug = preg_replace('/^pages\//', '', ltrim($request_path, '/'));
-  $clean_slug = preg_replace('/\.php$/', '', $clean_slug);
-  $canonical_url = ($clean_slug === '' || $clean_slug === 'index') ? SITE_URL : SITE_URL . $clean_slug;
+  // Compute Clean Dynamic Canonical URL & Slug
+  $request_path = parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH) ?? '';
+  $site_base_path = parse_url(SITE_URL, PHP_URL_PATH) ?? '/';
+  $site_base_path = rtrim($site_base_path, '/');
+  if (!empty($site_base_path) && strpos($request_path, $site_base_path) === 0) {
+      $request_path = substr($request_path, strlen($site_base_path));
+  }
+  $clean_slug = trim($request_path, '/');
+  $clean_slug = preg_replace('/^pages\//i', '', $clean_slug);
+  $clean_slug = preg_replace('/\.php$/i', '', $clean_slug);
+  $clean_slug = trim($clean_slug, '/');
+
+  if (!isset($canonical_url) || empty($canonical_url)) {
+      $base_canonical = defined('CANONICAL_BASE_URL') ? CANONICAL_BASE_URL : SITE_URL;
+      $canonical_url = ($clean_slug === '' || $clean_slug === 'index') ? $base_canonical : rtrim($base_canonical, '/') . '/' . $clean_slug;
+  }
 
   // Dynamic Target City Detection for Multi-City Schema & GEO Context
   $target_city = "Ranchi"; // Default HQ City
@@ -43,8 +54,14 @@ require_once __DIR__ . '/config.php';
   } elseif (stripos($clean_slug, 'warehouse') !== false || stripos($clean_slug, 'storage') !== false) {
       $og_image_url = SITE_URL . "assets/images/warehouse.jpg";
   }
+  
+  $is_404_response = (http_response_code() === 404 || $clean_slug === '404' || (isset($page_title) && strpos($page_title, '404') !== false));
 ?>
+<?php if (!$is_404_response): ?>
   <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
+<?php else: ?>
+  <meta name="robots" content="noindex, follow">
+<?php endif; ?>
   
   <!-- Open Graph / Facebook / WhatsApp Meta Tags -->
   <meta property="og:type" content="website">
@@ -100,7 +117,7 @@ require_once __DIR__ . '/config.php';
           {
             "@type": "PostalAddress",
             "streetAddress": "<?php echo htmlspecialchars($city_details['street']); ?>",
-            "addressLocality": "<?php echo htmlspecialchars($city_details['name']); ?>",
+            "addressLocality": "<?php echo htmlspecialchars($city_details['address_locality'] ?? $city_details['name']); ?>",
             "addressRegion": "<?php echo htmlspecialchars($city_details['state']); ?>",
             "postalCode": "<?php echo htmlspecialchars($city_details['pincode']); ?>",
             "addressCountry": "IN"
@@ -118,13 +135,6 @@ require_once __DIR__ . '/config.php';
           "<?php echo YOUTUBE_URL; ?>"
         ],
         "areaServed": ["<?php echo htmlspecialchars($target_city); ?>", "Ranchi", "Jamshedpur", "Bokaro", "Dhanbad", "Hazaribagh", "Jharkhand", "India"],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "2850",
-          "bestRating": "5",
-          "worstRating": "1"
-        },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
           "name": "Relocation Services",
@@ -307,11 +317,28 @@ require_once __DIR__ . '/config.php';
         <ul class="nav-menu" id="navMenu">
           <li><a href="<?php echo SITE_URL; ?>" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>" title="Home - Shree Ashirwad Packers and Movers">Home</a></li>
           <li><a href="<?php echo SITE_URL; ?>about" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>" title="About Us - Shree Ashirwad Packers and Movers">About Us</a></li>
-          <li><a href="<?php echo SITE_URL; ?>services" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php') ? 'active' : ''; ?>" title="Relocation Services - Shree Ashirwad Packers and Movers">Services</a></li>
+          <li class="nav-item dropdown">
+            <a href="<?php echo SITE_URL; ?>services" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php' || (isset($_SERVER['REQUEST_URI']) && strpos($_SERVER['REQUEST_URI'], '/services/') !== false)) ? 'active' : ''; ?>" title="Relocation Services - Shree Ashirwad Packers and Movers">Services <i class="fas fa-chevron-down" style="font-size: 0.75rem; margin-left: 3px;"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo SITE_URL; ?>services" class="dropdown-item" title="All Shifting Services">All Relocation Services</a></li>
+              <li><a href="<?php echo SITE_URL; ?>services/household-shifting" class="dropdown-item" title="Household Shifting Services">Household Shifting</a></li>
+              <li><a href="<?php echo SITE_URL; ?>services/office-shifting" class="dropdown-item" title="Office Relocation Services">Office Shifting</a></li>
+              <li><a href="<?php echo SITE_URL; ?>services/car-transportation" class="dropdown-item" title="Car Transportation Services">Car Transportation</a></li>
+              <li><a href="<?php echo SITE_URL; ?>services/local-shifting" class="dropdown-item" title="Local Shifting Services">Local Shifting</a></li>
+              <li><a href="<?php echo SITE_URL; ?>services/warehouse" class="dropdown-item" title="Warehouse & Storage Services">Warehouse & Storage</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a href="<?php echo SITE_URL; ?>guides" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'guides.php' || (isset($_SERVER['REQUEST_URI']) && strpos($_SERVER['REQUEST_URI'], '/guides/') !== false)) ? 'active' : ''; ?>" title="Moving Guides & Resources">Guides <i class="fas fa-chevron-down" style="font-size: 0.75rem; margin-left: 3px;"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo SITE_URL; ?>guides" class="dropdown-item" title="All Moving Guides">All Moving Guides</a></li>
+              <li><a href="<?php echo SITE_URL; ?>guides/shifting-checklist" class="dropdown-item" title="Ultimate Home Shifting Checklist">Home Shifting Checklist</a></li>
+              <li><a href="<?php echo SITE_URL; ?>guides/packers-movers-bill-reimbursement-claim" class="dropdown-item" title="Packers & Movers Bill Claim Guide">Bill Reimbursement Guide</a></li>
+            </ul>
+          </li>
           <li><a href="<?php echo SITE_URL; ?>gallery" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'gallery.php') ? 'active' : ''; ?>" title="Photo Gallery - Shree Ashirwad Packers and Movers">Gallery</a></li>
           <li><a href="<?php echo SITE_URL; ?>contact" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>" title="Contact Us - Shree Ashirwad Packers and Movers">Contact</a></li>
           <li><a href="<?php echo SITE_URL; ?>privacy-policy" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'privacy-policy.php') ? 'active' : ''; ?>" title="Privacy Policy - Shree Ashirwad Packers and Movers">Privacy Policy</a></li>
-          <li><a href="<?php echo SITE_URL; ?>terms" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'terms.php') ? 'active' : ''; ?>" title="Terms and Conditions - Shree Ashirwad Packers and Movers">Terms</a></li>
         </ul>
 
         <!-- Call Button (No 'Call Us Now' text label as requested) -->

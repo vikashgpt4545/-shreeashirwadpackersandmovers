@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transport in Hyderabad  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Hyderabad? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Hitech City, Gachibowli, Madhapur, Kukatpally, Banjara Hills, Jubilee Hills.";
-$page_keywords = "bike transport hyderabad, best bike transport hyderabad, affordable bike transport hyderabad, packers and movers, packers and movers in ranchi, top bike transport hyderabad company, household shifting bike transport hyderabad, doorstep bike transport hyderabad, verified bike transport hyderabad services, shree ashirwad bike transport hyderabad";
+$page_keywords = "bike transport hyderabad, best bike transport hyderabad, affordable bike transport hyderabad, packers and movers, top bike transport hyderabad company, household shifting bike transport hyderabad, doorstep bike transport hyderabad, verified bike transport hyderabad services, shree ashirwad bike transport hyderabad";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-hyderabad.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Hyderabad IT Corridor Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Hyderabad Cyberabad & ORR Bike Shifting</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides doorstep motorcycle transport across Hyderabad, serving HITECH City, Gachibowli, Madhapur, Kukatpally, Secunderabad, Kondapur, and Miyapur along the Outer Ring Road (ORR) and NH-44 corridors.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & TS RTO Clearances</h3>
+        <p style="margin-bottom: 20px;">
+          All two-wheelers collected in Telangana receive 7-layer bubble wrapping, cardboard encasing, transit insurance, and TS RTO documentation verification.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

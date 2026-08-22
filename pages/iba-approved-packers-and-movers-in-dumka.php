@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "IBA Approved Packers and Movers in Dumka | Bank Bills";
 $page_desc = "Top IBA approved packers and movers in Dumka providing 100% claimable GST relocation bills, LR copy, money receipt, and inventory for bank/govt employee claims.";
 $page_keywords = "iba approved packers and movers in dumka, iba certified movers dumka, bank transfer bills movers, government employee shifting dumka, claimable GST bill movers, transport clearance bill, IBA approved bill packers, bank employee relocation dumka, official bill moving company, IBA code movers dumka, genuine GST bill movers, PSU shifting bills dumka, government shifting allowance, certified relocation agency, ashrivad IBA movers";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/iba-approved-packers-and-movers-in-dumka.php";
 
 $page_city = "Dumka";
 $page_locality = "District-wide Dumka";

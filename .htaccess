@@ -10,6 +10,34 @@
     RewriteRule ^packers-and-movers-tapasvan-deoghar/?$ /packers-and-movers-tapas-tapovan-deoghar [R=301,L]
     RewriteRule ^packers-and-movers-devipur-deoghar/?$ /packers-and-movers-devi-pur-deoghar [R=301,L]
 
+    # 301 Redirect Patna Keyword-Variant Cannibalized Stubs
+    RewriteRule ^(pages/)?affordable-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?best-company-for-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?best-movers-and-packers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?best-packer-and-mover-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?best-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?best-packers-and-movers-service-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?cheap-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?home-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?list-of-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?local-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-boring-road(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-kankarbagh(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-near-khajpura(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-near-me(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?no-1-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?packers-and-mover-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?packers-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?professional-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?reliable-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?top-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?verified-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?bike-movers-and-packers-in-patna(\.php)?$ /pages/bike-transportation-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?bike-packers-and-movers-in-patna(\.php)?$ /pages/bike-transportation-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?car-movers-and-packers-in-patna(\.php)?$ /pages/car-transportation-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?car-packers-and-movers-in-patna(\.php)?$ /pages/car-transportation-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?iba-approved-movers-and-packers-in-patna(\.php)?$ /pages/iba-approved-packers-and-movers-in-patna.php [R=301,L]
+
     # Prevent Directory Browsing
     Options -Indexes
 
@@ -19,21 +47,21 @@
     RewriteCond %{HTTPS} off
     RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
-    # 301 Redirect direct /pages/xyz.php requests to clean /xyz URL
-    RewriteCond %{THE_REQUEST} \s/+pages/([^/\s]+)\.php[\s\?] [NC]
-    RewriteRule ^pages/([^/\s]+)\.php$ /%1 [R=301,L]
+    # 301 Redirect direct /pages/xyz.php requests to clean /xyz URL (handles multi-level subdirectories)
+    RewriteCond %{THE_REQUEST} \s/+pages/(.+?)\.php[\s\?] [NC]
+    RewriteRule ^pages/(.+)\.php$ /%1 [R=301,L]
 
     # Allow existing files and directories to pass through
     RewriteCond %{REQUEST_FILENAME} -f [OR]
     RewriteCond %{REQUEST_FILENAME} -d
     RewriteRule ^ - [L]
 
-    # Route clean URLs to pages/ directory
+    # Route clean URLs (single-level and nested subdirectories) to pages/ directory if target .php file exists
     # e.g., /packers-and-movers-in-ranchi -> pages/packers-and-movers-in-ranchi.php
-    RewriteRule ^([^/]+)/?$ pages/$1.php [L,QSA]
-
-    # Route clean blog URLs to pages/blog/ directory
-    RewriteRule ^blog/([^/]+)/?$ pages/blog/$1.php [L,QSA]
+    # e.g., /services/car-transportation -> pages/services/car-transportation.php
+    # e.g., /packers-movers-india/madhya-pradesh/dewas -> pages/packers-movers-india/madhya-pradesh/dewas.php
+    RewriteCond %{DOCUMENT_ROOT}/pages/$1.php -f
+    RewriteRule ^(.+?)/?$ pages/$1.php [L,QSA]
 
     # Custom 404 Error Page
     ErrorDocument 404 /pages/404.php

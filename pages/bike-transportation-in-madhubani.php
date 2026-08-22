@@ -4,7 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Bike Transportation in Madhubani | Secure Two-Wheeler Shifting";
 $page_desc = "Professional bike transportation in Madhubani, Bihar. Reliable door-to-door two-wheeler shifting with 4-layer dust & clay silt protective wrapping.";
 $page_keywords = "bike transportation in madhubani, best bike transportation in madhubani, affordable bike transportation in madhubani, packers and movers, packers and movers in ranchi, top bike transportation in madhubani company, household shifting bike transportation in madhubani, doorstep bike transportation in madhubani, verified bike transportation in madhubani services, shree ashirwad bike transportation in madhubani";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-madhubani.php";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/bike-transportation-in-madhubani";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>

@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Angul 8409531615";
 $page_desc = "Reliable car transportation in Angul. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in angul, best car transportation in angul, affordable car transportation in angul, packers and movers, packers and movers in ranchi, top car transportation in angul company, household shifting car transportation in angul, doorstep car transportation in angul, verified car transportation in angul services, shree ashirwad car transportation in angul";
+$page_keywords = "car transportation in angul, best car transportation in angul, affordable car transportation in angul, packers and movers, top car transportation in angul company, household shifting car transportation in angul, doorstep car transportation in angul, verified car transportation in angul services, shree ashirwad car transportation in angul";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-angul.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Angul Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Angul Car Carrier & Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers offers expert car transport services in Angul, Odisha. Operating open and enclosed hydraulic car carriers along NH-55, we serve NALCO Township, JSPL employee colonies, and central Angul.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Insurance Protection</h3>
+        <p style="margin-bottom: 20px;">
+          All vehicles transported from Angul are fully covered under transit insurance and secured on dedicated multi-car trailers with wheel chocks and safety straps.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

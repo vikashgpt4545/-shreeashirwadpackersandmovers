@@ -56,7 +56,7 @@ require_once __DIR__ . '/../includes/header.php';
               <h4 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; margin-bottom: 4px;">Main Branch Address</h4>
               <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6; margin: 0;">
                 Shree Ashirwad Packers and Movers (OPC) Pvt. Ltd.<br>
-                Shop No. 12, Main Road, Lalpur, Ranchi, Jharkhand - 834001
+                <?php echo ADDRESS_RANCHI; ?>
               </p>
             </div>
           </div>
@@ -92,7 +92,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div>
               <h4 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; margin-bottom: 4px;">Official Email</h4>
               <p style="color: #cbd5e1; font-size: 0.92rem; margin: 0;">
-                <a href="mailto:info@shreeashirwadpackersandmovers.com" style="color: #cbd5e1; text-decoration: none;">info@shreeashirwadpackersandmovers.com</a>
+                <a href="mailto:<?php echo SITE_EMAIL; ?>" style="color: #cbd5e1; text-decoration: none;"><?php echo SITE_EMAIL; ?></a>
               </p>
             </div>
           </div>

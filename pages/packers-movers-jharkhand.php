@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Jharkhand | ${SITE_NAME} – All 24 Districts";
+$page_title = "Packers and Movers in Jharkhand | " . SITE_NAME . " – All 24 Districts";
 $page_desc = "Shree Ashirwad Packers and Movers (OPC) Pvt. Ltd. covers all 24 districts of Jharkhand — Ranchi, Dhanbad, Jamshedpur, Bokaro, Hazaribagh, Deoghar, Giridih, Ramgarh, Dumka and more. Household shifting, office relocation, car & bike transport at honest prices. Complete door-to-door relocation coverage across Lalpur, Harmu, Kanke Road, Main Road, Ratu Road, Bariatu, Doranda.";
 $page_keywords = "packers movers jharkhand, best packers movers jharkhand, affordable packers movers jharkhand, packers and movers, packers and movers in ranchi, top packers movers jharkhand company, household shifting packers movers jharkhand, doorstep packers movers jharkhand, verified packers movers jharkhand services, shree ashirwad packers movers jharkhand";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-movers-jharkhand.php";

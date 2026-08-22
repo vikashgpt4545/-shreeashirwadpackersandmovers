@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers India | All India Shifting Services – ${SITE_NAME}";
+$page_title = "Packers and Movers India | All India Shifting Services – " . SITE_NAME;
 $page_desc = "Shree Ashirwad Packers and Movers (OPC) Pvt. Ltd. provides professional shifting services across India. Household shifting, office relocation, car & bike transport. Insured transit, zero hidden charges. Get a free quote. Complete door-to-door relocation coverage across Packers Movers India, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "packers movers india, best packers movers india, affordable packers movers india, packers and movers, packers and movers in ranchi, top packers movers india company, household shifting packers movers india, doorstep packers movers india, verified packers movers india services, shree ashirwad packers movers india";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-movers-india.php";

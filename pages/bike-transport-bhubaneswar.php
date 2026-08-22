@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transport in Bhubaneswar  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Bhubaneswar? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Bike Transport Bhubaneswar, Railway Station Road, Main Market, College Road, Civil Lines.";
-$page_keywords = "bike transport bhubaneswar, best bike transport bhubaneswar, affordable bike transport bhubaneswar, packers and movers, packers and movers in ranchi, top bike transport bhubaneswar company, household shifting bike transport bhubaneswar, doorstep bike transport bhubaneswar, verified bike transport bhubaneswar services, shree ashirwad bike transport bhubaneswar";
+$page_keywords = "bike transport bhubaneswar, best bike transport bhubaneswar, affordable bike transport bhubaneswar, packers and movers, top bike transport bhubaneswar company, household shifting bike transport bhubaneswar, doorstep bike transport bhubaneswar, verified bike transport bhubaneswar services, shree ashirwad bike transport bhubaneswar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-bhubaneswar.php";
 
 require_once __DIR__ . '/../includes/header.php';

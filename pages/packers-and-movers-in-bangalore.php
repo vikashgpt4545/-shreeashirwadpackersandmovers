@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers Bangalore | ${SITE_NAME}";
+$page_title = "Packers and Movers Bangalore | " . SITE_NAME;
 $page_desc = "Looking for the best packers and movers in Bangalore? Shree Ashirwad Packers and Movers (OPC) Pvt. Ltd. is an IBA approved, top-rated moving company in Bangalore. Household shifting, office relocation, car & bike transport at affordable rates. Call for a free quote. Complete door-to-door relocation coverage across Koramangala, Indiranagar, Whitefield, HSR Layout, Electronic City.";
 $page_keywords = "packers and movers in bangalore, best packers and movers in bangalore, affordable packers and movers in bangalore, packers and movers, packers and movers in ranchi, top packers and movers in bangalore company, household shifting packers and movers in bangalore, doorstep packers and movers in bangalore, verified packers and movers in bangalore services, shree ashirwad packers and movers in bangalore";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-bangalore.php";

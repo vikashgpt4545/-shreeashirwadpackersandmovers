@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transport in Mumbai  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Mumbai? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Andheri, Bandra, Thane, Navi Mumbai, Powai, Borivali, Dadar.";
-$page_keywords = "bike transport mumbai, best bike transport mumbai, affordable bike transport mumbai, packers and movers, packers and movers in ranchi, top bike transport mumbai company, household shifting bike transport mumbai, doorstep bike transport mumbai, verified bike transport mumbai services, shree ashirwad bike transport mumbai";
+$page_keywords = "bike transport mumbai, best bike transport mumbai, affordable bike transport mumbai, packers and movers, top bike transport mumbai company, household shifting bike transport mumbai, doorstep bike transport mumbai, verified bike transport mumbai services, shree ashirwad bike transport mumbai";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-mumbai.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Mumbai Metro Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Mumbai Metropolitan Two-Wheeler Logistics</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers provides doorstep bike transport across Mumbai, covering Western Suburbs (Andheri, Bandra, Borivali), Eastern Suburbs (Ghatkopar, Mulund), South Mumbai, Thane, and Navi Mumbai (Vashi, Belapur).
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & MH RTO Clearances</h3>
+        <p style="margin-bottom: 20px;">
+          Motorcycles are packed with 7-layer bubble wrapping, foam sheets, and heavy corrugated box casing. RTO documentation (MH-01, MH-02, MH-03, MH-04, MH-43) and full transit insurance are processed prior to national highway dispatch.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

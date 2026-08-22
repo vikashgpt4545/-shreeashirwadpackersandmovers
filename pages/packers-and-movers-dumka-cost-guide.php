@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Complete Packers and Movers Dumka Cost & Tariff Guide";
 $page_desc = "Detailed cost breakdown for household shifting, vehicle transport, and warehousing in Dumka. Learn transparent 1BHK, 2BHK, 3BHK rate estimates.";
 $page_keywords = "packers movers dumka cost guide, shifting charges dumka, house relocation cost dumka, 1bhk shifting rate dumka, 2bhk moving cost dumka, 3bhk shifting charges dumka, bike transport rate dumka, car carrier cost dumka, local moving charges dumka, intercity tariff dumka, IBA billing cost dumka, transparent moving estimate dumka, packing material rate dumka, shifting price list dumka, relocation budget dumka";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-dumka-cost-guide.php";
 
 $page_city = "Dumka";
 $page_locality = "District-wide Dumka";

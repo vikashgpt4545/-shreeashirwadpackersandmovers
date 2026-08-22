@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Agartala 8409531615";
 $page_desc = "Reliable car transportation in Agartala. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in agartala, best car transportation in agartala, affordable car transportation in agartala, packers and movers, packers and movers in ranchi, top car transportation in agartala company, household shifting car transportation in agartala, doorstep car transportation in agartala, verified car transportation in agartala services, shree ashirwad car transportation in agartala";
+$page_keywords = "car transportation in agartala, best car transportation in agartala, affordable car transportation in agartala, packers and movers, top car transportation in agartala company, household shifting car transportation in agartala, doorstep car transportation in agartala, verified car transportation in agartala services, shree ashirwad car transportation in agartala";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-agartala.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Agartala Car Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Agartala Car Carrier & Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers offers specialized car carrier solutions for Agartala and Tripura. Operating enclosed and open car carriers, we ensure zero-damage car transportation across eastern and national highway routes.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Assurance & Insurance Protection</h3>
+        <p style="margin-bottom: 20px;">
+          Every car transported from Agartala is fully insured and locked on heavy multi-car trailers with wheel stoppers and safety belts.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

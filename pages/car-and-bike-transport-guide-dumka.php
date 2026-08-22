@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Car and Bike Transport Guide in Dumka: Safe Vehicle Shipping";
 $page_desc = "Comprehensive guide to car and bike transportation from Dumka. Discover hydraulic car trailers, belt-secured bike packing, costs, and insurance.";
 $page_keywords = "car and bike transport guide dumka, vehicle shipping dumka, bike transport dumka, car carrier service dumka, hydraulic car trailer dumka, enclosed bike container dumka, vehicle relocation cost dumka, safe bike moving dumka, scratch free car transport, auto shipping dumka, vehicle transit insurance dumka, two wheeler shipping dumka, four wheeler carrier dumka, vehicle transport process, ashrivad vehicle moving";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-and-bike-transport-guide-dumka.php";
 
 $page_city = "Dumka";
 $page_locality = "District-wide Dumka";

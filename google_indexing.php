@@ -36,13 +36,21 @@ echo "Client Email: " . $creds['client_email'] . "\n";
 echo "Timestamp   : " . date('Y-m-d H:i:s') . "\n";
 echo "---------------------------------------------------------------\n";
 
-// Helper Base64Url encoder
-function base64UrlEncode($data) {
+/**
+ * Helper Base64Url encoder
+ * @param string $data
+ * @return string
+ */
+function base64UrlEncode(string $data): string {
     return rtrim(strtr(base64_encode($data), '+/', '-_'), '=');
 }
 
-// 1. Generate JWT OAuth Token
-function getGoogleAccessToken($creds) {
+/**
+ * Generate JWT OAuth Token
+ * @param array $creds
+ * @return string|null
+ */
+function getGoogleAccessToken(array $creds): ?string {
     $header = json_encode(['alg' => 'RS256', 'typ' => 'JWT']);
     $now = time();
     $claimSet = json_encode([
@@ -83,7 +91,6 @@ function getGoogleAccessToken($creds) {
 
     $response = curl_exec($ch);
     $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    curl_close($ch);
 
     if ($httpCode !== 200) {
         die("Error: Failed to get OAuth2 Access Token. HTTP $httpCode: $response\n");
@@ -101,8 +108,14 @@ if (!$accessToken) {
 }
 echo "OAuth2 Access Token generated successfully!\n\n";
 
-// Function to publish URL notification
-function publishUrlNotification($url, $type, $accessToken) {
+/**
+ * Function to publish URL notification
+ * @param string $url
+ * @param string $type
+ * @param string $accessToken
+ * @return array
+ */
+function publishUrlNotification(string $url, string $type, string $accessToken): array {
     $endpoint = 'https://indexing.googleapis.com/v3/urlNotifications:publish';
     $payload = json_encode([
         'url' => $url,
@@ -124,7 +137,6 @@ function publishUrlNotification($url, $type, $accessToken) {
 
     $response = curl_exec($ch);
     $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    curl_close($ch);
 
     return [
         'code' => $httpCode,

@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transport in Visakhapatnam  | Secure Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Visakhapatnam? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.";
-$page_keywords = "bike transport visakhapatnam, best bike transport visakhapatnam, affordable bike transport visakhapatnam, packers and movers, packers and movers in ranchi, top bike transport visakhapatnam company, household shifting bike transport visakhapatnam, doorstep bike transport visakhapatnam, verified bike transport visakhapatnam services, shree ashirwad bike transport visakhapatnam";
+$page_keywords = "bike transport visakhapatnam, best bike transport visakhapatnam, affordable bike transport visakhapatnam, packers and movers, top bike transport visakhapatnam company, household shifting bike transport visakhapatnam, doorstep bike transport visakhapatnam, verified bike transport visakhapatnam services, shree ashirwad bike transport visakhapatnam";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-visakhapatnam.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Visakhapatnam (Vizag) Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Visakhapatnam (Vizag) Coastal Port Bike Transport</h2>
+        <p style="margin-bottom: 20px;">
+          Shree Ashirwad Packers and Movers delivers specialized motorcycle relocation across Visakhapatnam, Gajuwaka, MVP Colony, Dwaraka Nagar, Madhurawada, and Steel Plant Township along the coastal NH-16 highway.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Coastal Anti-Corrosion Protection & AP-31 / AP-39 RTO Transit</h3>
+        <p style="margin-bottom: 20px;">
+          Due to coastal humidity, bikes transported from Vizag are treated with moisture-resistant protective covers, heavy bubble wrapping, waterproof stretch wrapping, full transit insurance, and AP RTO documentation.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

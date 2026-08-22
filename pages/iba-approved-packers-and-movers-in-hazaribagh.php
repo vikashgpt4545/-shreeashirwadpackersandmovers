@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = 'IBA Approved Packers and Movers in Hazaribagh | IBA Approved Shifting';
@@ -8,26 +8,86 @@ $page_keywords = 'iba approved packers and movers hazaribagh, movers and packers
 $page_city = 'Hazaribagh';
 
 $faq_list = [
-    ['q' => 'What are the shifting charges for IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for What are the shifting charges for IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'How long does delivery take for IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for How long does delivery take for IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Do you provide IBA approved bills for IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Do you provide IBA approved bills for IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'How are cars and bikes transported for IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for How are cars and bikes transported for IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Is transit insurance provided for IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Is transit insurance provided for IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'What packaging materials are used for fragile items?', 'a' => 'Detailed response for What packaging materials are used for fragile items? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Can I track my container truck during transit?', 'a' => 'Detailed response for Can I track my container truck during transit? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Do your packers assemble furniture at destination?', 'a' => 'Detailed response for Do your packers assemble furniture at destination? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Are there any hidden toll or entry tax charges?', 'a' => 'Detailed response for Are there any hidden toll or entry tax charges? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'What is the contact phone number for booking?', 'a' => 'Detailed response for What is the contact phone number for booking? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 11 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 11 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 12 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 12 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 13 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 13 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 14 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 14 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 15 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 15 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 16 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 16 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 17 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 17 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 18 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 18 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 19 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 19 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
-    ['q' => 'Additional Service Query 20 regarding IBA Approved Packers and Movers in Hazaribagh?', 'a' => 'Detailed response for Additional Service Query 20 regarding IBA Approved Packers and Movers in Hazaribagh? Shree Ashirwad Packers and Movers provides 100% safe, IBA approved, damage-free relocation with full transit insurance coverage and dedicated container trucks.'],
+    [
+        'q' => 'What makes Shree Ashirwad Packers an IBA approved choice in Hazaribagh?',
+        'a' => 'Shree Ashirwad Packers and Movers provides 100% genuine IBA-compliant consignment bills, GST invoices (SAC 996511), Lorry Receipts (LR), and itemized packing lists recognized by bank managers, defense personnel at BSF Meru Camp, NTPC officers, and CCL staff in Hazaribagh.'
+    ],
+    [
+        'q' => 'How can government and bank employees claim relocation allowance in Hazaribagh?',
+        'a' => 'We issue complete 100% claim-ready documentation including GST consignment bills, official LR receipt, itemized inventory packing sheets with tag numbers, IBA registration verification, and transit insurance certificates required for HR and audit reimbursement.'
+    ],
+    [
+        'q' => 'What are the estimated charges for IBA approved shifting in Hazaribagh?',
+        'a' => 'Local 1BHK shifting in Hazaribagh costs between ₹4,500 and ₹8,500. 2BHK moves range from ₹8,500 to ₹14,500, while 3BHK home relocation ranges between ₹14,500 and ₹22,000. Intercity rates depend on total distance and container size.'
+    ],
+    [
+        'q' => 'Do you provide shifting services for BSF personnel at Meru Camp Hazaribagh?',
+        'a' => 'Yes, we regularly handle home relocation, bike shipping, and car transport for defense and BSF officers posted at BSF Meru Camp and Police Training Academy Hazaribagh, providing all required official transfer claim documents.'
+    ],
+    [
+        'q' => 'How are fragile items and electronics protected during IBA approved moves?',
+        'a' => 'We use our signature 7-layer protective packaging combining water-resistant stretch wrap, air-bubble wrap, 5-ply corrugated board sheeting, foam corner protectors, and custom wooden crating for Smart TVs and glass dining tables.'
+    ],
+    [
+        'q' => 'Is full transit insurance included with IBA approved shifting in Hazaribagh?',
+        'a' => 'Yes, we issue 100% transit insurance policy certificates covering declared goods against unforeseen road hazards or transit damage during local or intercity movement across NH-33.'
+    ],
+    [
+        'q' => 'How are cars and bikes transported to and from Hazaribagh?',
+        'a' => 'Vehicles are shipped in covered hydraulic car carriers and dedicated enclosed motorcycle transports with safety wheel chocks, padded blankets, and bumper protection for 100% scratch-free delivery.'
+    ],
+    [
+        'q' => 'Can I track my relocation truck during transit from Hazaribagh?',
+        'a' => 'Yes, all our container trucks are fitted with active satellite GPS tracking hardware. Clients receive real-time location updates and estimated time of arrival (ETA) throughout the journey.'
+    ],
+    [
+        'q' => 'Do your packers assemble furniture at the destination home in Hazaribagh?',
+        'a' => 'Yes, our experienced carpenters dismantle double beds, wardrobes, and modular desks at origin and reassemble every item at your new home in Hazaribagh as part of the standard service package.'
+    ],
+    [
+        'q' => 'What areas in Hazaribagh do you cover for IBA approved shifting?',
+        'a' => 'We provide full doorstep pickup and delivery across Korrah, Matwari, Cannaught Ground, Hurhuru, Babugaon, Pelawal, Demotand, BSF Meru Camp, Canary Hill Road, and Vinoba Bhave University (VBU) campus.'
+    ],
+    [
+        'q' => 'What documents are required to generate an IBA approved invoice in Hazaribagh?',
+        'a' => 'We require origin and destination addresses, employee transfer order or employee ID, PAN/Aadhaar copy, and itemized inventory list to generate instant claim-ready GST bills.'
+    ],
+    [
+        'q' => 'Do you handle intercity relocation from Hazaribagh to Ranchi, Patna, or Kolkata?',
+        'a' => 'Yes, we run daily dedicated container trucks connecting Hazaribagh via NH-33 to Ranchi, Patna, Kolkata, Dhanbad, Bokaro, Delhi, Bangalore, and all major cities nationwide.'
+    ],
+    [
+        'q' => 'Are there any hidden toll or loading/unloading taxes on IBA quotes?',
+        'a' => 'No, our written quotations are 100% transparent and inclusive of all packing materials, vehicle fuel, highway tolls, driver allowance, loading, and door unloading.'
+    ],
+    [
+        'q' => 'How far in advance should I book IBA approved packers in Hazaribagh?',
+        'a' => 'We recommend booking 2 to 4 days prior to your intended move date. However, emergency same-day or next-day shifting bookings can also be arranged based on truck availability.'
+    ],
+    [
+        'q' => 'What is the GST rate applicable on IBA approved packing and moving services?',
+        'a' => 'As per Indian tax norms, full-service packing and moving services carry an 18% GST (SAC code 996511), which is 100% reimbursable for corporate and government employees.'
+    ],
+    [
+        'q' => 'How do you handle heavy items like double-door refrigerators and washing machines?',
+        'a' => 'Heavy appliances are wrapped in air-bubble film, padded with corrugated sheets, secured with corner guards, and moved using heavy-duty nylon straps and hydraulic loading ramps.'
+    ],
+    [
+        'q' => 'Do you offer luggage or part-load container services to and from Hazaribagh?',
+        'a' => 'Yes, for single rooms, student luggage, or small furniture sets, we offer shared express container options that significantly reduce moving costs.'
+    ],
+    [
+        'q' => 'What measures are taken to protect floors and walls during loading in Hazaribagh?',
+        'a' => 'Our crew uses rubber floor runner mats and padded door-frame guards to prevent scratches or scuffs on tiles, marble, and wall paint during loading and unloading.'
+    ],
+    [
+        'q' => 'Are your packing and moving crew members background-verified?',
+        'a' => 'Yes, 100% of our staff members are permanent, background-verified, uniformed professionals trained in safe material handling and courteous client interaction.'
+    ],
+    [
+        'q' => 'How can I contact Shree Ashirwad Packers in Hazaribagh for a free quote?',
+        'a' => 'You can call our official helpline directly at +91 8409531615 or chat on WhatsApp at +91 8409531615 for an instant free pre-move survey and quote.'
+    ]
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -55,7 +115,7 @@ require_once __DIR__ . '/../includes/header.php';
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">Looking for professional, damage-free household shifting, car transportation, bike moving, or office relocation services in Hazaribagh? Shree Ashirwad Packers and Movers provides 7-layer protective packaging, active GPS container tracking, full transit insurance, and genuine IBA-approved GST bills for corporate and government claims.</p>
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20IBA+Approved+Packers+and+Movers+in+Hazaribagh" title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20IBA+Approved+Packers+and+Movers+in+Hazaribagh" title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
           </div>
         </div>
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
@@ -139,7 +199,7 @@ require_once __DIR__ . '/../includes/header.php';
         <p style="color: #cbd5e1; margin-top: 10px;">Contact our team today for a guaranteed fixed price quote with 100% damage-free delivery.</p>
         <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
           <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="padding: 14px 28px; background: #e11d48; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20IBA+Approved+Packers+and+Movers+in+Hazaribagh" title="WhatsApp Quote" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20IBA+Approved+Packers+and+Movers+in+Hazaribagh" title="WhatsApp Quote" target="_blank" style="padding: 14px 28px; background: #10b981; color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
         </div>
       </div>
     </div>
@@ -212,7 +272,7 @@ function sendHeroWhatsAppLead(event, form) {
   var extraMsg = form.querySelector('[name="message"]').value;
   var message = "Hello Shree Ashirwad Packers & Movers,\n\nQuote Request:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
   if (extraMsg) { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=919955554330&text=" + encodeURIComponent(message);
+  window.location.href = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
 }
 </script>
 

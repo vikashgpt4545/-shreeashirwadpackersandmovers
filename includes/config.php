@@ -17,12 +17,22 @@ if (!defined('SITE_URL')) {
     }
 }
 
+// Authoritative Production Canonical Base URL (Strict HTTPS Production Domain)
+if (!defined('CANONICAL_BASE_URL')) {
+    $host_check = isset($_SERVER['HTTP_HOST']) ? strtolower($_SERVER['HTTP_HOST']) : 'localhost';
+    if (strpos($host_check, 'localhost') !== false || strpos($host_check, '127.0.0.1') !== false) {
+        define('CANONICAL_BASE_URL', SITE_URL);
+    } else {
+        define('CANONICAL_BASE_URL', 'https://shreeashirwadpackersandmovers.com/');
+    }
+}
+
 // Contact details extracted directly from site images
 $SITE_NAME = 'Shree Ashirwad Packers and Movers';
 define('SITE_NAME', 'Shree Ashirwad Packers and Movers');
 define('SITE_PHONE', '(+91) 8409531615');
 define('SITE_PHONE_RAW', '+918409531615');
-define('SITE_EMAIL', 'enquiry@shreeashirwadpackers.in');
+define('SITE_EMAIL', 'info@shreeashirwadpackersandmovers.com');
 
 // Office Locations & Entity Links
 define('ADDRESS_RANCHI', 'Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand -834002');
@@ -45,6 +55,7 @@ function get_city_details($city_name = 'Ranchi') {
             'type' => 'Headquarters (HQ)',
             'address' => ADDRESS_RANCHI,
             'street' => 'Anandpuri Chowk, Vidyanagar Road, Harmu',
+            'address_locality' => 'Ranchi',
             'pincode' => '834002',
             'phone' => SITE_PHONE,
             'phone_raw' => SITE_PHONE_RAW,
@@ -59,6 +70,7 @@ function get_city_details($city_name = 'Ranchi') {
             'type' => 'Relocation Hub',
             'address' => ADDRESS_JAMSHEDPUR,
             'street' => 'Main Road, Bistupur / Mango Relocation Hub',
+            'address_locality' => 'Jamshedpur',
             'pincode' => '831001',
             'phone' => SITE_PHONE,
             'phone_raw' => SITE_PHONE_RAW,
@@ -73,6 +85,7 @@ function get_city_details($city_name = 'Ranchi') {
             'type' => 'Branch Office',
             'address' => ADDRESS_BOKARO,
             'street' => 'Plot no -54/c, Post office sector - 12/A',
+            'address_locality' => 'Bokaro',
             'pincode' => '827012',
             'phone' => SITE_PHONE,
             'phone_raw' => SITE_PHONE_RAW,
@@ -87,14 +100,15 @@ function get_city_details($city_name = 'Ranchi') {
         return $matrix[$city_key];
     }
     
-    // Dynamic Fallback for ANY future city (e.g. Dhanbad, Hazaribagh, Deoghar, Patna, Kolkata)
+    // Dynamic Fallback for Service Area Hubs (e.g. Dhanbad, Hazaribagh, Deoghar, Patna, Kolkata)
     $clean_formatted_city = ucfirst($city_key);
     return [
         'name' => $clean_formatted_city,
-        'state' => 'India',
+        'state' => 'Jharkhand',
         'type' => 'Dedicated Service Coverage Hub',
         'address' => ADDRESS_RANCHI, // Primary Registered HQ Address
         'street' => 'Anandpuri Chowk, Vidyanagar Road, Harmu',
+        'address_locality' => 'Ranchi', // Registered HQ Address Locality
         'pincode' => '834002',
         'phone' => SITE_PHONE,
         'phone_raw' => SITE_PHONE_RAW,

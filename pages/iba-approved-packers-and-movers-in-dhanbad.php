@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "IBA Approved Packers and Movers in Dhanbad | 8409531615";
@@ -17,7 +17,17 @@ $faq_list = [
     ['q' => 'How can I verify the authenticity of your IBA bill?', 'a' => 'Our bills contain our official GSTIN number, IBA approval code, truck registration details, and official company seals for instant online and HR verification.'],
     ['q' => 'Is transit insurance included in the IBA bill package?', 'a' => 'Yes, we provide full-value transit insurance policy documentation from authorized national insurance partners as part of the official claim set.'],
     ['q' => 'How quickly can I receive my final shifting bill set after loading?', 'a' => 'Your complete bill package is issued immediately upon loading completion and handed over physically or sent via WhatsApp/email.'],
-    ['q' => 'How do I request an IBA-approved shifting quotation in Dhanbad?', 'a' => 'Call +91 8409531615 or submit your requirements on WhatsApp to request an IBA-compliant relocation proposal.']
+    ['q' => 'How do I request an IBA-approved shifting quotation in Dhanbad?', 'a' => 'Call +91 8409531615 or submit your requirements on WhatsApp to request an IBA-compliant relocation proposal.'],
+    ['q' => 'Are your rates compliant with BCCL and Coal India transfer allowance caps?', 'a' => 'Yes, our quotes are structured according to standard PSU tonnage and distance slabs so you receive full reimbursement without out-of-pocket deductions.'],
+    ['q' => 'What SAC code is used on IBA GST bills for house shifting in Dhanbad?', 'a' => 'We use SAC 996511 (Goods transport services by road) with an itemized 18% GST breakdown as required by corporate tax auditors.'],
+    ['q' => 'Do you provide vehicle transport bills for car/bike claims in Dhanbad?', 'a' => 'Yes, we issue separate or combined IBA-approved bills for enclosed car carrier and two-wheeler transit.'],
+    ['q' => 'What verification details are printed on your Lorry Receipts (LR)?', 'a' => 'Our LRs display driver license numbers, commercial truck plate numbers, seal numbers, declared goods valuation, and transit route details.'],
+    ['q' => 'Can I get advance proforma invoices for BCCL transfer advance approval?', 'a' => 'Yes, we issue official proforma quotations with complete cost breakdowns for advance claim processing from your accounts department.'],
+    ['q' => 'Do you cover shifting from coalfield townships like Jharia, Saraidhela, and Katras?', 'a' => 'Yes, we provide IBA-approved relocation services across all Dhanbad localities including Saraidhela, Bank More, Jharia, Katras, Sindri, and Govindpur.'],
+    ['q' => 'What packaging materials are specified in IBA compliance standards?', 'a' => 'We deploy 7-layer heavy-duty packaging including 80-micron air bubble sheets, corrugated boxes, stretch wrap, foam corner protectors, and wooden crates.'],
+    ['q' => 'What happens if an item is damaged during transit from Dhanbad?', 'a' => 'Our claim package includes comprehensive transit insurance, allowing seamless claim settlement directly through the insurance company.'],
+    ['q' => 'Are payment receipts stamped with official company seals?', 'a' => 'Yes, every money receipt features revenue stamps, authorized signature seals, and GST registration details.'],
+    ['q' => 'Why is Shree Ashirwad Packers the preferred IBA mover in Dhanbad?', 'a' => 'With 15+ years of experience, zero audit rejections across BCCL/Coal India/Railways, 100% genuine documentation, and 24/7 support, we are Dhanbad\'s most trusted mover.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -117,9 +127,64 @@ require_once __DIR__ . '/../includes/header.php';
           <li><strong>IBA Approved Stamp &amp; Registration Verification Letter</strong> printed on official letterhead.</li>
           <li><strong>Transit Insurance Policy Document</strong> issued by authorized national insurance providers.</li>
           <li><strong>Stamped Official Payment Receipt</strong> for instant HR reimbursement claim verification.</li>
-        </ol>
-      </div>
+        <!-- 3-Card Feature Grid -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 30px;">
+          <div style="background: #0f172a; border: 1px solid rgba(245, 158, 11, 0.2); border-radius: 10px; padding: 20px;">
+            <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;"><i class="fas fa-file-invoice"></i> 100% Tax Compliant</h4>
+            <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Verified 18% GST invoices (SAC 996511) matching Coal India, BCCL, Bank &amp; Railway audit rules.</p>
+          </div>
+          <div style="background: #0f172a; border: 1px solid rgba(245, 158, 11, 0.2); border-radius: 10px; padding: 20px;">
+            <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;"><i class="fas fa-truck-loading"></i> Official LR &amp; Inventory</h4>
+            <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Stamped Consignment Lorry Receipts and itemized inventory sheets signed prior to dispatch.</p>
+          </div>
+          <div style="background: #0f172a; border: 1px solid rgba(245, 158, 11, 0.2); border-radius: 10px; padding: 20px;">
+            <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;"><i class="fas fa-shield-alt"></i> Full Transit Protection</h4>
+            <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Comprehensive insurance coverage against damage, pilferage, and transit accidents.</p>
+          </div>
+        </div>
 
+        <!-- Tariff Matrix -->
+        <div style="margin-top: 40px; overflow-x: auto;">
+          <h3 style="font-size: 1.4rem; color: #f59e0b; font-weight: 700; margin-bottom: 15px;">Dhanbad Standard Relocation Cost Matrix</h3>
+          <table style="width: 100%; border-collapse: collapse; background: #0f172a; border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 8px; overflow: hidden; font-size: 0.9rem;">
+            <thead>
+              <tr style="background: #1e293b; color: #f59e0b; text-align: left;">
+                <th style="padding: 12px 16px; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">Shifting Type</th>
+                <th style="padding: 12px 16px; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">Local Move (Dhanbad)</th>
+                <th style="padding: 12px 16px; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">Intercity Route</th>
+                <th style="padding: 12px 16px; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">IBA Claim Status</th>
+              </tr>
+            </thead>
+            <tbody style="color: #cbd5e1;">
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <td style="padding: 10px 16px; font-weight: 600; color: #fff;">1 BHK Household</td>
+                <td style="padding: 10px 16px;">₹3,500 - ₹6,500</td>
+                <td style="padding: 10px 16px;">₹9,000 - ₹15,000</td>
+                <td style="padding: 10px 16px; color: #10b981; font-weight: 600;">100% Eligible</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05); background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px 16px; font-weight: 600; color: #fff;">2 BHK Household</td>
+                <td style="padding: 10px 16px;">₹5,500 - ₹9,500</td>
+                <td style="padding: 10px 16px;">₹12,500 - ₹21,000</td>
+                <td style="padding: 10px 16px; color: #10b981; font-weight: 600;">100% Eligible</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <td style="padding: 10px 16px; font-weight: 600; color: #fff;">3 BHK Household / Villa</td>
+                <td style="padding: 10px 16px;">₹8,500 - ₹14,500</td>
+                <td style="padding: 10px 16px;">₹18,500 - ₹32,000</td>
+                <td style="padding: 10px 16px; color: #10b981; font-weight: 600;">100% Eligible</td>
+              </tr>
+              <tr style="background: rgba(255,255,255,0.02);">
+                <td style="padding: 10px 16px; font-weight: 600; color: #fff;">Car &amp; Bike Transport</td>
+                <td style="padding: 10px 16px;">₹2,000 - ₹4,500</td>
+                <td style="padding: 10px 16px;">₹5,000 - ₹16,000</td>
+                <td style="padding: 10px 16px; color: #10b981; font-weight: 600;">100% Eligible</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+      </div>
     </div>
   </section>
 
@@ -145,6 +210,35 @@ require_once __DIR__ . '/../includes/header.php';
         <?php endforeach; ?>
       </div>
 
+    </div>
+  </section>
+
+  <!-- Cluster Internal Link Grid -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+        Related Dhanbad Relocation Guides &amp; Services
+      </h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>pages/office-relocation-services-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-building" style="color: #f59e0b; margin-right: 8px;"></i> Office Relocation Dhanbad
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/household-shifting-checklist-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-tasks" style="color: #f59e0b; margin-right: 8px;"></i> Home Shifting Checklist
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/car-and-bike-transport-guide-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-car" style="color: #f59e0b; margin-right: 8px;"></i> Vehicle Transport Guide
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-choose-best-packers-and-movers-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-user-check" style="color: #f59e0b; margin-right: 8px;"></i> Choosing Best Movers
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-avoid-fraud-packers-and-movers-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-shield-alt" style="color: #f59e0b; margin-right: 8px;"></i> Avoid Moving Scams
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/local-vs-intercity-shifting-charges-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-calculator" style="color: #f59e0b; margin-right: 8px;"></i> Shifting Tariff Breakdown
+        </a>
+      </div>
     </div>
   </section>
 

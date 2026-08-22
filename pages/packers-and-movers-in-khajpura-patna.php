@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers in Khajpura Patna 8409531615";
 $page_desc = "Hire trusted packers and movers in Khajpura Patna. Shree Ashirwad Packers and Movers offers secure household shifting, office relocations, and room moving services with zero hidden costs. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.";
-$page_keywords = "packers and movers in khajpura patna, best packers and movers in khajpura patna, affordable packers and movers in khajpura patna, packers and movers, packers and movers in ranchi, top packers and movers in khajpura patna company, household shifting packers and movers in khajpura patna, doorstep packers and movers in khajpura patna, verified packers and movers in khajpura patna services, shree ashirwad packers and movers in khajpura patna";
+$page_keywords = "packers and movers in khajpura patna, best packers and movers in khajpura patna, affordable packers and movers in khajpura patna, packers and movers, top packers and movers in khajpura patna company, household shifting packers and movers in khajpura patna, doorstep packers and movers in khajpura patna, verified packers and movers in khajpura patna services, shree ashirwad packers and movers in khajpura patna";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-khajpura-patna.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -30,7 +30,7 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            PACKERS AND MOVERS KHAJPURA PA RELOCATION SPECIALISTS
+            PACKERS AND MOVERS KHAJPURA PATNA RELOCATION SPECIALISTS
           </span>
           <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Packers and Movers in Khajpura Patna</span>
@@ -57,7 +57,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Boring Road Shifting Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Khajpura Patna Shifting Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -68,7 +68,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Boring Road" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Khajpura Patna" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">

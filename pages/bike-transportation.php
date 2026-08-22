@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transportation Services | Safe Two-Wheeler Shifting | ${SITE_NAME}";
+$page_title = "Bike Transportation Services | Safe Two-Wheeler Shifting | " . SITE_NAME;
 $page_desc = "Exhaustive guide to professional motorcycle and scooter transportation in India. Features our 4-layer packaging protocol, door-to-door transit logistics, and pre-shipping documentation checklist. 100% insured transit. Complete door-to-door relocation coverage across Bike Transportation, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "bike transportation, best bike transportation, affordable bike transportation, packers and movers, packers and movers in ranchi, top bike transportation company, household shifting bike transportation, doorstep bike transportation, verified bike transportation services, shree ashirwad bike transportation";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation.php";

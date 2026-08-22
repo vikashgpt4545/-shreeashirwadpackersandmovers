@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Guwahati 8409531615";
 $page_desc = "Reliable car transportation in Guwahati. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in guwahati, best car transportation in guwahati, affordable car transportation in guwahati, packers and movers, packers and movers in ranchi, top car transportation in guwahati company, household shifting car transportation in guwahati, doorstep car transportation in guwahati, verified car transportation in guwahati services, shree ashirwad car transportation in guwahati";
+$page_keywords = "car transportation in guwahati, best car transportation in guwahati, affordable car transportation in guwahati, packers and movers, top car transportation in guwahati company, household shifting car transportation in guwahati, doorstep car transportation in guwahati, verified car transportation in guwahati services, shree ashirwad car transportation in guwahati";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-guwahati.php";
 
 require_once __DIR__ . '/../includes/header.php';

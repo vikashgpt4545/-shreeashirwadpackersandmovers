@@ -1848,10 +1848,10 @@ include __DIR__ . '/../includes/header.php';
               <span style="font-size: 0.8rem; color: #94a3b8;"><i class="far fa-clock" style="color: #f59e0b;"></i> 10 Min Read</span>
             </div>
             <h3 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; line-height: 1.45; margin-bottom: 14px;">
-              Shifting Bill Claim Guide & Relocation Reimbursement | ${SITE_NAME}
+              Shifting Bill Claim Guide & Relocation Reimbursement | <?php echo SITE_NAME; ?>
             </h3>
           </div>
-          <a href="<?php echo SITE_URL; ?>guides/packers-movers-bill-reimbursement-claim" title="Shifting Bill Claim Guide & Relocation Reimbursement | ${SITE_NAME}" style="margin-top: 15px; padding: 10px 18px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; font-weight: 700; font-size: 0.88rem; text-decoration: none; text-align: center; display: block; transition: background 0.2s ease;">
+          <a href="<?php echo SITE_URL; ?>guides/packers-movers-bill-reimbursement-claim" title="Shifting Bill Claim Guide & Relocation Reimbursement | <?php echo SITE_NAME; ?>" style="margin-top: 15px; padding: 10px 18px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; font-weight: 700; font-size: 0.88rem; text-decoration: none; text-align: center; display: block; transition: background 0.2s ease;">
             Read Full Masterclass Guide &rarr;
           </a>
         </div>
@@ -1862,10 +1862,10 @@ include __DIR__ . '/../includes/header.php';
               <span style="font-size: 0.8rem; color: #94a3b8;"><i class="far fa-clock" style="color: #f59e0b;"></i> 10 Min Read</span>
             </div>
             <h3 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; line-height: 1.45; margin-bottom: 14px;">
-              Packers & Movers Guides, Tips & Resources | ${SITE_NAME}
+              Packers & Movers Guides, Tips & Resources | <?php echo SITE_NAME; ?>
             </h3>
           </div>
-          <a href="<?php echo SITE_URL; ?>guides" title="Packers & Movers Guides, Tips & Resources | ${SITE_NAME}" style="margin-top: 15px; padding: 10px 18px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; font-weight: 700; font-size: 0.88rem; text-decoration: none; text-align: center; display: block; transition: background 0.2s ease;">
+          <a href="<?php echo SITE_URL; ?>guides" title="Packers & Movers Guides, Tips & Resources | <?php echo SITE_NAME; ?>" style="margin-top: 15px; padding: 10px 18px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; font-weight: 700; font-size: 0.88rem; text-decoration: none; text-align: center; display: block; transition: background 0.2s ease;">
             Read Full Masterclass Guide &rarr;
           </a>
         </div>
@@ -1876,10 +1876,10 @@ include __DIR__ . '/../includes/header.php';
               <span style="font-size: 0.8rem; color: #94a3b8;"><i class="far fa-clock" style="color: #f59e0b;"></i> 10 Min Read</span>
             </div>
             <h3 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; line-height: 1.45; margin-bottom: 14px;">
-              Ultimate Household Shifting Checklist & Moving Guide | ${SITE_NAME}
+              Ultimate Household Shifting Checklist & Moving Guide | <?php echo SITE_NAME; ?>
             </h3>
           </div>
-          <a href="<?php echo SITE_URL; ?>guides/shifting-checklist" title="Ultimate Household Shifting Checklist & Moving Guide | ${SITE_NAME}" style="margin-top: 15px; padding: 10px 18px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; font-weight: 700; font-size: 0.88rem; text-decoration: none; text-align: center; display: block; transition: background 0.2s ease;">
+          <a href="<?php echo SITE_URL; ?>guides/shifting-checklist" title="Ultimate Household Shifting Checklist & Moving Guide | <?php echo SITE_NAME; ?>" style="margin-top: 15px; padding: 10px 18px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; font-weight: 700; font-size: 0.88rem; text-decoration: none; text-align: center; display: block; transition: background 0.2s ease;">
             Read Full Masterclass Guide &rarr;
           </a>
         </div>

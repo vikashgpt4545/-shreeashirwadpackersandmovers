@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Amritsar | Safe Two-Wheeler Shifting Punjab";
 $page_desc = "Planning bike transportation in Amritsar, Punjab? Get safe, insured, and doorstep motorcycle shifting. High-quality multi-layer packing and real-time tracking.";
-$page_keywords = "bike transportation in amritsar, best bike transportation in amritsar, affordable bike transportation in amritsar, packers and movers, packers and movers in ranchi, top bike transportation in amritsar company, household shifting bike transportation in amritsar, doorstep bike transportation in amritsar, verified bike transportation in amritsar services, shree ashirwad bike transportation in amritsar";
+$page_keywords = "bike transportation in amritsar, best bike transportation in amritsar, affordable bike transportation in amritsar, packers and movers, top bike transportation in amritsar company, household shifting bike transportation in amritsar, doorstep bike transportation in amritsar, verified bike transportation in amritsar services, shree ashirwad bike transportation in amritsar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-amritsar.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Amritsar GT Road Logistics Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Amritsar Two-Wheeler Logistics & GT Road Corridor</h2>
+        <p style="margin-bottom: 20px;">
+          Amritsar is Punjab's major cultural and border commercial hub, strategically located along Grand Trunk Road (NH-3 and NH-54). Shree Ashirwad Packers and Movers provides seamless two-wheeler shipping serving Ranjit Avenue, GT Road, Mall Road, Cantonment area, and Chheharta.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & Interstate Transit Assurance</h3>
+        <p style="margin-bottom: 20px;">
+          Every motorbike dispatched from Amritsar passes through rigid multi-tier packing (bubble wrap, corrugated sheets, stretch films) and full PB-02 Punjab RTO documentation verification before transit insurance activation.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 

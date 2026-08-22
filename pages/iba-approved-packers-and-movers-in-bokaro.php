@@ -1,9 +1,10 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "IBA Approved Packers and Movers in Bokaro | 8409531615";
 $page_desc = "IBA Approved Packers and Movers in Bokaro 2026. Official 100% bank transfer billing bills, IBA consignment receipts, claimable relocation quotes & bank employee shifting. Call 8409531615.";
 $page_keywords = "iba approved packers and movers in bokaro, iba bill for bank transfer bokaro, bank officer relocation bokaro, claimable moving bills bokaro, certified movers bokaro";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/iba-approved-packers-and-movers-in-bokaro.php";
 
 $page_city = "Bokaro";
 
@@ -17,7 +18,17 @@ $faq_list = [
     ['q' => 'Does Shree Ashirwad Packers provide IBA bills for intercity bank transfers?', 'a' => 'Yes, Shree Ashirwad Packers provides 100% compliant IBA-approved bills for bank officer transfers from Bokaro to all Indian cities.'],
     ['q' => 'How soon after delivery will I receive the original physical IBA bills?', 'a' => 'Original physical stamped bills and digital PDF copies are provided immediately upon completion of unloading and payment settlement.'],
     ['q' => 'Are vehicle transport bills (car/bike) included in the IBA claim package?', 'a' => 'Yes, car and bike carrier bills are issued separately with lorry receipt numbers so you can claim your full vehicle transit allowance.'],
-    ['q' => 'How can I get an IBA approved moving quote for my transfer from Bokaro?', 'a' => 'Call +91 8409531615 or WhatsApp your transfer letter/items list for an immediate claimable quotation.']
+    ['q' => 'How can I get an IBA approved moving quote for my transfer from Bokaro?', 'a' => 'Call +91 8409531615 or WhatsApp your transfer letter/items list for an immediate claimable quotation.'],
+    ['q' => 'What GST percentage is charged on IBA-approved relocation bills in Bokaro?', 'a' => 'Relocation bills attract 18% GST (SAC Code 996511), which is fully itemized and valid for employer reimbursement.'],
+    ['q' => 'Are packing materials included in the IBA estimate?', 'a' => 'Yes, premium 7-layer corrugated sheets, bubble wraps, stretch film, and heavy cartons are included in the estimate.'],
+    ['q' => 'How are fragile glass items and TVs packed for bank officer transfers?', 'a' => 'Glassware and TVs receive dual bubble wrapping, corner foam guards, and custom wooden crating.'],
+    ['q' => 'Do you provide door-to-door insurance under IBA billing?', 'a' => 'Yes, full transit insurance coverage (3% of declared goods value) is included with formal policy certificates.'],
+    ['q' => 'Can BSL (Bokaro Steel Plant) employees claim relocation allowances with your bills?', 'a' => 'Yes, our GST tax invoices and LR copies are 100% accepted by SAIL/BSL HR departments.'],
+    ['q' => 'Do you handle intercity relocation from Bokaro to South or West India?', 'a' => 'Yes, we provide long-distance container transport to Bangalore, Hyderabad, Mumbai, Pune, and Chennai.'],
+    ['q' => 'What is the payment schedule for IBA-approved shifting in Bokaro?', 'a' => 'We accept a small advance booking fee, with the balance payable upon loading or unloading as per your company policy.'],
+    ['q' => 'Do you provide storage facility bills if transit is delayed?', 'a' => 'Yes, short-term and long-term warehouse storage receipts can be included in the claim set.'],
+    ['q' => 'Can I get a pre-move physical survey at my Bokaro residence?', 'a' => 'Yes, our supervisor visits your home in Sector 1-12, Chas, or Co-operative Colony for a free physical evaluation.'],
+    ['q' => 'Why is Shree Ashirwad Packers the preferred IBA mover in Bokaro?', 'a' => 'With 15+ years of verified service, zero audit rejection rate, and 24/7 dedicated support, we are Bokaro\'s most trusted relocation partner.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -112,10 +123,10 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
         
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice-dollar"></i></div>
           <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GST Tax Invoice</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            100% legal GST bill featuring 15-digit GSTIN, SAC code 9986, and itemized cost breakdown required for HR approval.
+            100% legal GST bill featuring 15-digit GSTIN, SAC code 996511, and itemized cost breakdown required for HR approval.
           </p>
         </div>
 
@@ -128,13 +139,54 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i>‘</div>
+          <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-clipboard-list"></i></div>
           <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Itemized Goods Inventory</h3>
           <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
             Numbered packing inventory sheet signed by supervisor and owner listing every box, furniture piece, and appliance.
           </p>
         </div>
 
+      </div>
+
+      <!-- Tariff Matrix Table -->
+      <h3 style="font-size: 1.6rem; color: #ffffff; margin-top: 40px; margin-bottom: 20px; font-weight: 700;">IBA Relocation Cost Breakdown for Bokaro Transferees</h3>
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <thead>
+            <tr style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); color: #f59e0b; text-align: left; font-size: 0.95rem;">
+              <th style="padding: 14px 18px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Transfer Category</th>
+              <th style="padding: 14px 18px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Local Bokaro Relocation</th>
+              <th style="padding: 14px 18px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Intercity (Bokaro to Ranchi/Patna)</th>
+              <th style="padding: 14px 18px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Interstate Metros (Delhi/Bangalore)</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1; font-size: 0.9rem;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 18px; font-weight: 700; color: #ffffff;">1 BHK Officer Quarter</td>
+              <td style="padding: 12px 18px;">₹ 4,500 - ₹ 8,000</td>
+              <td style="padding: 12px 18px;">₹ 11,000 - ₹ 18,000</td>
+              <td style="padding: 12px 18px;">₹ 22,000 - ₹ 35,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 12px 18px; font-weight: 700; color: #ffffff;">2 BHK Executive Flat</td>
+              <td style="padding: 12px 18px;">₹ 7,500 - ₹ 13,000</td>
+              <td style="padding: 12px 18px;">₹ 16,000 - ₹ 26,000</td>
+              <td style="padding: 12px 18px;">₹ 30,000 - ₹ 48,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 18px; font-weight: 700; color: #ffffff;">3 BHK Senior Manager Bungalow</td>
+              <td style="padding: 12px 18px;">₹ 11,000 - ₹ 18,000</td>
+              <td style="padding: 12px 18px;">₹ 22,000 - ₹ 34,000</td>
+              <td style="padding: 12px 18px;">₹ 42,000 - ₹ 65,000</td>
+            </tr>
+            <tr style="background: rgba(255,255,255,0.04);">
+              <td style="padding: 12px 18px; font-weight: 700; color: #ffffff;">Car Transport + Bike Shipping</td>
+              <td style="padding: 12px 18px;">₹ 2,500 - ₹ 5,000</td>
+              <td style="padding: 12px 18px;">₹ 6,000 - ₹ 12,000</td>
+              <td style="padding: 12px 18px;">₹ 12,000 - ₹ 24,000</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
 
     </div>
@@ -147,7 +199,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="section-header text-center" style="margin-bottom: 45px;">
         <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">IBA Billing FAQs</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">IBA Approved Movers</span>
+          Frequently Asked Questions About <span style="color: #f59e0b;">IBA Approved Movers in Bokaro</span>
         </h2>
       </div>
 
@@ -162,6 +214,35 @@ require_once __DIR__ . '/../includes/header.php';
         <?php endforeach; ?>
       </div>
 
+    </div>
+  </section>
+
+  <!-- Cluster Internal Link Grid -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+        Related Bokaro Relocation Guides &amp; Services
+      </h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>pages/office-relocation-services-in-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-building" style="color: #f59e0b; margin-right: 8px;"></i> Office Relocation Bokaro
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/household-shifting-checklist-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-tasks" style="color: #f59e0b; margin-right: 8px;"></i> Home Shifting Checklist
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/car-and-bike-transport-guide-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-car" style="color: #f59e0b; margin-right: 8px;"></i> Vehicle Transport Guide
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-choose-best-packers-and-movers-in-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-user-check" style="color: #f59e0b; margin-right: 8px;"></i> Choosing Best Movers
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-avoid-fraud-packers-and-movers-in-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-shield-alt" style="color: #f59e0b; margin-right: 8px;"></i> Avoid Moving Scams
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/local-vs-intercity-shifting-charges-bokaro.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-calculator" style="color: #f59e0b; margin-right: 8px;"></i> Shifting Tariff Breakdown
+        </a>
+      </div>
     </div>
   </section>
 

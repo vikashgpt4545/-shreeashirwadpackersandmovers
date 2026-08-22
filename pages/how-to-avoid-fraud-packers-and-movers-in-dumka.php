@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "How to Avoid Fraud Packers and Movers in Dumka: Safety Awareness Guide";
 $page_desc = "Essential safety guide on avoiding fake, fraudulent packers and movers in Dumka. Learn GST bill verification, physical address check, and contract tips.";
 $page_keywords = "how to avoid fraud packers and movers in dumka, fake packers warning dumka, safe relocation tips dumka, genuine moving company dumka, identify fake bill movers, hidden charges prevention dumka, verified GST movers dumka, avoid moving scams dumka, authentic packers dumka, licensed movers dumka, iba GST verification, verified transport company, secure household shifting, ashrivad safe moving tips, relocation safety guide";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/how-to-avoid-fraud-packers-and-movers-in-dumka.php";
 
 $page_city = "Dumka";
 $page_locality = "District-wide Safety Guide";

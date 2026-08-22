@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "How to Choose Best Packers and Movers in Dhanbad | 8409531615";
@@ -17,7 +17,17 @@ $faq_list = [
     ['q' => 'What documents should I receive after loading is completed?', 'a' => 'You must receive an official GST Consignment Invoice, Consignment Lorry Receipt (LR Copy), Itemized Goods Packing Inventory List, and Insurance Policy Certificate.'],
     ['q' => 'Does Shree Ashirwad Packers provide written quotation guarantees?', 'a' => 'Yes, we provide 100% transparent, locked-in written quotations with zero hidden surcharges or last-minute fee increases.'],
     ['q' => 'How far in advance should I finalize my moving company in Dhanbad?', 'a' => 'Finalize your booking at least 3 to 5 days prior to your preferred shifting date to reserve container vehicles and packing crews.'],
-    ['q' => 'How can I contact Shree Ashirwad Packers in Dhanbad?', 'a' => 'Call or WhatsApp our main helpline at 8409531615 to schedule a free pre-move survey or receive an instant quote.']
+    ['q' => 'How can I contact Shree Ashirwad Packers in Dhanbad?', 'a' => 'Call or WhatsApp our main helpline at 8409531615 to schedule a free pre-move survey or receive an instant quote.'],
+    ['q' => 'What insurance options protect my household goods during transit from Dhanbad?', 'a' => 'Comprehensive transit insurance policies cover full invoice value against transit accidents, fire, theft, or natural calamity during highway travel.'],
+    ['q' => 'Are there hidden charges like toll taxes or labor tips added later?', 'a' => 'No, all toll taxes, green taxes, driver allowances, and loading labor fees are explicitly calculated and included in our written contract.'],
+    ['q' => 'Can packers and movers in Dhanbad shift my car along with household items?', 'a' => 'Yes, we operate multi-car enclosed hydraulic carriers and combined household container trucks for simultaneous vehicle and home shipping.'],
+    ['q' => 'How are heavy wooden double beds and wardrobes dismantled and reassembled?', 'a' => 'Trained carpenters use specialized power tools to safely unbolt wooden furniture, wrap components in 5-ply cardboard, and reassemble them at your new home.'],
+    ['q' => 'What safety measures are taken for pet transport during shifting from Dhanbad?', 'a' => 'Pets are transported in climate-regulated, ventilated travel crates with dedicated handlers and food/water stops along highway routes.'],
+    ['q' => 'Do you provide shifting services for BCCL officers in Dhanbad?', 'a' => 'Yes, we specialize in corporate transfers for BCCL, Coal India, Railways, and SBI employees with complete IBA-approved billing documentation.'],
+    ['q' => 'How do you protect kitchen bone china and glass items during packing?', 'a' => 'Crockery is individually bubble-wrapped, stacked vertically with cardboard separators, and packed into heavy 5-ply corrugated cartons.'],
+    ['q' => 'What payment terms should I agree to when booking movers in Dhanbad?', 'a' => 'Pay a modest 10-20% booking advance, with the remaining balance settled upon loading inspection or final delivery.'],
+    ['q' => 'Can I reschedule my moving date if my plans change in Dhanbad?', 'a' => 'Yes, notify us 24 to 48 hours prior to your scheduled moving slot to adjust your reservation date without penalty.'],
+    ['q' => 'Why is Shree Ashirwad Packers rated the best choice in Dhanbad?', 'a' => 'With 15+ years of local logistics experience, zero-hidden-fee guarantee, 7-layer packaging, and 100% IBA compliance, we deliver reliable moving services.'],
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -383,6 +393,35 @@ require_once __DIR__ . '/../includes/header.php';
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
         Shree Ashirwad Packers and Movers provides complete reimbursement paperwork packages designed specifically for government and corporate relocation policies in Dhanbad. Every documentation bundle contains an official 18% GST invoice, Lorry Receipt (LR) with vehicle registration details, money receipt with stamp, and an itemized packing inventory list signed by both parties prior to dispatch.
       </p>
+    </div>
+  </section>
+
+  <!-- Cluster Internal Link Grid -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+        Related Dhanbad Relocation Guides &amp; Services
+      </h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>pages/iba-approved-packers-and-movers-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-file-invoice" style="color: #f59e0b; margin-right: 8px;"></i> IBA Approved Movers Dhanbad
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/office-relocation-services-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-building" style="color: #f59e0b; margin-right: 8px;"></i> Office Relocation Dhanbad
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/household-shifting-checklist-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-list-check" style="color: #f59e0b; margin-right: 8px;"></i> Moving Timeline Checklist
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/car-and-bike-transport-guide-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-car" style="color: #f59e0b; margin-right: 8px;"></i> Vehicle Transport Guide
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/how-to-avoid-fraud-packers-and-movers-in-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-shield-alt" style="color: #f59e0b; margin-right: 8px;"></i> Avoid Moving Scams
+        </a>
+        <a href="<?php echo SITE_URL; ?>pages/local-vs-intercity-shifting-charges-dhanbad.php" style="display: block; padding: 14px 18px; background: #172a54; border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+          <i class="fas fa-calculator" style="color: #f59e0b; margin-right: 8px;"></i> Shifting Tariff Breakdown
+        </a>
+      </div>
     </div>
   </section>
 

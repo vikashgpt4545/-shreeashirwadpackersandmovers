@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Allahabad | Prayagraj Safe Two-Wheeler Shifting";
 $page_desc = "Planning bike transportation in Allahabad (Prayagraj)? Get safe, insured, and doorstep motorcycle shifting. High-quality multi-layer packing and real-time tracking.";
-$page_keywords = "bike transportation in allahabad, best bike transportation in allahabad, affordable bike transportation in allahabad, packers and movers, packers and movers in ranchi, top bike transportation in allahabad company, household shifting bike transportation in allahabad, doorstep bike transportation in allahabad, verified bike transportation in allahabad services, shree ashirwad bike transportation in allahabad";
+$page_keywords = "bike transportation in allahabad, best bike transportation in allahabad, affordable bike transportation in allahabad, packers and movers, top bike transportation in allahabad company, household shifting bike transportation in allahabad, doorstep bike transportation in allahabad, verified bike transportation in allahabad services, shree ashirwad bike transportation in allahabad";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-allahabad.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -81,7 +81,24 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Allahabad Prayagraj Bike Shifting Section -->
+  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+
+        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Allahabad (Prayagraj) Two-Wheeler Shipping Services</h2>
+        <p style="margin-bottom: 20px;">
+          Allahabad (Prayagraj) is Eastern Uttar Pradesh's major educational and legal hub, well connected via NH-19 and NH-30. Shree Ashirwad Packers and Movers provides door-to-door bike relocation serving Civil Lines, Katra, Naini, Ashok Nagar, and Teliyarganj.
+        </p>
+
+        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & UP-70 RTO Compliance</h3>
+        <p style="margin-bottom: 20px;">
+          Every motorcycle shipped from Allahabad undergoes 7-layer protective packaging (bubble wrap, corrugated sheets, stretch films) and full UP-70 Prayagraj RTO documentation clearance before transit insurance activation.
+        </p>
+
+      </div>
+    </div>
+  </section>
 
 </main>
 
