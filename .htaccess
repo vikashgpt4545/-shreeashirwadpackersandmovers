@@ -1,6 +1,9 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
+    # Dynamically serve master sitemap containing all 3,950+ pages
+    RewriteRule ^sitemap\.xml$ generate_sitemap.php [L]
+
     # 301 Redirect Typo Slug Fixes (urls.txt reconciliation)
     RewriteRule ^packers-and-movers-nirrsa-dhanbad/?$ /packers-and-movers-nirsa-dhanbad [R=301,L]
     RewriteRule ^packers-and-movers-rohani-deoghar/?$ /packers-and-movers-rohini-deoghar [R=301,L]
