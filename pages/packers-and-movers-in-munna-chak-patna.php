@@ -1,247 +1,424 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Munna Chak Patna | 8409531615";
+$page_title = "Packers and Movers in Munna Chak Patna | Safe House Shifting";
 $page_desc = "Hire certified packers and movers in Munna Chak Patna. Shree Ashirwad Packers and Movers offers secure household shifting, office relocations, room moving, Kankarbagh main road transport, and IBA claim bills with zero hidden costs. Call (+91) 8409531615.";
 $page_keywords = "packers and movers in munna chak patna, packers and movers munna chak patna, movers and packers in patna munna chak, house shifting in munna chak patna, best packers and movers in munna chak patna, packers and movers service in patna, movers and packers in patna";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-munna-chak-patna.php";
 
-$page_city = "Patna";
+$page_city = "Munna Chak, Patna, Bihar";
 
 $faq_list = [
-    ['q' => 'Do you provide same-day household shifting in Munna Chak, Patna?', 'a' => 'Yes, local shifting within Munna Chak or to nearby locations like Kankarbagh, Rajendra Nagar, Kumhrar, and Bypass Road is fully completed in a single day, including complete packing, transit, loading, and unpacking.'],
-    ['q' => 'What are the packers and movers charges in Munna Chak Patna?', 'a' => 'Relocation charges are completely dynamic and calculated depending on the volume of goods, type of packing material, floor levels, lift availability, and exact distance. Please request a free video survey for a detailed customized quote.'],
-    ['q' => 'How do you protect delicate goods during transit in Munna Chak?', 'a' => 'We wrap all glassware, electronics, and delicate decorative items in bubble wrap and foam cushioning sheets, packing them into heavy-duty corrugated cartons.'],
-    ['q' => 'Do you offer office shifting services in Munna Chak?', 'a' => 'Yes, we provide specialized commercial and office relocation services including secure packaging for server racks, computers, office files, and modular furniture.'],
-    ['q' => 'Are your GST bills valid for PSU, bank, and govt employee transfer claims?', 'a' => 'Yes, Shree Ashirwad Packers provides 100% genuine IBA-compliant GST invoices, LR copies, money receipts, and itemized inventory lists accepted by all govt departments, banks, and corporate firms.'],
-    ['q' => 'How early should I book shifting in Munna Chak Patna?', 'a' => 'Booking 1 to 2 days in advance helps us reserve optimal container vehicles and specialized packing crews for your preferred moving time.'],
-    ['q' => 'Do your movers handle furniture dismantling and reassembly in Munna Chak?', 'a' => 'Yes, our expert carpenters dismantle double beds, wooden wardrobes, modular dining tables, and reassemble them neatly at your new location.']
+    [
+        'q' => 'Do you provide same-day household shifting in Munna Chak, Patna?',
+        'a' => 'Yes, local shifting within Munna Chak or to nearby locations like Kankarbagh, Rajendra Nagar, Kumhrar, and Bypass Road is fully completed in a single day, including complete packing, transit, loading, and unpacking.'
+    ],
+    [
+        'q' => 'What are the packers and movers charges in Munna Chak Patna?',
+        'a' => 'Local 1BHK shifting costs ₹2,500 to ₹4,800, 2BHK flat moving ranges from ₹5,000 to ₹8,500, and 3BHK house relocation costs ₹8,000 to ₹13,000 based on goods volume.'
+    ],
+    [
+        'q' => 'How do you protect delicate goods during transit in Munna Chak?',
+        'a' => 'We wrap all glassware, electronics, and delicate decorative items in bubble wrap and foam cushioning sheets, packing them into heavy-duty corrugated cartons.'
+    ],
+    [
+        'q' => 'Do you offer office shifting services in Munna Chak?',
+        'a' => 'Yes, we provide specialized commercial and office relocation services including secure packaging for server racks, computers, office files, and modular furniture.'
+    ],
+    [
+        'q' => 'Are your GST bills valid for PSU, bank, and govt employee transfer claims?',
+        'a' => 'Yes, Shree Ashirwad Packers provides 100% genuine IBA-compliant GST invoices, LR copies, money receipts, and itemized inventory lists accepted by all govt departments, banks, and corporate firms.'
+    ],
+    [
+        'q' => 'How early should I book shifting in Munna Chak Patna?',
+        'a' => 'Booking 1 to 2 days in advance helps us reserve optimal container vehicles and specialized packing crews for your preferred moving time.'
+    ],
+    [
+        'q' => 'Do your movers handle furniture dismantling and reassembly in Munna Chak?',
+        'a' => 'Yes, our expert carpenters dismantle double beds, wooden wardrobes, modular dining tables, and reassemble them neatly at your new location.'
+    ],
+    [
+        'q' => 'Can you navigate narrow residential lanes in Munna Chak?',
+        'a' => 'Yes, we deploy compact feeder pick-up trucks for narrow interior lanes in Munna Chak to seamlessly shuttle items to larger enclosed highway containers.'
+    ],
+    [
+        'q' => 'Is transit insurance available for long-distance relocations?',
+        'a' => 'Yes, we offer 1.5% comprehensive transit insurance coverage for long-distance household shifting originating from Munna Chak.'
+    ],
+    [
+        'q' => 'How can I get an instant quote for shifting in Munna Chak?',
+        'a' => 'Call +91 8409531615 or submit your moving details through our website lead form for an instant free price estimation.'
+    ]
 ];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- Section 1: Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Patna">Patna</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Packers and Movers Patna Hub">Patna Hub</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active">Packers and Movers in Munna Chak Patna</span>
+        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
     </div>
   </div>
 
+  <!-- Section 2: Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
+        
+        <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            Munna Chak Relocations Specialist
+            MUNNA CHAK RELOCATIONS SPECIALIST
           </span>
-          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Trusted <span style="color: #f59e0b;">Packers and Movers in Munna Chak Patna</span>
           </h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+          <p style="font-size: 1.08rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
             Shree Ashirwad Packers and Movers provides certified household shifting, commercial relocation, room moving, and bike transport in Munna Chak Patna. 7-layer protective packaging, zero hidden fees, and 100% IBA GST claim bills.
           </p>
+
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20in%20Munna%20Chak%20Patna." title="WhatsApp Chat" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote%20for%20Munna%20Chak%20Patna." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+            </a>
+          </div>
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
+            <span><strong style="color: #f59e0b;">100% Safe</strong> Packing</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> GST Bill</span>
+            <span><strong style="color: #f59e0b;">Same Day</strong> Local Shift</span>
           </div>
         </div>
 
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
+        <!-- Hero Lead Form Column -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
           <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Munna Chak Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Fast, transparent cost estimation via WhatsApp</p>
+
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;"><input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="margin-bottom: 14px;"><input type="tel" name="phone" class="form-control" placeholder="Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Mobile Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
               <input type="text" name="move_from" class="form-control" value="Munna Chak, Patna" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Destination City/Area" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div style="margin-bottom: 16px;"><textarea name="message" class="form-control" rows="2" placeholder="Items List / Shifting Details" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea></div>
-            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; border-radius: 8px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); border: none; color: #000;">Get Free Instant Quote</button>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
+              Get Instant Shifting Estimate &rarr;
+            </button>
           </form>
         </div>
+
       </div>
     </div>
   </section>
 
-  <!-- Detailed Overview -->
-  <section style="padding: 70px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
-    <div class="container" style="max-width: 950px;">
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem;">Local Shifting Experts</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Get Certified Shifting Services in <span style="color: #f59e0b;">Munna Chak Patna</span></h2>
-      
+  <!-- Section 3: Overview & Local Neighborhood Context -->
+  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
+    <div class="container" style="max-width: 1000px;">
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">
+        MUNNA CHAK LOGISTICS HUB
+      </span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Seamless Relocation Services in <span style="color: #f59e0b;">Munna Chak, Patna</span>
+      </h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        Relocating near Munna Chak requires careful logistical management due to heavy commercial traffic along Kankarbagh Main Road and narrow residential interior lanes. Safe handling of household items, heavy wardrobes, and delicate glass setups needs experienced professionals. Hiring dedicated <strong>packers and movers in Munna Chak Patna</strong> ensures your relocation is managed systematically and damage-free.
+        Munna Chak is a busy commercial and residential hub situated along Kankarbagh Main Road in South Patna. Heavy traffic near the main intersection and tight parking spaces in interior residential lanes require prompt team coordination. We deploy small feeder vehicles for narrow lanes when container trucks cannot directly park.
       </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        At <strong>Shree Ashirwad Packers and Movers</strong>, we operate with a dedicated team of loaders and packing specialists. We use high-quality bubble sheets, foam sheets, corrugated rolls, and stretch wraps to safeguard your electronics and furniture from transport friction.
+      <p style="font-size: 1.05rem; color: #cbd5e1;">
+        At <strong>Shree Ashirwad Packers and Movers</strong>, we deploy professional packing teams and modern covered containers across Munna Chak, Kankarbagh, Rajendra Nagar, Kumhrar, and Bypass Road with complete insurance and IBA approved GST bills.
       </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        Whether you are planning moves with the <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Best Packers and Movers in Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">best packers and movers in Patna</a>, local household shifting, or need <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Room Shifting Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">room shifting</a> assistance, our team manages the complete process from our central Patna hub.
-      </p>
+    </div>
+  </section>
 
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-home"></i> Local Household Shifting</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Complete 1/2/3 BHK flat relocation across Munna Chak sectors with zero damage.</p>
+  <!-- Section 4: Comprehensive Services Breakdown -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Our Core Services in Munna Chak Patna</h2>
+        <p style="color: #94a3b8; font-size: 1rem;">End-to-end relocation solutions crafted for residential and commercial clients</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-home" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Household Shifting</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Complete house and apartment packing using 7-layer materials. Multi-layer wrapping for sofas, wooden beds, dining sets, and electronic appliances.</p>
         </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-shield-alt"></i> IBA Compliant Bills</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Official GST invoices and LR copies for employee transfer claim reimbursement.</p>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-building" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Commercial Office Move</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Swift shifting for offices, corporate IT desks, server racks, files, and modular furniture with minimal downtime.</p>
         </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-box"></i> 7-Layer Packaging</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Air bubble rolls, corrugated sheets, stretch wrap, and wooden crates.</p>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-motorcycle" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Bike & Car Transport</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Safe vehicle transportation with dedicated wheel locks, foam padding, and covered car container trailers to any Indian city.</p>
         </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🛵 Bike Carrier Service</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Enclosed multi-layer bubble wrapped motorcycle shipping to any city.</p>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-warehouse" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Storage & Warehousing</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">CCTV-monitored, climate-protected storage facilities in Patna for short-term and long-term household goods storage.</p>
         </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-building"></i> Commercial Office Move</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Corporate IT desks, server racks, files, and office furniture transport.</p>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-box-open" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">7-Layer Premium Packing</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Air-bubble film, corrugated rolls, waterproof stretch film, thermocol sheets, and heavy-duty cartons for total goods safety.</p>
         </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-user-cog"></i> Dismantling & Assembly</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Expert carpenters for dismantling beds & reassembling furniture at destination.</p>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <i class="fas fa-shield-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">IBA Approved Bill & Insurance</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Official IBA-compliant GST billing for employee claim reimbursements plus 1.5% comprehensive transit insurance coverage.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Step-by-Step Shifting Methodology -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <div class="section-header text-center" style="margin-bottom: 45px;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Methodology</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">Step-by-Step Shifting Process in Munna Chak</h2>
-        <p style="color: #cbd5e1; margin-top: 10px;">How we execute damage-free relocations for residences and offices in Munna Chak, Patna.</p>
+  <!-- Section 5: Transparent Pricing Matrix -->
+  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0;">
+    <div class="container" style="max-width: 1000px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem;">TRANSPARENT PRICING</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">Relocation Rate Card - Munna Chak Patna</h2>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Clear, itemized pricing with zero hidden fees</p>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">01</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Pre-Move Assessment</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">We perform a thorough evaluation of all household assets via video survey or physical visit to estimate packing requirements.</p>
-        </div>
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">02</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Multi-Layer Packaging</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Delicate glassware, heavy wardrobes, beds, and electronics are wrapped in high-density bubble sheets, cartons, and stretch film.</p>
-        </div>
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">03</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Safe Loading & Transit</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Using specialized loading equipment, we secure goods inside closed container trucks to eliminate friction during transit.</p>
-        </div>
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">04</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Unpacking & Assembly</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">At your new location, we lift, unload, unpack, and reassemble heavy furniture modular pieces according to your layout preferences.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Local Interlinking Network -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <div style="background: linear-gradient(135deg, #172a54 0%, #101c40 100%); border-radius: 20px; padding: 35px; border: 1px solid rgba(245, 158, 11, 0.3);">
-        <h3 style="font-size: 1.8rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Aggressive Local Relocation Network across Patna</h3>
-        <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-          Our transport network links all key residential sectors across Patna. We maintain localized teams in neighboring zones to ensure quick dispatch and coordinate local clearances. If you are shifting to or from other areas, explore our detailed guides:
-        </p>
-        <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; font-size: 0.9rem; font-weight: 600;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-kankarbagh-patna" title="Kankarbagh Shifting" style="color: #f59e0b; text-decoration: underline;">Kankarbagh Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-rajendra-nagar-patna" title="Rajendra Nagar Shifting" style="color: #f59e0b; text-decoration: underline;">Rajendra Nagar Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bhoothnath-road-patna" title="Bhoothnath Road Shifting" style="color: #f59e0b; text-decoration: underline;">Bhoothnath Road Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-kumhrar-patna" title="Kumhrar Shifting" style="color: #f59e0b; text-decoration: underline;">Kumhrar Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna-city" title="Patna City Shifting" style="color: #f59e0b; text-decoration: underline;">Patna City Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-boring-road-patna" title="Boring Road Shifting" style="color: #f59e0b; text-decoration: underline;">Boring Road Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bailey-road-patna" title="Bailey Road Shifting" style="color: #f59e0b; text-decoration: underline;">Bailey Road Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Local Packers Patna" style="color: #f59e0b; text-decoration: underline;">Local Packers Patna</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Locality Specific Logistics Infrastructure -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px;">
-        Munna Chak Shifting Challenges & Solutions
-      </h3>
-      <div style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8;">
-        <p style="margin-bottom: 16px;">
-          Munna Chak is a busy commercial and residential hub situated along Kankarbagh Main Road in South Patna. Heavy traffic near the main intersection and tight parking spaces in interior residential lanes require prompt team coordination. We deploy small feeder vehicles for narrow lanes when container trucks cannot directly park.
-        </p>
-        <p style="margin-bottom: 16px;">
-          Moreover, multi-story buildings along Munna Chak often have restricted elevator dimensions. Moving large items like double door refrigerators, heavy wooden wardrobes, and king-size beds requires specialized loading strategies. Our handlers use premium hoisting ropes and safety nets to lift heavy cargo safely through balconies or staircases when lift space is limited.
-        </p>
-        <p style="margin-bottom: 0;">
-          If you are planning to relocate, review our customized <a href="<?php echo SITE_URL; ?>services" title="Relocation Services" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">relocation services</a> plans, read more <a href="<?php echo SITE_URL; ?>about" title="About Us" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">About Shree Ashirwad Packers and Movers</a>, or visit our <a href="<?php echo SITE_URL; ?>contact" title="Contact Us" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">Contact us</a> page to secure your shifting date with Bihar's leading logistics provider.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- Rate Table Section -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px;">Estimated Munna Chak Shifting Rates</h2>
-      <div style="overflow-x: auto; margin-top: 20px;">
-        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
+      <div style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
           <thead>
-            <tr style="background: #1c2541; color: #f59e0b;">
-              <th style="padding: 14px; text-align: left;">Shifting Type</th>
-              <th style="padding: 14px; text-align: left;">Packaging Material</th>
-              <th style="padding: 14px; text-align: left;">Transit Duration</th>
-              <th style="padding: 14px; text-align: left;">Estimated Charges (&#8377;)</th>
+            <tr style="background: #1e3a8a; color: #f59e0b; text-align: left;">
+              <th style="padding: 14px 16px;">Move Type / Volume</th>
+              <th style="padding: 14px 16px;">Local Within Patna (Munna Chak)</th>
+              <th style="padding: 14px 16px;">Interstate Moving (Outstation)</th>
             </tr>
           </thead>
-          <tbody style="color: #cbd5e1; font-size: 0.95rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">1 BHK Flat Local Shifting</td><td style="padding: 14px;">3-Layer Bubble Wrap</td><td style="padding: 14px;">4 - 6 Hours</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;3,500 - &#8377;6,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">2 BHK House Shifting</td><td style="padding: 14px;">5-Layer Heavy Duty</td><td style="padding: 14px;">6 - 8 Hours</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;5,500 - &#8377;9,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">3 BHK Villa / House</td><td style="padding: 14px;">7-Layer + Wood Crating</td><td style="padding: 14px;">Same Day Complete</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;8,500 - &#8377;14,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">Single Room / Student Shifting</td><td style="padding: 14px;">Standard Cartons</td><td style="padding: 14px;">2 - 4 Hours</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;2,500 - &#8377;4,500</td></tr>
-            <tr><td style="padding: 14px; font-weight: 700; color: #fff;">Local Office & Commercial</td><td style="padding: 14px;">Heavy Electronics Wrap</td><td style="padding: 14px;">Custom Schedule</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;7,000 - &#8377;18,000</td></tr>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">1 BHK Flat / Room Move</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹2,500 - ₹4,800</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹8,500 - ₹15,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">2 BHK Flat Relocation</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹5,000 - ₹8,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹13,000 - ₹22,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">3 BHK Independent House / Villa</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹8,000 - ₹13,000</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹19,000 - ₹33,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Bike / Two-Wheeler Shipping</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹1,200 - ₹2,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹3,800 - ₹7,000</td>
+            </tr>
+            <tr>
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Car Carrier Transport</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹2,500 - ₹4,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹9,000 - ₹18,000</td>
+            </tr>
           </tbody>
         </table>
       </div>
     </div>
   </section>
 
-  <!-- FAQ Section -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      <h2 style="font-size: 2.2rem; font-weight: 800; text-align: center; margin-bottom: 35px; color: #ffffff;">FAQs – Shifting in Munna Chak Patna</h2>
-      <?php foreach ($faq_list as $index => $faq): ?>
-      <div style="background: #101c40; padding: 20px 24px; border-radius: 12px; margin-bottom: 16px; border: 1px solid rgba(245,158,11,0.2);">
-        <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
-        <p style="font-size: 0.98rem; color: #cbd5e1; margin: 0; line-height: 1.7;"><?php echo htmlspecialchars($faq['a']); ?></p>
+  <!-- Section 6: Standard Operating Process (SOP) -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Our 4-Step Relocation Process</h2>
+        <p style="color: #94a3b8;">Methodical execution for seamless shifting in Munna Chak</p>
       </div>
-      <?php endforeach; ?>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <span style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">01</span>
+          <h4 style="font-size: 1.1rem; color: #fff; margin: 10px 0 5px 0;">Pre-Move Survey</h4>
+          <p style="color: #cbd5e1; font-size: 0.88rem;">Free physical or virtual inventory assessment for a precise written estimate.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <span style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">02</span>
+          <h4 style="font-size: 1.1rem; color: #fff; margin: 10px 0 5px 0;">Multi-Layer Packing</h4>
+          <p style="color: #cbd5e1; font-size: 0.88rem;">Itemized packing using bubble wraps, corrugated sheets, and labelled boxes.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <span style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">03</span>
+          <h4 style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">Safe Transportation</h4>
+          <p style="color: #cbd5e1; font-size: 0.88rem;">Loading into dedicated containerized vehicles driven by experienced drivers.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <span style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">04</span>
+          <h4 style="font-size: 1.1rem; color: #fff; margin: 10px 0 5px 0;">Unpacking & Setup</h4>
+          <p style="color: #cbd5e1; font-size: 0.88rem;">Unloading, room placement, furniture reassembly, and disposal of packing waste.</p>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- CTA Banner -->
-  <section class="cta-banner-section" style="padding: 70px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); text-align: center; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 15px;">Book Safe Household Shifting in <span style="color: #f59e0b;">Munna Chak Patna</span></h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">Get written binding price quotes and 100% IBA-compliant bills today.</p>
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);"><i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20in%20Munna%20Chak%20Patna." title="WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);"><i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp</a>
-        <a href="<?php echo SITE_URL; ?>contact" title="Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);"><i class="fas fa-building" style="margin-right: 8px;"></i> Contact Office</a>
+  <!-- Section 7: Why Choose Us / Value Proposition -->
+  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0;">
+    <div class="container" style="max-width: 1000px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Why Hire Shree Ashirwad in Munna Chak?</h2>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-weight: 700; margin-bottom: 8px;"><i class="fas fa-check-circle" style="margin-right: 8px;"></i>Kankarbagh Arterial Connectivity</h4>
+          <p style="color: #cbd5e1; font-size: 0.92rem; margin: 0;">Direct access to Kankarbagh Main Road and Old Bypass for smooth vehicle dispatch.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-weight: 700; margin-bottom: 8px;"><i class="fas fa-check-circle" style="margin-right: 8px;"></i>In-House Trained Staff</h4>
+          <p style="color: #cbd5e1; font-size: 0.92rem; margin: 0;">Permanent, background-verified packers with specialized training in electronics and furniture handling.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-weight: 700; margin-bottom: 8px;"><i class="fas fa-check-circle" style="margin-right: 8px;"></i>No Hidden Charges Guarantee</h4>
+          <p style="color: #cbd5e1; font-size: 0.92rem; margin: 0;">Transparent binding quotes provided before booking. What we quote is exactly what you pay.</p>
+        </div>
       </div>
     </div>
   </section>
+
+  <!-- Section 8: Regional Intercity Routes -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      <div style="text-align: center; margin-bottom: 35px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Popular Relocation Routes from Munna Chak Patna</h2>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Frequent intercity moving destinations</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; text-align: center;">
+        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #6ee7b7; font-weight: 600;">
+          Munna Chak to Delhi NCR
+        </div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #6ee7b7; font-weight: 600;">
+          Munna Chak to Bangalore
+        </div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #6ee7b7; font-weight: 600;">
+          Munna Chak to Kolkata
+        </div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #6ee7b7; font-weight: 600;">
+          Munna Chak to Ranchi
+        </div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #6ee7b7; font-weight: 600;">
+          Munna Chak to Mumbai
+        </div>
+        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #6ee7b7; font-weight: 600;">
+          Munna Chak to Hyderabad
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 9: FAQ Accordion Section -->
+  <section class="faq-section" style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions (Munna Chak Patna)</h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 15px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="background: #101c40; padding: 20px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h4 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">
+              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?>
+            </h4>
+            <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 10: High-Conversion CTA Band -->
+  <section style="padding: 50px 0; background: linear-gradient(135deg, #d32f2f 0%, #1e3a8a 100%); color: #ffffff; text-align: center;">
+    <div class="container" style="max-width: 800px;">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Planning to Shift in Munna Chak Patna?</h2>
+      <p style="font-size: 1.1rem; color: #e2e8f0; margin-bottom: 30px;">Book certified packers and movers today. Get 100% safe packing, free pre-move survey, and instant estimates.</p>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="padding: 14px 30px; background: #f59e0b; color: #000000; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1rem;">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Munna%20Chak%20Patna." title="WhatsApp Inquiry" target="_blank" style="padding: 14px 30px; background: #10b981; color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1rem;">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
+        </a>
+      </div>
+    </div>
+  </section>
+
 </main>
+
+<!-- Section 11: Schema Markups & WhatsApp Lead Script -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_faqs = [];
+    foreach ($faq_list as $faq) {
+        $schema_faqs[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($faq['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($faq['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_faqs);
+    ?>
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers",
+  "description": "Top-rated packers and movers in Munna Chak, Patna offering doorstep house shifting and corporate relocation.",
+  "url": "<?php echo $canonical_url; ?>",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Munna Chak, Patna",
+    "addressRegion": "Bihar",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Munna Chak, Patna, Bihar",
+  "priceRange": "₹2500 - ₹33000"
+}
+</script>
 
 <script>
 function sendHeroWhatsAppLead(event, form) {
@@ -250,10 +427,11 @@ function sendHeroWhatsAppLead(event, form) {
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
-  var extraMsg = form.querySelector('[name="message"]').value;
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI need a Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
-  if (extraMsg && extraMsg.trim() !== '') { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Shifting Quote for Munna Chak Patna:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
 }
 </script>
 

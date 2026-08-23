@@ -483,4 +483,40 @@ function sendHeroWhatsAppLead(event, form) {
 }
 </script>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Haridwar",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-haridwar.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹12500 - ₹42000",
+  "description": "Certified packers and movers from Patna to Haridwar. 7-layer protective packaging, dedicated sealed container trucks, car/bike carrier, and 100% transit insurance.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Boring Road",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800001",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Haridwar",
+    "BHEL Township",
+    "SIDCUL",
+    "Kankhal",
+    "Jwalapur",
+    "Rishikesh"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/shreeashirwadpackers",
+    "https://twitter.com/shreeashirwad"
+  ]
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

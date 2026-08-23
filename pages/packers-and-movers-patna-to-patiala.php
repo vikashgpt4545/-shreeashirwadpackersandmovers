@@ -2,49 +2,49 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Patna to Patiala | Intercity Relocation";
-$page_desc = "Hire certified Packers and Movers from Patna to Patiala. Shree Ashirwad Packers and Movers provides 7-layer safety packaging, enclosed container trucks, GPS tracking, and doorstep delivery across Urban Estate, Leela Bhawan, Model Town, and SST Nagar.";
+$page_desc = "Hire certified Packers and Movers from Patna to Patiala. Shree Ashirwad Packers and Movers provides 7-layer safety packaging, enclosed container trucks, GPS tracking, and doorstep delivery across Leela Bhawan, Urban Estate, Model Town, Tripuri, and Sirhind Road.";
 $page_keywords = "packers and movers patna to patiala, patna to patiala household shifting, patna to patiala car transport, packers and movers patna to punjab, shree ashirwad packers patna to patiala";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-patiala.php";
 
 $faq_list = [
     [
         "q" => "What is the estimated cost of house shifting from Patna to Patiala?",
-        "a" => "Interstate shifting charges from Patna to Patiala start at ₹12,800 for 1 BHK flats, ₹19,200 for 2 BHK houses, and ₹25,800 for 3 BHK apartments depending on volume and packing customization."
+        "a" => "Interstate shifting charges from Patna to Patiala start at ₹13,500 for 1 BHK flats, ₹19,000 for 2 BHK houses, and ₹26,000 for 3 BHK family homes depending on consignment volume and vehicle container size."
     ],
     [
         "q" => "How long does household consignment delivery take from Patna to Patiala?",
-        "a" => "Delivery typically takes 4 to 5 days via NH 19, NH 44, and NH 7 using sealed weatherproof container vehicles."
+        "a" => "Delivery typically takes 3 to 4 days via NH 19, NH 44, and NH 7 using weatherproof sealed container vehicles."
     ],
     [
         "q" => "Do you offer doorstep pickup in Patna and unloading in Patiala?",
-        "a" => "Yes, we handle complete doorstep pickup across Patna (Boring Road, Kankerbagh, Bailey Road) and unloading/unpacking in Patiala (Urban Estate Phase 1 & 2, Leela Bhawan, Model Town, SST Nagar, Rajbaha Road)."
+        "a" => "Yes, we handle complete doorstep pickup across Patna (Boring Road, Kankerbagh, Bailey Road) and unloading/unpacking in Patiala (Leela Bhawan, Urban Estate Phase 1 & 2, Model Town, Tripuri, Sirhind Road, and Rajpura Road)."
     ],
     [
-        "q" => "What transit highway route is taken from Patna to Patiala?",
-        "a" => "Consignments travel along Patna -> Varanasi -> Kanpur -> Agra Expressway -> Delhi Bypass -> Panipat -> Ambala -> Rajpura -> Patiala highway route."
+        "q" => "What highway route is taken for Patna to Patiala relocation?",
+        "a" => "Consignments travel along Patna -> Varanasi -> Kanpur -> Agra -> Ambala -> Patiala highway corridor."
     ],
     [
         "q" => "Is vehicle transportation (car & bike) included in Patna to Patiala services?",
-        "a" => "Yes, we utilize specialized enclosed hydraulic vehicle carriers for safe car transport and triple-layer wrapped bike parcels."
+        "a" => "Yes, we utilize specialized enclosed hydraulic vehicle carriers for safe car shipping and triple-layer bubble wrapped motorcycle parcel transit."
     ],
     [
-        "q" => "What transit insurance protection is provided for Patiala relocation?",
-        "a" => "We provide comprehensive 100% full-value transit insurance covering household goods against transit damage, fire, pilferage, and highway risks."
+        "q" => "What transit insurance protection is available for Patiala relocation?",
+        "a" => "We provide comprehensive 100% full-value transit insurance protecting your household goods against damage, weather hazards, and highway risks."
     ],
     [
-        "q" => "What packing materials are used for delicate household goods?",
-        "a" => "We utilize a 7-layer safety wrapping process featuring air bubble wrap, thermocol sheets, corrugated cardboard, stretch wrap, edge corner guards, and custom wooden crates."
+        "q" => "What packing materials are used for long-distance transit to Punjab?",
+        "a" => "We utilize an upgraded 7-layer safety wrapping process featuring air bubble wrap, thermocol sheets, corrugated cardboard, stretch film, edge corner guards, and heavy wooden crates."
     ],
     [
-        "q" => "Can I monitor my truck location live during transit to Patiala?",
+        "q" => "Can I track my consignment truck location live during transit?",
         "a" => "Yes, all intercity transport container trucks are equipped with real-time GPS tracking for continuous location updates."
     ],
     [
-        "q" => "Are there extra hidden fees for toll taxes or loading/unloading?",
-        "a" => "No, our written estimates are all-inclusive, covering packing materials, labor, fuel, toll taxes, state permits, and final unpacking."
+        "q" => "Are there extra hidden fees added for state border permits or toll taxes?",
+        "a" => "No, our written estimates are all-inclusive, covering packing materials, labor, highway permits, toll taxes, fuel, and final unpacking."
     ],
     [
-        "q" => "How do I book a free pre-move inspection for Patna to Patiala relocation?",
+        "q" => "How do I schedule a free pre-move survey for Patna to Patiala shifting?",
         "a" => "You can call us directly at +91 8409531615 or fill out our online quotation form to book a free physical or virtual survey."
     ]
 ];
@@ -105,7 +105,7 @@ require_once __DIR__ . '/../includes/header.php';
             Reliable <span style="color: #f59e0b;">Packers and Movers Patna to Patiala</span>
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Relocate hassle-free from Patna to Patiala with Shree Ashirwad Packers and Movers. Benefit from 7-layer safety packaging, dedicated container logistics, live GPS tracking, and complete transit insurance coverage across Urban Estate, Leela Bhawan, Model Town, and SST Nagar.
+            Relocate seamlessly from Patna to Patiala, Punjab with Shree Ashirwad Packers and Movers. Benefit from 7-layer safety packaging, express container logistics, live GPS tracking, and complete transit insurance coverage across Leela Bhawan, Urban Estate Phase 1 & 2, Model Town, Tripuri, and Sirhind Road.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -156,8 +156,8 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
         
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">880+</div>
-          <div style="font-size: 0.95rem; color: #94a3b8;">Patna to Patiala Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">1,180 KM</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Patna to Patiala Route</div>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
@@ -166,13 +166,13 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #3b82f6; margin-bottom: 5px;">96 Hrs</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #3b82f6; margin-bottom: 5px;">3-4 Days</div>
           <div style="font-size: 0.95rem; color: #94a3b8;">Guaranteed Delivery</div>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
           <div style="font-size: 2.2rem; font-weight: 800; color: #ec4899; margin-bottom: 5px;">100%</div>
-          <div style="font-size: 0.95rem; color: #94a3b8;">Comprehensive Transit Cover</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Full Value Insurance Cover</div>
         </div>
 
       </div>
@@ -187,15 +187,15 @@ require_once __DIR__ . '/../includes/header.php';
           Patna to Patiala Interstate Highway Route & Logistics
         </h2>
         <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px; text-align: center;">
-          Moving household items ~1,320 km from Patna to Patiala requires dedicated long-distance container trucks. Our fleets route via NH 19, NH 44, and NH 7 passing through Varanasi, Kanpur, Delhi Bypass, Ambala, and Rajpura directly into Patiala.
+          Transporting household goods ~1,180 km from Patna to Patiala requires dedicated container trucks. Our fleets route via NH 19, NH 44, and NH 7 through Varanasi, Kanpur, Agra, and Ambala directly into Patiala.
         </p>
 
         <div style="background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(245, 158, 11, 0.2); border-radius: 12px; padding: 25px; margin-top: 30px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-route"></i> Route Overview</h3>
           <ul style="list-style: none; padding: 0; margin: 0; color: #cbd5e1; line-height: 2;">
-            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Primary Corridor:</strong> Patna &rarr; Varanasi &rarr; Kanpur &rarr; Delhi Bypass &rarr; Ambala &rarr; Rajpura &rarr; Patiala</li>
-            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Total Distance:</strong> Approximately 1,320 Kilometers</li>
-            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Expected Delivery:</strong> 4 to 5 Days (Dedicated Container Fleet)</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Primary Corridor:</strong> Patna &rarr; Varanasi &rarr; Kanpur &rarr; Agra &rarr; Ambala &rarr; Patiala</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Total Distance:</strong> Approximately 1,180 Kilometers</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Expected Delivery:</strong> 3 to 4 Days (Express Container Fleet)</li>
             <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Vehicles Available:</strong> 17ft, 19ft, 22ft, and 32ft Sealed Container Trucks</li>
           </ul>
         </div>
@@ -215,7 +215,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
           <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-home"></i></div>
           <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Household Shifting</h3>
-          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Expert packing and transport of furniture, beds, sofas, modular kitchens, and home appliances with complete setup upon arrival.</p>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Expert packing and transport of furniture, beds, sofas, modular kitchens, and home appliances with complete setup upon arrival in Patiala.</p>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
@@ -227,13 +227,13 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
           <div style="font-size: 2rem; color: #3b82f6; margin-bottom: 15px;"><i class="fas fa-motorcycle"></i></div>
           <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Bike & Scooter Parcel</h3>
-          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Triple-layer bubble and foam wrapping for two-wheelers with secure stand locking to avoid scratches during long transit.</p>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Triple-layer bubble and foam wrapping for two-wheelers with secure stand locking to avoid scratches during transit.</p>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
-          <div style="font-size: 2rem; color: #ec4899; margin-bottom: 15px;"><i class="fas fa-graduation-cap"></i></div>
-          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Student & Faculty Relocation</h3>
-          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Budget-friendly luggage, book crate, and personal belongings transport for university students and faculty moving to Patiala.</p>
+          <div style="font-size: 2rem; color: #ec4899; margin-bottom: 15px;"><i class="fas fa-university"></i></div>
+          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Academic & Student Moves</h3>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Tailored luggage and room shifting for students and faculty moving to Punjabi University and Thapar Institute in Patiala.</p>
         </div>
 
       </div>
@@ -261,27 +261,27 @@ require_once __DIR__ . '/../includes/header.php';
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">1 BHK Flat Shifting</td>
               <td style="padding: 16px 20px;">Standard 5-Layer Packaging</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹12,800 - ₹17,500</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹13,500 - ₹18,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">2 BHK House Shifting</td>
               <td style="padding: 16px 20px;">Premium 7-Layer Cushioning</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹19,200 - ₹25,800</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹19,000 - ₹26,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">3 BHK House / Villa Shifting</td>
               <td style="padding: 16px 20px;">Full Heavy Crate & Custom Box Packaging</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹25,800 - ₹36,000</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹26,000 - ₹35,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">Car Transport (Enclosed Trailer)</td>
               <td style="padding: 16px 20px;">Hydraulic Locking System</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹10,500 - ₹16,000</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹11,500 - ₹16,000</td>
             </tr>
             <tr>
               <td style="padding: 16px 20px; font-weight: 600;">Bike Shifting Service</td>
               <td style="padding: 16px 20px;">Bubble + Cardboard Sheet Guard</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹4,500 - ₹7,500</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹4,800 - ₹7,500</td>
             </tr>
           </tbody>
         </table>
@@ -348,7 +348,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: rgba(15, 23, 42, 0.6); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
           <h3 style="color: #10b981; font-size: 1.2rem; margin-bottom: 15px;"><i class="fas fa-map-marker-alt"></i> Patiala Delivery Areas</h3>
           <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.8;">
-            Urban Estate Phase 1 & 2, Leela Bhawan, Model Town, SST Nagar, Rajbaha Road, Punjabi University Area, Tripoli Gate, and Nabha Road.
+            Leela Bhawan, Urban Estate Phase 1 & 2, Model Town, Tripuri, Sirhind Road, Rajpura Road, Baradari, and Factory Area.
           </p>
         </div>
 
@@ -396,5 +396,19 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Shifting Quote for Patna to Patiala:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
 
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>

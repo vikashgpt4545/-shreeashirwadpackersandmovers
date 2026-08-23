@@ -396,4 +396,20 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
+<script>
+function sendHeroWhatsAppLead(e, form) {
+  e.preventDefault();
+  var name = form.name.value;
+  var phone = form.phone.value;
+  var from = form.move_from.value;
+  var to = form.move_to.value;
+  var msg = "Hello Shree Ashirwad Packers, I need a quote for Patna to Sonipat shifting.%0A%0A" +
+    "*Name:* " + encodeURIComponent(name) + "%0A" +
+    "*Phone:* " + encodeURIComponent(phone) + "%0A" +
+    "*From:* " + encodeURIComponent(from) + "%0A" +
+    "*To:* " + encodeURIComponent(to);
+  window.open("https://wa.me/918409531615?text=" + msg, "_blank");
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

@@ -396,5 +396,49 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Gurgaon",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-gurgaon.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹4000 - ₹34000",
+  "description": "Certified packers and movers from Patna to Gurgaon. 7-layer protective packaging, dedicated vehicle carriers, GPS tracking, and doorstep shifting across all Gurgaon DLF sectors.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Gurgaon",
+    "Haryana",
+    "Bihar"
+  ]
+}
+</script>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Patna to Gurgaon Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+
 

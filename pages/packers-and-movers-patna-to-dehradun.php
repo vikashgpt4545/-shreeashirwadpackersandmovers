@@ -397,6 +397,73 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-</main>
+<!-- FAQ Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_faqs = [];
+    foreach ($faq_list as $faq) {
+        $schema_faqs[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($faq['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($faq['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_faqs);
+    ?>
+  ]
+}
+</script>
+
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Dehradun",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-dehradun.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹4500 - ₹55000",
+  "description": "Professional household shifting, defense relocation, vehicle transport, and IBA-approved billing services from Patna to Dehradun.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Dehradun",
+    "Rajpur Road",
+    "Clement Town",
+    "Uttarakhand",
+    "Bihar"
+  ]
+}
+</script>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Patna to Dehradun Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

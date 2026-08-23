@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Packers and Movers Vaishali to Patna | 8409531615";
 $page_desc = "Hire certified packers and movers for Vaishali to Patna relocation. Shree Ashirwad Packers and Movers offers secure intercity house shifting, bike transport, luggage delivery, and IBA claim bills with zero hidden costs. Call (+91) 8409531615.";
 $page_keywords = "packers and movers vaishali to patna, packers and movers in vaishali to patna, movers and packers vaishali to patna, house shifting from vaishali to patna, best packers and movers vaishali to patna, packers and movers service in patna, movers and packers in patna";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-vaishali-to-patna.php";
 
 $page_city = "Patna";
 
@@ -14,7 +15,10 @@ $faq_list = [
     ['q' => 'Can you shift a full 3 BHK from Vaishali to Patna in a single day?', 'a' => 'Yes, given the short distance across the MG Setu bridge corridor, our dedicated teams can complete packing, loading, transit, and unpacking within the same working day.'],
     ['q' => 'Are your GST bills valid for PSU, bank, and govt employee transfer claims?', 'a' => 'Yes, Shree Ashirwad Packers provides 100% genuine IBA-compliant GST invoices, LR copies, money receipts, and itemized inventory lists accepted by all govt departments, banks, and corporate firms.'],
     ['q' => 'How early should I book intercity shifting from Vaishali to Patna?', 'a' => 'Booking 1 to 2 days in advance helps us reserve optimal container vehicles and specialized packing crews for your preferred moving date.'],
-    ['q' => 'Do your movers handle furniture dismantling and reassembly for intercity moves?', 'a' => 'Yes, our expert carpenters dismantle double beds, wooden wardrobes, modular dining tables, and reassemble them neatly at your destination in Patna.']
+    ['q' => 'Do your movers handle furniture dismantling and reassembly for intercity moves?', 'a' => 'Yes, our expert carpenters dismantle double beds, wooden wardrobes, modular dining tables, and reassemble them neatly at your destination in Patna.'],
+    ['q' => 'Can you transport bikes and cars from Vaishali to Patna?', 'a' => 'Yes, we provide specialized enclosed vehicle transport carriers with wheel clamps to transport bikes and cars safely.'],
+    ['q' => 'Do you offer office and commercial relocation from Vaishali to Patna?', 'a' => 'Yes, we handle complete corporate office shifting including computer setups, files, server racks, and office furniture.'],
+    ['q' => 'How can I get an instant price quotation for Vaishali to Patna moving?', 'a' => 'You can call us directly at +91 8409531615 or submit the online form for an instant quotation via WhatsApp.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -26,7 +30,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Patna">Patna</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Patna">Patna</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Packers and Movers Vaishali to Patna</span>
       </div>
@@ -82,7 +86,7 @@ require_once __DIR__ . '/../includes/header.php';
         At <strong>Shree Ashirwad Packers and Movers</strong>, we operate with a dedicated team of loaders and packing specialists. We use high-quality bubble sheets, foam sheets, corrugated rolls, and stretch wraps to safeguard your electronics and furniture from transport friction.
       </p>
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        Whether you are planning moves with the <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Best Packers and Movers in Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">best packers and movers in Patna</a>, local household shifting, or need <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Room Shifting Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">room shifting</a> assistance, our team manages the complete process from our central Patna hub.
+        Whether you are planning moves with the <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Best Packers and Movers in Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">best packers and movers in Patna</a>, local household shifting, or need room shifting assistance, our team manages the complete process from our central Patna hub.
       </p>
 
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
@@ -157,14 +161,14 @@ require_once __DIR__ . '/../includes/header.php';
           Our transport network links all key cities in Bihar with Patna. We maintain localized teams to ensure quick dispatch and coordinate highway permits. If you are shifting along other intercity routes, explore our detailed guides:
         </p>
         <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; font-size: 0.9rem; font-weight: 600;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-samastipur-to-patna" title="Samastipur to Patna" style="color: #f59e0b; text-decoration: underline;">Samastipur to Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-sitamarhi-to-patna" title="Sitamarhi to Patna" style="color: #f59e0b; text-decoration: underline;">Sitamarhi to Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-boring-road-patna" title="Boring Road Patna" style="color: #f59e0b; text-decoration: underline;">Boring Road Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-kankarbagh-patna" title="Kankarbagh Patna" style="color: #f59e0b; text-decoration: underline;">Kankarbagh Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna-city" title="Patna City Shifting" style="color: #f59e0b; text-decoration: underline;">Patna City Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-danapur-patna" title="Danapur Patna" style="color: #f59e0b; text-decoration: underline;">Danapur Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Local Packers Patna" style="color: #f59e0b; text-decoration: underline;">Local Packers Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-raja-bazar-patna" title="Raja Bazar Patna" style="color: #f59e0b; text-decoration: underline;">Raja Bazar Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-samastipur-to-patna.php" title="Samastipur to Patna" style="color: #f59e0b; text-decoration: underline;">Samastipur to Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-sitamarhi-to-patna.php" title="Sitamarhi to Patna" style="color: #f59e0b; text-decoration: underline;">Sitamarhi to Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-boring-road-patna.php" title="Boring Road Patna" style="color: #f59e0b; text-decoration: underline;">Boring Road Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-kankarbagh-patna.php" title="Kankarbagh Patna" style="color: #f59e0b; text-decoration: underline;">Kankarbagh Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna-sahib-patna.php" title="Patna City Shifting" style="color: #f59e0b; text-decoration: underline;">Patna City Shifting</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-danapur-patna.php" title="Danapur Patna" style="color: #f59e0b; text-decoration: underline;">Danapur Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Local Packers Patna" style="color: #f59e0b; text-decoration: underline;">Local Packers Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-raja-bazar-patna.php" title="Raja Bazar Patna" style="color: #f59e0b; text-decoration: underline;">Raja Bazar Patna</a>
         </div>
       </div>
     </div>
@@ -243,6 +247,48 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 </main>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_faqs = [];
+    foreach ($faq_list as $faq) {
+        $schema_faqs[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($faq['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($faq['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_faqs);
+    ?>
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Vaishali to Patna",
+  "description": "Top-rated packers and movers for intercity household shifting and corporate relocation from Vaishali to Patna.",
+  "url": "<?php echo $canonical_url; ?>",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Vaishali",
+    "addressRegion": "Bihar",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Vaishali to Patna, Bihar",
+  "priceRange": "₹2200 - ₹22000"
+}
+</script>
+
 <script>
 function sendHeroWhatsAppLead(event, form) {
   event.preventDefault();
@@ -253,7 +299,7 @@ function sendHeroWhatsAppLead(event, form) {
   var extraMsg = form.querySelector('[name="message"]').value;
   var message = "Hello Shree Ashirwad Packers & Movers,\n\nI need a Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
   if (extraMsg && extraMsg.trim() !== '') { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open("https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message), '_blank');
 }
 </script>
 

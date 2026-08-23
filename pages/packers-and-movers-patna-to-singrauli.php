@@ -1,523 +1,433 @@
 <?php
-$page_title = "Packers and Movers Patna to Singrauli | Interstate Shifting Services";
-$page_description = "Relocating from Patna to Singrauli? Shree Ashirwad Packers and Movers provides top-tier household shifting, vehicle transport, and office relocation with full transit insurance.";
+require_once __DIR__ . '/../includes/config.php';
+
+$page_title = "Packers and Movers Patna to Singrauli | Intercity Relocation";
+$page_desc = "Hire certified Packers and Movers from Patna to Singrauli (Madhya Pradesh). Shree Ashirwad Packers and Movers provides 7-layer safety packaging, weather-sealed container transport, GPS tracking, and doorstep delivery across Waidhan, Vindhyanagar, Morwa, Jayant Colony, NTPC Township, and NCL Complex.";
+$page_keywords = "packers and movers patna to singrauli, patna to singrauli house shifting, patna to singrauli car transport, packers and movers patna to madhya pradesh, shree ashirwad packers patna to singrauli";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-singrauli.php";
-include '../includes/header.php';
+
+$faq_list = [
+    [
+        "q" => "What is the estimated cost of house shifting from Patna to Singrauli?",
+        "a" => "Interstate shifting charges from Patna to Singrauli start at ₹12,000 for 1 BHK flats, ₹16,500 for 2 BHK houses, and ₹23,500 for 3 BHK family homes depending on consignment volume and packing options."
+    ],
+    [
+        "q" => "How long does household consignment delivery take from Patna to Singrauli?",
+        "a" => "Delivery typically takes 24 to 36 hours via NH 19 highway corridor."
+    ],
+    [
+        "q" => "Do you offer doorstep pickup in Patna and unloading across Singrauli?",
+        "a" => "Yes, we handle complete doorstep pickup across Patna (Boring Road, Kankerbagh, Bailey Road) and unloading/unpacking in Singrauli (Waidhan, Vindhyanagar, Morwa, Jayant Colony, NTPC Township, and NCL Complex)."
+    ],
+    [
+        "q" => "What highway route is taken for Patna to Singrauli relocation?",
+        "a" => "Consignments travel along Patna -> Aurangabad -> Dehri-on-Sone -> Garhwa -> Waidhan / Singrauli highway corridor."
+    ],
+    [
+        "q" => "Is vehicle transportation (car & bike) included in Patna to Singrauli services?",
+        "a" => "Yes, we utilize specialized enclosed hydraulic vehicle carriers for safe car transport and multi-layer wrapped motorcycle parcels equipped with wheel-locking straps."
+    ],
+    [
+        "q" => "What transit insurance protection is available for Singrauli relocation?",
+        "a" => "We provide comprehensive 100% full-value transit insurance protecting your household goods against damage, fire, pilferage, and highway risks."
+    ],
+    [
+        "q" => "What packing materials are used for long-distance transit to MP industrial hubs?",
+        "a" => "We utilize an upgraded 7-layer safety wrapping process featuring air bubble wrap, thermocol sheets, corrugated cardboard, stretch wrap, edge corner guards, and heavy wooden crates."
+    ],
+    [
+        "q" => "Can I track my consignment truck location live during transit?",
+        "a" => "Yes, all intercity transport containers are equipped with real-time GPS tracking for continuous location updates."
+    ],
+    [
+        "q" => "Are there extra hidden fees added for MP state border permits or toll taxes?",
+        "a" => "No, our written estimates are all-inclusive, covering packing materials, labor, transport permits, fuel, toll taxes, and final unpacking."
+    ],
+    [
+        "q" => "How do I schedule a free pre-move survey for Patna to Singrauli shifting?",
+        "a" => "You can call us directly at +91 8409531615 or fill out our online quotation form to book a free physical or virtual survey."
+    ]
+];
+
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<!-- Hero Section -->
-<section class="hero-section text-white py-5" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
-  <div class="container py-4">
-    <div class="row align-items-center">
-      <div class="col-lg-7 mb-4 mb-lg-0">
-        <span class="badge bg-danger mb-3 px-3 py-2 fs-6 rounded-pill">Patna to Singrauli Route</span>
-        <h1 class="display-4 fw-bold mb-3">Trusted Packers and Movers Patna to Singrauli</h1>
-        <p class="lead text-light mb-4">Moving from Patna to Singrauli (Energy Capital of Madhya Pradesh)? Shree Ashirwad Packers and Movers offers complete door-to-door relocation with 5-layer protective packing, weatherproof container trucks, and instant insurance coverage.</p>
-        <div class="d-flex flex-wrap gap-3 mb-4">
-          <div class="d-flex align-items-center text-light me-3">
-            <i class="bi bi-shield-check text-warning fs-4 me-2"></i> Verified Team
-          </div>
-          <div class="d-flex align-items-center text-light me-3">
-            <i class="bi bi-truck text-warning fs-4 me-2"></i> Enclosed Containers
-          </div>
-          <div class="d-flex align-items-center text-light">
-            <i class="bi bi-geo-alt-fill text-warning fs-4 me-2"></i> Real-time GPS Tracking
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-5">
-        <div class="card bg-dark text-white border-secondary shadow-lg rounded-3">
-          <div class="card-body p-4">
-            <h3 class="h4 fw-bold text-center text-warning mb-3">Get Instant Free Quote</h3>
-            <form id="heroLeadForm" onsubmit="sendHeroWhatsAppLead(event)">
-              <div class="mb-3">
-                <input type="text" class="form-control bg-secondary text-white border-0" id="heroName" placeholder="Your Full Name" required>
-              </div>
-              <div class="mb-3">
-                <input type="tel" class="form-control bg-secondary text-white border-0" id="heroPhone" placeholder="Mobile Number" required pattern="[0-9]{10}">
-              </div>
-              <div class="mb-3">
-                <select class="form-select bg-secondary text-white border-0" id="heroService" required>
-                  <option value="" selected disabled>Select Shifting Type</option>
-                  <option value="Household Shifting">Household Shifting</option>
-                  <option value="Car / Bike Transport">Car / Bike Transport</option>
-                  <option value="Office Relocation">Office Relocation</option>
-                  <option value="Complete Moving Package">Complete Moving Package</option>
-                </select>
-              </div>
-              <button type="submit" class="btn btn-warning w-100 fw-bold py-2 shadow"><i class="bi bi-whatsapp me-2"></i>Request Rates via WhatsApp</button>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Section 2: Key Route Information & Overview -->
-<section class="py-5 bg-light text-dark">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 mb-4 mb-lg-0">
-        <h2 class="h2 fw-bold mb-3 text-primary">Patna to Singrauli Transit & Distance Details</h2>
-        <p class="text-secondary">The distance from Patna to Singrauli (MP) is approximately 450 km. Operating via NH19 and State Highway routes, our dedicated trucks ensure safe arrival within 24 to 36 hours.</p>
-        <div class="row g-3 mt-2">
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Approx. Distance</h4>
-              <p class="h5 fw-bold mb-0 text-dark">~450 KM</p>
-            </div>
-          </div>
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Transit Duration</h4>
-              <p class="h5 fw-bold mb-0 text-dark">24 - 36 Hours</p>
-            </div>
-          </div>
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Packing Material</h4>
-              <p class="h5 fw-bold mb-0 text-dark">Multi-Layer Heavy Duty</p>
-            </div>
-          </div>
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Insurance</h4>
-              <p class="h5 fw-bold mb-0 text-dark">Full Transit Coverage</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <div class="p-4 bg-white rounded shadow-sm border border-secondary">
-          <h3 class="h5 fw-bold mb-3 text-dark">Why Choose Us for Singrauli Relocation?</h3>
-          <ul class="list-unstyled mb-0">
-            <li class="mb-3 d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Specialized Industrial & Home Move:</strong> Experienced in serving NTPC, NCL, and power plant professionals moving to Singrauli.</div>
-            </li>
-            <li class="mb-3 d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Advanced Bubble Cushioning:</strong> Premium packing for electronics, TV units, furniture, and kitchenware.</div>
-            </li>
-            <li class="mb-3 d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Door-to-Door Delivery:</strong> Loading from Patna and unloading at Waidhan, Singrauli Township, or Vindhyanagar.</div>
-            </li>
-            <li class="d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Transparent Quotations:</strong> Fixed upfront prices with zero hidden charges.</div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Section 3: Detailed Services Offered -->
-<section class="py-5 bg-dark text-white">
-  <div class="container">
-    <div class="text-center mb-5">
-      <h2 class="h2 fw-bold text-warning">Services Offered for Patna to Singrauli Route</h2>
-      <p class="text-light">End-to-end shifting packages tailored for households, officers, and commercial clients.</p>
-    </div>
-    <div class="row g-4">
-      <div class="col-md-4">
-        <div class="card h-100 bg-secondary text-white border-0 shadow">
-          <div class="card-body p-4">
-            <div class="bg-warning text-dark rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 50px; height: 50px;">
-              <i class="bi bi-house-door fs-4"></i>
-            </div>
-            <h3 class="h5 fw-bold">Household Shifting</h3>
-            <p class="text-light small">Complete home packing, furniture dismantling, appliance protection, and doorstep setup in Singrauli.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card h-100 bg-secondary text-white border-0 shadow">
-          <div class="card-body p-4">
-            <div class="bg-warning text-dark rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 50px; height: 50px;">
-              <i class="bi bi-truck fs-4"></i>
-            </div>
-            <h3 class="h5 fw-bold">Vehicle Transport (Car/Bike)</h3>
-            <p class="text-light small">Safe two-wheeler and four-wheeler carrier services with wheel blocks and bubble cushioning.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card h-100 bg-secondary text-white border-0 shadow">
-          <div class="card-body p-4">
-            <div class="bg-warning text-dark rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 50px; height: 50px;">
-              <i class="bi bi-building fs-4"></i>
-            </div>
-            <h3 class="h5 fw-bold">Commercial & Office Moves</h3>
-            <p class="text-light small">Office furniture, IT servers, desktop computers, and machinery transport to Singrauli industrial hubs.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Section 4: Cost & Tariff Structure -->
-<section class="py-5 bg-light text-dark">
-  <div class="container">
-    <h2 class="h2 fw-bold text-center mb-4 text-primary">Patna to Singrauli Packers Rates</h2>
-    <p class="text-center text-muted mb-5">Estimated price breakdown for home goods and vehicle relocation.</p>
-    <div class="table-responsive">
-      <table class="table table-bordered table-striped align-middle bg-white shadow-sm">
-        <thead class="table-dark">
-          <tr>
-            <th>Shifting Type</th>
-            <th>Packing Material Costs</th>
-            <th>Labor & Highway Toll</th>
-            <th>Total Estimated Price</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><strong>1 BHK House Shifting</strong></td>
-            <td>₹3,500 - ₹5,000</td>
-            <td>₹3,000 - ₹4,500</td>
-            <td><strong>₹15,000 - ₹22,000</strong></td>
-          </tr>
-          <tr>
-            <td><strong>2 BHK House Shifting</strong></td>
-            <td>₹5,500 - ₹8,000</td>
-            <td>₹4,500 - ₹6,500</td>
-            <td><strong>₹22,000 - ₹32,000</strong></td>
-          </tr>
-          <tr>
-            <td><strong>3 BHK / Villa Shifting</strong></td>
-            <td>₹8,000 - ₹12,500</td>
-            <td>₹6,500 - ₹9,500</td>
-            <td><strong>₹32,000 - ₹46,000</strong></td>
-          </tr>
-          <tr>
-            <td><strong>Bike Transport</strong></td>
-            <td>₹1,200 - ₹2,000</td>
-            <td>₹1,000 - ₹1,500</td>
-            <td><strong>₹4,500 - ₹7,000</strong></td>
-          </tr>
-          <tr>
-            <td><strong>Car Transport</strong></td>
-            <td>₹2,500 - ₹3,500</td>
-            <td>₹2,500 - ₹3,500</td>
-            <td><strong>₹12,000 - ₹18,000</strong></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</section>
-
-<!-- Section 5: Step-by-Step Process -->
-<section class="py-5 bg-dark text-white">
-  <div class="container">
-    <h2 class="h2 fw-bold text-center text-warning mb-5">5-Step Relocation Blueprint</h2>
-    <div class="row g-4 text-center">
-      <div class="col-md-2 col-6">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">1</div>
-        <h5 class="h6">Survey</h5>
-        <p class="small text-light">Item inspection & instant quote.</p>
-      </div>
-      <div class="col-md-2 col-6">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">2</div>
-        <h5 class="h6">Packing</h5>
-        <p class="small text-light">3-layer bubble packaging.</p>
-      </div>
-      <div class="col-md-2 col-6">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">3</div>
-        <h5 class="h6">Loading</h5>
-        <p class="small text-light">Careful loading into truck.</p>
-      </div>
-      <div class="col-md-2 col-6">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">4</div>
-        <h5 class="h6">Transit</h5>
-        <p class="small text-light">Monitored highway travel.</p>
-      </div>
-      <div class="col-md-2 col-6">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">5</div>
-        <h5 class="h6">Unloading</h5>
-        <p class="small text-light">Unpacking at Singrauli.</p>
-      </div>
-      <div class="col-md-2 col-6">
-        <div class="bg-success text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;"><i class="bi bi-check-lg"></i></div>
-        <h5 class="h6">Done</h5>
-        <p class="small text-light">Customer satisfaction sign-off.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Section 6: Safety & Insurance -->
-<section class="py-5 bg-light text-dark">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 mb-4 mb-lg-0">
-        <h2 class="h2 fw-bold text-primary mb-3">Comprehensive Transit Insurance & Safety</h2>
-        <p class="text-secondary">We prioritize complete goods protection. With high-density bubble wraps, wooden crates for fragile glassware, and optional transit insurance, your goods remain 100% protected on the Patna-Singrauli highway route.</p>
-        <ul class="list-group list-group-flush border-0">
-          <li class="list-group-item bg-transparent ps-0"><i class="bi bi-shield-fill-check text-success me-2"></i> All-risk insurance policy for full peace of mind.</li>
-          <li class="list-group-item bg-transparent ps-0"><i class="bi bi-shield-fill-check text-success me-2"></i> Verified drivers with deep experience on interstate routes.</li>
-          <li class="list-group-item bg-transparent ps-0"><i class="bi bi-shield-fill-check text-success me-2"></i> Official GST bills for company relocation claims.</li>
-        </ul>
-      </div>
-      <div class="col-lg-6">
-        <div class="p-4 bg-white rounded shadow border-start border-4 border-primary">
-          <h4 class="h5 fw-bold text-dark mb-2">Book Your Move Today</h4>
-          <p class="small text-muted mb-3">Contact our Singrauli route coordinator for instant pricing and slot booking.</p>
-          <div class="d-flex align-items-center p-3 bg-light rounded">
-            <i class="bi bi-telephone-fill text-primary fs-3 me-3"></i>
-            <div>
-              <h6 class="mb-0 fw-bold">Call Relocation Desk</h6>
-              <small class="text-secondary">Instant rate quote on WhatsApp or Call.</small>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Section 7: FAQs (10 Questions + Schema) -->
-<section class="py-5 bg-dark text-white">
-  <div class="container">
-    <h2 class="h2 fw-bold text-center text-warning mb-4">Frequently Asked Questions (Patna to Singrauli)</h2>
-    <div class="accordion accordion-flush" id="faqAccordion">
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading1">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1">
-            1. What is the distance and transit time from Patna to Singrauli?
-          </button>
-        </h2>
-        <div id="faqCollapse1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            The distance is approx 450 km, and transit time is typically 24 to 36 hours in enclosed container vehicles.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading2">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2">
-            2. Do you serve Waidhan and NTPC townships in Singrauli?
-          </button>
-        </h2>
-        <div id="faqCollapse2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Yes, we provide complete doorstep delivery across Waidhan, Vindhyanagar, NCL townships, and all surrounding Singrauli areas.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading3">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3">
-            3. How are delicate items and glass items packed?
-          </button>
-        </h2>
-        <div id="faqCollapse3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Delicate items are packaged using multi-layer bubble wrap, foam, thermocol, corrugated boxes, and custom wooden crates.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading4">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse4">
-            4. Is transit insurance compulsory for interstate shifting?
-          </button>
-        </h2>
-        <div id="faqCollapse4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            While optional, we highly recommend taking transit insurance to cover your goods against unforeseen road risks.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading5">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse5">
-            5. Can I move my bike along with my house luggage?
-          </button>
-        </h2>
-        <div id="faqCollapse5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Yes, bikes can be wrapped securely and transported in the same container truck along with your household items.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading6">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse6">
-            6. How are shifting rates calculated?
-          </button>
-        </h2>
-        <div id="faqCollapse6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Rates depend on total volume of goods, packing quality, distance, floor level, and vehicle type required.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading7">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse7">
-            7. Do you provide unpacking assistance at destination?
-          </button>
-        </h2>
-        <div id="faqCollapse7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Yes, our unloading team in Singrauli helps unpack boxes and position heavy furniture items as per your preference.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading8">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse8">
-            8. Are there any hidden fees or extra toll charges?
-          </button>
-        </h2>
-        <div id="faqCollapse8" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            No, all fees including packing, loading, toll taxes, state permits, and unloading are clearly written in our contract.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading9">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse9">
-            9. How many days prior should I confirm the booking?
-          </button>
-        </h2>
-        <div id="faqCollapse9" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            We suggest booking 2 to 4 days in advance for smooth vehicle assignment and crew scheduling.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading10">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse10">
-            10. What payment options do you support?
-          </button>
-        </h2>
-        <div id="faqCollapse10" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            We accept UPI, online net banking, debit/credit cards, and cash payment.
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- FAQ Schema JSON-LD -->
+<!-- JSON-LD FAQ Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the distance and transit time from Patna to Singrauli?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The distance is approx 450 km, and transit time is typically 24 to 36 hours in enclosed container vehicles."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you serve Waidhan and NTPC townships in Singrauli?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide complete doorstep delivery across Waidhan, Vindhyanagar, NCL townships, and all surrounding Singrauli areas."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How are delicate items and glass items packed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Delicate items are packaged using multi-layer bubble wrap, foam, thermocol, corrugated boxes, and custom wooden crates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance compulsory for interstate shifting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While optional, we highly recommend taking transit insurance to cover your goods against unforeseen road risks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I move my bike along with my house luggage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, bikes can be wrapped securely and transported in the same container truck along with your household items."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How are shifting rates calculated?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rates depend on total volume of goods, packing quality, distance, floor level, and vehicle type required."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you provide unpacking assistance at destination?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, our unloading team in Singrauli helps unpack boxes and position heavy furniture items as per your preference."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there any hidden fees or extra toll charges?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, all fees including packing, loading, toll taxes, state permits, and unloading are clearly written in our contract."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many days prior should I confirm the booking?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We suggest booking 2 to 4 days in advance for smooth vehicle assignment and crew scheduling."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What payment options do you support?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We accept UPI, online net banking, debit/credit cards, and cash payment."
-      }
+    <?php 
+    $schema_items = [];
+    foreach ($faq_list as $item) {
+        $schema_items[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($item['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($item['a']) . '
+          }
+        }';
     }
+    echo implode(',', $schema_items);
+    ?>
   ]
 }
 </script>
 
-<script>
-function sendHeroWhatsAppLead(event) {
-  event.preventDefault();
-  const name = document.getElementById('heroName').value;
-  const phone = document.getElementById('heroPhone').value;
-  const service = document.getElementById('heroService').value;
-  const text = `Hello Shree Ashirwad Packers, I need a quotation for Patna to Singrauli relocation.%0A%0A*Name:* ${name}%0A*Phone:* ${phone}%0A*Service Required:* ${service}`;
-  window.open(`https://api.whatsapp.com/send?phone=919308888780&text=${text}`, '_blank');
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers",
+  "description": "Certified Packers and Movers from Patna to Singrauli offering 7-layer packaging, vehicle transport, and IBA-approved GST bills.",
+  "url": "<?php echo $canonical_url; ?>",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Singrauli, Madhya Pradesh",
+  "priceRange": "₹12000 - ₹33000"
 }
 </script>
 
-<?php include '../includes/footer.php'; ?>
+<main class="site-main">
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper">
+    <div class="container">
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/branches.php">Intercity Routes</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Patna to Singrauli</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hero Section with Lead Form -->
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
+        
+        <!-- Hero Text Column -->
+        <div class="hero-text">
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+            PATNA TO SINGRAULI RELOCATION SPECIALISTS
+          </span>
+          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Reliable <span style="color: #f59e0b;">Packers and Movers Patna to Singrauli</span>
+          </h1>
+          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Relocate seamlessly from Patna to Singrauli (Energy Capital of MP) with Shree Ashirwad Packers and Movers. Benefit from 7-layer safety packaging, weather-sealed container logistics, live GPS tracking, and complete transit insurance coverage across Waidhan, Vindhyanagar, Morwa, Jayant Colony, NTPC Township, and NCL Complex.
+          </p>
+
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Patna%20to%20Singrauli%20shifting." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
+            </a>
+          </div>
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transport</span>
+            <span><strong style="color: #f59e0b;">7-Layer</strong> Packing</span>
+            <span><strong style="color: #f59e0b;">Live GPS</strong> Tracking</span>
+          </div>
+        </div>
+
+        <!-- Hero Lead Form Column -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Patna to Singrauli Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Transparent pricing • Zero hidden fees • Fast callback</p>
+
+          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+              <input type="text" name="move_from" class="form-control" value="Patna" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" value="Singrauli" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4);">
+              Calculate Shifting Cost &rarr;
+            </button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Key Performance Highlights / Stats -->
+  <section style="padding: 50px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
+        
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">450 KM</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Patna to Singrauli Route</div>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #10b981; margin-bottom: 5px;">0%</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Damage Claim Ratio</div>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #3b82f6; margin-bottom: 5px;">24-36 Hrs</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Guaranteed Delivery</div>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #ec4899; margin-bottom: 5px;">100%</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Full Value Insurance Cover</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Detailed Route Overview & Highway Logistics -->
+  <section style="padding: 60px 0; background: #1e293b; color: #ffffff;">
+    <div class="container">
+      <div style="max-width: 900px; margin: 0 auto;">
+        <h2 style="font-size: 2.2rem; font-weight: 700; color: #ffffff; margin-bottom: 20px; text-align: center;">
+          Patna to Singrauli Highway Route & Logistics
+        </h2>
+        <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px; text-align: center;">
+          Transporting household goods ~450 km from Patna to Singrauli requires dedicated weather-sealed container trucks. Our fleets route via NH 19 through Aurangabad and Garhwa directly into Waidhan, NTPC townships, and NCL residential complexes.
+        </p>
+
+        <div style="background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(245, 158, 11, 0.2); border-radius: 12px; padding: 25px; margin-top: 30px;">
+          <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-route"></i> Route Overview</h3>
+          <ul style="list-style: none; padding: 0; margin: 0; color: #cbd5e1; line-height: 2;">
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Primary Corridor:</strong> Patna &rarr; Aurangabad &rarr; Dehri &rarr; Garhwa &rarr; Waidhan / Singrauli</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Total Distance:</strong> Approximately 450 Kilometers</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Expected Delivery:</strong> 24 to 36 Hours</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Vehicles Available:</strong> 17ft, 19ft, 22ft, and 32ft Sealed Container Trucks</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Specialized Services Grid -->
+  <section style="padding: 60px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 700; color: #ffffff; text-align: center; margin-bottom: 40px;">
+        Relocation Services for Patna to Singrauli
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px;">
+        
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-home"></i></div>
+          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Household Shifting</h3>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Expert packing and transport of furniture, beds, sofas, modular kitchens, and home appliances with complete setup upon arrival in Singrauli.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="font-size: 2rem; color: #10b981; margin-bottom: 15px;"><i class="fas fa-industry"></i></div>
+          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">NTPC & Power Plant Executive Moves</h3>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Specialized relocation for energy sector professionals, NTPC officers, and NCL engineers moving to Singrauli with IBA GST bills.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="font-size: 2rem; color: #3b82f6; margin-bottom: 15px;"><i class="fas fa-car"></i></div>
+          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Car Carrier Transport</h3>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Safe car shipping using enclosed hydraulic car trailers with door pickup in Patna and delivery in Singrauli.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="font-size: 2rem; color: #ec4899; margin-bottom: 15px;"><i class="fas fa-motorcycle"></i></div>
+          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Bike & Scooter Parcel</h3>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Triple-layer bubble and foam wrapping for motorcycles with secure stand locking to avoid scratches during transit.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Tariff Rates Table -->
+  <section style="padding: 60px 0; background: #1e293b; color: #ffffff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 700; color: #ffffff; text-align: center; margin-bottom: 15px;">
+        Patna to Singrauli Estimated Tariff Chart
+      </h2>
+      <p style="font-size: 1rem; color: #94a3b8; text-align: center; margin-bottom: 40px;">Standard intercity rates with zero hidden charges</p>
+
+      <div style="overflow-x: auto; max-width: 900px; margin: 0 auto;">
+        <table style="width: 100%; border-collapse: collapse; background: rgba(15, 23, 42, 0.8); border-radius: 12px; overflow: hidden;">
+          <thead>
+            <tr style="background: #f59e0b; color: #0f172a; text-align: left;">
+              <th style="padding: 16px 20px; font-weight: 700;">Move Type</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Packaging Level</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Estimated Rate Range</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 600;">1 BHK Flat Shifting</td>
+              <td style="padding: 16px 20px;">Standard 5-Layer Packaging</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹12,000 - ₹16,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 600;">2 BHK House Shifting</td>
+              <td style="padding: 16px 20px;">Premium 7-Layer Cushioning</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹16,500 - ₹23,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 600;">3 BHK House / Villa Shifting</td>
+              <td style="padding: 16px 20px;">Full Heavy Crate & Custom Box Packaging</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹23,500 - ₹33,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 600;">Car Transport (Enclosed Trailer)</td>
+              <td style="padding: 16px 20px;">Hydraulic Locking System</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹8,500 - ₹13,000</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 600;">Bike Shifting Service</td>
+              <td style="padding: 16px 20px;">Bubble + Cardboard Sheet Guard</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹3,500 - ₹5,800</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: 7-Layer Packaging System -->
+  <section style="padding: 60px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 700; color: #ffffff; text-align: center; margin-bottom: 40px;">
+        7-Layer Damage Protection Blueprint
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(245,158,11,0.2); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Layer 1: Polythene Film Wrap</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Prevents moisture and dirt build-up during long-haul transit.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(245,158,11,0.2); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Layer 2: 80-GSM Air Bubble</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Provides heavy shock absorption for wooden and glass surfaces.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(245,158,11,0.2); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Layer 3: Thermocol Cushion</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Adds rigid barrier protection around TVs, monitors, and appliances.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(245,158,11,0.2); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Layer 4: Corrugated Sheets</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Shields furniture sides and corners against impact bumps.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(245,158,11,0.2); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Layer 5: Corner Angle Guards</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Sturdy corner protectors for heavy tables, wardrobes, and cabinets.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(245,158,11,0.2); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Layer 6: Weatherproof Tarpaulin</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Outer rain, snow, and dust guard wrapping the entire cargo container.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(245,158,11,0.2); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Layer 7: Custom Wooden Crates</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Custom built timber crates for fragile marble tops, artwork, and glass.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Coverage Areas -->
+  <section style="padding: 60px 0; background: #1e293b; color: #ffffff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 700; color: #ffffff; text-align: center; margin-bottom: 30px;">
+        Local Doorstep Pickup & Delivery Areas
+      </h2>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+        
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; margin-bottom: 15px;"><i class="fas fa-map-marker-alt"></i> Patna Pickup Areas</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.8;">
+            Boring Road, Kankerbagh, Bailey Road, Patliputra Colony, Raja Bazar, Danapur, Anisabad, Rajendra Nagar, Saguna More, Ashiana Nagar, Exhibition Road, Digha, and Kumhrar.
+          </p>
+        </div>
+
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="color: #10b981; font-size: 1.2rem; margin-bottom: 15px;"><i class="fas fa-map-marker-alt"></i> Singrauli Delivery Areas</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.8;">
+            Waidhan, Vindhyanagar, Morwa, Jayant Colony, NTPC Township, and NCL Complex.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: FAQ Accordion -->
+  <section style="padding: 60px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 700; color: #ffffff; text-align: center; margin-bottom: 40px;">
+        Frequently Asked Questions
+      </h2>
+
+      <div style="max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 20px;">
+            <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px; font-weight: 600;">
+              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?>
+            </h3>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Call To Action Banner -->
+  <section style="padding: 50px 0; background: linear-gradient(135deg, #d32f2f 0%, #b71c1c 100%); color: #ffffff; text-align: center;">
+    <div class="container">
+      <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 15px;">Plan Your Patna to Singrauli Move Today!</h2>
+      <p style="font-size: 1.1rem; margin-bottom: 30px; opacity: 0.9;">Get a free survey and price estimate from our intercity relocation specialists.</p>
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 32px; background: #ffffff; color: #b71c1c; border-radius: 50px; font-weight: 800; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+          Call Now: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20book%20Patna%20to%20Singrauli%20shifting." target="_blank" style="padding: 14px 32px; background: #10b981; color: #ffffff; border-radius: 50px; font-weight: 800; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+          WhatsApp Inquiry
+        </a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Shifting Quote for Patna to Singrauli:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
+
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>

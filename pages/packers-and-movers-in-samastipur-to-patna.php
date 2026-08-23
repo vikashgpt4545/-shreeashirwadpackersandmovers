@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Packers and Movers Samastipur to Patna | 8409531615";
 $page_desc = "Hire certified packers and movers from Samastipur to Patna & Patna to Samastipur. Shree Ashirwad Packers and Movers offers secure household shifting, vehicle transport, intercity express moving, and IBA claim bills with zero hidden costs. Call (+91) 8409531615.";
 $page_keywords = "packers and movers in samastipur to patna, packers and movers patna to samastipur, movers and packers patna to samastipur, house shifting patna to samastipur, best packers and movers patna to samastipur, packers and movers service in patna, movers and packers in patna";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-samastipur-to-patna.php";
 
 $page_city = "Patna";
 
@@ -14,7 +15,10 @@ $faq_list = [
     ['q' => 'How do you protect delicate goods during highway transit?', 'a' => 'We wrap all glassware, electronics, and delicate decorative items in bubble wrap and foam cushioning sheets, packing them into heavy-duty corrugated cartons.'],
     ['q' => 'Are your GST bills valid for PSU, bank, and govt employee transfer claims?', 'a' => 'Yes, Shree Ashirwad Packers provides 100% genuine IBA-compliant GST invoices, LR copies, money receipts, and itemized inventory lists accepted by all govt departments, banks, and corporate firms.'],
     ['q' => 'How early should I book intercity shifting from Samastipur to Patna?', 'a' => 'Booking 1 to 2 days in advance helps us reserve optimal container vehicles and specialized packing crews for your preferred moving time.'],
-    ['q' => 'Do your movers handle furniture dismantling and reassembly in Samastipur and Patna?', 'a' => 'Yes, our expert carpenters dismantle double beds, wooden wardrobes, modular dining tables, and reassemble them neatly at your destination.']
+    ['q' => 'Do your movers handle furniture dismantling and reassembly in Samastipur and Patna?', 'a' => 'Yes, our expert carpenters dismantle double beds, wooden wardrobes, modular dining tables, and reassemble them neatly at your destination.'],
+    ['q' => 'Can you transport two-wheelers and cars from Samastipur to Patna?', 'a' => 'Yes, we provide specialized enclosed vehicle transport carriers with wheel clamps to transport bikes and cars safely without scratches.'],
+    ['q' => 'Do you offer office and commercial shifting from Samastipur to Patna?', 'a' => 'Yes, we handle complete corporate office relocations including computer setups, files, server racks, and office furniture.'],
+    ['q' => 'How can I request a free quote for Samastipur to Patna moving?', 'a' => 'You can call us directly at +91 8409531615 or submit the online form for an instant quotation via WhatsApp.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -26,7 +30,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Patna">Patna</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Patna">Patna</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active">Packers and Movers Samastipur to Patna</span>
       </div>
@@ -82,7 +86,7 @@ require_once __DIR__ . '/../includes/header.php';
         At <strong>Shree Ashirwad Packers and Movers</strong>, we operate with a dedicated team of loaders and packing specialists. We use high-quality bubble sheets, foam sheets, corrugated rolls, and stretch wraps to safeguard your electronics and furniture from transport friction.
       </p>
       <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        Whether you are planning moves with the <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Best Packers and Movers in Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">best packers and movers in Patna</a>, intercity household shifting, or need <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Room Shifting Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">room shifting</a> assistance, our team manages the complete process from our central Patna hub.
+        Whether you are planning moves with the <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Best Packers and Movers in Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">best packers and movers in Patna</a>, intercity household shifting, or need room shifting assistance, our team manages the complete process from our central Patna hub.
       </p>
 
       <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
@@ -157,14 +161,14 @@ require_once __DIR__ . '/../includes/header.php';
           Our transport network links all key district headquarters across Bihar. We maintain localized teams in neighboring zones to ensure quick dispatch and coordinate local clearances. If you are shifting to or from other cities, explore our detailed guides:
         </p>
         <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; font-size: 0.9rem; font-weight: 600;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-darbhanga-to-patna" title="Darbhanga to Patna Route" style="color: #f59e0b; text-decoration: underline;">Darbhanga to Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-muzaffarpur-to-patna" title="Muzaffarpur to Patna Route" style="color: #f59e0b; text-decoration: underline;">Muzaffarpur to Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-begusarai-to-patna" title="Begusarai to Patna Route" style="color: #f59e0b; text-decoration: underline;">Begusarai to Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-hajipur-patna" title="Hajipur Patna Route" style="color: #f59e0b; text-decoration: underline;">Hajipur Patna Route</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna-city" title="Patna City Shifting" style="color: #f59e0b; text-decoration: underline;">Patna City Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-kankarbagh-patna" title="Kankarbagh Shifting" style="color: #f59e0b; text-decoration: underline;">Kankarbagh Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Local Packers Patna" style="color: #f59e0b; text-decoration: underline;">Local Packers Patna</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-boring-road-patna" title="Boring Road Shifting" style="color: #f59e0b; text-decoration: underline;">Boring Road Shifting</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-darbhanga-to-patna.php" title="Darbhanga to Patna Route" style="color: #f59e0b; text-decoration: underline;">Darbhanga to Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-muzaffarpur-to-patna.php" title="Muzaffarpur to Patna Route" style="color: #f59e0b; text-decoration: underline;">Muzaffarpur to Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-begusarai-to-patna.php" title="Begusarai to Patna Route" style="color: #f59e0b; text-decoration: underline;">Begusarai to Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-hajipur-patna.php" title="Hajipur Patna Route" style="color: #f59e0b; text-decoration: underline;">Hajipur Patna Route</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna-sahib-patna.php" title="Patna City Shifting" style="color: #f59e0b; text-decoration: underline;">Patna City Shifting</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-kankarbagh-patna.php" title="Kankarbagh Shifting" style="color: #f59e0b; text-decoration: underline;">Kankarbagh Shifting</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Local Packers Patna" style="color: #f59e0b; text-decoration: underline;">Local Packers Patna</a>
+          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-boring-road-patna.php" title="Boring Road Shifting" style="color: #f59e0b; text-decoration: underline;">Boring Road Shifting</a>
         </div>
       </div>
     </div>
@@ -243,6 +247,48 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 </main>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_faqs = [];
+    foreach ($faq_list as $faq) {
+        $schema_faqs[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($faq['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($faq['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_faqs);
+    ?>
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Samastipur to Patna",
+  "description": "Top-rated packers and movers for intercity household shifting and corporate relocation between Samastipur and Patna.",
+  "url": "<?php echo $canonical_url; ?>",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Samastipur",
+    "addressRegion": "Bihar",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Samastipur to Patna, Bihar",
+  "priceRange": "₹3000 - ₹28000"
+}
+</script>
+
 <script>
 function sendHeroWhatsAppLead(event, form) {
   event.preventDefault();
@@ -253,7 +299,7 @@ function sendHeroWhatsAppLead(event, form) {
   var extraMsg = form.querySelector('[name="message"]').value;
   var message = "Hello Shree Ashirwad Packers & Movers,\n\nI need a Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
   if (extraMsg && extraMsg.trim() !== '') { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open("https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message), '_blank');
 }
 </script>
 

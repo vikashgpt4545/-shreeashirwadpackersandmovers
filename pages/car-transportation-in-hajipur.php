@@ -1,10 +1,55 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Transportation in Hajipur 8409531615";
-$page_desc = "Reliable car transportation in Hajipur. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in hajipur, best car transportation in hajipur, affordable car transportation in hajipur, packers and movers, packers and movers in ranchi, top car transportation in hajipur company, household shifting car transportation in hajipur, doorstep car transportation in hajipur, verified car transportation in hajipur services, shree ashirwad car transportation in hajipur";
+$page_title = "Car Transportation in Hajipur | Professional Car Carrier BR-31";
+$page_desc = "Reliable car transportation in Hajipur (BR-31 RTO), Bihar. Open & enclosed hydraulic car carriers, doorstep pick-up, and full transit insurance via Gandhi Setu & NH-22.";
+$page_keywords = "car transportation in hajipur, best car carrier hajipur, affordable car shipping hajipur, car movers hajipur, doorstep car delivery hajipur";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-hajipur.php";
+
+$page_city = "Hajipur, Bihar";
+
+$faq_list = [
+    [
+        'q' => 'How are cars safely transported to/from Hajipur (BR-31 RTO)?',
+        'a' => 'Vehicles are loaded via hydraulic ramps onto multi-car open trailers or single-car enclosed containers, secured with 4-point wheel tie-down belts and rubber tire stoppers.'
+    ],
+    [
+        'q' => 'What are the car transport rates from Hajipur to Patna, Muzaffarpur, or Delhi?',
+        'a' => 'Regional car transport across Mahatma Gandhi Setu to Patna or Muzaffarpur starts at ₹3,500–₹6,500, while long-distance transport to Delhi or Mumbai ranges from ₹9,500 to ₹19,500.'
+    ],
+    [
+        'q' => 'Which major transport highways serve Hajipur car shipping?',
+        'a' => 'Car carriers travel via NH-22 (Patna-Hajipur-Muzaffarpur highway), Mahatma Gandhi Setu bridge, Industrial Area Hajipur, and Chhapra Road.'
+    ],
+    [
+        'q' => 'Do you pick up cars directly from residences in Hajipur?',
+        'a' => 'Yes, free doorstep pickup is available across Ramashish Chowk, Industrial Area, Anjanpir Chowk, Dighi, Cinema Road, and Subhai.'
+    ],
+    [
+        'q' => 'Is transit insurance included during Hajipur car shipping?',
+        'a' => 'Yes, full-value transit insurance policies are arranged covering your car against highway damage, fire, or accidental loss during transit.'
+    ],
+    [
+        'q' => 'Can I store personal items inside the car trunk during transport?',
+        'a' => 'Up to 30–40 kg of non-hazardous household items can be packed in the car trunk, provided they are safely locked.'
+    ],
+    [
+        'q' => 'What documentation is required to ship a car from Hajipur?',
+        'a' => 'Required documents are original RC copy, active car insurance policy, owner Aadhaar card copy, and signed vehicle inspection sheet.'
+    ],
+    [
+        'q' => 'How long does car carrier delivery take from Hajipur?',
+        'a' => 'Intercity transit within Bihar takes 24–48 hours, while long-distance deliveries to Mumbai, Bengaluru, or Chennai take 4–6 days.'
+    ],
+    [
+        'q' => 'Do you provide IBA approved GST bills for corporate/govt car transport claim?',
+        'a' => 'Yes, 100% genuine IBA-compliant GST consignment invoices, car condition sheets, and payment receipts are supplied.'
+    ],
+    [
+        'q' => 'How can I book car carrier service in Hajipur?',
+        'a' => 'Call +91 8409531615 or submit your vehicle details on WhatsApp for instant quote generation and vehicle carrier slot reservation.'
+    ]
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -30,35 +75,35 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            CAR TRANSPORTATION HAJIPUR RELOCATION SPECIALISTS
+            CAR TRANSPORTATION HAJIPUR (BR-31 BIHAR)
           </span>
           <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Car Transportation in Hajipur</span>
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Reliable car transportation in Hajipur. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.
+            Shree Ashirwad Packers and Movers provides doorstep car carrier services across Hajipur (BR-31 RTO) via NH-22 and Mahatma Gandhi Setu bridge corridor. Featuring open-trailer and enclosed car container shipping, hydraulic ramp loading, 4-point wheel locks, and 100% IBA-compliant GST billing.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20car%20transport%20quote%20for%20Hajipur." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
             <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">Hydraulic Ramp</strong> Loading</span>
+            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Pick & Drop</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Hajipur Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Hajipur Car Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
@@ -69,10 +114,10 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
               <input type="text" name="move_from" class="form-control" value="Hajipur" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
+              Get Instant Car Estimate &rarr;
             </button>
           </form>
         </div>
@@ -81,8 +126,137 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Service & Rate Matrix Section -->
+  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
+    <div class="container" style="max-width: 1000px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">
+        HAJIPUR VEHICLE LOGISTICS
+      </span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Doorstep Car Carrier Shipping in <span style="color: #f59e0b;">Hajipur</span>
+      </h2>
+      
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">
+        Shree Ashirwad Packers and Movers provides safe car transportation across Ramashish Chowk, Industrial Area, Anjanpir Chowk, Dighi, Cinema Road, and Subhai in Hajipur. We utilize open multi-car trailers and single-car enclosed hydraulic containers equipped with 4-point wheel tie-down safety locks.
+      </p>
+
+      <!-- Rate Matrix Table -->
+      <div style="overflow-x: auto; margin: 40px 0;">
+        <h3 style="font-size: 1.5rem; color: #ffffff; font-weight: 700; margin-bottom: 15px;">
+          Estimated Car Carrier Rates for Hajipur
+        </h3>
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <thead>
+            <tr style="background: #1e3a8a; color: #f59e0b; text-align: left;">
+              <th style="padding: 14px 16px;">Vehicle Category</th>
+              <th style="padding: 14px 16px;">Regional Transit (Patna / Muzaffarpur / Chapra)</th>
+              <th style="padding: 14px 16px;">Interstate Metros (Delhi / Mumbai / Bengaluru)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Hatchback (Alto, Swift, WagonR)</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹4,200 - ₹6,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹9,500 - ₹14,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Sedan (Dzire, City, Verna)</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹5,200 - ₹7,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹11,500 - ₹17,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">SUV / MUV (Creta, Fortuner, Innova)</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹6,500 - ₹9,200</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹13,500 - ₹21,000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FAQ Section with Schema Support -->
+  <section class="faq-section" style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions (Car Transport Hajipur)</h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 15px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="background: #101c40; padding: 20px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h4 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">
+              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?>
+            </h4>
+            <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
 
 </main>
+
+<!-- Inline JSON-LD Structured Data Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_faqs = [];
+    foreach ($faq_list as $faq) {
+        $schema_faqs[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($faq['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($faq['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_faqs);
+    ?>
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers",
+  "description": "Professional car transportation in Hajipur, Bihar with doorstep pickup and transit insurance.",
+  "url": "<?php echo $canonical_url; ?>",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Hajipur",
+    "addressRegion": "Bihar",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Hajipur, Bihar",
+  "priceRange": "₹4200 - ₹21000"
+}
+</script>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Car Transport Quote for Hajipur:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

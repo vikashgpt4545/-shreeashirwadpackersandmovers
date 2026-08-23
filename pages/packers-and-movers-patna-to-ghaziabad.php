@@ -463,6 +463,34 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Ghaziabad",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-ghaziabad.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹12000 - ₹40000",
+  "description": "Certified packers and movers from Patna to Ghaziabad. 7-layer protective packaging, car/bike carrier, and IBA-approved GST bills.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Ghaziabad",
+    "Bihar",
+    "Uttar Pradesh"
+  ]
+}
+</script>
+
 <script>
 function sendHeroWhatsAppLead(event, form) {
   event.preventDefault();

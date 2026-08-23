@@ -76,6 +76,53 @@ require_once __DIR__ . '/../includes/header.php';
 }
 </script>
 
+<!-- JSON-LD MovingCompany Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Kullu",
+  "image": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "@id": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-kullu.php#movingcompany",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-kullu.php",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹14,800 - ₹38,800",
+  "description": "Certified packers and movers from Patna to Kullu offering 7-layer packaging, mountain container logistics, vehicle transport, live GPS tracking, and complete transit insurance.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Boring Road",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.6093,
+    "longitude": 85.1235
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Patna"
+    },
+    {
+      "@type": "City",
+      "name": "Kullu"
+    }
+  ],
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.6093,
+      "longitude": 85.1235
+    },
+    "geoRadius": "1400000"
+  }
+}
+</script>
+
 <main class="site-main">
 
   <!-- Visual Breadcrumb Navigation Bar -->
@@ -395,5 +442,20 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
 </main>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Shifting Quote for Patna to Kullu:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

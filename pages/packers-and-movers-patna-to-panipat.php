@@ -2,46 +2,46 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Patna to Panipat | Intercity Relocation";
-$page_desc = "Hire certified Packers and Movers from Patna to Panipat. Shree Ashirwad Packers and Movers provides 7-layer safety packaging, enclosed container trucks, GPS tracking, and doorstep delivery across Model Town, Sector 11 & 12, GT Road, and Industrial Area.";
+$page_desc = "Hire certified Packers and Movers from Patna to Panipat. Shree Ashirwad Packers and Movers provides 7-layer safety packaging, enclosed container trucks, GPS tracking, and doorstep delivery across GT Road, Model Town, Sector 11, Sector 12, Sector 18, and Industrial Area.";
 $page_keywords = "packers and movers patna to panipat, patna to panipat household shifting, patna to panipat car transport, packers and movers patna to haryana, shree ashirwad packers patna to panipat";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-panipat.php";
 
 $faq_list = [
     [
         "q" => "What is the estimated cost of house shifting from Patna to Panipat?",
-        "a" => "Interstate shifting charges from Patna to Panipat start at ₹12,000 for 1 BHK flats, ₹18,500 for 2 BHK houses, and ₹24,500 for 3 BHK apartments depending on consignment volume and packing options."
+        "a" => "Interstate shifting charges from Patna to Panipat start at ₹13,000 for 1 BHK flats, ₹18,000 for 2 BHK houses, and ₹25,000 for 3 BHK family homes depending on consignment volume and vehicle container size."
     ],
     [
         "q" => "How long does household consignment delivery take from Patna to Panipat?",
-        "a" => "Delivery typically takes 3 to 4 days via NH 19 and NH 44 using sealed container vehicles."
+        "a" => "Delivery typically takes 3 to 4 days via NH 19 and the Eastern Peripheral Expressway directly connecting to NH 44."
     ],
     [
         "q" => "Do you offer doorstep pickup in Patna and unloading in Panipat?",
-        "a" => "Yes, we handle complete doorstep pickup across Patna (Boring Road, Kankerbagh, Bailey Road) and unloading/unpacking in Panipat (Model Town, Sector 11 & 12, GT Road, Samalkha, Industrial Area Phase 1 & 2)."
+        "a" => "Yes, we handle complete doorstep pickup across Patna (Boring Road, Kankerbagh, Bailey Road) and unloading/unpacking in Panipat (GT Road, Model Town, Sector 11, Sector 12, Sector 18, Industrial Area, and Samalkha)."
     ],
     [
         "q" => "What highway route is taken for Patna to Panipat relocation?",
-        "a" => "Consignments travel along Patna -> Varanasi -> Kanpur -> Delhi Bypass -> Sonipat -> Panipat highway corridor."
+        "a" => "Consignments travel along Patna -> Varanasi -> Kanpur -> Agra -> Greater Noida (EPE Bypass) -> Panipat highway corridor."
     ],
     [
         "q" => "Is vehicle transportation (car & bike) included in Patna to Panipat services?",
-        "a" => "Yes, we utilize specialized enclosed hydraulic vehicle carriers for safe car transport and multi-layer wrapped bike parcels."
+        "a" => "Yes, we utilize specialized enclosed hydraulic vehicle carriers for safe car shipping and triple-layer bubble wrapped motorcycle parcel transit."
     ],
     [
         "q" => "What transit insurance protection is available for Panipat relocation?",
-        "a" => "We provide comprehensive 100% full-value transit insurance protecting your goods against damage, fire, pilferage, and transit accidents."
+        "a" => "We provide comprehensive 100% full-value transit insurance protecting your household goods against damage, weather hazards, and highway risks."
     ],
     [
-        "q" => "What packing materials are used for fragile electronic items and furniture?",
-        "a" => "We utilize a 7-layer safety wrapping process featuring air bubble wrap, thermocol sheets, corrugated cardboard, stretch wrap, edge corner guards, and custom wooden crates."
+        "q" => "What packing materials are used for long-distance transit to Haryana?",
+        "a" => "We utilize an upgraded 7-layer safety wrapping process featuring air bubble wrap, thermocol sheets, corrugated cardboard, stretch film, edge corner guards, and heavy wooden crates."
     ],
     [
         "q" => "Can I track my consignment truck location live during transit?",
-        "a" => "Yes, all intercity transport containers are equipped with real-time GPS tracking for continuous location updates."
+        "a" => "Yes, all intercity transport container trucks are equipped with real-time GPS tracking for continuous location updates."
     ],
     [
-        "q" => "Are there extra hidden fees added for toll taxes or loading/unloading?",
-        "a" => "No, our written estimates are all-inclusive, covering packing materials, labor, fuel, toll taxes, state permits, and final unpacking."
+        "q" => "Are there extra hidden fees added for state border permits or toll taxes?",
+        "a" => "No, our written estimates are all-inclusive, covering packing materials, labor, highway permits, toll taxes, fuel, and final unpacking."
     ],
     [
         "q" => "How do I schedule a free pre-move survey for Patna to Panipat shifting?",
@@ -105,7 +105,7 @@ require_once __DIR__ . '/../includes/header.php';
             Reliable <span style="color: #f59e0b;">Packers and Movers Patna to Panipat</span>
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Relocate seamlessly from Patna to Panipat with Shree Ashirwad Packers and Movers. Benefit from 7-layer safety packaging, dedicated container logistics, live GPS tracking, and complete transit insurance coverage across Model Town, Sector 11 & 12, GT Road, and Industrial Area.
+            Relocate seamlessly from Patna to Panipat, Haryana with Shree Ashirwad Packers and Movers. Benefit from 7-layer safety packaging, express container logistics, live GPS tracking, and complete transit insurance coverage across GT Road, Model Town, Sector 11, Sector 12, Sector 18, and Industrial Area.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -156,8 +156,8 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
         
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">920+</div>
-          <div style="font-size: 0.95rem; color: #94a3b8;">Patna to Panipat Moves</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">1,090 KM</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Patna to Panipat Route</div>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
@@ -166,13 +166,13 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #3b82f6; margin-bottom: 5px;">72 Hrs</div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #3b82f6; margin-bottom: 5px;">3-4 Days</div>
           <div style="font-size: 0.95rem; color: #94a3b8;">Guaranteed Delivery</div>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 12px;">
           <div style="font-size: 2.2rem; font-weight: 800; color: #ec4899; margin-bottom: 5px;">100%</div>
-          <div style="font-size: 0.95rem; color: #94a3b8;">Comprehensive Transit Cover</div>
+          <div style="font-size: 0.95rem; color: #94a3b8;">Full Value Insurance Cover</div>
         </div>
 
       </div>
@@ -187,15 +187,15 @@ require_once __DIR__ . '/../includes/header.php';
           Patna to Panipat Interstate Highway Route & Logistics
         </h2>
         <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px; text-align: center;">
-          Moving household goods and commercial textiles ~1,120 km from Patna to Panipat requires dedicated long-distance container trucks. Our fleets route via NH 19 and NH 44 through Varanasi, Kanpur, Delhi Bypass, and Sonipat directly into Panipat.
+          Transporting household goods ~1,090 km from Patna to Panipat requires dedicated container trucks. Our fleets route via NH 19 and Eastern Peripheral Expressway through Varanasi, Kanpur, and Agra directly into Panipat.
         </p>
 
         <div style="background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(245, 158, 11, 0.2); border-radius: 12px; padding: 25px; margin-top: 30px;">
           <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-route"></i> Route Overview</h3>
           <ul style="list-style: none; padding: 0; margin: 0; color: #cbd5e1; line-height: 2;">
-            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Primary Corridor:</strong> Patna &rarr; Varanasi &rarr; Kanpur &rarr; Delhi Bypass &rarr; Sonipat &rarr; Panipat</li>
-            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Total Distance:</strong> Approximately 1,120 Kilometers</li>
-            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Expected Delivery:</strong> 3 to 4 Days (Dedicated Container Fleet)</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Primary Corridor:</strong> Patna &rarr; Varanasi &rarr; Kanpur &rarr; Agra &rarr; EPE Bypass &rarr; Panipat</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Total Distance:</strong> Approximately 1,090 Kilometers</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Expected Delivery:</strong> 3 to 4 Days (Express Expressway Logistics)</li>
             <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> <strong>Vehicles Available:</strong> 17ft, 19ft, 22ft, and 32ft Sealed Container Trucks</li>
           </ul>
         </div>
@@ -215,7 +215,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
           <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-home"></i></div>
           <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Household Shifting</h3>
-          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Expert packing and transport of furniture, beds, sofas, modular kitchens, and home appliances with complete setup upon arrival.</p>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Expert packing and transport of furniture, beds, sofas, modular kitchens, and home appliances with complete setup upon arrival in Panipat.</p>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
@@ -227,13 +227,13 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
           <div style="font-size: 2rem; color: #3b82f6; margin-bottom: 15px;"><i class="fas fa-motorcycle"></i></div>
           <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Bike & Scooter Parcel</h3>
-          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Triple-layer bubble and foam wrapping for two-wheelers with secure stand locking to avoid scratches during long transit.</p>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Triple-layer bubble and foam wrapping for two-wheelers with secure stand locking to avoid scratches during transit.</p>
         </div>
 
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
-          <div style="font-size: 2rem; color: #ec4899; margin-bottom: 15px;"><i class="fas fa-boxes"></i></div>
-          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Textile & Commercial Logistics</h3>
-          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Specialized cargo transport for handloom units, textile raw materials, and commercial inventory between Patna and Panipat hubs.</p>
+          <div style="font-size: 2rem; color: #ec4899; margin-bottom: 15px;"><i class="fas fa-industry"></i></div>
+          <h3 style="font-size: 1.3rem; color: #ffffff; margin-bottom: 10px;">Textile & Refinery Shifting</h3>
+          <p style="color: #94a3b8; line-height: 1.6; font-size: 0.95rem;">Specialized relocation for textile businessmen, IOCL refinery engineers, and corporate staff moving to Panipat.</p>
         </div>
 
       </div>
@@ -261,27 +261,27 @@ require_once __DIR__ . '/../includes/header.php';
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">1 BHK Flat Shifting</td>
               <td style="padding: 16px 20px;">Standard 5-Layer Packaging</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹12,000 - ₹16,500</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹13,000 - ₹17,500</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">2 BHK House Shifting</td>
               <td style="padding: 16px 20px;">Premium 7-Layer Cushioning</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹18,500 - ₹24,500</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹18,000 - ₹25,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">3 BHK House / Villa Shifting</td>
               <td style="padding: 16px 20px;">Full Heavy Crate & Custom Box Packaging</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹24,500 - ₹34,000</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹25,000 - ₹34,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 600;">Car Transport (Enclosed Trailer)</td>
               <td style="padding: 16px 20px;">Hydraulic Locking System</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹9,800 - ₹15,200</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹11,000 - ₹15,500</td>
             </tr>
             <tr>
               <td style="padding: 16px 20px; font-weight: 600;">Bike Shifting Service</td>
               <td style="padding: 16px 20px;">Bubble + Cardboard Sheet Guard</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹4,200 - ₹7,000</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 700;">₹4,500 - ₹7,000</td>
             </tr>
           </tbody>
         </table>
@@ -348,7 +348,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: rgba(15, 23, 42, 0.6); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
           <h3 style="color: #10b981; font-size: 1.2rem; margin-bottom: 15px;"><i class="fas fa-map-marker-alt"></i> Panipat Delivery Areas</h3>
           <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.8;">
-            Model Town, Sector 11 & 12, GT Road, Samalkha, Industrial Area Phase 1 & 2, Assandh Road, Sukhdev Nagar, and Tehsil Camp.
+            GT Road, Model Town, Sector 11, Sector 12, Sector 18, Industrial Area, Samalkha, Tehsil Camp, and Sanoli Road.
           </p>
         </div>
 
@@ -395,5 +395,20 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
 </main>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Shifting Quote for Patna to Panipat:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

@@ -1,248 +1,411 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Marufganj Patna | 8409531615";
-$page_desc = "Hire certified packers and movers in Marufganj Patna. Shree Ashirwad Packers and Movers offers secure household shifting, wholesale market commercial relocations, room moving, Patna City transport, and IBA claim bills with zero hidden costs. Call (+91) 8409531615.";
-$page_keywords = "packers and movers in marufganj patna, packers and movers marufganj patna, movers and packers in patna marufganj, house shifting in marufganj patna, best packers and movers in marufganj patna, packers and movers service in patna, movers and packers in patna";
+$page_title = "Packers and Movers in Marufganj Patna | Safe Local & Interstate Relocation";
+$page_desc = "Hire top-rated packers and movers in Marufganj, Patna. Safe household shifting, wholesale market commercial moving, and vehicle transport with IBA GST bills.";
+$page_keywords = "packers and movers in marufganj patna, best packers and movers marufganj, movers and packers marufganj patna, local shifting marufganj, house shifting services marufganj patna";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-marufganj-patna.php";
 
-$page_city = "Patna";
+$page_city = "Marufganj, Patna, Bihar";
 
 $faq_list = [
-    ['q' => 'Do you provide same-day household shifting in Marufganj, Patna?', 'a' => 'Yes, local shifting within Marufganj or to nearby locations like Patna City, Mansoorganj, Agamkuan, and Bypass Road is fully completed in a single day, including complete packing, transit, loading, and unpacking.'],
-    ['q' => 'What are the packers and movers charges in Marufganj Patna?', 'a' => 'Relocation charges are completely dynamic and calculated depending on the volume of goods, type of packing material, floor levels, lift availability, and exact distance. Please request a free video survey for a detailed customized quote.'],
-    ['q' => 'How do you protect delicate goods during transit in Marufganj?', 'a' => 'We wrap all glassware, electronics, and delicate decorative items in bubble wrap and foam cushioning sheets, packing them into heavy-duty corrugated cartons.'],
-    ['q' => 'Do you offer commercial and wholesale shop shifting services in Marufganj?', 'a' => 'Yes, we provide specialized commercial, warehouse, and wholesale market relocation services including secure packaging for inventory, heavy hardware, office files, and racks.'],
-    ['q' => 'Are your GST bills valid for PSU, bank, and govt employee transfer claims?', 'a' => 'Yes, Shree Ashirwad Packers provides 100% genuine IBA-compliant GST invoices, LR copies, money receipts, and itemized inventory lists accepted by all govt departments, banks, and corporate firms.'],
-    ['q' => 'How early should I book shifting in Marufganj Patna?', 'a' => 'Booking 1 to 2 days in advance helps us reserve optimal container vehicles and specialized packing crews for your preferred moving time.'],
-    ['q' => 'Do your movers handle furniture dismantling and reassembly in Marufganj?', 'a' => 'Yes, our expert carpenters dismantle double beds, wooden wardrobes, modular dining tables, and reassemble them neatly at your new location.']
+    [
+        'q' => 'What are the shifting rates for home relocation in Marufganj, Patna?',
+        'a' => 'Local 1BHK/2BHK household shifting in Marufganj ranges from ₹3,500 to ₹8,000, while 3BHK/large house relocation costs ₹8,500 to ₹15,000 based on cargo volume.'
+    ],
+    [
+        'q' => 'Which areas around Marufganj and Patna City do you service?',
+        'a' => 'We cover Marufganj bazaar, Patna City, Mansoorganj, Agamkuan, Gulzarbagh, and surrounding areas.'
+    ],
+    [
+        'q' => 'Do you provide IBA approved GST bills for official claims?',
+        'a' => 'Yes, 100% genuine IBA-compliant GST invoices, consignment notes (LR), and itemized packing lists are provided.'
+    ],
+    [
+        'q' => 'How do you handle shifting in congested wholesale market lanes of Marufganj?',
+        'a' => 'We schedule early morning or specialized loading slots using small feeder vehicles to navigate narrow market lanes efficiently.'
+    ],
+    [
+        'q' => 'What packing materials are used for long-distance transport from Marufganj?',
+        'a' => 'We use multi-layer bubble wrap, heavy 5-layer corrugated boxes, corrugated sheets, edge protectors, and waterproof stretch wraps.'
+    ],
+    [
+        'q' => 'Is vehicle transport (bike/car) available from Marufganj Patna?',
+        'a' => 'Yes, door-to-door two-wheeler and four-wheeler transport in specialized car trailers and closed container trucks.'
+    ],
+    [
+        'q' => 'How early should I book shifting services in Marufganj?',
+        'a' => 'We recommend booking 2 to 4 days in advance, though same-day emergency local shifting can also be scheduled.'
+    ],
+    [
+        'q' => 'Do you provide transit insurance for household goods from Marufganj?',
+        'a' => 'Yes, full 1.5% transit risk insurance coverage is available to protect your items against any unforeseen event.'
+    ],
+    [
+        'q' => 'Are packing and unloading included in the quotation?',
+        'a' => 'Yes, our quotes are all-inclusive covering packing, loading, highway transit, unloading, and basic unpacking.'
+    ],
+    [
+        'q' => 'How can I book Packers and Movers in Marufganj Patna?',
+        'a' => 'Call +91 8409531615 or submit your shifting details on WhatsApp for an immediate free estimate.'
+    ]
 ];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
+
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Patna">Patna</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/packers-and-movers-in-patna.php" title="Packers and Movers Patna">Patna</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active">Packers and Movers in Marufganj Patna</span>
+        <span class="breadcrumb-item active">Marufganj</span>
       </div>
     </div>
   </div>
 
+  <!-- 2. Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
+        
+        <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            Marufganj Relocations Specialist
+            PACKERS AND MOVERS MARUFGANJ PATNA
           </span>
-          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Trusted <span style="color: #f59e0b;">Packers and Movers in Marufganj Patna</span>
+          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Professional <span style="color: #f59e0b;">Packers and Movers in Marufganj Patna</span>
           </h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers provides certified household shifting, commercial relocation, room moving, and bike transport in Marufganj Patna. 7-layer protective packaging, zero hidden fees, and 100% IBA GST claim bills.
+          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Shree Ashirwad Packers and Movers provides certified household shifting, commercial wholesale market moving, and vehicle transport in Marufganj, Patna. 100% IBA-approved GST invoices & insured transport.
           </p>
+
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20in%20Marufganj%20Patna." title="WhatsApp Chat" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;"><i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote</a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote%20for%20Marufganj%20Patna." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+            </a>
+          </div>
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
+            <span><strong style="color: #f59e0b;">100% Safe</strong> Packing</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> GST Bill</span>
+            <span><strong style="color: #f59e0b;">Patna City</strong> Fleet</span>
           </div>
         </div>
 
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
+        <!-- Hero Lead Form Column -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
           <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Marufganj Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp</p>
+
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;"><input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="margin-bottom: 14px;"><input type="tel" name="phone" class="form-control" placeholder="Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
               <input type="text" name="move_from" class="form-control" value="Marufganj, Patna" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Destination City/Area" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div style="margin-bottom: 16px;"><textarea name="message" class="form-control" rows="2" placeholder="Items List / Shifting Details" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea></div>
-            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; border-radius: 8px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); border: none; color: #000;">Get Free Instant Quote</button>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
+              Get Instant Shifting Estimate &rarr;
+            </button>
           </form>
         </div>
+
       </div>
     </div>
   </section>
 
-  <!-- Detailed Overview -->
-  <section style="padding: 70px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
-    <div class="container" style="max-width: 950px;">
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem;">Local Shifting Experts</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">Get Certified Shifting Services in <span style="color: #f59e0b;">Marufganj Patna</span></h2>
+  <!-- 3. Key Stats Counter Bar -->
+  <section style="background: #172a54; padding: 30px 0; border-top: 1px solid rgba(255,255,255,0.1); border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center; color: #ffffff;">
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">15,000+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">Shifting Jobs Completed</div>
+        </div>
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100%</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">Safe Delivery Record</div>
+        </div>
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">IBA</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">Approved Bills & Claims</div>
+        </div>
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">24/7</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">Customer Support</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Detailed Service & Rate Matrix Section -->
+  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
+    <div class="container" style="max-width: 1000px;">
       
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        Relocating near Marufganj requires careful logistical management due to heavy commercial wholesale market traffic, narrow trading lanes, and strict loading window restrictions. Safe handling of household items, heavy wardrobes, and delicate glass setups needs experienced professionals. Hiring dedicated <strong>packers and movers in Marufganj Patna</strong> ensures your relocation is managed systematically and damage-free.
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">
+        MARUFGANJ LOGISTICS HUB
+      </span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Doorstep House & Commercial Relocation in <span style="color: #f59e0b;">Marufganj, Patna</span>
+      </h2>
+      
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">
+        As one of Eastern India's primary wholesale commercial markets in Patna City, Marufganj demands specialized logistics planning due to high traffic density and tight loading windows. Shree Ashirwad Packers and Movers provides seamless local shifting across Patna as well as interstate relocation across India.
       </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        At <strong>Shree Ashirwad Packers and Movers</strong>, we operate with a dedicated team of loaders and packing specialists. We use high-quality bubble sheets, foam sheets, corrugated rolls, and stretch wraps to safeguard your electronics and furniture from transport friction.
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">
-        Whether you are planning moves with the <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Best Packers and Movers in Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">best packers and movers in Patna</a>, local household shifting, or need <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Room Shifting Patna" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">room shifting</a> assistance, our team manages the complete process from our central Patna hub.
-      </p>
 
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 35px 0;">
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-home"></i> Local Household Shifting</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Complete 1/2/3 BHK flat relocation across Marufganj sectors with zero damage.</p>
-        </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-shield-alt"></i> IBA Compliant Bills</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Official GST invoices and LR copies for employee transfer claim reimbursement.</p>
-        </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-box"></i> 7-Layer Packaging</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Air bubble rolls, corrugated sheets, stretch wrap, and wooden crates.</p>
-        </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;">🛵 Bike Carrier Service</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Enclosed multi-layer bubble wrapped motorcycle shipping to any city.</p>
-        </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-building"></i> Commercial Office Move</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Corporate IT desks, server racks, files, and office furniture transport.</p>
-        </div>
-        <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700;"><i class="fas fa-user-cog"></i> Dismantling & Assembly</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; margin-top: 8px;">Expert carpenters for dismantling beds & reassembling furniture at destination.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Step-by-Step Shifting Methodology -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <div class="section-header text-center" style="margin-bottom: 45px;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Our Methodology</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">Step-by-Step Shifting Process in Marufganj</h2>
-        <p style="color: #cbd5e1; margin-top: 10px;">How we execute damage-free relocations for residences and offices in Marufganj, Patna.</p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">01</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Pre-Move Assessment</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">We perform a thorough evaluation of all household assets via video survey or physical visit to estimate packing requirements.</p>
-        </div>
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">02</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Multi-Layer Packaging</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Delicate glassware, heavy wardrobes, beds, and electronics are wrapped in high-density bubble sheets, cartons, and stretch film.</p>
-        </div>
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">03</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Safe Loading & Transit</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Using specialized loading equipment, we secure goods inside closed container trucks to eliminate friction during transit.</p>
-        </div>
-        <div style="background: #101c40; padding: 24px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <span style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; display: block; margin-bottom: 10px;">04</span>
-          <h3 style="font-size: 1.1rem; color: #ffffff; margin-bottom: 8px; font-weight: 700;">Unpacking & Assembly</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">At your new location, we lift, unload, unpack, and reassemble heavy furniture modular pieces according to your layout preferences.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Local Interlinking Network -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <div style="background: linear-gradient(135deg, #172a54 0%, #101c40 100%); border-radius: 20px; padding: 35px; border: 1px solid rgba(245, 158, 11, 0.3);">
-        <h3 style="font-size: 1.8rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Aggressive Local Relocation Network across Patna</h3>
-        <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-          Our transport network links all key residential sectors across Patna. We maintain localized teams in neighboring zones to ensure quick dispatch and coordinate local clearances. If you are shifting to or from other areas, explore our detailed guides:
-        </p>
-        <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; font-size: 0.9rem; font-weight: 600;">
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna-city" title="Patna City Shifting" style="color: #f59e0b; text-decoration: underline;">Patna City Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-agamkuan-patna" title="Agamkuan Shifting" style="color: #f59e0b; text-decoration: underline;">Agamkuan Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-gulzarbagh-patna" title="Gulzarbagh Shifting" style="color: #f59e0b; text-decoration: underline;">Gulzarbagh Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bypass-road-patna" title="Bypass Road Shifting" style="color: #f59e0b; text-decoration: underline;">Bypass Road Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-kankarbagh-patna" title="Kankarbagh Shifting" style="color: #f59e0b; text-decoration: underline;">Kankarbagh Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-boring-road-patna" title="Boring Road Shifting" style="color: #f59e0b; text-decoration: underline;">Boring Road Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bailey-road-patna" title="Bailey Road Shifting" style="color: #f59e0b; text-decoration: underline;">Bailey Road Shifting</a>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Local Packers Patna" style="color: #f59e0b; text-decoration: underline;">Local Packers Patna</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Locality Specific Logistics Infrastructure -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);">
-    <div class="container" style="max-width: 950px;">
-      <h3 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px;">
-        Marufganj Shifting Challenges & Solutions
-      </h3>
-      <div style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8;">
-        <p style="margin-bottom: 16px;">
-          Marufganj is one of Eastern India's major historical grain and commercial trading markets in Patna City. Transporting residential or business goods here requires navigating extremely congested narrow bazaars and strict commercial vehicle timings. Our local transport dispatchers schedule early morning or late evening loading slots.
-        </p>
-        <p style="margin-bottom: 16px;">
-          Moreover, multi-story buildings along Marufganj often have restricted elevator dimensions. Moving large items like double door refrigerators, heavy wooden wardrobes, and king-size beds requires specialized loading strategies. Our handlers use premium hoisting ropes and safety nets to lift heavy cargo safely through balconies or staircases when lift space is limited.
-        </p>
-        <p style="margin-bottom: 0;">
-          If you are planning to relocate, review our customized <a href="<?php echo SITE_URL; ?>services" title="Relocation Services" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">relocation services</a> plans, read more <a href="<?php echo SITE_URL; ?>about" title="About Us" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">About Shree Ashirwad Packers and Movers</a>, or visit our <a href="<?php echo SITE_URL; ?>contact" title="Contact Us" style="color: #f59e0b; text-decoration: underline; font-weight: 600;">Contact us</a> page to secure your shifting date with Bihar's leading logistics provider.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- Rate Table Section -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px;">Estimated Marufganj Shifting Rates</h2>
-      <div style="overflow-x: auto; margin-top: 20px;">
-        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
+      <!-- Rate Matrix Table -->
+      <div style="overflow-x: auto; margin: 40px 0;">
+        <h3 style="font-size: 1.5rem; color: #ffffff; font-weight: 700; margin-bottom: 15px;">
+          Estimated Relocation Rates for Marufganj, Patna
+        </h3>
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
           <thead>
-            <tr style="background: #1c2541; color: #f59e0b;">
-              <th style="padding: 14px; text-align: left;">Shifting Type</th>
-              <th style="padding: 14px; text-align: left;">Packaging Material</th>
-              <th style="padding: 14px; text-align: left;">Transit Duration</th>
-              <th style="padding: 14px; text-align: left;">Estimated Charges (&#8377;)</th>
+            <tr style="background: #1e3a8a; color: #f59e0b; text-align: left;">
+              <th style="padding: 14px 16px;">Shifting Size</th>
+              <th style="padding: 14px 16px;">Local Within Patna (Marufganj)</th>
+              <th style="padding: 14px 16px;">Interstate Move (Patna to Other Cities)</th>
             </tr>
           </thead>
-          <tbody style="color: #cbd5e1; font-size: 0.95rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">1 BHK Flat Local Shifting</td><td style="padding: 14px;">3-Layer Bubble Wrap</td><td style="padding: 14px;">4 - 6 Hours</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;3,500 - &#8377;6,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">2 BHK House Shifting</td><td style="padding: 14px;">5-Layer Heavy Duty</td><td style="padding: 14px;">6 - 8 Hours</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;5,500 - &#8377;9,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">3 BHK Villa / House</td><td style="padding: 14px;">7-Layer + Wood Crating</td><td style="padding: 14px;">Same Day Complete</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;8,500 - &#8377;14,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 14px; font-weight: 700; color: #fff;">Single Room / Student Shifting</td><td style="padding: 14px;">Standard Cartons</td><td style="padding: 14px;">2 - 4 Hours</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;2,500 - &#8377;4,500</td></tr>
-            <tr><td style="padding: 14px; font-weight: 700; color: #fff;">Local Office & Commercial</td><td style="padding: 14px;">Heavy Electronics Wrap</td><td style="padding: 14px;">Custom Schedule</td><td style="padding: 14px; color: #f59e0b; font-weight: 700;">&#8377;7,000 - &#8377;18,000</td></tr>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">1 BHK Apartment / Small House</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹3,500 - ₹5,000</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹9,500 - ₹16,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">2 BHK House / Flat</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹5,500 - ₹8,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹14,000 - ₹23,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">3 BHK Independent House / Villa</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹8,500 - ₹14,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹20,000 - ₹34,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Two-Wheeler / Bike Transport</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹1,500 - ₹2,500</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹3,800 - ₹7,000</td>
+            </tr>
           </tbody>
         </table>
       </div>
+
     </div>
   </section>
 
-  <!-- FAQ Section -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      <h2 style="font-size: 2.2rem; font-weight: 800; text-align: center; margin-bottom: 35px; color: #ffffff;">FAQs – Shifting in Marufganj Patna</h2>
-      <?php foreach ($faq_list as $index => $faq): ?>
-      <div style="background: #101c40; padding: 20px 24px; border-radius: 12px; margin-bottom: 16px; border: 1px solid rgba(245,158,11,0.2);">
-        <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
-        <p style="font-size: 0.98rem; color: #cbd5e1; margin: 0; line-height: 1.7;"><?php echo htmlspecialchars($faq['a']); ?></p>
+  <!-- 5. 6-Card Feature Grid -->
+  <section style="padding: 60px 0; background: #070d1e;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Our Core Services in Marufganj Patna</h2>
+        <p style="color: #cbd5e1;">End-to-end relocation solutions tailored for residents & businesses</p>
       </div>
-      <?php endforeach; ?>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+        
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-home"></i></div>
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 10px; font-weight: 700;">Household Shifting</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.6;">Complete house relocation with 5-layer bubble packing, wooden crating for valuables, and careful handling.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-motorcycle"></i></div>
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 10px; font-weight: 700;">Bike & Car Transport</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.6;">Safe vehicle transportation in closed container carriers with real-time GPS tracking and zero scratches guaranteed.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-building"></i></div>
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 10px; font-weight: 700;">Wholesale & Commercial Move</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.6;">Minimal downtime wholesale shop and office shifting, stock handling, and scheduled off-peak loading.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-boxes"></i></div>
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 10px; font-weight: 700;">Premium Packing Materials</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.6;">Heavy-duty corrugated boxes, stretch wrap, foam sheets, and edge protectors to guarantee complete safety during transit.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-file-invoice-dollar"></i></div>
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 10px; font-weight: 700;">IBA Approved Bills</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.6;">Official 100% genuine IBA-compliant GST bills for corporate, bank, and defense employee relocation claims.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 25px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-shield-alt"></i></div>
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 10px; font-weight: 700;">Transit Insurance</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.6;">Complete financial protection for your belongings with comprehensive 1.5% transit risk insurance policy coverage.</p>
+        </div>
+
+      </div>
     </div>
   </section>
 
-  <!-- CTA Banner -->
-  <section class="cta-banner-section" style="padding: 70px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); text-align: center; color: #ffffff;">
+  <!-- 6. Step-by-Step Shifting Process Section -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
-      <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 15px;">Book Safe Household Shifting in <span style="color: #f59e0b;">Marufganj Patna</span></h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">Get written binding price quotes and 100% IBA-compliant bills today.</p>
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">4-Step Seamless Moving Process</h2>
+        <p style="color: #cbd5e1;">How we handle your move from start to finish in Marufganj</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; text-align: center;">
+          <div style="width: 40px; height: 40px; background: #f59e0b; color: #000; font-weight: 800; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px auto;">1</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 8px;">Pre-Move Survey</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Free home inspection or instant virtual quote via call/WhatsApp.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; text-align: center;">
+          <div style="width: 40px; height: 40px; background: #f59e0b; color: #000; font-weight: 800; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px auto;">2</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 8px;">Multi-Layer Packing</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Expert packing using bubble wrap, cartons, and protective sheets.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; text-align: center;">
+          <div style="width: 40px; height: 40px; background: #f59e0b; color: #000; font-weight: 800; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px auto;">3</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 8px;">Safe Transit</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Closed-body container trucks ensure weather-proof, damage-free transport.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 20px; border-radius: 10px; text-align: center;">
+          <div style="width: 40px; height: 40px; background: #f59e0b; color: #000; font-weight: 800; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px auto;">4</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 8px;">Unpacking & Setup</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Safe unloading, unpacking, and placement of furniture at your new home.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. Why Choose Us Section -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 30px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Why Hire Shree Ashirwad Packers in Marufganj?</h2>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; color: #cbd5e1;">
+        <div style="background: #101c40; padding: 20px; border-radius: 8px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 6px;">Local Neighborhood Expertise</h4>
+          <p style="font-size: 0.92rem; margin: 0;">In-depth familiarity with Marufganj market lanes, Patna City routes, and bypass entry points.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 8px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 6px;">Transparent Pricing Guarantee</h4>
+          <p style="font-size: 0.92rem; margin: 0;">No hidden charges, zero surprise fees, and crystal clear itemized written quotes.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 8px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 6px;">Verified Professional Staff</h4>
+          <p style="font-size: 0.92rem; margin: 0;">Background-checked, uniform-wearing, trained loading & packing specialists.</p>
+        </div>
+        <div style="background: #101c40; padding: 20px; border-radius: 8px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 6px;">On-Time Delivery Guarantee</h4>
+          <p style="font-size: 0.92rem; margin: 0;">Strict adherence to promised time schedules for local and intercity transport.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8. FAQ Section with Schema Support -->
+  <section class="faq-section" style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions (Marufganj Patna)</h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 15px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="background: #101c40; padding: 20px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h4 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">
+              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?>
+            </h4>
+            <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. Final Call to Action CTA -->
+  <section style="background: linear-gradient(135deg, #1e3a8a 0%, #0b132b 100%); padding: 50px 0; text-align: center; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.3);">
+    <div class="container" style="max-width: 800px;">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Ready for a Stress-Free Move in Marufganj?</h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">Contact our Marufganj shifting team today for a free estimate and 100% safe relocation service.</p>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);"><i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?></a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20in%20Marufganj%20Patna." title="WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);"><i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp</a>
-        <a href="<?php echo SITE_URL; ?>contact" title="Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);"><i class="fas fa-building" style="margin-right: 8px;"></i> Contact Office</a>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us" style="padding: 14px 30px; background: #e11d48; color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1rem;">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote%20for%20Marufganj%20Patna." title="WhatsApp" target="_blank" style="padding: 14px 30px; background: #10b981; color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1rem;">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Direct
+        </a>
       </div>
     </div>
   </section>
+
 </main>
 
+<!-- 10. Inline JSON-LD Structured Data Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_faqs = [];
+    foreach ($faq_list as $faq) {
+        $schema_faqs[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($faq['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($faq['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_faqs);
+    ?>
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers",
+  "description": "Trusted packers and movers in Marufganj, Patna offering home & commercial relocation.",
+  "url": "<?php echo $canonical_url; ?>",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Marufganj, Patna",
+    "addressRegion": "Bihar",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Marufganj, Patna, Bihar",
+  "priceRange": "₹3500 - ₹34000"
+}
+</script>
+
+<!-- 11. Lead Capture Script -->
 <script>
 function sendHeroWhatsAppLead(event, form) {
   event.preventDefault();
@@ -250,11 +413,13 @@ function sendHeroWhatsAppLead(event, form) {
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
-  var extraMsg = form.querySelector('[name="message"]').value;
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI need a Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
-  if (extraMsg && extraMsg.trim() !== '') { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Shifting Quote for Marufganj Patna:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
 }
 </script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

@@ -1,10 +1,53 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Hanuman Nagar Patna 8409531615";
-$page_desc = "Hire trusted packers and movers in Hanuman Nagar Patna. Shree Ashirwad Packers and Movers offers secure household shifting, office relocations, and room moving services with zero hidden costs. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.";
-$page_keywords = "packers and movers in hanuman nagar patna, best packers and movers in hanuman nagar patna, affordable packers and movers in hanuman nagar patna, packers and movers, packers and movers in ranchi, top packers and movers in hanuman nagar patna company, household shifting packers and movers in hanuman nagar patna, doorstep packers and movers in hanuman nagar patna, verified packers and movers in hanuman nagar patna services, shree ashirwad packers and movers in hanuman nagar patna";
+$page_title = "Packers and Movers in Hanuman Nagar Patna | House Shifting";
+$page_desc = "Hire reliable packers and movers in Hanuman Nagar Patna. Shree Ashirwad Packers offers professional household shifting, room moving, and car/bike transport near Kankarbagh with IBA GST bill.";
+$page_keywords = "packers and movers in hanuman nagar patna, best packers and movers in hanuman nagar patna, house shifting hanuman nagar patna, room moving hanuman nagar patna, local shifting hanuman nagar patna, shree ashirwad packers hanuman nagar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-hanuman-nagar-patna.php";
+
+$faq_list = [
+  [
+    "q" => "What are the home shifting rates in Hanuman Nagar Patna?",
+    "a" => "Local house relocation rates in Hanuman Nagar Patna range from Rs 3,500 for 1 BHK, Rs 6,500 - 10,500 for 2 BHK flats, and Rs 10,500 - 16,000 for 3 BHK independent houses."
+  ],
+  [
+    "q" => "Which nearby areas around Hanuman Nagar do you cover?",
+    "a" => "We cover Hanuman Nagar, Kankarbagh, Rajendra Nagar, Munna Chak, Kumhrar, and all adjoining South Patna residential colonies."
+  ],
+  [
+    "q" => "Do you provide IBA approved GST bills for employer relocation reimbursement?",
+    "a" => "Yes, 100% authentic IBA-approved GST tax invoices, consignment bills (LR), itemized packing lists, and payment receipts are provided for claim reimbursement."
+  ],
+  [
+    "q" => "What protective packing materials are used for household goods?",
+    "a" => "We use 80-GSM bubble wraps, heavy corrugated fiberboard boxes, stretch films, foam corner guards, and waterproof tarpaulin sheets."
+  ],
+  [
+    "q" => "How do moving trucks access narrow residential lanes in Hanuman Nagar?",
+    "a" => "We deploy compact feeder trucks (Tata Ace / Bolero Pickup) to navigate narrow residential lanes before transferring goods smoothly to main highway carriers."
+  ],
+  [
+    "q" => "Is vehicle transport (bike/car) available from Hanuman Nagar Patna?",
+    "a" => "Yes, we provide secure bike and car carrier shipping services with complete door pickup and delivery across India."
+  ],
+  [
+    "q" => "Can you handle office and shop relocations in Hanuman Nagar?",
+    "a" => "Yes, we specialize in commercial office relocation, IT setup packing, furniture dismantling, and weekend execution."
+  ],
+  [
+    "q" => "Is transit insurance included with shifting services?",
+    "a" => "Yes, full transit insurance coverage (1.5%) is provided to cover any accidental losses or damage during transit."
+  ],
+  [
+    "q" => "What items are restricted during home packing?",
+    "a" => "Combustibles, gas cylinders, paints, cash, jewelry, and hazardous substances are strictly excluded."
+  ],
+  [
+    "q" => "How can I book Packers and Movers in Hanuman Nagar Patna?",
+    "a" => "Call +91 8409531615 or submit your relocation requirements on our online WhatsApp lead form for an immediate free quotation."
+  ]
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -16,6 +59,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-patna.php" title="Patna">Patna</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
@@ -30,34 +75,34 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            PACKERS AND MOVERS HANUMAN NAG RELOCATION SPECIALISTS
+            PACKERS AND MOVERS HANUMAN NAGAR PATNA
           </span>
           <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Packers and Movers in Hanuman Nagar Patna</span>
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Hire trusted packers and movers in Hanuman Nagar Patna. Shree Ashirwad Packers and Movers offers secure household shifting, office relocations, and room moving services with zero hidden costs. Complete door-to-door relocation coverage across Boring Road, Kankerbagh, Bailey Road, Raja Bazar, Patliputra Colony.
+            Shree Ashirwad Packers and Movers provides top-quality home shifting, office relocation, and bike/car shipping in Hanuman Nagar, Patna. Serving Hanuman Nagar, Kankarbagh, and Kumhrar with 100% IBA-approved GST billing.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote%20for%20Hanuman%20Nagar%20Patna." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
             <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
+            <span><strong style="color: #f59e0b;">7-Layer</strong> Packaging</span>
             <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Boring Road Shifting Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Hanuman Nagar Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -68,7 +113,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Boring Road" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Hanuman Nagar Patna" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
@@ -81,8 +126,226 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Key Stats Counter Bar -->
+  <section style="background: #0f172a; padding: 30px 0; border-bottom: 1px solid rgba(255,255,255,0.1); color: #ffffff;">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px;">
+          <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">12,500+</div>
+          <div style="font-size: 0.85rem; color: #94a3b8;">Happy Relocations</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px;">
+          <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">100%</div>
+          <div style="font-size: 0.85rem; color: #94a3b8;">Safety & Protection</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px;">
+          <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">15+ Yrs</div>
+          <div style="font-size: 0.85rem; color: #94a3b8;">Shifting Experience</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px;">
+          <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">100% GST</div>
+          <div style="font-size: 0.85rem; color: #94a3b8;">IBA Approved Bills</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Local Shifting Rate Matrix Section -->
+  <section style="padding: 60px 0; background: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a;">Hanuman Nagar Patna Shifting Price Matrix</h2>
+        <p style="color: #64748b;">Transparent estimates for local home and office relocation in Hanuman Nagar Patna</p>
+      </div>
+
+      <div style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; border: 1px solid #e2e8f0;">
+          <thead>
+            <tr style="background: #0f172a; color: #ffffff;">
+              <th style="padding: 14px; text-align: left; border: 1px solid #334155;">Shifting Type</th>
+              <th style="padding: 14px; text-align: left; border: 1px solid #334155;">Packing Charges</th>
+              <th style="padding: 14px; text-align: left; border: 1px solid #334155;">Labor & Loading</th>
+              <th style="padding: 14px; text-align: left; border: 1px solid #334155;">Total Est. Cost</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;"><strong>1 BHK Household</strong></td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 1,500 - 2,500</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 1,500 - 2,000</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0; color: #d32f2f; font-weight: 700;">Rs 3,500 - 6,500</td>
+            </tr>
+            <tr style="background: #f8fafc;">
+              <td style="padding: 12px; border: 1px solid #e2e8f0;"><strong>2 BHK Household</strong></td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 2,500 - 4,000</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 2,500 - 3,500</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0; color: #d32f2f; font-weight: 700;">Rs 6,500 - 10,500</td>
+            </tr>
+            <tr>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;"><strong>3 BHK Household</strong></td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 4,000 - 6,500</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 3,500 - 5,000</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0; color: #d32f2f; font-weight: 700;">Rs 10,500 - 16,000</td>
+            </tr>
+            <tr style="background: #f8fafc;">
+              <td style="padding: 12px; border: 1px solid #e2e8f0;"><strong>Complete Office Move</strong></td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 5,000 - 10,000</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0;">Rs 4,500 - 8,000</td>
+              <td style="padding: 12px; border: 1px solid #e2e8f0; color: #d32f2f; font-weight: 700;">Rs 12,000 - 25,000+</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6-Card Feature Grid -->
+  <section style="padding: 60px 0; background: #f8fafc;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a;">Why Choose Shree Ashirwad in Hanuman Nagar Patna</h2>
+        <p style="color: #64748b;">Comprehensive features for safe and effortless relocation</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0,0,0,0.03);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-box-open"></i></div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">7-Layer Protection</h3>
+          <p style="color: #64748b; font-size: 0.95rem; line-height: 1.6;">Heavy-duty bubble sheets, corrugated boxes, stretch wrap, and foam edge covers guarantee total safety.</p>
+        </div>
+
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0,0,0,0.03);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-truck-moving"></i></div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">Dedicated Vehicles</h3>
+          <p style="color: #64748b; font-size: 0.95rem; line-height: 1.6;">Feeder pickup trucks safely transfer goods from interior Hanuman Nagar lanes to main container trucks.</p>
+        </div>
+
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0,0,0,0.03);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-user-shield"></i></div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">Verified Skilled Crew</h3>
+          <p style="color: #64748b; font-size: 0.95rem; line-height: 1.6;">Background-checked packers and loaders experienced in handling delicate appliances and heavy furniture.</p>
+        </div>
+
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0,0,0,0.03);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-clock"></i></div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">On-Time Delivery</h3>
+          <p style="color: #64748b; font-size: 0.95rem; line-height: 1.6;">Punctual pickup and prompt delivery across Hanuman Nagar Patna with zero unnecessary delays.</p>
+        </div>
+
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0,0,0,0.03);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-file-invoice-dollar"></i></div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">Transparent Billing</h3>
+          <p style="color: #64748b; font-size: 0.95rem; line-height: 1.6;">100% IBA-approved GST bills with clear cost breakdown for official reimbursement claims.</p>
+        </div>
+
+        <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0,0,0,0.03);">
+          <div style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"><i class="fas fa-headset"></i></div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">24/7 Support</h3>
+          <p style="color: #64748b; font-size: 0.95rem; line-height: 1.6;">Dedicated customer helpline to track your shipment status and assist at every step.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10-Item FAQ Section -->
+  <section style="padding: 60px 0; background: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a;">Frequently Asked Questions (FAQs)</h2>
+        <p style="color: #64748b;">Common queries regarding packers and movers services in Hanuman Nagar Patna</p>
+      </div>
+
+      <div style="max-width: 900px; margin: 0 auto;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden;">
+            <div style="padding: 18px 20px; background: #f8fafc; font-weight: 700; color: #0f172a; cursor: pointer;">
+              Q<?php echo $index + 1; ?>: <?php echo htmlspecialchars($faq['q']); ?>
+            </div>
+            <div style="padding: 18px 20px; color: #475569; font-size: 0.95rem; line-height: 1.7; background: #ffffff; border-top: 1px solid #e2e8f0;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </div>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call-To-Action (CTA) Conversion Footer -->
+  <section style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 50px 0; color: #ffffff; text-align: center;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Ready for a Seamless Move in Hanuman Nagar Patna?</h2>
+      <p style="color: #cbd5e1; font-size: 1.1rem; max-width: 700px; margin: 0 auto 30px;">Contact Shree Ashirwad Packers today for a free on-site survey and instant price quote.</p>
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 14px 32px; background: #e11d48; color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20help%20in%20Hanuman%20Nagar%20Patna." target="_blank" style="padding: 14px 32px; background: #10b981; color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none;">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quick Quote
+        </a>
+      </div>
+    </div>
+  </section>
 
 </main>
 
+<!-- Structured Data Schemas -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Hanuman Nagar Patna",
+  "image": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "url": "<?php echo $canonical_url; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hanuman Nagar",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "priceRange": "₹3500 - ₹25000"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php
+    $faq_json = [];
+    foreach ($faq_list as $faq) {
+      $faq_json[] = '{
+        "@type": "Question",
+        "name": ' . json_encode($faq['q']) . ',
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ' . json_encode($faq['a']) . '
+        }
+      }';
+    }
+    echo implode(',', $faq_json);
+    ?>
+  ]
+}
+</script>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Shifting Quote for Hanuman Nagar Patna:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, '_blank');
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

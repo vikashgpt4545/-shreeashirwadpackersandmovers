@@ -520,4 +520,32 @@ function sendHeroWhatsAppLead(event) {
 }
 </script>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Chhindwara",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-chhindwara.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹5000 - ₹52000",
+  "description": "Professional household shifting, vehicle transport, and IBA-approved billing services from Patna to Chhindwara (Madhya Pradesh).",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Chhindwara",
+    "Madhya Pradesh",
+    "Bihar"
+  ]
+}
+</script>
+
 <?php include '../includes/footer.php'; ?>

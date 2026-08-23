@@ -394,6 +394,59 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-</main>
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Hamirpur HP",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-hamirpur-hp.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹4950 - ₹38000",
+  "description": "Certified packers and movers from Patna to Hamirpur (HP). 7-layer protective packaging, hill-spec container trucks, car/bike carrier, and 100% transit insurance.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Boring Road",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800001",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Hamirpur",
+    "NIT Campus Area",
+    "Nadaun",
+    "Sujanpur Tira",
+    "Bhoranj",
+    "Barsar",
+    "Bhota"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/shreeashirwadpackers",
+    "https://twitter.com/shreeashirwad"
+  ]
+}
+</script>
+
+<script>
+function sendHeroWhatsAppLead(e, form) {
+  e.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var move_from = form.querySelector('[name="move_from"]').value;
+  var move_to = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers,%0A%0AI need a quote for shifting:%0A" +
+    "- Name: " + encodeURIComponent(name) + "%0A" +
+    "- Phone: " + encodeURIComponent(phone) + "%0A" +
+    "- Pickup: " + encodeURIComponent(move_from) + "%0A" +
+    "- Delivery: " + encodeURIComponent(move_to);
+    
+  window.open("https://wa.me/918409531615?text=" + message, "_blank");
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

@@ -396,4 +396,60 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Kangra",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-kangra.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹14900 - ₹38500",
+  "description": "Certified packers and movers from Patna to Kangra. 7-layer protective packaging, mountain-terrain specialized container trucks, car/bike carrier, and 100% transit insurance.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Boring Road",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800001",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Kangra",
+    "Gaggal",
+    "Nagrota Bagwan",
+    "Shahpur",
+    "Matour",
+    "Ranital"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/shreeashirwadpackers",
+    "https://twitter.com/shreeashirwad"
+  ]
+}
+</script>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]') ? form.querySelector('[name="message"]').value : '';
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Quote from Patna to Kangra:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Move Details: " + extraMsg;
+  }
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

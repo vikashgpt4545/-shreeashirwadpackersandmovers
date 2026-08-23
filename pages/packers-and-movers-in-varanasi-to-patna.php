@@ -20,6 +20,49 @@ $faq_list = [
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
+<!-- JSON-LD FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_items = [];
+    foreach ($faq_list as $item) {
+        $schema_items[] = '{
+          "@type": "Question",
+          "name": ' . json_encode($item['q']) . ',
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ' . json_encode($item['a']) . '
+          }
+        }';
+    }
+    echo implode(',', $schema_items);
+    ?>
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers",
+  "description": "Certified Packers and Movers from Varanasi to Patna offering 7-layer packaging, vehicle transport, and IBA-approved GST bills.",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-varanasi-to-patna.php",
+  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Varanasi",
+    "addressRegion": "Uttar Pradesh",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Patna, Bihar",
+  "priceRange": "₹3500 - ₹35000"
+}
+</script>
+
 <main class="site-main">
   <div class="breadcrumb-wrapper">
     <div class="container">

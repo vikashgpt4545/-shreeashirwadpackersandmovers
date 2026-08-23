@@ -76,6 +76,36 @@ require_once __DIR__ . '/../includes/header.php';
 <?php echo json_encode($faq_schema, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?>
 </script>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Jhansi",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-jhansi.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹14500 - ₹34500",
+  "description": "Certified packers and movers from Patna to Jhansi. 7-layer protective packaging, dedicated sealed container trucks, car/bike carrier, and 100% transit insurance.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Boring Road",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800001",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Jhansi"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/shreeashirwadpackers",
+    "https://twitter.com/shreeashirwad"
+  ]
+}
+</script>
+
 <div class="dark-theme-override">
   <main class="site-main">
 
@@ -346,5 +376,22 @@ require_once __DIR__ . '/../includes/header.php';
   </main>
 </div>
 
+<script>
+function sendHeroWhatsAppLead(e, form) {
+  e.preventDefault();
+  var name = form.name.value;
+  var phone = form.phone.value;
+  var from = form.move_from.value;
+  var to = form.move_to.value;
+  var msg = "Hello Shree Ashirwad Packers, I need a quote for Patna to Jhansi shifting.%0A%0A" +
+    "*Name:* " + encodeURIComponent(name) + "%0A" +
+    "*Phone:* " + encodeURIComponent(phone) + "%0A" +
+    "*From:* " + encodeURIComponent(from) + "%0A" +
+    "*To:* " + encodeURIComponent(to);
+  window.open("https://wa.me/918409531615?text=" + msg, "_blank");
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+
 

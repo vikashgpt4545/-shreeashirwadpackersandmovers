@@ -399,4 +399,53 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
+<!-- FAQ Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php foreach ($faq_list as $i => $faq): ?>
+    {
+      "@type": "Question",
+      "name": <?php echo json_encode($faq['q']); ?>,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": <?php echo json_encode($faq['a']); ?>
+      }
+    }<?php echo ($i < count($faq_list) - 1) ? ',' : ''; ?>
+    <?php endforeach; ?>
+  ]
+}
+</script>
+
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Ayodhya",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-ayodhya.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹8500 - ₹28000",
+  "description": "Professional household shifting, vehicle transport, and IBA-approved billing services from Patna to Ayodhya.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Ayodhya",
+    "Faizabad",
+    "Uttar Pradesh",
+    "Bihar"
+  ]
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

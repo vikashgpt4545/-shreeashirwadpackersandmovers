@@ -520,4 +520,32 @@ function sendHeroWhatsAppLead(event) {
 }
 </script>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Dewas",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-dewas.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹5500 - ₹52000",
+  "description": "Professional household shifting, car/bike transport, and office relocation services from Patna to Dewas (Madhya Pradesh).",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Dewas",
+    "Madhya Pradesh",
+    "Bihar"
+  ]
+}
+</script>
+
 <?php include '../includes/footer.php'; ?>

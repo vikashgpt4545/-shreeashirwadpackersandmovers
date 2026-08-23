@@ -76,6 +76,53 @@ require_once __DIR__ . '/../includes/header.php';
 }
 </script>
 
+<!-- JSON-LD MovingCompany Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Ludhiana",
+  "image": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "@id": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-ludhiana.php#movingcompany",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-ludhiana.php",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹13,000 - ₹36,500",
+  "description": "Certified packers and movers from Patna to Ludhiana offering 7-layer packaging, enclosed container trucks, vehicle transport, live GPS tracking, and complete transit insurance.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Boring Road",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.6093,
+    "longitude": 85.1235
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Patna"
+    },
+    {
+      "@type": "City",
+      "name": "Ludhiana"
+    }
+  ],
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.6093,
+      "longitude": 85.1235
+    },
+    "geoRadius": "1350000"
+  }
+}
+</script>
+
 <main class="site-main">
 
   <!-- Visual Breadcrumb Navigation Bar -->

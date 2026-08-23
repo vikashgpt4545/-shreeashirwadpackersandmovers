@@ -582,6 +582,34 @@ include '../includes/header.php';
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Guna",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-guna.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹7000 - ₹53000",
+  "description": "Certified packers and movers from Patna to Guna. ISO-certified household shifting, car & bike transport, transparent pricing, and instant door-to-door delivery.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Guna",
+    "Madhya Pradesh",
+    "Bihar"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

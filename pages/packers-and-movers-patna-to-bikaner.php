@@ -396,4 +396,34 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
+<!-- MovingCompany Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Patna to Bikaner",
+  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-bikaner.php",
+  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹5200 - ₹38000",
+  "description": "Professional household shifting, vehicle transport, and IBA-approved billing services from Patna to Bikaner.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
+    "addressLocality": "Patna",
+    "addressRegion": "Bihar",
+    "postalCode": "800020",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Patna",
+    "Bikaner",
+    "Karni Nagar",
+    "Sadul Ganj",
+    "Rajasthan",
+    "Bihar"
+  ]
+}
+</script>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
