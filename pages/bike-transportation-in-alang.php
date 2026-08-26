@@ -9,7 +9,7 @@ $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main dark-theme-override">
 
   <!-- Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
@@ -81,8 +81,347 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Key Stats Counter Bar -->
+  <section class="stats-counter-section" style="background: #1c2541; padding: 45px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">3,100+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">Bikes Transported to/from Alang</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">100%</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">Transit Damage Insurance Covered</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">7-Layer</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">Heavy-Duty Safety Packaging</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">IBA Approved</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1;">GST Billing & Insurance Claim</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6-Card Feature Grid -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Why Choose Our <span style="color: #f59e0b;">Bike Transportation in Alang</span>?</h2>
+        <p style="color: #cbd5e1; font-size: 1rem; margin-top: 10px;">We deliver seamless, secure two-wheeler relocation across Alang, Bhavnagar, and nationwide destinations.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+        <div style="background: #1c2541; padding: 30px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 12px;">Covered Container Carriers</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Weatherproof, hydraulic-lift enclosed trucks protecting your bike from dust, rain, and highway debris during transit.</p>
+        </div>
+        <div style="background: #1c2541; padding: 30px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 12px;">Multi-Layer Armor Packing</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">High-density 80-GSM bubble wraps, corrugated sheets, foam guards, and stretch film safeguard paint and bodywork.</p>
+        </div>
+        <div style="background: #1c2541; padding: 30px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 12px;">Doorstep Pickup & Delivery</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Hassle-free collection from Alang Shipyard Yard, Trapaj, Manar, Sosiya, Bhavnagar Road, and direct delivery to your destination.</p>
+        </div>
+        <div style="background: #1c2541; padding: 30px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 12px;">Transit Insurance Coverage</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Full risk insurance policies covering total loss or minor scuffs with quick claim processing support.</p>
+        </div>
+        <div style="background: #1c2541; padding: 30px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 12px;">Dedicated Wheel Locking</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Engineered wheel chocks and heavy-duty nylon tie-down belts prevent tilt or movement inside transport vehicles.</p>
+        </div>
+        <div style="background: #1c2541; padding: 30px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.25rem; color: #ffffff; margin-bottom: 12px;">GPS & Real-Time Tracking</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Live vehicle tracking and regular SMS updates keep you informed at every leg of your bike’s journey.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Specialized Services Breakdown -->
+  <section style="background: #1c2541; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Tailored <span style="color: #f59e0b;">Two-Wheeler Shifting Options</span></h2>
+        <p style="color: #cbd5e1; font-size: 1rem; margin-top: 10px;">Customized shipping solutions built for every model and rider requirement.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px;">
+        <div style="background: #0b132b; padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <h4 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 10px;">Standard Commuter Bikes</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Affordable, secure transport for daily commuters (100cc - 150cc) with full protective wrapping.</p>
+        </div>
+        <div style="background: #0b132b; padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <h4 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 10px;">Sports & Premium Motorcycles</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Specialized handling with custom wooden crate option for high-end sports and luxury bikes.</p>
+        </div>
+        <div style="background: #0b132b; padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <h4 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 10px;">Royal Enfield & Cruisers</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Heavy-duty tie-down systems and reinforced padding for heavy cruisers and tourers.</p>
+        </div>
+        <div style="background: #0b132b; padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <h4 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 10px;">Scooters & Activas</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Compact, safe positioning and fiber-body protection for all automatic gearless scooters.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7-Layer Safety Packaging Framework -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Our 7-Layer <span style="color: #f59e0b;">Safety Packaging Protocol</span></h2>
+        <p style="color: #cbd5e1; font-size: 1rem; margin-top: 10px;">Engineered multi-layer defense against impacts, scuffs, and transit vibrations.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
+        <div style="background: #1c2541; padding: 20px; border-radius: 8px; text-align: center;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">LAYER 1</span>
+          <h4 style="color: #fff; margin: 10px 0 5px;">Dust & Scratch Film</h4>
+          <p style="color: #cbd5e1; font-size: 0.85rem;">Soft polythene layer directly over paintwork.</p>
+        </div>
+        <div style="background: #1c2541; padding: 20px; border-radius: 8px; text-align: center;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">LAYER 2</span>
+          <h4 style="color: #fff; margin: 10px 0 5px;">80-GSM Air Bubble Wrap</h4>
+          <p style="color: #cbd5e1; font-size: 0.85rem;">Shock-absorbing heavy bubble cushion.</p>
+        </div>
+        <div style="background: #1c2541; padding: 20px; border-radius: 8px; text-align: center;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">LAYER 3</span>
+          <h4 style="color: #fff; margin: 10px 0 5px;">Corrugated Sheets</h4>
+          <p style="color: #cbd5e1; font-size: 0.85rem;">Impact defense around tank & indicators.</p>
+        </div>
+        <div style="background: #1c2541; padding: 20px; border-radius: 8px; text-align: center;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">LAYER 4</span>
+          <h4 style="color: #fff; margin: 10px 0 5px;">Edge Foam Guards</h4>
+          <p style="color: #cbd5e1; font-size: 0.85rem;">Reinforced padding for levers & mirrors.</p>
+        </div>
+        <div style="background: #1c2541; padding: 20px; border-radius: 8px; text-align: center;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">LAYER 5</span>
+          <h4 style="color: #fff; margin: 10px 0 5px;">Stretch Wrap Seal</h4>
+          <p style="color: #cbd5e1; font-size: 0.85rem;">Waterproof outer plastic film bind.</p>
+        </div>
+        <div style="background: #1c2541; padding: 20px; border-radius: 8px; text-align: center;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">LAYER 6</span>
+          <h4 style="color: #fff; margin: 10px 0 5px;">Nylon Locking Straps</h4>
+          <p style="color: #cbd5e1; font-size: 0.85rem;">Anchor belts locked to vehicle chassis.</p>
+        </div>
+        <div style="background: #1c2541; padding: 20px; border-radius: 8px; text-align: center;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">LAYER 7</span>
+          <h4 style="color: #fff; margin: 10px 0 5px;">Custom Wooden Crate</h4>
+          <p style="color: #cbd5e1; font-size: 0.85rem;">Optional solid cage for long routes.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Rate Table Matrix -->
+  <section style="background: #1c2541; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Estimated <span style="color: #f59e0b;">Bike Transport Cost Matrix</span></h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">Transparent indicative rates for two-wheeler shipping to major Indian destinations.</p>
+      </div>
+      <div style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; background: #0b132b; border-radius: 10px; overflow: hidden; text-align: left; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: #f59e0b; color: #000000; font-weight: 700;">
+              <th style="padding: 15px 20px;">Destination Route</th>
+              <th style="padding: 15px 20px;">Distance (Approx)</th>
+              <th style="padding: 15px 20px;">Scooter / Activa Rates</th>
+              <th style="padding: 15px 20px;">100cc - 200cc Bike Rates</th>
+              <th style="padding: 15px 20px;">Cruiser / Sports Bike Rates</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px 20px; color: #ffffff; font-weight: 600;">Alang to Ahmedabad / Surat</td>
+              <td style="padding: 15px 20px; color: #cbd5e1;">~210 km</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹2,800 - ₹3,900</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹3,200 - ₹4,500</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹4,500 - ₹5,800</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px 20px; color: #ffffff; font-weight: 600;">Alang to Mumbai / Pune</td>
+              <td style="padding: 15px 20px; color: #cbd5e1;">~680 km</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹4,200 - ₹5,800</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹4,800 - ₹6,500</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹6,200 - ₹8,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px 20px; color: #ffffff; font-weight: 600;">Alang to Delhi / NCR</td>
+              <td style="padding: 15px 20px; color: #cbd5e1;">~1,100 km</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹4,800 - ₹6,500</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹5,500 - ₹7,200</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹7,200 - ₹9,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px 20px; color: #ffffff; font-weight: 600;">Alang to Bangalore / Hyderabad</td>
+              <td style="padding: 15px 20px; color: #cbd5e1;">~1,650 km</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹6,200 - ₹8,500</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹7,000 - ₹9,200</td>
+              <td style="padding: 15px 20px; color: #f59e0b; font-weight: 700;">₹8,800 - ₹11,800</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Localities & Network Grids -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+        <div>
+          <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px;">Pickup Coverage in Alang</h3>
+          <ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1; font-size: 0.95rem;">
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Alang Shipyard Yard Plot</li>
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Trapaj & Manar Market</li>
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Sosiya Recycling Hub</li>
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Bhavnagar Highway Road</li>
+          </ul>
+        </div>
+        <div>
+          <h3 style="font-size: 1.5rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px;">Intercity Route Connections</h3>
+          <ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #cbd5e1; font-size: 0.95rem;">
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Alang to Ahmedabad</li>
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Alang to Mumbai</li>
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Alang to Delhi</li>
+            <li style="background: #1c2541; padding: 10px 15px; border-radius: 6px;">✔ Alang to Surat</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- IBA Approved GST Billing Documentation -->
+  <section style="background: #1c2541; padding: 50px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 700px; margin: 0 auto 30px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Official <span style="color: #f59e0b;">GST Billing & Insurance Documents</span></h2>
+        <p style="color: #cbd5e1; font-size: 0.9rem;">We provide 100% compliant documentation for company reimbursement and insurance coverage.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; text-align: center;">
+        <div style="background: #0b132b; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-size: 0.9rem;">100% Tax GST Invoice</div>
+        <div style="background: #0b132b; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-size: 0.9rem;">Consignment Lorry Receipt</div>
+        <div style="background: #0b132b; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-size: 0.9rem;">Vehicle Inspection Certificate</div>
+        <div style="background: #0b132b; padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-size: 0.9rem;">Transit Insurance Policy</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Detailed FAQs -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Frequently Asked <span style="color: #f59e0b;">Questions</span></h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-top: 8px;">Got questions about bike shipping in Alang? Here are quick answers.</p>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 20px;">
+        <div style="background: #1c2541; padding: 25px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.15rem; color: #ffffff; margin-bottom: 10px;">How is my bike packed for shipping from Alang?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">We apply a 7-layer protective framework including bubble wrap, corrugated sheets, foam edge protectors, and waterproof stretch film before securing it with heavy-duty straps in covered trucks.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.15rem; color: #ffffff; margin-bottom: 10px;">What documents are required for bike transport in Alang?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">You need to provide a photocopy of the bike’s Registration Certificate (RC), valid insurance policy, and Government ID proof (Aadhaar or Driving License) of the sender.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.15rem; color: #ffffff; margin-bottom: 10px;">Is door-to-door bike pickup available across Alang Shipyard?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">Yes, we offer doorstep pickup from all major shipyard plots in Alang, Trapaj, and Sosiya directly to your destination address.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.15rem; color: #ffffff; margin-bottom: 10px;">How much fuel should be left in the petrol tank?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">As per safety standards, petrol tanks should be almost empty (less than 1-2 liters) to prevent fire hazards during long-distance transportation.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.15rem; color: #ffffff; margin-bottom: 10px;">How do I track my bike during transit?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">We provide regular updates via phone/WhatsApp and real-time GPS tracking status for your carrier vehicle until final delivery.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Conversion Footer -->
+  <section style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); padding: 60px 0; text-align: center; color: #ffffff; border-top: 1px solid rgba(245,158,11,0.3);">
+    <div class="container" style="max-width: 800px;">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Ready to Transport Your Bike Safely from Alang?</h2>
+      <p style="color: #cbd5e1; font-size: 1.05rem; margin-bottom: 30px;">Contact Shree Ashirwad Packers and Movers today for zero-damage, fully insured doorstep bike shipping.</p>
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 15px 35px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #fff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225,29,72,0.4);">
+          <i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20shifting%20quote%20for%20Alang." target="_blank" style="padding: 15px 35px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16,185,129,0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
 
 </main>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is my bike packed for shipping from Alang?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We apply a 7-layer protective framework including bubble wrap, corrugated sheets, foam edge protectors, and waterproof stretch film before securing it with heavy-duty straps in covered trucks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for bike transport in Alang?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need to provide a photocopy of the bike’s Registration Certificate (RC), valid insurance policy, and Government ID proof (Aadhaar or Driving License) of the sender."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is door-to-door bike pickup available across Alang Shipyard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer doorstep pickup from all major shipyard plots in Alang, Trapaj, and Sosiya directly to your destination address."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much fuel should be left in the petrol tank?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As per safety standards, petrol tanks should be almost empty (less than 1-2 liters) to prevent fire hazards during long-distance transportation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track my bike during transit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide regular updates via phone/WhatsApp and real-time GPS tracking status for your carrier vehicle until final delivery."
+      }
+    }
+  ]
+}
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Bike Transport Quote from Alang:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

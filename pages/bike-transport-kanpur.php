@@ -1,43 +1,30 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transport in Kanpur | Insured Two-Wheeler Shipping UP";
-$page_desc = "Safe bike transport in Kanpur & Civil Lines. 4-layer shockproof bubble packing, doorstep pickup across Kanpur Nagar, transit insurance & 100% IBA GST bills. Call 8409531615.";
-$page_keywords = "bike transport kanpur, bike parcel kanpur, bike shipping civil lines kanpur, bike transport cost kanpur, IBA approved bike transport kanpur";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/bike-transport-kanpur";
-
-$page_city = "Kanpur, Uttar Pradesh";
-
-$faq_list = [
-    ['q' => 'How is my bike packed for transportation from Kanpur?', 'a' => 'We use 4-layer packaging including bubble wrap, corrugated sheets, foam edge padding, and stretch film to shield all body panels during transit.'],
-    ['q' => 'What is the cost of bike transport from Kanpur to Delhi, Mumbai, or Bangalore?', 'a' => 'Regional bike transport to Lucknow or Agra ranges from ₹2,000 to ₹3,500, while long-distance shipping to Delhi, Mumbai, or Bangalore ranges from ₹4,500 to ₹8,500.'],
-    ['q' => 'Is doorstep bike pickup available in Kanpur & Civil Lines?', 'a' => 'Yes, our team provides doorstep bike pickup across Kanpur town, Civil Lines, Swaroop Nagar, Kakadeo, Kidwai Nagar, and Chakeri area.'],
-    ['q' => 'Do you provide IBA approved GST bills for bike parcel reimbursement?', 'a' => 'Yes, we issue 100% genuine IBA-approved GST invoices, consignment Lorry Receipts (LR), and pre-loading inspection reports.'],
-    ['q' => 'Is transit insurance provided for two-wheelers shipped from Kanpur?', 'a' => 'Yes, comprehensive transit insurance cover (1.5% to 3% of declared vehicle value) is provided against accident or transit damage.'],
-    ['q' => 'What documents are required for shipping a bike from Kanpur?', 'a' => 'You need a copy of the Bike Registration Certificate (RC), valid insurance copy, owner Aadhaar/PAN card, and our pre-loading inspection sheet.'],
-    ['q' => 'Should the fuel tank be emptied before shipping from Kanpur?', 'a' => 'Yes, as per safety regulations, fuel levels should be under 1-2 litres to prevent hazardous leakage during highway transport.'],
-    ['q' => 'How long does bike parcel delivery take from Kanpur?', 'a' => 'Transit to Lucknow/Delhi-NCR takes 24 to 36 hours, while long-distance delivery to South or Western India takes 3 to 5 days.'],
-    ['q' => 'How can I track my bike during transit from Kanpur?', 'a' => 'All carrier trucks feature GPS tracking, and our customer service team sends daily location updates via WhatsApp.'],
-    ['q' => 'How do I book bike shipping service in Kanpur?', 'a' => 'Call +91 8409531615 or click Chat on WhatsApp for an instant written quote and pickup slot confirmation.']
-];
+$page_title = "Bike Transport in Kanpur | Safe Two-Wheeler Shifting";
+$page_desc = "Planning bike transport in Kanpur? Get safe, insured, and doorstep motorcycle shipping services across Civil Lines, Swaroop Nagar, Kakadeo, Kidwai Nagar, and Chakeri with UP RTO clearances.";
+$page_keywords = "bike transport kanpur, best bike transport kanpur, affordable bike transport kanpur, packers and movers kanpur, top bike transport kanpur company, doorstep bike transport kanpur, verified bike transport kanpur services, shree ashirwad bike transport";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-kanpur.php";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main dark-theme-override">
 
-  <!-- 1. Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
+  <!-- Section 1: Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper" style="background: #0b132b; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
     <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active">Bike Transport in Kanpur</span>
+      <div class="breadcrumb-list" style="font-size: 0.88rem; color: #94a3b8;">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a></span>
+        <span class="breadcrumb-separator" style="margin: 0 8px; color: #475569;">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/services.php" title="Services" style="color: #f59e0b; text-decoration: none;">Services</a></span>
+        <span class="breadcrumb-separator" style="margin: 0 8px; color: #475569;">/</span>
+        <span class="breadcrumb-item active" style="color: #cbd5e1;"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
     </div>
   </div>
 
-  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
+  <!-- Section 2: Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -45,52 +32,49 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            IBA Approved Bike Transport Kanpur
+            KANPUR BIKE RELOCATION SPECIALISTS
           </span>
-          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Safe &amp; Insured <span style="color: #f59e0b;">Bike Transport in Kanpur</span>
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Professional <span style="color: #f59e0b;">Bike Transport in Kanpur</span>
           </h1>
-          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Moving your motorcycle or scooter from Kanpur? Shree Ashirwad Packers and Movers offers 4-layer shockproof bubble packaging, doorstep pickup, full transit insurance, and 100% IBA-approved GST bills.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Planning bike transport in Kanpur? Shree Ashirwad Packers and Movers offers secure motorcycle relocation with 7-layer protective wrapping, covered container shipping, and 100% transit insurance. Complete door-to-door coverage across Civil Lines, Swaroop Nagar, Kakadeo, Kidwai Nagar, and Chakeri.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20information%20about%20bike%20transportation%20in%20Kanpur." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20Bike%20Transport%20in%20Kanpur." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">1,450+</strong> Bikes Delivered</span>
-            <span><strong style="color: #f59e0b;">4-Layer</strong> Bubble Wrapping</span>
-            <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Wrapping</span>
+            <span><strong style="color: #f59e0b;">Doorstep</strong> Pickup & Delivery</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Bike Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+          <h2 style="font-size: 1.35rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Shifting Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Kanpur Bike Transport Estimate in 2 Mins</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" placeholder="Pickup (Kanpur)" value="Kanpur" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Kanpur" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div style="margin-bottom: 16px;">
-              <textarea name="message" class="form-control" rows="2" placeholder="Bike Model (e.g. Royal Enfield, Pulsar, Activa, RE Himalayan)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); border: none; color: #fff;">
-              Get Quote on WhatsApp
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
+              Get Free Estimate Now &rarr;
             </button>
           </form>
         </div>
@@ -99,387 +83,314 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- 3. Key Stats Counter Bar -->
-  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+  <!-- Section 3: Key Stats Counter Bar -->
+  <section style="background: #0f172a; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
     <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">1,450+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Bikes Transported from Kanpur</div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">4,200+</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Bikes Transported in Kanpur</div>
         </div>
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">4-Layer</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Heavy Duty Packing Shield</div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">100% Insured</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Full Transit Protection</div>
         </div>
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">GPS</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Real-Time Location Tracking</div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">Same-Day</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Doorstep Pickup Available</div>
         </div>
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Official Claim Documentation</div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">IBA GST</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Approved Billing & Claims</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
-  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
+  <!-- Section 4: 6-Card Feature Grid -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
     <div class="container">
-      
-      <div style="max-width: 950px; margin: 0 auto;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Bike Shipping Advantages</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-          Why Choose Us for <span style="color: #f59e0b;">Bike Shipping in Kanpur</span>?
-        </h2>
-
-        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
-          
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-motorcycle"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Bike Pickup</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
-              Our trained staff picks up your bike from Civil Lines, Swaroop Nagar, or Kakadeo home address with inspection check sheet.
-            </p>
-          </div>
-
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box-open"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">4-Layer Shockproof Wrap</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
-              High-density air bubble wrap, corrugated sheets, foam edge guards, and waterproof stretch film for zero scratches.
-            </p>
-          </div>
-
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice-dollar"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Billing</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
-              100% genuine IBA-compliant bills for government, railway, defense, bank, and corporate relocation claims.
-            </p>
-          </div>
-
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-loading"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Specialized Bike Containers</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
-              Secured in covered vehicle trucks with nylon safety belts to prevent movement on highway roads.
-            </p>
-          </div>
-
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-map-marked-alt"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Live GPS Tracking</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
-              Stay updated on your two-wheeler's exact movement with regular location alerts sent via WhatsApp.
-            </p>
-          </div>
-
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
-              Insurance protection against accidents or unforeseen damage during long-distance highway transport.
-            </p>
-          </div>
-
-        </div>
-
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Why Choose Us for Bike Transport in Kanpur?</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">End-to-end relocation protocols tailored for high-value two-wheeler shipping.</p>
       </div>
-
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-truck-moving" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Covered Container Carriers</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Enclosed vehicle trucks protecting your bike from weather, highway dust, and long-distance NH-19 transit risks.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-box-open" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">7-Layer Safety Packaging</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Bubble wrap, foam sheets, corrugated cardboard, and stretch film safeguard paintwork against scratches.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-shield-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Full Transit Insurance</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Complete insurance coverage for peace of mind from pickup point to final delivery destination.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-map-marked-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Doorstep Pickup & Delivery</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Hassle-free collection from your home in Kanpur and direct drop at your target destination.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">IBA Approved Billing</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Official GST invoices and consignment documentation accepted for corporate claim reimbursements.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-clock" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Fast Express Schedules</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Scheduled departures ensuring your motorcycle reaches its destination quickly and safely.</p>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- 5. Specialized Services Breakdown (6 Cards) -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Relocation Portfolio</span>
-      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
-        Specialized Services in <span style="color: #f59e0b;">Kanpur</span>
-      </h2>
-
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Two-Wheeler Shipping</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">4-layer protective bubble packaging for sports bikes and scooters.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Enclosed Car Carrier</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Hydraulic container ramp loading with full transit coverage.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Household Shifting</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Complete home packing, loading, transport, and unloading.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Office Relocation</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Corporate furniture, IT equipment, and file packing services.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Luggage Parcel Service</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Part-load baggage, student luggage, and room furniture transport.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Warehousing &amp; Storage</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">CCTV-monitored secure short-term and long-term storage facility.</p>
-        </div>
+  <!-- Section 5: Specialized Services Breakdown & Tariff Table -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Bike Transport Charges in Kanpur</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Estimated tariffs based on bike model, displacement, and distance.</p>
       </div>
 
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); text-align: left; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">
+              <th style="padding: 15px; font-weight: 700;">Vehicle Category</th>
+              <th style="padding: 15px; font-weight: 700;">Engine Capacity</th>
+              <th style="padding: 15px; font-weight: 700;">Standard Packaging</th>
+              <th style="padding: 15px; font-weight: 700;">Premium Crate Pack</th>
+              <th style="padding: 15px; font-weight: 700;">Est. Transit Time</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px;">Standard Scooters / Mopeds</td>
+              <td style="padding: 15px;">100cc - 125cc</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹2,500 - ₹3,500</td>
+              <td style="padding: 15px;">₹3,500 - ₹4,500</td>
+              <td style="padding: 15px;">24 - 48 Hours</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px;">Commuter Motorcycles</td>
+              <td style="padding: 15px;">125cc - 180cc</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹3,000 - ₹4,200</td>
+              <td style="padding: 15px;">₹4,200 - ₹5,500</td>
+              <td style="padding: 15px;">24 - 48 Hours</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px;">Sports / Cruiser Bikes</td>
+              <td style="padding: 15px;">200cc - 500cc</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹4,000 - ₹5,800</td>
+              <td style="padding: 15px;">₹5,800 - ₹7,300</td>
+              <td style="padding: 15px;">2 - 4 Days</td>
+            </tr>
+            <tr>
+              <td style="padding: 15px;">Superbikes / Premium Cruisers</td>
+              <td style="padding: 15px;">500cc+</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹6,600 - ₹9,600</td>
+              <td style="padding: 15px;">₹9,600 - ₹13,100</td>
+              <td style="padding: 15px;">2 - 4 Days</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="font-size: 0.85rem; color: #94a3b8; text-align: center;">*Final charges depend on route distance, packaging choices, and specific pickup location.</p>
     </div>
   </section>
 
-  <!-- 6. 7-Layer Safety Packaging Framework -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 950px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
-      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
-        Our 7-Layer Bike Protection Framework
-      </h2>
-
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 01</div>
-          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Pre-Loading Inspection</h4>
-          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Detailed recording of odometer reading &amp; pre-existing scratches.</p>
+  <!-- Section 6: 7-Layer Safety Packaging Framework -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">7-Layer Protective Packaging System</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Every motorcycle is wrapped meticulously before loading onto carriers.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 1: Stretch Film Wrap</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Protects original body paint from dust, moisture, and fine particles.</p>
         </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 02</div>
-          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Air-Bubble Wrap</h4>
-          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">High-density bubble wrap around tank, headlights, indicators &amp; body.</p>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 2: 80-GSM Bubble Wrap</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">High-density shock absorption covering tank, engine panels, and lights.</p>
         </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 03</div>
-          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Corrugated Sheet Guard</h4>
-          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Heavy cardboard sheet wrapping to withstand exterior impacts.</p>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 3: Corrugated Cardboard</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Heavy cardboard shields exhaust pipes, handle grips, and side guards.</p>
         </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 04</div>
-          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Stretch Film Sealing</h4>
-          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Waterproof plastic stretch film protection against rain &amp; dust.</p>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 4: Foam Edge Protectors</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Custom foam buffers for brake levers, rear-view mirrors, and indicators.</p>
         </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 05</div>
-          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Foam Mirror Padding</h4>
-          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Individual foam protection for side mirrors, levers &amp; exhaust pipe.</p>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 5: Waterproof Poly-Cover</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Outer rain and weather shield guarding against environmental exposure.</p>
         </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 06</div>
-          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Covered Container Load</h4>
-          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Loaded inside enclosed vehicle transport trucks.</p>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
-          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 07</div>
-          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Nylon Harness Lock</h4>
-          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Anchored securely to truck floor using heavy nylon belts to prevent swaying.</p>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 6: Ratchet Tie-Down Belts</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Four-point heavy nylon belts anchoring bike firmly inside the container vehicle.</p>
         </div>
       </div>
-
     </div>
   </section>
 
-  <!-- 7. Origin Pickup Locality Grid -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Kanpur Network</span>
-      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Bike Pickup Locations Across <span style="color: #f59e0b;">Kanpur Region</span>
-      </h2>
-
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Civil Lines &amp; Swaroop Nagar</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Doorstep bike pickup across central Kanpur residential hubs.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kakadeo &amp; Kidwai Nagar</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Doorstep bike parcel pickup across student and residential hubs.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Chakeri &amp; IIT Area</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Two-wheeler shipping pickup near IIT Kanpur &amp; Chakeri sector.</p>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kanpur Packers Hub</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Complete household relocation in Kanpur.</p>
-          <a href="<?php echo SITE_URL; ?>" title="Home →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
-            Shree Ashirwad Packers Home →
-          </a>
-        </div>
+  <!-- Section 7: Origin Pickup Locality Grid -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Kanpur Pickup Localities</h2>
+        <p style="color: #94a3b8; margin-top: 8px;">Doorstep bike collection available across key areas in Kanpur.</p>
       </div>
-
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Civil Lines & Mall Road</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Swaroop Nagar & Tilak Nagar</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Kakadeo & Geeta Nagar</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Kidwai Nagar & Govind Nagar</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Chakeri & IIT Area</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Kalyanpur & Panki</div>
+      </div>
     </div>
   </section>
 
-  <!-- 8. Intercity Route Network Grid -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Highway Corridors</span>
-      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Popular Bike Shipping Routes from <span style="color: #f59e0b;">Kanpur</span>
-      </h2>
-
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kanpur to Lucknow / Agra</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Express bike transport via NH-19 / Agra-Lucknow expressway in 12-24 hours.</p>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kanpur to Delhi-NCR</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Safe bike parcel service via Yamuna expressway corridor.</p>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kanpur to Mumbai / Pune</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Long-distance bike shipping connecting Kanpur to Maharashtra.</p>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kanpur to Bangalore / Hyderabad</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Two-wheeler transport along North-South Corridor NH-44.</p>
-        </div>
+  <!-- Section 8: Intercity Route Network Grid -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Popular Bike Routes from Kanpur</h2>
+        <p style="color: #94a3b8; margin-top: 8px;">Explore major intercity bike shifting corridors from Kanpur.</p>
       </div>
-
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-delhi.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kanpur → Delhi NCR</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-mumbai.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kanpur → Mumbai</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-bangalore.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kanpur → Bangalore</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-pune.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kanpur → Pune</a>
+      </div>
     </div>
   </section>
 
-  <!-- 9. IBA Approved GST Billing Documentation -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Claims Documentation</span>
-      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        IBA Approved GST Billing for Bike Transport in Kanpur
-      </h2>
-
-      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
-        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Two-Wheeler Relocation Claim Document Set:</h4>
-        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
-          <li><strong>Official GST Consignment Invoice</strong> with itemized bike freight &amp; packing charges.</li>
-          <li><strong>Bike Condition Inspection Report</strong> recorded prior to loading at Kanpur.</li>
-          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> detailing transport truck registration.</li>
-          <li><strong>IBA Approved Stamp &amp; Code Registration</strong> on official letterhead.</li>
-          <li><strong>Comprehensive Transit Insurance Cover Policy Document</strong>.</li>
-          <li><strong>Stamped Money Receipt</strong> for company reimbursement submission.</li>
-        </ol>
+  <!-- Section 9: IBA Approved GST Billing Documentation -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Official Documentation & Claims</h2>
+        <p style="color: #94a3b8; margin-top: 8px;">Complete legal compliance for corporate reimbursement and insurance claims.</p>
       </div>
-
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-file-invoice-dollar" style="font-size: 1.8rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h4 style="color: #fff; margin-bottom: 8px;">GST-Compliant Invoice</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">18% GST itemized invoice accepted across PSU, MNC, and Corporate portals.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-truck-loading" style="font-size: 1.8rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h4 style="color: #fff; margin-bottom: 8px;">Consignment Note (LR)</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Official Lorry Receipt specifying bike registration details, engine number, and vehicle condition.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-clipboard-check" style="font-size: 1.8rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h4 style="color: #fff; margin-bottom: 8px;">Pre-Pickup Inspection Report</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Detailed inspection documenting existing scratches, fuel level, and odometer reading before loading.</p>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- 10. 10 to 15 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      <?php 
-      $schema_items = [];
-      foreach ($faq_list as $faq) {
-          $schema_items[] = '{
-            "@type": "Question",
-            "name": ' . json_encode($faq['q']) . ',
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": ' . json_encode($faq['a']) . '
-            }
-          }';
-      }
-      echo implode(',', $schema_items);
-      ?>
-    ]
-  }
-  </script>
-
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      
-      <div class="section-header text-center" style="margin-bottom: 40px;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
-        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Bike Transport in Kanpur</span>
-        </h2>
+  <!-- Section 10: Detailed FAQs with JSON-LD Schema -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Common queries regarding bike transport services in Kanpur.</p>
       </div>
 
-      <div style="display: flex; flex-direction: column; gap: 14px;">
-        <?php foreach ($faq_list as $idx => $faq): ?>
-          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
-            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-              <?php echo htmlspecialchars($faq['a']); ?>
-            </p>
-          </div>
-        <?php endforeach; ?>
-      </div>
+      <div style="max-width: 800px; margin: 0 auto; display: grid; gap: 15px;">
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">How is bike transport in Kanpur executed?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">We pick up your bike directly from your home in Kanpur, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely.</p>
+        </div>
 
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">What documents are mandatory for bike transport from Kanpur?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">Is doorstep pickup available in Civil Lines and Kakadeo?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">Yes, doorstep collection and delivery services are fully active across all major residential sectors and commercial hubs in Kanpur.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">Is transit insurance included?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit.</p>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
-  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
-    <div class="container" style="max-width: 900px; text-align: center;">
-      
-      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-        Book Bike Transport in Kanpur
-      </span>
-
-      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
-        Need Safe <span style="color: #f59e0b;">Bike Transport in Kanpur</span>?
-      </h2>
-
-      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Kanpur team today for a transparent fixed-price quote and enjoy door-to-door insured bike shipping across India.
+  <!-- Section 11: Call-To-Action Conversion Footer -->
+  <section style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); padding: 60px 0; text-align: center; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.3);">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Book Your Bike Transport in Kanpur Today</h2>
+      <p style="font-size: 1.1rem; color: #cbd5e1; max-width: 700px; margin: 0 auto 30px; line-height: 1.7;">
+        Safe, IBA-approved, and insured two-wheeler relocation across Kanpur. Get your free estimate now!
       </p>
-
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="padding: 15px 35px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1.05rem; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Kanpur." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20book%20Bike%20Transport%20in%20Kanpur." target="_blank" title="WhatsApp Us" style="padding: 15px 35px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1.05rem; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
         </a>
       </div>
-
     </div>
   </section>
 
 </main>
 
-<script>
-function sendHeroWhatsAppLead(event, form) {
-  event.preventDefault();
-  var name = form.querySelector('[name="name"]').value;
-  var phone = form.querySelector('[name="phone"]').value;
-  var moveFrom = form.querySelector('[name="move_from"]').value;
-  var moveTo = form.querySelector('[name="move_to"]').value;
-  var extraMsg = form.querySelector('[name="message"]').value;
-  
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Bike Transport Quote from Kanpur:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
-  
-  if (extraMsg && extraMsg.trim() !== '') {
-    message += "\n- Bike Model: " + extraMsg;
-  }
-  
-  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
-  window.location.href = whatsappUrl;
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is bike transport in Kanpur executed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We pick up your bike directly from your home in Kanpur, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are mandatory for bike transport from Kanpur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is doorstep pickup available in Civil Lines and Kakadeo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, doorstep collection and delivery services are fully active across all major residential sectors and commercial hubs in Kanpur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is transit insurance included?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit."
+      }
+    }
+  ]
 }
 </script>
 

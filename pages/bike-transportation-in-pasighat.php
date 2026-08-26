@@ -36,14 +36,14 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Bike Transportation in Pasighat</span>
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Professional bike transportation in Pasighat, Arunachal Pradesh. Secure door-to-door two-wheeler shifting with 4-layer extreme-rain and mountain-road protection.
+            Premier two-wheeler logistics connecting Pasighat, East Siang, Assam borders, and Pan-India destinations. Waterproof 7-layer mountain packing, shock-absorbent harnesses, and full transit insurance.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote%20for%20Pasighat." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
@@ -81,8 +81,199 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Key Stats Counter Bar -->
+  <section style="background: #1c2541; padding: 40px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">3,900+</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Bikes Transported from Pasighat</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100%</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Heavy-Rain & Torrential Proof</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">Zero</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Hill-Road Transit Damage</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">IBA & Defence</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Approved Billing Documentation</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6-Card Feature Grid -->
+  <section style="background: #0b132b; padding: 60px 0; color: #fff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #fff;">Why Choose Our <span style="color: #f59e0b;">Pasighat Bike Shifting</span></h2>
+        <p style="color: #94a3b8; max-width: 650px; margin: 10px auto 0;">Tailored logistics for Eastern Himalaya mountain roads, government officials, and military personnel.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-umbrella" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Monsoon Torrent Seal</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Heavy-duty 100% waterproof tarpaulin and shrink wrapping resist heavy North East rainfall.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-truck-monster" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Mountain Highway Carriers</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Specially equipped trucks with air-suspension and wheel clamps for winding hill terrains.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-box-open" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">7-Layer Multi-Guard Packing</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Bubble wrap, corrugated sheets, and foam corner pads ensure scratch-free transit.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-map-marked-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Pasighat Doorstep Pickup</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Pickup from Mirsam, Gumin Nagar, Lower Primary School road, and Airport road areas.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">IBA & Defence Reimbursement</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Official GST bills and IBA-approved documents for government, PSU, and armed forces transfer claims.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-headset" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">End-to-End Tracking</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Regular WhatsApp status updates from mountain departure to final city delivery.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Specialized Services Breakdown -->
+  <section style="background: #1c2541; padding: 60px 0; color: #fff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800;">Specialized Two-Wheeler Shifting Options</h2>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Standard Commuter Motorcycles</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1;">Cost-effective shared container transport with double-layer protective wrapping.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Adventure & Himalayan Touring Bikes</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1;">Reinforced frame ties, pannier protection, and custom wooden crating options.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Scooters & Mopeds</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1;">Comprehensive body encasing and safe loading ramps for lightweight two-wheelers.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7-Layer Packaging Framework -->
+  <section style="background: #0b132b; padding: 60px 0; color: #fff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 30px;">
+        <h2 style="font-size: 2rem; font-weight: 800;">Our 7-Layer Safety Packaging Standard</h2>
+      </div>
+      <div style="max-width: 800px; margin: 0 auto; display: grid; gap: 12px;">
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">1</span>
+          <span>Waterproof Rain Barrier Stretch Film Wrap</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">2</span>
+          <span>80-GSM Heavy Bubble Wrap Shock Protection</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">3</span>
+          <span>High-Density Foam Guard for Fuel Tank, Engine & Exhaust</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">4</span>
+          <span>Corrugated Fiberboard Full Body Shielding</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">5</span>
+          <span>Waterproof Outer Polyethylene Enclosure</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">6</span>
+          <span>Heavy Nylon Webbing Belt Harness Anchoring</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">7</span>
+          <span>Custom Wooden Crate Box (Optional for High-End Bikes)</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs with Schema -->
+  <section style="background: #1c2541; padding: 60px 0; color: #fff;">
+    <div class="container" style="max-width: 900px;">
+      <h2 style="text-align: center; font-size: 2rem; font-weight: 800; margin-bottom: 30px;">Frequently Asked Questions (Pasighat)</h2>
+      <div style="display: grid; gap: 15px;">
+        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">What is the cost of bike transportation from Pasighat?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Bike shifting charges from Pasighat range between ₹3,500 and ₹9,500 depending on distance and mountain corridor routes.</p>
+        </div>
+        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">How do you protect bikes against heavy rains during Pasighat transit?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">We apply 100% waterproof stretch wrap and transport bikes in fully enclosed covered container trucks.</p>
+        </div>
+        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Do you handle government and military relocation paperwork in Pasighat?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Yes, we issue IBA-compliant bills and GST invoices suitable for government and armed forces transfer allowances.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Footer -->
+  <section style="background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); padding: 50px 0; text-align: center; color: #fff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Book Your Pasighat Bike Shifting Today</h2>
+      <p style="font-size: 1.1rem; max-width: 600px; margin: 0 auto 25px; color: #ffe4e6;">Safe, dependable, and fully insured two-wheeler transport.</p>
+      <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 15px 35px; background: #fff; color: #be123c; font-weight: 800; border-radius: 50px; text-decoration: none; font-size: 1.1rem; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+        <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call <?php echo SITE_PHONE; ?>
+      </a>
+    </div>
+  </section>
 
 </main>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of bike transportation from Pasighat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bike shifting charges from Pasighat range between ₹3,500 and ₹9,500 depending on distance and mountain corridor routes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you protect bikes against heavy rains during Pasighat transit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We apply 100% waterproof stretch wrap and transport bikes in fully enclosed covered container trucks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you handle government and military relocation paperwork in Pasighat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we issue IBA-compliant bills and GST invoices suitable for government and armed forces transfer allowances."
+      }
+    }
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

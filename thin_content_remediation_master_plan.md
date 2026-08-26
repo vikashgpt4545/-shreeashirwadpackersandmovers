@@ -14,8 +14,8 @@ This document tracks the site-wide SEO remediation effort for `shreeashirwadpack
 | **Batch 3** | Western UP & NCR Cluster | 500 | 500 | **100% Completed** | `batch_3_western_up_remediation_plan.md` |
 | **Batch 4** | Bihar Regional Cluster (Patna Intercity Routes & Sub-Localities) | 600 | 600 | **100% Completed** | `batch_4_bihar_remediation_plan.md` |
 | **Batch 5** | Jharkhand Regional Sub-Locality Cluster | 500 | 500 | **100% Completed** | `batch_5_jharkhand_remediation_plan.md` |
-| **Batch 6** | Interstate Long-Distance Route Pages | 920 | 0 | Pending | TBD |
-| **TOTAL** | **All Site Clusters** | **3,220** | **2,300** | **71.43% High Quality** | |
+| **Batch 6** | Interstate Long-Distance Route Pages | 920 | 605 | **In Progress (65.76%)** | `batch_6_interstate_remediation_plan.md` |
+| **TOTAL** | **All Site Clusters** | **3,220** | **2,905** | **90.22% High Quality** | |
 
 ---
 

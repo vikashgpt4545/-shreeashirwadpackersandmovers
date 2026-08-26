@@ -2,27 +2,42 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Changanassery | Safe Two-Wheeler Shifting Kerala";
-$page_desc = "Professional bike transportation in Changanassery, Kottayam district, Kerala. Doorstep motorcycle shifting with 4-layer packing, full transit insurance, and GPS tracking across India.";
-$page_keywords = "bike transportation in changanassery, best bike transportation in changanassery, affordable bike transportation in changanassery, packers and movers, packers and movers in ranchi, top bike transportation in changanassery company, household shifting bike transportation in changanassery, doorstep bike transportation in changanassery, verified bike transportation in changanassery services, shree ashirwad bike transportation in changanassery";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-changanassery.php";
+$page_desc = "Professional bike transportation in Changanassery, Kottayam district, Kerala. Doorstep motorcycle shifting with 4-layer packing, transit insurance, and GPS tracking. Call 8409531615.";
+$page_keywords = "bike transportation in changanassery, bike shifting changanassery kottayam, motorcycle transport changanassery, two wheeler carrier changanassery, IBA approved bike transport changanassery, bike parcel cost changanassery, scooter transport changanassery, Kerala bike parcel service";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/bike-transportation-in-changanassery";
+
+$page_city = "Changanassery, Kerala";
+
+$faq_list = [
+    ['q' => 'How is bike transportation safely executed from Changanassery?', 'a' => 'Motorcycles are packed using 4 layers of heavy air bubble wrap, corrugated cardboard casing, foam guards, and waterproof stretch film before loading into enclosed container trucks equipped with wheel chocks for highway transit.'],
+    ['q' => 'What is the cost of bike transportation from Changanassery?', 'a' => 'Regional bike transport from Changanassery to Ernakulam, Trivandrum, or Calicut ranges from ₹2,200 to ₹4,000, while long-distance shipping to Bangalore, Chennai, Hyderabad, or Mumbai ranges from ₹4,500 to ₹8,500 depending on bike model.'],
+    ['q' => 'Is doorstep bike pickup available across Changanassery & surrounding areas?', 'a' => 'Yes, our team provides doorstep motorcycle pickup and home delivery across all Changanassery localities including Perunna, Puzhavathu, Vazhappally, Chethipuzha, Thengana, and Kurichy.'],
+    ['q' => 'Do you provide IBA approved GST bills for govt, defense & corporate claims?', 'a' => 'Yes, 100% genuine IBA-compliant GST tax invoices, Money Receipts, Consignment Lorry Receipts (LR), and vehicle inspection sheets are provided for defense, police, government, and corporate claims.'],
+    ['q' => 'Is transit insurance included during bike shipping from Changanassery?', 'a' => 'Yes, comprehensive transit insurance policy (1.5% of declared vehicle valuation) is arranged to protect your bike against highway accidents or damage.'],
+    ['q' => 'What documents are required to ship a motorcycle from Changanassery?', 'a' => 'You need a photocopy of the Bike Registration Certificate (RC), valid vehicle insurance policy, owner Aadhaar card / Govt ID, and our pre-loading inspection receipt.'],
+    ['q' => 'Do I need to drain the petrol tank before bike transport?', 'a' => 'Yes, as per transport safety guidelines, fuel should be reduced to under 1 liter to avoid fire hazards during container truck transit.'],
+    ['q' => 'How long does bike parcel delivery take from Changanassery?', 'a' => 'Deliveries to Kochi and Trivandrum take 24-48 hours, while transport to Bangalore, Chennai, or North India takes 2-5 days.'],
+    ['q' => 'Can I track my motorcycle during highway transport from Changanassery?', 'a' => 'Yes, all container trucks carry live GPS tracking, and our team provides regular status updates via WhatsApp.'],
+    ['q' => 'How do I book bike transport service in Changanassery?', 'a' => 'Call +91 8409531615 or click Chat on WhatsApp for an instant transparent quote and doorstep booking slot reservation.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active">Bike Transportation in Changanassery</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -30,34 +45,34 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BIKE TRANSPORTATION CHANGANASS RELOCATION SPECIALISTS
+            IBA Approved Logistics
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Bike Transportation in Changanassery</span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Safe &amp; Insured <span style="color: #f59e0b;">Bike Transportation in Changanassery</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Professional bike transportation in Changanassery, Kottayam district, Kerala. Doorstep motorcycle shifting with 4-layer packing, full transit insurance, and GPS tracking across India.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Relocating your motorcycle from Changanassery (Kottayam district, Kerala)? Shree Ashirwad Packers and Movers offers multi-layer bubble packaging, enclosed container truck shipping, doorstep pickup across Perunna &amp; Chethipuzha, full transit insurance, and 100% IBA-approved GST bills.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20information%20about%20bike%20transportation%20in%20Changanassery." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">1,650+</strong> Bikes Transported</span>
+            <span><strong style="color: #f59e0b;">4-Layer</strong> Bubble Packaging</span>
+            <span><strong style="color: #f59e0b;">100%</strong> IBA GST Bills</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Changanassery Shifting Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Bike Transport Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -65,14 +80,17 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Changanassery" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" placeholder="Pickup Location" value="Changanassery Kerala" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Bike Model (e.g. Royal Enfield, Jupiter, Pulsar, Himalayan)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
+              Get Quote on WhatsApp
             </button>
           </form>
         </div>
@@ -81,8 +99,396 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- 3. Key Stats Counter Bar -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">1,650+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Bikes Transported in Changanassery</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">4-Layer</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Scratch-Proof Wrapping</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">GPS</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Real-Time Location Tracking</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Official Claim Documentation</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
+    <div class="container">
+      
+      <div style="max-width: 950px; margin: 0 auto;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Bike Shifting Advantages</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Bike Transportation in Changanassery</span>?
+        </h2>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-motorcycle"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Bike Pickup</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Our team inspects and collects your motorcycle directly from your doorstep in Changanassery with pre-loading documentation.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box-open"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">4-Layer Protective Packing</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Heavy bubble wrap, corrugated sheets, foam edge protectors, and stretch film guarantee zero scratches or denting.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice-dollar"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Legitimate IBA-compliant tax invoices for defense, police, govt, and corporate claims.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-loading"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed Container Trucks</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Bikes are safely anchored inside covered container trucks using heavy-duty nylon belts to prevent movement.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-satellite-dish"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Live GPS Tracking</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Track your motorcycle's exact transit progress with daily location updates delivered directly via WhatsApp.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Comprehensive transit insurance policy protecting your two-wheeler against accidents or transit risks.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 5. Specialized Services Breakdown (6 Cards) -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Relocation Portfolio</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Specialized Services in <span style="color: #f59e0b;">Changanassery</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Standard Bike Shipping</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Scratch-free bubble wrap packaging for commuter bikes &amp; scooters.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Cruiser &amp; Sports Bike Shift</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Extra crate protection for Royal Enfield, Himalayan, and touring bikes.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Car Carrier Shipping</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Enclosed hydraulic container trailers for hatchback, sedan &amp; SUV.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Household Relocation</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Complete home packing, loading, transport, and unloading.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Office Shifting</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Corporate office desks, computers, and document parcel relocation.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Warehousing &amp; Storage</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">CCTV-monitored secure short-term and long-term vehicle storage.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 6. 7-Layer Safety Packaging Framework -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Two-Wheeler Packaging Framework
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Pre-Loading Inspection</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Detailed recording of fuel level, odometer reading &amp; body condition.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Foam Mirror Guards</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Thick foam wrapping on side mirrors, indicators, and levers.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 03</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">80-GSM Bubble Wrap</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Double-layer high density air bubble wrap covering tank and body panels.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 04</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Corrugated Sheet Shell</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Heavy corrugated cardboard casing providing impact resistance.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 05</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Waterproof Film Seal</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Stretch film layer shielding against dust, rain, and moisture.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Nylon Belt Anchoring</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Bike tied firmly to container truck walls with heavy nylon straps.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Wheel Chock Locking</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Front and rear wheel blocks wedged to eliminate highway vibration.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 7. Origin Pickup Locality Grid (4 Contextual Links) -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Changanassery Locality Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Bike Pickup Locations Across <span style="color: #f59e0b;">Changanassery</span>
+      </h2>
+
+      <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        We provide door-to-door bike pickup across major residential and commercial areas in Changanassery:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Perunna &amp; Puzhavathu</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Central Changanassery town motorcycle pickup hub.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Vazhappally &amp; Chethipuzha</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Educational institution &amp; residential colony collection center.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Thengana &amp; Kurichy</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">MC Road suburban motorcycle dispatch node.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Car Transportation Changanassery</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Enclosed hydraulic car carrier service in Changanassery.</p>
+          <a href="<?php echo SITE_URL; ?>car-transportation-in-changanassery" title="Car Transportation Changanassery →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
+            Car Transportation Changanassery →
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 8. Intercity Route Network Grid (4 Contextual Links) -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Highway Corridors</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Bike Shipping Routes from <span style="color: #f59e0b;">Changanassery</span>
+      </h2>
+
+      <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        Daily dedicated bike parcel container routes connecting Changanassery to major regional and national cities:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Changanassery to Kottayam / Ernakulam</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Express intra-state bike shipping along MC Road corridor.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Changanassery to Trivandrum / Kollam</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Direct 24-hour motorcycle transport to capital city.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Changanassery to Bangalore / Mysuru</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Daily covered container truck route to Karnataka IT hubs.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Changanassery to Chennai / Coimbatore</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Direct interstate highway transport to Tamil Nadu cities.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 9. IBA Approved GST Billing Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Claims Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing for Bike Transport in Changanassery
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Two-Wheeler Relocation Claim Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Official GST Consignment Invoice</strong> with itemized bike freight &amp; packing charges.</li>
+          <li><strong>Bike Condition Inspection Sheet</strong> recorded prior to packing at Changanassery.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with carrier vehicle details.</li>
+          <li><strong>IBA Approved Stamp &amp; Registration Code</strong> on company letterhead.</li>
+          <li><strong>Comprehensive Transit Insurance Policy Document</strong>.</li>
+          <li><strong>Stamped Money Receipt</strong> for defense, police, and govt reimbursement submission.</li>
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 10. 10 to 15 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions About <span style="color: #f59e0b;">Bike Transport in Changanassery</span>
+        </h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Bike Shipping in Changanassery
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Need Safe <span style="color: #f59e0b;">Bike Transportation in Changanassery</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Contact our Changanassery team today for a transparent fixed-price quote and enjoy door-to-door insured motorcycle parcel shipping across India.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Changanassery." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+
+    </div>
+  </section>
 
 </main>
+
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Bike Transport Quote from Changanassery Kerala:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Bike Model: " + extraMsg;
+  }
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

@@ -1,64 +1,66 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transport from Guntur to Bangalore | Safe Two-Wheeler Shifting";
-$page_desc = "Planning bike transport from Guntur to Bangalore? Get safe, insured, and doorstep motorcycle shipping services. View estimated charges, transit times, and packaging details. Complete door-to-door relocation coverage across Koramangala, Indiranagar, Whitefield, HSR Layout, Electronic City.";
-$page_keywords = "bike transport from guntur to bangalore, best bike transport from guntur to bangalore, affordable bike transport from guntur to bangalore, packers and movers, packers and movers in ranchi, top bike transport from guntur to bangalore company, household shifting bike transport from guntur to bangalore, doorstep bike transport from guntur to bangalore, verified bike transport from guntur to bangalore services, shree ashirwad bike transport from guntur to bangalore";
+$page_title = "Bike Transport from Guntur to Bangalore | Two-Wheeler Shifting Charges";
+$page_desc = "Safe and insured bike transport services from Guntur to Bangalore. Doorstep pickup across Brodipet, Lakshmipuram & Guntur, 7-layer bubble wrapping, enclosed container trucks, and 100% transit insurance. Get instant quote!";
+$page_keywords = "bike transport from guntur to bangalore, guntur to bangalore bike parcel service, two wheeler shifting guntur to bangalore, bike transport charges guntur to bangalore";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-from-guntur-to-bangalore.php";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main" style="background-color: #0b132b; color: #e2e8f0; font-family: 'Inter', system-ui, -apple-system, sans-serif;">
 
   <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
-    <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+  <div class="breadcrumb-wrapper" style="background: #1c2541; padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      <div class="breadcrumb-list" style="font-size: 0.88rem; color: #94a3b8;">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a></span>
+        <span class="breadcrumb-separator" style="margin: 0 8px; color: #64748b;">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>#services" title="Services" style="color: #f59e0b; text-decoration: none;">Services</a></span>
+        <span class="breadcrumb-separator" style="margin: 0 8px; color: #64748b;">/</span>
+        <span class="breadcrumb-item active" style="color: #cbd5e1;">Guntur to Bangalore Bike Transport</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
-    <div class="container">
+  <!-- Section 1: Hero Section with Lead Form -->
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 65px 0; color: #ffffff;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BIKE TRANSPORT FROM GUNTUR BAN RELOCATION SPECIALISTS
+            GUNTUR TO BANGALORE BIKE RELOCATION SPECIALISTS
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Bike Transport from Guntur to Bangalore</span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.25; margin-bottom: 20px; color: #ffffff;">
+            Safe & Reliable <span style="color: #f59e0b;">Bike Transport from Guntur to Bangalore</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Planning bike transport from Guntur to Bangalore? Get safe, insured, and doorstep motorcycle shipping services. View estimated charges, transit times, and packaging details. Complete door-to-door relocation coverage across Koramangala, Indiranagar, Whitefield, HSR Layout, Electronic City.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Moving your motorcycle from Guntur to Bangalore? Shree Ashirwad Packers and Movers provides scratch-free two-wheeler transport using covered container trucks, 7-layer protective wrapping, and 100% transit insurance.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20bike%20transport%20from%20Guntur%20to%20Bangalore." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Shipping</span>
+            <span><strong style="color: #f59e0b;">7-Layer</strong> Multi-Wrap</span>
             <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Koramangala Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Bangalore Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Transparent pricing directly on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
@@ -68,11 +70,11 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Koramangala" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Guntur" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" value="Bangalore" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
+              Get Free Estimate Now &rarr;
             </button>
           </form>
         </div>
@@ -81,8 +83,435 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Section 2: Trust Signals & Key Statistics -->
+  <section style="padding: 45px 0; background: #1c2541; border-top: 1px solid rgba(255,255,255,0.05); border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; text-align: center;">
+        
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">610+ km</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Guntur to Bangalore Highway Corridor</div>
+        </div>
+
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">2 - 3 Days</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Average Express Transit Duration</div>
+        </div>
+
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">7-Layer</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Thick Bubble & Corrugated Wrapping</div>
+        </div>
+
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">100%</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Transit Insurance Protection</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 3: Cost Estimation Matrix -->
+  <section style="padding: 60px 0; background: #0b132b;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Estimated Bike Transport Charges from Guntur to Bangalore
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem; max-width: 700px; margin: 0 auto;">
+          Fair and transparent rates based on two-wheeler engine capacity and protective packaging layer.
+        </p>
+      </div>
+
+      <div style="overflow-x: auto; background: #1c2541; border-radius: 14px; border: 1px solid rgba(255,255,255,0.1); padding: 10px;">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem; color: #e2e8f0;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.15); border-bottom: 2px solid rgba(245, 158, 11, 0.3);">
+              <th style="padding: 16px; color: #f59e0b; font-weight: 700;">Vehicle Category</th>
+              <th style="padding: 16px; color: #f59e0b; font-weight: 700;">Engine Capacity</th>
+              <th style="padding: 16px; color: #f59e0b; font-weight: 700;">Packaging Type</th>
+              <th style="padding: 16px; color: #f59e0b; font-weight: 700;">Estimated Rate</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px; font-weight: 600;">Standard Scooters / Commuter Bikes</td>
+              <td style="padding: 16px;">100cc - 125cc</td>
+              <td style="padding: 16px;">Bubble Wrap + Corrugated Sheet</td>
+              <td style="padding: 16px; color: #f59e0b; font-weight: 700;">₹3,500 - ₹5,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px; font-weight: 600;">Executive / Sports Motorcycles</td>
+              <td style="padding: 16px;">150cc - 250cc</td>
+              <td style="padding: 16px;">5-Layer Foam + Guard Padding</td>
+              <td style="padding: 16px; color: #f59e0b; font-weight: 700;">₹4,500 - ₹6,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px; font-weight: 600;">Cruisers / Royal Enfield / Adventure</td>
+              <td style="padding: 16px;">250cc - 500cc</td>
+              <td style="padding: 16px;">7-Layer Premium Cushion Wrap</td>
+              <td style="padding: 16px; color: #f59e0b; font-weight: 700;">₹5,800 - ₹8,200</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px; font-weight: 600;">Superbikes & Premium Bikes</td>
+              <td style="padding: 16px;">500cc+</td>
+              <td style="padding: 16px;">Custom Wooden Crate Packaging</td>
+              <td style="padding: 16px; color: #f59e0b; font-weight: 700;">₹8,800 - ₹13,000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="font-size: 0.85rem; color: #64748b; margin-top: 12px; text-align: center;">
+        * Final charges depend on exact pickup area in Guntur and destination sector in Bangalore.
+      </p>
+    </div>
+  </section>
+
+  <!-- Section 4: Key Operational Features -->
+  <section style="padding: 60px 0; background: #1c2541;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Why Choose Shree Ashirwad for Guntur to Bangalore Shifting
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem; max-width: 700px; margin: 0 auto;">
+          We offer high-grade multi-layer packaging and dedicated auto carrier trucks for damage-free relocation.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px;">
+        
+        <div style="background: rgba(255,255,255,0.03); border-radius: 12px; padding: 30px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; border-radius: 10px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; margin-bottom: 20px;">
+            <i class="fas fa-layer-group"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">7-Layer Multi-Wrap</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.7;">
+            Handlebars, body panels, fuel tank, and exhaust are heavily padded with bubble film, foam sheet, and corrugated board.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border-radius: 12px; padding: 30px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; border-radius: 10px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; margin-bottom: 20px;">
+            <i class="fas fa-truck-moving"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Covered Container Trucks</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.7;">
+            Bikes travel inside weather-sealed container carriers with wheel locks to ensure zero movement during express highway transit.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border-radius: 12px; padding: 30px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; border-radius: 10px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; margin-bottom: 20px;">
+            <i class="fas fa-shield-alt"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Transit Insurance</h3>
+          <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.7;">
+            Full transit insurance coverage safeguards your bike against physical damage or accidents during interstate shipping.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 5: Step-by-Step Transport Workflow -->
+  <section style="padding: 60px 0; background: #0b132b;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          4-Step Shipping Workflow
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem; max-width: 700px; margin: 0 auto;">
+          Organized relocation process ensuring safe, stress-free bike transport.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 25px;">
+        
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); position: relative;">
+          <div style="font-size: 2.5rem; font-weight: 900; color: rgba(245, 158, 11, 0.2); position: absolute; top: 15px; right: 20px;">01</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Guntur Pickup</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">
+            Doorstep pickup from Brodipet, Arundandelpet, Lakshmipuram, Collectorate Road, or Pattabhipuram.
+          </p>
+        </div>
+
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); position: relative;">
+          <div style="font-size: 2.5rem; font-weight: 900; color: rgba(245, 158, 11, 0.2); position: absolute; top: 15px; right: 20px;">02</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Onsite Multi-Wrap</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">
+            7-layer bubble and corrugated packaging applied on site, petrol drained to safety levels, and bike loaded.
+          </p>
+        </div>
+
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); position: relative;">
+          <div style="font-size: 2.5rem; font-weight: 900; color: rgba(245, 158, 11, 0.2); position: absolute; top: 15px; right: 20px;">03</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Express Highway Transit</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">
+            Direct highway transit via NH 16 / NH 44 corridor towards Bangalore with status updates.
+          </p>
+        </div>
+
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); position: relative;">
+          <div style="font-size: 2.5rem; font-weight: 900; color: rgba(245, 158, 11, 0.2); position: absolute; top: 15px; right: 20px;">04</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Bangalore Door Delivery</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">
+            Unpacking and joint condition inspection at your residence in Koramangala, Whitefield, HSR Layout, etc.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 6: Comprehensive Coverage Areas -->
+  <section style="padding: 60px 0; background: #1c2541;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Pickup & Delivery Network Coverage
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Complete coverage across all localities of Guntur and Bangalore.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+        
+        <div style="background: #0b132b; padding: 30px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #f59e0b; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-map-marker-alt"></i> Guntur Pickup Locations
+          </h3>
+          <ul style="list-style: none; padding: 0; margin: 0; color: #cbd5e1; font-size: 0.95rem; line-height: 2;">
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Brodipet, Arundandelpet, & Lakshmipuram</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Collectorate Road & Pattabhipuram</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Amaravathi Road & Syamala Nagar</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Old Club Road & Gujanagulla</li>
+          </ul>
+        </div>
+
+        <div style="background: #0b132b; padding: 30px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="font-size: 1.3rem; font-weight: 700; color: #f59e0b; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-map-marker-alt"></i> Bangalore Delivery Sectors
+          </h3>
+          <ul style="list-style: none; padding: 0; margin: 0; color: #cbd5e1; font-size: 0.95rem; line-height: 2;">
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Koramangala, Indiranagar, & HSR Layout</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Whitefield, Marathahalli, & Bellandur</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Electronic City, Bommanahalli, & Bannerghatta</li>
+            <li><i class="fas fa-check-circle" style="color: #10b981; margin-right: 8px;"></i> Yelahanka, Hebbal, & Manyata Tech Park Belt</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 7: Documentation Guide -->
+  <section style="padding: 60px 0; background: #0b132b;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Documents Required for Bike Shifting
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Keep photocopies of the following ready for highway transit:
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
+        
+        <div style="background: #1c2541; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-weight: 700; color: #ffffff; margin-bottom: 5px;">1. Vehicle RC</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Registration Certificate Copy</div>
+        </div>
+
+        <div style="background: #1c2541; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-weight: 700; color: #ffffff; margin-bottom: 5px;">2. Bike Insurance</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Valid Insurance Policy Copy</div>
+        </div>
+
+        <div style="background: #1c2541; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-weight: 700; color: #ffffff; margin-bottom: 5px;">3. Photo ID Proof</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Aadhaar or Driving License</div>
+        </div>
+
+        <div style="background: #1c2541; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-weight: 700; color: #ffffff; margin-bottom: 5px;">4. Consignment Note</div>
+          <div style="font-size: 0.88rem; color: #94a3b8;">Issued at pickup by Shree Ashirwad</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 8: Preparation Tips -->
+  <section style="padding: 60px 0; background: #1c2541;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+      
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Pre-Transport Tips for Vehicle Owners
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Quick preparation steps before handing over your bike.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px;">
+        
+        <div style="background: #0b132b; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Minimal Petrol Level</h4>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Maintain around 1 liter of fuel in the tank to comply with highway transport safety standards.</p>
+        </div>
+
+        <div style="background: #0b132b; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Remove Personal Accessories</h4>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Detach helmets, keychains, luggage boxes, and mobile mounts before handover.</p>
+        </div>
+
+        <div style="background: #0b132b; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Photograph Your Bike</h4>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Take photos of the motorcycle from multiple angles prior to packing for record keeping.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 9: Frequently Asked Questions (FAQ) -->
+  <section style="padding: 60px 0; background: #0b132b;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 20px;">
+      
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Frequently Asked Questions (FAQ)
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Answers to common questions about Guntur to Bangalore bike shipping.
+        </p>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 20px;">
+        
+        <div style="background: #1c2541; padding: 24px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Q1: What is the cost of bike transport from Guntur to Bangalore?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Charges range between ₹3,500 and ₹8,200 depending on bike engine size (100cc to 500cc+), packaging level, and specific destination locality in Bangalore.
+          </p>
+        </div>
+
+        <div style="background: #1c2541; padding: 24px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Q2: What is the transit time from Guntur to Bangalore?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            The average transit duration for the 610+ km distance is 2 to 3 days using covered container carriers.
+          </p>
+        </div>
+
+        <div style="background: #1c2541; padding: 24px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Q3: Is doorstep pickup available in Brodipet and Lakshmipuram?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Yes, we provide doorstep pickup across Brodipet, Arundandelpet, Lakshmipuram, Collectorate Road, Pattabhipuram, and all areas of Guntur.
+          </p>
+        </div>
+
+        <div style="background: #1c2541; padding: 24px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Q4: Is transit insurance provided for motorcycle shipping?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Yes, comprehensive transit insurance is included to protect your bike against damage during long-distance shipping.
+          </p>
+        </div>
+
+        <div style="background: #1c2541; padding: 24px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px;">Q5: What documents are required for shipping?</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">
+            Photocopies of the bike Registration Certificate (RC), valid insurance policy, and owner's photo ID (Aadhaar or DL).
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 10: Call-to-Action (CTA) Footer Banner -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); border-top: 1px solid rgba(255,255,255,0.1);">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 20px; text-align: center;">
+      
+      <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+        Book Your Bike Transport from Guntur to Bangalore Today
+      </h2>
+      <p style="color: #cbd5e1; font-size: 1.1rem; max-width: 700px; margin: 0 auto 30px;">
+        Get an instant free quote on WhatsApp and experience safe, professional two-wheeler relocation.
+      </p>
+
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="padding: 15px 32px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20bike%20transport%20from%20Guntur%20to%20Bangalore." title="WhatsApp Chat" target="_blank" style="padding: 15px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Us
+        </a>
+      </div>
+
+    </div>
+  </section>
 
 </main>
+
+<!-- Section 11: Schema Markup (FAQPage JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of bike transport from Guntur to Bangalore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Charges range between ₹3,500 and ₹8,200 depending on bike engine size (100cc to 500cc+), packaging level, and specific destination locality in Bangalore."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the transit time from Guntur to Bangalore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The average transit duration for the 610+ km distance is 2 to 3 days using covered container carriers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is doorstep pickup available in Brodipet and Lakshmipuram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide doorstep pickup across Brodipet, Arundandelpet, Lakshmipuram, Collectorate Road, Pattabhipuram, and all areas of Guntur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is transit insurance provided for motorcycle shipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, comprehensive transit insurance is included to protect your bike against damage during long-distance shipping."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for shipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photocopies of the bike Registration Certificate (RC), valid insurance policy, and owner's photo ID (Aadhaar or DL)."
+      }
+    }
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

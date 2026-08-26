@@ -8,6 +8,8 @@ $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport
 include '../includes/header.php';
 ?>
 
+<main class="site-main dark-theme-override">
+
 <!-- Section 1: Visual Breadcrumb Navigation Bar -->
 <div class="breadcrumb-area bg-gray py-3">
     <div class="container">
@@ -581,5 +583,7 @@ include '../includes/header.php';
         </div>
     </div>
 </section>
+
+</main>
 
 <?php include '../includes/footer.php'; ?>

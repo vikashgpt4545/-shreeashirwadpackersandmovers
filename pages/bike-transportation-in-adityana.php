@@ -52,7 +52,7 @@ $faq_list = [
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main dark-theme-override">
 
   <!-- Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
@@ -187,7 +187,30 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- 10 Structured FAQs Section -->
+  <!-- 10 Structured FAQs Section + JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
   <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       <h2 style="font-size: 2.2rem; font-weight: 800; text-align: center; margin-bottom: 35px; color: #ffffff;">

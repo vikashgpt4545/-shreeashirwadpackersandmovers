@@ -3,90 +3,17 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Phusro | Safe Two-Wheeler Shifting";
 $page_desc = "Professional bike transportation in Phusro & Bermo coal belt, Jharkhand (JH-09). Insured doorstep two-wheeler relocation across Kargali, Dhori & SH-12 corridor with 4-layer packaging and IBA GST bills. Call 8409531615.";
-$page_keywords = "bike transportation in phusro, best bike transportation in phusro, affordable bike transportation in phusro, packers and movers, top bike transportation in phusro company, household shifting bike transportation in phusro, doorstep bike transportation in phusro, verified bike transportation in phusro services, shree ashirwad bike transportation in phusro";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-phusro.php";
+$page_keywords = "bike transportation in phusro, bike parcel service phusro bermo, motorcycle transport phusro to ranchi, two wheeler shifting bokaro jharkhand, IBA approved bike transport phusro, bike transport cost phusro";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/bike-transportation-in-phusro";
+
+$page_city = "Phusro, Bokaro, Jharkhand";
 
 $faq_list = [
-    [
-        'q' => 'Why choose Shree Ashirwad Packers for bike transportation in Phusro?',
-        'a' => 'We provide 4-layer shockproof armor wrapping (foam, bubble cushion, corrugated sheets, stretch film), doorstep pickup across Kargali & Dhori mining belt, enclosed carrier transport, 100% IBA-compliant GST billing, and transit insurance.'
-    ],
-    [
-        'q' => 'How much does bike shipping cost from Phusro to major Indian cities?',
-        'a' => 'Intercity bike transport rates from Phusro start at ₹2,500 for scooters and commuter bikes (up to 400 km), ₹3,800 for sports bikes, and ₹5,000+ for heavy cruisers depending on distance.'
-    ],
-    [
-        'q' => 'What is your 4-layer bike packaging protocol in Phusro?',
-        'a' => 'We apply: Layer 1: High-density EPE foam on mirrors & mudguards; Layer 2: Heavy-duty air-bubble cushion; Layer 3: Corrugated armor sheets around body panels; Layer 4: Waterproof stretch film lashing.'
-    ],
-    [
-        'q' => 'Should I drain petrol from my motorcycle before shipping from Phusro?',
-        'a' => 'Yes, safety regulations mandate draining fuel tanks down to less than 1 liter to prevent volatile vapor ignition during long-haul highway transit along SH-12 / NH-33.'
-    ],
-    [
-        'q' => 'Can CCL mining officers and corporate employees in Phusro claim bike shifting expenses?',
-        'a' => 'Yes, we provide 100% official 18% GST bills (SAC 996511), vehicle inspection receipts, LR consignment notes, and payment vouchers accepted by PSU audit desks.'
-    ],
-    [
-        'q' => 'What documents are required to ship a bike from Phusro?',
-        'a' => 'Required documents include a photocopy of the Vehicle RC (JH-09), valid insurance policy, photo ID proof (Aadhaar/PAN), and a signed vehicle condition checklist.'
-    ],
-    [
-        'q' => 'Do you collect two-wheelers directly from homes in Phusro and Bermo?',
-        'a' => 'Yes, we offer doorstep pickup across Phusro Bazar, Kargali Freight Yard, Dhori Market, Bermo Chowk, Bhandaridih, and SH-12 bypass areas.'
-    ],
-    [
-        'q' => 'How are bikes secured inside the transport container in Phusro?',
-        'a' => 'Bikes are anchored upright using heavy-duty nylon ratcheting belts attached to container floor chassis rings, keeping the vehicle completely steady.'
-    ],
-    [
-        'q' => 'How long does bike delivery take from Phusro to Ranchi, Patna, or Delhi?',
-        'a' => 'Transit to Ranchi or Patna takes 12 to 24 hours; delivery to Delhi, Kolkata, Bangalore, or Pune takes 3 to 5 days.'
-    ],
-    [
-        'q' => 'Can I send a helmet or bike accessories with the motorcycle from Phusro?',
-        'a' => 'Yes, one helmet and basic riding gear can be securely packed with the bike inside the corrugated wrapping at no extra charge.'
-    ],
-    [
-        'q' => 'Is transit insurance included with bike transport from Phusro?',
-        'a' => 'Yes, optional full-value transit insurance is provided to safeguard your two-wheeler against physical damage, accidents, or transit risks.'
-    ],
-    [
-        'q' => 'Do you transport scooty, electric scooters, and heavy cruisers in Phusro?',
-        'a' => 'Yes, we transport all two-wheeler types including Honda Activa, Ola/Ather EVs, Royal Enfield Bullet 350, and sports bikes.'
-    ],
-    [
-        'q' => 'How can I track my bike during transit from Phusro?',
-        'a' => 'We provide real-time location updates via WhatsApp and phone through our central tracking desk until final doorstep delivery.'
-    ],
-    [
-        'q' => 'Do I need to clean my motorcycle before handing it over in Phusro?',
-        'a' => 'Yes, a clean bike allows accurate inspection of paintwork and body panels before wrapping.'
-    ],
-    [
-        'q' => 'What if my bike suffers damage during transit from Phusro?',
-        'a' => 'In the rare event of damage, our team documents it on the delivery receipt and assists immediately with insurance claim processing.'
-    ],
-    [
-        'q' => 'What payment options are available for bike transport in Phusro?',
-        'a' => 'We accept UPI, Net Banking, credit/debit cards, and cash payments. Partial booking deposit is taken upon pickup and balance upon delivery.'
-    ],
-    [
-        'q' => 'Are there hidden toll or loading fees for bike transport in Phusro?',
-        'a' => 'No, our quotes are 100% transparent and inclusive of door pickup, multi-layer packaging, toll charges, and delivery.'
-    ],
-    [
-        'q' => 'Can you transport non-working or accidental bikes from Phusro?',
-        'a' => 'Yes, we handle non-operational bikes using specialized loading ramps and secure strapping.'
-    ],
-    [
-        'q' => 'Do you offer temporary bike storage facility in Phusro?',
-        'a' => 'Yes, we offer free short-term warehousing storage (up to 3 days) at our nearest central logistics hub.'
-    ],
-    [
-        'q' => 'How do I book bike transportation in Phusro?',
-        'a' => 'Call 8409531615 or submit the instant quote form to schedule your doorstep bike pickup slot in Phusro.'
-    ]
+    ['q' => 'How are motorcycles packed for transit in Phusro & Bermo?', 'a' => 'We use a 4-layer shockproof armor packaging system: high-density EPE foam on mirrors & levers, 80-GSM heavy bubble wrap, corrugated cardboard sheets for body panels, and waterproof PVC stretch wrap.'],
+    ['q' => 'What is the cost of bike transportation from Phusro?', 'a' => 'Rates from Phusro depend on destination distance and bike type. Regional shipping to Ranchi or Dhanbad ranges from ₹1,800 to ₹3,200, while long-distance interstate shipping to Delhi, Kolkata, or Bangalore ranges from ₹3,800 to ₹8,500.'],
+    ['q' => 'Do you provide doorstep motorcycle pickup across Phusro and Bermo?', 'a' => 'Yes, our team offers free doorstep pickup across Phusro Bazar, Kargali Freight Yard, Dhori Market, Bermo Chowk, Bhandaridih, and SH-12 bypass areas.'],
+    ['q' => 'Can CCL mining officers and corporate employees claim bike shifting expenses?', 'a' => 'Yes, we issue 100% genuine IBA-approved 18% GST invoices, Consignment Lorry Receipts (LR), vehicle condition audit reports, and official receipts for PSU and corporate reimbursement.'],
+    ['q' => 'Is transit insurance included with bike transport from Phusro?', 'a' => 'Yes, full-value transit insurance coverage is provided to protect your two-wheeler against physical damage, accidents, or transit risks along highway corridors.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -100,7 +27,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active">Bike Transportation in Phusro</span>
       </div>
     </div>
   </div>
@@ -113,34 +40,34 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            PHUSRO & BERMO BIKE RELOCATION SPECIALISTS (JH-09)
+            Phusro &amp; Bermo Relocation Specialists (JH-09)
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Bike Transportation in Phusro</span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Safe &amp; Insured <span style="color: #f59e0b;">Bike Transportation in Phusro</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Insured doorstep two-wheeler relocation across Phusro, Bermo, Kargali, Dhori Market & SH-12 corridor with 4-layer shockproof armor packaging and official IBA GST bills.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Insured doorstep two-wheeler relocation across Phusro, Bermo, Kargali, Dhori Market &amp; SH-12 corridor. Shree Ashirwad Packers and Movers provides 4-layer shockproof armor packaging, enclosed container carriers, full transit insurance, and official IBA GST bills.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transportation%20quote%20in%20Phusro." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20information%20about%20bike%20transportation%20in%20Phusro." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
             <span><strong style="color: #f59e0b;">4-Layer</strong> Armor Wrap</span>
             <span><strong style="color: #f59e0b;">100% Insured</strong> Shipping</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> GST Bills</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Phusro Bike Shifting Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Bike Shifting Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -148,17 +75,17 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Phusro" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" placeholder="Pickup (e.g. Phusro)" value="Phusro" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div style="margin-bottom: 14px;">
-              <input type="text" name="message" class="form-control" placeholder="Bike Model (e.g. Pulsar, Royal Enfield, Activa)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Bike Model (e.g. Pulsar, Royal Enfield, Activa)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
-              Get Instant Estimate Now &rarr;
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
+              Get Quote on WhatsApp
             </button>
           </form>
         </div>
@@ -167,156 +94,381 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Logistics Guide & Local Information -->
-  <section class="details-section" style="padding: 60px 0; background: #ffffff;">
+  <!-- Key Stats Section -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
-      <div style="max-width: 950px; margin: 0 auto; line-height: 1.8; color: #334155;">
-
-        <h2 style="font-size: 2.2rem; color: #0f172a; margin-bottom: 20px; font-weight: 800;">Two-Wheeler Transportation Services in Phusro, Jharkhand (JH-09)</h2>
-        <p style="margin-bottom: 20px; font-size: 1.05rem;">
-          Shree Ashirwad Packers and Movers is the premier motorcycle and scooter relocation provider in Phusro and the Bermo coalfield region. We specialize in transporting all types of two-wheelers—including commuter bikes, sports bikes, electric scooters, and heavy cruisers—with guaranteed zero scratches.
-        </p>
-
-        <!-- 4-Layer Safety Grid -->
-        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Our Signature 4-Layer Shockproof Bike Packaging</h3>
-        <p style="margin-bottom: 20px;">
-          To ensure total protection during highway haulage along SH-12 (Phusro-Bokaro-Ranchi corridor), every bike is wrapped using our strict 4-layer packaging protocol:
-        </p>
-
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px;">
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 1</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">EPE Foam Guard</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">High-density EPE foam applied around handlebars, mirrors, mudguards, and indicators.</p>
-          </div>
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 2</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Air-Bubble Cushioning</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Heavy-duty bubble wrap wrapping around fuel tank, engine block, and exhaust pipe.</p>
-          </div>
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 3</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Corrugated Armor Sheets</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Heavy cardboard sheeting encased around side panels, seat, and wheels to prevent impact.</p>
-          </div>
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 4</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Waterproof Stretch Film</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Tightly sealed PVC stretch wrapping guarding against dust, rain, and transit moisture.</p>
-          </div>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">1,950+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Bikes Transported in JH-09</div>
         </div>
-
-        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Local Logistics Corridors & Coverage in Phusro</h3>
-        <p style="margin-bottom: 20px;">
-          Phusro is governed under Bokaro district JH-09 RTO. Our doorstep bike pickup and transport team serves all key local quarters and industrial belts:
-        </p>
-        <ul style="margin-bottom: 25px; padding-left: 20px; color: #475569;">
-          <li><strong>Kargali Freight Yard & Dhori Market:</strong> Doorstep pickup for CCL mining employees, PSU officers, and local business owners.</li>
-          <li><strong>Bermo Chowk & Bhandaridih:</strong> Convenient doorstep collection connecting residential areas directly to main transport arteries.</li>
-          <li><strong>SH-12 Highway Corridor:</strong> Rapid dispatch corridor linking Phusro to Bokaro, Dhanbad, and Ranchi logistics hubs.</li>
-          <li><strong>Kathara & Jarangdih Townships:</strong> Full coverage across nearby coal mining colonies for quick two-wheeler relocation.</li>
-        </ul>
-
-        <!-- Tariff Table Matrix -->
-        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Estimated Bike Transportation Charges from Phusro</h3>
-        <p style="margin-bottom: 20px;">Below is an indicative tariff matrix for bike shipping from Phusro to key Indian cities:</p>
-
-        <div style="overflow-x: auto; margin-bottom: 30px;">
-          <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
-            <thead>
-              <tr style="background: #1e293b; color: #ffffff;">
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Destination Route</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Scooter / Commuter Bike</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Sports Bike (150cc - 350cc)</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Cruiser / Superbike (350cc+)</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Est. Transit Time</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr style="background: #f8fafc;">
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Phusro to Ranchi / Dhanbad</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 1,800 - ₹ 2,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 2,500 - ₹ 3,200</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 3,500 - ₹ 4,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">Same Day</td>
-              </tr>
-              <tr>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Phusro to Patna / Gaya</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 2,800 - ₹ 3,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 3,500 - ₹ 4,200</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 4,500 - ₹ 5,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">1 - 2 Days</td>
-              </tr>
-              <tr style="background: #f8fafc;">
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Phusro to Kolkata / Asansol</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 3,000 - ₹ 3,800</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 3,800 - ₹ 4,800</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 5,000 - ₹ 6,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">2 - 3 Days</td>
-              </tr>
-              <tr>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Phusro to Delhi / NCR</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 4,200 - ₹ 5,200</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 5,200 - ₹ 6,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 6,800 - ₹ 8,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">3 - 5 Days</td>
-              </tr>
-              <tr style="background: #f8fafc;">
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Phusro to Bangalore / Pune</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 5,500 - ₹ 6,800</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 6,800 - ₹ 8,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 8,500 - ₹ 10,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">4 - 6 Days</td>
-              </tr>
-            </tbody>
-          </table>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">4-Layer</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Shockproof Armor Wrap</div>
         </div>
-
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">GPS</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Live WhatsApp GPS Tracking</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Official Claim Invoices</div>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- High-Intent 20 FAQ Accordion Section -->
-  <section class="faq-section" style="padding: 60px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+  <!-- Section 3: 6-Card Grid - Features -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container">
+      
       <div style="max-width: 950px; margin: 0 auto;">
-        
-        <div style="text-align: center; margin-bottom: 40px;">
-          <span style="background: rgba(245, 158, 11, 0.15); color: #b45309; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">FREQUENTLY ASKED QUESTIONS</span>
-          <h2 style="font-size: 2.2rem; color: #0f172a; margin-top: 10px; font-weight: 800;">Bike Transportation in Phusro FAQs</h2>
-          <p style="color: #64748b; font-size: 1rem;">Clear answers to common questions about moving your bike from Phusro, Jharkhand</p>
-        </div>
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Bike Shifting Features</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Bike Transportation in Phusro</span>?
+        </h2>
 
-        <div class="faq-grid" style="display: grid; gap: 16px;">
-          <?php foreach ($faq_list as $index => $faq): ?>
-            <div class="faq-item" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 22px 26px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
-              <h3 style="font-size: 1.1rem; color: #0f172a; margin-bottom: 10px; font-weight: 700; display: flex; align-items: center;">
-                <span style="color: #f59e0b; margin-right: 12px; font-weight: 800;">Q<?php echo $index + 1; ?>.</span>
-                <?php echo htmlspecialchars($faq['q']); ?>
-              </h3>
-              <p style="color: #475569; font-size: 0.95rem; line-height: 1.7; margin: 0; padding-left: 32px;">
-                <?php echo htmlspecialchars($faq['a']); ?>
-              </p>
-            </div>
-          <?php endforeach; ?>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-motorcycle"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Pickup in Phusro</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Doorstep pickup across Kargali Freight Yard, Dhori Market, Bermo Chowk, and Bhandaridih with pre-transport audit.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box-open"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">4-Layer Shockproof Armor</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              High-density EPE foam, 80-GSM bubble wrap, corrugated armor sheets, and PVC stretch wrap guard fuel tank and paint.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">CCL &amp; PSU Relocation Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              100% genuine IBA-approved GST bills (SAC 996511) and Lorry Receipts for seamless employee claim reimbursement.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-anchor"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Container Ratchet Anchorage</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Motorcycles are clamped upright inside enclosed container trucks using heavy-duty nylon wheel belts and chassis harnesses.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-satellite-dish"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Live Highway GPS</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Real-time WhatsApp location updates from Phulabani/Phusro to your destination city across India.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-virus"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">100% Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Comprehensive full-value insurance policy covering highway risks, accidents, or transit damages.
+            </p>
+          </div>
+
         </div>
 
       </div>
+
+    </div>
+  </section>
+
+  <!-- 5. Specialized Services Breakdown (6 Cards) -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Relocation Portfolio</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Specialized Services in <span style="color: #f59e0b;">Phusro</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Two-Wheeler Parcel Service</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Multi-layer bubble wrap &amp; dust-proof packaging for bikes.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Enclosed Car Carrier</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Doorstep car pickup with hydraulic ramp container trucks.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Household Shifting</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Complete home relocation with disassembly &amp; reassembly.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Office Relocation</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Office furniture, computer setup &amp; record archive moving.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Express Luggage Service</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Student luggage, small apartment items &amp; single room shifting.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Secure Storage Facility</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Short-term and long-term CCTV monitored warehouse storage.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 6. 7-Layer Safety Packaging Framework -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Bike Protection Framework
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">EPE Foam Guard</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">High-density EPE foam on mirrors, mudguards &amp; controls.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Bubble Cushioning</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">80-GSM heavy bubble wrap for impact shock absorption.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 03</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Corrugated Armor</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Heavy cardboard sheet casing around petrol tank &amp; side panels.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 04</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Stretch Film</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Waterproof PVC stretch wrap protecting from moisture &amp; rain.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 05</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Wheel Chocks</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Heavy rubber chocks securing front &amp; rear wheels.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Ratchet Harness</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Industrial tie-down straps securing bike to truck floor chassis.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Covered Container Truck</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Weatherproof closed container transport protecting from rain &amp; dust.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 4: Local Bokaro / Phusro Pickup Network -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">JH-09 Local Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Bike Pickup Locations Across <span style="color: #f59e0b;">Phusro &amp; Bermo Belt</span>
+      </h2>
+
+      <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        We offer two-wheeler pickup and packing across all major Phusro and Bermo coalfield quarters:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kargali &amp; Dhori Market</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Doorstep bike pickup for CCL mining employees &amp; officers.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Bermo Chowk &amp; Bhandaridih</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Central residential society &amp; market motorcycle pickup.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">SH-12 Bypass Belt</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Direct highway container loading connecting Phusro to Bokaro.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kathara &amp; Jarangdih Townships</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Full coverage across surrounding coal colony quarters.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 5: Interstate Express Bike Routes -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Bike Routes</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Bike Transport Corridors from <span style="color: #f59e0b;">Phusro</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Phusro to Ranchi / Dhanbad</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Same-day or 24-hour intra-state motorcycle shipping.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Phusro to Patna / Gaya</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Direct covered vehicle carrier bike shipping to Bihar.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Phusro to Kolkata / Asansol</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Safe two-wheeler parcel to West Bengal hubs.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Phusro to Delhi / Bangalore / Pune</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Interstate covered container bike shipping across India.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 6: IBA Approved Claim Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Claims Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing for Bike Transport in Phusro
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Two-Wheeler Claim Document Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Official GST Consignment Invoice</strong> (SAC 996511) detailing bike freight.</li>
+          <li><strong>Bike Inspection Report</strong> recorded prior to loading at Phusro.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with truck registration details.</li>
+          <li><strong>IBA Approved Code &amp; Stamp Registration</strong> on official letterhead.</li>
+          <li><strong>Transit Insurance Policy Certificate</strong>.</li>
+          <li><strong>Stamped Money Receipt</strong> for CCL &amp; PSU reimbursement audit.</li>
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 7: FAQs with JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions About <span style="color: #f59e0b;">Bike Transport in Phusro</span>
+        </h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section 8: CTA Conversion Banner -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Bike Transport in Phusro
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Ready for Safe <span style="color: #f59e0b;">Bike Transportation in Phusro</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Contact our Phusro two-wheeler transport team today for a transparent fixed-price quote and enjoy scratch-free door delivery across India.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20shifting%20quote%20for%20Phusro." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+
     </div>
   </section>
 
 </main>
 
 <script>
-function sendHeroWhatsAppLead(e, form) {
-  e.preventDefault();
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
   var name = form.querySelector('[name="name"]').value;
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
   var extraMsg = form.querySelector('[name="message"]').value;
   
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Bike Transportation Quote in Phusro:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination: " + moveTo;
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Bike Transport Quote from Phusro:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
   
   if (extraMsg && extraMsg.trim() !== '') {
     message += "\n- Bike Model: " + extraMsg;
@@ -328,3 +480,4 @@ function sendHeroWhatsAppLead(e, form) {
 </script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+

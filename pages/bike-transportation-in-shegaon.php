@@ -2,9 +2,53 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Shegaon | Secure Shifting Maharashtra";
-$page_desc = "Professional two-wheeler shifting in Shegaon, Maharashtra. Insured doorstep transport with 4-layer packaging to guard against Vidarbha cotton fibers, dry summer heat, and highway transit dust.";
-$page_keywords = "bike transportation in shegaon, best bike transportation in shegaon, affordable bike transportation in shegaon, packers and movers, packers and movers in ranchi, top bike transportation in shegaon company, household shifting bike transportation in shegaon, doorstep bike transportation in shegaon, verified bike transportation in shegaon services, shree ashirwad bike transportation in shegaon";
+$page_desc = "Professional two-wheeler shifting in Shegaon, Maharashtra. Insured doorstep transport with 4-layer packaging, enclosed vehicle carriers & transparent rates.";
+$page_keywords = "bike transportation in shegaon, bike shifting shegaon, two wheeler transport shegaon, bike packers and movers shegaon, insured bike courier shegaon, shree ashirwad bike transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-shegaon.php";
+
+// Define 10-Item FAQ Array for Dynamic Schema and On-Page Render
+$faq_list = [
+    [
+        "question" => "How is bike transportation handled in Shegaon, Maharashtra?",
+        "answer" => "We provide complete doorstep bike transport in Shegaon. Our team picks up your vehicle, applies 4-layer bubble packaging, loads it securely onto enclosed transport trucks, and delivers it safely anywhere across India."
+    ],
+    [
+        "question" => "What is the estimated cost of bike transport from Shegaon?",
+        "answer" => "Bike transportation rates from Shegaon range from ₹2,200 to ₹4,800 for intra-state routes (such as Nagpur, Pune, Mumbai, or Akola) and ₹3,500 to ₹9,500 for interstate destinations."
+    ],
+    [
+        "question" => "What documents are required to shift a bike from Shegaon?",
+        "answer" => "You need to submit copies of the Registration Certificate (RC), valid Bike Insurance, photo ID proof (Aadhaar or PAN Card), and a signed delivery declaration letter."
+    ],
+    [
+        "question" => "Do you provide transit insurance for bike shifting in Shegaon?",
+        "answer" => "Yes, we offer 100% full-value transit insurance to shield your bike against accidental damage, fire, or theft during highway transit."
+    ],
+    [
+        "question" => "How many days does bike delivery take from Shegaon?",
+        "answer" => "Delivery within Vidarbha and Maharashtra typically takes 1 to 3 days, while long-distance delivery to Delhi NCR, Bangalore, Kolkata, or Chennai takes 4 to 7 days."
+    ],
+    [
+        "question" => "Is fuel required in the bike during transit?",
+        "answer" => "No, for safety compliance on enclosed transport trucks, fuel tanks must be kept nearly empty (under 1 to 2 liters) to prevent fire hazards."
+    ],
+    [
+        "question" => "Can I transport heavy cruisers and Royal Enfield bikes from Shegaon?",
+        "answer" => "Yes, we use custom-built wooden crates and high-strength nylon ratchet straps specifically engineered for heavy cruisers and sports bikes."
+    ],
+    [
+        "question" => "Which areas in Shegaon do you cover for doorstep pickup?",
+        "answer" => "We cover all major locations in Shegaon including Anand Sagar area, Temple Complex, Station Road, Khamgaon Road, Civil Lines, and surrounding residential sectors."
+    ],
+    [
+        "question" => "How do you protect bikes against dust and harsh Vidarbha heat?",
+        "answer" => "We wrap bikes in heavy-duty bubble wrap, corrugated sheets, thermal stretch wrap, and move them in fully enclosed covered container trucks."
+    ],
+    [
+        "question" => "How can I book a bike transport service in Shegaon?",
+        "answer" => "You can book instantly by submitting the form on this page, calling our helpline at " . SITE_PHONE . ", or reaching us on WhatsApp."
+    ]
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -12,17 +56,19 @@ require_once __DIR__ . '/../includes/header.php';
 <main class="site-main">
 
   <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
+  <div class="breadcrumb-wrapper" style="background: #0f172a; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
     <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+      <div class="breadcrumb-list" style="display: flex; align-items: center; gap: 8px; font-size: 0.9rem; color: #94a3b8;">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #cbd5e1; text-decoration: none;">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/bike-transportation.php" title="Bike Transportation" style="color: #cbd5e1; text-decoration: none;">Bike Transportation</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active" style="color: #f59e0b; font-weight: 600;">Shegaon</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 1. Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -32,26 +78,26 @@ require_once __DIR__ . '/../includes/header.php';
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
             BIKE TRANSPORTATION SHEGAON RELOCATION SPECIALISTS
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transportation in Shegaon</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Professional two-wheeler shifting in Shegaon, Maharashtra. Insured doorstep transport with 4-layer packaging to guard against Vidarbha cotton fibers, dry summer heat, and highway transit dust.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Safe, insured, and scratch-free two-wheeler transportation in Shegaon, Maharashtra. We provide 4-layer protective bubble wrapping, custom wooden crating, covered container transport, and doorstep delivery across India.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Shegaon." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">4-Layer</strong> Cushion Packaging</span>
+            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Pickup & Delivery</span>
           </div>
         </div>
 
@@ -71,8 +117,11 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="move_from" class="form-control" value="Shegaon" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="bike_model" class="form-control" placeholder="Bike Model (e.g. Royal Enfield, Pulsar)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
+              Get Instant Quote Now &rarr;
             </button>
           </form>
         </div>
@@ -81,8 +130,451 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- 2. Trusted Relocation Track Record & Key Performance Indicators -->
+  <section style="background: #0f172a; padding: 40px 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">5,100+</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Bikes Safely Transported</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #10b981; margin-bottom: 5px;">99.5%</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Zero-Damage Delivery Record</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #3b82f6; margin-bottom: 5px;">100%</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Transit Insurance Coverage</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #e11d48; margin-bottom: 5px;">4.9 / 5</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Verified Customer Rating</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Comprehensive Bike Shifting & Two-Wheeler Transport Solutions in Shegaon -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+          Premium Two-Wheeler Shifting Solutions in Shegaon
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem; line-height: 1.7;">
+          Whether moving a daily commuter scooty, high-end sports bike, or Royal Enfield cruiser from Shegaon, we offer specialized vehicle transport engineered for maximum safety.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(245, 158, 11, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #f59e0b; margin-bottom: 20px;">
+            <i class="fas fa-box-open"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">4-Layer Protective Cushioning</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Every vehicle is wrapped in bubble film, corrugated sheets, stretch wrap, and edge guards to shield against paint scratches, dust, and transit vibration.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(16, 185, 129, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #10b981; margin-bottom: 20px;">
+            <i class="fas fa-truck-monster"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Enclosed Vehicle Carriers</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            We utilize enclosed auto-transporters equipped with hydraulic tail-lifts and wheel chocks to prevent vehicle movement during highway transit.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(59, 130, 246, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #3b82f6; margin-bottom: 20px;">
+            <i class="fas fa-shield-alt"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Full Value Transit Insurance</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Comprehensive insurance policies cover unexpected transit mishaps, offering hassle-free claim resolution for total customer protection.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(225, 29, 72, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #e11d48; margin-bottom: 20px;">
+            <i class="fas fa-map-marked-alt"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Real-Time GPS Tracking</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Stay updated with live location tracking and continuous SMS/WhatsApp progress notifications from pickup to doorstep delivery.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(168, 85, 247, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #a855f7; margin-bottom: 20px;">
+            <i class="fas fa-hammer"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Customized Wooden Crating</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            For super-bikes and luxury cruisers, we construct customized wooden crates with internal tie-downs for maximum structural defense.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(245, 158, 11, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #f59e0b; margin-bottom: 20px;">
+            <i class="fas fa-home"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Doorstep Pickup & Delivery</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Direct door-to-door convenience across all local sectors in Shegaon and destination cities across India.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Transparent Bike Transportation Rate Card for Shegaon -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Bike Transportation Charges from Shegaon
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Transparent rate estimates based on vehicle class and transit distance. No hidden charges or unexpected costs.
+        </p>
+      </div>
+
+      <div style="overflow-x: auto; background: rgba(255,255,255,0.02); border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border-bottom: 1px solid rgba(255,255,255,0.1);">
+              <th style="padding: 16px 20px;">Destination Region</th>
+              <th style="padding: 16px 20px;">Scooty / Standard Bike</th>
+              <th style="padding: 16px 20px;">Sports / Royal Enfield</th>
+              <th style="padding: 16px 20px;">Premium Cruiser / Superbike</th>
+              <th style="padding: 16px 20px;">Estimated Delivery</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">Within Maharashtra (e.g. Nagpur, Pune, Mumbai, Akola)</td>
+              <td style="padding: 16px 20px;">₹2,200 – ₹3,600</td>
+              <td style="padding: 16px 20px;">₹3,400 – ₹4,600</td>
+              <td style="padding: 16px 20px;">₹4,600 – ₹6,200</td>
+              <td style="padding: 16px 20px;">1 – 3 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">Neighboring States (e.g. MP, Gujarat, Chhattisgarh)</td>
+              <td style="padding: 16px 20px;">₹2,800 – ₹4,200</td>
+              <td style="padding: 16px 20px;">₹3,800 – ₹5,500</td>
+              <td style="padding: 16px 20px;">₹5,500 – ₹7,500</td>
+              <td style="padding: 16px 20px;">3 – 4 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">North & West India (e.g. Delhi NCR, Jaipur, Ahmedabad)</td>
+              <td style="padding: 16px 20px;">₹3,500 – ₹5,200</td>
+              <td style="padding: 16px 20px;">₹4,500 – ₹6,800</td>
+              <td style="padding: 16px 20px;">₹6,800 – ₹9,200</td>
+              <td style="padding: 16px 20px;">4 – 5 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">South Metros (e.g. Bangalore, Hyderabad, Chennai)</td>
+              <td style="padding: 16px 20px;">₹3,800 – ₹5,500</td>
+              <td style="padding: 16px 20px;">₹4,800 – ₹7,200</td>
+              <td style="padding: 16px 20px;">₹7,200 – ₹9,800</td>
+              <td style="padding: 16px 20px;">4 – 6 Days</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">East & North-East (e.g. Kolkata, Patna, Guwahati)</td>
+              <td style="padding: 16px 20px;">₹4,500 – ₹6,500</td>
+              <td style="padding: 16px 20px;">₹5,800 – ₹8,500</td>
+              <td style="padding: 16px 20px;">₹8,500 – ₹12,000</td>
+              <td style="padding: 16px 20px;">5 – 8 Days</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 15px; text-align: center;">
+        *Note: Rates vary based on specific destination distance, vehicle type, and insurance declaration.
+      </p>
+    </div>
+  </section>
+
+  <!-- 5. Our Step-by-Step 4-Layer Safe Bike Packaging Protocol -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+          Our 4-Layer Protective Packaging Protocol
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Engineered protection guarding your bike against scratch marks, vibration, and weather elements.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">Layer 1</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Heavy-Duty Bubble Wrap</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Primary shock-absorbing cushion applied directly over painted bodywork, meters, lights, and mirrors.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #10b981;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #10b981; margin-bottom: 10px;">Layer 2</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Corrugated Cardboard</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Thick cardboard sheets wrapped around handlebars, fuel tank, side cowls, and exhaust pipe.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #3b82f6;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #3b82f6; margin-bottom: 10px;">Layer 3</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">High-Tension Stretch Film</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Weatherproof plastic film sealed tightly around the bike to prevent rain penetration and moisture ingress.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #e11d48;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #e11d48; margin-bottom: 10px;">Layer 4</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Nylon Belt Strapping</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Heavy-duty nylon ratchet straps anchoring wheels and frame securely inside the enclosed carrier.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. Step-by-Step Two-Wheeler Transport Workflow from Shegaon -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+          Seamless 4-Step Bike Relocation Process
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Simple, transparent, and efficient vehicle transport execution from Shegaon.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; position: relative;">
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #f59e0b; color: #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">1</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Submit Quote</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">Fill out our online lead form or call us to receive an instant transparent quote.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #10b981; color: #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">2</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Doorstep Inspection</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">Our crew arrives in Shegaon to inspect vehicle condition, document, and pack.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #3b82f6; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">3</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Enclosed Transit</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">Your bike travels safely inside covered containers with real-time GPS tracking updates.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #e11d48; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">4</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Safe Delivery</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">We unpack your bike at your target address and verify condition before final signoff.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. Key Documents Required for Safe Bike Relocation -->
+  <section style="background: #0b132b; padding: 50px 0; color: #ffffff;">
+    <div class="container">
+      <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 35px;">
+        <h3 style="font-size: 1.4rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+          <i class="fas fa-file-alt" style="margin-right: 10px;"></i> Essential Documentation for Bike Shifting
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Registration Certificate</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Photocopy of Vehicle RC Book/Card</span>
+          </div>
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Valid Insurance Policy</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Copy of Active Insurance Cover</span>
+          </div>
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Owner Photo ID Proof</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Aadhaar Card or PAN Card</span>
+          </div>
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Delivery Authorization</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Signed Consignment Note</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8. Why Choose Shree Ashirwad Packers and Movers in Shegaon -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Why Choose Shree Ashirwad Packers in Shegaon
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Your reliable vehicle logistics partner for two-wheeler transport across India.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-award" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Zero Damage Guarantee</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Our rigorous multi-layer packing protocol keeps your bike immune to scratches or denting.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-user-shield" style="font-size: 2rem; color: #10b981; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Experienced Vehicle Crew</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Trained handlers adept at securing all types of two-wheelers, from scooties to heavy cruisers.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-calculator" style="font-size: 2rem; color: #3b82f6; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Fixed Transparent Quotation</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Clear pricing structures up front with zero surprise add-on fees upon delivery.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-headset" style="font-size: 2rem; color: #e11d48; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Dedicated Support Manager</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Single point of contact answering queries and sending live transit updates until delivery.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. Frequently Asked Questions (FAQ) -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Frequently Asked Questions — Bike Transport Shegaon
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Get answers to common queries regarding two-wheeler transport in Shegaon, Maharashtra.
+        </p>
+      </div>
+
+      <div style="max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px 25px;">
+            <h3 style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 8px;">
+              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['question']); ?>
+            </h3>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6; margin: 0;">
+              <?php echo htmlspecialchars($faq['answer']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10. Popular Bike Transportation Routes from Shegaon -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Popular Bike Transportation Routes from Shegaon
+        </h2>
+        <p style="color: #94a3b8; font-size: 0.95rem;">
+          We connect Shegaon with major commercial hubs and metropolitan cities nationwide.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Nagpur
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Pune
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Mumbai
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Akola
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Indore
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Delhi NCR
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Bangalore
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Hyderabad
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Ahmedabad
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Shegaon to Nashik
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 11. Bottom Conversion CTA Bar -->
+  <section style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 50px 0; text-align: center; border-top: 1px solid rgba(245, 158, 11, 0.3);">
+    <div class="container">
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+        Ready to Transport Your Bike from Shegaon?
+      </h2>
+      <p style="color: #cbd5e1; font-size: 1.05rem; max-width: 650px; margin: 0 auto 30px; line-height: 1.7;">
+        Get in touch with Shree Ashirwad Packers and Movers today for 100% safe, insured, and scratch-free two-wheeler transport with instant quotes.
+      </p>
+
+      <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="padding: 15px 35px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Helpline: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Shegaon." title="WhatsApp Chat" target="_blank" style="padding: 15px 35px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
+        </a>
+      </div>
+    </div>
+  </section>
 
 </main>
+
+<!-- Dynamic FAQPage JSON-LD Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_items = [];
+    foreach ($faq_list as $faq) {
+        $schema_items[] = json_encode([
+            "@type" => "Question",
+            "name" => $faq['question'],
+            "acceptedAnswer" => [
+                "@type" => "Answer",
+                "text" => $faq['answer']
+            ]
+        ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+    }
+    echo implode(",\n    ", $schema_items);
+    ?>
+
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

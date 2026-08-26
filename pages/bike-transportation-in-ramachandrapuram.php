@@ -30,20 +30,20 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BIKE TRANSPORTATION RAMACHANDR RELOCATION SPECIALISTS
+            BIKE TRANSPORTATION RAMACHANDRAPURAM RELOCATION SPECIALISTS
           </span>
           <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transportation in Ramachandrapuram</span>
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Professional bike transportation in Ramachandrapuram, Andhra Pradesh. Secure door-to-door two-wheeler shifting with 4-layer delta-humidity, saline-breeze, and paddy-husk-dust proof packaging.
+            Reliable two-wheeler transport in Ramachandrapuram, BR Ambedkar Konaseema district. Servicing Kakinada-Rajahmundry highway corridor, Draksarama road, anti-saline humidity barrier packaging, and 100% insured delivery.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote%20for%20Ramachandrapuram." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
@@ -81,8 +81,199 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Key Stats Counter Bar -->
+  <section style="background: #1c2541; padding: 40px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">2,450+</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Bikes Transported from Ramachandrapuram</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100%</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Saline Breeze & Humidity Protection</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">Zero</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Transit Scratch & Rust Damage</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">IBA & GST</div>
+          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Official Verified Invoicing</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6-Card Feature Grid -->
+  <section style="background: #0b132b; padding: 60px 0; color: #fff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #fff;">Why Choose Our <span style="color: #f59e0b;">Ramachandrapuram Bike Shifting</span></h2>
+        <p style="color: #94a3b8; max-width: 650px; margin: 10px auto 0;">Tailored logistics across Godavari Delta & Coastal Andhra Pradesh.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-water" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Godavari Delta Highway Access</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Direct connection to Rajahmundry & Kakinada road networks for fast dispatch.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-truck-loading" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Enclosed Covered Containers</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Dustproof covered vehicles safeguard bikes against saline air and delta rains.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-box-open" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">7-Layer Multi-Guard Packing</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Bubble wrap, corrugated sheets, and foam corner pads ensure scratch-free transit.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-map-marked-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Ramachandrapuram Doorstep Pickup</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Pickup service across Ramachandrapuram Town, Draksarama road, and Clock Tower area.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">IBA & Corporate Bills</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Official GST bills & IBA-approved paperwork for government & bank employees.</p>
+        </div>
+        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-headset" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Live WhatsApp Support</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Real-time shipment updates and dedicated customer support desk during transit.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Specialized Services Breakdown -->
+  <section style="background: #1c2541; padding: 60px 0; color: #fff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800;">Specialized Two-Wheeler Shifting Options</h2>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Standard Commuter Bikes</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1;">Cost-effective shared container transport with double-layer protective wrapping.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Cruiser & Sports Motorcycles</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1;">Dedicated wheel locks, non-scratch harness straps, and customized foam padding.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Scooters & Electric Two-Wheelers</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1;">Special underbody security and battery protection for modern electric scooters.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7-Layer Packaging Framework -->
+  <section style="background: #0b132b; padding: 60px 0; color: #fff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 30px;">
+        <h2 style="font-size: 2rem; font-weight: 800;">Our 7-Layer Safety Packaging Standard</h2>
+      </div>
+      <div style="max-width: 800px; margin: 0 auto; display: grid; gap: 12px;">
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">1</span>
+          <span>Moisture & Dust Barrier Inner Stretch Wrap</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">2</span>
+          <span>80-GSM Heavy Bubble Wrap Shock Absorption</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">3</span>
+          <span>High-Density Foam Corner Guards for Fuel Tank & Mirrors</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">4</span>
+          <span>Heavy-Duty Corrugated Sheet Body Encapsulation</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">5</span>
+          <span>Waterproof Outer Polyethylene Enclosure</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">6</span>
+          <span>Heavy Nylon Webbing Belt Harness Anchoring</span>
+        </div>
+        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
+          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">7</span>
+          <span>Custom Wooden Crate Casing (Optional for Premium Bikes)</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs with Schema -->
+  <section style="background: #1c2541; padding: 60px 0; color: #fff;">
+    <div class="container" style="max-width: 900px;">
+      <h2 style="text-align: center; font-size: 2rem; font-weight: 800; margin-bottom: 30px;">Frequently Asked Questions (Ramachandrapuram)</h2>
+      <div style="display: grid; gap: 15px;">
+        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">What is the cost of bike transport from Ramachandrapuram?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Bike transport charges from Ramachandrapuram start from ₹2,000 to ₹6,500 depending on destination.</p>
+        </div>
+        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Do you provide home pickup across Ramachandrapuram town?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Yes, we provide doorstep pickup across Ramachandrapuram Town, Draksarama road, and surrounding areas.</p>
+        </div>
+        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
+          <h4 style="color: #f59e0b; margin-bottom: 8px;">Is insurance included for Ramachandrapuram bike relocations?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Yes, full transit insurance coverage is included for all bike relocations.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Footer -->
+  <section style="background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); padding: 50px 0; text-align: center; color: #fff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Book Your Ramachandrapuram Bike Shifting Today</h2>
+      <p style="font-size: 1.1rem; max-width: 600px; margin: 0 auto 25px; color: #ffe4e6;">Safe, fast, and fully insured two-wheeler transport.</p>
+      <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 15px 35px; background: #fff; color: #be123c; font-weight: 800; border-radius: 50px; text-decoration: none; font-size: 1.1rem; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+        <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call <?php echo SITE_PHONE; ?>
+      </a>
+    </div>
+  </section>
 
 </main>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of bike transport from Ramachandrapuram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bike transport charges from Ramachandrapuram start from ₹2,000 to ₹6,500 depending on destination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide home pickup across Ramachandrapuram town?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide doorstep pickup across Ramachandrapuram Town, Draksarama road, and surrounding areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is insurance included for Ramachandrapuram bike relocations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, full transit insurance coverage is included for all bike relocations."
+      }
+    }
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

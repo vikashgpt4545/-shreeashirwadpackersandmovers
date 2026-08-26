@@ -414,6 +414,29 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
   <!-- Section 7: Frequently Asked Questions (20 Detailed FAQs) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 950px;">
       

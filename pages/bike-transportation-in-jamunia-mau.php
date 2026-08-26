@@ -428,6 +428,26 @@ require_once __DIR__ . '/../includes/header.php';
   }
   </script>
 
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MovingCompany",
+    "name": "Shree Ashirwad Packers and Movers",
+    "description": "Safe bike transportation in Jamunia Mau, Uttar Pradesh with doorstep pickup and transit insurance.",
+    "url": "<?php echo $canonical_url; ?>",
+    "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Jamunia Mau",
+      "addressRegion": "Uttar Pradesh",
+      "addressCountry": "IN"
+    },
+    "areaServed": "Jamunia Mau, Uttar Pradesh",
+    "priceRange": "₹2200 - ₹8500"
+  }
+  </script>
+
+
   <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       

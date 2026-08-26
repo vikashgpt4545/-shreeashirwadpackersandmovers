@@ -24,7 +24,7 @@ $faq_list = [
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main dark-theme-override">
 
   <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">

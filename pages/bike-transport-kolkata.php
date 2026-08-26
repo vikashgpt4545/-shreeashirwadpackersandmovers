@@ -1,28 +1,30 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transport in Kolkata  | Secure Two-Wheeler Shifting";
-$page_desc = "Planning bike transport in Kolkata? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Salt Lake, New Town, Park Street, Howrah, Dum Dum, Ballygunge.";
-$page_keywords = "bike transport kolkata, best bike transport kolkata, affordable bike transport kolkata, packers and movers, top bike transport kolkata company, household shifting bike transport kolkata, doorstep bike transport kolkata, verified bike transport kolkata services, shree ashirwad bike transport kolkata";
+$page_title = "Bike Transport in Kolkata | Safe Two-Wheeler Shifting";
+$page_desc = "Planning bike transport in Kolkata? Get safe, insured, and doorstep motorcycle shipping services across Salt Lake, New Town, Park Street, Howrah, Dum Dum, and Ballygunge with WB RTO clearances.";
+$page_keywords = "bike transport kolkata, best bike transport kolkata, affordable bike transport kolkata, packers and movers kolkata, top bike transport kolkata company, doorstep bike transport kolkata, verified bike transport kolkata services, shree ashirwad bike transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-kolkata.php";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main dark-theme-override">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
+  <!-- Section 1: Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper" style="background: #0b132b; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
     <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+      <div class="breadcrumb-list" style="font-size: 0.88rem; color: #94a3b8;">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a></span>
+        <span class="breadcrumb-separator" style="margin: 0 8px; color: #475569;">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/services.php" title="Services" style="color: #f59e0b; text-decoration: none;">Services</a></span>
+        <span class="breadcrumb-separator" style="margin: 0 8px; color: #475569;">/</span>
+        <span class="breadcrumb-item active" style="color: #cbd5e1;"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- Section 2: Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -30,35 +32,35 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BIKE TRANSPORT KOLKATA RELOCATION SPECIALISTS
+            KOLKATA BIKE RELOCATION SPECIALISTS
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transport in Kolkata</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Planning bike transport in Kolkata? Get safe, insured, and damage-free two-wheeler shifting services with doorstep pickup, bubble wrap packing, and quick transit. Complete door-to-door relocation coverage across Salt Lake, New Town, Park Street, Howrah, Dum Dum, Ballygunge.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Planning bike transport in Kolkata? Shree Ashirwad Packers and Movers provides doorstep motorcycle relocation with 7-layer protective wrapping, covered container carriers, and 100% transit insurance. Serving Salt Lake, New Town, Park Street, Howrah, Dum Dum, Ballygunge, and Dankuni hubs.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20quote%20for%20Bike%20Transport%20in%20Kolkata." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Wrapping</span>
+            <span><strong style="color: #f59e0b;">Doorstep</strong> Pickup & Delivery</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Salt Lake Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+          <h2 style="font-size: 1.35rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Shifting Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Kolkata Bike Transport Estimate in 2 Mins</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
@@ -68,11 +70,11 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Salt Lake" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Kolkata" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
+              Get Free Estimate Now &rarr;
             </button>
           </form>
         </div>
@@ -81,25 +83,315 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Kolkata Metro Bike Shifting Section -->
-  <section class="details-section" style="padding: 50px 0; background: #ffffff;">
+  <!-- Section 3: Key Stats Counter Bar -->
+  <section style="background: #0f172a; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
     <div class="container">
-      <div style="max-width: 900px; margin: 0 auto; line-height: 1.8; color: #334155;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">5,200+</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Bikes Transported in Kolkata</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">100% Insured</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Full Damage Protection</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">Same-Day</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Doorstep Pickup</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.05);">
+          <div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">IBA GST</div>
+          <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 5px;">Approved Billing & Claims</div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-        <h2 style="font-size: 2rem; color: #0f172a; margin-bottom: 20px;">Kolkata Metro & Howrah Two-Wheeler Logistics</h2>
-        <p style="margin-bottom: 20px;">
-          Shree Ashirwad Packers and Movers provides doorstep bike transport across Kolkata, Salt Lake, New Town, Howrah, Behala, Dum Dum, and Garia via Dankuni and NH-19 logistics corridors.
-        </p>
+  <!-- Section 4: 6-Card Feature Grid -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Why Choose Us for Bike Transport in Kolkata?</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">End-to-end relocation protocols tailored for high-value two-wheeler shipping.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-truck-moving" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Covered Container Carriers</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Enclosed vehicle carriers shielding your motorcycle from heavy monsoon rains, dust, and highway vibration.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-box-open" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">7-Layer Safety Packaging</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Bubble wrap, corrugated sheet, foam pads, and waterproof shrink wrapping protect painted parts.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-shield-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Full Transit Insurance</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Comprehensive transit insurance policy protecting against accidents, theft, or fire during travel.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-map-marked-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Doorstep Pickup & Delivery</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Direct home pickup from Salt Lake, New Town, Howrah, or Alipore and doorstep delivery at target destination.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">IBA Approved Billing</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Official GST bills and consignment paperwork accepted for corporate relocation reimbursement.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-clock" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Express Highway Transit</h3>
+          <p style="font-size: 0.9rem; color: #94a3b8; line-height: 1.6;">Regular departure schedules via Dankuni hub connecting Kolkata to North, West, and South India.</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-        <h3 style="font-size: 1.5rem; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">Safety Packaging & WB-01 / WB-02 RTO Compliance</h3>
-        <p style="margin-bottom: 20px;">
-          All two-wheelers collected in Greater Kolkata receive multi-layer bubble wrap, foam corner pads, transit insurance, and complete WB RTO documentation.
-        </p>
+  <!-- Section 5: Specialized Services Breakdown & Tariff Table -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Bike Transport Charges in Kolkata</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Transparent, estimated tariffs for two-wheeler transport from Kolkata.</p>
+      </div>
 
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); text-align: left; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">
+              <th style="padding: 15px; font-weight: 700;">Vehicle Category</th>
+              <th style="padding: 15px; font-weight: 700;">Engine Capacity</th>
+              <th style="padding: 15px; font-weight: 700;">Standard Packaging</th>
+              <th style="padding: 15px; font-weight: 700;">Premium Crate Pack</th>
+              <th style="padding: 15px; font-weight: 700;">Est. Transit Time</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px;">Standard Scooters / Mopeds</td>
+              <td style="padding: 15px;">100cc - 125cc</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹2,800 - ₹3,900</td>
+              <td style="padding: 15px;">₹3,900 - ₹4,900</td>
+              <td style="padding: 15px;">2 - 4 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px;">Commuter Motorcycles</td>
+              <td style="padding: 15px;">125cc - 180cc</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹3,400 - ₹4,800</td>
+              <td style="padding: 15px;">₹4,800 - ₹6,200</td>
+              <td style="padding: 15px;">2 - 4 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 15px;">Sports / Cruiser Bikes</td>
+              <td style="padding: 15px;">200cc - 500cc</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹4,500 - ₹6,800</td>
+              <td style="padding: 15px;">₹6,800 - ₹8,500</td>
+              <td style="padding: 15px;">3 - 6 Days</td>
+            </tr>
+            <tr>
+              <td style="padding: 15px;">Superbikes / Premium Cruisers</td>
+              <td style="padding: 15px;">500cc+</td>
+              <td style="padding: 15px; color: #f59e0b; font-weight: 700;">₹7,500 - ₹11,500</td>
+              <td style="padding: 15px;">₹11,500 - ₹15,000</td>
+              <td style="padding: 15px;">3 - 6 Days</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="font-size: 0.85rem; color: #94a3b8; text-align: center;">*Final cost depends on destination city distance, packaging type, and insurance coverage.</p>
+    </div>
+  </section>
+
+  <!-- Section 6: 7-Layer Safety Packaging Framework -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">7-Layer Protective Packaging System</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Maximum protection against scratches, moisture, and transit friction.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 1: Stretch Film Wrap</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Protects original body paint from dust, moisture, and fine particles.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 2: 80-GSM Bubble Wrap</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">High-density shock absorption covering fuel tank, engine panels, and headlight.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 3: Corrugated Cardboard</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Heavy cardboard shields exhaust pipes, handle grips, and side guards.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 4: Foam Edge Protectors</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Custom foam buffers for brake levers, rear-view mirrors, and indicators.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 5: Waterproof Poly-Cover</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Outer rain and weather shield guarding against environmental exposure.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <h4 style="color: #fff; font-size: 1.1rem; margin-bottom: 8px;">Layer 6: Ratchet Tie-Down Belts</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Four-point heavy nylon belts anchoring bike firmly inside the container vehicle.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 7: Origin Pickup Locality Grid -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Kolkata Pickup Localities</h2>
+        <p style="color: #94a3b8; margin-top: 8px;">Doorstep bike collection available across key areas in Kolkata.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Salt Lake (Sector 1-5)</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">New Town & Rajarhat</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Howrah & Dankuni</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Dum Dum & VIP Road</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Ballygunge & Park Street</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); text-align: center; color: #cbd5e1;">Behala & Garia / Tollygunge</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 8: Intercity Route Network Grid -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Popular Bike Routes from Kolkata</h2>
+        <p style="color: #94a3b8; margin-top: 8px;">Explore major intercity bike shifting corridors from Kolkata.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-delhi.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kolkata → Delhi</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-bangalore.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kolkata → Bangalore</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-hyderabad.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kolkata → Hyderabad</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-mumbai.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kolkata → Mumbai</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 9: IBA Approved GST Billing Documentation -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff;">Official Documentation & Claims</h2>
+        <p style="color: #94a3b8; margin-top: 8px;">Complete legal compliance for corporate reimbursement and insurance claims.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-file-invoice-dollar" style="font-size: 1.8rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h4 style="color: #fff; margin-bottom: 8px;">GST-Compliant Invoice</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">18% GST itemized bill accepted across Corporate, PSU, and Government portals.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-truck-loading" style="font-size: 1.8rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h4 style="color: #fff; margin-bottom: 8px;">Consignment Note (LR)</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Official Lorry Receipt specifying bike registration details, engine number, and vehicle condition.</p>
+        </div>
+        <div style="padding: 20px; background: rgba(255,255,255,0.03); border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);">
+          <i class="fas fa-clipboard-check" style="font-size: 1.8rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h4 style="color: #fff; margin-bottom: 8px;">Pre-Pickup Inspection Report</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8;">Detailed inspection documenting existing scratches, fuel level, and odometer reading before loading.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 10: Detailed FAQs with JSON-LD Schema -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Common queries regarding bike transport services in Kolkata.</p>
+      </div>
+
+      <div style="max-width: 800px; margin: 0 auto; display: grid; gap: 15px;">
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">How is bike transport from Kolkata carried out?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">Your bike is collected from your doorstep in Kolkata, packed using 7-layer bubble wrap, loaded onto a covered container truck at the Dankuni hub, and delivered safely.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">What documents are needed for bike transport from Kolkata?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">You need a copy of the Bike RC, valid Insurance document, PUC certificate, and Government ID proof (Aadhar/Voter ID).</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">Is doorstep pickup available in Salt Lake and New Town?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">Yes, we offer doorstep pickup and drop-off across Salt Lake, New Town, Howrah, Dum Dum, Ballygunge, and all Greater Kolkata locations.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 10px;">Is transit insurance included?</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6;">Yes, complete transit insurance is provided to safeguard against damage or loss during highway travel.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 11: Call-To-Action Conversion Footer -->
+  <section style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); padding: 60px 0; text-align: center; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.3);">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Book Your Bike Transport in Kolkata Today</h2>
+      <p style="font-size: 1.1rem; color: #cbd5e1; max-width: 700px; margin: 0 auto 30px; line-height: 1.7;">
+        Safe, IBA-approved, and insured two-wheeler relocation across Kolkata. Get your free estimate now!
+      </p>
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="padding: 15px 35px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1.05rem; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20book%20Bike%20Transport%20in%20Kolkata." target="_blank" title="WhatsApp Us" style="padding: 15px 35px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #fff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 1.05rem; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
+        </a>
       </div>
     </div>
   </section>
 
 </main>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is bike transport from Kolkata carried out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your bike is collected from your doorstep in Kolkata, packed using 7-layer bubble wrap, loaded onto a covered container truck at the Dankuni hub, and delivered safely."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are needed for bike transport from Kolkata?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a copy of the Bike RC, valid Insurance document, PUC certificate, and Government ID proof (Aadhar/Voter ID)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is doorstep pickup available in Salt Lake and New Town?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer doorstep pickup and drop-off across Salt Lake, New Town, Howrah, Dum Dum, Ballygunge, and all Greater Kolkata locations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is transit insurance included?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, complete transit insurance is provided to safeguard against damage or loss during highway travel."
+      }
+    }
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

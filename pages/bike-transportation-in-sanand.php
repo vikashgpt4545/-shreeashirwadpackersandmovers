@@ -1,10 +1,54 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transportation in Sanand | Secure Shifting Gujarat";
-$page_desc = "Professional bike transportation in Sanand, Gujarat. Secure door-to-door two-wheeler shifting with 4-layer packaging to shield against auto industrial soot, chemical fumes, and highway vibrations.";
-$page_keywords = "bike transportation in sanand, best bike transportation in sanand, affordable bike transportation in sanand, packers and movers, packers and movers in ranchi, top bike transportation in sanand company, household shifting bike transportation in sanand, doorstep bike transportation in sanand, verified bike transportation in sanand services, shree ashirwad bike transportation in sanand";
+$page_title = "Bike Transportation in Sanand | Secure Two-Wheeler Shifting Gujarat";
+$page_desc = "Professional bike transportation in Sanand, Gujarat. Door-to-door two-wheeler relocation with 4-layer bubble packaging, insured transport & transparent pricing.";
+$page_keywords = "bike transportation in sanand, bike shifting sanand, two wheeler transport sanand, bike packers and movers sanand, insured bike courier sanand, shree ashirwad bike transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-sanand.php";
+
+// Define 10-Item FAQ Array for Dynamic Schema and On-Page Render
+$faq_list = [
+    [
+        "question" => "How is bike transportation handled in Sanand, Gujarat?",
+        "answer" => "We provide end-to-end door-to-door bike transport in Sanand, Ahmedabad district. Our crew picks up your bike from your home or industrial unit, applies 4-layer protective packaging, loads it onto specialized covered vehicle carriers, and delivers it safely to any city across India."
+    ],
+    [
+        "question" => "What is the estimated cost of bike transport from Sanand?",
+        "answer" => "Bike transportation rates from Sanand range from ₹2,200 to ₹4,800 for intra-state routes (e.g., to Ahmedabad, Vadodara, Surat, or Rajkot) and ₹3,500 to ₹9,500 for long-distance interstate relocation, depending on displacement and distance."
+    ],
+    [
+        "question" => "What documents are required to shift a bike from Sanand?",
+        "answer" => "You need to submit copies of the Vehicle Registration Certificate (RC), valid Bike Insurance, a photocopy of your Government Photo ID (Aadhaar/PAN), and a signed delivery authorization letter."
+    ],
+    [
+        "question" => "Do you provide insurance for bike transport in Sanand?",
+        "answer" => "Yes, we offer 100% full-value transit insurance coverage against accidental damage, fire, or theft during long-distance transit from Sanand."
+    ],
+    [
+        "question" => "How many days does it take to deliver a bike from Sanand to major metro cities?",
+        "answer" => "Delivery typically takes 2 to 4 days for destinations within Gujarat, Maharashtra, and Rajasthan, and 4 to 7 days for distant metros like Delhi NCR, Bangalore, Hyderabad, or Kolkata."
+    ],
+    [
+        "question" => "Is fuel required in the bike during transit?",
+        "answer" => "No, for safety regulations on covered car carriers, the fuel tank must contain less than 1 to 2 liters of petrol to eliminate fire risks during interstate transport."
+    ],
+    [
+        "question" => "Can I transport high-end sport bikes or Royal Enfield cruisers from Sanand?",
+        "answer" => "Yes, we use customized heavy-duty wooden crates, foam padding, and reinforced nylon tie-down straps specifically designed for premium cruisers and sport bikes."
+    ],
+    [
+        "question" => "Do you pick up bikes from all local areas in Sanand?",
+        "answer" => "Yes, our pickup team covers all major areas in Sanand including GIDC Industrial Zone, Viramgam Road, Nal Sarovar Road, Station Road, and surrounding auto hub corridors."
+    ],
+    [
+        "question" => "How can I track my bike shipment during transit?",
+        "answer" => "We provide continuous GPS updates and direct contact details for the dedicated transport manager overseeing your consignment from pickup to doorstep delivery."
+    ],
+    [
+        "question" => "How do I book a bike transport service in Sanand?",
+        "answer" => "You can book instantly by submitting the lead form on this page, calling our helpline at " . SITE_PHONE . ", or messaging us directly on WhatsApp."
+    ]
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -12,17 +56,19 @@ require_once __DIR__ . '/../includes/header.php';
 <main class="site-main">
 
   <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
+  <div class="breadcrumb-wrapper" style="background: #0f172a; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
     <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+      <div class="breadcrumb-list" style="display: flex; align-items: center; gap: 8px; font-size: 0.9rem; color: #94a3b8;">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #cbd5e1; text-decoration: none;">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/bike-transportation.php" title="Bike Transportation" style="color: #cbd5e1; text-decoration: none;">Bike Transportation</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active" style="color: #f59e0b; font-weight: 600;">Sanand</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 1. Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -32,26 +78,26 @@ require_once __DIR__ . '/../includes/header.php';
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
             BIKE TRANSPORTATION SANAND RELOCATION SPECIALISTS
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transportation in Sanand</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Professional bike transportation in Sanand, Gujarat. Secure door-to-door two-wheeler shifting with 4-layer packaging to shield against auto industrial soot, chemical fumes, and highway vibrations.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Safe, insured, and scratch-free two-wheeler transportation in Sanand, Gujarat. We offer multi-layer bubble wrapping, customized wooden crating, covered container transit, and doorstep delivery across India.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Sanand." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">4-Layer</strong> Cushion Packaging</span>
+            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Pickup & Delivery</span>
           </div>
         </div>
 
@@ -71,8 +117,11 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="move_from" class="form-control" value="Sanand" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Estimate Now &rarr;
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="bike_model" class="form-control" placeholder="Bike Model (e.g. Royal Enfield, Pulsar)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            </div>
+            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
+              Get Instant Quote Now &rarr;
             </button>
           </form>
         </div>
@@ -81,8 +130,451 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- 2. Trusted Relocation Track Record & Key Performance Indicators -->
+  <section style="background: #0f172a; padding: 40px 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 5px;">5,400+</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Bikes Safely Transported</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #10b981; margin-bottom: 5px;">99.4%</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Zero-Damage Delivery Record</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #3b82f6; margin-bottom: 5px;">100%</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Transit Insurance Coverage</div>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #e11d48; margin-bottom: 5px;">4.9 / 5</div>
+          <div style="font-size: 0.95rem; color: #cbd5e1;">Verified Customer Rating</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Comprehensive Bike Shifting & Two-Wheeler Transport Solutions in Sanand -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+          Premium Two-Wheeler Shifting Solutions in Sanand
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem; line-height: 1.7;">
+          Whether you need to move a commuter scooty, a high-capacity cruiser, or a sports bike from Sanand, we deliver specialized vehicle transport engineered for complete peace of mind.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(245, 158, 11, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #f59e0b; margin-bottom: 20px;">
+            <i class="fas fa-box-open"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">4-Layer Protective Cushioning</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Every bike is wrapped in bubble film, corrugated sheets, stretch wrap, and edge guards to shield against paint scratches, dust, and transit vibration.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(16, 185, 129, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #10b981; margin-bottom: 20px;">
+            <i class="fas fa-truck-monster"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Enclosed Vehicle Carriers</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            We utilize enclosed auto-transporters equipped with hydraulic tail-lifts and wheel chocks to prevent vehicle movement on national highways.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(59, 130, 246, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #3b82f6; margin-bottom: 20px;">
+            <i class="fas fa-shield-alt"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Full Value Transit Insurance</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Comprehensive insurance policies cover unexpected transit mishaps, offering instant claim processing for absolute customer protection.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(225, 29, 72, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #e11d48; margin-bottom: 20px;">
+            <i class="fas fa-map-marked-alt"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Real-Time GPS Tracking</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Stay updated with live location tracking and regular SMS/WhatsApp progress notifications from dispatch to final delivery.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(168, 85, 247, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #a855f7; margin-bottom: 20px;">
+            <i class="fas fa-hammer"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Customized Wooden Crating</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            For super-bikes and luxury cruisers, we construct custom wooden crates with internal tie-downs to provide structural protection.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.04); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: rgba(245, 158, 11, 0.15); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #f59e0b; margin-bottom: 20px;">
+            <i class="fas fa-home"></i>
+          </div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Doorstep Pickup & Delivery</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+            Direct door-to-door convenience across all localities in Sanand and destination cities, avoiding transit hub drop-offs.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Transparent Bike Transportation Rate Card for Sanand -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Bike Transportation Charges from Sanand
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Transparent rate estimates based on vehicle category and transit distance. No hidden charges or unexpected fees.
+        </p>
+      </div>
+
+      <div style="overflow-x: auto; background: rgba(255,255,255,0.02); border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border-bottom: 1px solid rgba(255,255,255,0.1);">
+              <th style="padding: 16px 20px;">Destination Region</th>
+              <th style="padding: 16px 20px;">Scooty / Standard Bike</th>
+              <th style="padding: 16px 20px;">Sports / Royal Enfield</th>
+              <th style="padding: 16px 20px;">Premium Cruiser / Superbike</th>
+              <th style="padding: 16px 20px;">Estimated Delivery</th>
+            </tr>
+          </thead>
+          <tbody style="color: #cbd5e1;">
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">Within Gujarat (e.g. Ahmedabad, Vadodara, Surat)</td>
+              <td style="padding: 16px 20px;">₹2,400 – ₹3,800</td>
+              <td style="padding: 16px 20px;">₹3,500 – ₹4,800</td>
+              <td style="padding: 16px 20px;">₹4,800 – ₹6,500</td>
+              <td style="padding: 16px 20px;">2 – 3 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">Western Region (e.g. Mumbai, Pune, Rajasthan)</td>
+              <td style="padding: 16px 20px;">₹2,800 – ₹4,200</td>
+              <td style="padding: 16px 20px;">₹3,800 – ₹5,500</td>
+              <td style="padding: 16px 20px;">₹5,500 – ₹7,500</td>
+              <td style="padding: 16px 20px;">3 – 4 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">North India (e.g. Delhi NCR, Jaipur, Punjab)</td>
+              <td style="padding: 16px 20px;">₹3,500 – ₹5,200</td>
+              <td style="padding: 16px 20px;">₹4,500 – ₹6,800</td>
+              <td style="padding: 16px 20px;">₹6,800 – ₹9,200</td>
+              <td style="padding: 16px 20px;">4 – 5 Days</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">South Metros (e.g. Bangalore, Hyderabad, Chennai)</td>
+              <td style="padding: 16px 20px;">₹3,800 – ₹5,500</td>
+              <td style="padding: 16px 20px;">₹4,800 – ₹7,200</td>
+              <td style="padding: 16px 20px;">₹7,200 – ₹9,800</td>
+              <td style="padding: 16px 20px;">4 – 6 Days</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 600; color: #fff;">East & North-East India (e.g. Kolkata, Guwahati)</td>
+              <td style="padding: 16px 20px;">₹4,500 – ₹6,500</td>
+              <td style="padding: 16px 20px;">₹5,800 – ₹8,500</td>
+              <td style="padding: 16px 20px;">₹8,500 – ₹12,000</td>
+              <td style="padding: 16px 20px;">5 – 8 Days</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 15px; text-align: center;">
+        *Note: Final prices depend on exact distance, vehicle size, fuel prices, and insurance declaration.
+      </p>
+    </div>
+  </section>
+
+  <!-- 5. Our Step-by-Step 4-Layer Safe Bike Packaging Protocol -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+          Our 4-Layer Protective Packaging Protocol
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          How we ensure your bike arrives in factory-fresh condition without a single scratch.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">Layer 1</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Heavy-Duty Bubble Wrap</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Primary shock-absorption layer applied over paintwork, headlights, meters, and mirrors.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #10b981;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #10b981; margin-bottom: 10px;">Layer 2</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Corrugated Sheets</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Thick cardboard sheets wrapped around handlebars, fuel tank, side panels, and silencer.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #3b82f6;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #3b82f6; margin-bottom: 10px;">Layer 3</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">High-Tension Stretch Film</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Weather-resistant plastic film sealed around the entire bike to lock layers in place.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border-left: 4px solid #e11d48;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #e11d48; margin-bottom: 10px;">Layer 4</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Nylon Belt Strapping</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+            Heavy nylon ratchet straps securing wheels and frame tightly inside the enclosed carrier.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. Step-by-Step Two-Wheeler Transport Workflow from Sanand -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+          Seamless 4-Step Bike Relocation Process
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Simple, transparent, and hassle-free vehicle transport execution from Sanand.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; position: relative;">
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #f59e0b; color: #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">1</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Submit Quote</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">Fill out our online form or call us to receive an instant transparent quote.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #10b981; color: #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">2</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Doorstep Inspection</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">Our team arrives in Sanand to inspect your bike, document condition, and pack.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #3b82f6; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">3</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Enclosed Transit</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">Your bike travels inside covered containers with live GPS tracking updates.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 30px 20px; border-radius: 12px; text-align: center; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="width: 50px; height: 50px; background: #e11d48; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; font-weight: 800; margin: 0 auto 15px;">4</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Safe Delivery</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.5;">We unbox your bike at your target address and verify condition before signoff.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. Key Documents Required for Safe Bike Relocation -->
+  <section style="background: #0b132b; padding: 50px 0; color: #ffffff;">
+    <div class="container">
+      <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 35px;">
+        <h3 style="font-size: 1.4rem; font-weight: 700; color: #f59e0b; margin-bottom: 20px; text-align: center;">
+          <i class="fas fa-file-alt" style="margin-right: 10px;"></i> Essential Documentation for Bike Shifting
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Registration Certificate</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Photocopy of Vehicle RC Book/Card</span>
+          </div>
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Valid Insurance Policy</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Copy of Active Insurance Cover</span>
+          </div>
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Owner Photo ID Proof</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Aadhaar Card or PAN Card</span>
+          </div>
+          <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 8px;">
+            <strong style="color: #fff; display: block; margin-bottom: 5px;">Delivery Authorization</strong>
+            <span style="font-size: 0.85rem; color: #cbd5e1;">Signed Consignment Note</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8. Why Choose Shree Ashirwad Packers and Movers in Sanand -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Why Choose Shree Ashirwad Packers in Sanand
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Your trusted regional logistics partner for two-wheeler transport across India.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-award" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Zero Damage Guarantee</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Our rigorous multi-layer packing protocol keeps your bike immune to scratches or denting.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-user-shield" style="font-size: 2rem; color: #10b981; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Experienced Vehicle Crew</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Trained handlers adept at securing all types of two-wheelers, from scooties to heavy cruisers.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-calculator" style="font-size: 2rem; color: #3b82f6; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Fixed Transparent Quotation</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Clear pricing structures up front with zero surprise add-on fees upon delivery.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <i class="fas fa-headset" style="font-size: 2rem; color: #e11d48; margin-bottom: 15px; display: block;"></i>
+          <h3 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 8px;">Dedicated Support Manager</h3>
+          <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">Single point of contact answering queries and sending live transit updates until delivery.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. Frequently Asked Questions (FAQ) -->
+  <section style="background: #0b132b; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 45px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Frequently Asked Questions — Bike Transport Sanand
+        </h2>
+        <p style="color: #94a3b8; font-size: 1rem;">
+          Get answers to common queries regarding two-wheeler transport in Sanand, Gujarat.
+        </p>
+      </div>
+
+      <div style="max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px;">
+        <?php foreach ($faq_list as $index => $faq): ?>
+          <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 20px 25px;">
+            <h3 style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 8px;">
+              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['question']); ?>
+            </h3>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6; margin: 0;">
+              <?php echo htmlspecialchars($faq['answer']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10. Popular Bike Transportation Routes from Sanand -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 750px; margin: 0 auto 40px;">
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-bottom: 12px;">
+          Popular Bike Transportation Routes from Sanand
+        </h2>
+        <p style="color: #94a3b8; font-size: 0.95rem;">
+          We connect Sanand with major commercial centers and metropolitan cities nationwide.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Ahmedabad
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Vadodara
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Surat
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Rajkot
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Mumbai
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Pune
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Delhi NCR
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Jaipur
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Bangalore
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); color: #cbd5e1; font-weight: 600;">
+          Sanand to Hyderabad
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 11. Bottom Conversion CTA Bar -->
+  <section style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 50px 0; text-align: center; border-top: 1px solid rgba(245, 158, 11, 0.3);">
+    <div class="container">
+      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px;">
+        Ready to Transport Your Bike from Sanand?
+      </h2>
+      <p style="color: #cbd5e1; font-size: 1.05rem; max-width: 650px; margin: 0 auto 30px; line-height: 1.7;">
+        Get in touch with Shree Ashirwad Packers and Movers today for 100% safe, insured, and scratch-free two-wheeler transport with instant quotes.
+      </p>
+
+      <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="padding: 15px 35px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Helpline: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Sanand." title="WhatsApp Chat" target="_blank" style="padding: 15px 35px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
+        </a>
+      </div>
+    </div>
+  </section>
 
 </main>
+
+<!-- Dynamic FAQPage JSON-LD Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $schema_items = [];
+    foreach ($faq_list as $faq) {
+        $schema_items[] = json_encode([
+            "@type" => "Question",
+            "name" => $faq['question'],
+            "acceptedAnswer" => [
+                "@type" => "Answer",
+                "text" => $faq['answer']
+            ]
+        ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+    }
+    echo implode(",\n    ", $schema_items);
+    ?>
+
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

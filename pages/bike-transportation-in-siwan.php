@@ -1,73 +1,30 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transportation in Siwan | Safe Two-Wheeler Shifting BR-29";
-$page_desc = "Professional bike transportation in Siwan (BR-29 RTO), Bihar. Insured doorstep motorcycle relocation via NH-531 & Chapra-Siwan highway corridor.";
-$page_keywords = "bike transportation in siwan, best bike transportation in siwan, affordable bike shifting siwan, bike packers and movers siwan, doorstep bike transport siwan";
+$page_title = "Bike Transportation in Siwan | Safe Two-Wheeler Relocation BR-29";
+$page_desc = "Professional bike transportation in Siwan (BR-29 RTO), Bihar. Insured doorstep motorcycle relocation via NH-531 & Chapra-Siwan highway corridor, 7-layer damage-proof packaging, closed container transit, and transparent rates.";
+$page_keywords = "bike transportation in siwan, best bike transportation in siwan, affordable bike shifting siwan, bike packers and movers siwan, doorstep bike transport siwan, bike parcel service siwan";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-siwan.php";
-
-$page_city = "Siwan, Bihar";
-
-$faq_list = [
-    [
-        'q' => 'How is bike transportation safely executed in Siwan (BR-29 RTO)?',
-        'a' => 'Motorcycles undergo pre-transit physical inspection, fuel draining under 1 liter, 7-layer bubble wrapping, corrugated sheet encasing, handlebar foam padding, and nylon belt anchorage inside enclosed container trucks.'
-    ],
-    [
-        'q' => 'What are the bike transport charges from Siwan to Patna, Chapra, or Delhi?',
-        'a' => 'Local/regional two-wheeler transport charges to nearby hubs (Patna, Chapra, Gopalganj) range from ₹1,800 to ₹3,500 for standard bikes, and ₹4,000 to ₹7,500 for interstate delivery to Delhi, Kolkata, or Bengaluru.'
-    ],
-    [
-        'q' => 'Which major transport highway corridors serve Siwan bike shipping?',
-        'a' => 'Key transit routes include NH-531 (Siwan-Chapra highway), SH-73 (Siwan-Gopalganj road), Tarwara bypass, and Mairwa freight corridor.'
-    ],
-    [
-        'q' => 'Do you collect motorcycles from all Siwan residential & commercial areas?',
-        'a' => 'Yes, free doorstep pickup is available across Babunia Road, Hospital Road, Chapra Road, Tarwara Road, Mahadeva, and Mairwa Road.'
-    ],
-    [
-        'q' => 'Is transit insurance included for bike transport in Siwan?',
-        'a' => 'Yes, full-value transit insurance policies (1.5% to 3% of declared motorcycle value) are issued covering your vehicle against highway transit hazards.'
-    ],
-    [
-        'q' => 'How long does bike delivery take from Siwan to major Indian metros?',
-        'a' => 'Regional deliveries within Bihar and Eastern UP take 24–48 hours, while long-distance transit to Delhi, Mumbai, or Bengaluru takes 3–5 days.'
-    ],
-    [
-        'q' => 'What documents are required to dispatch a motorcycle from Siwan?',
-        'a' => 'Required documentation includes RC copy, active bike insurance certificate copy, owner Aadhaar card copy, and signed vehicle condition sheet.'
-    ],
-    [
-        'q' => 'Must the fuel tank be emptied before shipping from Siwan?',
-        'a' => 'Yes, fuel must be drained under 1 liter to comply with national highway transport safety and fire prevention regulations.'
-    ],
-    [
-        'q' => 'Do you provide IBA approved GST bills for corporate or government claim reimbursement?',
-        'a' => 'Yes, 100% genuine IBA-compliant GST consignment tax invoices, LR copies, and payment receipts are supplied for employee relocation claims.'
-    ],
-    [
-        'q' => 'How can I book bike transport service in Siwan?',
-        'a' => 'Call +91 8409531615 or submit your motorcycle details on WhatsApp for an instant written price quotation and booking confirmation.'
-    ]
-];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
+  <div class="breadcrumb-wrapper" style="background: #0f172a; padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
     <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+      <div class="breadcrumb-list" style="display: flex; gap: 8px; font-size: 0.88rem; color: #94a3b8; align-items: center;">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #cbd5e1; text-decoration: none;">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-patna.php" style="color: #cbd5e1; text-decoration: none;">Bihar</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active" style="color: #f59e0b; font-weight: 600;">Siwan Bike Transport</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -77,33 +34,33 @@ require_once __DIR__ . '/../includes/header.php';
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
             BIKE TRANSPORTATION SIWAN (BR-29 NORTH BIHAR)
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transportation in Siwan</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers delivers safe, insured, and doorstep motorcycle transport across Siwan (BR-29 RTO) via NH-531 and Chapra-Siwan highway corridor. Equipped with 7-layer bubble packaging, closed container carriers, and 100% IBA-approved GST bills.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Insured two-wheeler shifting in Siwan (BR-29 RTO, Bihar) via NH-531 & Chapra-Siwan corridor. Doorstep pickup, multi-layer shockproof packing, hydraulic ramp loading, and zero-scratch transit across India.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Siwan." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20shifting%20quote%20from%20Siwan." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
             <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Packaging</span>
-            <span><strong style="color: #f59e0b;">Doorstep</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Protection</span>
+            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Express Service</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
           <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Siwan Bike Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp</p>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive instant cost estimate on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
@@ -117,7 +74,7 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Bike Estimate &rarr;
+              Get Free Instant Estimate &rarr;
             </button>
           </form>
         </div>
@@ -126,136 +83,217 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Service & Rate Matrix Section -->
-  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
-    <div class="container" style="max-width: 1000px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">
-        SIWAN RELOCATION LOGISTICS
-      </span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Doorstep Motorcycle Shipping in <span style="color: #f59e0b;">Siwan</span>
-      </h2>
-      
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">
-        Shree Ashirwad Packers and Movers provides safe two-wheeler relocation across Babunia Road, Hospital Road, Chapra Road, Tarwara Road, Mahadeva, and Mairwa Road in Siwan. We utilize heavy-duty 7-layer bubble wrapping, foam guards for indicators and mirrors, and nylon belt anchorage inside enclosed container trucks.
-      </p>
-
-      <!-- Rate Matrix Table -->
-      <div style="overflow-x: auto; margin: 40px 0;">
-        <h3 style="font-size: 1.5rem; color: #ffffff; font-weight: 700; margin-bottom: 15px;">
-          Estimated Bike Transport Rates for Siwan
-        </h3>
-        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
-          <thead>
-            <tr style="background: #1e3a8a; color: #f59e0b; text-align: left;">
-              <th style="padding: 14px 16px;">Vehicle Category</th>
-              <th style="padding: 14px 16px;">Regional Transit (Patna / Chapra / Gopalganj)</th>
-              <th style="padding: 14px 16px;">Interstate Metros (Delhi / Kolkata / Bengaluru)</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Standard Scooters (Activa, Jupiter)</td>
-              <td style="padding: 12px 16px; color: #6ee7b7;">₹1,800 - ₹2,800</td>
-              <td style="padding: 12px 16px; color: #cbd5e1;">₹4,000 - ₹6,000</td>
-            </tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Commuter Motorcycles (100cc - 150cc)</td>
-              <td style="padding: 12px 16px; color: #6ee7b7;">₹2,200 - ₹3,200</td>
-              <td style="padding: 12px 16px; color: #cbd5e1;">₹4,500 - ₹6,800</td>
-            </tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Sports & Cruisers (Bullet, Duke, Apache)</td>
-              <td style="padding: 12px 16px; color: #6ee7b7;">₹2,800 - ₹4,200</td>
-              <td style="padding: 12px 16px; color: #cbd5e1;">₹5,500 - ₹8,500</td>
-            </tr>
-          </tbody>
-        </table>
+  <!-- 3. Key Stats Counter Bar -->
+  <section style="background: #0f172a; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">4,100+</div>
+          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Bikes Transported</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <div style="font-size: 2rem; font-weight: 800; color: #10b981;">100%</div>
+          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Transit Safety Record</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <div style="font-size: 2rem; font-weight: 800; color: #3b82f6;">7-Layer</div>
+          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Armor Shield Packing</div>
+        </div>
+        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
+          <div style="font-size: 2rem; font-weight: 800; color: #ec4899;">IBA/GST</div>
+          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Valid Bill Claims</div>
+        </div>
       </div>
-
     </div>
   </section>
 
-  <!-- FAQ Section with Schema Support -->
-  <section class="faq-section" style="padding: 60px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions (Bike Transport Siwan)</h2>
+  <!-- 4. 6-Card Feature Grid -->
+  <section style="background: #090d16; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff;">Why Choose Our Bike Parcel Service in Siwan?</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Engineered for zero-damage two-wheeler shipping from Siwan (BR-29), Bihar</p>
       </div>
 
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        <?php foreach ($faq_list as $index => $faq): ?>
-          <div style="background: #101c40; padding: 20px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
-            <h4 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">
-              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?>
-            </h4>
-            <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-              <?php echo htmlspecialchars($faq['a']); ?>
-            </p>
-          </div>
-        <?php endforeach; ?>
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-container"></i> Closed Hydraulic Carriers</div>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Weather-proof enclosed car and bike carriers protecting vehicles against dust, rain, and highway flying debris.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 1.5rem; color: #10b981; margin-bottom: 12px;"><i class="fas fa-map-marker-alt"></i> Doorstep Pickup in Siwan</div>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Our trained crew picks up your motorcycle directly from your residence or office anywhere across Siwan town.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 1.5rem; color: #3b82f6; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i> Complete Transit Insurance</div>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Full transit insurance coverage for peace of mind against unforeseen highway accidents or natural hazards.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 1.5rem; color: #8b5cf6; margin-bottom: 12px;"><i class="fas fa-box"></i> Heavy-Duty Bubble Wrapping</div>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">High-density 80-GSM bubble sheets, corrugated boxes, and foam pads prevent frame scratches and mirror cracks.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 1.5rem; color: #ec4899; margin-bottom: 12px;"><i class="fas fa-receipt"></i> IBA & GST Tax Invoices</div>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Official GST bills and consignment notes compatible with company employee relocation allowance claims.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
+          <div style="font-size: 1.5rem; color: #06b6d4; margin-bottom: 12px;"><i class="fas fa-headset"></i> Dedicated Tracking Updates</div>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Real-time status updates and WhatsApp tracking from pickup at Siwan to final delivery at your destination.</p>
+        </div>
       </div>
+    </div>
+  </section>
+
+  <!-- 5. Specialized Services Breakdown -->
+  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Specialized Vehicle Shifting Services in Siwan</h2>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px;">Standard Commuter Bikes</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem;">Safe transport for 100cc-150cc motorcycles with custom handle locking and body wrapping.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px;">Premium & Sports Bikes</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem;">Enclosed wooden crate packing for Royal Enfield, KTM, BMW, and sports bikes.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
+          <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px;">Scooters & Mopeds</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem;">Special care for Activa, Access, and Jupiter scooters preventing fiber body damage.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. 7-Layer Safety Packaging Framework -->
+  <section style="background: #090d16; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">7-Layer Safety Packaging Framework</h2>
+        <p style="color: #94a3b8;">Maximum protection against shock, dust, and highway vibrations</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; text-align: center;">
+        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-weight: 700; color: #f59e0b;">Layer 1</div>
+          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">Stretch Film Scratch Guard</div>
+        </div>
+        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-weight: 700; color: #f59e0b;">Layer 2</div>
+          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">80-GSM Bubble Wrap</div>
+        </div>
+        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-weight: 700; color: #f59e0b;">Layer 3</div>
+          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">Corrugated Sheet Armor</div>
+        </div>
+        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-weight: 700; color: #f59e0b;">Layer 4</div>
+          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">Foam Edge Protectors</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. Origin Pickup Locality Grid -->
+  <section style="background: #0f172a; padding: 50px 0; color: #ffffff;">
+    <div class="container">
+      <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 20px;">Pickup Coverage in Siwan & Nearby Areas</h3>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; font-size: 0.9rem;">
+        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Babunia Road</a>
+        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Hospital Road</a>
+        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Chapra Road</a>
+        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Mairwa Road</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8. Intercity Route Network Grid -->
+  <section style="background: #090d16; padding: 50px 0; color: #ffffff;">
+    <div class="container">
+      <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 20px;">Popular Bike Transport Routes from Siwan</h3>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; font-size: 0.9rem;">
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-patna.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Siwan to Patna</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-delhi.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Siwan to Delhi</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-kolkata.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Siwan to Kolkata</a>
+        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-bangalore.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Siwan to Bangalore</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. IBA Approved GST Billing Documentation -->
+  <section style="background: #0f172a; padding: 50px 0; color: #ffffff;">
+    <div class="container">
+      <h3 style="font-size: 1.3rem; color: #10b981; margin-bottom: 15px;">IBA & GST Compliant Relocation Documentation</h3>
+      <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7;">We supply 100% genuine tax invoices, consignment bills (LR copies), vehicle inspection reports, and transit insurance certificates for claim submissions.</p>
+    </div>
+  </section>
+
+  <!-- 10. Detailed FAQs & JSON-LD Schema -->
+  <section style="background: #090d16; padding: 60px 0; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions (FAQs)</h2>
+      </div>
+
+      <div style="max-width: 900px; margin: 0 auto; display: grid; gap: 15px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
+          <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">How much does bike transportation in Siwan cost?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Local/regional charges to Patna or Chapra range from ₹1,800 to ₹3,500, while long-distance shipping to Delhi or Bangalore ranges between ₹4,000 and ₹7,500.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
+          <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">What documents are required for bike transport from Siwan?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">You need a copy of the Vehicle RC, Insurance policy, and ID proof of the owner.</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
+          <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">Is doorstep pickup available in Siwan?</h4>
+          <p style="color: #cbd5e1; font-size: 0.9rem;">Yes, we provide door-to-door pickup and delivery across Babunia Road, Hospital Road, Chapra Road, and Mairwa Road in Siwan.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 11. CTA Footer -->
+  <section style="background: linear-gradient(135deg, #1e1b4b 0%, #0f172a 100%); padding: 50px 0; text-align: center; color: #ffffff;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Ready to Transport Your Bike from Siwan?</h2>
+      <p style="color: #cbd5e1; margin-bottom: 25px;">Contact our Siwan two-wheeler shifting experts today for a free estimate.</p>
+      <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 15px 35px; background: #f59e0b; color: #000; border-radius: 50px; font-weight: 800; text-decoration: none; font-size: 1.1rem;">Call <?php echo SITE_PHONE; ?> Now</a>
     </div>
   </section>
 
 </main>
 
-<!-- Inline JSON-LD Structured Data Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    <?php 
-    $schema_faqs = [];
-    foreach ($faq_list as $faq) {
-        $schema_faqs[] = '{
-          "@type": "Question",
-          "name": ' . json_encode($faq['q']) . ',
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": ' . json_encode($faq['a']) . '
-          }
-        }';
+    {
+      "@type": "Question",
+      "name": "How much does bike transportation in Siwan cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local/regional charges to Patna or Chapra range from ₹1,800 to ₹3,500, while long-distance shipping to Delhi or Bangalore ranges between ₹4,000 and ₹7,500."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for bike transport from Siwan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a copy of the Vehicle RC, Insurance policy, and ID proof of the owner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is doorstep pickup available in Siwan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide door-to-door pickup and delivery across Babunia Road, Hospital Road, Chapra Road, and Mairwa Road in Siwan."
+      }
     }
-    echo implode(',', $schema_faqs);
-    ?>
   ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MovingCompany",
-  "name": "Shree Ashirwad Packers and Movers",
-  "description": "Professional bike transportation in Siwan, Bihar with doorstep pickup and transit insurance.",
-  "url": "<?php echo $canonical_url; ?>",
-  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Siwan",
-    "addressRegion": "Bihar",
-    "addressCountry": "IN"
-  },
-  "areaServed": "Siwan, Bihar",
-  "priceRange": "₹1800 - ₹8500"
-}
-</script>
-
-<script>
-function sendHeroWhatsAppLead(event, form) {
-  event.preventDefault();
-  var name = form.querySelector('[name="name"]').value;
-  var phone = form.querySelector('[name="phone"]').value;
-  var moveFrom = form.querySelector('[name="move_from"]').value;
-  var moveTo = form.querySelector('[name="move_to"]').value;
-  
-  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Bike Transport Quote for Siwan:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
-  
-  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
-  window.open(whatsappUrl, '_blank');
 }
 </script>
 
