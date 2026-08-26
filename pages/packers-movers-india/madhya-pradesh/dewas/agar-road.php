@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../../../includes/config.php';
 
 $page_title = "Packers and Movers Agar Road Dewas";
 $page_desc = "Planning a move near Agar Road, Dewas? Trust Shree Ashirwad Packers and Movers for local house shifting, domestic relocation, and secure home packing. Professional crew, damage-free delivery. Get a free quote. Complete door-to-door relocation coverage across Packers Movers India, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "agar road, best agar road, affordable agar road, packers and movers, packers and movers in ranchi, top agar road company, household shifting agar road, doorstep agar road, verified agar road services, shree ashirwad agar road";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-movers-india/madhya-pradesh/dewas/agar-road.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../../../includes/footer.php'; ?>

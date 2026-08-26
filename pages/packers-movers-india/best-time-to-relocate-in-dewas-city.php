@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Best Time to Relocate in Dewas City | Seasonal Shifting Guide 2025";
 $page_desc = "Discover the best months and days to relocate in Dewas, Madhya Pradesh. Avoid peak season rush and get the best availability. Call Shree Ashirwad Packers and Movers Packers: 8409531615. Complete door-to-door relocation coverage across Dewas City, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "best time to relocate in dewas city, best best time to relocate in dewas city, affordable best time to relocate in dewas city, packers and movers, packers and movers in ranchi, top best time to relocate in dewas city company, household shifting best time to relocate in dewas city, doorstep best time to relocate in dewas city, verified best time to relocate in dewas city services, shree ashirwad best time to relocate in dewas city";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-movers-india/best-time-to-relocate-in-dewas-city.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

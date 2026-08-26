@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Office Shifting Services in India 8409531615";
 $page_desc = "Zero-downtime office shifting services in India. Shree Ashirwad Packers and Movers offers IT equipment packing, modular workstation dismantling, file organization, and weekend slots. Call 8409531615. Complete door-to-door relocation coverage across Services, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "office shifting, best office shifting, affordable office shifting, packers and movers, packers and movers in ranchi, top office shifting company, household shifting office shifting, doorstep office shifting, verified office shifting services, shree ashirwad office shifting";
 $canonical_url = SITE_URL . "services/office-shifting";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Best Home Shifting Services in India 8409531615";
 $page_desc = "Secure home shifting services in India. Shree Ashirwad Packers and Movers offers complete household packing, furniture dismantling, safe transport, and full insurance. Call 8409531615.";
 $page_keywords = "home shifting services in india, best home shifting services in india, affordable home shifting services in india, packers and movers, packers and movers in ranchi, top home shifting services in india company, household shifting home shifting services in india, doorstep home shifting services in india, verified home shifting services in india services, shree ashirwad home shifting services in india";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/home-shifting-services-in-india.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

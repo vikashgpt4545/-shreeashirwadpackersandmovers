@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../../includes/config.php';
 
 $page_title = "Packers and Movers in Dewas | Shifting Services Guide 8409531615";
 $page_desc = "Explore the complete guide to hiring packers and movers in Dewas, Madhya Pradesh. Direct pricing structure, household packing safety protocols, and list of all 47 service areas. Call 8409531615 for a free quote. Complete door-to-door relocation coverage across Packers Movers India, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "dewas, best dewas, affordable dewas, packers and movers, packers and movers in ranchi, top dewas company, household shifting dewas, doorstep dewas, verified dewas services, shree ashirwad dewas";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-movers-india/madhya-pradesh/dewas.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../../includes/footer.php'; ?>

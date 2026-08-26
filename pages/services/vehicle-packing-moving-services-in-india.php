@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Best Vehicle Packing and Moving Services in India 8409531615";
 $page_desc = "Secure vehicle packing and moving services in India. Shree Ashirwad Packers and Movers offers custom scratch protection wrapping, wooden bike crating, and carrier transport. Call 8409531615.";
 $page_keywords = "vehicle packing moving services in india, best vehicle packing moving services in india, affordable vehicle packing moving services in india, packers and movers, packers and movers in ranchi, top vehicle packing moving services in india company, household shifting vehicle packing moving services in india, doorstep vehicle packing moving services in india, verified vehicle packing moving services in india services, shree ashirwad vehicle packing moving services in india";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/vehicle-packing-moving-services-in-india.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

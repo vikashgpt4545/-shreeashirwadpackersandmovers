@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Premium Car Relocation Services in India 8409531615";
 $page_desc = "Secure car relocation services in India. Shree Ashirwad Packers and Movers offers door-to-door vehicle relocation, GPS tracking, and full transit insurance. Call 8409531615.";
 $page_keywords = "car relocation services in india, best car relocation services in india, affordable car relocation services in india, packers and movers, packers and movers in ranchi, top car relocation services in india company, household shifting car relocation services in india, doorstep car relocation services in india, verified car relocation services in india services, shree ashirwad car relocation services in india";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/car-relocation-services-in-india.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

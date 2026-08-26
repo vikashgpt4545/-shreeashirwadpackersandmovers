@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Best Car Packers and Movers Services in India 8409531615";
 $page_desc = "Secure car packers and movers services in India. Shree Ashirwad Packers and Movers offers multi-layer scratch protection, hydraulic loading, and active tracking. Call 8409531615.";
 $page_keywords = "car packers movers services in india, best car packers movers services in india, affordable car packers movers services in india, packers and movers, packers and movers in ranchi, top car packers movers services in india company, household shifting car packers movers services in india, doorstep car packers movers services in india, verified car packers movers services in india services, shree ashirwad car packers movers services in india";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/car-packers-movers-services-in-india.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

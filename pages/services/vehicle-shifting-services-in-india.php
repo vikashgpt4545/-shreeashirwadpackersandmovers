@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Professional Vehicle Shifting Services in India 8409531615";
 $page_desc = "Secure vehicle shifting services in India. Shree Ashirwad Packers and Movers offers door-to-door car & bike shifting, enclosed transport, and transit insurance. Call 8409531615.";
 $page_keywords = "vehicle shifting services in india, best vehicle shifting services in india, affordable vehicle shifting services in india, packers and movers, packers and movers in ranchi, top vehicle shifting services in india company, household shifting vehicle shifting services in india, doorstep vehicle shifting services in india, verified vehicle shifting services in india services, shree ashirwad vehicle shifting services in india";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/vehicle-shifting-services-in-india.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

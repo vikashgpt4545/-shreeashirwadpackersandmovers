@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Warehouse & Storage Services in India 8409531615";
 $page_desc = "Secure short and long-term warehouse storage solutions in India. Shree Ashirwad Packers and Movers offers 24/7 CCTV surveillance, pest control, inventory logging, and full insurance. Call 8409531615. Complete door-to-door relocation coverage across Services, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "warehouse, best warehouse, affordable warehouse, packers and movers, packers and movers in ranchi, top warehouse company, household shifting warehouse, doorstep warehouse, verified warehouse services, shree ashirwad warehouse";
 $canonical_url = SITE_URL . "services/warehouse";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>

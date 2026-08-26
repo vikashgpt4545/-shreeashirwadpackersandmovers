@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../../../includes/config.php';
 
 $page_title = "Packers and Movers Bada Bazar Dewas";
 $page_desc = "Planning a move near Bada Bazar, Dewas? Trust Shree Ashirwad Packers and Movers for local house shifting, domestic relocation, and secure shop packing. Professional crew, damage-free delivery. Get a free quote. Complete door-to-door relocation coverage across Packers Movers India, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "bada bazar, best bada bazar, affordable bada bazar, packers and movers, packers and movers in ranchi, top bada bazar company, household shifting bada bazar, doorstep bada bazar, verified bada bazar services, shree ashirwad bada bazar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-movers-india/madhya-pradesh/dewas/bada-bazar.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../../../includes/footer.php'; ?>

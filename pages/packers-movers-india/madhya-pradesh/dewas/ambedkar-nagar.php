@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../../../includes/config.php';
 
 $page_title = "Packers and Movers Ambedkar Nagar Dewas";
 $page_desc = "Planning a move near Ambedkar Nagar, Dewas? Trust Shree Ashirwad Packers and Movers for local house shifting, domestic relocation, and secure home packing. Professional crew, damage-free delivery. Get a free quote. Complete door-to-door relocation coverage across Packers Movers India, Railway Station Road, Main Market, College Road, Civil Lines.";
 $page_keywords = "ambedkar nagar, best ambedkar nagar, affordable ambedkar nagar, packers and movers, packers and movers in ranchi, top ambedkar nagar company, household shifting ambedkar nagar, doorstep ambedkar nagar, verified ambedkar nagar services, shree ashirwad ambedkar nagar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-movers-india/madhya-pradesh/dewas/ambedkar-nagar.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../../../includes/footer.php'; ?>

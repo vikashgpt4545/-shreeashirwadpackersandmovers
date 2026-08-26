@@ -1,12 +1,12 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../../includes/config.php';
 
 $page_title = "Professional Car Carrier Services in India 8409531615";
 $page_desc = "Secure car carrier services in India. Shree Ashirwad Packers and Movers offers open & enclosed car carriers, multi-point loading, and comprehensive transit insurance. Call 8409531615.";
 $page_keywords = "car carrier services in india, best car carrier services in india, affordable car carrier services in india, packers and movers, packers and movers in ranchi, top car carrier services in india company, household shifting car carrier services in india, doorstep car carrier services in india, verified car carrier services in india services, shree ashirwad car carrier services in india";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/services/car-carrier-services-in-india.php";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once __DIR__ . '/../../includes/header.php';
 ?>
 
 <main class="site-main">
@@ -85,4 +85,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../../includes/footer.php'; ?>
