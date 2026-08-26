@@ -1,12 +1,13 @@
 <?php
-require_once __DIR__ . '/../includes/config.php';
+$root_dir = dirname(__DIR__);
+require_once file_exists(__DIR__ . '/../includes/config.php') ? __DIR__ . '/../includes/config.php' : $root_dir . '/includes/config.php';
 
-$page_title = "Relocation Services - Shree Ashirwad Packers and Movers";
-$page_desc = "Explore complete household shifting, office relocation, car transportation, local shifting, bike transport, and warehouse storage services pan-India.";
+$page_title = "All Relocation Services | Shree Ashirwad Packers and Movers";
+$page_desc = "Explore complete household shifting, office relocation, car transportation, local shifting, bike transport, and warehouse storage services pan-India by IBA approved Shree Ashirwad Packers and Movers.";
 $page_keywords = "relocation services, household shifting, office shifting, car transportation, local shifting, warehouse storage, packers and movers services";
 $canonical_url = SITE_URL . "services";
 
-require_once __DIR__ . '/../includes/header.php';
+require_once file_exists(__DIR__ . '/../includes/header.php') ? __DIR__ . '/../includes/header.php' : $root_dir . '/includes/header.php';
 ?>
 
 <main class="site-main" style="background: #070d19; color: #ffffff; min-height: 100vh; padding-bottom: 60px;">
@@ -29,7 +30,7 @@ require_once __DIR__ . '/../includes/header.php';
         COMPREHENSIVE RELOCATION SOLUTIONS
       </span>
       <h1 style="font-size: 2.6rem; font-weight: 800; color: #ffffff; line-height: 1.25; margin-bottom: 16px;">
-        Professional Packers and Movers Services
+        Professional Packers and Movers Services Across India
       </h1>
       <p style="font-size: 1.08rem; color: #cbd5e1; max-width: 800px; margin: 0 auto; line-height: 1.7;">
         Shree Ashirwad Packers and Movers provides end-to-end packing, moving, car transport, bike shipping, office relocation, and secure storage with 100% transit insurance and IBA-approved documentation.
@@ -65,12 +66,12 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 54px; height: 54px; background: rgba(245, 158, 11, 0.15); border-radius: 14px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.4rem; margin-bottom: 20px;">
               <i class="fas fa-building"></i>
             </div>
-            <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Office &amp; Commercial Shifting</h3>
+            <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Office &amp; Corporate Shifting</h3>
             <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
-              Zero-downtime corporate office relocation, server room IT equipment packing, tagged document archiving, and weekend/overnight moving execution.
+              Zero-downtime commercial office moving, IT equipment anti-static packing, workstation dismantling, confidential document archiving, and weekend slots.
             </p>
           </div>
-          <a href="<?php echo SITE_URL; ?>services/office-shifting" title="Office Relocation Services" style="display: inline-flex; align-items: center; gap: 8px; color: #f59e0b; font-weight: 700; font-size: 0.95rem; text-decoration: none;">
+          <a href="<?php echo SITE_URL; ?>services/office-shifting" title="Office Shifting Services" style="display: inline-flex; align-items: center; gap: 8px; color: #f59e0b; font-weight: 700; font-size: 0.95rem; text-decoration: none;">
             Explore Office Shifting <i class="fas fa-arrow-right"></i>
           </a>
         </div>
@@ -83,7 +84,7 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
             <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Car Transportation</h3>
             <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
-              Scratch-free car shipping via enclosed hydraulic car carriers with zero mileage addition, doorstep pickup, and real-time satellite GPS tracking.
+              Door-to-door car transport using specialized enclosed hydraulic car carrier trucks, satellite GPS tracking, pre-move inspection reports, and full insurance.
             </p>
           </div>
           <a href="<?php echo SITE_URL; ?>services/car-transportation" title="Car Transportation Services" style="display: inline-flex; align-items: center; gap: 8px; color: #f59e0b; font-weight: 700; font-size: 0.95rem; text-decoration: none;">
@@ -97,9 +98,9 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 54px; height: 54px; background: rgba(245, 158, 11, 0.15); border-radius: 14px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.4rem; margin-bottom: 20px;">
               <i class="fas fa-truck-moving"></i>
             </div>
-            <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Local Shifting</h3>
+            <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Local Intracity Shifting</h3>
             <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
-              Same-day intra-city home and apartment shifting within your city with dedicated small fleet trucks, trained loaders, and fast packing setup.
+              Fast same-day local house moving within the city. Experienced local loaders, covered city mini-trucks, bubble wrap protection, and zero stair charges.
             </p>
           </div>
           <a href="<?php echo SITE_URL; ?>services/local-shifting" title="Local Shifting Services" style="display: inline-flex; align-items: center; gap: 8px; color: #f59e0b; font-weight: 700; font-size: 0.95rem; text-decoration: none;">
@@ -113,29 +114,13 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 54px; height: 54px; background: rgba(245, 158, 11, 0.15); border-radius: 14px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.4rem; margin-bottom: 20px;">
               <i class="fas fa-warehouse"></i>
             </div>
-            <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Warehouse &amp; Storage</h3>
+            <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Warehouse &amp; Goods Storage</h3>
             <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
-              Secure short-term and long-term goods storage with 24/7 CCTV surveillance, pest control, moisture protection, and flexible monthly rental plans.
+              Short and long-term luggage and household goods storage with 24/7 CCTV surveillance, monthly pest control, barcode inventory logging, and full insurance.
             </p>
           </div>
-          <a href="<?php echo SITE_URL; ?>services/warehouse" title="Warehouse & Storage Services" style="display: inline-flex; align-items: center; gap: 8px; color: #f59e0b; font-weight: 700; font-size: 0.95rem; text-decoration: none;">
+          <a href="<?php echo SITE_URL; ?>services/warehouse" title="Warehouse Storage Services" style="display: inline-flex; align-items: center; gap: 8px; color: #f59e0b; font-weight: 700; font-size: 0.95rem; text-decoration: none;">
             Explore Warehouse Storage <i class="fas fa-arrow-right"></i>
-          </a>
-        </div>
-
-        <!-- Service 6: Bike Transportation -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 18px; padding: 32px 26px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <div style="width: 54px; height: 54px; background: rgba(245, 158, 11, 0.15); border-radius: 14px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.4rem; margin-bottom: 20px;">
-              <i class="fas fa-motorcycle"></i>
-            </div>
-            <h3 style="font-size: 1.4rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Bike Transportation</h3>
-            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
-              Specialized 4-layer paddy straw and corrugated sheet bike packing for two-wheelers, scooters, and premium bikes delivered pan-India.
-            </p>
-          </div>
-          <a href="<?php echo SITE_URL; ?>bike-transportation.php" title="Bike Transportation Services" style="display: inline-flex; align-items: center; gap: 8px; color: #f59e0b; font-weight: 700; font-size: 0.95rem; text-decoration: none;">
-            Explore Bike Transport <i class="fas fa-arrow-right"></i>
           </a>
         </div>
 
@@ -144,16 +129,18 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- CTA Banner -->
-  <section style="padding: 50px 0; background: linear-gradient(135deg, #1e1b4b 0%, #0f172a 100%); text-align: center;">
+  <!-- CTA Section -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #1e1b4b 0%, #0f172a 100%); text-align: center;">
     <div class="container" style="max-width: 900px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">Need a Customized Relocation Plan?</h2>
-      <p style="color: #cbd5e1; font-size: 1.05rem; margin-bottom: 25px;">Contact our official shifting experts now to schedule a free pre-move survey or get an instant cost quote.</p>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">Need Custom Relocation Guidance?</h2>
+      <p style="color: #cbd5e1; font-size: 1.05rem; margin-bottom: 28px; line-height: 1.7;">
+        Our moving experts are available 24/7 to provide free video surveys and instant estimates.
+      </p>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 6px 20px rgba(225, 29, 72, 0.35);">
-          <i class="fas fa-phone-alt"></i> Call: <?php echo SITE_PHONE; ?>
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Us Now" style="padding: 15px 34px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 800; font-size: 1.05rem; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 6px 20px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Support: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20know%20more%20about%20your%20services." title="WhatsApp Us" target="_blank" style="padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20relocation%20quote." title="WhatsApp Booking" target="_blank" style="padding: 15px 34px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 800; font-size: 1.05rem; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);">
           <i class="fab fa-whatsapp"></i> Chat on WhatsApp
         </a>
       </div>
@@ -162,4 +149,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once file_exists(__DIR__ . '/../includes/footer.php') ? __DIR__ . '/../includes/footer.php' : $root_dir . '/includes/footer.php'; ?>
