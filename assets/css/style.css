@@ -230,7 +230,9 @@ ul {
   border-top: 3px solid var(--brand-yellow);
 }
 
-.nav-item.dropdown:hover .dropdown-menu {
+.nav-item.dropdown:hover .dropdown-menu,
+.nav-item.dropdown.show .dropdown-menu,
+.nav-item.dropdown.active-dropdown .dropdown-menu {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);
@@ -259,16 +261,27 @@ ul {
 
   .dropdown-menu {
     position: static;
-    opacity: 1;
-    visibility: visible;
+    opacity: 0;
+    visibility: hidden;
+    max-height: 0;
+    overflow: hidden;
     transform: none;
     box-shadow: none;
     border-top: none;
     border-left: 2px solid var(--brand-yellow);
     background-color: transparent;
-    padding: 4px 0 4px 12px;
+    padding: 0 0 0 12px;
     margin-top: 4px;
     min-width: 100%;
+    transition: all 0.3s ease;
+  }
+
+  .nav-item.dropdown.show .dropdown-menu,
+  .nav-item.dropdown:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    max-height: 500px;
+    padding: 4px 0 4px 12px;
   }
 
   .dropdown-item {
