@@ -397,47 +397,8 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
   <!-- 10. 10 to 15 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      <?php 
-      $schema_items = [];
-      foreach ($faq_list as $faq) {
-          $schema_items[] = '{
-            "@type": "Question",
-            "name": ' . json_encode($faq['q']) . ',
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": ' . json_encode($faq['a']) . '
-            }
-          }';
-      }
-      echo implode(',', $schema_items);
-      ?>
-    ]
-  }
-  </script>
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "MovingCompany",
-    "name": "Shree Ashirwad Packers and Movers",
-    "description": "Professional car transportation in Bariatu Ranchi providing enclosed hydraulic car carriers and transit insurance.",
-    "url": "<?php echo $canonical_url; ?>",
-    "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Bariatu, Ranchi",
-      "addressRegion": "Jharkhand",
-      "addressCountry": "IN"
-    },
-    "areaServed": "Bariatu, Ranchi, Jharkhand",
-    "priceRange": "₹7500 - ₹18500"
-  }
-  </script>
+
 
   <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 900px;">

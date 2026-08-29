@@ -4,14 +4,21 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Agatti Island to Mangalore Car Transport Cost & Shipping Guide";
 $page_desc = "Complete maritime and road transport guide for shipping cars from Agatti Island (Lakshadweep) to Mangalore Port (Karnataka). Learn cargo vessel freight rates, Lakshadweep Port permits, sea-transit insurance, and doorstep mainland delivery.";
 $page_keywords = "agatti to mangalore car transport cost, lakshadweep car shipping, island to mainland vehicle transport, agatti port car shipping rates, new mangalore port car handling";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/agatti-to-mangalore-car-transport-cost.php";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/agatti-to-mangalore-car-transport-cost";
+
+$page_city = "Agatti Island / Mangalore";
 
 $faq_list = [
     ['q' => 'How is a car shipped from Agatti Island (Lakshadweep) to Mangalore?', 'a' => 'Shipping a car from Agatti Island requires multi-modal logistics: secure vehicle lashing on cargo barges or passenger-cum-cargo vessels operated by Lakshadweep Development Corporation, sea transit to New Mangalore Port, port customs clearance, and trailer loading for final delivery.'],
     ['q' => 'What is the estimated cost of shipping a car from Agatti to Mangalore?', 'a' => 'Total costs range between ₹28,000 and ₹45,000 depending on vehicle dimensions. This includes island wharfage fees, maritime cargo vessel freight, port handling charges at Mangalore, marine insurance, and mainland carrier delivery.'],
     ['q' => 'What documents are required for Lakshadweep island car shipping?', 'a' => 'You need the original RC Smart Card, valid PUC, vehicle insurance policy, owner Aadhaar card, Lakshadweep administration NOC/Permit, and port gate pass clearance.'],
     ['q' => 'How long does sea transit take from Agatti to Mangalore Port?', 'a' => 'Maritime transit typically takes 18 to 36 hours depending on sea state and vessel sailing schedules. Door-to-door delivery after port unloading takes an additional 1 to 2 days.'],
-    ['q' => 'Is marine insurance necessary for sea transit from Lakshadweep?', 'a' => 'Yes. Standard motor insurance policies exclude open-sea maritime cargo transit. We arrange comprehensive marine transit risk insurance covering sea spray, vessel movement, and port loading operations.']
+    ['q' => 'Is marine insurance necessary for sea transit from Lakshadweep?', 'a' => 'Yes. Standard motor insurance policies exclude open-sea maritime cargo transit. We arrange comprehensive marine transit risk insurance covering sea spray, vessel movement, and port loading operations.'],
+    ['q' => 'Can private cars be driven on Agatti Island before shipment?', 'a' => 'Vehicle usage on Agatti Island is governed by Lakshadweep Administration permits. Outward shipping requires local port authority clearance and vehicle inspection prior to jetty loading.'],
+    ['q' => 'How are vehicles protected against saltwater corrosion during sea shipping?', 'a' => 'Vehicles are treated with anti-corrosive wax spray on vulnerable chassis points, wrapped in heavy-duty weatherproof tarpaulin shields, and secured on covered vessel decks.'],
+    ['q' => 'What happens when the car arrives at New Mangalore Port (NMPT)?', 'a' => 'Our licensed port clearing agents receive the vessel manifest, complete customs wharfage documentation, offload the vehicle using port ramps, and transfer it to a multi-car container trailer.'],
+    ['q' => 'Can the car be delivered from Mangalore Port to other cities like Bangalore, Chennai, or Mumbai?', 'a' => 'Yes! After port clearance at Mangalore, we dispatch the vehicle on enclosed car carriers for doorstep delivery anywhere across India.'],
+    ['q' => 'How can I book Agatti to Mangalore car transport with Shree Ashirwad Packers?', 'a' => 'Call +91 8409531615 or submit your vehicle model and preferred shipping dates on WhatsApp for an immediate maritime quote.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -19,18 +26,20 @@ require_once __DIR__ . '/../includes/header.php';
 
 <main class="site-main">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>guides" title="Guides">Guides</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -44,11 +53,11 @@ require_once __DIR__ . '/../includes/header.php';
             Agatti Island to Mangalore <span style="color: #f59e0b;">Car Transport Cost &amp; Guide</span>
           </h1>
           <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Relocating a vehicle from Agatti Island (Lakshadweep) to Mangalore Port? Shree Ashirwad Packers manages island port bookings, sea-freight vessel loading, marine insurance, and doorstep delivery across Karnataka and mainland India.
+            Relocating a vehicle from Agatti Island (Lakshadweep) to Mangalore Port? Shree Ashirwad Packers manages island port bookings, sea-freight vessel loading, marine insurance, port customs clearance, and doorstep trailer delivery across Karnataka and mainland India.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Maritime Logistics Specialist" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Maritime Specialist" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Island Specialist: <?php echo SITE_PHONE; ?>
             </a>
             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20Agatti%20to%20Mangalore%20car%20transport%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
@@ -57,9 +66,9 @@ require_once __DIR__ . '/../includes/header.php';
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">Maritime Sea</strong> Vessel Cargo</span>
+            <span><strong style="color: #f59e0b;">Maritime Sea</strong> Freight</span>
             <span><strong style="color: #f59e0b;">Full Marine</strong> Insurance</span>
-            <span><strong style="color: #f59e0b;">Port Clearance</strong> Assistance</span>
+            <span><strong style="color: #f59e0b;">NMPT Customs</strong> Clearance</span>
           </div>
         </div>
 
@@ -77,7 +86,7 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
               <input type="text" name="move_from" class="form-control" value="Agatti Island" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" value="Mangalore" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" value="Mangalore / Pan-India" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
               Get Instant Estimate Now &rarr;
@@ -89,7 +98,86 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Island Logistics Feature Section -->
+  <!-- 3. Key Stats Counter Bar -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">18-36 Hrs</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Sea Transit Time</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">NMPT Port</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Customs Clearance</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100% Marine</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Risk Insurance Cover</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">Pan-India</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Doorstep Delivery</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Customized Tariff & Pricing Matrix -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1000px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Maritime Rates</span>
+      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Agatti Island to Mangalore Car Shipping <span style="color: #f59e0b;">Tariff Matrix</span>
+      </h2>
+      
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">
+        Itemized cost breakdown including Agatti wharfage, ocean cargo freight, New Mangalore Port clearing, marine insurance, and mainland carrier transport:
+      </p>
+
+      <div style="overflow-x: auto; margin: 30px 0;">
+        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
+          <thead>
+            <tr style="background: #1e3a8a; color: #f59e0b; text-align: left;">
+              <th style="padding: 14px 16px;">Car Category</th>
+              <th style="padding: 14px 16px;">Island Wharfage &amp; Sea Freight</th>
+              <th style="padding: 14px 16px;">Mangalore Port Handling</th>
+              <th style="padding: 14px 16px;">Total Doorstep Shifting Rate</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Hatchback (Alto, WagonR, Swift)</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹18,000 - ₹22,000</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹6,000 - ₹8,000</td>
+              <td style="padding: 12px 16px; color: #f59e0b; font-weight: 700;">₹28,000 - ₹34,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Sedan (Dzire, City, Verna)</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹21,000 - ₹25,000</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹7,000 - ₹9,000</td>
+              <td style="padding: 12px 16px; color: #f59e0b; font-weight: 700;">₹32,000 - ₹38,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">SUV / MUV (Creta, Innova, Thar)</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹25,000 - ₹30,000</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹8,000 - ₹11,000</td>
+              <td style="padding: 12px 16px; color: #f59e0b; font-weight: 700;">₹38,000 - ₹45,000</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Luxury / Sports (Audi, BMW, Fortuner)</td>
+              <td style="padding: 12px 16px; color: #6ee7b7;">₹32,000 - ₹38,000</td>
+              <td style="padding: 12px 16px; color: #cbd5e1;">₹10,000 - ₹14,000</td>
+              <td style="padding: 12px 16px; color: #f59e0b; font-weight: 700;">₹48,000 - ₹58,000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 5. Detailed Island Logistics Feature Section -->
   <section style="padding: 70px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container" style="max-width: 950px;">
       
@@ -137,7 +225,7 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Frequently Asked Questions -->
+  <!-- 6. Section: Frequently Asked Questions (UI Rendered) -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
       
@@ -149,9 +237,9 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 16px;">
-        <?php foreach ($faq_list as $faq): ?>
+        <?php foreach ($faq_list as $idx => $faq): ?>
           <div style="background: #172a54; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-            <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;"><?php echo htmlspecialchars($faq['q']); ?></h3>
+            <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
             <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;"><?php echo htmlspecialchars($faq['a']); ?></p>
           </div>
         <?php endforeach; ?>
@@ -160,7 +248,7 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Call to Action Banner -->
+  <!-- 7. Call to Action Banner -->
   <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
     <div class="container" style="max-width: 900px; text-align: center;">
       <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">
@@ -172,7 +260,7 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Specialist: <?php echo SITE_PHONE; ?>
         </a>
         <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20Agatti%20to%20Mangalore%20car%20transport%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
           <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp

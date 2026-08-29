@@ -205,48 +205,8 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<!-- Inline JSON-LD Structured Data Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    <?php 
-    $schema_faqs = [];
-    foreach ($faq_list as $faq) {
-        $schema_faqs[] = '{
-          "@type": "Question",
-          "name": ' . json_encode($faq['q']) . ',
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": ' . json_encode($faq['a']) . '
-          }
-        }';
-    }
-    echo implode(',', $schema_faqs);
-    ?>
-  ]
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MovingCompany",
-  "name": "Shree Ashirwad Packers and Movers",
-  "description": "Car transportation by train in Patna providing Indian Railways parcel booking, station handling, doorstep pickup/delivery, and IBA GST bills.",
-  "url": "<?php echo $canonical_url; ?>",
-  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Patna",
-    "addressRegion": "Bihar",
-    "addressCountry": "IN"
-  },
-  "areaServed": "Patna, Bihar",
-  "priceRange": "₹8500 - ₹23000"
-}
-</script>
+
 
 <script>
 function sendHeroWhatsAppLead(event, form) {
