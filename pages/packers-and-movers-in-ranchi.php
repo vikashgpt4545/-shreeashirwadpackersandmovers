@@ -6,6 +6,19 @@ $page_desc = "Looking for the best packers and movers in Ranchi? Shree Ashirwad 
 $page_keywords = "packers and movers in ranchi, best packers and movers in ranchi, affordable packers and movers in ranchi, packers and movers, packers and movers in ranchi, top packers and movers in ranchi company, household shifting packers and movers in ranchi, doorstep packers and movers in ranchi, verified packers and movers in ranchi services, shree ashirwad packers and movers in ranchi";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-in-ranchi.php";
 
+$faq_list = [
+    ['q' => 'How are packers and movers ranchi charges evaluated for local shifting?', 'a' => 'Relocation estimates are determined based on the total volume of goods, packing material requirements (bubble wrap, corrugated sheets, wooden crates), floor numbers at pickup and delivery, availability of elevators, and total transit distance.'],
+    ['q' => 'Do you provide IBA approved bills for corporate relocation claims in Ranchi?', 'a' => 'Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized packing lists accepted by all government, PSU, defense, railway, and private corporate HR departments.'],
+    ['q' => 'How many days in advance should I book my move in Ranchi?', 'a' => 'For local household shifting within Ranchi, booking 2 to 3 days in advance is recommended. For intercity or interstate long-distance moves, we advise booking 4 to 7 days in advance to reserve dedicated container trucks.'],
+    ['q' => 'How do you protect fragile items like Smart LED TVs, glass tabletops, and artwork?', 'a' => 'We apply multi-layer protective packaging consisting of stretch film, high-density air-bubble wrap, foam corner guards, quilted blankets, and custom-built wooden crates to absorb transit shocks.'],
+    ['q' => 'Can I track my moving truck during long-distance intercity transit?', 'a' => 'Yes, all our enclosed moving container trucks are outfitted with real-time satellite GPS tracking. You receive continuous status updates from your move supervisor.'],
+    ['q' => 'Do you transport cars and bikes safely from Ranchi?', 'a' => 'Yes, we operate specialized hydraulic enclosed car carriers and wheel-locked bike containers with paddy-straw padded wrapping for scratch-free vehicle logistics across India.'],
+    ['q' => 'Is transit insurance included with the shifting service?', 'a' => 'We offer comprehensive transit insurance coverage that protects your shipment against unforeseen environmental factors or road accidents during long-distance transit.'],
+    ['q' => 'Do your packers disassemble and reassemble modular furniture?', 'a' => 'Yes, our trained carpenters and move staff dismantle double beds, wardrobes, modular desks, and dining tables at origin, and reassemble them at destination.'],
+    ['q' => 'Are there any hidden fees added on move day?', 'a' => 'No! We maintain a strict policy of transparent billing. All cost factors are discussed and fixed prior to move day with zero hidden surcharges.'],
+    ['q' => 'What is the contact number for packers and movers in ranchi inquiry?', 'a' => 'You can call or WhatsApp our official Ranchi Helpline at 08409531615 or email us at info@shreeashirwadpackersandmovers.com for immediate assistance.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
@@ -368,7 +381,7 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
 
       <p style="font-size: 0.95rem; color: #cbd5e1;">
-        We also regularly serve Doranda, Bariatu, Hinoo, Morabadi, Namkum, Kokar, Tupudana, Piska Nagri, Dhurwa, Kantatoli, Hatia, Hesag, Booty More, Ashok Nagar, Chutia, Kadru, Siramtoli, and main road sectors.
+        We also regularly deploy specialized teams for <strong>packers and movers bariatu ranchi</strong>, <strong>packers and movers doranda ranchi</strong>, <strong>packers and movers hinoo ranchi</strong>, <strong>packers and movers morabadi ranchi</strong>, <strong>packers and movers namkum ranchi</strong>, <strong>packers and movers kokar ranchi</strong>, and <strong>packers and movers hatia ranchi</strong>, alongside Tupudana, Piska Nagri, Dhurwa, Kantatoli, Hesag, Booty More, Ashok Nagar, Chutia, Kadru, and Siramtoli sectors.
       </p>
 
     </div>

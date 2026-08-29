@@ -356,14 +356,14 @@ require_once __DIR__ . '/../includes/header.php';
       </h2>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        We provide free doorstep vehicle pickup and delivery across all major residential and commercial sectors in Ranchi:
+        As the preferred choice for <strong>best packers and movers in ranchi</strong> and <strong>top packers and movers in ranchi</strong>, we provide door-to-door car carrier pickup for <strong>packers and movers lalpur ranchi</strong>, <strong>packers and movers harmu ranchi</strong>, <strong>packers and movers kanke road ranchi</strong>, <strong>packers and movers ratu road ranchi</strong>, <strong>packers and movers bariatu ranchi</strong>, <strong>packers and movers doranda ranchi</strong>, <strong>packers and movers hinoo ranchi</strong>, <strong>packers and movers morabadi ranchi</strong>, <strong>packers and movers namkum ranchi</strong>, <strong>packers and movers kokar ranchi</strong>, and <strong>packers and movers hatia ranchi</strong>.
       </p>
 
       <!-- Internal Link Grid 1 (4 Contextual Links) -->
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Main Ranchi City Master Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Primary household and vehicle relocation services across capital sectors.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Primary household and vehicle relocation services across capital sectors by <strong>local packers and movers ranchi</strong>.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi Main Page →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Packers and Movers in Ranchi Main Page →
           </a>
@@ -371,7 +371,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Lalpur &amp; Circular Road Belt</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast doorstep car loading connecting Lalpur to major highway routes.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Fast doorstep car loading for <strong>packers and movers lalpur ranchi</strong>.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-in-lalpur-ranchi" title="Explore Packers and Movers Lalpur Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Lalpur Ranchi →
           </a>
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Kanke Road Residential Corridor</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Premium enclosed car carrier pickup for apartments along Kanke Road.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Enclosed car carrier pickup by <strong>packers and movers kanke road ranchi</strong>.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-in-kanke-ranchi" title="Explore Packers and Movers Kanke Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Kanke Ranchi →
           </a>
@@ -387,7 +387,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Harmu &amp; Argora Housing Colony</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Reliable car towing and transport pickup from Harmu Housing Board.</p>
+          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Car towing and transport pickup by <strong>packers and movers harmu ranchi</strong>.</p>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-in-harmu-ranchi" title="Explore Packers and Movers Harmu Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
             Explore Packers and Movers Harmu Ranchi →
           </a>
@@ -620,29 +620,6 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<!-- Inline JSON-LD Structured Data Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    <?php 
-    $schema_faqs = [];
-    foreach ($faq_list as $faq) {
-        $schema_faqs[] = '{
-          "@type": "Question",
-          "name": ' . json_encode($faq['q']) . ',
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": ' . json_encode($faq['a']) . '
-          }
-        }';
-    }
-    echo implode(',', $schema_faqs);
-    ?>
-  ]
-}
-</script>
 
 <script type="application/ld+json">
 {

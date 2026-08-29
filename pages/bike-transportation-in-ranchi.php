@@ -207,7 +207,7 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
 
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        At <strong>Shree Ashirwad Packers and Movers</strong>, we provide door-to-door bike transportation across Lalpur, Harmu, Kanke Road, Main Road, Ratu Road, Bariatu, Doranda, Hinoo, Ashok Nagar, and Namkum with 4-layer shockproof packaging and full transit insurance protection.
+        As the premier choice for <strong>best packers and movers in ranchi</strong> and <strong>top packers and movers in ranchi</strong>, Shree Ashirwad Packers and Movers provides specialized <strong>bike transport ranchi</strong>, <strong>house relocation in ranchi</strong>, <strong>luggage transport service ranchi</strong>, and <strong>safe packing and moving ranchi</strong>. Whether you need <strong>affordable packers and movers in ranchi</strong>, <strong>local packers and movers ranchi</strong>, or reliable <strong>intercity movers in ranchi</strong>, our logistics team covers every corner of the capital.
       </p>
 
       <!-- 6 Cards Grid (3x2 Layout) -->
@@ -408,6 +408,13 @@ require_once __DIR__ . '/../includes/header.php';
             Car Transportation in Hazaribagh →
           </a>
         </div>
+      </div>
+
+      <div style="background: rgba(23, 42, 84, 0.6); padding: 22px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2); margin-top: 25px;">
+        <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 10px; font-weight: 700;">Doorstep Bike Pickup Across All Ranchi Locality Sectors</h3>
+        <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+          Our two-wheeler moving team provides active doorstep pickup for <strong>packers and movers lalpur ranchi</strong>, <strong>packers and movers harmu ranchi</strong>, <strong>packers and movers kanke road ranchi</strong>, <strong>packers and movers ratu road ranchi</strong>, <strong>packers and movers bariatu ranchi</strong>, <strong>packers and movers doranda ranchi</strong>, <strong>packers and movers hinoo ranchi</strong>, <strong>packers and movers morabadi ranchi</strong>, <strong>packers and movers namkum ranchi</strong>, <strong>packers and movers kokar ranchi</strong>, and <strong>packers and movers hatia ranchi</strong>.
+        </p>
       </div>
 
     </div>
