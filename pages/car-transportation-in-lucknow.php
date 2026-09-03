@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Lucknow | Insured Car Carrier Service UP";
 $page_desc = "Professional car transportation in Lucknow, Uttar Pradesh. Covered container trucks, hydraulic ramp loading, doorstep pickup & drop, 100% transit insurance & IBA GST invoices. Call 8409531615.";
-$page_keywords = "car transportation in lucknow, car carrier service lucknow, car shifting lucknow to delhi mumbai bangalore, IBA approved car transport lucknow";
+$page_keywords = "car transportation in lucknow, car carrier service lucknow, car shifting lucknow to delhi mumbai bangalore, gati packers and movers lucknow, car delivery status, IBA approved car transport lucknow";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/car-transportation-in-lucknow";
 
 $page_city = "Lucknow, Uttar Pradesh";
@@ -11,6 +11,8 @@ $page_city = "Lucknow, Uttar Pradesh";
 $faq_list = [
     ['q' => 'How are cars safely transported from Lucknow?', 'a' => 'Vehicles are loaded onto covered multi-car trailers or single-car hydraulic carriers. They are padded with foam edge guards and locked with heavy-duty rubber wheel chocks and nylon safety tie-downs.'],
     ['q' => 'What is the cost of car carrier service from Lucknow to major Indian cities?', 'a' => 'Car transport from Lucknow to Delhi/NCR costs ₹6,000 - ₹9,500. Long-distance car carrier service to Mumbai, Pune, Bangalore, or Hyderabad ranges from ₹12,500 to ₹22,000 depending on vehicle model and container type.'],
+    ['q' => 'How does Shree Ashirwad compare with gati packers and movers lucknow for vehicle shipping?', 'a' => 'Unlike multi-tier aggregators or third-party brokers like gati packers and movers lucknow, Shree Ashirwad owns dedicated enclosed hydraulic carriers, providing guaranteed single-vehicle handling, direct driver contact, live GPS tracking, and real-time car delivery status updates.'],
+    ['q' => 'How can I check my live car delivery status during highway transit?', 'a' => 'We provide real-time GPS tracking links and daily WhatsApp location reports so you can check your live car delivery status anytime from pickup to final destination.'],
     ['q' => 'Do you provide doorstep car pickup and delivery across Lucknow?', 'a' => 'Yes, we provide door-to-door car pickup and drop across Gomti Nagar, Hazratganj, Alambagh, Indira Nagar, Mahanagar, Shaheed Path, and all Lucknow localities.'],
     ['q' => 'Do you provide IBA approved GST invoices for car shipping claims?', 'a' => 'Yes, 100% genuine IBA-compliant GST tax bills, Money Receipts, and Consignment Lorry Receipts (LR) are issued for corporate and defense claim reimbursement.'],
     ['q' => 'Is transit insurance included for car transport from Lucknow?', 'a' => 'Yes, comprehensive transit insurance policy (1.5% of declared vehicle valuation) is arranged to protect your car against highway damage, accident risks, and scratches.'],
@@ -51,7 +53,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Car Transportation in Lucknow</span>
           </h1>
           <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers provides premier car transportation in Lucknow, Uttar Pradesh. Featuring hydraulic ramp loading, enclosed covered car container trucks, doorstep pickup, 100% transit insurance, and IBA-approved GST billing.
+            Shree Ashirwad Packers and Movers provides premier <strong>car transportation in lucknow</strong>, Uttar Pradesh. Superior to general transport like <strong>gati packers and movers lucknow</strong>, we feature hydraulic ramp loading, enclosed covered car container trucks, doorstep pickup, 100% transit insurance, live <strong>car delivery status</strong> updates, and IBA-approved GST billing.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">

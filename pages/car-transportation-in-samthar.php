@@ -1,79 +1,98 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Transportation in Samthar | Insured Vehicle Shipping Jhansi UP";
-$page_desc = "Safe and insured car transportation in Samthar, Jhansi (UP). Enclosed hydraulic car carrier trailers, 4-point wheel clamping, transit insurance, and doorstep pickup across Samthar, Moth, Erich & Jhansi corridor. Call 8409531615.";
-$page_keywords = "car transportation in samthar, car carrier service samthar jhansi, car packers and movers samthar, vehicle relocation samthar, car transport charges samthar to delhi, enclosed car carrier samthar, car shifting jhansi uttar pradesh";
+$page_title = "Car Transportation in Samthar | UP-93 Jhansi Bundelkhand Hub";
+$page_desc = "Safe car transportation in Samthar, Jhansi (UP-93 RTO, Bundelkhand Corridor) by Shree Ashirwad Packers and Movers. Enclosed container car carriers, doorstep pickup across Samthar, Moth, Erich, Poonch, Gursarai, 100% transit insurance & IBA approved GST bills. Call 8409531615.";
+$page_keywords = "car transportation in samthar, car carrier service samthar jhansi, car packers and movers samthar, vehicle relocation samthar, car transport charges samthar to delhi, enclosed car carrier samthar, car shifting jhansi uttar pradesh, automobile carriers, transport vehicle near me, interstate vehicle transfer";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-samthar.php";
+
+$page_city = "Samthar, Jhansi, Uttar Pradesh";
+
+$faq_list = [
+    ['q' => 'How are cars safely loaded and transported from Samthar, Jhansi (UP-93)?', 'a' => 'Vehicles are collected directly from your home address across Samthar Tehsil (Moth Road, Fort Market area, Erich, Poonch, Gursarai) and loaded into enclosed multi-car container trailers via hydraulic ramps, secured with 4-wheel nylon belts and heavy rubber chocks.'],
+    ['q' => 'What is the cost of car shipping from Samthar to Jhansi, Gwalior, Kanpur, Delhi, or Mumbai?', 'a' => 'Regional car transport from Samthar to Jhansi, Gwalior, Orai, or Kanpur ranges from ₹3,500 to ₹6,500. Long-distance car shipping to Delhi-NCR, Lucknow, Mumbai, Pune, or Bengaluru ranges between ₹9,500 and ₹21,500.'],
+    ['q' => 'Is doorstep car pickup available across Samthar Municipality & rural tehsils?', 'a' => 'Yes, our certified auto transport drivers provide doorstep pickup across Samthar Fort area, Moth Bypass, Erich Road, Poonch Highway junction, and surrounding UP-93 Bundelkhand sectors.'],
+    ['q' => 'Do you provide IBA approved GST bills for Defence, Railway, Bank & Govt staff in Samthar?', 'a' => 'Yes, we issue 100% genuine IBA-compliant GST tax invoices, pre-loading vehicle condition audit reports, and consignment Lorry Receipts (LR) essential for official Army/Defence, Indian Railways, police, bank, and corporate relocation claims.'],
+    ['q' => 'Is vehicle transit insurance included during car shipping from Samthar Jhansi?', 'a' => 'Yes, full declared-value transit risk insurance (0.3% of vehicle value) is activated prior to highway dispatch along Jhansi-Kanpur Highway NH-27 and Bundelkhand Expressway to protect your vehicle against any transit risks.'],
+    ['q' => 'What documents are required for transporting a car from Samthar UP-93?', 'a' => 'Required documents include a copy of the Vehicle Registration Certificate (RC), valid insurance copy, owner ID proof (Aadhaar/PAN), and our joint vehicle condition audit report.'],
+    ['q' => 'Can personal luggage be stored inside the car boot during transport from Samthar?', 'a' => 'Up to 25-30 kg of personal luggage or car accessories can be kept safely in the car boot. Cash, jewelry, flammables, and liquids are strictly prohibited.'],
+    ['q' => 'How long does car delivery take from Samthar to major Indian cities?', 'a' => 'Transit to Jhansi or Gwalior takes 2 to 4 hours, and Kanpur/Delhi-NCR takes 8 to 12 hours. Delivery to Mumbai, Pune, or Bengaluru takes 3 to 5 days.'],
+    ['q' => 'How can I track my car carrier container trailer during transit from Samthar?', 'a' => 'All enclosed multi-car container trailers feature real-time GPS tracking. Movement updates are pushed directly to your WhatsApp throughout transit along NH-27 & Bundelkhand Expressway.'],
+    ['q' => 'How do I book car transportation in Samthar with Shree Ashirwad Packers?', 'a' => 'Call +91 8409531615 or submit your vehicle details via WhatsApp for an instant transparent price quote and scheduled doorstep pickup.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main dark-theme-override">
+<main class="site-main">
 
-  <!-- Section 1: Visual Breadcrumb Navigation Bar -->
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-jhansi.php" title="Car Transportation in Jhansi">Jhansi</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-jhansi.php" title="Jhansi">Jhansi</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active">Car Transportation in Samthar</span>
       </div>
     </div>
   </div>
 
-  <!-- Section 2: Hero Section & Instant WhatsApp Lead Form -->
-  <section class="hero-section">
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
-      <div class="hero-grid">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
+        <!-- Hero Text Column -->
         <div class="hero-text">
-          <span class="section-tag">SAMTHAR JHANSI CAR CARRIER SPECIALISTS</span>
-          <h1>
-            Safe &amp; Insured <span class="highlight">Car Transportation in Samthar</span>
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+            IBA Approved Car Carrier (Samthar Jhansi UP-93 Hub)
+          </span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Reliable <span style="color: #f59e0b;">Car Transportation in Samthar</span>
           </h1>
-          <p>
-            Relocate your hatchback, sedan, SUV, or luxury automobile from Samthar, Jhansi with 100% safety guaranteed. We deploy enclosed hydraulic vehicle container trailers with 4-point wheel clamping and full transit insurance coverage across Uttar Pradesh and pan-India routes.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Shree Ashirwad Packers and Movers delivers premier car shipping services in Samthar, Jhansi (UP-93 RTO, Bundelkhand Highway Belt). We provide enclosed container car carriers, doorstep pickup across Samthar Fort Market, Moth, Erich, Poonch, Gursarai, 100% transit insurance, and IBA-approved GST bills.
           </p>
 
-          <div class="cta-btn-group">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" class="btn-call">
-              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20car%20transportation%20quote%20from%20Samthar." title="Chat on WhatsApp" target="_blank" class="btn-whatsapp">
-              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20information%20about%20car%20transportation%20in%20Samthar." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div class="hero-trust-badges">
-            <span><strong class="text-amber">100% Insured</strong> Transit</span>
-            <span><strong class="text-amber">Hydraulic Ramp</strong> Loading</span>
-            <span><strong class="text-amber">Doorstep</strong> Pickup &amp; Drop</span>
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
+            <span><strong style="color: #f59e0b;">540+</strong> Cars Transported</span>
+            <span><strong style="color: #f59e0b;">UP-93</strong> Jhansi District</span>
+            <span><strong style="color: #f59e0b;">100%</strong> Insured Transit</span>
           </div>
         </div>
 
-        <div class="hero-form-card">
-          <h2>Get Samthar Car Shifting Quote</h2>
-          <p>Instant transparent price estimate sent directly to your WhatsApp</p>
+        <!-- Hero Lead Form Column -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Samthar Car Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div class="form-group">
-              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required>
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div class="form-group">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Mobile Number" required>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div class="form-grid-2">
-              <input type="text" name="move_from" class="form-control" value="Samthar, Jhansi" required>
-              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+              <input type="text" name="move_from" class="form-control" placeholder="Pickup (e.g. Samthar)" value="Samthar Jhansi UP" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div class="form-group">
-              <input type="text" name="car_model" class="form-control" placeholder="Car Model (e.g. Swift, Creta, Fortuner)" required>
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Car Model (e.g. Swift, Nexon, Creta, Fortuner)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
-            <button type="submit" class="btn-submit">
-              Get Instant Estimate Now &rarr;
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
+              Get Quote on WhatsApp
             </button>
           </form>
         </div>
@@ -82,413 +101,392 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 3: Key Stats Counter Bar -->
-  <section class="stats-bar-section">
+  <!-- 3. Key Stats Counter Bar -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
-      <div class="stats-grid">
-        <div class="stat-card">
-          <div class="stat-number">1,120+</div>
-          <div class="stat-label">Cars Safely Transported</div>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">540+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Cars Transported from Samthar</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">100%</div>
-          <div class="stat-label">All-Risk Transit Insurance</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">UP-93 / Jhansi</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Bundelkhand Network</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">0%</div>
-          <div class="stat-label">Scratch &amp; Dent Guarantee</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100%</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Transit Risk Covered</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">100%</div>
-          <div class="stat-label">IBA Approved GST Billing</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Official GST Invoice &amp; Bills</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 4: 6-Card Feature Grid -->
-  <section class="feature-grid-section">
+  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container">
-      <div class="section-header">
-        <h2>Why Choose Us for Car Transportation in Samthar?</h2>
-        <p>Engineered vehicle protection standards tailored for Samthar, Jhansi &amp; Bundelkhand corridors</p>
+      
+      <div style="max-width: 950px; margin: 0 auto;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Car Carrier Features</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Car Transportation in Samthar</span>?
+        </h2>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-pickup"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Pickup Service</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Our trained driver picks up your car directly from your residence across Samthar Fort Market, Moth, &amp; Erich.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-car-side"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed Container Trucks</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Covered multi-car carrier trailers shielding your vehicle from dust, rain, &amp; highway gravel debris.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice-dollar"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Authentic IBA-compliant tax invoices for Defence, Govt staff, Police &amp; corporate claims.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Comprehensive declared value transit risk policy protecting your car during national highway haulage.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-map-marked-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Live GPS Tracking</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Monitor your vehicle container trailer on NH-27 &amp; Bundelkhand Expressway with real-time updates via WhatsApp.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-cogs"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Hydraulic Ramp Loading</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Zero bumper damage loading mechanism designed for low ground clearance sedans &amp; SUVs.
+            </p>
+          </div>
+
+        </div>
+
       </div>
-      <div class="feature-grid">
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-truck-monster"></i></div>
-          <h3>Enclosed Hydraulic Trailers</h3>
-          <p>Covered multi-car car carriers protect your vehicle from highway gravel, monsoon rain, agricultural dust, and UV exposure during transit.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-ring"></i></div>
-          <h3>4-Point Wheel Belt Anchoring</h3>
-          <p>We lock your car down using heavy-duty nylon wheel belts attached directly to the carrier deck, preventing chassis bounce or movement.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-shield-alt"></i></div>
-          <h3>Full All-Risk Insurance</h3>
-          <p>Comprehensive transit insurance coverage underwritten by national insurers guarantees peace of mind against unforeseen accidents or road hazards.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-map-marker-alt"></i></div>
-          <h3>GPS Satellite Tracking</h3>
-          <p>Real-time telemetry tracking keeps you informed of your vehicle's precise location on national &amp; state highways 24 hours a day.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-door-open"></i></div>
-          <h3>Doorstep Pickup &amp; Drop</h3>
-          <p>Our experienced drivers pick up your vehicle right from your home, office, or farm in Samthar and deliver it directly to your destination.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-file-invoice-dollar"></i></div>
-          <h3>IBA Approved GST Invoicing</h3>
-          <p>100% valid GST tax invoices recognized by defense establishments, government departments, PSUs, and corporate HR policies for easy claim reimbursement.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 5: Specialized Services Breakdown -->
-  <section class="services-breakdown-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Specialized Vehicle Relocation Options in Samthar</h2>
-        <p>Customized auto transport solutions designed for every vehicle category</p>
+  <!-- 5. Specialized Services Breakdown (6 Cards) -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Relocation Portfolio</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Specialized Vehicle Services in <span style="color: #f59e0b;">Samthar</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Hatchback &amp; Sedan Shipping</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Protected multi-car carrier shipping for Maruti, Hyundai, Honda, &amp; Tata cars.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">SUV &amp; Luxury Vehicle Move</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Enclosed single container trailers for Fortuner, Endeavour, Creta, &amp; luxury cars.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Two-Wheeler Transport</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">4-layer protective bubble wrapped bike &amp; scooter packaging and door dispatch.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Household Shifting</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Combined household item packing along with vehicle transportation.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Govt &amp; Defence Relocation</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">IBA approved bills &amp; official documents for Defence &amp; UP state govt staff.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Vehicle Yard Storage</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">24/7 camera monitored safe short and long term vehicle storage yard.</p>
+        </div>
       </div>
-      <div class="services-grid">
-        <div class="service-card">
-          <h3>Hatchback &amp; Sedan Shifting</h3>
-          <p>Cost-effective, secure transport in closed car trailers with scratch-proof protective body wrapping for popular daily driver models.</p>
-        </div>
-        <div class="service-card">
-          <h3>Luxury &amp; Premium SUV Shipping</h3>
-          <p>Specialized single-car enclosed hydraulic carriers equipped with soft air suspension ramps designed for low ground clearance vehicles.</p>
-        </div>
-        <div class="service-card">
-          <h3>Corporate &amp; Defense Vehicle Transfer</h3>
-          <p>Priority relocation services tailored for military officers, police personnel, and corporate executives relocating from Jhansi district.</p>
-        </div>
-        <div class="service-card">
-          <h3>Interstate Long-Distance Car Shipping</h3>
-          <p>Direct long-distance car shipping connecting Samthar, Jhansi to Delhi NCR, Mumbai, Bangalore, Pune, Hyderabad, Patna, and Ranchi.</p>
-        </div>
-        <div class="service-card">
-          <h3>Commercial Vehicle Fleet Transport</h3>
-          <p>Bulk transport services for car dealerships, rental agencies, and corporate vehicle fleets across North India.</p>
-        </div>
-        <div class="service-card">
-          <h3>Emergency Auto Towing &amp; Express Relocation</h3>
-          <p>24/7 hydraulic flatbed towing services for non-operational vehicles requiring immediate transportation across state lines.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 6: 7-Layer Safety Packaging Framework -->
-  <section class="safety-framework-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Our 7-Layer Car Safety Protocol</h2>
-        <p>Comprehensive vehicle inspection and loading procedures before departure</p>
+  <!-- 6. 7-Layer Safety Packaging Framework -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Vehicle Protection Framework
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Pre-Loading Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Comprehensive scratch inspection &amp; odometer reading log.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Bumper Protective Film</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">High-density film wrapping for bumpers, headlights &amp; side mirrors.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 03</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Hydraulic Ramp Drive</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Gentle hydraulic incline loading onto carrier deck without underbody hit.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 04</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Rubber Wheel Chocks</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Heavy-duty tire blocks positioned firmly behind all wheels.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 05</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Nylon Harness Belts</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Industrial grade soft nylon tie-downs locking wheels to trailer bed.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Covered Container Deck</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">All-weather enclosed metal body protecting car on highways.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Destination Handover Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Joint inspection and delivery confirmation before handoff.</p>
+        </div>
       </div>
-      <div class="safety-grid">
-        <div class="safety-step">
-          <div class="step-num">1</div>
-          <h4>Joint Pre-Transport Inspection</h4>
-          <p>Detailed physical examination of your vehicle with pre-existing scratches, mileage, and fuel levels documented on an official Vehicle Condition Form.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">2</div>
-          <h4>Protective Body Wrapping</h4>
-          <p>High-touch exterior zones including side mirrors, bumpers, door handles, and headlights are covered with scratch-guard films.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">3</div>
-          <h4>Low-Angle Hydraulic Loading</h4>
-          <p>Gentle loading onto the carrier deck using hydraulic tilt ramps to protect front bumpers and lower chassis components from scraping.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">4</div>
-          <h4>Four-Wheel Strap Clamping</h4>
-          <p>Each wheel is anchored to the diamond-plate steel trailer bed with heavy-duty ratchet straps rated for 5,000 kg tensile strength.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">5</div>
-          <h4>Interior &amp; Battery Safety Lockout</h4>
-          <p>Vehicle battery terminals are checked, steering column locked, and interior items secured to prevent electrical drain or movement.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">6</div>
-          <h4>Weather-Proof Trailer Closure</h4>
-          <p>The enclosed container doors are sealed with tamper-evident seals to safeguard against rain, dust, and unauthorized access.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">7</div>
-          <h4>Destination Inspection &amp; Handover</h4>
-          <p>Unloading at your destination in the presence of the owner, followed by a matching inspection against the origin condition report.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 7: Origin Pickup Locality Grid -->
-  <section class="locality-grid-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Nearby Pickup Locations Covered in Samthar &amp; Jhansi Region</h2>
-        <p>Seamless door-to-door vehicle pickup across Samthar Tehsil and neighboring localities</p>
+  <!-- 7. Origin Pickup Locality Grid -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Samthar UP-93 Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Locality Coverage Across <span style="color: #f59e0b;">Samthar &amp; Jhansi Tehsil</span>
+      </h2>
+
+      <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        We collect vehicles from all main residential areas, market centers, and rural towns around Samthar:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar Fort Market &amp; Main Tehsil</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Doorstep car pickup serving central town, market area &amp; administrative offices.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Moth Highway Junction &amp; Erich Road</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Vehicle pickup serving Moth railway station road &amp; Betwa river belt.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Poonch &amp; Gursarai Link Corridor</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Car carrier loading serving NH-27 bypass &amp; Bundelkhand agricultural hub.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Jhansi City &amp; Orai Border Sectors</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Vehicle carrier pickup connecting Samthar to Jhansi Cantt &amp; Orai industrial zone.</p>
+        </div>
       </div>
-      <div class="locality-grid">
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-jhansi.php" class="locality-card">Car Transportation in Jhansi City</a>
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-samthar.php" class="locality-card active">Car Transportation in Samthar Main</a>
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-orai.php" class="locality-card">Car Transportation in Orai</a>
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-lalitpur.php" class="locality-card">Car Transportation in Lalitpur</a>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 8: Intercity Route Network Grid -->
-  <section class="routes-grid-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Popular Car Shipping Routes from Samthar</h2>
-        <p>Frequent enclosed car carrier routes connecting Samthar to major metropolitan hubs</p>
+  <!-- 8. Intercity Route Network Grid -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Highway Corridors</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Car Shipping Routes from <span style="color: #f59e0b;">Samthar</span>
+      </h2>
+
+      <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        Daily car carrier departures via NH-27 &amp; Bundelkhand Expressway connecting Samthar:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Jhansi / Gwalior / Orai / Kanpur</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Express 2 to 6 hour car carrier shipping across Bundelkhand network.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Lucknow / Agra / Delhi-NCR / Noida</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Direct car carrier shipping along Bundelkhand &amp; Yamuna Expressways.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Varanasi / Prayagraj / Patna / Ranchi</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Insured vehicle carrier shipping via East-West Corridor NH-27.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Mumbai / Pune / Bengaluru / Hyderabad / Chennai</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Long-distance safe vehicle carrier logistics across West, South &amp; Central India.</p>
+        </div>
       </div>
-      <div class="routes-grid">
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-delhi.php" class="route-card">Samthar to Delhi NCR Car Carrier</a>
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-lucknow.php" class="route-card">Samthar to Lucknow Vehicle Transport</a>
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-gwalior.php" class="route-card">Samthar to Gwalior Shipping</a>
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-ranchi.php" class="route-card">Samthar to Ranchi Car Shifting</a>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 9: IBA Approved GST Billing Documentation -->
-  <section class="billing-docs-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>IBA Approved GST Billing &amp; Documentation</h2>
-        <p>Complete official paperwork required for corporate reimbursement and seamless transit checks</p>
+  <!-- 9. IBA Approved GST Billing Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Claims Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing for Car Transport in Samthar
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Vehicle Relocation Claim Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized car transport freight.</li>
+          <li><strong>Pre-Loading Vehicle Inspection Report</strong> recorded during pickup in Samthar.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> carrying truck registration details.</li>
+          <li><strong>IBA Approved Registration Code &amp; Official Stamp</strong>.</li>
+          <li><strong>Full Vehicle Transit Insurance Certificate</strong>.</li>
+          <li><strong>Stamped Payment Receipt</strong> for Defence officers, UP govt staff, Police personnel, or corporate claim reimbursement.</li>
+        </ol>
       </div>
-      <div class="docs-grid">
-        <div class="doc-card">
-          <i class="fas fa-file-invoice"></i>
-          <h4>Itemized GST Invoice (18%)</h4>
-          <p>Official tax invoice with SAC code 996511 clearly displaying corporate and personal details.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-truck-loading"></i>
-          <h4>Consignment Note (LR Copy)</h4>
-          <p>Legal Lorry Receipt authorizing vehicle transit across state boundaries and check-posts.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-clipboard-check"></i>
-          <h4>Vehicle Condition Report</h4>
-          <p>Dual-signed inspection document noting odometer reading, fuel level, and body state.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-shield-alt"></i>
-          <h4>Transit Insurance Policy</h4>
-          <p>Valid insurance certificate covering marine and road transit risks for 100% invoice value.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-receipt"></i>
-          <h4>Payment Receipt</h4>
-          <p>Official stamped receipt confirming advance and balance payment terms.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-stamp"></i>
-          <h4>IBA Approval Authorization</h4>
-          <p>Documented IBA approval credentials for defense and public sector transport claims.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 10: Detailed FAQs & FAQPage Schema -->
-  <section class="faq-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Frequently Asked Questions — Car Transportation in Samthar</h2>
-        <p>Got questions about transporting your car from Samthar, Jhansi? Find instant answers below.</p>
+  <!-- 10. 10 to 15 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions About <span style="color: #f59e0b;">Car Transport in Samthar</span>
+        </h2>
       </div>
 
-      <div class="faq-grid">
-        <div class="faq-item">
-          <h3 class="faq-question">How is my car transported safely from Samthar, Jhansi?</h3>
-          <div class="faq-answer">
-            <p>Your car is loaded onto an enclosed hydraulic car container truck using low-angle ramps. Once loaded, all four wheels are secured using heavy-duty nylon wheel straps anchored directly to the vehicle deck, preventing any movement during transit.</p>
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
           </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Do you offer door-to-door pickup in Samthar?</h3>
-          <div class="faq-answer">
-            <p>Yes, our professional driver picks up your car directly from your home, office, or residential address anywhere in Samthar Tehsil and delivers it straight to your doorstep at your destination city.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Is transit insurance included in car transport quotes?</h3>
-          <div class="faq-answer">
-            <p>Yes, we provide full all-risk transit insurance policies underwritten by leading national insurance companies. The insurance covers potential damage during road transit from pickup in Samthar to final delivery.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Can I keep personal belongings inside the car during transport?</h3>
-          <div class="faq-answer">
-            <p>You may keep up to 15-20 kg of non-valuable personal items (such as car accessories or empty luggage) secured in the trunk. However, cash, jewelry, hazardous liquids, and valuable electronics must not be left inside the vehicle.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">How much does car transportation from Samthar cost?</h3>
-          <div class="faq-answer">
-            <p>Car transportation charges depend on the car model (hatchback, sedan, SUV), total distance, type of carrier (open vs enclosed), and destination. Contact us at 8409531615 for an instant, transparent quote with zero hidden fees.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">How long does it take to ship a car from Samthar to Delhi NCR or Mumbai?</h3>
-          <div class="faq-answer">
-            <p>Transit times typically range from 24-48 hours for Delhi NCR, 3-4 days for Mumbai/Pune, and 4-5 days for South Indian metros like Bangalore or Hyderabad.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">What documents are required to book car shipping in Samthar?</h3>
-          <div class="faq-answer">
-            <p>You need to provide a copy of your vehicle Registration Certificate (RC), valid vehicle insurance policy, owner's ID proof (Aadhaar card/PAN card), and emission test certificate (PUC).</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Do you provide IBA approved bills for company reimbursement?</h3>
-          <div class="faq-answer">
-            <p>Yes, Shree Ashirwad Packers and Movers provides 100% IBA approved GST bills, Consignment Notes (LR), and official receipts accepted by central/state government departments, defense forces, and corporate HR departments.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">How can I track my car while it is in transit?</h3>
-          <div class="faq-answer">
-            <p>Our carrier trucks are monitored via GPS tracking. You can contact our dedicated transit coordinator anytime at 8409531615 to get live location updates on your car's progress.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">How do I book car transportation in Samthar?</h3>
-          <div class="faq-answer">
-            <p>You can book easily by calling us directly at +91 8409531615 or submitting the quick lead form above. Our team will schedule a pickup date and time at your convenience.</p>
-          </div>
-        </div>
+        <?php endforeach; ?>
       </div>
+
     </div>
   </section>
 
-  <!-- Section 11: Call-To-Action (CTA) Conversion Footer -->
-  <section class="cta-footer-section">
-    <div class="container">
-      <div class="cta-card">
-        <h2>Ready to Transport Your Car from Samthar, Jhansi?</h2>
-        <p>Get a fast, transparent quote from North India's most trusted vehicle shipping specialists.</p>
-        <div class="cta-actions">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn-call-large"><i class="fas fa-phone-alt"></i> Call <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20book%20car%20transportation%20from%20Samthar." target="_blank" class="btn-whatsapp-large"><i class="fab fa-whatsapp"></i> Chat on WhatsApp</a>
-        </div>
+  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Car Carrier in Samthar
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Need Reliable <span style="color: #f59e0b;">Car Transportation in Samthar</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Contact our Samthar vehicle shipping team today for an enclosed car carrier quote and insured doorstep delivery across India.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20car%20transport%20quote%20for%20Samthar." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
       </div>
+
     </div>
   </section>
 
 </main>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is my car transported safely from Samthar, Jhansi?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your car is loaded onto an enclosed hydraulic car container truck using low-angle ramps. Once loaded, all four wheels are secured using heavy-duty nylon wheel straps anchored directly to the vehicle deck, preventing any movement during transit."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you offer door-to-door pickup in Samthar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, our professional driver picks up your car directly from your home, office, or residential address anywhere in Samthar Tehsil and delivers it straight to your doorstep at your destination city."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance included in car transport quotes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide full all-risk transit insurance policies underwritten by leading national insurance companies. The insurance covers potential damage during road transit from pickup in Samthar to final delivery."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I keep personal belongings inside the car during transport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You may keep up to 15-20 kg of non-valuable personal items (such as car accessories or empty luggage) secured in the trunk. However, cash, jewelry, hazardous liquids, and valuable electronics must not be left inside the vehicle."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much does car transportation from Samthar cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Car transportation charges depend on the car model (hatchback, sedan, SUV), total distance, type of carrier (open vs enclosed), and destination. Contact us at 8409531615 for an instant, transparent quote with zero hidden fees."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does it take to ship a car from Samthar to Delhi NCR or Mumbai?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Transit times typically range from 24-48 hours for Delhi NCR, 3-4 days for Mumbai/Pune, and 4-5 days for South Indian metros like Bangalore or Hyderabad."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are required to book car shipping in Samthar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You need to provide a copy of your vehicle Registration Certificate (RC), valid vehicle insurance policy, owner's ID proof (Aadhaar card/PAN card), and emission test certificate (PUC)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you provide IBA approved bills for company reimbursement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Shree Ashirwad Packers and Movers provides 100% IBA approved GST bills, Consignment Notes (LR), and official receipts accepted by central/state government departments, defense forces, and corporate HR departments."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I track my car while it is in transit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our carrier trucks are monitored via GPS tracking. You can contact our dedicated transit coordinator anytime at 8409531615 to get live location updates on your car's progress."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I book car transportation in Samthar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can book easily by calling us directly at +91 8409531615 or submitting the quick lead form above. Our team will schedule a pickup date and time at your convenience."
-      }
-    }
-  ]
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Car Transport Quote from Samthar Jhansi UP:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Car Model: " + extraMsg;
+  }
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
 }
 </script>
 

@@ -1,15 +1,15 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Transportation in Lalganj Azamgarh | Safe Enclosed Car Shipping";
-$page_desc = "Reliable car transportation in Lalganj, Azamgarh (Uttar Pradesh). Doorstep car shipping with safe enclosed & open vehicle carriers, transit insurance, and GPS tracking. Call 8409531615.";
-$page_keywords = "car transportation in lalganj azamgarh, best car transportation in lalganj, car shipping lalganj azamgarh, vehicle transport lalganj up, IBA approved car transport lalganj";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/car-transportation-in-lalganj-azamgarh";
+$page_title = "Car Transportation in Lalganj Azamgarh | Car Moving Company";
+$page_desc = "Reliable car transportation in Lalganj, Azamgarh by Shree Ashirwad Packers and Movers. Top car moving company & vehicle transport service provider offering auto shipping cost breakdowns, car logistics services, and vehicle transport estimates.";
+$page_keywords = "car transportation in lalganj azamgarh, vehicle transport estimates, car moving company, auto shipping cost breakdown, vehicle transport service provider, car logistics services";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-lalganj-azamgarh.php";
 
 $page_city = "Lalganj, Azamgarh, Uttar Pradesh";
 
 $faq_list = [
-    ['q' => 'How is car transportation charged in Lalganj Tehsil, Azamgarh?', 'a' => 'Car shipping from Lalganj depends on vehicle size (hatchback, sedan, SUV) and destination distance. Inter-state car transport ranges from ₹7,500 to ₹18,500 with complete insurance and enclosed carrier protection.'],
+    ['q' => 'How is car transportation charged in Lalganj Tehsil, Azamgarh?', 'a' => 'Car shipping from Lalganj depends on vehicle size and destination. Contact us for an auto shipping cost breakdown and vehicle transport estimates ranging from ₹7,500 to ₹18,500 with complete insurance.'],
     ['q' => 'Do you offer doorstep car pickup in Lalganj Tehsil?', 'a' => 'Yes, our certified drivers pick up your vehicle directly from your home or business in Lalganj town, Deogaon, Bardah, or Tarwa Road and deliver it to your destination address across India.'],
     ['q' => 'What type of car carriers are used for transport from Lalganj?', 'a' => 'We deploy weatherproof enclosed container car carriers for zero-scratch protection as well as cost-effective open multi-car hydraulic trailers.'],
     ['q' => 'What documents are required to transport a car from Lalganj?', 'a' => 'Required documents include RC copy, valid vehicle insurance certificate, owner ID proof, and consignment note (LR copy).'],
@@ -47,13 +47,13 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            CAR TRANSPORTATION LALGANJ (AZAMGARH)
+            VEHICLE TRANSPORT SERVICE PROVIDER LALGANJ
           </span>
           <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Car Transportation in Lalganj Azamgarh</span>
           </h1>
           <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers provides safe, scratch-free car shipping across Lalganj Tehsil (Azamgarh). Featuring enclosed container car carriers, doorstep pickup/delivery, 100% transit insurance, and GPS tracking across India.
+            Shree Ashirwad Packers and Movers is a premier <strong>vehicle transport service provider</strong> and trusted <strong>car moving company</strong> offering reliable <strong>car transportation in Lalganj Azamgarh</strong>. Providing professional <strong>car logistics services</strong>, transparent <strong>auto shipping cost breakdowns</strong>, and quick <strong>vehicle transport estimates</strong>, we ensure safe enclosed container transport across India.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">

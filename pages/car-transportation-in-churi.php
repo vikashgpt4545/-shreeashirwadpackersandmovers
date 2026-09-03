@@ -1,92 +1,24 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Transportation in Churi | Safe Vehicle Carrier";
-$page_desc = "Reliable car transportation in Churi (Khelari / Ray Coal Belt, JH-01). Open & enclosed vehicle carriers, doorstep pick-up across Churi Colliery, Bachra & Piparwar with full transit insurance. Call 8409531615.";
-$page_keywords = "car transportation in churi, best car transportation in churi, affordable car transportation in churi, packers and movers, top car transportation in churi company, household shifting car transportation in churi, doorstep car transportation in churi, verified car transportation in churi services, shree ashirwad car transportation in churi";
+$page_title = "Car Transportation in Churi (JH-01) | Khelari Coalfield Carrier";
+$page_desc = "Safe car transportation in Churi (Khelari / Ray Coal Belt, JH-01) by Shree Ashirwad Packers and Movers. Enclosed container car carriers, doorstep pickup across Churi Colliery, Bachra, Piparwar, 100% transit insurance & IBA approved GST bills. Call 8409531615.";
+$page_keywords = "car transportation in churi, car movers churi, car carrier service churi khelari, enclosed car transport churi, vehicle relocation JH-01 Churi, IBA approved car movers churi, car shipping cost khelari ray, Churi car carrier service";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-churi.php";
 
+$page_city = "Churi, Khelari, Ranchi, Jharkhand";
+
 $faq_list = [
-    [
-        'q' => 'Why choose Shree Ashirwad Packers for car transportation in Churi?',
-        'a' => 'We provide specialized 4-layer vehicle safety protocols (bumper foam cushioning, wheel chocks, chassis tie-down ratchets, waterproof stretch film), hydraulic car carrier trailers, doorstep pickup across Churi Colliery & Khelari mining belt, 100% IBA-compliant GST billing, and full transit insurance coverage.'
-    ],
-    [
-        'q' => 'What is the cost of car shipping from Churi to major Indian cities?',
-        'a' => 'Intercity car transport rates from Churi / Khelari start at ₹6,500 for hatchbacks (up to 400 km), ₹8,500 for sedans, and ₹10,500+ for SUVs/luxury vehicles depending on distance and carrier choice (open vs. enclosed).'
-    ],
-    [
-        'q' => 'What safety measures protect my car during transit along Ranchi coalfield highways?',
-        'a' => 'Vehicles are loaded via hydraulic ramps onto multi-car trailers, anchored at four wheel points with heavy-duty ratcheting straps, fitted with rubberized bumper guards, and inspected continuously along national and state highway routes.'
-    ],
-    [
-        'q' => 'What documents are required to transport a car from Churi?',
-        'a' => 'You need a photocopy of the Vehicle Registration Certificate (RC - JH-01), valid Insurance Policy, photo ID proof (Aadhaar/PAN card), and a signed pre-shipment condition checklist with odometer reading.'
-    ],
-    [
-        'q' => 'Can CCL mining officers and corporate executives in Churi claim car shifting bills?',
-        'a' => 'Yes, we issue 100% official 18% GST invoices (SAC 996511), consignment notes (LR), car inspection sheets, and payment receipts accepted by Central Coalfields Limited (CCL) and PSU audit desks.'
-    ],
-    [
-        'q' => 'Do you provide door-to-door car pickup in Churi Colliery and Khelari mining areas?',
-        'a' => 'Yes, we provide doorstep pickup and delivery across Churi Colliery, Ray Railway Station road, Khelari, Bachra, Piparwar, and surrounding mining townships.'
-    ],
-    [
-        'q' => 'What is the difference between open trailer and enclosed car carrier in Churi?',
-        'a' => 'Open trailers carry multiple cars securely and cost less. Enclosed carriers offer individual, fully covered box-container transport protecting luxury cars from coal dust, rain, and road debris.'
-    ],
-    [
-        'q' => 'Is transit insurance included with car shipping from Churi?',
-        'a' => 'Yes, optional full-value transit insurance is provided to cover your vehicle against physical damage, fire, or accident during road haulage.'
-    ],
-    [
-        'q' => 'How much fuel should be left in the car fuel tank before loading in Churi?',
-        'a' => 'Maintain about 5 to 10 liters of fuel (roughly a quarter tank). This is sufficient for driving on and off the car trailer ramp while minimizing total weight and fire hazard.'
-    ],
-    [
-        'q' => 'Can I pack personal items inside my car during transit from Churi?',
-        'a' => 'Minor personal belongings up to 15-20 kg (e.g., floor mats, spare tire, emergency kit) may remain in the trunk, but valuable items, cash, and hazardous goods are strictly prohibited.'
-    ],
-    [
-        'q' => 'How long does car delivery take from Churi to Delhi, Bangalore, or Kolkata?',
-        'a' => 'Transit to Ranchi, Patna, or Kolkata takes 1 to 2 days; delivery to Delhi, Bangalore, Hyderabad, or Mumbai takes 3 to 5 days.'
-    ],
-    [
-        'q' => 'Do you handle non-operational or breakdown cars in Churi?',
-        'a' => 'Yes, we utilize specialized hydraulic winches and flatbed tow trucks to safely load non-running vehicles onto multi-car trailers without chassis strain.'
-    ],
-    [
-        'q' => 'How can I track my car during transit from Churi?',
-        'a' => 'We provide real-time GPS location updates via WhatsApp and telephone from our central dispatch control center until final delivery.'
-    ],
-    [
-        'q' => 'Do I need to clean my car before handing it over in Churi?',
-        'a' => 'A clean car allows accurate pre-shipping inspection to document any pre-existing scratches, dents, or paint chips on the condition report.'
-    ],
-    [
-        'q' => 'What happens if my car gets damaged during transit from Churi?',
-        'a' => 'In the rare event of transit damage, our team records the issue on the delivery receipt and assists immediately with formal insurance claim filing.'
-    ],
-    [
-        'q' => 'What are the payment terms for car transport in Churi?',
-        'a' => 'We require a booking deposit upon pickup, with the remaining balance settled upon delivery after your inspection.'
-    ],
-    [
-        'q' => 'Are there extra toll charges for car transport from Churi?',
-        'a' => 'No, all highway toll taxes, state border permits, and driver charges are included in our transparent all-inclusive quotation.'
-    ],
-    [
-        'q' => 'Do you transport luxury SUVs and low-ground-clearance cars in Churi?',
-        'a' => 'Yes, our hydraulic tilt-deck trailers feature gentle ramp angles specially engineered to load low-slung sports cars and heavy luxury SUVs without underbody scraping.'
-    ],
-    [
-        'q' => 'What is FASTag protocol during car transport in Churi?',
-        'a' => 'We recommend temporarily disabling or removing your FASTag card during transport so toll plazas do not charge your account while on the trailer carrier.'
-    ],
-    [
-        'q' => 'How do I book car transportation service in Churi?',
-        'a' => 'Call us at 8409531615 or submit the online quote form to receive an instant WhatsApp estimate and schedule your vehicle pickup slot.'
-    ]
+    ['q' => 'How are cars safely loaded and transported from Churi (Khelari / Ray Coal Belt JH-01)?', 'a' => 'Vehicles are collected directly from your residence across Churi (Churi Colliery, Ray Station Road, Khelari Township, Bachra, Piparwar Mining Area) and loaded into enclosed multi-car container trailers via hydraulic ramps, secured with 4-wheel nylon belts and heavy rubber chocks.'],
+    ['q' => 'What is the cost of car shipping from Churi to Ranchi, Patna, Delhi, or Mumbai?', 'a' => 'Regional car transport from Churi to Ranchi, Hazaribagh, Ramgarh, or Gaya ranges from ₹3,500 to ₹7,500. Long-distance car shipping to Delhi-NCR, Mumbai, Pune, Bengaluru, or Kolkata ranges between ₹11,000 and ₹25,000.'],
+    ['q' => 'Is doorstep car pickup available across Churi Colliery and Khelari mining areas?', 'a' => 'Yes, our certified auto transport drivers provide doorstep pickup across Churi Colliery, Ray Station Road, Khelari, Bachra, Piparwar, and surrounding CCL residential quarters.'],
+    ['q' => 'Do you provide IBA approved GST bills for CCL mining officers, bank staff & corporate employees in Churi?', 'a' => 'Yes, we issue 100% genuine IBA-compliant GST tax invoices, pre-loading vehicle condition audit reports, and consignment Lorry Receipts (LR) essential for official relocation claims and Central Coalfields Limited (CCL) reimbursements.'],
+    ['q' => 'Is vehicle transit insurance included during car shipping from Churi Jharkhand?', 'a' => 'Yes, full declared-value transit risk insurance (0.3% of vehicle value) is activated prior to highway dispatch along Ranchi-Hazaribagh highways to protect your vehicle against any transit risks.'],
+    ['q' => 'What documents are required for transporting a car from Churi JH-01?', 'a' => 'Required documents include a copy of the Vehicle Registration Certificate (RC), valid insurance copy, owner ID proof (Aadhaar/PAN), and our joint vehicle condition audit report.'],
+    ['q' => 'Can personal luggage be stored inside the car boot during transport from Churi?', 'a' => 'Up to 25-30 kg of personal luggage or car accessories can be kept safely in the car boot. Cash, jewelry, flammables, and liquids are strictly prohibited.'],
+    ['q' => 'How long does car delivery take from Churi to major Indian cities?', 'a' => 'Transit to Ranchi or Hazaribagh takes 2 to 4 hours, and Patna takes 5 to 7 hours. Delivery to Delhi-NCR or Kolkata takes 1 to 2 days, while shipping to Mumbai, Pune, or Bengaluru takes 3 to 5 days.'],
+    ['q' => 'How can I track my car carrier container trailer during transit from Churi?', 'a' => 'All enclosed multi-car container trailers feature real-time GPS tracking. Movement updates are pushed directly to your WhatsApp throughout transit along NH-39 / NH-33.'],
+    ['q' => 'How do I book car transportation in Churi with Shree Ashirwad Packers?', 'a' => 'Call +91 8409531615 or submit your vehicle details via WhatsApp for an instant transparent price quote and scheduled doorstep pickup.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -94,18 +26,18 @@ require_once __DIR__ . '/../includes/header.php';
 
 <main class="site-main">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active">Car Transportation in Churi</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -113,34 +45,34 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            CHURI / KHELARI CAR TRANSPORTATION SPECIALISTS
+            IBA Approved Car Carrier (Churi Khelari JH-01)
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Car Transportation in Churi</span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Reliable <span style="color: #f59e0b;">Car Transportation in Churi</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Reliable open & enclosed car carrier shipping in Churi, Khelari & Ray coalfield belt. Doorstep pick-up across Churi Colliery, Bachra & Piparwar with 100% transit insurance.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Shree Ashirwad Packers and Movers delivers premier car shipping services in Churi (Khelari / Ray coalfield belt). We provide enclosed container car carriers, doorstep pickup across Churi Colliery, Bachra, Piparwar, 100% transit insurance, and IBA-approved GST bills.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20car%20transportation%20quote%20in%20Churi." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20information%20about%20car%20transportation%20in%20Churi." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shipping</span>
-            <span><strong style="color: #f59e0b;">Enclosed & Open</strong> Carriers</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">480+</strong> Cars Transported</span>
+            <span><strong style="color: #f59e0b;">JH-01</strong> Hub</span>
+            <span><strong style="color: #f59e0b;">100%</strong> Insured Transit</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Churi Car Shifting Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Churi Car Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -148,17 +80,17 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Churi" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" placeholder="Pickup (e.g. Churi)" value="Churi Jharkhand" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div style="margin-bottom: 14px;">
-              <input type="text" name="message" class="form-control" placeholder="Car Model (e.g. Swift, Creta, Nexon)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Car Model (e.g. Swift, Nexon, Creta, Fortuner)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
-              Get Instant Estimate Now &rarr;
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
+              Get Quote on WhatsApp
             </button>
           </form>
         </div>
@@ -167,156 +99,385 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Logistics Guide & Local Information -->
-  <section class="details-section" style="padding: 60px 0; background: #ffffff;">
+  <!-- 3. Key Stats Counter Bar -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
-      <div style="max-width: 950px; margin: 0 auto; line-height: 1.8; color: #334155;">
-
-        <h2 style="font-size: 2.2rem; color: #0f172a; margin-bottom: 20px; font-weight: 800;">Car Transportation Services in Churi, Ranchi District</h2>
-        <p style="margin-bottom: 20px; font-size: 1.05rem;">
-          Shree Ashirwad Packers and Movers provides trusted vehicle relocation services across Churi, Khelari, and the North Karanpura Coalfield belt. We operate specialized open multi-car carriers and enclosed single-vehicle auto transport containers for hatchbacks, sedans, SUVs, and luxury automobiles.
-        </p>
-
-        <!-- 4-Layer Safety Grid -->
-        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Our 4-Layer Car Protection & Lashing Protocol</h3>
-        <p style="margin-bottom: 20px;">
-          To safeguard vehicles from coal dust, flying gravel, and highway vibrations along the Churi-Khelari-Ranchi route, every car undergoes our signature 4-layer security protocol:
-        </p>
-
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px;">
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 1</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Bumper & Trim Cushioning</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">High-impact EPE foam wrap protecting front/rear bumpers, side skirts, and mirrors.</p>
-          </div>
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 2</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Wheel Chocks & Ratchets</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Dual rubber wheel chocks and 4-point heavy nylon strap tie-downs to chassis rings.</p>
-          </div>
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 3</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Hydraulic Ramp Loading</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Gentle ramp incline loading preventing underbody contact for sedans and sports cars.</p>
-          </div>
-          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
-            <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">Layer 4</div>
-            <h4 style="font-size: 1rem; color: #0f172a; margin-bottom: 6px; font-weight: 700;">Dust & Rain Cover</h4>
-            <p style="font-size: 0.88rem; color: #64748b; margin: 0;">Weatherproof stretch wrapping for bodywork, windshield, and chrome exterior trims.</p>
-          </div>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">480+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Cars Transported from Churi</div>
         </div>
-
-        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Local Logistics Corridors & Coverage in Churi</h3>
-        <p style="margin-bottom: 20px;">
-          Churi is an important coal mining township situated near Ray and Khelari in Ranchi district. Our doorstep vehicle carrier service covers all local residential colonies, mining projects, and transit routes:
-        </p>
-        <ul style="margin-bottom: 25px; padding-left: 20px; color: #475569;">
-          <li><strong>Churi Colliery & Officers Township:</strong> Direct doorstep vehicle pickup for CCL mining engineers, management staff, and government employees.</li>
-          <li><strong>Ray Railway Station & Market Hub:</strong> Connecting local residential quarters directly to major interstate transportation arteries.</li>
-          <li><strong>Bachra & Khelari Mining Belt:</strong> Full coverage across neighboring industrial hubs with specialized multi-car trailer dispatch.</li>
-          <li><strong>Piparwar & Ranchi Highway Route:</strong> Efficient transit access connecting Churi vehicles onto Ranchi-Patna and Ranchi-Delhi national highways.</li>
-        </ul>
-
-        <!-- Tariff Table Matrix -->
-        <h3 style="font-size: 1.6rem; color: #1e293b; margin-top: 35px; margin-bottom: 15px; font-weight: 700;">Estimated Car Transportation Charges from Churi</h3>
-        <p style="margin-bottom: 20px;">Below is an indicative tariff matrix for car transport services from Churi to major destinations across India:</p>
-
-        <div style="overflow-x: auto; margin-bottom: 30px;">
-          <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
-            <thead>
-              <tr style="background: #1e293b; color: #ffffff;">
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Destination Route</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Hatchback (e.g. WagonR/Alto)</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Sedan (e.g. Dzire/Aura)</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">SUV / Luxury (e.g. Nexon/Scorpio)</th>
-                <th style="padding: 12px 16px; border: 1px solid #334155;">Est. Transit Time</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr style="background: #f8fafc;">
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Churi to Ranchi / Hazaribagh</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 3,500 - ₹ 4,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 4,500 - ₹ 5,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 5,500 - ₹ 7,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">Same Day</td>
-              </tr>
-              <tr>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Churi to Patna / Gaya</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 6,500 - ₹ 8,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 8,000 - ₹ 9,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 10,000 - ₹ 12,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">1 - 2 Days</td>
-              </tr>
-              <tr style="background: #f8fafc;">
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Churi to Kolkata / Asansol</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 7,500 - ₹ 9,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 9,000 - ₹ 11,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 11,500 - ₹ 13,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">2 - 3 Days</td>
-              </tr>
-              <tr>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Churi to Delhi / NCR</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 11,000 - ₹ 13,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 13,500 - ₹ 16,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 16,500 - ₹ 19,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">3 - 5 Days</td>
-              </tr>
-              <tr style="background: #f8fafc;">
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Churi to Bangalore / Pune</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 15,000 - ₹ 17,500</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 17,500 - ₹ 20,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹ 21,000 - ₹ 24,000</td>
-                <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">4 - 6 Days</td>
-              </tr>
-            </tbody>
-          </table>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">JH-01 / NH-39</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Khelari Coalfield Corridor</div>
         </div>
-
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100%</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Transit Risk Covered</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Official GST Invoice &amp; Bills</div>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- High-Intent 20 FAQ Accordion Section -->
-  <section class="faq-section" style="padding: 60px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container">
+      
       <div style="max-width: 950px; margin: 0 auto;">
-        
-        <div style="text-align: center; margin-bottom: 40px;">
-          <span style="background: rgba(245, 158, 11, 0.15); color: #b45309; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">FREQUENTLY ASKED QUESTIONS</span>
-          <h2 style="font-size: 2.2rem; color: #0f172a; margin-top: 10px; font-weight: 800;">Car Transportation in Churi FAQs</h2>
-          <p style="color: #64748b; font-size: 1rem;">Clear answers to common questions about moving your car from Churi / Khelari, Jharkhand</p>
-        </div>
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Car Carrier Features</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Car Transportation in Churi</span>?
+        </h2>
 
-        <div class="faq-grid" style="display: grid; gap: 16px;">
-          <?php foreach ($faq_list as $index => $faq): ?>
-            <div class="faq-item" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 22px 26px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
-              <h3 style="font-size: 1.1rem; color: #0f172a; margin-bottom: 10px; font-weight: 700; display: flex; align-items: center;">
-                <span style="color: #f59e0b; margin-right: 12px; font-weight: 800;">Q<?php echo $index + 1; ?>.</span>
-                <?php echo htmlspecialchars($faq['q']); ?>
-              </h3>
-              <p style="color: #475569; font-size: 0.95rem; line-height: 1.7; margin: 0; padding-left: 32px;">
-                <?php echo htmlspecialchars($faq['a']); ?>
-              </p>
-            </div>
-          <?php endforeach; ?>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-pickup"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Pickup Service</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Our trained driver picks up your car directly from your residence across Churi Colliery, Bachra, &amp; Ray Station area.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-car-side"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed Container Trucks</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Covered multi-car carrier trailers shielding your vehicle from coal dust, rain, &amp; highway gravel debris.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice-dollar"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Authentic IBA-compliant tax invoices for CCL mining officers, bank employees, defense personnel, &amp; corporate claims.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Comprehensive declared value transit risk policy protecting your car during national highway haulage.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-map-marked-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Live GPS Tracking</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Monitor your vehicle container trailer on Ranchi highway corridors with real-time updates via WhatsApp.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-cogs"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Hydraulic Ramp Loading</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Zero bumper damage loading mechanism designed for low ground clearance sedans &amp; SUVs.
+            </p>
+          </div>
+
         </div>
 
       </div>
+
+    </div>
+  </section>
+
+  <!-- 5. Specialized Services Breakdown (6 Cards) -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Relocation Portfolio</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Specialized Vehicle Services in <span style="color: #f59e0b;">Churi (Khelari)</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Hatchback &amp; Sedan Shipping</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Protected multi-car carrier shipping for Maruti, Hyundai, Honda, &amp; Tata cars.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">SUV &amp; Luxury Vehicle Move</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Enclosed single container trailers for Fortuner, Endeavour, Creta, &amp; luxury cars.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Two-Wheeler Transport</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">4-layer protective bubble wrapped bike &amp; scooter packaging and door dispatch.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Household Shifting</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">Combined household item packing along with vehicle transportation.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">CCL Mining &amp; PSU Corporate Move</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">IBA approved bills &amp; official documents for Central Coalfields Limited staff &amp; PSU officers.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 20px; border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1.05rem; margin-bottom: 8px;">Vehicle Yard Storage</h4>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin: 0;">24/7 camera monitored safe short and long term vehicle storage yard.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 6. 7-Layer Safety Packaging Framework -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Vehicle Protection Framework
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Pre-Loading Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Comprehensive scratch inspection &amp; odometer reading log.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Bumper Protective Film</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">High-density film wrapping for bumpers, headlights &amp; side mirrors.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 03</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Hydraulic Ramp Drive</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Gentle hydraulic incline loading onto carrier deck without underbody hit.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 04</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Rubber Wheel Chocks</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Heavy-duty tire blocks positioned firmly behind all wheels.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 05</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Nylon Harness Belts</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Industrial grade soft nylon tie-downs locking wheels to trailer bed.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Covered Container Deck</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">All-weather enclosed metal body protecting car on highways.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">LAYER 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Destination Handover Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Joint inspection and delivery confirmation before handoff.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 7. Origin Pickup Locality Grid -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Khelari Coalfield Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Locality Coverage Across <span style="color: #f59e0b;">Churi &amp; Khelari Belt</span>
+      </h2>
+
+      <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        We collect vehicles from all main CCL residential quarters, mining townships, and railway hubs in Churi:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Churi Colliery &amp; Ray Station Road</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Doorstep car pickup serving central Churi mining quarters &amp; Ray railway station area.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Bachra &amp; Khelari Township</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Vehicle pickup serving Khelari market area &amp; Bachra CCL residential sectors.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Piparwar Mining Sector</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Car carrier loading serving Piparwar coalfield quarters &amp; industrial area.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Ranchi-Bijupada Highway Junction</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Vehicle carrier pickup serving NH-39 express highway transport link near Bijupada.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 8. Intercity Route Network Grid -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Major Highway Corridors</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Car Shipping Routes from <span style="color: #f59e0b;">Churi</span>
+      </h2>
+
+      <p style="font-size: 1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+        Daily car carrier departures via NH-39 &amp; NH-33 connecting Churi:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Churi to Ranchi / Hazaribagh / Ramgarh / Gaya</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Express 2 to 5 hour car carrier shipping across Jharkhand regional corridor.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Churi to Delhi-NCR / Lucknow / Kanpur / Patna</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Direct car carrier shipping along GT Road (NH-19) network.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Churi to Kolkata / Asansol / Dhanbad / Jamshedpur</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Insured vehicle carrier shipping via NH-19 Golden Quadrilateral.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Churi to Mumbai / Pune / Bengaluru / Hyderabad</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Long-distance safe vehicle carrier logistics across West &amp; South India.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 9. IBA Approved GST Billing Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Claims Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing for Car Transport in Churi
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Vehicle Relocation Claim Set:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Official GST Consignment Invoice</strong> detailing itemized car transport freight.</li>
+          <li><strong>Pre-Loading Vehicle Inspection Report</strong> recorded during pickup in Churi.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> carrying truck registration details.</li>
+          <li><strong>IBA Approved Registration Code &amp; Official Stamp</strong>.</li>
+          <li><strong>Full Vehicle Transit Insurance Certificate</strong>.</li>
+          <li><strong>Stamped Payment Receipt</strong> for CCL mining officers, bank staff, government employees, defense personnel, or corporate claim reimbursement.</li>
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 10. 10 to 15 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions About <span style="color: #f59e0b;">Car Transport in Churi</span>
+        </h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Car Carrier in Churi
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Need Reliable <span style="color: #f59e0b;">Car Transportation in Churi</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Contact our Churi / Khelari vehicle shipping team today for an enclosed car carrier quote and insured doorstep delivery across India.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20car%20transport%20quote%20for%20Churi." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+
     </div>
   </section>
 
 </main>
 
 <script>
-function sendHeroWhatsAppLead(e, form) {
-  e.preventDefault();
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
   var name = form.querySelector('[name="name"]').value;
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
   var extraMsg = form.querySelector('[name="message"]').value;
   
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Car Transportation Quote in Churi:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination: " + moveTo;
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Car Transport Quote from Churi Jharkhand:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
   
   if (extraMsg && extraMsg.trim() !== '') {
     message += "\n- Car Model: " + extraMsg;

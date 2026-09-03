@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Transportation in Brajrajnagar 8409531615";
-$page_desc = "Reliable car transportation in Brajrajnagar. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.";
-$page_keywords = "car transportation in brajrajnagar, best car transportation in brajrajnagar, affordable car transportation in brajrajnagar, packers and movers, packers and movers in ranchi, top car transportation in brajrajnagar company, household shifting car transportation in brajrajnagar, doorstep car transportation in brajrajnagar, verified car transportation in brajrajnagar services, shree ashirwad car transportation in brajrajnagar";
+$page_title = "Car Transportation in Brajrajnagar | All India Car Transport Company";
+$page_desc = "Safe car transportation in Brajrajnagar (Jharsuguda, Odisha) by Shree Ashirwad Packers and Movers. Top all india car transport company, heavy car transport truck trailers, car courier service & best rated car transport companies. Call 8409531615.";
+$page_keywords = "car transportation in brajrajnagar, all india car transport company, car transport truck, car courier service, best rated car transport companies, car transport jharsuguda, packers and movers brajrajnagar";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-brajrajnagar.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -11,18 +11,20 @@ require_once __DIR__ . '/../includes/header.php';
 
 <main class="site-main">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
+  <!-- Section 1: Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/car-transportation-cost-charges-rates-quotes-india.php" title="Car Transportation">Car Transport Services</a></span>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-item active">Car Transportation in Brajrajnagar</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- Section 2: Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -30,46 +32,46 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            CAR TRANSPORTATION BRAJRAJNAGA RELOCATION SPECIALISTS
+            BRAJRAJNAGAR ODISHA CAR LOGISTICS
           </span>
           <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Professional <span style="color: #f59e0b;">Car Transportation in Brajrajnagar</span>
+            Reliable <span style="color: #f59e0b;">Car Transportation in Brajrajnagar</span>
           </h1>
           <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Reliable car transportation in Brajrajnagar. Shree Ashirwad Packers and Movers offers safe open & enclosed vehicle carriers, transit insurance, and professional doorstep delivery. Call 8409531615.
+            Looking for a trusted <strong>all india car transport company</strong> in Brajrajnagar? Shree Ashirwad Packers and Movers ranks among the <strong>best rated car transport companies</strong>, deploying specialized <strong>car transport truck</strong> trailers and express <strong>car courier service</strong> with 100% declared transit insurance and doorstep pickup across Jharsuguda industrial hub.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20car%20transport%20quote%20for%20Brajrajnagar." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">Jharsuguda-NH49</strong> Corridor</span>
+            <span><strong style="color: #f59e0b;">Doorstep</strong> Delivery</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Brajrajnagar Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Brajrajnagar Car Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive instant price quote on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Mobile Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
               <input type="text" name="move_from" class="form-control" value="Brajrajnagar" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
               Get Instant Estimate Now &rarr;
@@ -81,7 +83,426 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Section 3: Stats Counter Bar -->
+  <section style="background: #1e293b; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center; color: #ffffff;">
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">11,800+</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Cars Relocated Across India</div>
+        </div>
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100%</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Covered Container Carriers</div>
+        </div>
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">Zero</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Damage Record</div>
+        </div>
+        <div>
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">24/7</div>
+          <div style="font-size: 0.9rem; color: #94a3b8;">Live GPS Monitoring</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 4: 6-Card Feature Grid -->
+  <section style="padding: 70px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; max-width: 700px; margin: 0 auto 50px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Premier <span style="color: #f59e0b;">All India Car Transport Company</span></h2>
+        <p style="color: #94a3b8; font-size: 1rem; line-height: 1.6;">Our car courier service guarantees scratch-free delivery, insurance coverage, and total peace of mind.</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="width: 50px; height: 50px; background: rgba(245,158,11,0.1); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.5rem; margin-bottom: 20px;">
+            <i class="fas fa-truck-moving"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Enclosed Car Transport Truck</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Covered multi-car carrier trailers shielding your vehicle from highway dust, rain, and debris.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="width: 50px; height: 50px; background: rgba(245,158,11,0.1); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.5rem; margin-bottom: 20px;">
+            <i class="fas fa-shipping-fast"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Express Car Courier Service</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Direct point-to-point car shipping with dedicated delivery timelines for individual vehicle owners.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="width: 50px; height: 50px; background: rgba(245,158,11,0.1); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.5rem; margin-bottom: 20px;">
+            <i class="fas fa-shield-alt"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Full Transit Insurance</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">100% declared value insurance policy protecting your vehicle against all transit risks.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="width: 50px; height: 50px; background: rgba(245,158,11,0.1); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.5rem; margin-bottom: 20px;">
+            <i class="fas fa-map-marked-alt"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Live GPS Tracking</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Continuous satellite tracking updates provided directly to your phone throughout the transit path.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="width: 50px; height: 50px; background: rgba(245,158,11,0.1); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.5rem; margin-bottom: 20px;">
+            <i class="fas fa-home"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Doorstep Pick & Drop</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Convenient door pickup across Brajrajnagar and direct doorstep handover at your destination address.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 30px; border-radius: 12px;">
+          <div style="width: 50px; height: 50px; background: rgba(245,158,11,0.1); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.5rem; margin-bottom: 20px;">
+            <i class="fas fa-award"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 10px;">IBA & GST Bills</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Official 18% GST bills and IBA-compliant consignment notes for employee relocation claim reimbursement.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 5: Automobile Carrier Infrastructure Options -->
+  <section style="padding: 60px 0; background: #1e293b; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800;">Car Transport Truck Infrastructure</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Options from the best rated car transport companies in Odisha</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+        <div style="background: rgba(0,0,0,0.2); padding: 30px; border-radius: 12px; border-left: 4px solid #f59e0b;">
+          <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 15px;">Option A: Closed Single-Car Container Truck</h3>
+          <p style="color: #cbd5e1; line-height: 1.7; margin-bottom: 15px;">Recommended for luxury sedans, vintage cars, and SUVs requiring 100% dust-proof and climate-protected movement.</p>
+          <ul style="color: #94a3b8; line-height: 1.8; padding-left: 20px;">
+            <li>Full metal body container enclosure</li>
+            <li>Hydraulic ramp zero-scrape loading</li>
+            <li>Direct single vehicle express transit</li>
+          </ul>
+        </div>
+
+        <div style="background: rgba(0,0,0,0.2); padding: 30px; border-radius: 12px; border-left: 4px solid #3b82f6;">
+          <h3 style="font-size: 1.3rem; color: #3b82f6; margin-bottom: 15px;">Option B: Covered Multi-Car Deck Trailer</h3>
+          <p style="color: #cbd5e1; line-height: 1.7; margin-bottom: 15px;">Cost-effective choice for standard hatchbacks and family cars moving long distance.</p>
+          <ul style="color: #94a3b8; line-height: 1.8; padding-left: 20px;">
+            <li>Affordable shared container tariff</li>
+            <li>Four-wheel nylon strap locking</li>
+            <li>Scheduled departures on national highways</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 6: 7-Step Safety Protocol -->
+  <section style="padding: 70px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 50px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800;">7-Step Vehicle Protection Standard</h2>
+        <p style="color: #94a3b8;">Ensuring your car is delivered without a single mark</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 10px; text-align: center;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">01</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 10px;">Pre-Pickup Inspection</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; line-height: 1.6;">Physical inspection and digital photo logging of existing body condition and odometer reading.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 10px; text-align: center;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">02</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 10px;">Protective Foam Wrap</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; line-height: 1.6;">Wrapping mirrors, bumpers, and handles with high-density protective foam sheeting.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 10px; text-align: center;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">03</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 10px;">Hydraulic Ramp Drive</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; line-height: 1.6;">Safe loading onto carrier deck with zero undercarriage scraping.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 10px; text-align: center;">
+          <div style="font-size: 1.5rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">04</div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 10px;">4-Point Wheel Tie-Down</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; line-height: 1.6;">Industrial web straps locking each wheel securely to the carrier floor.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 7: Regional Network Grid (Local Hubs) -->
+  <section style="padding: 60px 0; background: #1e293b; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800;">Brajrajnagar & Jharsuguda Network Coverage</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Prompt local doorstep pickup across Brajrajnagar and Western Odisha hubs</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Brajrajnagar Town</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Jharsuguda</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Belpahar</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Sambalpur</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Bargarh</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Rourkela</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Sundargarh</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Raigarh (CG Border)</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Cuttack</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Bhubaneswar</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Ranchi (JH)</div>
+        <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; font-weight: 600; color: #cbd5e1;">Kolkata (WB)</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 8: Intercity Route Grid -->
+  <section style="padding: 60px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <h2 style="font-size: 2rem; font-weight: 800;">Popular Intercity Routes from Brajrajnagar</h2>
+        <p style="color: #94a3b8; margin-top: 10px;">Direct highway corridors via NH-49 & NH-53</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Brajrajnagar to Bhubaneswar</h4>
+          <p style="color: #94a3b8; font-size: 0.85rem;">Distance: ~320 km | Transit Time: 1 Day</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Brajrajnagar to Raipur</h4>
+          <p style="color: #94a3b8; font-size: 0.85rem;">Distance: ~260 km | Transit Time: 1 Day</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Brajrajnagar to Kolkata</h4>
+          <p style="color: #94a3b8; font-size: 0.85rem;">Distance: ~540 km | Transit Time: 2 Days</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Brajrajnagar to Ranchi / Jamshedpur</h4>
+          <p style="color: #94a3b8; font-size: 0.85rem;">Distance: ~320 km | Transit Time: 1-2 Days</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Brajrajnagar to Delhi / NCR</h4>
+          <p style="color: #94a3b8; font-size: 0.85rem;">Distance: ~1,250 km | Transit Time: 3-4 Days</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 8px;">
+          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Brajrajnagar to Bangalore / Hyderabad</h4>
+          <p style="color: #94a3b8; font-size: 0.85rem;">Distance: ~1,100 km | Transit Time: 3-4 Days</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 9: IBA/GST Compliance Section -->
+  <section style="padding: 60px 0; background: #1e293b; color: #ffffff;">
+    <div class="container">
+      <div style="background: linear-gradient(135deg, rgba(245,158,11,0.1) 0%, rgba(30,41,59,0.8) 100%); border: 1px solid rgba(245,158,11,0.3); padding: 40px; border-radius: 16px;">
+        <h2 style="font-size: 1.8rem; color: #f59e0b; margin-bottom: 15px;">IBA & GST Billing Compliance</h2>
+        <p style="color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+          As an established <strong>all india car transport company</strong>, Shree Ashirwad Packers and Movers provides official 18% GST invoices, pre-transit vehicle inspection sheets, and IBA-approved consignment bills accepted by government officers, PSU personnel, and corporate professionals.
+        </p>
+        <div style="display: flex; gap: 20px; flex-wrap: wrap; color: #94a3b8; font-size: 0.9rem;">
+          <span><i class="fas fa-check-circle" style="color: #10b981; margin-right: 6px;"></i> GST Tax Invoice</span>
+          <span><i class="fas fa-check-circle" style="color: #10b981; margin-right: 6px;"></i> Pre-Transit Audit Log</span>
+          <span><i class="fas fa-check-circle" style="color: #10b981; margin-right: 6px;"></i> IBA Compliant Invoicing</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 10: 10-Item FAQ with JSON-LD Schema -->
+  <section style="padding: 70px 0; background: #0f172a; color: #ffffff;">
+    <div class="container">
+      <div style="text-align: center; margin-bottom: 50px;">
+        <h2 style="font-size: 2.2rem; font-weight: 800;">Frequently Asked Questions — Car Transportation in Brajrajnagar</h2>
+        <p style="color: #94a3b8;">Everything you need to know about our car courier service</p>
+      </div>
+
+      <div style="max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px;">
+        
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">1. Why choose Shree Ashirwad as your all india car transport company in Brajrajnagar?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">We offer covered car carriers, 7-layer body protection, 100% declared value insurance, live GPS tracking, and IBA-approved GST documentation.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">2. What type of car transport truck is used for interstate shipping?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">We use enclosed single-car container trucks and covered multi-vehicle double-decker car carriers fitted with hydraulic ramp systems.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">3. How does express car courier service operate?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Our car courier service provides direct doorstep pickup and priority transit using dedicated vehicle trailers with guaranteed delivery timelines.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">4. Why are you listed among best rated car transport companies?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Our zero-damage track record, transparent pricing without hidden fees, and high customer satisfaction ratings make us a preferred choice.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">5. Is doorstep pickup available across Brajrajnagar and Belpahar?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Yes, doorstep pickup is available throughout Brajrajnagar town, Belpahar, and Jharsuguda industrial area.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">6. What are the typical costs for car transport from Brajrajnagar?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Regional transportation to Bhubaneswar or Raipur ranges from ₹4,000 to ₹6,500. Long-distance interstate shipping costs ₹9,500 - ₹18,000.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">7. What paperwork is required before shipping my car?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">You need to provide a copy of the car Registration Certificate (RC), valid insurance document, owner ID proof, and signed joint inspection sheet.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">8. Can I track my vehicle live during transit?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Yes, all our car transport trucks are equipped with satellite GPS tracking devices, sending real-time location updates directly to your WhatsApp.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">9. Are personal belongings allowed inside the vehicle?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Up to 25 kg of non-flammable personal luggage stored safely in the vehicle trunk is allowed. Cash and hazardous materials are strictly prohibited.</p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 20px; border-radius: 10px;">
+          <h3 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px;">10. How early should I book car transportation in Brajrajnagar?</h3>
+          <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">Booking 2 to 3 days in advance guarantees carrier slot availability and timely doorstep pickup.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQPage & MovingCompany JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MovingCompany",
+        "@id": "https://shreeashirwadpackersandmovers.com/#organization",
+        "name": "Shree Ashirwad Packers and Movers",
+        "url": "https://shreeashirwadpackersandmovers.com/",
+        "telephone": "+91-8409531615",
+        "description": "Professional car transportation service in Brajrajnagar (Jharsuguda, Odisha) offering top all india car transport company solutions, heavy car transport truck trailers & car courier service.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Brajrajnagar",
+          "addressRegion": "Odisha",
+          "addressCountry": "IN"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why choose Shree Ashirwad as your all india car transport company in Brajrajnagar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We offer covered car carriers, 7-layer body protection, 100% declared value insurance, live GPS tracking, and IBA-approved GST documentation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What type of car transport truck is used for interstate shipping?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We use enclosed single-car container trucks and covered multi-vehicle double-decker car carriers fitted with hydraulic ramp systems."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does express car courier service operate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our car courier service provides direct doorstep pickup and priority transit using dedicated vehicle trailers with guaranteed delivery timelines."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why are you listed among best rated car transport companies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our zero-damage track record, transparent pricing without hidden fees, and high customer satisfaction ratings make us a preferred choice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is doorstep pickup available across Brajrajnagar and Belpahar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, doorstep pickup is available throughout Brajrajnagar town, Belpahar, and Jharsuguda industrial area."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the typical costs for car transport from Brajrajnagar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Regional transportation to Bhubaneswar or Raipur ranges from ₹4,000 to ₹6,500. Long-distance interstate shipping costs ₹9,500 - ₹18,000."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What paperwork is required before shipping my car?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You need to provide a copy of the car Registration Certificate (RC), valid insurance document, owner ID proof, and signed joint inspection sheet."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I track my vehicle live during transit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, all our car transport trucks are equipped with satellite GPS tracking devices, sending real-time location updates directly to your WhatsApp."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are personal belongings allowed inside the vehicle?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Up to 25 kg of non-flammable personal luggage stored safely in the vehicle trunk is allowed. Cash and hazardous materials are strictly prohibited."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How early should I book car transportation in Brajrajnagar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Booking 2 to 3 days in advance guarantees carrier slot availability and timely doorstep pickup."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <!-- Section 11: CTA Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #d32f2f 0%, #850000 100%); color: #ffffff; text-align: center;">
+    <div class="container">
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Book Car Transportation in Brajrajnagar Today</h2>
+      <p style="font-size: 1.1rem; color: #ffcdd2; max-width: 700px; margin: 0 auto 30px;">
+        Get premier car courier service with guaranteed doorstep pickup, 7-layer body protection, and full transit insurance.
+      </p>
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="padding: 15px 35px; background: #ffffff; color: #d32f2f; border-radius: 50px; font-weight: 800; font-size: 1.1rem; text-decoration: none; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20book%20car%20transportation%20in%20Brajrajnagar." title="WhatsApp Chat" target="_blank" style="padding: 15px 35px; background: #25d366; color: #ffffff; border-radius: 50px; font-weight: 800; font-size: 1.1rem; text-decoration: none; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
+        </a>
+      </div>
+    </div>
+  </section>
 
 </main>
 

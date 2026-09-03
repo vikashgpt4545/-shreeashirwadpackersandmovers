@@ -1,78 +1,93 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transportation in Samthar | Safe Motorcycle Parcel Jhansi UP";
-$page_desc = "Insured doorstep bike transportation in Samthar, Jhansi (UP). 4-layer scratch-proof packaging (foam, bubble wrap, corrugated sheets), covered container trucks, transit insurance & IBA approved bills. Call 8409531615.";
-$page_keywords = "bike transportation in samthar, motorcycle shifting samthar jhansi, bike courier service samthar, bike packers and movers samthar, two wheeler transport samthar uttar pradesh";
+$page_title = "Bike Transportation in Samthar | Insured Shifting UP-93 Jhansi";
+$page_desc = "Looking for bike transportation in Samthar (UP-93 RTO, Jhansi Bundelkhand Region, NH-27 & SH-42 Corridors)? Shree Ashirwad Packers offers 7-layer protective packaging, transit insurance, and doorstep pickup across Samthar Market, Moth Road, Fort Area & Erach Road. Call 8409531615.";
+$page_keywords = "bike transportation in samthar, bike transport service, bike transport services, bike transport, bike transport near me, bike transport by train, bike transport cost, railway bike transport charges, best bike transportation in samthar, affordable bike transport samthar, Samthar bike transport, UP-93 bike transport, motorcycle shifting samthar jhansi";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-samthar.php";
+
+$faq_list = [
+    ['q' => 'How is bike transportation safely executed in Samthar (UP-93 RTO, Jhansi District)?', 'a' => 'Motorcycles undergo pre-loading condition audit, fuel draining under 1 liter, 7-layer Bundelkhand dust & heat resistant stretch wrapping, 80-GSM bubble wrap, corrugated sheet armor, and wheel-chock ratchet belt anchorage inside covered container trucks operating on NH-27 and SH-42.'],
+    ['q' => 'What are the bike transport charges from Samthar to Jhansi, Gwalior, Kanpur, or Lucknow?', 'a' => 'Regional two-wheeler transport charges to Jhansi, Moth, Orai, Mauranipur, Lalitpur, Gwalior, or Kanpur range from ₹1,800 to ₹3,400. Interstate & long-distance shipping to Delhi NCR, Jaipur, Patna, Ranchi, Mumbai, Pune, or Bengaluru ranges between ₹4,200 and ₹9,500.'],
+    ['q' => 'Which major highway corridors serve Samthar bike shipping?', 'a' => 'Key transit routes include NH-27 (East-West Corridor / Jhansi-Kanpur Highway), SH-42 (Jhansi-Moth-Samthar Road), and nearby Bundelkhand Expressway link.'],
+    ['q' => 'Do you collect motorcycles from Samthar Market, Fort Area & Moth Road in Samthar?', 'a' => 'Yes, free doorstep pickup is available across Samthar Main Market, Fort Area, Moth Road, Erach Road, Poonch Junction, and Garautha Road.'],
+    ['q' => 'How do you safeguard bikes against Bundelkhand terrain dust & highway sways in Samthar?', 'a' => 'We deploy heavy-duty stretch film, 80-GSM thermal-shield bubble wrap, high-density corrugated guards, waterproof tarpaulin double seal, and wheel-chock ratchet belt anchoring inside covered container trucks.'],
+    ['q' => 'Is transit insurance included for bike transport in Samthar?', 'a' => 'Yes, full-value transit insurance policies (0.3% declared valuation) are issued protecting your motorcycle against highway transit risks.'],
+    ['q' => 'How long does bike delivery take from Samthar to major UP, MP & Delhi NCR hubs?', 'a' => 'Regional deliveries to Jhansi, Gwalior, or Kanpur take 2 to 5 hours, while transit to Delhi NCR, Jaipur, Lucknow, or Patna takes 24 to 48 hours.'],
+    ['q' => 'What documents are required to dispatch a motorcycle from Samthar (UP-93)?', 'a' => 'Required documentation includes RC copy, active bike insurance policy, owner ID card copy, and signed vehicle condition audit form.'],
+    ['q' => 'Do you provide IBA approved GST bills for Govt & Military Personnel in Samthar?', 'a' => 'Yes, 100% genuine IBA-compliant GST consignment tax invoices with SAC Code 996511, LR copies, and payment receipts are supplied for Defense Personnel, Teachers, Govt Employees, Bank Managers, and Corporate Officers.'],
+    ['q' => 'How can I book bike transport service in Samthar?', 'a' => 'Call +91 8409531615 or submit your motorcycle details on WhatsApp for an instant written price quotation and booking confirmation.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main dark-theme-override">
+<main class="site-main">
 
-  <!-- Section 1: Visual Breadcrumb Navigation Bar -->
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-jhansi.php" title="Relocation in Jhansi">Jhansi</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active">Bike Transportation in Samthar</span>
       </div>
     </div>
   </div>
 
-  <!-- Section 2: Hero Section & Instant WhatsApp Lead Form -->
-  <section class="hero-section">
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
-      <div class="hero-grid">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
+        <!-- Hero Text Column -->
         <div class="hero-text">
-          <span class="section-tag">SAMTHAR TWO-WHEELER RELOCATION SPECIALISTS</span>
-          <h1>
-            Safe &amp; Insured <span class="highlight">Bike Transportation in Samthar</span>
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
+            SAMTHAR JHANSI BUNDELKHAND (UP-93 RTO / NH-27 CORRIDOR) BIKE LOGISTICS
+          </span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+            Professional <span style="color: #f59e0b;">Bike Transportation in Samthar</span>
           </h1>
-          <p>
-            Relocate your commuter bike, sports motorcycle, bullet, or scooter from Samthar, Jhansi with zero scratches guaranteed. We use 4-layer heavy-duty wrapping, specialized wheel-lock stands, and covered container vehicles with 100% transit insurance across India.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Shree Ashirwad Packers and Movers provides safe, insured, and doorstep motorcycle transport across Samthar (UP-93 RTO, Jhansi Bundelkhand Region, NH-27 &amp; SH-42 Corridors) via express routes. 7-layer shockproof &amp; weather-tight packaging, covered container trucks, and IBA-approved GST bills for Defense Personnel, Teachers, Govt Staff, Bank Officers &amp; Family relocations.
           </p>
 
-          <div class="cta-btn-group">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" class="btn-call">
-              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Support" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Support: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20bike%20transportation%20quote%20from%20Samthar." title="Chat on WhatsApp" target="_blank" class="btn-whatsapp">
-              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Samthar." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div class="hero-trust-badges">
-            <span><strong class="text-amber">100% Insured</strong> Shifting</span>
-            <span><strong class="text-amber">4-Layer</strong> Scratch Packaging</span>
-            <span><strong class="text-amber">Doorstep</strong> Pickup &amp; Drop</span>
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
+            <span><strong style="color: #f59e0b;">Samthar Fort &amp; Moth Rd</strong> Pickup</span>
+            <span><strong style="color: #f59e0b;">NH-27 Express</strong> Corridor</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> GST Bill</span>
           </div>
         </div>
 
-        <div class="hero-form-card">
-          <h2>Get Samthar Bike Shifting Quote</h2>
-          <p>Instant transparent price estimate sent directly to your WhatsApp</p>
+        <!-- Hero Lead Form Column -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Samthar Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive instant transparent price on WhatsApp</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div class="form-group">
-              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required>
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div class="form-group">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Mobile Number" required>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit WhatsApp Mobile Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div class="form-grid-2">
-              <input type="text" name="move_from" class="form-control" value="Samthar, Jhansi" required>
-              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+              <input type="text" name="move_from" class="form-control" value="Samthar (UP)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <div class="form-group">
-              <input type="text" name="bike_model" class="form-control" placeholder="Bike Model (e.g. Pulsar, Royal Enfield, Activa)" required>
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Bike Model (e.g. Royal Enfield Hunter / Pulsar / Apache / Jupiter / Activa)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
             </div>
-            <button type="submit" class="btn-submit">
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
               Get Instant Estimate Now &rarr;
             </button>
           </form>
@@ -82,413 +97,401 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 3: Key Stats Counter Bar -->
-  <section class="stats-bar-section">
+  <!-- 3. Key Stats Counter Bar -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
-      <div class="stats-grid">
-        <div class="stat-card">
-          <div class="stat-number">2,080+</div>
-          <div class="stat-label">Bikes Safely Transported</div>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">₹1,800+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Starting Regional Shifting</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">100%</div>
-          <div class="stat-label">All-Risk Transit Insurance</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">NH-27</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Jhansi-Kanpur Corridor</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">0%</div>
-          <div class="stat-label">Scratch &amp; Dent Guarantee</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">7-Layer</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Armor Shield Protection</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">100%</div>
-          <div class="stat-label">IBA Approved GST Billing</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">0.3% Insured</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Full Transit Risk Coverage</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 4: 6-Card Feature Grid -->
-  <section class="feature-grid-section">
+  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container">
-      <div class="section-header">
-        <h2>Why Choose Us for Bike Transportation in Samthar?</h2>
-        <p>Engineered two-wheeler safety standards for Samthar, Jhansi &amp; Bundelkhand corridors</p>
+      
+      <div style="max-width: 950px; margin: 0 auto;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Logistics Excellence</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Samthar Bike Transportation</span>
+        </h2>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box-open"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Rigid Crate Packaging</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Custom heavy wooden crating for Royal Enfield, KTM, BMW, and sports bikes.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-layer-group"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Armor Shield</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Stretch film, 80-GSM bubble wrap &amp; corrugated armor protecting motorcycle paint against scratches.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-pickup"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Pickup Across UP-93</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Free pickup across Samthar Market, Fort Area, Moth Road &amp; Erach Road.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              0.3% comprehensive policy covering total motorcycle valuation against highway transit risks.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-moving"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Closed Container Fleet</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              All-weather covered container trucks protecting bikes against Bundelkhand dust, summer heat, and road debris.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA &amp; GST Tax Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Official GST invoices suitable for Defense Personnel, Teachers &amp; Govt Officers claims.
+            </p>
+          </div>
+
+        </div>
+
       </div>
-      <div class="feature-grid">
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-box-open"></i></div>
-          <h3>4-Layer Scratch Shield Packaging</h3>
-          <p>Each bike is encased in soft foam sheets, 80-GSM bubble wrap, heavy corrugated sheets, and waterproof stretch film to protect body paint and mirrors.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-motorcycle"></i></div>
-          <h3>Custom Wheel Lock Anchoring</h3>
-          <p>We lock motorcycle wheels in specialized steel chocks and secure the frame using high-tensile nylon tie-down belts inside enclosed container trucks.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-shield-alt"></i></div>
-          <h3>All-Risk Transit Insurance</h3>
-          <p>Comprehensive insurance policy protects your motorcycle against road hazards, theft, or transit damage during transport.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-truck-loading"></i></div>
-          <h3>Closed Weather-Proof Vehicles</h3>
-          <p>Our two-wheelers travel inside sealed, covered container trucks protecting them from rain, road dust, and flying highway gravel.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-home"></i></div>
-          <h3>Doorstep Pickup &amp; Delivery</h3>
-          <p>Hassle-free doorstep pickup from any locality in Samthar Tehsil and direct delivery to your home or office in the destination city.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon"><i class="fas fa-file-invoice"></i></div>
-          <h3>IBA Approved GST Billing</h3>
-          <p>100% valid GST invoices suitable for defense personnel, government employees, and corporate relocation allowance claims.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 5: Specialized Services Breakdown -->
-  <section class="services-breakdown-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Specialized Two-Wheeler Relocation Options</h2>
-        <p>Tailored packaging and shipping methods for all bike categories</p>
+  <!-- 5. Transparent Pricing Table -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Matrix</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Estimated Bike Transport Rates for Samthar
+      </h2>
+
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: #101c40; border-radius: 12px; overflow: hidden; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: #172a54; color: #f59e0b; text-align: left;">
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Two-Wheeler Category</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Regional (Jhansi / Gwalior / Kanpur / Orai)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Interstate (Delhi NCR / Jaipur / Patna / Lucknow)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Long Distance (Mumbai / Pune / Bengaluru / Ranchi)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Scooters (Activa, Jupiter, Access)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹1,800 - ₹2,600</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,200 - ₹5,400</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,500 - ₹8,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Commuter Bikes (100cc - 150cc)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹2,000 - ₹2,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,500 - ₹5,600</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,800 - ₹8,900</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Cruiser / Adventure (Himalayan, Bullet, KTM)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹2,400 - ₹3,400</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹5,200 - ₹6,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹7,800 - ₹9,800</td>
+            </tr>
+            <tr>
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Superbikes / Rigid Wooden Crate</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹3,400 - ₹4,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹7,000 - ₹9,200</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹10,200 - ₹14,500</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
-      <div class="services-grid">
-        <div class="service-card">
-          <h3>Standard Scooter &amp; Moped Shifting</h3>
-          <p>Safe, economical parcel transport for Honda Activa, Jupiter, and Access scooters with full panel wrapping.</p>
-        </div>
-        <div class="service-card">
-          <h3>Cruiser &amp; Heavy Royal Enfield Transport</h3>
-          <p>Reinforced frame tie-downs and heavy-duty suspension locks for Royal Enfield Classic, Bullet, and Jawa motorcycles.</p>
-        </div>
-        <div class="service-card">
-          <h3>Sports &amp; Superbike Shipping</h3>
-          <p>Specialized wooden crate packaging and soft microfiber body coverings for premium fairing bikes (KTM, Yamaha R15, Kawasaki, BMW).</p>
-        </div>
-        <div class="service-card">
-          <h3>Interstate Long-Distance Bike Parcel</h3>
-          <p>Direct door-to-door bike shipping connecting Samthar, Jhansi to Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Patna, and Ranchi.</p>
-        </div>
-        <div class="service-card">
-          <h3>Defense &amp; Police Officer Bike Relocation</h3>
-          <p>Priority handling and official IBA documentation for armed forces personnel moving across military cantonments.</p>
-        </div>
-        <div class="service-card">
-          <h3>Student &amp; Executive Express Transport</h3>
-          <p>Budget-friendly motorcycle transport services for college students and working professionals relocating for jobs.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 6: 7-Layer Safety Packaging Framework -->
-  <section class="safety-framework-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Our 7-Step Bike Safety Framework</h2>
-        <p>Meticulous step-by-step procedures ensuring 100% damage-free motorcycle transport</p>
+  <!-- 6. 7-Layer Bike Safety Protocol -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Samthar Vibration-Shield Packaging Protocol
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Pre-Loading Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Scratch inspection &amp; fuel draining under 1 liter.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Bubble Wrap Layer</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Wrapping fuel tank, fairings, side panels &amp; mudguards in heavy bubble wrap.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 03</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Corrugated Sheet Armor</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Encasing headlights, mirrors, exhaust &amp; indicators in heavy corrugated sheets.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 04</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Vibration Barrier Film</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Tightly wrapping heavy-duty stretch film around motorcycle frame.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 05</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Hydraulic Ramp Loading</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Guiding bike up non-slip hydraulic ramp into covered container truck bed.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Chock &amp; Strap Anchoring</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Locking front wheel in steel chock + 4-point industrial ratchet straps.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Doorstep Unpacking &amp; Handover</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Unpacking &amp; physical condition verification prior to final handover signature.</p>
+        </div>
       </div>
-      <div class="safety-grid">
-        <div class="safety-step">
-          <div class="step-num">1</div>
-          <h4>Fuel &amp; Fluids Draining</h4>
-          <p>Fuel levels are reduced below 1-2 liters and battery terminals checked to comply with highway fire safety regulations.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">2</div>
-          <h4>Mirror &amp; Accessory Disassembly</h4>
-          <p>Rearview mirrors, leg guards, and windscreen accessories are detached, bubble wrapped, and labeled separately.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">3</div>
-          <h4>Soft Foam Primary Wrap</h4>
-          <p>High-density foam sheets are wrapped around painted fuel tanks, mudguards, side panels, and exhaust pipes.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">4</div>
-          <h4>80-GSM Shock Bubble Wrap</h4>
-          <p>A second thick layer of heavy-duty bubble wrap absorbs road vibrations and guards against impact shock.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">5</div>
-          <h4>Corrugated Carton Sheet Covering</h4>
-          <p>Heavy cardboard sheets are folded around the entire motorcycle frame to prevent punctures or scuffs.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">6</div>
-          <h4>Waterproof Stretch Film Sealing</h4>
-          <p>The bike is tightly wrapped in waterproof plastic film to safeguard against rain, moisture, and dust during transit.</p>
-        </div>
-        <div class="safety-step">
-          <div class="step-num">7</div>
-          <h4>Wheel Stand Lock &amp; Belt Anchoring</h4>
-          <p>The bike is wheeled into the container truck, mounted on a steel chock, and tied down with 4 ratcheted nylon belts.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 7: Origin Pickup Locality Grid -->
-  <section class="locality-grid-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Nearby Pickup Locations Covered in Samthar &amp; Jhansi Region</h2>
-        <p>Doorstep bike pickup available across Samthar Tehsil and neighboring centers</p>
+  <!-- 7. Samthar Localities Covered -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Coverage Area</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Serving All Major <span style="color: #f59e0b;">Samthar Localities &amp; Surrounding Bundelkhand Sectors</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Town &amp; Fort Hubs</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Samthar Main Market, Fort Area, Moth Road, Erach Road, Poonch Junction.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Jhansi District Towns</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Jhansi City, Moth, Mauranipur, Babina Cantt, Chirgaon, Garautha.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Bundelkhand &amp; MP Hubs</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Orai, Lalitpur, Datia, Gwalior, Shivpuri, Tikamgarh, Sagar, Mahoba.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">North &amp; Central Metros</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Delhi NCR, Jaipur, Kanpur, Lucknow, Indore, Bhopal, Agra, Prayagraj.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">East India Hubs</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Patna, Ranchi, Dhanbad, Gorakhpur, Varanasi, Gaya, Jamshedpur.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Pan-India Destinations</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Mumbai, Pune, Bengaluru, Hyderabad, Ahmedabad, Kolkata.</p>
+        </div>
       </div>
-      <div class="locality-grid">
-        <a href="<?php echo SITE_URL; ?>/pages/car-transportation-in-jhansi.php" class="locality-card">Bike Transportation in Jhansi City</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-samthar.php" class="locality-card active">Bike Transportation in Samthar Main</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-orai.php" class="locality-card">Bike Transportation in Orai</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-lalitpur.php" class="locality-card">Bike Transportation in Lalitpur</a>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 8: Intercity Route Network Grid -->
-  <section class="routes-grid-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Popular Bike Shipping Routes from Samthar</h2>
-        <p>Frequent motorcycle container routes connecting Samthar, Jhansi to top destinations</p>
+  <!-- 8. Popular Intercity Routes from Samthar -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Route Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Intercity Bike Shipping Corridors from Samthar
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Jhansi / Gwalior / Kanpur / Orai</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Daily express shuttles via NH-27 and SH-42 taking 2 to 5 hours.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Delhi NCR / Noida / Ghaziabad / Gurugram</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Express covered container transport taking 12 to 24 hours.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Patna / Ranchi / Lucknow / Indore</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Interstate container transport taking 24 to 36 hours.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Samthar to Mumbai / Pune / Bengaluru / Hyderabad</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Long-distance sealed container carriers taking 2 to 4 days.</p>
+        </div>
       </div>
-      <div class="routes-grid">
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-delhi.php" class="route-card">Samthar to Delhi NCR Bike Courier</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-lucknow.php" class="route-card">Samthar to Lucknow Motorcycle Shifting</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-gwalior.php" class="route-card">Samthar to Gwalior Bike Transport</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-ranchi.php" class="route-card">Samthar to Ranchi Two-Wheeler Shipping</a>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 9: IBA Approved GST Billing Documentation -->
-  <section class="billing-docs-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>IBA Approved GST Billing &amp; Claim Documents</h2>
-        <p>Complete official documentation for seamless company reimbursement</p>
+  <!-- 9. Official Claims Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing &amp; Govt / Corporate Claims
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Trackable Relocation Claim Package:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Itemized GST Freight Invoice</strong> with SAC Code 996511 listing freight charges.</li>
+          <li><strong>Pre-Loading Vehicle Condition Audit Form</strong>.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with trackable 10-digit number.</li>
+          <li><strong>IBA Approved Registration Code &amp; Official Stamp</strong>.</li>
+          <li><strong>Full Transit Risk Insurance Certificate</strong>.</li>
+          <li><strong>Official Money Receipt</strong> for 100% railway/government/defense/corporate claim reimbursement.</li>
+        </ol>
       </div>
-      <div class="docs-grid">
-        <div class="doc-card">
-          <i class="fas fa-file-invoice"></i>
-          <h4>Itemized GST Invoice (18%)</h4>
-          <p>Official tax invoice specifying SAC code 996511 with full customer details.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-truck-loading"></i>
-          <h4>Consignment Lorry Receipt (LR)</h4>
-          <p>Legal transport document authorizing state border check-post passage.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-clipboard-check"></i>
-          <h4>Bike Condition Report</h4>
-          <p>Dual-signed inspection form logging engine number, fuel level, and body state.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-shield-alt"></i>
-          <h4>Transit Insurance Certificate</h4>
-          <p>Official insurance policy paper covering marine and transit road risks.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-receipt"></i>
-          <h4>Payment Receipt</h4>
-          <p>Official stamped payment acknowledgment for advance and balance amounts.</p>
-        </div>
-        <div class="doc-card">
-          <i class="fas fa-stamp"></i>
-          <h4>IBA Approval Authorization</h4>
-          <p>Documented IBA approval credentials for defense and public sector transport claims.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Section 10: Detailed FAQs & FAQPage Schema -->
-  <section class="faq-section">
-    <div class="container">
-      <div class="section-header">
-        <h2>Frequently Asked Questions — Bike Transportation in Samthar</h2>
-        <p>Common questions about motorcycle shifting from Samthar, Jhansi answered.</p>
+  <!-- 10. 10 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions — <span style="color: #f59e0b;">Samthar Bike Transport</span>
+        </h2>
       </div>
 
-      <div class="faq-grid">
-        <div class="faq-item">
-          <h3 class="faq-question">How is my bike packed for transport from Samthar?</h3>
-          <div class="faq-answer">
-            <p>Your bike undergoes a 4-layer packaging process: soft foam sheets over painted panels, 80-GSM bubble wrap for shock absorption, heavy corrugated cardboard sheets, and a outer waterproof stretch film wrap.</p>
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
           </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Do you pick up the bike directly from my home in Samthar?</h3>
-          <div class="faq-answer">
-            <p>Yes, we provide doorstep pickup from anywhere in Samthar Tehsil and doorstep delivery at your destination address anywhere in India.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">How much petrol should remain in the bike tank during transit?</h3>
-          <div class="faq-answer">
-            <p>For safety reasons, please keep fuel levels to approximately 1-2 liters so the motorcycle can be ridden onto local pickup and delivery ramps without leaking.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Is transit insurance mandatory for bike shipping?</h3>
-          <div class="faq-answer">
-            <p>We strongly recommend transit insurance. We provide comprehensive insurance underwritten by national insurers covering damage, accident, or loss during highway transit.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">What is the cost of bike transportation from Samthar to Delhi NCR?</h3>
-          <div class="faq-answer">
-            <p>Bike transport rates depend on motorcycle engine capacity (cc), model, destination, and packaging tier. Contact us at 8409531615 for an instant, exact price quote.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">How long does it take to deliver a bike from Samthar to Lucknow or Delhi?</h3>
-          <div class="faq-answer">
-            <p>Typical delivery takes 24 to 48 hours for Delhi NCR and Lucknow, and 3 to 5 days for long-distance routes like Mumbai, Bangalore, or Patna.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">What documents do I need to hand over during bike pickup?</h3>
-          <div class="faq-answer">
-            <p>You need to provide a photocopy of the bike Registration Certificate (RC), valid insurance policy, and owner ID proof (Aadhaar or Driving License).</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Do you offer IBA approved bills for defense or government employee claims?</h3>
-          <div class="faq-answer">
-            <p>Yes, we provide 100% IBA approved GST bills, Consignment Notes (LR), and money receipts valid for all government, military, and corporate claim reimbursements.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">Are rearview mirrors and accessories safe during transport?</h3>
-          <div class="faq-answer">
-            <p>Yes, rearview mirrors and detachable accessories are unbolted, wrapped individually in bubble film, and stored securely with the bike.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <h3 class="faq-question">How can I book bike transportation in Samthar?</h3>
-          <div class="faq-answer">
-            <p>Call us directly at +91 8409531615 or submit your details in the hero form above. Our team will coordinate your doorstep pickup promptly.</p>
-          </div>
-        </div>
+        <?php endforeach; ?>
       </div>
+
     </div>
   </section>
 
-  <!-- Section 11: Call-To-Action (CTA) Conversion Footer -->
-  <section class="cta-footer-section">
-    <div class="container">
-      <div class="cta-card">
-        <h2>Ready to Ship Your Bike from Samthar, Jhansi?</h2>
-        <p>Book safe, 4-layer protected two-wheeler transport with India's trusted relocation brand.</p>
-        <div class="cta-actions">
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn-call-large"><i class="fas fa-phone-alt"></i> Call <?php echo SITE_PHONE; ?></a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20to%20book%20bike%20transportation%20from%20Samthar." target="_blank" class="btn-whatsapp-large"><i class="fab fa-whatsapp"></i> Chat on WhatsApp</a>
-        </div>
+  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Bike Transportation in Samthar
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Ready for <span style="color: #f59e0b;">Damage-Free Bike Shipping</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Get your instant price estimate today! Free doorstep pickup across Samthar Market, Fort Area, Moth Road &amp; Erach Road, 7-layer shockproof packaging, and 100% insured container truck delivery.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Support" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Support: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Samthar." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
       </div>
+
     </div>
   </section>
 
 </main>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is my bike packed for transport from Samthar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your bike undergoes a 4-layer packaging process: soft foam sheets over painted panels, 80-GSM bubble wrap for shock absorption, heavy corrugated cardboard sheets, and a outer waterproof stretch film wrap."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you pick up the bike directly from my home in Samthar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide doorstep pickup from anywhere in Samthar Tehsil and doorstep delivery at your destination address anywhere in India."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much petrol should remain in the bike tank during transit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For safety reasons, please keep fuel levels to approximately 1-2 liters so the motorcycle can be ridden onto local pickup and delivery ramps without leaking."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance mandatory for bike shipping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We strongly recommend transit insurance. We provide comprehensive insurance underwritten by national insurers covering damage, accident, or loss during highway transit."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the cost of bike transportation from Samthar to Delhi NCR?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bike transport rates depend on motorcycle engine capacity (cc), model, destination, and packaging tier. Contact us at 8409531615 for an instant, exact price quote."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does it take to deliver a bike from Samthar to Lucknow or Delhi?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typical delivery takes 24 to 48 hours for Delhi NCR and Lucknow, and 3 to 5 days for long-distance routes like Mumbai, Bangalore, or Patna."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents do I need to hand over during bike pickup?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You need to provide a photocopy of the bike Registration Certificate (RC), valid insurance policy, and owner ID proof (Aadhaar or Driving License)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you offer IBA approved bills for defense or government employee claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide 100% IBA approved GST bills, Consignment Notes (LR), and money receipts valid for all government, military, and corporate claim reimbursements."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are rearview mirrors and accessories safe during transport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, rearview mirrors and detachable accessories are unbolted, wrapped individually in bubble film, and stored securely with the bike."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I book bike transportation in Samthar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Call us directly at +91 8409531615 or submit your details in the hero form above. Our team will coordinate your doorstep pickup promptly."
-      }
-    }
-  ]
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI am requesting a Bike Transport Quote for Samthar, UP:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- Destination City: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Bike Model: " + extraMsg;
+  }
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
 }
 </script>
 

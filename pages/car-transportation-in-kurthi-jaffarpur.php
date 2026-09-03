@@ -3,8 +3,8 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Kurthi Jaffarpur Mau | Safe Car Carrier Services";
 $page_desc = "Safe car transportation in Kurthi Jaffarpur Mau, Uttar Pradesh. Enclosed hydraulic car carrier trailers, doorstep vehicle pickup near Mau Cantt & Purvanchal highway corridor, transit insurance & IBA approved GST bills. Call 8409531615.";
-$page_keywords = "car transportation in kurthi jaffarpur, car shipping kurthi jaffarpur mau, car carrier kurthi jaffarpur mau, car packers movers kurthi jaffarpur, IBA approved car transport mau, vehicle transport kurthi jaffarpur, car shifting charges mau";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/car-transportation-in-mau";
+$page_keywords = "car transportation in kurthi jaffarpur, interstate vehicle transport, car moving company, auto logistics, car shipping services, vehicle transport rates, IBA approved car transport mau";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-kurthi-jaffarpur.php";
 
 $page_city = "Kurthi Jaffarpur, Mau, Uttar Pradesh";
 
@@ -53,7 +53,7 @@ require_once __DIR__ . '/../includes/header.php';
             Safe &amp; Insured <span style="color: #f59e0b;">Car Transportation in Kurthi Jaffarpur Mau</span>
           </h1>
           <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers provides top-tier car transportation in Kurthi Jaffarpur, Mau (UP). Operating via the Mau regional transit corridors, we offer hydraulic container car carriers, 7-layer safety wrapping, full transit insurance, and 100% IBA-approved GST billing.
+            Shree Ashirwad Packers and Movers is a trusted <strong>car moving company</strong> providing professional <strong>car transportation in Kurthi Jaffarpur</strong>, Mau (UP). Specializing in <strong>interstate vehicle transport</strong> and complete <strong>auto logistics</strong>, we offer premium <strong>car shipping services</strong>, transparent <strong>vehicle transport rates</strong>, hydraulic container carriers, and 100% IBA-approved GST billing.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">

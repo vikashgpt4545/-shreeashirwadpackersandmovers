@@ -3,14 +3,15 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transportation in Machhlishahr Jaunpur | Safe Enclosed Car Shipping";
 $page_desc = "Reliable car transportation in Machhlishahr Tehsil, Jaunpur. Doorstep car shipping with enclosed & open vehicle carriers, transit insurance, and GPS tracking. Call 8409531615.";
-$page_keywords = "car transportation in machhlishahr jaunpur, best car transportation in machhlishahr, car shipping machhlishahr jaunpur, vehicle transport machhlishahr up, IBA approved car transport machhlishahr";
+$page_keywords = "car transportation in machhlishahr jaunpur, best car transportation in machhlishahr, vehicle carrier, motor transport, trans cars, IBA approved car transport machhlishahr";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/car-transportation-in-jaunpur";
 
 $page_city = "Machhlishahr, Jaunpur, Uttar Pradesh";
 
 $faq_list = [
-    ['q' => 'How is car transportation charged in Machhlishahr Tehsil, Jaunpur?', 'a' => 'Car shipping from Machhlishahr depends on vehicle type (hatchback, sedan, SUV) and destination distance. Interstate transport ranges from ₹7,500 to ₹18,500 with complete insurance and enclosed carrier protection.'],
-    ['q' => 'Do you offer doorstep car pickup in Machhlishahr Tehsil?', 'a' => 'Yes, our certified car carriers pick up your vehicle directly from your address in Machhlishahr main market, Station Road, or Prayagraj link road.'],
+    ['q' => 'How is car transportation charged in Machhlishahr Tehsil, Jaunpur?', 'a' => 'Car shipping from Machhlishahr depends on vehicle type (hatchback, sedan, SUV) and destination distance. Interstate motor transport ranges from ₹7,500 to ₹18,500 with complete insurance and enclosed vehicle carrier protection.'],
+    ['q' => 'What makes Shree Ashirwad the preferred choice for trans cars logistics in Machhlishahr?', 'a' => 'We deploy dedicated enclosed vehicle carrier trucks for scratch-free trans cars relocation, complete with hydraulic loading decks, 100% IBA GST invoicing, and real-time WhatsApp GPS updates.'],
+    ['q' => 'Do you offer doorstep car pickup in Machhlishahr Tehsil?', 'a' => 'Yes, our certified vehicle carrier drivers pick up your car directly from your address in Machhlishahr main market, Station Road, or Prayagraj link road.'],
     ['q' => 'What type of car carriers are used for transport from Machhlishahr?', 'a' => 'We deploy covered container car carriers for scratch-free protection as well as cost-effective open multi-car hydraulic trailers.'],
     ['q' => 'What documents are required to transport a car from Machhlishahr Jaunpur?', 'a' => 'Required documents include RC copy, valid vehicle insurance certificate, owner ID proof, and consignment note (LR copy).'],
     ['q' => 'Is transit insurance included during car shipping from Machhlishahr?', 'a' => 'Yes, full-value vehicle transit insurance (1.5% of declared vehicle value) is provided covering scratch, collision, or accidental risks.'],
@@ -53,7 +54,7 @@ require_once __DIR__ . '/../includes/header.php';
             Professional <span style="color: #f59e0b;">Car Transportation in Machhlishahr Jaunpur</span>
           </h1>
           <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers provides safe, scratch-free car shipping across Machhlishahr Tehsil (Jaunpur). Featuring enclosed container car carriers, doorstep pickup/delivery, 100% transit insurance, and GPS tracking across India.
+            Shree Ashirwad Packers and Movers provides safe, scratch-free <strong>motor transport</strong> and <strong>trans cars</strong> relocation across Machhlishahr Tehsil (Jaunpur). Featuring specialized <strong>vehicle carrier</strong> container trucks, doorstep pickup/delivery, 100% transit insurance, and GPS tracking across India.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">

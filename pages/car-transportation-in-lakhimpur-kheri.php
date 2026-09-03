@@ -1,16 +1,16 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Car Transportation in Lakhimpur Kheri | Insured Car Shipping UP";
-$page_desc = "Safe car transportation in Lakhimpur Kheri, Uttar Pradesh. Doorstep pickup via Sitapur highway, enclosed hydraulic car container trucks, transit insurance & 100% IBA GST bills. Call 8409531615.";
-$page_keywords = "car transportation in lakhimpur kheri, car carrier lakhimpur kheri, car shipping lakhimpur kheri to delhi, enclosed car carrier lakhimpur kheri, IBA approved car transport lakhimpur kheri, vehicle transport charges lakhimpur kheri";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/car-transportation-in-lakhimpur-kheri";
+$page_title = "Car Transportation in Lakhimpur Kheri | Vehicle Shipping Companies";
+$page_desc = "Safe car transportation in Lakhimpur Kheri by Shree Ashirwad Packers and Movers. Professional car courier service and auto logistics companies offering transparent interstate car transport charges & car shipping cost quotes.";
+$page_keywords = "car transportation in lakhimpur kheri, interstate car transport charges, car courier service, auto logistics companies, car shipping cost quote, vehicle shipping companies";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-lakhimpur-kheri.php";
 
 $page_city = "Lakhimpur Kheri, Uttar Pradesh";
 
 $faq_list = [
     ['q' => 'How are cars safely loaded for transport in Lakhimpur Kheri?', 'a' => 'Cars are loaded using hydraulic container ramps onto enclosed vehicle carriers and secured with 4-point wheel tie-down belts and rubber wheel stoppers.'],
-    ['q' => 'What is the cost of car transportation from Lakhimpur Kheri to Lucknow, Delhi, or Mumbai?', 'a' => 'Regional car transport to Lucknow starts at ₹4,000–₹5,800, while long-distance shipping to Delhi, Mumbai, or Bengaluru ranges from ₹8,500 to ₹18,000.'],
+    ['q' => 'What are the interstate car transport charges from Lakhimpur Kheri?', 'a' => 'Regional car transport to Lucknow starts at ₹4,000–₹5,800, while interstate car transport charges to Delhi, Mumbai, or Bengaluru range from ₹8,500 to ₹18,000.'],
     ['q' => 'Is doorstep car pickup available in Lakhimpur Kheri?', 'a' => 'Yes, our certified drivers provide doorstep car pickup from Lakhimpur Civil Lines, Kheri town, Gola Gokarannath, Palia Kalan, and across the district.'],
     ['q' => 'Do you provide IBA approved GST bills for car carrier reimbursement?', 'a' => 'Yes, we supply 100% genuine IBA-approved GST invoices, consignment Lorry Receipts (LR), and pre-loading car condition inspection reports.'],
     ['q' => 'Is transit insurance included during car shipping from Lakhimpur Kheri?', 'a' => 'Yes, full transit insurance coverage (1.5% to 3% of declared vehicle value) is arranged to protect against highway accidents or damage.'],
@@ -18,7 +18,7 @@ $faq_list = [
     ['q' => 'What documents are required to dispatch a car from Lakhimpur Kheri?', 'a' => 'You need a copy of the Car Registration Certificate (RC), valid insurance copy, owner ID proof (Aadhaar/PAN), and our joint vehicle condition sheet.'],
     ['q' => 'How long does car carrier delivery take from Lakhimpur Kheri?', 'a' => 'Transit to Lucknow takes 24-36 hours, while long-distance shipping to Delhi, Mumbai, or Bengaluru takes 3 to 5 days.'],
     ['q' => 'How can I track my car while in transit from Lakhimpur Kheri?', 'a' => 'All our car carrier trucks feature live GPS tracking, and our support team sends regular location updates on WhatsApp.'],
-    ['q' => 'How do I book car carrier service in Lakhimpur Kheri?', 'a' => 'Call +91 8409531615 or click Chat on WhatsApp for an instant written quote and car carrier slot booking.']
+    ['q' => 'How do I get an instant car shipping cost quote in Lakhimpur Kheri?', 'a' => 'Call +91 8409531615 or click Chat on WhatsApp for an instant car shipping cost quote and carrier slot booking.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -45,13 +45,13 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            IBA Approved Car Carrier Lakhimpur Kheri
+            Top Vehicle Shipping Companies Lakhimpur Kheri
           </span>
           <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Safe &amp; Insured <span style="color: #f59e0b;">Car Transportation in Lakhimpur Kheri</span>
           </h1>
           <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Looking for reliable car shipping from Lakhimpur Kheri (UP)? Shree Ashirwad Packers and Movers provides enclosed hydraulic container trucks, 4-point wheel tie-downs, doorstep vehicle pickup, full transit insurance, and 100% IBA-approved GST bills.
+            Shree Ashirwad Packers and Movers ranks among top <strong>vehicle shipping companies</strong> and premier <strong>auto logistics companies</strong> providing trusted <strong>car transportation in Lakhimpur Kheri</strong>. As a reliable <strong>car courier service</strong>, we offer transparent <strong>interstate car transport charges</strong>, instant <strong>car shipping cost quotes</strong>, enclosed hydraulic containers, and 100% IBA-approved GST bills.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">

@@ -2,53 +2,21 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Bike Transportation in Giridih | Safe Two-Wheeler Shifting JH-11";
-$page_desc = "Professional bike transportation in Giridih (JH-11 RTO), Jharkhand. Insured doorstep motorcycle relocation via GT Road (NH-19), SH-11 & Parasnath corridor.";
-$page_keywords = "bike transportation in giridih, best bike transportation in giridih, affordable bike shifting giridih, bike packers and movers giridih, doorstep bike transport giridih";
+$page_desc = "Looking for bike transportation in Giridih (JH-11 RTO)? Shree Ashirwad Packers offers 7-layer bubble wrap packaging, custom wooden crating, transit insurance, and doorstep pickup across Makatpur, Barganda, Pachamba, Buxidih, Sirsia, Dumri Road, and New Barganda. Call 8409531615.";
+$page_keywords = "bike transportation in giridih, best bike transportation in giridih, affordable bike shifting giridih, bike packers and movers giridih, doorstep bike transport giridih, bike transport service, bike transport cost, bike transport by train, railway bike transport charges, giridih bike transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-giridih.php";
 
-$page_city = "Giridih, Jharkhand";
-
 $faq_list = [
-    [
-        'q' => 'How is bike transportation safely executed in Giridih (JH-11 RTO)?',
-        'a' => 'Motorcycles undergo pre-transit physical inspection, fuel draining under 1 liter, 7-layer bubble wrapping, corrugated sheet encasing, handlebar foam padding, and nylon belt anchorage inside enclosed container trucks.'
-    ],
-    [
-        'q' => 'What are the bike transport charges from Giridih to Ranchi, Dhanbad, or Delhi?',
-        'a' => 'Local/regional two-wheeler transport charges to nearby hubs (Ranchi, Dhanbad, Bokaro) range from ₹1,800 to ₹3,500 for standard bikes, and ₹4,000 to ₹7,500 for interstate delivery to Delhi, Mumbai, or Kolkata.'
-    ],
-    [
-        'q' => 'Which major transport highway corridors serve Giridih bike shipping?',
-        'a' => 'Key transit routes include NH-19 (GT Road via Dumri / Isri), SH-11 (Giridih-Koderma road), Parasnath bypass, and Buxidih road.'
-    ],
-    [
-        'q' => 'Do you collect motorcycles from all Giridih residential & industrial areas?',
-        'a' => 'Yes, free doorstep pickup is available across Makatpur, Barganda, Pachamba, Buxidih, Sirsia, Dumri Road, and New Barganda.'
-    ],
-    [
-        'q' => 'Is transit insurance included for bike transport in Giridih?',
-        'a' => 'Yes, full-value transit insurance policies (1.5% to 3% of declared motorcycle value) are issued covering your vehicle against highway transit hazards.'
-    ],
-    [
-        'q' => 'How long does bike delivery take from Giridih to major Indian metros?',
-        'a' => 'Regional deliveries within Jharkhand and Bihar take 24–48 hours, while long-distance transit to Delhi, Mumbai, or Bengaluru takes 3–5 days.'
-    ],
-    [
-        'q' => 'What documents are required to dispatch a motorcycle from Giridih?',
-        'a' => 'Required documentation includes RC copy, active bike insurance certificate copy, owner Aadhaar card copy, and signed vehicle condition sheet.'
-    ],
-    [
-        'q' => 'Must the fuel tank be emptied before shipping from Giridih?',
-        'a' => 'Yes, fuel must be drained under 1 liter to comply with national highway transport safety and fire prevention regulations.'
-    ],
-    [
-        'q' => 'Do you provide IBA approved GST bills for mining/corporate claim reimbursement?',
-        'a' => 'Yes, 100% genuine IBA-compliant GST consignment tax invoices, LR copies, and payment receipts are supplied for employee relocation claims.'
-    ],
-    [
-        'q' => 'How can I book bike transport service in Giridih?',
-        'a' => 'Call +91 8409531615 or submit your motorcycle details on WhatsApp for an instant written price quotation and booking confirmation.'
-    ]
+    ['q' => 'How is bike transportation safely executed in Giridih (JH-11 RTO)?', 'a' => 'Motorcycles undergo pre-transit physical inspection, fuel draining under 1 liter, 7-layer bubble wrapping, corrugated sheet encasing, handlebar foam padding, and nylon belt anchorage inside enclosed container trucks.'],
+    ['q' => 'What are the bike transport charges from Giridih to Ranchi, Dhanbad, or Delhi?', 'a' => 'Local/regional two-wheeler transport charges to nearby hubs (Ranchi, Dhanbad, Bokaro) range from ₹1,800 to ₹3,500 for standard bikes, and ₹4,500 to ₹8,500 for interstate delivery to Delhi, Mumbai, or Kolkata.'],
+    ['q' => 'Which major transport highway corridors serve Giridih bike shipping?', 'a' => 'Key transit routes include GT Road NH-19 (via Dumri / Isri), SH-11 (Giridih-Koderma highway), Parasnath bypass, and Buxidih freight hub.'],
+    ['q' => 'Do you collect motorcycles from all Giridih residential & mining/industrial areas?', 'a' => 'Yes, free doorstep pickup is available across Makatpur, Barganda, Pachamba, Buxidih, Sirsia, Dumri Road, and New Barganda.'],
+    ['q' => 'Is transit insurance included for bike transport in Giridih?', 'a' => 'Yes, full-value transit insurance policies (0.3% declared valuation) are issued protecting your motorcycle against highway transit hazards.'],
+    ['q' => 'How long does bike delivery take from Giridih to major Indian metros?', 'a' => 'Regional deliveries within Jharkhand and Bihar take 24–48 hours, while long-distance transit to Delhi, Mumbai, or Bengaluru takes 3 to 5 days.'],
+    ['q' => 'What documents are required to dispatch a motorcycle from Giridih?', 'a' => 'Required documentation includes RC copy, active bike insurance certificate copy, owner Aadhaar card copy, and signed vehicle inspection sheet.'],
+    ['q' => 'Must the fuel tank be emptied before shipping from Giridih?', 'a' => 'Yes, fuel must be drained under 1 liter to comply with national highway transport safety and fire prevention regulations.'],
+    ['q' => 'Do you provide IBA approved GST bills for corporate, mining, or government claim reimbursement?', 'a' => 'Yes, 100% genuine IBA-compliant GST consignment tax invoices with SAC Code 996511, LR copies, and payment receipts are supplied.'],
+    ['q' => 'How can I book bike transport service in Giridih?', 'a' => 'Call +91 8409531615 or submit your motorcycle details on WhatsApp for an instant written price quotation and booking confirmation.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
@@ -56,18 +24,18 @@ require_once __DIR__ . '/../includes/header.php';
 
 <main class="site-main">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active">Bike Transportation in Giridih</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -75,18 +43,18 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BIKE TRANSPORTATION GIRIDIH (JH-11 JHARKHAND)
+            GIRIDIH (JH-11 JHARKHAND) BIKE LOGISTICS
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transportation in Giridih</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Shree Ashirwad Packers and Movers delivers safe, insured, and doorstep motorcycle transport across Giridih (JH-11 RTO) via GT Road (NH-19) and SH-11 corridors. Equipped with 7-layer bubble packaging, closed container carriers, and 100% IBA-approved GST bills.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Shree Ashirwad Packers and Movers delivers safe, insured, and doorstep motorcycle transport across Giridih (JH-11 RTO) via GT Road (NH-19) and SH-11 express corridors. Equipped with 7-layer bubble packaging, covered container carriers, and IBA-approved GST bills.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Desk" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Support: <?php echo SITE_PHONE; ?>
             </a>
             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Giridih." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
@@ -94,30 +62,33 @@ require_once __DIR__ . '/../includes/header.php';
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Packaging</span>
-            <span><strong style="color: #f59e0b;">Doorstep</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">Custom Wooden</strong> Crating</span>
+            <span><strong style="color: #f59e0b;">Zero Scratch</strong> Guarantee</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> GST Bill</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
           <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Giridih Bike Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp</p>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive instant transparent price on WhatsApp</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit WhatsApp Mobile Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Giridih" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Giridih (JH)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Instant Bike Estimate &rarr;
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Bike Model (e.g. Royal Enfield 350 / Activa / Pulsar)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
+              Get Instant Estimate Now &rarr;
             </button>
           </form>
         </div>
@@ -126,49 +97,140 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Detailed Service & Rate Matrix Section -->
-  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
-    <div class="container" style="max-width: 1000px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">
-        GIRIDIH RELOCATION LOGISTICS
-      </span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Doorstep Motorcycle Shipping in <span style="color: #f59e0b;">Giridih</span>
-      </h2>
-      
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px;">
-        Shree Ashirwad Packers and Movers provides safe two-wheeler relocation across Makatpur, Barganda, Pachamba, Buxidih, Sirsia, Dumri Road, and New Barganda in Giridih. We utilize heavy-duty 7-layer bubble wrapping, foam guards for indicators and mirrors, and nylon belt anchorage inside enclosed container trucks.
-      </p>
+  <!-- 3. Key Stats Counter Bar -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">₹1,800+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Starting Regional Shifting</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">NH-19</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Direct GT Road Logistics</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">7-Layer</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Scratch-Proof Packing</div>
+        </div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">0.3% Insured</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Full Transit Risk Coverage</div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-      <!-- Rate Matrix Table -->
-      <div style="overflow-x: auto; margin: 40px 0;">
-        <h3 style="font-size: 1.5rem; color: #ffffff; font-weight: 700; margin-bottom: 15px;">
-          Estimated Bike Transport Rates for Giridih
-        </h3>
-        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
+  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
+    <div class="container">
+      
+      <div style="max-width: 950px; margin: 0 auto;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Logistics Excellence</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Giridih Bike Transportation</span>
+        </h2>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box-open"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Rigid Crate Packaging</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Optional heavy wooden frame crating for premium sports bikes, Bullet 350, and vintage motorcycles.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-layer-group"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Defense</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Heavy bubble wrapping, corrugated sheets, engine foam padding, and moisture barrier stretch wrap.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-pickup"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Pickup Across JH-11</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Pickup available across Makatpur, Barganda, Pachamba, Buxidih, Sirsia &amp; Dumri Road.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              0.3% comprehensive policy covering full vehicle valuation against road mishaps during transit.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-moving"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Closed Container Fleet</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              All-weather covered container trucks preventing rain, dust, and highway vibration damage.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Official GST invoices suitable for Corporate, Mining, Govt &amp; Bank claim reimbursement.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 5. Transparent Pricing Table -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Matrix</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Estimated Bike Transport Rates for Giridih
+      </h2>
+
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: #101c40; border-radius: 12px; overflow: hidden; font-size: 0.95rem;">
           <thead>
-            <tr style="background: #1e3a8a; color: #f59e0b; text-align: left;">
-              <th style="padding: 14px 16px;">Vehicle Category</th>
-              <th style="padding: 14px 16px;">Regional Transit (Ranchi / Dhanbad / Bokaro)</th>
-              <th style="padding: 14px 16px;">Interstate Metros (Delhi / Mumbai / Kolkata)</th>
+            <tr style="background: #172a54; color: #f59e0b; text-align: left;">
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Two-Wheeler Category</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Regional (Ranchi / Dhanbad)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Interstate (Delhi / Kolkata)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Long Distance (Bangalore / Mumbai)</th>
             </tr>
           </thead>
           <tbody>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Standard Scooters (Activa, Jupiter)</td>
-              <td style="padding: 12px 16px; color: #6ee7b7;">₹1,800 - ₹2,800</td>
-              <td style="padding: 12px 16px; color: #cbd5e1;">₹4,000 - ₹6,000</td>
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Scooters (Activa, Jupiter, Access)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹1,800 - ₹2,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹3,500 - ₹4,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,800 - ₹6,500</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Commuter Motorcycles (100cc - 150cc)</td>
-              <td style="padding: 12px 16px; color: #6ee7b7;">₹2,200 - ₹3,200</td>
-              <td style="padding: 12px 16px; color: #cbd5e1;">₹4,500 - ₹6,800</td>
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Commuter Bikes (100cc - 150cc)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹2,200 - ₹3,000</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,000 - ₹5,200</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹5,200 - ₹7,200</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 12px 16px; font-weight: 700; color: #fff;">Sports & Cruisers (Bullet, Duke, Apache)</td>
-              <td style="padding: 12px 16px; color: #6ee7b7;">₹2,800 - ₹4,200</td>
-              <td style="padding: 12px 16px; color: #cbd5e1;">₹5,500 - ₹8,500</td>
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Sports / Cruiser (Bullet, Duke, Apache)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹2,800 - ₹3,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,800 - ₹6,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,500 - ₹8,800</td>
+            </tr>
+            <tr>
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Superbikes / Rigid Wooden Crate</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,000 - ₹5,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,800 - ₹9,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹9,800 - ₹14,500</td>
             </tr>
           </tbody>
         </table>
@@ -177,72 +239,241 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- FAQ Section with Schema Support -->
-  <section class="faq-section" style="padding: 60px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions (Bike Transport Giridih)</h2>
+  <!-- 6. 7-Layer Bike Safety Protocol -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Bike Packaging &amp; Crating Protocol
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Inspection &amp; Fuel Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Physical scratch inspection &amp; fuel draining for safety compliance.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Bubble Wrap Layer</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Wrapping fuel tank, fairings, side panels &amp; mudguards in heavy bubble wrap.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 03</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Corrugated Sheet Armor</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Encasing headlights, mirrors, exhaust &amp; indicators in heavy corrugated sheets.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 04</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Waterproof Stretch Film</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Tightly wrapping moisture barrier stretch film around bike body.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 05</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Hydraulic Ramp Loading</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Guiding bike up non-slip hydraulic ramp into covered container truck bed.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Chock &amp; Strap Anchoring</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Locking front wheel in steel chock + 4-point industrial ratchet straps.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Doorstep Unpacking &amp; Handover</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Unpacking &amp; physical condition verification prior to final handover signature.</p>
+        </div>
       </div>
 
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        <?php foreach ($faq_list as $index => $faq): ?>
-          <div style="background: #101c40; padding: 20px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2);">
-            <h4 style="font-size: 1.1rem; color: #f59e0b; margin-bottom: 8px; font-weight: 700;">
-              <?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?>
-            </h4>
-            <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
+    </div>
+  </section>
+
+  <!-- 7. Giridih Localities Covered -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Coverage Area</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Serving All Major <span style="color: #f59e0b;">Giridih Localities</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Central Giridih</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Makatpur, Barganda, New Barganda, Court Road, Station Market.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Commercial &amp; Suburbs</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Pachamba, Buxidih, Sirsia, Mohanpur, Alkapuri.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Pilgrimage &amp; Tourism Zone</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Parasnath Shikharji Foot Corridor, Madhuban Jain Temple area.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Industrial &amp; Mining Belt</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Buxidih Industrial Area, Beniadih Coalfields, Maheslundi Freight Hub.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Highway Junctions</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Dumri Road GT Link, Isri Bazar, Koderma Highway SH-11 Link.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">District Outskirts</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Bengabad, Jamua, Rajdhanwar, Tisri, Deoghar Border Road.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 8. Popular Intercity Routes from Giridih -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Route Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Intercity Bike Shipping Corridors from Giridih
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Giridih to Ranchi / Dhanbad / Bokaro</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Daily covered container trucks via GT Road NH-19 with 24-hour delivery.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Giridih to Kolkata / Asansol / Durgapur</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Direct GT Road trunk vehicle carriers with full transit insurance.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Giridih to Delhi NCR / Patna / Varanasi</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Interstate container shipping with 2 to 3 day transit time.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Giridih to Bengaluru / Pune / Mumbai</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Long-distance sealed container carriers taking 3 to 5 days.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 9. Official Claims Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing &amp; Freight Documentation
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Trackable Relocation Claim Package:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Itemized GST Freight Invoice</strong> with SAC Code 996511 listing freight charges.</li>
+          <li><strong>Pre-Loading Vehicle Condition Audit Form</strong>.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with trackable 10-digit number.</li>
+          <li><strong>IBA Approved Registration Code &amp; Official Stamp</strong>.</li>
+          <li><strong>Full Transit Risk Insurance Certificate</strong>.</li>
+          <li><strong>Official Money Receipt</strong> for 100% claim reimbursement.</li>
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 10. 10 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions — <span style="color: #f59e0b;">Giridih Bike Transport</span>
+        </h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
               <?php echo htmlspecialchars($faq['a']); ?>
             </p>
           </div>
         <?php endforeach; ?>
       </div>
+
+    </div>
+  </section>
+
+  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Bike Transportation in Giridih
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Ready for <span style="color: #f59e0b;">Damage-Free Bike Shipping</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Get your instant price estimate today! Free doorstep pickup across Makatpur, Barganda, Pachamba, Buxidih &amp; Sirsia, 7-layer bubble wrapping, and 100% insured container truck delivery.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Support" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Support: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Giridih." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+
     </div>
   </section>
 
 </main>
-
-<!-- Inline JSON-LD Structured Data Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    <?php 
-    $schema_faqs = [];
-    foreach ($faq_list as $faq) {
-        $schema_faqs[] = '{
-          "@type": "Question",
-          "name": ' . json_encode($faq['q']) . ',
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": ' . json_encode($faq['a']) . '
-          }
-        }';
-    }
-    echo implode(',', $schema_faqs);
-    ?>
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MovingCompany",
-  "name": "Shree Ashirwad Packers and Movers",
-  "description": "Professional bike transportation in Giridih, Jharkhand with doorstep pickup and transit insurance.",
-  "url": "<?php echo $canonical_url; ?>",
-  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Giridih",
-    "addressRegion": "Jharkhand",
-    "addressCountry": "IN"
-  },
-  "areaServed": "Giridih, Jharkhand",
-  "priceRange": "₹1800 - ₹8500"
-}
-</script>
 
 <script>
 function sendHeroWhatsAppLead(event, form) {
@@ -251,11 +482,16 @@ function sendHeroWhatsAppLead(event, form) {
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]').value;
   
-  var message = "Hello Shree Ashirwad Packers,\n\nI would like a Bike Transport Quote for Giridih:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI am requesting a Bike Transport Quote for Giridih:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- Destination City: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Bike Model: " + extraMsg;
+  }
   
   var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
-  window.open(whatsappUrl, '_blank');
+  window.location.href = whatsappUrl;
 }
 </script>
 

@@ -1,28 +1,41 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transportation in Paradip | Secure Two-Wheeler Shifting Port Zone";
-$page_desc = "Professional bike transportation in Paradip, Odisha. Secure door-to-door two-wheeler shifting with 4-layer salinity, coal-dust, and cyclone-proof packaging.";
-$page_keywords = "bike transportation in paradip, best bike transportation in paradip, affordable bike transportation in paradip, packers and movers, packers and movers in ranchi, top bike transportation in paradip company, household shifting bike transportation in paradip, doorstep bike transportation in paradip, verified bike transportation in paradip services, shree ashirwad bike transportation in paradip";
+$page_title = "Bike Transportation in Paradip | Safe Two-Wheeler Shifting OD-21";
+$page_desc = "Looking for bike transportation in Paradip (OD-21 RTO)? Shree Ashirwad Packers offers 7-layer anti-salinity bubble wrap packaging, custom wooden crating, transit insurance, and doorstep pickup across PPT Colony, Madhuban, Atharabanki, Badapadia, and Port Township. Call 8409531615.";
+$page_keywords = "bike transportation in paradip, best bike transportation in paradip, affordable bike transportation in paradip, top bike transportation in paradip company, doorstep bike transportation in paradip, bike transport service, bike transport cost, bike transport by train, railway bike transport charges, paradip bike transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-paradip.php";
+
+$faq_list = [
+    ['q' => 'How is bike transportation safely executed in Paradip (OD-21 RTO)?', 'a' => 'Motorcycles undergo pre-transit physical inspection, fuel draining under 1 liter, VCI anti-salinity film layer, 7-layer bubble wrapping, corrugated sheet encasing, handlebar foam padding, and nylon belt anchorage inside enclosed container trucks.'],
+    ['q' => 'What are the bike transport charges from Paradip to Cuttack, Bhubaneswar, or Delhi?', 'a' => 'Local/regional two-wheeler transport charges to nearby hubs (Cuttack, Bhubaneswar, Kendrapara) range from ₹1,800 to ₹3,500 for standard bikes, and ₹4,500 to ₹8,500 for interstate delivery to Delhi, Mumbai, or Kolkata.'],
+    ['q' => 'Which major transport highway corridors serve Paradip bike shipping?', 'a' => 'Key transit routes include NH-53 (Cuttack-Paradip expressway), SH-12 highway corridor, and Paradeep Port Trust Heavy Vehicle Freight Hub.'],
+    ['q' => 'Do you collect motorcycles from all Paradip Port & township areas?', 'a' => 'Yes, free doorstep pickup is available across PPT Colony, Madhuban, Atharabanki, Badapadia, Nimidi, Sandhakuda, and Jagatsinghpur Road.'],
+    ['q' => 'Is transit insurance included for bike transport in Paradip?', 'a' => 'Yes, full-value transit insurance policies (0.3% declared valuation) are issued protecting your motorcycle against highway transit hazards.'],
+    ['q' => 'How long does bike delivery take from Paradip to major Indian metros?', 'a' => 'Regional deliveries within Odisha and West Bengal take 24–48 hours, while long-distance transit to Delhi, Mumbai, or Bengaluru takes 3 to 5 days.'],
+    ['q' => 'What documents are required to dispatch a motorcycle from Paradip?', 'a' => 'Required documentation includes RC copy, active bike insurance certificate copy, owner Aadhaar card copy, and signed vehicle inspection sheet.'],
+    ['q' => 'Must the fuel tank be emptied before shipping from Paradip?', 'a' => 'Yes, fuel must be drained under 1 liter to comply with national highway transport safety and port security fire prevention regulations.'],
+    ['q' => 'Do you provide IBA approved GST bills for Port Trust, PSU, or corporate claim reimbursement?', 'a' => 'Yes, 100% genuine IBA-compliant GST consignment tax invoices with SAC Code 996511, LR copies, and payment receipts are supplied.'],
+    ['q' => 'How can I book bike transport service in Paradip?', 'a' => 'Call +91 8409531615 or submit your motorcycle details on WhatsApp for an instant written price quotation and booking confirmation.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
+  <!-- 1. Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper">
     <div class="container">
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active">Bike Transportation in Paradip</span>
       </div>
     </div>
   </div>
 
-  <!-- Hero Section with Lead Form -->
+  <!-- 2. Hero Section & Instant WhatsApp Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
     <div class="container">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
@@ -30,48 +43,51 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BIKE TRANSPORTATION PARADIP PORT RELOCATION SPECIALISTS
+            PARADIP PORT (OD-21 ODISHA) BIKE LOGISTICS
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transportation in Paradip</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Premier bike relocation across Paradip Port area, Jagatsinghpur, and national corridors. Specialized 7-layer anti-salinity stretch wrapping, closed container shipping, and full transit insurance.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Shree Ashirwad Packers and Movers delivers safe, insured, and doorstep motorcycle transport across Paradip (OD-21 RTO) via NH-53 Cuttack-Paradip expressway and SH-12 corridors. Specialized VCI anti-salinity stretch wrapping, covered container carriers, and IBA-approved GST bills.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Desk" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Support: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote%20for%20Paradip." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Paradip." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">Anti-Salinity</strong> VCI Seal</span>
+            <span><strong style="color: #f59e0b;">Zero Scratch</strong> Guarantee</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> GST Bill</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Paradip Shifting Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Paradip Bike Quote</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive instant transparent price on WhatsApp</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit WhatsApp Mobile Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Paradip" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Paradip (OD)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Bike Model (e.g. Royal Enfield 350 / Activa / Pulsar)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
               Get Instant Estimate Now &rarr;
             </button>
           </form>
@@ -81,198 +97,401 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Key Stats Counter Bar -->
-  <section style="background: #1c2541; padding: 40px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+  <!-- 3. Key Stats Counter Bar -->
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
-        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">6,400+</div>
-          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Bikes Transported from Paradip</div>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">₹1,800+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Starting Regional Shifting</div>
         </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">100%</div>
-          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Anti-Corrosion Moisture Seal</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">NH-53</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Direct Expressway Corridor</div>
         </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">Zero</div>
-          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Damage Record in Transit</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">7-Layer</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Anti-Salinity Packaging</div>
         </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b;">IBA & GST</div>
-          <div style="color: #cbd5e1; font-size: 0.9rem; margin-top: 5px;">Approved Billing Documentation</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">0.3% Insured</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Full Transit Risk Coverage</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- 6-Card Feature Grid -->
-  <section style="background: #0b132b; padding: 60px 0; color: #fff;">
+  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #fff;">Why Choose Our <span style="color: #f59e0b;">Paradip Bike Shifting</span></h2>
-        <p style="color: #94a3b8; max-width: 650px; margin: 10px auto 0;">Custom logistics for Paradip's maritime industrial hub environment.</p>
+      
+      <div style="max-width: 950px; margin: 0 auto;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Logistics Excellence</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Paradip Bike Transportation</span>
+        </h2>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box-open"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Rigid Crate Packaging</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Optional heavy wooden frame crating for premium sports bikes, Bullet 350, and vintage motorcycles.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-layer-group"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Defense</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              VCI anti-salinity film, heavy bubble wrap, corrugated sheets, foam padding &amp; stretch wrap.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-pickup"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Pickup Across OD-21</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Pickup available across PPT Colony, Madhuban, Atharabanki, Badapadia &amp; Port Township.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              0.3% comprehensive policy covering full vehicle valuation against road mishaps during transit.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-moving"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Closed Container Fleet</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              All-weather covered container trucks preventing rain, coastal salt spray, and vibration damage.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">IBA Approved GST Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Official GST invoices suitable for Port Trust, PSU, Corporate, Govt &amp; Bank claim reimbursement.
+            </p>
+          </div>
+
+        </div>
+
       </div>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
-        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-          <i class="fas fa-shield-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Salt-Air Moisture Shielding</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Double VCI anti-rust stretch film prevents chrome oxidation caused by sea air.</p>
-        </div>
-        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-          <i class="fas fa-truck-loading" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Closed Hydraulic Carriers</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Weatherproof covered car-and-bike transporters safeguard against industrial soot.</p>
-        </div>
-        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-          <i class="fas fa-box-open" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">7-Layer Multi-Guard Packing</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">HDPE bubble wrap, corrugated sheets, and foam corner pads ensure scratch-free transit.</p>
-        </div>
-        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-          <i class="fas fa-map-marked-alt" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Port Township Doorstep Pickup</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Free pickup from PPT Colony, Madhuban, Atharabanki, and Badapadia areas.</p>
-        </div>
-        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">IBA & Corporate Bills</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Complete GST invoices and IBA bills for port authority and PSU employee reimbursement.</p>
-        </div>
-        <div style="background: #1c2541; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-          <i class="fas fa-headset" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 10px;">Dedicated Transit Manager</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Personal tracking updates and 24x7 WhatsApp support throughout the journey.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- Specialized Services Breakdown -->
-  <section style="background: #1c2541; padding: 60px 0; color: #fff;">
-    <div class="container">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <h2 style="font-size: 2rem; font-weight: 800;">Specialized Two-Wheeler Shifting Options</h2>
+  <!-- 5. Transparent Pricing Table -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Matrix</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Estimated Bike Transport Rates for Paradip
+      </h2>
+
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: #101c40; border-radius: 12px; overflow: hidden; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: #172a54; color: #f59e0b; text-align: left;">
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Two-Wheeler Category</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Regional (Cuttack / BBSR)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Interstate (Delhi / Kolkata)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Long Distance (Bangalore / Mumbai)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Scooters (Activa, Jupiter, Access)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹1,800 - ₹2,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹3,500 - ₹4,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,800 - ₹6,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Commuter Bikes (100cc - 150cc)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹2,200 - ₹3,000</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,000 - ₹5,200</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹5,200 - ₹7,200</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Sports / Cruiser (Bullet, Duke, Apache)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹2,800 - ₹3,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,800 - ₹6,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,500 - ₹8,800</td>
+            </tr>
+            <tr>
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Superbikes / Rigid Wooden Crate</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,000 - ₹5,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,800 - ₹9,500</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹9,800 - ₹14,500</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
-        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
-          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Standard Commuter Bikes</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1;">Cost-effective shared container transport with double-layer protective wrapping.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
-          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Sports & Premium Motorcycles</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1;">Dedicated wheel locking clamps, soft harness straps, and wooden crate casing.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.04); padding: 20px; border-radius: 10px;">
-          <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">Scooters & EV Two-Wheelers</h4>
-          <p style="font-size: 0.88rem; color: #cbd5e1;">Special battery insulation and underbody protection for electric & automatic scooters.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- 7-Layer Packaging Framework -->
-  <section style="background: #0b132b; padding: 60px 0; color: #fff;">
-    <div class="container">
-      <div style="text-align: center; margin-bottom: 30px;">
-        <h2 style="font-size: 2rem; font-weight: 800;">Our 7-Layer Safety Packaging Standard</h2>
+  <!-- 6. 7-Layer Bike Safety Protocol -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Anti-Salinity Bike Packaging &amp; Crating Protocol
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Inspection &amp; Fuel Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Physical scratch inspection &amp; fuel draining for safety compliance.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">VCI Anti-Salinity Film</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Wrapping engine &amp; chrome parts in anti-corrosion VCI film layer.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 03</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Bubble Wrap Layer</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Wrapping fuel tank, fairings, side panels &amp; mudguards in heavy bubble wrap.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 04</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Corrugated Sheet Armor</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Encasing headlights, mirrors, exhaust &amp; indicators in heavy corrugated sheets.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 05</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Hydraulic Ramp Loading</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Guiding bike up non-slip hydraulic ramp into covered container truck bed.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Chock &amp; Strap Anchoring</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Locking front wheel in steel chock + 4-point industrial ratchet straps.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Doorstep Unpacking &amp; Handover</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Unpacking &amp; physical condition verification prior to final handover signature.</p>
+        </div>
       </div>
-      <div style="max-width: 800px; margin: 0 auto; display: grid; gap: 12px;">
-        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
-          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">1</span>
-          <span>VCI Anti-Corrosion Film (Protection against sea-salt air oxidation)</span>
-        </div>
-        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
-          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">2</span>
-          <span>80-GSM Heavy Bubble Wrap for Impact Cushioning</span>
-        </div>
-        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
-          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">3</span>
-          <span>High-Density Foam Guard for Fuel Tank, Mirrors & Silencer</span>
-        </div>
-        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
-          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">4</span>
-          <span>Corrugated Cardboard Sheet Encapsulation</span>
-        </div>
-        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
-          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">5</span>
-          <span>Waterproof Polyethylene Stretch Outer Wrapping</span>
-        </div>
-        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
-          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">6</span>
-          <span>Heavy-Duty Nylon Belt Strapping & Container Anchoring</span>
-        </div>
-        <div style="background: #1c2541; padding: 14px 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px;">
-          <span style="background: #f59e0b; color: #000; font-weight: 800; padding: 4px 10px; border-radius: 50%;">7</span>
-          <span>Custom Wooden Crate Enclosure (Optional for Superbikes)</span>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- FAQs with Schema -->
-  <section style="background: #1c2541; padding: 60px 0; color: #fff;">
+  <!-- 7. Paradip Localities Covered -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 900px;">
-      <h2 style="text-align: center; font-size: 2rem; font-weight: 800; margin-bottom: 30px;">Frequently Asked Questions (Paradip)</h2>
-      <div style="display: grid; gap: 15px;">
-        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
-          <h4 style="color: #f59e0b; margin-bottom: 8px;">What is the cost of bike transportation from Paradip?</h4>
-          <p style="color: #cbd5e1; font-size: 0.9rem;">Bike shifting charges from Paradip typically range from ₹2,500 to ₹7,500 depending on destination distance and bike engine capacity.</p>
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Coverage Area</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Serving All Major <span style="color: #f59e0b;">Paradip Localities</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Port Township Zone</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">PPT Colony, Port Trust Administrative Zone, Officers Quarter Complex.</p>
         </div>
-        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
-          <h4 style="color: #f59e0b; margin-bottom: 8px;">How do you protect bikes against salt air corrosion in Paradip port zone?</h4>
-          <p style="color: #cbd5e1; font-size: 0.9rem;">We use specialized VCI anti-corrosion stretch film layer combined with heavy 80-GSM bubble wrap before shipping in enclosed trucks.</p>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Commercial Hubs</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Madhuban Market, Badapadia, Atharabanki Chowk, Bus Stand Corridor.</p>
         </div>
-        <div style="background: #0b132b; padding: 20px; border-radius: 10px;">
-          <h4 style="color: #f59e0b; margin-bottom: 8px;">Do you provide door pickup in Paradip township areas?</h4>
-          <p style="color: #cbd5e1; font-size: 0.9rem;">Yes, we offer doorstep pickup across PPT Colony, Madhuban, Atharabanki, and all surrounding areas of Jagatsinghpur district.</p>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Industrial &amp; Refinery Belt</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">IOCL Refinery Township, IFFCO Colony, PPL Township, SEZ Gate Area.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Coastal Residential Sector</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Nimidi, Sandhakuda, Lockpada, Bijay Chandrapur, Bhitargarh.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Highway Freight Corridors</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">NH-53 Cuttack Expressway Link, SH-12 Highway Toll Junction.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">District Peripheral Zone</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Jagatsinghpur Road, Marshaghai, Kujang, Ersama, Raghunathpur.</p>
         </div>
       </div>
+
     </div>
   </section>
 
-  <!-- CTA Footer -->
-  <section style="background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); padding: 50px 0; text-align: center; color: #fff;">
-    <div class="container">
-      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Book Your Paradip Bike Shifting Today</h2>
-      <p style="font-size: 1.1rem; max-width: 600px; margin: 0 auto 25px; color: #ffe4e6;">Safe, quick, and fully insured two-wheeler transport services.</p>
-      <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 15px 35px; background: #fff; color: #be123c; font-weight: 800; border-radius: 50px; text-decoration: none; font-size: 1.1rem; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
-        <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call <?php echo SITE_PHONE; ?>
-      </a>
+  <!-- 8. Popular Intercity Routes from Paradip -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Route Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Intercity Bike Shipping Corridors from Paradip
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Paradip to Cuttack / Bhubaneswar / Puri</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Daily covered container trucks via NH-53 expressway with 24-hour delivery.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Paradip to Kolkata / Kharagpur / Haldia</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Direct NH-16 coastal vehicle carriers with full transit insurance.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Paradip to Delhi NCR / Ranchi / Patna</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Interstate container shipping with 2 to 3 day transit time.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Paradip to Bengaluru / Visakhapatnam / Chennai</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Long-distance sealed container carriers taking 3 to 5 days.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 9. Official Claims Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing &amp; Freight Documentation
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Trackable Relocation Claim Package:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Itemized GST Freight Invoice</strong> with SAC Code 996511 listing freight charges.</li>
+          <li><strong>Pre-Loading Vehicle Condition Audit Form</strong>.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with trackable 10-digit number.</li>
+          <li><strong>IBA Approved Registration Code &amp; Official Stamp</strong>.</li>
+          <li><strong>Full Transit Risk Insurance Certificate</strong>.</li>
+          <li><strong>Official Money Receipt</strong> for 100% claim reimbursement.</li>
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 10. 10 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions — <span style="color: #f59e0b;">Paradip Bike Transport</span>
+        </h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Bike Transportation in Paradip
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Ready for <span style="color: #f59e0b;">Damage-Free Bike Shipping</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Get your instant price estimate today! Free doorstep pickup across PPT Colony, Madhuban, Atharabanki, Badapadia &amp; Port Township, 7-layer anti-salinity wrapping, and 100% insured container truck delivery.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Support" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Support: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Paradip." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+
     </div>
   </section>
 
 </main>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost of bike transportation from Paradip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bike shifting charges from Paradip typically range from ₹2,500 to ₹7,500 depending on destination distance and bike engine capacity."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do you protect bikes against salt air corrosion in Paradip port zone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We use specialized VCI anti-corrosion stretch film layer combined with heavy 80-GSM bubble wrap before shipping in enclosed trucks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you provide door pickup in Paradip township areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we offer doorstep pickup across PPT Colony, Madhuban, Atharabanki, and all surrounding areas of Jagatsinghpur district."
-      }
-    }
-  ]
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI am requesting a Bike Transport Quote for Paradip:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- Destination City: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Bike Model: " + extraMsg;
+  }
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
 }
 </script>
 

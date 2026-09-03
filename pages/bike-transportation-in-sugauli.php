@@ -1,10 +1,23 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Bike Transportation in Sugauli | Safe Two-Wheeler Shifting Bihar";
-$page_desc = "Professional two-wheeler relocation in Sugauli (East Champaran district), Bihar. Insured doorstep bike transport with 4-layer packaging to guard against sugar mill fly-ash, alluvial soil dust, and winter fog humidity.";
-$page_keywords = "bike transportation in sugauli, bike movers sugauli, two wheeler transport sugauli champaran, motorcycle shifting sugauli, bike parcel service sugauli, bike transport charges sugauli";
+$page_title = "Bike Transportation in Sugauli | Safe Two-Wheeler Shifting BR-05";
+$page_desc = "Looking for bike transportation in Sugauli (BR-05 RTO, East Champaran, NH-28A Indo-Nepal Highway)? Shree Ashirwad Packers offers 7-layer sugar mill fly-ash & alluvial moisture-proof packaging, custom wooden crating, transit insurance, and doorstep pickup across Sugauli Junction, Motihari Road, Raxaul Road & Sugar Mill Colony. Call 8409531615.";
+$page_keywords = "bike transportation in sugauli, bike transport service, bike transport services, bike transport, bike transport near me, bike transport by train, bike transport cost, railway bike transport charges, best bike transportation in sugauli, affordable bike transport sugauli, Motihari bike transport, BR-05 bike transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-sugauli.php";
+
+$faq_list = [
+    ['q' => 'How is bike transportation safely executed in Sugauli (BR-05 RTO & NH-28A Corridor)?', 'a' => 'Motorcycles undergo physical pre-loading inspection, fuel draining under 1 liter, 7-layer sugar mill fly-ash & Terai winter fog moisture barrier stretch wrapping, 80-GSM bubble wrap, corrugated sheet armor, and wheel-chock belt anchorage inside covered container trucks operating via NH-28A, NH-727, and Patna-Motihari Expressway.'],
+    ['q' => 'What are the bike transport charges from Sugauli to Motihari, Muzaffarpur, Patna, or Raxaul?', 'a' => 'Local/regional two-wheeler transport charges to Motihari, Bettiah, or Muzaffarpur range from ₹1,500 to ₹2,800. Long-distance shipping to Patna, Kolkata, Delhi NCR, or Bengaluru ranges between ₹3,800 and ₹8,800.'],
+    ['q' => 'Which major highway corridors serve Sugauli bike shipping?', 'a' => 'Key transit routes include NH-28A (Motihari-Sugauli-Raxaul Indo-Nepal Highway) and NH-727 connecting to Bettiah, Muzaffarpur, and Patna.'],
+    ['q' => 'Do you collect motorcycles from Sugauli Junction, Motihari Road, Raxaul Road & Sugar Mill Colony?', 'a' => 'Yes, free doorstep pickup is available across Sugauli Railway Station Area, Motihari Road, Raxaul Road, Sugar Mill Colony, Block Chowk, and Main Bazaar.'],
+    ['q' => 'How do you safeguard bikes against sugar mill fly-ash dust & Terai winter fog humidity?', 'a' => 'We deploy heavy 80-GSM bubble wrap, moisture-barrier stretch film, high-density corrugated guards, and wheel-chock ratchet belt anchoring inside sealed enclosed container trucks.'],
+    ['q' => 'Is transit insurance included for bike transport in Sugauli?', 'a' => 'Yes, full-value transit insurance policies (0.3% declared valuation) are issued protecting your motorcycle against highway transit risks.'],
+    ['q' => 'How long does bike delivery take from Sugauli to major Indian hubs?', 'a' => 'Regional deliveries to Motihari, Muzaffarpur, or Patna take 3 to 12 hours, while long-distance transit to Delhi NCR, Kolkata, Mumbai, or Bengaluru takes 2 to 5 days.'],
+    ['q' => 'What documents are required to dispatch a motorcycle from Sugauli (BR-05)?', 'a' => 'Required documentation includes RC copy, active bike insurance policy, owner ID card copy, and signed vehicle condition audit form.'],
+    ['q' => 'Do you provide IBA approved GST bills for Sugar Mill Executives, Govt & Corporate claims in Sugauli?', 'a' => 'Yes, 100% genuine IBA-compliant GST consignment tax invoices with SAC Code 996511, LR copies, and payment receipts are supplied for industrial, academic, railway & government employee claims.'],
+    ['q' => 'How can I book bike transport service in Sugauli?', 'a' => 'Call +91 8409531615 or submit your motorcycle details on WhatsApp for an instant written price quotation and booking confirmation.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -12,14 +25,12 @@ require_once __DIR__ . '/../includes/header.php';
 <main class="site-main">
 
   <!-- 1. Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper" style="background: #0f172a; padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="breadcrumb-wrapper">
     <div class="container">
-      <div class="breadcrumb-list" style="display: flex; gap: 8px; font-size: 0.88rem; color: #94a3b8; align-items: center;">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #cbd5e1; text-decoration: none;">Home</a></span>
+      <div class="breadcrumb-list">
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-patna.php" style="color: #cbd5e1; text-decoration: none;">Bihar</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active" style="color: #f59e0b; font-weight: 600;">Sugauli Bike Transport</span>
+        <span class="breadcrumb-item active">Bike Transportation in Sugauli</span>
       </div>
     </div>
   </div>
@@ -32,49 +43,52 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            BIKE TRANSPORTATION SUGAULI RELOCATION SPECIALISTS
+            SUGAULI EAST CHAMPARAN (BR-05 RTO) BIKE LOGISTICS
           </span>
-          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Bike Transportation in Sugauli</span>
           </h1>
-          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Insured two-wheeler shifting in Sugauli (East Champaran District, Bihar). Doorstep pickup, multi-layer shockproof packing, hydraulic ramp loading, and zero-scratch transit across India.
+          <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
+            Shree Ashirwad Packers and Movers provides safe, insured, and doorstep motorcycle transport across Sugauli (BR-05 RTO, East Champaran District &amp; NH-28A Highway Corridor) via express routes. 7-layer sugar mill fly-ash &amp; Terai winter moisture proof packaging, covered container trucks, and IBA-approved GST bills for Industrial, Railway, Govt, Academic &amp; Corporate transfers.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Support" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Support: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20shifting%20quote%20from%20Sugauli." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Sugauli." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
           <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Protection</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Express Service</span>
+            <span><strong style="color: #f59e0b;">Junction &amp; Motihari Rd</strong> Pickup</span>
+            <span><strong style="color: #f59e0b;">Fly-Ash Dust</strong> Shield</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> GST Bill</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
           <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Sugauli Bike Quote</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive instant cost estimate on WhatsApp in 2 minutes</p>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive instant transparent price on WhatsApp</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
             <div style="margin-bottom: 14px;">
               <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit WhatsApp Mobile Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Sugauli" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Sugauli (BR)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
               <input type="text" name="move_to" class="form-control" placeholder="Destination City" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
-              Get Free Instant Estimate &rarr;
+            <div style="margin-bottom: 16px;">
+              <textarea name="message" class="form-control" rows="2" placeholder="Bike Model (e.g. Royal Enfield Bullet / Pulsar / Apache / Activa)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
+              Get Instant Estimate Now &rarr;
             </button>
           </form>
         </div>
@@ -84,216 +98,400 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
   <!-- 3. Key Stats Counter Bar -->
-  <section style="background: #0f172a; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
     <div class="container">
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
-          <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">2,500+</div>
-          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Bikes Transported</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">₹1,500+</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Starting Regional Shifting</div>
         </div>
-        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
-          <div style="font-size: 2rem; font-weight: 800; color: #10b981;">100%</div>
-          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Transit Safety Record</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">NH-28A</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Motihari-Raxaul Express Corridor</div>
         </div>
-        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
-          <div style="font-size: 2rem; font-weight: 800; color: #3b82f6;">4-Layer</div>
-          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Armor Shield Packing</div>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">7-Layer</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Terai Fly-Ash Dust Shield</div>
         </div>
-        <div style="padding: 15px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06);">
-          <div style="font-size: 2rem; font-weight: 800; color: #ec4899;">IBA/GST</div>
-          <div style="font-size: 0.88rem; color: #94a3b8; margin-top: 4px;">Valid Bill Claims</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 4. 6-Card Feature Grid -->
-  <section style="background: #090d16; padding: 60px 0; color: #ffffff;">
-    <div class="container">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff;">Why Choose Our Bike Parcel Service in Sugauli?</h2>
-        <p style="color: #94a3b8; margin-top: 10px;">Engineered for zero-damage two-wheeler shipping from Sugauli, Bihar</p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
-        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
-          <div style="font-size: 1.5rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-container"></i> Closed Hydraulic Carriers</div>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Weather-proof enclosed car and bike carriers protecting vehicles against dust, rain, and highway flying debris.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
-          <div style="font-size: 1.5rem; color: #10b981; margin-bottom: 12px;"><i class="fas fa-map-marker-alt"></i> Doorstep Pickup in Sugauli</div>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Our trained crew picks up your motorcycle directly from your residence or office anywhere in Sugauli region.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
-          <div style="font-size: 1.5rem; color: #3b82f6; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i> Complete Transit Insurance</div>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Full transit insurance coverage for peace of mind against unforeseen highway accidents or natural hazards.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
-          <div style="font-size: 1.5rem; color: #8b5cf6; margin-bottom: 12px;"><i class="fas fa-box"></i> Heavy-Duty Bubble Wrapping</div>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">High-density 80-GSM bubble sheets, corrugated boxes, and foam pads prevent frame scratches and mirror cracks.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
-          <div style="font-size: 1.5rem; color: #ec4899; margin-bottom: 12px;"><i class="fas fa-receipt"></i> IBA & GST Tax Invoices</div>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Official GST bills and consignment notes compatible with company employee relocation allowance claims.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 25px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.08);">
-          <div style="font-size: 1.5rem; color: #06b6d4; margin-bottom: 12px;"><i class="fas fa-headset"></i> Dedicated Tracking Updates</div>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.6;">Real-time status updates and WhatsApp tracking from pickup at Sugauli to final delivery at your destination.</p>
+        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">0.3% Insured</div>
+          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Full Transit Risk Coverage</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- 5. Specialized Services Breakdown -->
-  <section style="background: #0f172a; padding: 60px 0; color: #ffffff;">
+  <!-- 4. 6-Card Feature Grid (3x2 Layout) -->
+  <section style="padding: 65px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
     <div class="container">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Specialized Vehicle Shifting Services in Sugauli</h2>
+      
+      <div style="max-width: 950px; margin: 0 auto;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Logistics Excellence</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+          Why Choose Us for <span style="color: #f59e0b;">Sugauli Bike Transportation</span>
+        </h2>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+          
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-box-open"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Rigid Crate Packaging</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Custom heavy wooden crating for Royal Enfield Bullet, Jawa, KTM, and sports motorcycles.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-layer-group"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">7-Layer Multi-Guard</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Sugar mill fly-ash dust barrier stretch film, 80-GSM bubble wrap, corrugated armor &amp; handlebar pads.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-pickup"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Doorstep Pickup Across BR-05</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Free pickup across Sugauli Junction, Motihari Road, Raxaul Road &amp; Sugar Mill Colony.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-shield-alt"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Full Transit Insurance</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              0.3% comprehensive policy covering total motorcycle valuation against highway transit hazards.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-truck-moving"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Closed Container Fleet</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              All-weather covered container trucks protecting bikes against highway dust, rain, and debris.
+            </p>
+          </div>
+
+          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px;">
+            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-file-invoice"></i></div>
+            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Industrial &amp; Railway Bills</h3>
+            <p style="font-size: 0.9rem; color: #cbd5e1; margin: 0;">
+              Official GST invoices suitable for Sugar Mill Executives, Railway &amp; Govt employee claims.
+            </p>
+          </div>
+
+        </div>
+
       </div>
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-        <div style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
-          <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px;">Standard Commuter Bikes</h3>
-          <p style="color: #cbd5e1; font-size: 0.88rem;">Safe transport for 100cc-150cc motorcycles with custom handle locking and body wrapping.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
-          <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px;">Premium & Sports Bikes</h3>
-          <p style="color: #cbd5e1; font-size: 0.88rem;">Enclosed wooden crate packing for Royal Enfield, KTM, BMW, and sports bikes.</p>
-        </div>
-        <div style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
-          <h3 style="font-size: 1.15rem; color: #f59e0b; margin-bottom: 8px;">Scooters & Mopeds</h3>
-          <p style="color: #cbd5e1; font-size: 0.88rem;">Special care for Activa, Access, and Jupiter scooters preventing fiber body damage.</p>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- 6. 7-Layer Safety Packaging Framework -->
-  <section style="background: #090d16; padding: 60px 0; color: #ffffff;">
-    <div class="container">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">7-Layer Safety Packaging Framework</h2>
-        <p style="color: #94a3b8;">Maximum protection against shock, dust, and highway vibrations</p>
+  <!-- 5. Transparent Pricing Table -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Pricing Matrix</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Estimated Bike Transport Rates for Sugauli
+      </h2>
+
+      <div style="overflow-x: auto; margin-bottom: 30px;">
+        <table style="width: 100%; border-collapse: collapse; background: #101c40; border-radius: 12px; overflow: hidden; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: #172a54; color: #f59e0b; text-align: left;">
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Two-Wheeler Category</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Regional (Motihari / Bettiah / Muzaffarpur)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Interstate (Patna / Kolkata / Ranchi)</th>
+              <th style="padding: 16px; border-bottom: 2px solid rgba(245,158,11,0.3);">Long Distance (Delhi NCR / Bengaluru / Mumbai)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Scooters (Activa, Jupiter, Access)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹1,500 - ₹2,200</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹3,400 - ₹4,600</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹5,400 - ₹7,200</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Commuter Bikes (100cc - 150cc)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹1,800 - ₹2,600</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹3,800 - ₹5,000</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹5,800 - ₹7,800</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Cruiser / Sports (Bullet, Pulsar, Apache)</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹2,400 - ₹3,200</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹4,400 - ₹5,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,800 - ₹8,800</td>
+            </tr>
+            <tr>
+              <td style="padding: 14px 16px; font-weight: 700; color: #ffffff;">Superbikes / Rigid Wooden Crate</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹3,500 - ₹4,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹6,500 - ₹8,800</td>
+              <td style="padding: 14px 16px; color: #6ee7b7; font-weight: 700;">₹9,800 - ₹14,000</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; text-align: center;">
-        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-weight: 700; color: #f59e0b;">Layer 1</div>
-          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">Stretch Film Scratch Guard</div>
-        </div>
-        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-weight: 700; color: #f59e0b;">Layer 2</div>
-          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">80-GSM Bubble Wrap</div>
-        </div>
-        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-weight: 700; color: #f59e0b;">Layer 3</div>
-          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">Corrugated Sheet Armor</div>
-        </div>
-        <div style="background: rgba(245, 158, 11, 0.08); padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-weight: 700; color: #f59e0b;">Layer 4</div>
-          <div style="font-size: 0.85rem; color: #cbd5e1; margin-top: 5px;">Foam Edge Protectors</div>
-        </div>
-      </div>
+
     </div>
   </section>
 
-  <!-- 7. Origin Pickup Locality Grid -->
-  <section style="background: #0f172a; padding: 50px 0; color: #ffffff;">
-    <div class="container">
-      <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 20px;">Pickup Coverage in Sugauli & Nearby Areas</h3>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; font-size: 0.9rem;">
-        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Sugauli Station Road</a>
-        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Motihari Highway Area</a>
-        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Sugar Mill Colony</a>
-        <a href="#" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Raxaul Road Border</a>
-      </div>
-    </div>
-  </section>
+  <!-- 6. 7-Layer Bike Safety Protocol -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 950px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Safety Protocol</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 25px 0;">
+        Our 7-Layer Sugauli All-Weather Bike Packaging Protocol
+      </h2>
 
-  <!-- 8. Intercity Route Network Grid -->
-  <section style="background: #090d16; padding: 50px 0; color: #ffffff;">
-    <div class="container">
-      <h3 style="font-size: 1.3rem; color: #f59e0b; margin-bottom: 20px;">Popular Bike Transport Routes from Sugauli</h3>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; font-size: 0.9rem;">
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-patna.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Sugauli to Patna</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-muzaffarpur.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Sugauli to Muzaffarpur</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-delhi.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Sugauli to Delhi</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transportation-in-kolkata.php" style="color: #cbd5e1; text-decoration: none; background: rgba(255,255,255,0.03); padding: 10px 14px; border-radius: 6px;">Sugauli to Kolkata</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- 9. IBA Approved GST Billing Documentation -->
-  <section style="background: #0f172a; padding: 50px 0; color: #ffffff;">
-    <div class="container">
-      <h3 style="font-size: 1.3rem; color: #10b981; margin-bottom: 15px;">IBA & GST Compliant Relocation Documentation</h3>
-      <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7;">We supply 100% genuine tax invoices, consignment bills (LR copies), vehicle inspection reports, and transit insurance certificates for claim submissions.</p>
-    </div>
-  </section>
-
-  <!-- 10. Detailed FAQs & JSON-LD Schema -->
-  <section style="background: #090d16; padding: 60px 0; color: #ffffff;">
-    <div class="container">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Frequently Asked Questions (FAQs)</h2>
-      </div>
-
-      <div style="max-width: 900px; margin: 0 auto; display: grid; gap: 15px;">
-        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
-          <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">How much does bike transportation in Sugauli cost?</h4>
-          <p style="color: #cbd5e1; font-size: 0.9rem;">Charges depend on vehicle engine size and distance. Typically ranges between ₹1,800 and ₹5,800 depending on destination.</p>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 01</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Pre-Loading Audit</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Scratch inspection &amp; fuel draining under 1 liter.</p>
         </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
-          <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">What documents are required for bike transport from Sugauli?</h4>
-          <p style="color: #cbd5e1; font-size: 0.9rem;">You need a copy of the Vehicle RC, Insurance policy, and ID proof of the owner.</p>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 02</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Bubble Wrap Layer</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Wrapping fuel tank, fairings, side panels &amp; mudguards in heavy bubble wrap.</p>
         </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
-          <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">Is doorstep pickup available in Sugauli?</h4>
-          <p style="color: #cbd5e1; font-size: 0.9rem;">Yes, we provide door-to-door pickup and delivery across Sugauli and East Champaran district.</p>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 03</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Corrugated Sheet Armor</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Encasing headlights, mirrors, exhaust &amp; indicators in heavy corrugated sheets.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 04</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Sugar Mill Fly-Ash Barrier</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Tightly wrapping bagasse fly-ash dust &amp; Terai winter fog stretch film around bike body.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 05</div>
+          <h4 style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">Hydraulic Ramp Loading</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Guiding bike up non-slip hydraulic ramp into covered container truck bed.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 06</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Chock &amp; Strap Anchoring</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Locking front wheel in steel chock + 4-point industrial ratchet straps.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border-left: 4px solid #f59e0b; grid-column: span 2;">
+          <div style="font-size: 0.8rem; color: #f59e0b; font-weight: 700;">STEP 07</div>
+          <h4 style="font-size: 0.95rem; color: #fff; margin: 4px 0;">Doorstep Unpacking &amp; Handover</h4>
+          <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">Unpacking &amp; physical condition verification prior to final handover signature.</p>
         </div>
       </div>
+
     </div>
   </section>
 
-  <!-- 11. CTA Footer -->
-  <section style="background: linear-gradient(135deg, #1e1b4b 0%, #0f172a 100%); padding: 50px 0; text-align: center; color: #ffffff;">
-    <div class="container">
-      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px;">Ready to Transport Your Bike from Sugauli?</h2>
-      <p style="color: #cbd5e1; margin-bottom: 25px;">Contact our Sugauli two-wheeler shifting experts today for a free estimate.</p>
-      <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 15px 35px; background: #f59e0b; color: #000; border-radius: 50px; font-weight: 800; text-decoration: none; font-size: 1.1rem;">Call <?php echo SITE_PHONE; ?> Now</a>
+  <!-- 7. Sugauli Localities Covered -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Coverage Area</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Serving All Major <span style="color: #f59e0b;">Sugauli &amp; East Champaran Localities</span>
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Sugauli Core</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Sugauli Junction, Station Road, Main Bazaar, Block Chowk, Sugar Mill Colony.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Highway Suburbs</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Motihari Road, Raxaul Highway Border, Ramgarhwa, Majhaulia Border.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Champaran Industrial Belt</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Motihari Town, Bettiah, Raxaul ICP, Chakia, Areraj, Dhaka.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Highway Corridors</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">NH-28A Indo-Nepal Highway, NH-727 Bettiah Route, Patna Expressway Connection.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Bihar &amp; Neighboring Metros</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Patna, Muzaffarpur, Darbhanga, Bhagalpur, Gaya, Gorakhpur.</p>
+        </div>
+
+        <div style="background: #101c40; padding: 16px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #f59e0b; font-size: 1rem; margin-bottom: 4px;">Interstate Metros</h4>
+          <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">Delhi NCR, Kolkata, Ranchi, Bengaluru, Mumbai, Hyderabad.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 8. Popular Intercity Routes from Sugauli -->
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Route Network</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        Popular Intercity Bike Shipping Corridors from Sugauli
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 25px;">
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Sugauli to Motihari / Bettiah / Muzaffarpur / Raxaul</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Daily express container shuttles via NH-28A taking 1 to 4 hours.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Sugauli to Patna / Hajipur / Darbhanga / Bhagalpur</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Direct Patna Expressway container truck shipping taking 6 to 12 hours.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Sugauli to Delhi NCR / Gorakhpur / Lucknow / Kanpur</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Interstate covered container shipping taking 1 to 3 days.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Sugauli to Kolkata / Ranchi / Bengaluru / Mumbai</h4>
+          <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Long-distance sealed container carriers taking 2 to 5 days.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 9. Official Claims Documentation -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Official Documentation</span>
+      <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
+        IBA Approved GST Billing &amp; Industrial / Government Claims
+      </h2>
+
+      <div style="background: #101c40; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 25px;">
+        <h4 style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; font-weight: 700;">Complete Trackable Relocation Claim Package:</h4>
+        <ol style="margin: 0; padding-left: 20px; color: #cbd5e1; line-height: 1.8; font-size: 0.95rem;">
+          <li><strong>Itemized GST Freight Invoice</strong> with SAC Code 996511 listing freight charges.</li>
+          <li><strong>Pre-Loading Vehicle Condition Audit Form</strong>.</li>
+          <li><strong>Consignment Lorry Receipt (LR Copy)</strong> with trackable 10-digit number.</li>
+          <li><strong>IBA Approved Registration Code &amp; Official Stamp</strong>.</li>
+          <li><strong>Full Transit Risk Insurance Certificate</strong>.</li>
+          <li><strong>Official Money Receipt</strong> for 100% industrial/academic/railway/government claim reimbursement.</li>
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 10. 10 Detailed FAQs + Valid JSON-LD FAQPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      <?php 
+      $schema_items = [];
+      foreach ($faq_list as $faq) {
+          $schema_items[] = '{
+            "@type": "Question",
+            "name": ' . json_encode($faq['q']) . ',
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": ' . json_encode($faq['a']) . '
+            }
+          }';
+      }
+      echo implode(',', $schema_items);
+      ?>
+    ]
+  }
+  </script>
+
+  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 40px;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions — <span style="color: #f59e0b;">Sugauli Bike Transport</span>
+        </h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+            <h3 style="font-size: 1.05rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($idx + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </p>
+          </div>
+        <?php endforeach; ?>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 11. Call-To-Action (CTA) Conversion Footer -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; text-align: center;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Book Bike Transportation in Sugauli
+      </span>
+
+      <h2 style="font-size: 2.2rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Ready for <span style="color: #f59e0b;">Damage-Free Bike Shipping</span>?
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Get your instant price estimate today! Free doorstep pickup across Sugauli Junction, Motihari Road, Raxaul Road &amp; Sugar Mill Colony, 7-layer fly-ash proof packaging, and 100% insured container truck delivery.
+      </p>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Support" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt"></i> Call Support: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20bike%20transport%20quote%20for%20Sugauli." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+
     </div>
   </section>
 
 </main>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bike transportation in Sugauli cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Charges depend on vehicle engine size and distance. Typically ranges between ₹1,800 and ₹5,800 depending on destination."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are required for bike transport from Sugauli?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You need a copy of the Vehicle RC, Insurance policy, and ID proof of the owner."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is doorstep pickup available in Sugauli?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide door-to-door pickup and delivery across Sugauli and East Champaran district."
-      }
-    }
-  ]
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  var extraMsg = form.querySelector('[name="message"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI am requesting a Bike Transport Quote for Sugauli, BR:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- Destination City: " + moveTo;
+  
+  if (extraMsg && extraMsg.trim() !== '') {
+    message += "\n- Bike Model: " + extraMsg;
+  }
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
 }
 </script>
 
