@@ -523,53 +523,6 @@ include '../includes/header.php';
     </div>
 </section>
 
-<!-- JSON-LD FAQPage & MovingCompany Schemas -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers - Bike Transport Bansgaon",
-      "image": "https://shreeashirwadpackersandmovers.com/images/logo.png",
-      "telePhone": "+919308888000",
-      "url": "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-bansgaon-gorakhpur.php",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bansgaon Market Road",
-        "addressLocality": "Bansgaon, Gorakhpur",
-        "addressRegion": "Uttar Pradesh",
-        "postalCode": "273403",
-        "addressCountry": "IN"
-      },
-      "priceRange": "₹2500 - ₹9500",
-      "description": "Scratch-resistant bike transportation service in Bansgaon Gorakhpur with multi-layer packing, door pickup, transit insurance, and IBA GST billing."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the cost of bike transportation in Bansgaon Gorakhpur?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bike courier charges start from ₹2,500 to ₹4,500 for standard commuter bikes and ₹4,000 to ₹7,500 for cruisers and sports bikes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is my bike protected against scratches during transit?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "We use a 7-step packaging process featuring foam padding, 80-GSM bubble wrap, corrugated sheets, stretch film, and heavy nylon wheel tie-downs."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
-
 <!-- Section 11: Call-To-Action (CTA) Conversion Footer -->
 <section class="cta-footer py-5 bg-custom text-white text-center">
     <div class="container">

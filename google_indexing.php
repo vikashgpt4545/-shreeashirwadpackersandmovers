@@ -9,6 +9,12 @@
  *  - Change batch size: php google_indexing.php --limit=50
  */
 
+// Ensure this script can only be executed via command line interface (CLI)
+if (php_sapi_name() !== 'cli') {
+    http_response_code(403);
+    die("Access denied. This maintenance script can only be executed via CLI.\n");
+}
+
 $rootDir = __DIR__;
 $credsPath = $rootDir . '/service_account.json';
 

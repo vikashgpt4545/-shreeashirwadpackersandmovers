@@ -1,8 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-// Set HTTP response code 404
+// Set HTTP response code 404 and 404 response flag
 http_response_code(404);
+$is_404_response = true;
 
 $page_title = "404 - Page Not Found | Shree Ashirwad Packers and Movers Ranchi";
 $page_desc = "The page you are looking for does not exist on Shree Ashirwad Packers and Movers Ranchi website. Return to our homepage or contact us for assistance.";

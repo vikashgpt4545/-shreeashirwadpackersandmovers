@@ -6,6 +6,25 @@ $page_desc = "Planning bike transport in Nanded? Get safe, insured, and doorstep
 $page_keywords = "bike transport nanded, best bike transport nanded, affordable bike transport nanded, packers and movers nanded, top bike transport nanded company, doorstep bike transport nanded, verified bike transport nanded services, shree ashirwad bike transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-nanded.php";
 
+$faq_list = [
+    [
+        'q' => 'How is bike transport in Nanded executed?',
+        'a' => 'We pick up your bike directly from your home in Nanded, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely.'
+    ],
+    [
+        'q' => 'What documents are mandatory for bike transport from Nanded?',
+        'a' => 'A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required.'
+    ],
+    [
+        'q' => 'Is doorstep pickup available in Vazirabad and CIDCO?',
+        'a' => 'Yes, doorstep collection and delivery services are fully active across Vazirabad, CIDCO, Taroda Naka, VIP Road, and Workshop Road.'
+    ],
+    [
+        'q' => 'Is transit insurance included?',
+        'a' => 'Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit.'
+    ]
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
@@ -353,45 +372,6 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is bike transport in Nanded executed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We pick up your bike directly from your home in Nanded, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are mandatory for bike transport from Nanded?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is doorstep pickup available in Vazirabad and CIDCO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, doorstep collection and delivery services are fully active across Vazirabad, CIDCO, Taroda Naka, VIP Road, and Workshop Road."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance included?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit."
-      }
-    }
-  ]
-}
-</script>
+
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

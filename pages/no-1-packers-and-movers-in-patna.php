@@ -239,49 +239,6 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<!-- Inline JSON-LD Structured Data Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    <?php 
-    $schema_faqs = [];
-    foreach ($faq_list as $faq) {
-        $schema_faqs[] = '{
-          "@type": "Question",
-          "name": ' . json_encode($faq['q']) . ',
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": ' . json_encode($faq['a']) . '
-          }
-        }';
-    }
-    echo implode(',', $schema_faqs);
-    ?>
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MovingCompany",
-  "name": "Shree Ashirwad Packers and Movers",
-  "description": "Patna's No. 1 packers and movers providing top-ranked 7-layer safety packaging, home relocation, and enclosed vehicle transport.",
-  "url": "<?php echo SITE_URL; ?>/no-1-packers-and-movers-in-patna.php",
-  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Patna",
-    "addressRegion": "Bihar",
-    "addressCountry": "IN"
-  },
-  "areaServed": "Patna, Bihar",
-  "priceRange": "₹4500 - ₹46000"
-}
-</script>
-
 <!-- Custom WhatsApp Lead Handler Script -->
 <script>
 function sendHeroWhatsAppLead(event) {

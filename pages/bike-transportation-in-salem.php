@@ -4,7 +4,18 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Bike Transportation in Salem | Secure Shifting Tamil Nadu";
 $page_desc = "Professional bike transportation in Salem, Tamil Nadu. Secure door-to-door two-wheeler shifting with 7-layer steel-dust, industrial-grit & highway-vibration proof packaging.";
 $page_keywords = "bike transportation in salem, bike shifting services salem, motorcycle transport salem tamil nadu, bike packers movers salem, two wheeler parcel salem to chennai, bike carrier service salem to bengaluru";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-salem.php";
+$faq_list = [
+    ['q' => 'How much does bike transportation from Salem to Bengaluru or Chennai cost?', 'a' => 'Intercity bike transportation rates from Salem start around ₹2,500 to ₹3,800 for nearby destinations like Bengaluru or Chennai, and ₹4,500 to ₹8,000 for long-distance routes like Salem to Delhi, Mumbai, or Hyderabad.'],
+    ['q' => 'How do you protect vehicles from industrial dust and heat in Salem?', 'a' => 'We wrap vehicles in multi-layer stretch film, high-density foam padding, and bubble sheets to shield painted surfaces, chrome parts, and engine components from abrasive industrial particulates and solar heat.'],
+    ['q' => 'How many days does bike transport take from Salem to Chennai or Bengaluru?', 'a' => 'Transit to Bengaluru or Chennai takes approximately 24 hours. Deliveries to Mumbai, Delhi, or Kolkata take 3 to 5 days via our daily enclosed vehicle logistics network.'],
+    ['q' => 'Is doorstep pickup available in Hasthampatti, Fairlands, and Suramangalam?', 'a' => 'Yes! We offer doorstep pickup across all areas of Salem, including Hasthampatti, Fairlands, Suramangalam, Ammapet, Steel Plant Township, and Salem Junction.'],
+    ['q' => 'Is transit insurance included with the bike transport cost?', 'a' => 'Full-risk transit insurance is provided for a nominal policy fee. It guarantees 100% financial compensation for any unexpected transit damage or accident.'],
+    ['q' => 'Should I drain fuel from my bike before transport?', 'a' => 'Yes, safety regulations mandate that fuel levels be reduced to 1-2 liters to prevent hazardous leaks or flammable fumes inside closed vehicle containers.'],
+    ['q' => 'Can I ship a Royal Enfield or heavy sports bike from Salem?', 'a' => 'Yes, our team is equipped with specialized ramps, heavy-duty wheel locks, and reinforced tie-down straps specifically designed for Royal Enfields, cruisers, and premium motorcycles.'],
+    ['q' => 'Do you provide GST bills for company relocation reimbursement?', 'a' => 'Yes, we provide official GST bills, IBA-format consignment notes, and itemized receipts required for corporate reimbursement.'],
+    ['q' => 'Can I track my vehicle live during transit?', 'a' => 'Yes, all our long-distance transport carriers feature GPS tracking, and real-time movement updates are sent directly to your WhatsApp.'],
+    ['q' => 'How do I book a bike transport slot in Salem?', 'a' => 'Fill out the quick quote form above or call/WhatsApp us directly at +91 8409531615. Our Salem logistics team will arrange doorstep pickup at your scheduled time.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -506,124 +517,5 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
 </main>
-
-<!-- Structured Data: FAQPage & MovingCompany JSON-LD -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "MovingCompany",
-      "@id": "https://shreeashirwadpackersandmovers.com/#organization",
-      "name": "Shree Ashirwad Packers and Movers Salem",
-      "url": "https://shreeashirwadpackersandmovers.com/",
-      "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
-      "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Salem",
-        "addressRegion": "Tamil Nadu",
-        "addressCountry": "IN"
-      },
-      "areaServed": [
-        {
-          "@type": "AdministrativeArea",
-          "name": "Salem"
-        },
-        {
-          "@type": "AdministrativeArea",
-          "name": "Tamil Nadu"
-        }
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How much does bike transportation from Salem to Bengaluru or Chennai cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Intercity bike transportation rates from Salem start around ₹2,500 to ₹3,800 for nearby destinations like Bengaluru or Chennai, and ₹4,500 to ₹8,000 for long-distance routes like Salem to Delhi, Mumbai, or Hyderabad."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do you protect vehicles from industrial dust and heat in Salem?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "We wrap vehicles in multi-layer stretch film, high-density foam padding, and bubble sheets to shield painted surfaces, chrome parts, and engine components from abrasive industrial particulates and solar heat."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How many days does bike transport take from Salem to Chennai or Bengaluru?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Transit to Bengaluru or Chennai takes approximately 24 hours. Deliveries to Mumbai, Delhi, or Kolkata take 3 to 5 days via our daily enclosed vehicle logistics network."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is doorstep pickup available in Hasthampatti, Fairlands, and Suramangalam?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes! We offer doorstep pickup across all areas of Salem, including Hasthampatti, Fairlands, Suramangalam, Ammapet, Steel Plant Township, and Salem Junction."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is transit insurance included with the bike transport cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Full-risk transit insurance is provided for a nominal policy fee. It guarantees 100% financial compensation for any unexpected transit damage or accident."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I drain fuel from my bike before transport?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, safety regulations mandate that fuel levels be reduced to 1-2 liters to prevent hazardous leaks or flammable fumes inside closed vehicle containers."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I ship a Royal Enfield or heavy sports bike from Salem?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, our team is equipped with specialized ramps, heavy-duty wheel locks, and reinforced tie-down straps specifically designed for Royal Enfields, cruisers, and premium motorcycles."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you provide GST bills for company relocation reimbursement?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, we provide official GST bills, IBA-format consignment notes, and itemized receipts required for corporate reimbursement."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I track my vehicle live during transit?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, all our long-distance transport carriers feature GPS tracking, and real-time movement updates are sent directly to your WhatsApp."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I book a bike transport slot in Salem?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Fill out the quick quote form above or call/WhatsApp us directly at <?php echo SITE_PHONE; ?>. Our Salem logistics team will arrange doorstep pickup at your scheduled time."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

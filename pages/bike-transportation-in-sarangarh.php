@@ -552,29 +552,4 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<!-- Dynamic FAQPage JSON-LD Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    <?php 
-    $schema_items = [];
-    foreach ($faq_list as $faq) {
-        $schema_items[] = json_encode([
-            "@type" => "Question",
-            "name" => $faq['question'],
-            "acceptedAnswer" => [
-                "@type" => "Answer",
-                "text" => $faq['answer']
-            ]
-        ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
-    }
-    echo implode(",\n    ", $schema_items);
-    ?>
-
-  ]
-}
-</script>
-
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

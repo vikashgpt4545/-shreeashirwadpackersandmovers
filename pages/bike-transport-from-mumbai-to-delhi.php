@@ -4,7 +4,13 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Bike Transport from Mumbai to Delhi | Safe Two-Wheeler Shifting";
 $page_desc = "Safe, insured & fast bike transport from Mumbai to Delhi NCR. Get transparent rate cards, 7-layer bubble wrapping, transit insurance, and instant WhatsApp estimates. Complete delivery across Dwarka, Rohini, South Ext, Janakpuri & Gurgaon.";
 $page_keywords = "bike transport from mumbai to delhi, bike packers mumbai to delhi, motorcycle shipping mumbai delhi, two wheeler parcel mumbai to delhi, bike courier charges mumbai delhi, shree ashirwad packers";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-from-mumbai-to-delhi.php";
+$faq_list = [
+    ['q' => 'How much does bike transport from Mumbai to Delhi cost?', 'a' => 'Door-to-door bike transport charges from Mumbai to Delhi NCR range between ₹3,800 to ₹4,500 for scooters, ₹4,200 to ₹5,200 for commuter bikes, and ₹5,800 to ₹7,200 for heavy motorcycles (Bullet/RE).'],
+    ['q' => 'How long does delivery take from Mumbai to Delhi?', 'a' => 'Direct container truck delivery takes between 3 to 5 days from Mumbai to Delhi NCR via the NH 48 highway corridor.'],
+    ['q' => 'Do you deliver to Gurgaon and Noida?', 'a' => 'Yes! We cover the entire Delhi NCR region including Delhi, Gurgaon, Noida, Greater Noida, Ghaziabad, and Faridabad.'],
+    ['q' => 'What documents are required for bike transport?', 'a' => 'You need to provide a copy of the Registration Certificate (RC), active bike insurance policy copy, owner ID proof (Aadhaar or DL), and PUC certificate.'],
+    ['q' => 'Is transit insurance included in the quotation?', 'a' => 'Yes, comprehensive transit insurance policy coverage is included to safeguard your motorcycle against any highway hazards.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -485,55 +491,5 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
 </main>
-
-<!-- Schema JSON-LD for Local SEO & FAQPage -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bike transport from Mumbai to Delhi cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Door-to-door bike transport charges from Mumbai to Delhi NCR range between ₹3,800 to ₹4,500 for scooters, ₹4,200 to ₹5,200 for commuter bikes, and ₹5,800 to ₹7,200 for heavy motorcycles (Bullet/RE)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does delivery take from Mumbai to Delhi?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Direct container truck delivery takes between 3 to 5 days from Mumbai to Delhi NCR via the NH 48 highway corridor."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you deliver to Gurgaon and Noida?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes! We cover the entire Delhi NCR region including Delhi, Gurgaon, Noida, Greater Noida, Ghaziabad, and Faridabad."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are required for bike transport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You need to provide a copy of the Registration Certificate (RC), active bike insurance policy copy, owner ID proof (Aadhaar or DL), and PUC certificate."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance included in the quotation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, comprehensive transit insurance policy coverage is included to safeguard your motorcycle against any highway hazards."
-      }
-    }
-  ]
-}
-</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

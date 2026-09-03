@@ -17,7 +17,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="breadcrumb-list" style="font-size: 0.88rem; color: #94a3b8;">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a></span>
         <span class="breadcrumb-separator" style="margin: 0 8px; color: #475569;">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/pages/services.php" title="Services" style="color: #f59e0b; text-decoration: none;">Services</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>services" title="Services" style="color: #f59e0b; text-decoration: none;">Services</a></span>
         <span class="breadcrumb-separator" style="margin: 0 8px; color: #475569;">/</span>
         <span class="breadcrumb-item active" style="color: #cbd5e1;"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
@@ -266,10 +266,10 @@ require_once __DIR__ . '/../includes/header.php';
         <p style="color: #94a3b8; margin-top: 8px;">Explore other major long-distance two-wheeler transport corridors.</p>
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-from-nagpur-to-pune.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Nagpur → Pune</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-from-kolhapur-to-pune.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kolhapur → Pune</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-from-hyderabad-to-pune.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Hyderabad → Pune</a>
-        <a href="<?php echo SITE_URL; ?>/pages/bike-transport-from-thane-to-pune.php" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Thane → Pune</a>
+        <a href="<?php echo SITE_URL; ?>bike-transport-from-nagpur-to-pune" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Nagpur → Pune</a>
+        <a href="<?php echo SITE_URL; ?>bike-transport-from-kolhapur-to-pune" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Kolhapur → Pune</a>
+        <a href="<?php echo SITE_URL; ?>bike-transport-from-hyderabad-to-pune" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Hyderabad → Pune</a>
+        <a href="<?php echo SITE_URL; ?>bike-transport-from-thane-to-pune" style="display: block; padding: 15px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #f59e0b; text-decoration: none; text-align: center;">Thane → Pune</a>
       </div>
     </div>
   </section>

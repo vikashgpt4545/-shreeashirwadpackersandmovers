@@ -4,7 +4,12 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Bike Transport in Gandhinagar | Safe Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Gandhinagar? Get safe, insured, and doorstep motorcycle shipping services. View estimated charges, transit times, and 7-layer packaging details across Sector 6, Sector 11, Sector 21, Info City, and Kudasan.";
 $page_keywords = "bike transport gandhinagar, best bike transport gandhinagar, affordable bike transport gandhinagar, packers and movers gandhinagar, top bike transport gandhinagar company, doorstep bike transport gandhinagar, verified bike transport gandhinagar services, shree ashirwad bike transport";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-gandhinagar.php";
+$faq_list = [
+    ['q' => 'How is bike transport in Gandhinagar executed?', 'a' => 'We pick up your bike directly from your home in Gandhinagar, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely.'],
+    ['q' => 'What documents are mandatory for bike transport from Gandhinagar?', 'a' => 'A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required.'],
+    ['q' => 'Is doorstep pickup available in GIFT City and Info City Gandhinagar?', 'a' => 'Yes, doorstep collection and delivery services are fully active across all sectors in Gandhinagar and GIFT City.'],
+    ['q' => 'Is transit insurance included?', 'a' => 'Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -352,46 +357,5 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
 </main>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is bike transport in Gandhinagar executed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We pick up your bike directly from your home in Gandhinagar, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are mandatory for bike transport from Gandhinagar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is doorstep pickup available in GIFT City and Info City Gandhinagar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, doorstep collection and delivery services are fully active across all sectors in Gandhinagar and GIFT City."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance included?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit."
-      }
-    }
-  ]
-}
-</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

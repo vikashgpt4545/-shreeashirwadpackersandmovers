@@ -14,35 +14,46 @@
     RewriteRule ^packers-and-movers-devipur-deoghar/?$ /packers-and-movers-devi-pur-deoghar [R=301,L]
 
     # 301 Redirect Patna Keyword-Variant Cannibalized Stubs
-    RewriteRule ^(pages/)?affordable-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?best-company-for-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?best-movers-and-packers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?best-packer-and-mover-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?best-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?best-packers-and-movers-service-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?cheap-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?home-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?list-of-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?local-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?movers-and-packers-in-patna-boring-road(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?movers-and-packers-in-patna-kankarbagh(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?movers-and-packers-in-patna-near-khajpura(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?movers-and-packers-in-patna-near-me(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?no-1-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?packers-and-mover-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?packers-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?professional-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?reliable-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?top-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?verified-packers-and-movers-in-patna(\.php)?$ /pages/packers-and-movers-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?bike-movers-and-packers-in-patna(\.php)?$ /pages/bike-transportation-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?bike-packers-and-movers-in-patna(\.php)?$ /pages/bike-transportation-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?car-movers-and-packers-in-patna(\.php)?$ /pages/car-transportation-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?car-packers-and-movers-in-patna(\.php)?$ /pages/car-transportation-in-patna.php [R=301,L]
-    RewriteRule ^(pages/)?iba-approved-movers-and-packers-in-patna(\.php)?$ /pages/iba-approved-packers-and-movers-in-patna.php [R=301,L]
+    RewriteRule ^(pages/)?affordable-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?best-company-for-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?best-movers-and-packers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?best-packer-and-mover-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?best-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?best-packers-and-movers-service-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?cheap-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?home-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?list-of-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?local-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-boring-road(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-kankarbagh(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-near-khajpura(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?movers-and-packers-in-patna-near-me(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?no-1-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?packers-and-mover-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?packers-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?professional-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?reliable-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?top-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?verified-packers-and-movers-in-patna(\.php)?$ /packers-and-movers-in-patna [R=301,L]
+    RewriteRule ^(pages/)?bike-movers-and-packers-in-patna(\.php)?$ /bike-transportation-in-patna [R=301,L]
+    RewriteRule ^(pages/)?bike-packers-and-movers-in-patna(\.php)?$ /bike-transportation-in-patna [R=301,L]
+    RewriteRule ^(pages/)?car-movers-and-packers-in-patna(\.php)?$ /car-transportation-in-patna [R=301,L]
+    RewriteRule ^(pages/)?car-packers-and-movers-in-patna(\.php)?$ /car-transportation-in-patna [R=301,L]
+    RewriteRule ^(pages/)?iba-approved-movers-and-packers-in-patna(\.php)?$ /iba-approved-packers-and-movers-in-patna [R=301,L]
 
     # Prevent Directory Browsing
     Options -Indexes
+
+    # Block direct public web access to sensitive service account credentials
+    <Files "service_account.json">
+        <IfModule mod_authz_core.c>
+            Require all denied
+        </IfModule>
+        <IfModule !mod_authz_core.c>
+            Order deny,allow
+            Deny from all
+        </IfModule>
+    </Files>
 
     # Force HTTPS for production domain (Skip on localhost/127.0.0.1)
     RewriteCond %{HTTP_HOST} !^localhost [NC]

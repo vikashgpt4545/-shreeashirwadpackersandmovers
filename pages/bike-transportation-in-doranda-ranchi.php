@@ -32,7 +32,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="breadcrumb-list">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php" title="Ranchi">Ranchi</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Ranchi">Ranchi</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
@@ -305,7 +305,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Ranchi Master Hub</h4>
           <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Main capital hub serving all Ranchi sub-localities.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-ranchi.php" title="Packers Movers Ranchi Master Hub →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers Movers Ranchi Master Hub →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
             Packers Movers Ranchi Master Hub →
           </a>
         </div>
@@ -313,7 +313,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Doranda House Shifting</h4>
           <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Doorstep household packing &amp; local house moving.</p>
-          <a href="<?php echo SITE_URL; ?>pages/packers-and-movers-in-doranda-ranchi.php" title="Packers Movers Doranda Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-doranda-ranchi" title="Packers Movers Doranda Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
             Packers Movers Doranda Ranchi →
           </a>
         </div>
@@ -321,7 +321,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Kanke Bike Courier</h4>
           <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Doorstep bike shipping from Kanke Road.</p>
-          <a href="<?php echo SITE_URL; ?>pages/bike-transportation-in-kanke-ranchi.php" title="Bike Transportation Kanke Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
+          <a href="<?php echo SITE_URL; ?>bike-transportation-in-kanke-ranchi" title="Bike Transportation Kanke Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
             Bike Transportation Kanke Ranchi →
           </a>
         </div>
@@ -329,7 +329,7 @@ require_once __DIR__ . '/../includes/header.php';
         <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
           <h4 style="color: #ffffff; font-size: 1.05rem; margin-bottom: 6px;">Lalpur Bike Courier</h4>
           <p style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 8px;">Doorstep bike shipping from Lalpur sector.</p>
-          <a href="<?php echo SITE_URL; ?>pages/bike-transportation-in-lalpur-ranchi.php" title="Bike Transportation Lalpur Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
+          <a href="<?php echo SITE_URL; ?>bike-transportation-in-lalpur-ranchi" title="Bike Transportation Lalpur Ranchi →" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.88rem;">
             Bike Transportation Lalpur Ranchi →
           </a>
         </div>

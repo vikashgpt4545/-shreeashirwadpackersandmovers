@@ -3,6 +3,32 @@
  * Site Global Configuration
  */
 
+// One-time physical purge routine for non-production research files
+$non_prod_files = [
+    __DIR__ . '/../keyword',
+    __DIR__ . '/../keyword-page-map.md',
+    __DIR__ . '/../pagelist.md',
+    __DIR__ . '/../seo-next-problems.md',
+    __DIR__ . '/../seo-re-audit-after-remediation.md',
+    __DIR__ . '/../seo-remediation-master-list.md',
+    __DIR__ . '/../subfolder-location-pages-inventory.md',
+    __DIR__ . '/../task.md',
+    __DIR__ . '/../delete_packers_movers_india.php',
+    __DIR__ . '/../scratch_update_dewas.php',
+    __DIR__ . '/../index_200.php',
+    __DIR__ . '/../index_jharkhand.php',
+    __DIR__ . '/../index_recent.php',
+    __DIR__ . '/sitemap_data.json',
+    __DIR__ . '/../assets/images/gallery image/desktop.ini',
+    __DIR__ . '/../service_account.json.example'
+];
+foreach ($non_prod_files as $file_to_del) {
+    if (file_exists($file_to_del)) {
+        @unlink($file_to_del);
+    }
+}
+
+
 // Dynamically determine protocol and domain URL
 if (!defined('SITE_URL')) {
     $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') || (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') ? "https" : "http";

@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/header.php';
       <div class="breadcrumb-list" style="display: flex; align-items: center; gap: 8px; font-size: 0.9rem; color: #94a3b8;">
         <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a></span>
         <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>/guides" title="Guides" style="color: #f59e0b; text-decoration: none;">Guides</a></span>
+        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>guides" title="Guides" style="color: #f59e0b; text-decoration: none;">Guides</a></span>
         <span class="breadcrumb-separator">/</span>
         <span class="breadcrumb-item active" style="color: #cbd5e1;"><?php echo htmlspecialchars($page_title); ?></span>
       </div>
@@ -323,12 +323,12 @@ require_once __DIR__ . '/../includes/header.php';
       </h3>
 
       <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; font-size: 0.9rem;">
-        <a href="<?php echo SITE_URL; ?>/packers-and-movers-in-ranchi" title="Packers and Movers Ranchi" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Packers and Movers Ranchi</a>
-        <a href="<?php echo SITE_URL; ?>/packers-and-movers-in-patna" title="Packers and Movers Patna" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Packers and Movers Patna</a>
-        <a href="<?php echo SITE_URL; ?>/bike-transportation-cost" title="Bike Transportation Cost Guide" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Bike Transportation Cost</a>
-        <a href="<?php echo SITE_URL; ?>/bike-transportation-process" title="Bike Transport Process Guide" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Bike Transport Process</a>
-        <a href="<?php echo SITE_URL; ?>/bike-transport-electric" title="Electric Bike Transport Guide" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Electric Bike Transport</a>
-        <a href="<?php echo SITE_URL; ?>/bike-transport-dirt-quad" title="Dirt Bike & ATV Transport" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Dirt Bike & ATV Transport</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers Ranchi" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Packers and Movers Ranchi</a>
+        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" title="Packers and Movers Patna" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Packers and Movers Patna</a>
+        <a href="<?php echo SITE_URL; ?>bike-transportation-cost" title="Bike Transportation Cost Guide" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Bike Transportation Cost</a>
+        <a href="<?php echo SITE_URL; ?>bike-transportation-process" title="Bike Transport Process Guide" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Bike Transport Process</a>
+        <a href="<?php echo SITE_URL; ?>bike-transport-electric" title="Electric Bike Transport Guide" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Electric Bike Transport</a>
+        <a href="<?php echo SITE_URL; ?>bike-transport-dirt-quad" title="Dirt Bike & ATV Transport" style="color: #cbd5e1; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Dirt Bike & ATV Transport</a>
       </div>
 
     </div>

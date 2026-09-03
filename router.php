@@ -2,6 +2,20 @@
 // router.php - Router script for PHP built-in CLI server (php -S)
 
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+
+// Explicit route for dynamic sitemap XML (matches Apache .htaccess rewrite rule)
+if ($uri === '/sitemap.xml') {
+    require __DIR__ . '/generate_sitemap.php';
+    exit;
+}
+
+// Prevent public web access to sensitive credential files (matches Apache .htaccess rule)
+if ($uri === '/service_account.json' || basename($uri) === 'service_account.json') {
+    http_response_code(403);
+    echo "<h1>403 Forbidden</h1><p>Direct web access to this resource is restricted.</p>";
+    exit;
+}
+
 $filePath = __DIR__ . $uri;
 
 // 1. Serve static files directly (CSS, JS, images, font files)

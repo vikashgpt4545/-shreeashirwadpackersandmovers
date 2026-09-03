@@ -523,53 +523,6 @@ include '../includes/header.php';
     </div>
 </section>
 
-<!-- JSON-LD FAQPage & MovingCompany Schemas -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers - Car Transport Chauri Chaura",
-      "image": "https://shreeashirwadpackersandmovers.com/images/logo.png",
-      "telePhone": "+919308888000",
-      "url": "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-chauri-chaura-gorakhpur.php",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Chauri Chaura Main Market",
-        "addressLocality": "Chauri Chaura, Gorakhpur",
-        "addressRegion": "Uttar Pradesh",
-        "postalCode": "273201",
-        "addressCountry": "IN"
-      },
-      "priceRange": "₹6500 - ₹22000",
-      "description": "Professional car transportation service in Chauri Chaura Gorakhpur utilizing enclosed car carriers, door pickup, transit insurance, and IBA GST bills."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How is my car transported from Chauri Chaura to another city?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Your vehicle is loaded onto a specialized covered multi-car trailer using hydraulic ramps and locked firmly with wheel chocks."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the cost of car transportation from Chauri Chaura Gorakhpur?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Car transportation charges depend on vehicle type and destination distance. Intercity rates start from ₹6,500 to ₹18,500."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
-
 <!-- Section 11: Call-To-Action (CTA) Conversion Footer -->
 <section class="cta-footer py-5 bg-custom text-white text-center">
     <div class="container">

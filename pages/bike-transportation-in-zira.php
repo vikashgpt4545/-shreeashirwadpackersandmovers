@@ -6,6 +6,19 @@ $page_desc = "Professional two-wheeler relocation in Zira, Firozpur district, Pu
 $page_keywords = "bike transportation in zira, bike movers zira, two wheeler transport zira punjab, motorcycle shifting zira firozpur, bike parcel service zira";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transportation-in-zira.php";
 
+$faq_list = [
+    ['q' => 'How much does bike transportation in Zira cost?', 'a' => 'Charges depend on vehicle model and distance. Typically ranges between ₹1,800 and ₹5,000 for inter-state shifting from Punjab.'],
+    ['q' => 'What documents are required for bike transport from Zira?', 'a' => 'You need a copy of the Vehicle Registration Certificate (RC), active Insurance policy, and owner\'s photo ID proof (Aadhaar or Driving License).'],
+    ['q' => 'Is doorstep pickup available in Zira?', 'a' => 'Yes, we provide door-to-door pickup across Main Bazaar Zira, Firozpur Road, Makhu Highway, Talwandi Bhai Road, and nearby villages.'],
+    ['q' => 'How is the bike protected against paddy harvest dust and winter fog in Zira?', 'a' => 'We use weather-resistant 7-layer packaging featuring moisture-barrier stretch film, 80-GSM bubble sheets, corrugated casing, foam padding, and closed container truck shipping.'],
+    ['q' => 'Is transit insurance included in two-wheeler shifting from Zira?', 'a' => 'Yes, 100% transit insurance coverage is arranged to safeguard your vehicle\'s declared valuation during highway transit.'],
+    ['q' => 'Must fuel be drained before bike transport?', 'a' => 'Yes, petrol levels must be kept under 1 liter to comply with national highway transport safety regulations.'],
+    ['q' => 'How long does bike delivery take from Zira to Delhi or Mumbai?', 'a' => 'Delivery to Delhi or Chandigarh takes 24–48 hours, while transit to Mumbai, Bengaluru, or Hyderabad takes 3–5 days.'],
+    ['q' => 'Do you issue IBA approved GST bills for relocation claim?', 'a' => 'Yes, we supply 100% genuine IBA-compliant GST tax invoices, consignment bills (LR copies), and condition reports for claim reimbursement.'],
+    ['q' => 'Can heavy Bullet, Royal Enfield, and sports bikes be transported safely from Zira?', 'a' => 'Yes, we offer specialized enclosed wooden crate packaging and heavy-duty nylon belt locking for Bullet, Royal Enfield, and sports bikes.'],
+    ['q' => 'How do I track my motorcycle shipment from Zira?', 'a' => 'We provide real-time updates via WhatsApp from loading in Zira to final destination delivery.']
+];
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
@@ -309,95 +322,6 @@ function sendHeroWhatsAppLead(event, form) {
   
   var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
   window.location.href = whatsappUrl;
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bike transportation in Zira cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Charges depend on vehicle model and distance. Typically ranges between ₹1,800 and ₹5,000 for inter-state shifting from Punjab."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are required for bike transport from Zira?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You need a copy of the Vehicle Registration Certificate (RC), active Insurance policy, and owner's photo ID proof (Aadhaar or Driving License)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is doorstep pickup available in Zira?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide door-to-door pickup across Main Bazaar Zira, Firozpur Road, Makhu Highway, Talwandi Bhai Road, and nearby villages."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is the bike protected against paddy harvest dust and winter fog in Zira?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We use weather-resistant 7-layer packaging featuring moisture-barrier stretch film, 80-GSM bubble sheets, corrugated casing, foam padding, and closed container truck shipping."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance included in two-wheeler shifting from Zira?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, 100% transit insurance coverage is arranged to safeguard your vehicle's declared valuation during highway transit."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Must fuel be drained before bike transport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, petrol levels must be kept under 1 liter to comply with national highway transport safety regulations."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does bike delivery take from Zira to Delhi or Mumbai?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Delivery to Delhi or Chandigarh takes 24–48 hours, while transit to Mumbai, Bengaluru, or Hyderabad takes 3–5 days."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you issue IBA approved GST bills for relocation claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we supply 100% genuine IBA-compliant GST tax invoices, consignment bills (LR copies), and condition reports for claim reimbursement."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can heavy Bullet, Royal Enfield, and sports bikes be transported safely from Zira?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we offer specialized enclosed wooden crate packaging and heavy-duty nylon belt locking for Bullet, Royal Enfield, and sports bikes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I track my motorcycle shipment from Zira?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We provide real-time updates via WhatsApp from loading in Zira to final destination delivery."
-      }
-    }
-  ]
 }
 </script>
 

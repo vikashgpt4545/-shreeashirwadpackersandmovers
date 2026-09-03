@@ -2,8 +2,8 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transport from Delhi to Kerala | Safe Auto Carrier";
-$page_desc = "Secure car transport from Delhi to Kerala. Certified open & enclosed car carriers, door-to-door shipping, real-time GPS tracking, and comprehensive transit insurance. Complete door-to-door relocation coverage across Connaught Place, Dwarka, Rohini, South Ext, Janakpuri, Laxmi Nagar.";
-$page_keywords = "car transport from delhi to kerala, best car transport from delhi to kerala, affordable car transport from delhi to kerala, packers and movers, packers and movers in ranchi, top car transport from delhi to kerala company, household shifting car transport from delhi to kerala, doorstep car transport from delhi to kerala, verified car transport from delhi to kerala services, shree ashirwad car transport from delhi to kerala";
+$page_desc = "Secure car transport from Delhi to Kerala by Shree Ashirwad Packers and Movers. Express 6-8 day North-South corridor transit via NH44/NH544 (~2,600 km), 100% all-risk transit insurance & doorstep pickup across Delhi NCR to Kochi, Trivandrum & Kozhikode.";
+$page_keywords = "car transport from delhi to kerala, best car transport from delhi to kerala, affordable car transport from delhi to kerala, doorstep car transport from delhi to kerala, delhi to kerala car shipping cost, vehicle transport";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transport-from-delhi-to-kerala.php";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -30,34 +30,34 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            CAR TRANSPORT FROM DELHI KERAL RELOCATION SPECIALISTS
+            DELHI TO KERALA CAR RELOCATION SPECIALISTS
           </span>
-          <h1 style="font-size: 2.7rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
             Professional <span style="color: #f59e0b;">Car Transport from Delhi to Kerala</span>
           </h1>
-          <p style="font-size: 1.12rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Secure car transport from Delhi to Kerala. Certified open & enclosed car carriers, door-to-door shipping, real-time GPS tracking, and comprehensive transit insurance. Complete door-to-door relocation coverage across Connaught Place, Dwarka, Rohini, South Ext, Janakpuri, Laxmi Nagar.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Relocating your vehicle ~2,600 km from Delhi NCR to Kerala (Kochi, Thiruvananthapuram, Kozhikode)? Trust Shree Ashirwad Packers and Movers for the <strong>best car transport from delhi to kerala</strong>. Express 6-8 day transit via NH44 &amp; NH544, <strong>doorstep car transport from delhi to kerala</strong>, 100% all-risk transit insurance, and enclosed multi-car carriers.
           </p>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
               <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20car%20transport%20quote%20from%20Delhi%20to%20Kerala." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
 
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100% Insured</strong> Shifting</span>
-            <span><strong style="color: #f59e0b;">7-Layer</strong> Bubble Packaging</span>
-            <span><strong style="color: #f59e0b;">Door-to-Door</strong> Delivery</span>
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">Express 6-8 Day</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transport</span>
+            <span><strong style="color: #f59e0b;">Doorstep</strong> Delivery</span>
           </div>
         </div>
 
         <!-- Hero Lead Form Column -->
         <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Connaught Place Shifting Quote</h2>
+          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Delhi to Kerala Quote</h2>
           <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost estimation on WhatsApp in 2 minutes</p>
 
           <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
@@ -68,8 +68,8 @@ require_once __DIR__ . '/../includes/header.php';
               <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" value="Connaught Place" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City/Area)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_from" class="form-control" value="Delhi NCR" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
+              <input type="text" name="move_to" class="form-control" placeholder="Kerala (Kochi/Trivandrum)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
             </div>
             <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1rem; cursor: pointer;">
               Get Instant Estimate Now &rarr;
@@ -81,8 +81,267 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section: Trusted Relocation Track Record & Stats -->
+  <!-- Detailed Informational Guide Section -->
+  <article class="info-guide-article-section" style="padding: 60px 0; background: #070d19; color: #ffffff;">
+    <div class="container" style="max-width: 980px; margin: 0 auto; padding: 0 15px;">
+      
+      <!-- Summary Card -->
+      <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 35px 30px; margin-bottom: 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+        
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 15px; margin-bottom: 20px;">
+          <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">
+            MASTER GUIDE &bull; DELHI TO KERALA CAR TRANSPORT
+          </span>
+          <div style="font-size: 0.85rem; color: #94a3b8; display: flex; gap: 15px;">
+            <span><i class="far fa-user" style="color: #f59e0b; margin-right: 5px;"></i> Shree Ashirwad Vehicle Logistics</span>
+            <span><i class="far fa-clock" style="color: #f59e0b; margin-right: 5px;"></i> 7 Min Read</span>
+          </div>
+        </div>
+
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; line-height: 1.35; margin-bottom: 18px;">
+          Complete Guide: Car Transport from Delhi to Kerala
+        </h2>
+
+        <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.75; margin: 0;">
+          Shipping vehicles ~2,600 km between <strong>Delhi NCR</strong> and <strong>Kerala</strong> requires <strong>affordable car transport from delhi to kerala</strong>. Shree Ashirwad Packers and Movers provides express 6-8 day door-to-door car carrier services with 100% all-risk transit protection.
+        </p>
+
+        <!-- Key Highlights Box -->
+        <div style="background: rgba(245, 158, 11, 0.08); border-left: 4px solid #f59e0b; border-radius: 8px; padding: 20px 22px; margin-top: 25px;">
+          <h3 style="font-size: 1.05rem; font-weight: 700; color: #f59e0b; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.5px;">
+            <i class="fas fa-star" style="margin-right: 8px;"></i> Key Service Features
+          </h3>
+          <ul style="margin: 0; padding-left: 20px; color: #cbd5e1; font-size: 0.93rem; line-height: 1.75;">
+            <li>Express 6 to 8 day transit duration via NH44 &amp; NH544 North-South national highway corridor (~2,600 km).</li>
+            <li>Detailed 25-point visual condition report and odometer reading documentation before loading.</li>
+            <li>Enclosed container options shielding vehicles against highway gravel, rain, and monsoon moisture.</li>
+            <li>Full assistance with Delhi to Kerala checkpost paperwork and e-Way Bills.</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <!-- Main Content Body -->
+      <div style="background: #0f172a; border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 40px 35px; line-height: 1.8; color: #cbd5e1; font-size: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+        
+        <!-- Section 1: Route & Logistics -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            1. Delhi to Kerala Route Logistics &amp; Transit Time
+          </h2>
+          <p>
+            The highway corridor connecting Delhi NCR to Kerala covers approximately 2,600 kilometers traveling through Agra, Nagpur, Hyderabad, and Bengaluru into Kerala. Estimated transit duration is <strong>6 to 8 business days</strong>.
+          </p>
+          <p style="margin-top: 12px;">
+            We collect vehicles directly across all Delhi NCR sectors (Connaught Place, Dwarka, Rohini, South Ext, Janakpuri, Laxmi Nagar, Noida, Gurgaon) and deliver across Kerala (Kochi, Thiruvananthapuram, Kozhikode, Thrissur, Kollam, Kottayam, Palakkad).
+          </p>
+        </section>
+
+        <!-- Section 2: Estimated Car Shipping Cost Breakdown -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            2. Estimated Cost Breakdown: Delhi to Kerala Car Transport
+          </h2>
+          <p>
+            Here is our transparent rate table for shipping cars between Delhi and Kerala:
+          </p>
+
+          <div style="overflow-x: auto; margin: 25px 0;">
+            <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem; color: #cbd5e1;">
+              <thead>
+                <tr style="background: #1e293b; color: #f59e0b; border-bottom: 2px solid rgba(245, 158, 11, 0.5);">
+                  <th style="padding: 14px 16px;">Vehicle Category</th>
+                  <th style="padding: 14px 16px;">Open Trailer Carrier</th>
+                  <th style="padding: 14px 16px;">Enclosed Container Carrier</th>
+                  <th style="padding: 14px 16px;">Estimated Transit</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+                  <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Hatchback (Swift, WagonR, i10)</td>
+                  <td style="padding: 14px 16px;">₹14,000 - ₹17,500</td>
+                  <td style="padding: 14px 16px;">₹18,500 - ₹22,500</td>
+                  <td style="padding: 14px 16px;">6 - 7 Days</td>
+                </tr>
+                <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+                  <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Sedan (City, Verna, Ciaz)</td>
+                  <td style="padding: 14px 16px;">₹16,000 - ₹20,000</td>
+                  <td style="padding: 14px 16px;">₹21,000 - ₹25,500</td>
+                  <td style="padding: 14px 16px;">6 - 7 Days</td>
+                </tr>
+                <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+                  <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Compact SUV (Nexon, Creta, Brezza)</td>
+                  <td style="padding: 14px 16px;">₹18,000 - ₹22,500</td>
+                  <td style="padding: 14px 16px;">₹23,500 - ₹29,000</td>
+                  <td style="padding: 14px 16px;">7 - 8 Days</td>
+                </tr>
+                <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+                  <td style="padding: 14px 16px; font-weight: 600; color: #ffffff;">Luxury SUV / Premium (Fortuner, BMW, Audi)</td>
+                  <td style="padding: 14px 16px;">₹22,000 - ₹27,500</td>
+                  <td style="padding: 14px 16px;">₹29,000 - ₹35,000</td>
+                  <td style="padding: 14px 16px;">7 - 8 Days</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <!-- Section 3: Safety Protocols -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            3. Safety &amp; Protection Standards
+          </h2>
+          <p>
+            Vehicles are loaded using non-scratch hydraulic ramps and locked securely using 4-point wheel tie-down safety belts.
+          </p>
+        </section>
+
+        <!-- Section 4: Mandatory Documents -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            4. Required Documents for Interstate Transport
+          </h2>
+          <p>Provide copies of RC Smart Card, valid Insurance policy, PUC certificate, Owner ID proof, and e-Way Bill generated by our team.</p>
+        </section>
+
+        <!-- Section 5: Step-by-Step Relocation Process -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            5. Step-by-Step Delhi to Kerala Relocation Process
+          </h2>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 20px;">
+            <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 20px;">
+              <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">STEP 1</div>
+              <h4 style="color: #fff; margin-bottom: 8px;">Door Inspection</h4>
+              <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">25-point visual check conducted at your Delhi address.</p>
+            </div>
+            <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 20px;">
+              <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">STEP 2</div>
+              <h4 style="color: #fff; margin-bottom: 8px;">Trailer Loading</h4>
+              <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Loaded using non-scraping hydraulic ramps and wheel safety clamps.</p>
+            </div>
+            <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 20px;">
+              <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">STEP 3</div>
+              <h4 style="color: #fff; margin-bottom: 8px;">North-South Transit</h4>
+              <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">NH44 corridor transit with direct SMS / WhatsApp location updates.</p>
+            </div>
+            <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 20px;">
+              <div style="color: #f59e0b; font-weight: 800; font-size: 1.2rem; margin-bottom: 8px;">STEP 4</div>
+              <h4 style="color: #fff; margin-bottom: 8px;">Kerala Handover</h4>
+              <p style="font-size: 0.88rem; color: #94a3b8; margin: 0;">Door delivery across Kerala after final physical inspection.</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 6: Factors Influencing Cost -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            6. Factors Influencing Vehicle Shifting Tariffs
+          </h2>
+          <p>Key cost factors include carrier selection (open trailer vs enclosed container), car size category, and pickup location accessibility.</p>
+        </section>
+
+        <!-- Section 7: Local Coverage Areas -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            7. Complete Coverage: Delhi to Kerala
+          </h2>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 15px;">
+            <div style="background: rgba(255,255,255,0.02); padding: 18px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.08);">
+              <h4 style="color: #f59e0b; margin-bottom: 10px;">Delhi NCR Pickup Areas</h4>
+              <p style="font-size: 0.9rem; color: #94a3b8; margin: 0; line-height: 1.6;">
+                Connaught Place, Dwarka, Rohini, South Ext, Janakpuri, Laxmi Nagar, Saket, Vasant Kunj, Noida, Gurgaon.
+              </p>
+            </div>
+            <div style="background: rgba(255,255,255,0.02); padding: 18px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.08);">
+              <h4 style="color: #f59e0b; margin-bottom: 10px;">Kerala Delivery Areas</h4>
+              <p style="font-size: 0.9rem; color: #94a3b8; margin: 0; line-height: 1.6;">
+                Kochi (Ernakulam), Thiruvananthapuram, Kozhikode, Thrissur, Kollam, Kottayam, Palakkad, Alappuzha.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 8: FAQ Section -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            8. Frequently Asked Questions: Delhi to Kerala Car Transport
+          </h2>
+
+          <div style="display: flex; flex-direction: column; gap: 15px;">
+            <div style="background: rgba(255,255,255,0.03); border-radius: 8px; padding: 18px 20px; border: 1px solid rgba(255,255,255,0.08);">
+              <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">Q1: What is the car transport cost from Delhi to Kerala?</h4>
+              <p style="margin: 0; font-size: 0.95rem; color: #cbd5e1;">
+                Average car shipping rates range from ₹14,000 to ₹22,500 for open trailers and ₹18,500 to ₹35,000 for enclosed container carriers.
+              </p>
+            </div>
+
+            <div style="background: rgba(255,255,255,0.03); border-radius: 8px; padding: 18px 20px; border: 1px solid rgba(255,255,255,0.08);">
+              <h4 style="color: #f59e0b; margin-bottom: 8px; font-size: 1.05rem;">Q2: What is the transit duration between Delhi and Kerala?</h4>
+              <p style="margin: 0; font-size: 0.95rem; color: #cbd5e1;">
+                Vehicle delivery along the ~2,600 km North-South highway corridor takes approximately 6 to 8 business days.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 9: Why Choose Us -->
+        <section style="margin-bottom: 35px;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">
+            9. Why Choose Shree Ashirwad Packers and Movers?
+          </h2>
+          <p>Over 15+ years of nationwide vehicle relocation experience, 100% insured transit, and transparent tariffs.</p>
+        </section>
+
+        <!-- Section 10: Call to Action (CTA) Box -->
+        <section style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 12px; padding: 30px; text-align: center; margin-top: 40px;">
+          <h3 style="font-size: 1.6rem; color: #ffffff; font-weight: 800; margin-bottom: 10px;">
+            Book Car Transport from Delhi to Kerala Today!
+          </h3>
+          <p style="color: #cbd5e1; font-size: 0.98rem; max-width: 700px; margin: 0 auto 20px;">
+            Get exact pricing breakdown, free doorstep vehicle inspection, and 100% insured transport.
+          </p>
+          <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 12px 30px; background: #e11d48; color: #fff; border-radius: 30px; font-weight: 700; text-decoration: none;">
+              <i class="fas fa-phone-alt" style="margin-right: 6px;"></i> Call <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20want%20a%20car%20transport%20quote%20from%20Delhi%20to%20Kerala." target="_blank" style="padding: 12px 30px; background: #10b981; color: #fff; border-radius: 30px; font-weight: 700; text-decoration: none;">
+              <i class="fab fa-whatsapp" style="margin-right: 6px;"></i> Instant WhatsApp Quote
+            </a>
+          </div>
+        </section>
+
+      </div>
+
+    </div>
+  </article>
 
 </main>
+
+<!-- Section 11: Structured FAQ Schema Markup (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the car transport cost from Delhi to Kerala?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Average car shipping rates range from ₹14,000 to ₹22,500 for open trailers and ₹18,500 to ₹35,000 for enclosed container carriers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the transit duration between Delhi and Kerala?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vehicle delivery along the ~2,600 km North-South highway corridor takes approximately 6 to 8 business days."
+      }
+    }
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

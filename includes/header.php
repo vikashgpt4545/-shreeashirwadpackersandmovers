@@ -22,9 +22,26 @@ require_once __DIR__ . '/config.php';
   $clean_slug = preg_replace('/\.php$/i', '', $clean_slug);
   $clean_slug = trim($clean_slug, '/');
 
+  $base_canonical = defined('CANONICAL_BASE_URL') ? CANONICAL_BASE_URL : SITE_URL;
+
   if (!isset($canonical_url) || empty($canonical_url)) {
-      $base_canonical = defined('CANONICAL_BASE_URL') ? CANONICAL_BASE_URL : SITE_URL;
       $canonical_url = ($clean_slug === '' || $clean_slug === 'index') ? $base_canonical : rtrim($base_canonical, '/') . '/' . $clean_slug;
+  } else {
+      // Normalize pre-set $canonical_url if it contains legacy non-canonical /pages/ path or .php extension
+      $parsed_canonical = parse_url($canonical_url);
+      if (isset($parsed_canonical['path'])) {
+          $c_path = $parsed_canonical['path'];
+          if (strpos($c_path, '/pages/') !== false || substr($c_path, -4) === '.php') {
+              $c_slug = trim($c_path, '/');
+              $c_slug = preg_replace('/^pages\//i', '', $c_slug);
+              $c_slug = preg_replace('/\.php$/i', '', $c_slug);
+              $c_slug = preg_replace('#/+#', '/', $c_slug);
+              $c_slug = trim($c_slug, '/');
+
+              $c_base = rtrim($base_canonical, '/');
+              $canonical_url = ($c_slug === '' || $c_slug === 'index') ? $c_base . '/' : $c_base . '/' . $c_slug;
+          }
+      }
   }
 
   // Dynamic Target City Detection for Multi-City Schema & GEO Context
@@ -44,18 +61,26 @@ require_once __DIR__ . '/config.php';
   $city_details = get_city_details($target_city);
 
   // Dynamic Social Open Graph Image Selection based on Page Category / Slug
-  $og_image_url = SITE_URL . "assets/images/logo.png";
+  $default_og_image = "assets/images/logo.png";
+  $selected_og_image = "assets/images/logo.png";
+
   if (stripos($clean_slug, 'car') !== false) {
-      $og_image_url = SITE_URL . "assets/images/car-carrier.jpg";
+      $selected_og_image = "assets/images/car-carrier.jpg";
   } elseif (stripos($clean_slug, 'bike') !== false) {
-      $og_image_url = SITE_URL . "assets/images/bike-transport.jpg";
+      $selected_og_image = "assets/images/bike-transport.jpg";
   } elseif (stripos($clean_slug, 'office') !== false) {
-      $og_image_url = SITE_URL . "assets/images/office-shifting.jpg";
+      $selected_og_image = "assets/images/office-shifting.jpg";
   } elseif (stripos($clean_slug, 'warehouse') !== false || stripos($clean_slug, 'storage') !== false) {
-      $og_image_url = SITE_URL . "assets/images/warehouse.jpg";
+      $selected_og_image = "assets/images/warehouse.jpg";
   }
+
+  if (!file_exists(__DIR__ . '/../' . $selected_og_image)) {
+      $selected_og_image = $default_og_image;
+  }
+
+  $og_image_url = SITE_URL . $selected_og_image;
   
-  $is_404_response = (http_response_code() === 404 || $clean_slug === '404' || (isset($page_title) && strpos($page_title, '404') !== false));
+  $is_404_response = (isset($is_404_response) && $is_404_response === true) || (http_response_code() === 404 || $clean_slug === '404' || (isset($page_title) && strpos($page_title, '404') !== false));
 ?>
 <?php if (!$is_404_response): ?>
   <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
@@ -97,190 +122,201 @@ require_once __DIR__ . '/config.php';
   <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.css">
 
   <!-- Schema.org JSON-LD Connected Entity Knowledge Graph for Local Business SEO & AI Search (GEO) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "MovingCompany",
-        "@id": "<?php echo SITE_URL; ?>#organization",
-        "name": "Shree Ashirwad Packers and Movers",
-        "alternateName": "Packers and Movers <?php echo htmlspecialchars($target_city); ?>",
-        "image": "<?php echo SITE_URL; ?>assets/images/logo.png",
-        "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-        "email": "<?php echo SITE_EMAIL; ?>",
-        "url": "<?php echo SITE_URL; ?>",
-        "priceRange": "\u20b9\u20b9",
-        "currenciesAccepted": "INR",
-        "paymentAccepted": "Cash, Credit Card, Debit Card, UPI, Net Banking",
-        "address": [
-          {
-            "@type": "PostalAddress",
-            "streetAddress": "<?php echo htmlspecialchars($city_details['street']); ?>",
-            "addressLocality": "<?php echo htmlspecialchars($city_details['address_locality'] ?? $city_details['name']); ?>",
-            "addressRegion": "<?php echo htmlspecialchars($city_details['state']); ?>",
-            "postalCode": "<?php echo htmlspecialchars($city_details['pincode']); ?>",
-            "addressCountry": "IN"
-          }
-        ],
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": <?php echo $city_details['lat']; ?>,
-          "longitude": <?php echo $city_details['lng']; ?>
-        },
-        "hasMap": "<?php echo GMB_MAPS_URL; ?>",
-        "sameAs": [
-          "<?php echo GMB_MAPS_URL; ?>",
-          "<?php echo FACEBOOK_URL; ?>",
-          "<?php echo YOUTUBE_URL; ?>"
-        ],
-        "areaServed": ["<?php echo htmlspecialchars($target_city); ?>", "Ranchi", "Jamshedpur", "Bokaro", "Dhanbad", "Hazaribagh", "Jharkhand", "India"],
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "Relocation Services",
-          "itemListElement": [
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "@id": "<?php echo SITE_URL; ?>#service-household-shifting",
-                "name": "Household Shifting in <?php echo htmlspecialchars($target_city); ?>",
-                "description": "Complete home relocation services in <?php echo htmlspecialchars($target_city); ?> with 7-layer bubble wrap packing, furniture disassembly, enclosed container truck transport, and room-by-room setup at destination.",
-                "serviceType": "Household Shifting",
-                "provider": {
-                  "@id": "<?php echo SITE_URL; ?>#organization"
-                },
-                "areaServed": {
-                  "@type": "City",
-                  "name": "<?php echo htmlspecialchars($target_city); ?>"
-                }
-              }
-            },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "@id": "<?php echo SITE_URL; ?>#service-office-shifting",
-                "name": "Office and Commercial Shifting in <?php echo htmlspecialchars($target_city); ?>",
-                "description": "Zero-downtime corporate office relocation in <?php echo htmlspecialchars($target_city); ?> with anti-static IT hardware packing, tagged file inventory, and weekend or overnight shifting execution.",
-                "serviceType": "Office Shifting",
-                "provider": {
-                  "@id": "<?php echo SITE_URL; ?>#organization"
-                },
-                "areaServed": {
-                  "@type": "City",
-                  "name": "<?php echo htmlspecialchars($target_city); ?>"
-                }
-              }
-            },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "@id": "<?php echo SITE_URL; ?>#service-car-transport",
-                "name": "Car Transport in <?php echo htmlspecialchars($target_city); ?>",
-                "description": "Safe enclosed hydraulic car carrier transport from <?php echo htmlspecialchars($target_city); ?> to all Indian cities with zero mileage addition, doorstep pickup and delivery, and scratch-free guarantee.",
-                "serviceType": "Car Transportation",
-                "provider": {
-                  "@id": "<?php echo SITE_URL; ?>#organization"
-                },
-                "areaServed": {
-                  "@type": "City",
-                  "name": "<?php echo htmlspecialchars($target_city); ?>"
-                }
-              }
-            },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "@id": "<?php echo SITE_URL; ?>#service-bike-transport",
-                "name": "Bike Transport in <?php echo htmlspecialchars($target_city); ?>",
-                "description": "Scratch-free bike transport from <?php echo htmlspecialchars($target_city); ?> with paddy straw padding, corrugated wrap, and belt-locked enclosed container truck delivery pan-India.",
-                "serviceType": "Bike Transportation",
-                "provider": {
-                  "@id": "<?php echo SITE_URL; ?>#organization"
-                },
-                "areaServed": {
-                  "@type": "City",
-                  "name": "<?php echo htmlspecialchars($target_city); ?>"
-                }
-              }
-            },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "@id": "<?php echo SITE_URL; ?>#service-warehouse-storage",
-                "name": "Warehouse and Storage in <?php echo htmlspecialchars($target_city); ?>",
-                "description": "Secure short-term and long-term warehouse storage in <?php echo htmlspecialchars($target_city); ?> with 24/7 CCTV surveillance, pest control, moisture protection, and flexible rental plans.",
-                "serviceType": "Warehouse Storage",
-                "provider": {
-                  "@id": "<?php echo SITE_URL; ?>#organization"
-                },
-                "areaServed": {
-                  "@type": "City",
-                  "name": "<?php echo htmlspecialchars($target_city); ?>"
-                }
-              }
-            }
+  <?php
+  $schema_graph = [
+      [
+          "@type" => "MovingCompany",
+          "@id" => SITE_URL . "#organization",
+          "name" => "Shree Ashirwad Packers and Movers",
+          "alternateName" => "Packers and Movers " . $target_city,
+          "image" => SITE_URL . "assets/images/logo.png",
+          "telephone" => SITE_PHONE_RAW,
+          "email" => SITE_EMAIL,
+          "url" => SITE_URL,
+          "priceRange" => "₹₹",
+          "currenciesAccepted" => "INR",
+          "paymentAccepted" => "Cash, Credit Card, Debit Card, UPI, Net Banking",
+          "address" => [
+              [
+                  "@type" => "PostalAddress",
+                  "streetAddress" => $city_details['street'],
+                  "addressLocality" => $city_details['address_locality'] ?? $city_details['name'],
+                  "addressRegion" => $city_details['state'],
+                  "postalCode" => (string)($city_details['pincode'] ?? '834001'),
+                  "addressCountry" => "IN"
+              ]
+          ],
+          "geo" => [
+              "@type" => "GeoCoordinates",
+              "latitude" => (float)$city_details['lat'],
+              "longitude" => (float)$city_details['lng']
+          ],
+          "hasMap" => GMB_MAPS_URL,
+          "sameAs" => [
+              GMB_MAPS_URL,
+              FACEBOOK_URL,
+              YOUTUBE_URL
+          ],
+          "areaServed" => [$target_city, "Ranchi", "Jamshedpur", "Bokaro", "Dhanbad", "Hazaribagh", "Jharkhand", "India"],
+          "hasOfferCatalog" => [
+              "@type" => "OfferCatalog",
+              "name" => "Relocation Services",
+              "itemListElement" => [
+                  [
+                      "@type" => "Offer",
+                      "itemOffered" => [
+                          "@type" => "Service",
+                          "@id" => SITE_URL . "#service-household-shifting",
+                          "name" => "Household Shifting in " . $target_city,
+                          "description" => "Complete home relocation services in " . $target_city . " with 7-layer bubble wrap packing, furniture disassembly, enclosed container truck transport, and room-by-room setup at destination.",
+                          "serviceType" => "Household Shifting",
+                          "provider" => [
+                              "@id" => SITE_URL . "#organization"
+                          ],
+                          "areaServed" => [
+                              "@type" => "City",
+                              "name" => $target_city
+                          ]
+                      ]
+                  ],
+                  [
+                      "@type" => "Offer",
+                      "itemOffered" => [
+                          "@type" => "Service",
+                          "@id" => SITE_URL . "#service-office-shifting",
+                          "name" => "Office and Commercial Shifting in " . $target_city,
+                          "description" => "Zero-downtime corporate office relocation in " . $target_city . " with anti-static IT hardware packing, tagged file inventory, and weekend or overnight shifting execution.",
+                          "serviceType" => "Office Shifting",
+                          "provider" => [
+                              "@id" => SITE_URL . "#organization"
+                          ],
+                          "areaServed" => [
+                              "@type" => "City",
+                              "name" => $target_city
+                          ]
+                      ]
+                  ],
+                  [
+                      "@type" => "Offer",
+                      "itemOffered" => [
+                          "@type" => "Service",
+                          "@id" => SITE_URL . "#service-car-transport",
+                          "name" => "Car Transport in " . $target_city,
+                          "description" => "Safe enclosed hydraulic car carrier transport from " . $target_city . " to all Indian cities with zero mileage addition, doorstep pickup and delivery, and scratch-free guarantee.",
+                          "serviceType" => "Car Transportation",
+                          "provider" => [
+                              "@id" => SITE_URL . "#organization"
+                          ],
+                          "areaServed" => [
+                              "@type" => "City",
+                              "name" => $target_city
+                          ]
+                      ]
+                  ],
+                  [
+                      "@type" => "Offer",
+                      "itemOffered" => [
+                          "@type" => "Service",
+                          "@id" => SITE_URL . "#service-bike-transport",
+                          "name" => "Bike Transport in " . $target_city,
+                          "description" => "Scratch-free bike transport from " . $target_city . " with paddy straw padding, corrugated wrap, and belt-locked enclosed container truck delivery pan-India.",
+                          "serviceType" => "Bike Transportation",
+                          "provider" => [
+                              "@id" => SITE_URL . "#organization"
+                          ],
+                          "areaServed" => [
+                              "@type" => "City",
+                              "name" => $target_city
+                          ]
+                      ]
+                  ],
+                  [
+                      "@type" => "Offer",
+                      "itemOffered" => [
+                          "@type" => "Service",
+                          "@id" => SITE_URL . "#service-warehouse-storage",
+                          "name" => "Warehouse and Storage in " . $target_city,
+                          "description" => "Secure short-term and long-term warehouse storage in " . $target_city . " with 24/7 CCTV surveillance, pest control, moisture protection, and flexible rental plans.",
+                          "serviceType" => "Warehouse Storage",
+                          "provider" => [
+                              "@id" => SITE_URL . "#organization"
+                          ],
+                          "areaServed" => [
+                              "@type" => "City",
+                              "name" => $target_city
+                          ]
+                      ]
+                  ]
+              ]
           ]
-        }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "<?php echo htmlspecialchars($canonical_url); ?>#breadcrumb",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "<?php echo SITE_URL; ?>"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>",
-            "item": "<?php echo htmlspecialchars($canonical_url); ?>"
-          }
-        ]
-      },
-      {
-        "@type": "WebPage",
-        "@id": "<?php echo htmlspecialchars($canonical_url); ?>#webpage",
-        "url": "<?php echo htmlspecialchars($canonical_url); ?>",
-        "name": "<?php echo isset($page_title) ? htmlspecialchars($page_title) : DEFAULT_PAGE_TITLE; ?>",
-        "description": "<?php echo isset($page_desc) ? htmlspecialchars($page_desc) : DEFAULT_META_DESC; ?>",
-        "breadcrumb": {
-          "@id": "<?php echo htmlspecialchars($canonical_url); ?>#breadcrumb"
-        },
-        "isPartOf": {
-          "@id": "<?php echo SITE_URL; ?>#organization"
-        }
-      }
-<?php if (isset($faq_list) && is_array($faq_list) && count($faq_list) > 0): ?>,
-      {
-        "@type": "FAQPage",
-        "@id": "<?php echo htmlspecialchars($canonical_url); ?>#faq",
-        "mainEntity": [
-<?php 
-  $faq_elements = [];
-  foreach ($faq_list as $faq) {
-    if (!empty($faq['q']) && !empty($faq['a'])) {
-      $q = json_encode($faq['q']);
-      $a = json_encode($faq['a']);
-      $faq_elements[] = "          {\n            \"@type\": \"Question\",\n            \"name\": {$q},\n            \"acceptedAnswer\": {\n              \"@type\": \"Answer\",\n              \"text\": {$a}\n            }\n          }";
-    }
-  }
-  echo implode(",\n", $faq_elements);
-?>
+      ],
+      [
+          "@type" => "BreadcrumbList",
+          "@id" => $canonical_url . "#breadcrumb",
+          "itemListElement" => [
+              [
+                  "@type" => "ListItem",
+                  "position" => 1,
+                  "name" => "Home",
+                  "item" => SITE_URL
+              ],
+              [
+                  "@type" => "ListItem",
+                  "position" => 2,
+                  "name" => isset($page_title) ? $page_title : DEFAULT_PAGE_TITLE,
+                  "item" => $canonical_url
+              ]
+          ]
+      ],
+      [
+          "@type" => "WebPage",
+          "@id" => $canonical_url . "#webpage",
+          "url" => $canonical_url,
+          "name" => isset($page_title) ? $page_title : DEFAULT_PAGE_TITLE,
+          "description" => isset($page_desc) ? $page_desc : DEFAULT_META_DESC,
+          "breadcrumb" => [
+              "@id" => $canonical_url . "#breadcrumb"
+          ],
+          "isPartOf" => [
+              "@id" => SITE_URL . "#organization"
+          ]
+      ]
+  ];
 
-        ]
+  if (isset($faq_list) && is_array($faq_list) && count($faq_list) > 0) {
+      $main_entity = [];
+      foreach ($faq_list as $faq) {
+          $q = $faq['q'] ?? $faq['question'] ?? '';
+          $a = $faq['a'] ?? $faq['answer'] ?? '';
+          if (!empty($q) && !empty($a)) {
+              $main_entity[] = [
+                  "@type" => "Question",
+                  "name" => $q,
+                  "acceptedAnswer" => [
+                      "@type" => "Answer",
+                      "text" => $a
+                  ]
+              ];
+          }
       }
-<?php endif; ?>
-    ]
+      if (!empty($main_entity)) {
+          $schema_graph[] = [
+              "@type" => "FAQPage",
+              "@id" => $canonical_url . "#faq",
+              "mainEntity" => $main_entity
+          ];
+      }
   }
+
+  $schema_data = [
+      "@context" => "https://schema.org",
+      "@graph" => $schema_graph
+  ];
+  ?>
+  <script type="application/ld+json">
+  <?php echo json_encode($schema_data, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT); ?>
   </script>
+
 </head>
 <body>
 
@@ -304,9 +340,9 @@ require_once __DIR__ . '/config.php';
   <header class="site-header">
     <div class="container">
       <nav class="navbar">
-        <!-- Logo (Pure Swastik Symbol Image) -->
-        <a href="<?php echo SITE_URL; ?>" class="brand-logo" aria-label="Home" title="Shree Ashirwad Packers and Movers Homepage">
-          <img src="<?php echo SITE_URL; ?>assets/images/logo.png" alt="Swastik Logo" title="Shree Ashirwad Packers and Movers Swastik Logo" width="48" height="48">
+        <!-- Logo -->
+        <a href="<?php echo SITE_URL; ?>" class="brand-logo" title="Shree Ashirwad Packers and Movers Homepage">
+          <img src="<?php echo SITE_URL; ?>assets/images/logo.png" alt="Shree Ashirwad Packers and Movers Logo" width="48" height="48">
           <div class="brand-text">
             <span class="brand-title">SHREE ASHIRWAD</span>
             <span class="brand-subtitle">PACKERS &amp; MOVERS</span>

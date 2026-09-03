@@ -672,31 +672,6 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- JSON-LD FAQ Schema -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      <?php 
-      $schema_faqs = [];
-      foreach ($faq_list as $item) {
-          $schema_faqs[] = json_encode([
-              "@type" => "Question",
-              "name" => $item['q'],
-              "acceptedAnswer" => [
-                  "@type" => "Answer",
-                  "text" => $item['a']
-              ]
-          ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
-      }
-      echo implode(",
-      ", $schema_faqs);
-      ?>
-    ]
-  }
-  </script>
-
   <section id="bottom-cta">
     <div class="container" style="max-width: 900px; margin: 0 auto; padding: 0 15px;">
       <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Book Packers and Movers in Dharampur Dumka Today!</h2>

@@ -4,7 +4,12 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = "Bike Transport in Indore | Safe Two-Wheeler Shifting";
 $page_desc = "Planning bike transport in Indore? Get safe, insured, and doorstep motorcycle shipping services across Vijay Nagar, Palasia, AB Road, Super Corridor, and Rajendra Nagar with MP RTO clearances.";
 $page_keywords = "bike transport indore, best bike transport indore, affordable bike transport indore, packers and movers indore, top bike transport indore company, doorstep bike transport indore, verified bike transport indore services, shree ashirwad bike transport";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/bike-transport-indore.php";
+$faq_list = [
+    ['q' => 'How is bike transport in Indore executed?', 'a' => 'We pick up your bike directly from your home in Indore, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely.'],
+    ['q' => 'What documents are mandatory for bike transport from Indore?', 'a' => 'A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required.'],
+    ['q' => 'Is doorstep pickup available in Vijay Nagar and Palasia?', 'a' => 'Yes, doorstep collection and delivery services are fully active across all major residential sectors and commercial hubs in Indore.'],
+    ['q' => 'Is transit insurance included?', 'a' => 'Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit.']
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
@@ -352,46 +357,5 @@ require_once __DIR__ . '/../includes/header.php';
   </section>
 
 </main>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is bike transport in Indore executed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We pick up your bike directly from your home in Indore, apply 7-layer safety packaging, load it onto covered container trucks, and deliver it safely."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are mandatory for bike transport from Indore?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A photocopy of the Bike Registration Certificate (RC), valid insurance document, PUC certificate, and photo ID proof are required."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is doorstep pickup available in Vijay Nagar and Palasia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, doorstep collection and delivery services are fully active across all major residential sectors and commercial hubs in Indore."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is transit insurance included?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, full transit insurance coverage is available based on declared vehicle value to protect against any unforeseen damages during transit."
-      }
-    }
-  ]
-}
-</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

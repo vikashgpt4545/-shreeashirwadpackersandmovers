@@ -621,24 +621,7 @@ require_once __DIR__ . '/../includes/header.php';
 </main>
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MovingCompany",
-  "name": "Shree Ashirwad Packers and Movers",
-  "description": "Professional car transportation in Ranchi with enclosed car carriers, 25-point inspection, and doorstep pickup.",
-  "url": "<?php echo SITE_URL; ?>car-transportation-in-ranchi",
-  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Ranchi",
-    "addressRegion": "Jharkhand",
-    "addressCountry": "IN"
-  },
-  "areaServed": "Ranchi, Jharkhand",
-  "priceRange": "₹3500 - ₹30000"
-}
-</script>
+
 
 <script>
 function sendHeroWhatsAppLead(event, form) {

@@ -240,49 +240,6 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
-<!-- Inline JSON-LD Structured Data Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    <?php 
-    $schema_faqs = [];
-    foreach ($faq_list as $faq) {
-        $schema_faqs[] = '{
-          "@type": "Question",
-          "name": ' . json_encode($faq['q']) . ',
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": ' . json_encode($faq['a']) . '
-          }
-        }';
-    }
-    echo implode(',', $schema_faqs);
-    ?>
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MovingCompany",
-  "name": "Shree Ashirwad Packers and Movers",
-  "description": "Local packers and movers in Patna offering fast, same-day within-city household and office shifting services.",
-  "url": "<?php echo SITE_URL; ?>/local-packers-and-movers-in-patna.php",
-  "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Patna",
-    "addressRegion": "Bihar",
-    "addressCountry": "IN"
-  },
-  "areaServed": "Patna, Bihar",
-  "priceRange": "₹3000 - ₹18500"
-}
-</script>
-
 <!-- Custom WhatsApp Lead Handler Script -->
 <script>
 function sendHeroWhatsAppLead(event) {
