@@ -1,141 +1,157 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-// Dynamically scan the pages directory and all subdirectories directly in PHP on every request
-$pagesDir = __DIR__;
-$iterator = new RecursiveIteratorIterator(
-    new RecursiveDirectoryIterator($pagesDir, RecursiveDirectoryIterator::SKIP_DOTS),
-    RecursiveIteratorIterator::SELF_FIRST
-);
-
+// Manually Curated Master Category Matrix of all Verified Live URLs
 $categories = [
-    'Core Pages & Relocation Guides' => [],
-    'Ranchi Location Pages & Routes' => [],
-    'Jamshedpur Location Pages & Routes' => [],
-    'Dhanbad Location Pages & Routes' => [],
-    'Bokaro Location Pages & Routes' => [],
-    'Hazaribagh Location Pages & Routes' => [],
-    'Deoghar Location Pages & Routes' => [],
-    'Chatra Location Pages & Routes' => [],
-    'Dumka Location Pages & Routes' => [],
-    'Patna Location Pages & Routes' => [],
-    'Dewas Location Pages & Routes' => [],
-    'Car Transport Routes Across India' => [],
-    'Bike Transport Routes Across India' => [],
-    'Intercity Packers & Movers Routes' => [],
-    'Other Regional Relocation Routes' => []
-];
-
-// Slugs that 301-redirect elsewhere (must be excluded from HTML sitemap)
-$redirected_slugs = [
-    // Patna Keyword-Variant Cannibalized Stubs -> Redirected to /packers-and-movers-in-patna
-    'affordable-packers-and-movers-in-patna',
-    'best-company-for-packers-and-movers-in-patna',
-    'best-movers-and-packers-in-patna',
-    'best-packer-and-mover-in-patna',
-    'best-packers-and-movers-in-patna',
-    'best-packers-and-movers-service-in-patna',
-    'cheap-packers-and-movers-in-patna',
-    'home-packers-and-movers-in-patna',
-    'list-of-packers-and-movers-in-patna',
-    'local-packers-and-movers-in-patna',
-    'movers-and-packers-in-patna-boring-road',
-    'movers-and-packers-in-patna-kankarbagh',
-    'movers-and-packers-in-patna-near-khajpura',
-    'movers-and-packers-in-patna-near-me',
-    'no-1-packers-and-movers-in-patna',
-    'packers-and-mover-in-patna',
-    'packers-movers-in-patna',
-    'professional-packers-and-movers-in-patna',
-    'reliable-packers-and-movers-in-patna',
-    'top-packers-and-movers-in-patna',
-    'verified-packers-and-movers-in-patna',
-    // Vehicle & IBA Patna Stubs -> Redirected to canonical hubs
-    'bike-movers-and-packers-in-patna',
-    'bike-packers-and-movers-in-patna',
-    'car-movers-and-packers-in-patna',
-    'car-packers-and-movers-in-patna',
-    'iba-approved-movers-and-packers-in-patna',
-    // Typo Slug Fixes
-    'packers-and-movers-nirrsa-dhanbad',
-    'packers-and-movers-rohani-deoghar',
-    'packers-and-movers-jarmundi-border-deoghar',
-    'packers-and-movers-mahadeodekh-deoghar',
-    'packers-and-movers-shankari-deoghar',
-    'packers-and-movers-tapasvan-deoghar',
-    'packers-and-movers-devipur-deoghar'
+    'Core Pages & Relocation Guides' => [
+        ['url' => SITE_URL, 'title' => 'Home - Shree Ashirwad Packers and Movers'],
+        ['url' => SITE_URL . 'about', 'title' => 'About Us - Professional Relocation Services'],
+        ['url' => SITE_URL . 'services', 'title' => 'Our Shifting Services Overview'],
+        ['url' => SITE_URL . 'services/household-shifting', 'title' => 'Household Goods Shifting Services'],
+        ['url' => SITE_URL . 'services/office-shifting', 'title' => 'Corporate & Office Relocation Services'],
+        ['url' => SITE_URL . 'services/car-transportation', 'title' => 'Car Carrier & Vehicle Shipping Services'],
+        ['url' => SITE_URL . 'services/local-shifting', 'title' => 'Local House & Goods Shifting Services'],
+        ['url' => SITE_URL . 'services/warehouse', 'title' => 'Warehouse & Safe Storage Facilities'],
+        ['url' => SITE_URL . 'gallery', 'title' => 'Packing & Shifting Live Photo Gallery'],
+        ['url' => SITE_URL . 'contact', 'title' => 'Contact Us - Customer Support & Rate Quotes'],
+        ['url' => SITE_URL . 'privacy-policy', 'title' => 'Privacy Policy'],
+        ['url' => SITE_URL . 'terms', 'title' => 'Terms & Conditions'],
+        ['url' => SITE_URL . 'guides', 'title' => 'Master Relocation Guides Directory'],
+        ['url' => SITE_URL . 'guides/shifting-checklist', 'title' => 'Home Relocation Master Checklist'],
+        ['url' => SITE_URL . 'guides/packers-movers-bill-reimbursement-claim', 'title' => 'Packers and Movers Bill Reimbursement Claim Guide']
+    ],
+    'Primary District Hubs & Regional Location Pages' => [
+        ['url' => SITE_URL . 'packers-and-movers-in-ranchi', 'title' => 'Packers and Movers in Ranchi (HQ)'],
+        ['url' => SITE_URL . 'packers-and-movers-in-jamshedpur', 'title' => 'Packers and Movers in Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-bokaro', 'title' => 'Packers and Movers in Bokaro Steel City'],
+        ['url' => SITE_URL . 'packers-and-movers-in-dhanbad', 'title' => 'Packers and Movers in Dhanbad'],
+        ['url' => SITE_URL . 'packers-and-movers-in-hazaribagh', 'title' => 'Packers and Movers in Hazaribagh'],
+        ['url' => SITE_URL . 'packers-and-movers-in-deoghar', 'title' => 'Packers and Movers in Deoghar'],
+        ['url' => SITE_URL . 'packers-and-movers-in-dumka', 'title' => 'Packers and Movers in Dumka'],
+        ['url' => SITE_URL . 'packers-and-movers-in-chatra', 'title' => 'Packers and Movers in Chatra'],
+        ['url' => SITE_URL . 'packers-and-movers-in-giridih', 'title' => 'Packers and Movers in Giridih'],
+        ['url' => SITE_URL . 'packers-and-movers-in-patna', 'title' => 'Packers and Movers in Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-gaya', 'title' => 'Packers and Movers in Gaya'],
+        ['url' => SITE_URL . 'packers-and-movers-in-muzaffarpur', 'title' => 'Packers and Movers in Muzaffarpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-mau', 'title' => 'Packers and Movers in Mau'],
+        ['url' => SITE_URL . 'packers-and-movers-in-ballia', 'title' => 'Packers and Movers in Ballia'],
+        ['url' => SITE_URL . 'packers-and-movers-in-ghazipur', 'title' => 'Packers and Movers in Ghazipur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-azamgarh', 'title' => 'Packers and Movers in Azamgarh'],
+        ['url' => SITE_URL . 'packers-and-movers-in-gorakhpur', 'title' => 'Packers and Movers in Gorakhpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-deoria', 'title' => 'Packers and Movers in Deoria'],
+        ['url' => SITE_URL . 'packers-and-movers-in-jaunpur', 'title' => 'Packers and Movers in Jaunpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-kushinagar', 'title' => 'Packers and Movers in Kushinagar'],
+        ['url' => SITE_URL . 'packers-and-movers-in-maharajganj', 'title' => 'Packers and Movers in Maharajganj'],
+        ['url' => SITE_URL . 'packers-and-movers-in-dewas', 'title' => 'Packers and Movers in Dewas']
+    ],
+    'Ranchi Locality Hubs' => [
+        ['url' => SITE_URL . 'packers-and-movers-lalpur-ranchi', 'title' => 'Packers and Movers in Lalpur, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-kanke-road-ranchi', 'title' => 'Packers and Movers in Kanke Road, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-ratu-road-ranchi', 'title' => 'Packers and Movers in Ratu Road, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-doranda-ranchi', 'title' => 'Packers and Movers in Doranda, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-bariatu-ranchi', 'title' => 'Packers and Movers in Bariatu, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-hinoo-ranchi', 'title' => 'Packers and Movers in Hinoo, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-morabadi-ranchi', 'title' => 'Packers and Movers in Morabadi, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-harmu-ranchi', 'title' => 'Packers and Movers in Harmu, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-namkum-ranchi', 'title' => 'Packers and Movers in Namkum, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-kokar-ranchi', 'title' => 'Packers and Movers in Kokar, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-in-hatia-ranchi', 'title' => 'Packers and Movers in Hatia, Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-in-kanke-ranchi', 'title' => 'Packers and Movers in Kanke, Ranchi']
+    ],
+    'Jamshedpur Locality Hubs' => [
+        ['url' => SITE_URL . 'packers-and-movers-bistupur-jamshedpur', 'title' => 'Packers and Movers in Bistupur, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-sakchi-jamshedpur', 'title' => 'Packers and Movers in Sakchi, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-mango-jamshedpur', 'title' => 'Packers and Movers in Mango, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-kadma-jamshedpur', 'title' => 'Packers and Movers in Kadma, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-sonari-jamshedpur', 'title' => 'Packers and Movers in Sonari, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-telco-jamshedpur', 'title' => 'Packers and Movers in Telco, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-adityapur-jamshedpur', 'title' => 'Packers and Movers in Adityapur, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-golmuri-jamshedpur', 'title' => 'Packers and Movers in Golmuri, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-baridih-jamshedpur', 'title' => 'Packers and Movers in Baridih, Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-in-sundernagar-jamshedpur', 'title' => 'Packers and Movers in Sundernagar, Jamshedpur']
+    ],
+    'Patna Locality Hubs' => [
+        ['url' => SITE_URL . 'packers-and-movers-in-kankarbagh-patna', 'title' => 'Packers and Movers in Kankarbagh, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-boring-road-patna', 'title' => 'Packers and Movers in Boring Road, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-danapur-patna', 'title' => 'Packers and Movers in Danapur, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-bailey-road-patna', 'title' => 'Packers and Movers in Bailey Road, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-rajendra-nagar-patna', 'title' => 'Packers and Movers in Rajendra Nagar, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-patliputra-colony-patna', 'title' => 'Packers and Movers in Patliputra Colony, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-anisabad-patna', 'title' => 'Packers and Movers in Anisabad, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-khagaul-patna', 'title' => 'Packers and Movers in Khagaul, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-digha-patna', 'title' => 'Packers and Movers in Digha, Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-in-bihta-patna', 'title' => 'Packers and Movers in Bihta, Patna']
+    ],
+    'Intercity Packers & Movers Routes' => [
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-patna', 'title' => 'Packers and Movers Ranchi to Patna'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-jamshedpur', 'title' => 'Packers and Movers Ranchi to Jamshedpur'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-bokaro', 'title' => 'Packers and Movers Ranchi to Bokaro'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-dhanbad', 'title' => 'Packers and Movers Ranchi to Dhanbad'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-kolkata', 'title' => 'Packers and Movers Ranchi to Kolkata'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-delhi', 'title' => 'Packers and Movers Ranchi to Delhi'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-bangalore', 'title' => 'Packers and Movers Ranchi to Bangalore'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-pune', 'title' => 'Packers and Movers Ranchi to Pune'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-mumbai', 'title' => 'Packers and Movers Ranchi to Mumbai'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-hyderabad', 'title' => 'Packers and Movers Ranchi to Hyderabad'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-bhagalpur', 'title' => 'Packers and Movers Ranchi to Bhagalpur'],
+        ['url' => SITE_URL . 'packers-and-movers-ranchi-to-gaya', 'title' => 'Packers and Movers Ranchi to Gaya'],
+        ['url' => SITE_URL . 'packers-and-movers-patna-to-ranchi', 'title' => 'Packers and Movers Patna to Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-patna-to-delhi', 'title' => 'Packers and Movers Patna to Delhi'],
+        ['url' => SITE_URL . 'packers-and-movers-patna-to-kolkata', 'title' => 'Packers and Movers Patna to Kolkata'],
+        ['url' => SITE_URL . 'packers-and-movers-patna-to-bangalore', 'title' => 'Packers and Movers Patna to Bangalore'],
+        ['url' => SITE_URL . 'packers-and-movers-patna-to-mumbai', 'title' => 'Packers and Movers Patna to Mumbai'],
+        ['url' => SITE_URL . 'packers-and-movers-jamshedpur-to-kolkata', 'title' => 'Packers and Movers Jamshedpur to Kolkata'],
+        ['url' => SITE_URL . 'packers-and-movers-jamshedpur-to-ranchi', 'title' => 'Packers and Movers Jamshedpur to Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-jamshedpur-to-delhi', 'title' => 'Packers and Movers Jamshedpur to Delhi'],
+        ['url' => SITE_URL . 'packers-and-movers-bokaro-to-delhi', 'title' => 'Packers and Movers Bokaro to Delhi'],
+        ['url' => SITE_URL . 'packers-and-movers-bokaro-to-ranchi', 'title' => 'Packers and Movers Bokaro to Ranchi'],
+        ['url' => SITE_URL . 'packers-and-movers-dhanbad-to-delhi', 'title' => 'Packers and Movers Dhanbad to Delhi'],
+        ['url' => SITE_URL . 'packers-and-movers-dhanbad-to-kolkata', 'title' => 'Packers and Movers Dhanbad to Kolkata']
+    ],
+    'Car & Vehicle Transport Guides & Routes' => [
+        ['url' => SITE_URL . 'car-transport-ranchi-to-patna', 'title' => 'Car Transport Ranchi to Patna'],
+        ['url' => SITE_URL . 'car-carrier-transport-process-ranchi', 'title' => 'Car Carrier Transport Process Ranchi'],
+        ['url' => SITE_URL . 'car-carrier-transport-process-jamshedpur', 'title' => 'Car Carrier Transport Process Jamshedpur'],
+        ['url' => SITE_URL . 'car-transport-guide-jamshedpur', 'title' => 'Car Transport Guide Jamshedpur'],
+        ['url' => SITE_URL . 'car-and-bike-transport-guide-bokaro', 'title' => 'Car and Bike Transport Guide Bokaro'],
+        ['url' => SITE_URL . 'car-and-bike-transport-guide-dhanbad', 'title' => 'Car and Bike Transport Guide Dhanbad'],
+        ['url' => SITE_URL . 'car-and-bike-transport-guide-deoghar', 'title' => 'Car and Bike Transport Guide Deoghar'],
+        ['url' => SITE_URL . 'car-and-bike-transport-guide-dumka', 'title' => 'Car and Bike Transport Guide Dumka'],
+        ['url' => SITE_URL . 'car-and-bike-transport-guide-hazaribagh', 'title' => 'Car and Bike Transport Guide Hazaribagh'],
+        ['url' => SITE_URL . 'car-and-bike-transport-guide-chatra', 'title' => 'Car and Bike Transport Guide Chatra'],
+        ['url' => SITE_URL . 'affordable-car-transportation-in-ranchi', 'title' => 'Affordable Car Transportation in Ranchi'],
+        ['url' => SITE_URL . 'car-transportation-cost-charges-rates-quotes-india', 'title' => 'Car Transportation Cost, Charges & Tariff Rates India'],
+        ['url' => SITE_URL . '10-tips-for-relocating-families-needing-reliable-car-transport', 'title' => '10 Tips for Families Needing Reliable Car Transport'],
+        ['url' => SITE_URL . '5-red-flags-to-watch-out-for-when-hiring-a-car-transport-service', 'title' => '5 Red Flags When Hiring a Car Transport Service'],
+        ['url' => SITE_URL . 'a-complete-guide-to-car-transport-for-vintage-and-classic-autos', 'title' => 'Guide to Car Transport for Vintage & Classic Autos'],
+        ['url' => SITE_URL . 'a-comprehensive-guide-to-average-tariffs-for-vehicle-transport-services', 'title' => 'Guide to Average Tariffs for Vehicle Transport Services'],
+        ['url' => SITE_URL . 'a-guide-to-interstate-rto-forms-needed-for-vehicle-transport-in-india', 'title' => 'Interstate RTO Forms Needed for Vehicle Transport'],
+        ['url' => SITE_URL . 'a-guide-to-shipping-showroom-cars-using-a-specialized-car-transport-service', 'title' => 'Shipping Showroom Cars Using Specialized Car Transport'],
+        ['url' => SITE_URL . 'best-payment-terms-and-advance-options-for-vehicle-transport-services', 'title' => 'Payment Terms and Advance Options for Vehicle Transport'],
+        ['url' => SITE_URL . 'best-practices-for-preparing-your-luxury-vehicle-for-car-transport', 'title' => 'Preparing Luxury Vehicles for Car Transport']
+    ],
+    'Bike Transport Routes & Services' => [
+        ['url' => SITE_URL . 'bike-transport-ranchi-to-patna', 'title' => 'Bike Transport Ranchi to Patna'],
+        ['url' => SITE_URL . 'bike-car-transportation-guide-ranchi', 'title' => 'Bike & Car Transportation Guide Ranchi'],
+        ['url' => SITE_URL . 'bike-transport-guide-jamshedpur', 'title' => 'Bike Transport Guide Jamshedpur'],
+        ['url' => SITE_URL . 'affordable-bike-transportation-in-ranchi', 'title' => 'Affordable Bike Transportation in Ranchi'],
+        ['url' => SITE_URL . '6-tips-to-ensure-smooth-bike-transport-experience-in-chennai', 'title' => '6 Tips to Ensure Smooth Bike Transport Experience'],
+        ['url' => SITE_URL . 'bike-shifting-by-train', 'title' => 'Bike Shifting by Train Complete Guide'],
+        ['url' => SITE_URL . 'bike-transport-charges-by-train', 'title' => 'Bike Transport Charges by Indian Railways'],
+        ['url' => SITE_URL . 'bike-transport-cost-calculator', 'title' => 'Bike Transport Cost Calculator & Tariff Estimator'],
+        ['url' => SITE_URL . 'bike-transport-consignment-tracking', 'title' => 'Bike Transport Consignment & Live Tracking'],
+        ['url' => SITE_URL . 'bike-transport-checklist', 'title' => 'Two-Wheeler Bike Transport Preparation Checklist'],
+        ['url' => SITE_URL . 'bike-transportation-process', 'title' => 'Complete Step-by-Step Bike Transportation Process']
+    ]
 ];
 
 $totalCount = 0;
-
-foreach ($iterator as $file) {
-    if ($file->isFile() && $file->getExtension() === 'php') {
-        $filename = $file->getFilename();
-        if ($filename === '404.php' || $filename === 'sitemap.php') continue;
-
-        $baseName = basename($filename, '.php');
-        if (in_array($baseName, $redirected_slugs, true)) continue;
-
-        // Calculate relative route from pages/
-        $realPath = $file->getPathname();
-        $relPath = str_replace('\\', '/', substr($realPath, strlen($pagesDir) + 1));
-        $route = '/' . str_replace('.php', '', $relPath);
-        $slug = strtolower($relPath);
-
-        $baseName = basename($filename, '.php');
-        $rawTitle = str_replace('-', ' ', $baseName);
-        $title = ucwords($rawTitle);
-        $title = str_replace(['Iba', 'Rto', 'Gst', 'Gps'], ['IBA', 'RTO', 'GST', 'GPS'], $title);
-
-        $url = SITE_URL . ltrim($route, '/');
-        $item = ['url' => $url, 'title' => $title, 'route' => $route];
-        $totalCount++;
-
-        // Categorization logic
-        if (strpos($slug, 'guide') !== false || strpos($slug, 'checklist') !== false || strpos($slug, 'faqs') !== false || strpos($slug, 'tips') !== false || strpos($slug, 'timeline') !== false || strpos($slug, 'best-practices') !== false || strpos($slug, 'cost-guide') !== false || strpos($slug, 'fraud') !== false || strpos($slug, 'choose') !== false || strpos($slug, 'charges') !== false || strpos($slug, 'process') !== false || strpos($slug, 'regulations') !== false || strpos($slug, 'rules') !== false || strpos($slug, 'about') !== false || strpos($slug, 'contact') !== false || strpos($slug, 'gallery') !== false || strpos($slug, 'services') !== false) {
-            if (strpos($slug, 'packers-and-movers-in-') === false && strpos($slug, 'bike-transportation-in-') === false && strpos($slug, 'car-transportation-in-') === false) {
-                $categories['Core Pages & Relocation Guides'][] = $item;
-                continue;
-            }
-        }
-
-        if (strpos($slug, 'ranchi') !== false) {
-            $categories['Ranchi Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'jamshedpur') !== false) {
-            $categories['Jamshedpur Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'dhanbad') !== false) {
-            $categories['Dhanbad Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'bokaro') !== false) {
-            $categories['Bokaro Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'hazaribagh') !== false) {
-            $categories['Hazaribagh Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'deoghar') !== false) {
-            $categories['Deoghar Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'chatra') !== false) {
-            $categories['Chatra Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'dumka') !== false) {
-            $categories['Dumka Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'patna') !== false) {
-            $categories['Patna Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'dewas') !== false) {
-            $categories['Dewas Location Pages & Routes'][] = $item;
-        } elseif (strpos($slug, 'car-transport') !== false) {
-            $categories['Car Transport Routes Across India'][] = $item;
-        } elseif (strpos($slug, 'bike-transport') !== false) {
-            $categories['Bike Transport Routes Across India'][] = $item;
-        } elseif (strpos($slug, 'packers-and-movers-') !== false) {
-            $categories['Intercity Packers & Movers Routes'][] = $item;
-        } else {
-            $categories['Other Regional Relocation Routes'][] = $item;
-        }
-    }
+foreach ($categories as $catItems) {
+    $totalCount += count($catItems);
 }
 
-// Add homepage count
-$totalCount++;
-
-$page_title = "HTML Sitemap - All " . number_format($totalCount) . " Relocation Pages | Shree Ashirwad Packers and Movers";
-$page_desc = "Complete HTML sitemap directory listing all " . number_format($totalCount) . " service location pages, intercity routes, car & bike transport guides across India.";
+$page_title = "HTML Sitemap - All " . number_format($totalCount) . " Verified Relocation Pages | Shree Ashirwad Packers and Movers";
+$page_desc = "Complete HTML sitemap directory listing all verified relocation service location pages, intercity routes, car & bike transport guides across India.";
 $page_keywords = "sitemap, html sitemap, all pages, shree ashirwad packers and movers";
 
 require_once __DIR__ . '/../includes/header.php';
@@ -158,7 +174,7 @@ require_once __DIR__ . '/../includes/header.php';
       <!-- Header & Summary Banner -->
       <div style="background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 16px; padding: 35px 30px; margin-bottom: 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
         <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 5px 18px; border-radius: 30px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 15px;">
-          COMPLETE SITE DIRECTORY &bull; 100% LIVE INDEX
+          COMPLETE SITE DIRECTORY &bull; VERIFIED URL INDEX
         </span>
         <h1 style="font-size: 2.4rem; font-weight: 800; color: #ffffff; line-height: 1.3; margin-bottom: 15px;">
           Master HTML Sitemap Directory
@@ -169,7 +185,7 @@ require_once __DIR__ . '/../includes/header.php';
 
         <!-- Live Instant Search Box -->
         <div style="position: relative; max-width: 600px;">
-          <input type="text" id="sitemapSearchInput" onkeyup="filterSitemapPages()" placeholder="🔍 Type to search all <?php echo number_format($totalCount); ?> pages (e.g. Ranchi, Dumka, Bike, Dewas)..." style="width: 100%; padding: 14px 20px; border-radius: 30px; border: 1.5px solid #f59e0b; background: #070d19; color: #ffffff; font-size: 0.95rem; outline: none; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+          <input type="text" id="sitemapSearchInput" onkeyup="filterSitemapPages()" placeholder="🔍 Type to search all <?php echo number_format($totalCount); ?> pages (e.g. Ranchi, Patna, Bike, Transport)..." style="width: 100%; padding: 14px 20px; border-radius: 30px; border: 1.5px solid #f59e0b; background: #070d19; color: #ffffff; font-size: 0.95rem; outline: none; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
           <span id="searchCounter" style="position: absolute; right: 18px; top: 14px; font-size: 0.85rem; color: #f59e0b; font-weight: 700;"></span>
         </div>
       </div>
@@ -246,3 +262,4 @@ function filterSitemapPages() {
 </script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
+
