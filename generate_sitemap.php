@@ -13,13 +13,17 @@ $iterator = new RecursiveIteratorIterator(
 );
 
 $urls = [];
+$seenUrls = [];
 
 // 1. Homepage
+$homepageUrl = 'https://shreeashirwadpackersandmovers.com/';
 $urls[] = [
-    'loc' => 'https://shreeashirwadpackersandmovers.com/',
+    'loc' => $homepageUrl,
     'priority' => '1.0',
-    'changefreq' => 'daily'
+    'changefreq' => 'daily',
+    'lastmod' => date('Y-m-d', filemtime(__DIR__ . '/index.php'))
 ];
+$seenUrls[$homepageUrl] = true;
 
 // Slugs that 301-redirect elsewhere (must be excluded from XML sitemap to prevent 301 errors in Search Console)
 $redirected_slugs = [
@@ -69,17 +73,33 @@ foreach ($iterator as $file) {
             continue;
         }
 
-        // Relative path from pages/ directory
+        // Exclude partial template components / includes
         $realPath = $file->getPathname();
         $relPath = str_replace('\\', '/', substr($realPath, strlen($pagesDir) + 1));
+        if (strpos($relPath, 'includes/') !== false || basename($file->getPath()) === 'includes') {
+            continue;
+        }
+
         $route = str_replace('.php', '', $relPath);
 
+        // Normalize trailing /index (e.g. /services/index -> /services, /guides/index -> /guides)
+        if (substr($route, -6) === '/index') {
+            $route = substr($route, 0, -6);
+        }
+
         // Skip 301 redirected stubs
-        if (in_array($route, $redirected_slugs, true)) {
+        $baseName = basename($route);
+        if (in_array($route, $redirected_slugs, true) || in_array($baseName, $redirected_slugs, true)) {
             continue;
         }
 
         $url = 'https://shreeashirwadpackersandmovers.com/' . ltrim($route, '/');
+
+        // Prevent duplicate entries
+        if (isset($seenUrls[$url])) {
+            continue;
+        }
+        $seenUrls[$url] = true;
 
         // Priority calculation
         $priority = '0.8';
@@ -98,6 +118,7 @@ foreach ($iterator as $file) {
 
         $urls[] = [
             'loc' => $url,
+            'lastmod' => date('Y-m-d', $file->getMTime()),
             'priority' => $priority,
             'changefreq' => $changefreq
         ];
@@ -111,6 +132,7 @@ $xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
 foreach ($urls as $item) {
     $xml .= "  <url>\n";
     $xml .= "    <loc>" . htmlspecialchars($item['loc']) . "</loc>\n";
+    $xml .= "    <lastmod>" . $item['lastmod'] . "</lastmod>\n";
     $xml .= "    <changefreq>" . $item['changefreq'] . "</changefreq>\n";
     $xml .= "    <priority>" . $item['priority'] . "</priority>\n";
     $xml .= "  </url>\n";
