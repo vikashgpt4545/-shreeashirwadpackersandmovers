@@ -1,619 +1,841 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "IBA Approved Packers and Movers in Dumka | Bank Bills";
-$page_desc = "Top IBA approved packers and movers in Dumka providing 100% claimable GST relocation bills, LR copy, money receipt, and inventory for bank/govt employee claims.";
-$page_keywords = "iba approved packers and movers in dumka, iba certified movers dumka, bank transfer bills movers, government employee shifting dumka, claimable GST bill movers, transport clearance bill, IBA approved bill packers, bank employee relocation dumka, official bill moving company, IBA code movers dumka, genuine GST bill movers, PSU shifting bills dumka, government shifting allowance, certified relocation agency, ashrivad IBA movers";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/iba-approved-packers-and-movers-in-dumka.php";
-
-$page_city = "Dumka";
-$page_locality = "District-wide Dumka";
+$page_title = "Iba Approved Packers And Movers In Dumka | Shree Ashirwad Packers & Movers";
+$page_desc = "Get transparent, IBA-approved Iba Approved Packers And Movers In Dumka with Shree Ashirwad Packers and Movers. 100% safe multi-layer packing, transit insurance, dedicated GPS container carriers, and doorstep delivery across Dumka and Destination Hub.";
+$page_keywords = "Iba Approved Packers And Movers In Dumka, packers and movers shifting charges, household goods relocation cost, car transport open and enclosed carrier, bike transportation service, transit marine insurance coverage, IBA approved moving company bills, doorstep goods packing loading unloading, GPS tracked container trucks";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/iba-approved-packers-and-movers-in-dumka";
 
 $faq_list = [
     [
-        'q' => 'What is an IBA-approved packer and mover in Dumka?',
-        'a' => 'An IBA (Indian Banks Association) approved packer and mover is a registered transport operator evaluated for financial stability, legal compliance, fleet ownership, and service quality. Bills issued by IBA-approved movers are official documents for employee transfer allowance reimbursement.'
+        'q' => 'What is the estimated cost of Iba Approved Packers And Movers In Dumka?',
+        'a' => 'Relocation charges for Iba Approved Packers And Movers In Dumka depend on goods volume, packing material tiers, floor levels, elevator availability, and transit distance between Dumka and Destination Hub. We provide transparent, 100% itemized fixed-price quotations with zero hidden surcharges.'
     ],
     [
-        'q' => 'Why do government and bank employees in Dumka require IBA-approved moving bills?',
-        'a' => 'Public sector banks (SBI, PNB, BOB), central/state government departments, defense forces, and PSUs mandate IBA-compliant relocation bills (including 18% GST invoices, Consignment LR, itemized inventory, and payment receipts) to approve full transfer allowance claims.'
+        'q' => 'Do you provide IBA approved bills for relocation allowance claims?',
+        'a' => 'Yes! Shree Ashirwad Packers and Movers provides 100% compliant IBA-approved bills, GST consignment invoices, Lorry Receipts (LR), and itemized packing lists accepted by central/state government departments, PSUs, defense, and multinational corporations.'
     ],
     [
-        'q' => 'What documents are included in your IBA-approved claim bill packet in Dumka?',
-        'a' => 'Our IBA claim packet includes 5 essential documents: 1. Original 18% TAX Invoice with GSTIN, 2. Stamped Consignment Lorry Receipt (LR), 3. Itemized Inventory Packing Sheet, 4. Official Money Payment Receipt, and 5. Transit Insurance Policy Certificate.'
+        'q' => 'How many days in advance should I book Iba Approved Packers And Movers In Dumka?',
+        'a' => 'For local moves within Dumka, booking 2 to 3 days in advance is recommended. For intercity long-distance transit to Destination Hub, we advise booking 4 to 7 days ahead to reserve dedicated enclosed container trucks and preferred departure slots.'
     ],
     [
-        'q' => 'Can SBI, PNB, and Bank of Baroda managers in Dumka claim 100% relocation allowance with your bills?',
-        'a' => 'Yes, our bills and LR copies comply with all Indian Banks Association guidelines and are 100% accepted by SBI, PNB, Bank of Baroda, Canara Bank, and all nationalized bank audit departments.'
+        'q' => 'How are delicate household items protected during transit?',
+        'a' => 'We apply our proprietary 7-layer protective packaging system, including 80-GSM heavy air-bubble wrap, corrugated fiberboard sheets, foam corner guards, heavy stretch film, quilted moving blankets, and custom wooden crates for glass, LED TVs, and antique items.'
     ],
     [
-        'q' => 'Do you provide IBA-approved moving bills for central government transfer claims in Dumka?',
-        'a' => 'Yes, central government staff (railway personnel, defense officers, postal staff, income tax officers) can claim full Composite Transfer Grant (CTG) and luggage conveyance allowances using our official GST invoices.'
+        'q' => 'Can I track my moving shipment during long-distance transit?',
+        'a' => 'Yes, all our enclosed moving container trucks and car carrier trailers are equipped with real-time satellite GPS tracking. You receive continuous live location updates directly on WhatsApp along with your dedicated move manager contact.'
     ],
     [
-        'q' => 'How can I verify the GST registration of your moving company in Dumka?',
-        'a' => 'You can verify our active 15-digit GSTIN directly on the government GST portal (gst.gov.in). We print our active GST number on all quotation letters and official invoices.'
-    ],
-    [
-        'q' => 'What is the SAC code used on IBA-approved moving invoices in Dumka?',
-        'a' => 'The standard SAC code for goods transport and household packing/unpacking services listed on our GST tax invoices is SAC 996511 (Road Transport Services of Freight).'
-    ],
-    [
-        'q' => 'Are your IBA moving bills valid for state government employees in Jharkhand?',
-        'a' => 'Yes, Jharkhand state government employees transferred within or outside Dumka district can submit our GST invoices and LR copies to claim transfer travel allowances (TA/DA).'
-    ],
-    [
-        'q' => 'What happens if my office audit department requests additional transport verification?',
-        'a' => 'Our local Dumka office provides full verification support, including official written confirmation letters, bank account NOC certificates, and driver license details upon request.'
-    ],
-    [
-        'q' => 'Do you charge extra for providing IBA-approved bills and GST documentation in Dumka?',
-        'a' => 'No hidden fees are charged. Applicable 18% GST tax is transparently listed in your written quote and official invoice.'
-    ],
-    [
-        'q' => 'Can I get IBA-approved vehicle transport bills for shipping my car or bike from Dumka?',
-        'a' => 'Yes, we issue dedicated vehicle transport bills and LR copies specifying your vehicle registration number, chassis number, engine number, and carrier trailer details.'
-    ],
-    [
-        'q' => 'How soon after moving day do I receive my IBA claim bill packet in Dumka?',
-        'a' => 'Your complete stamped claim bill packet is handed over immediately upon loading or delivered digitally/physically within 24 hours of destination delivery.'
-    ],
-    [
-        'q' => 'Why are unverified local brokers unable to provide IBA-compliant bills in Dumka?',
-        'a' => 'Unverified brokers lack registered GSTINs, commercial transport licenses, and official IBA accreditation, issuing handwritten receipts that are rejected by corporate audit desks.'
-    ],
-    [
-        'q' => 'What packing materials are used for IBA-standard household shifting in Dumka?',
-        'a' => 'We use 7-layer protective packaging: air-bubble rolls, 5-ply corrugated cartons, foam corner guards, waterproof stretch film, and custom wooden crating for fragile electronics.'
-    ],
-    [
-        'q' => 'Does IBA approval mean my goods are insured during transit from Dumka?',
-        'a' => 'Yes, IBA standards require comprehensive transit insurance. We issue an official 100% full-value transit insurance policy document covering all highway risks.'
-    ],
-    [
-        'q' => 'Where is your physical office located for IBA document verification in Dumka?',
-        'a' => 'Our physical office in Dumka is located near Court Road and the Collectorate area, making it easy for government and bank personnel to visit and verify documents.'
-    ],
-    [
-        'q' => 'Can university faculty at SKMU Dumka claim relocation allowances with your bills?',
-        'a' => 'Yes, faculty members and administrative staff at Sido Kanhu Murmu University (SKMU) can submit our GST tax invoices for relocation reimbursement approval.'
-    ],
-    [
-        'q' => 'What payment methods are acceptable for IBA-approved bill generation?',
-        'a' => 'Payments made via company current bank account NEFT/RTGS, UPI, Google Pay, or cheque are fully documented on your official money receipt.'
-    ],
-    [
-        'q' => 'Can I get a pre-move cost estimate letter on official letterhead for department advance approval?',
-        'a' => 'Yes, we provide formal written pre-move quotation estimates on company letterhead required for requesting transfer advance funds from your employer.'
-    ],
-    [
-        'q' => 'How do I book IBA-approved packers and movers in Dumka?',
-        'a' => 'Call our IBA corporate shifting desk at +91 8409531615 or submit your transfer details online for instant consultation and document preparation.'
-    ]
+        'q' => 'Is transit marine insurance included in the quotation?',
+        'a' => 'Yes, we provide comprehensive 100% declared value transit marine insurance policy coverage (calculated at 0.3% of goods valuation) covering accidental highway damage, fire, overturning, or natural transit hazards with zero-depreciation cashless settlement.']
 ];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 14px 0; border-bottom: 1px solid #e2e8f0;">
+  <!-- =========================================================================
+       SECTION 1: BREADCRUMBS & 2-COLUMN HERO SECTION WITH LEAD FORM
+       ========================================================================= -->
+  <div class="breadcrumb-wrapper" style="background: #0b132b; padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb" style="display: flex; gap: 8px; font-size: 0.9rem; color: #64748b; list-style: none; margin: 0; padding: 0;">
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home" style="color: #2563eb; text-decoration: none;">Home</a></li>
-          <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" title="Dumka" style="color: #2563eb; text-decoration: none;">Dumka</a></li>
-          <li class="breadcrumb-item active" aria-current="page" style="color: #1e293b; font-weight: 600;"><span style="margin: 0 4px;">/</span> IBA Approved Movers</li>
-        </ol>
-      </nav>
+      <div style="font-size: 0.88rem; color: #94a3b8; display: flex; align-items: center; gap: 8px;">
+        <a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #ffffff; font-weight: 600;"><?php echo htmlspecialchars($page_title); ?></span>
+      </div>
     </div>
   </div>
 
-  <!-- Hero Section -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: #ffffff; padding: 60px 0; position: relative;" id="hero-iba">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 40px;">
-      
-      <div class="hero-content" style="flex: 1 1 500px;">
-        <span style="display: inline-block; background: rgba(37, 99, 235, 0.25); color: #60a5fa; border: 1px solid rgba(96, 165, 250, 0.3); padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
-          100% Claimable Relocation Bills
-        </span>
-        <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-          IBA Approved Packers and Movers in Dumka
-        </h1>
-        <p style="font-size: 1.15rem; line-height: 1.8; color: #94a3b8; margin-bottom: 30px;">
-          Are you a bank officer, government employee, or PSU staff transferring from Dumka? Get 100% claimable IBA-compliant relocation bills, 18% GST tax invoices, stamped LR copies, itemized inventory, and transit insurance.
-        </p>
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 65px 0 55px 0; color: #ffffff; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
-        <div class="hero-cta-buttons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-          <a href="tel:+918409531615" title="Call +91 8409531615" class="btn-call" style="background: #2563eb; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);" id="hero-call-btn">
-            <i class="fa-solid fa-phone"></i> Call +91 8409531615
-          </a>
-          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20IBA%20approved%20moving%20bills%20in%20Dumka." title="IBA Bill Consultation" class="btn-whatsapp" style="background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 10px 25px rgba(34, 197, 94, 0.4);" id="hero-wa-btn">
-            <i class="fa-brands fa-whatsapp"></i> IBA Bill Consultation
-          </a>
+        <!-- Left Hero Column -->
+        <div class="hero-text">
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 18px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 18px; letter-spacing: 0.5px;">
+            IBA APPROVED &bull; ISO 9001:2015 CERTIFIED &bull; 100% FIXED PRICE GUARANTEE
+          </span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.25; margin-bottom: 20px; color: #ffffff;">
+            Iba Approved Packers And Movers In Dumka
+          </h1>
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 28px;">
+            Planning a seamless transition from <strong>Dumka</strong> to <strong>Destination Hub</strong>? Shree Ashirwad Packers and Movers delivers certified end-to-end relocation solutions with multi-layer safe packing, insured enclosed container trailers, and transparent, fixed-price pricing.
+          </p>
+
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Moving Coordinator" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Iba+Approved+Packers+And+Movers+In+Dumka+from+Dumka+to+Destination+Hub." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+            </a>
+          </div>
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">Doorstep</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">GPS Tracked</strong> Fleet</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> Bills</span>
+          </div>
         </div>
-      </div>
 
-      <!-- Quick Lead Form -->
-      <div class="hero-form-card" style="flex: 0 1 420px; background: #ffffff; border-radius: 12px; padding: 30px; color: #1e293b; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);" id="iba-form-box">
-        <h3 style="font-size: 1.4rem; font-weight: 700; margin-bottom: 8px; color: #0f172a;">Request IBA Moving Bills</h3>
-        <p style="font-size: 0.88rem; color: #64748b; margin-bottom: 20px;">100% Accepted for Government &amp; Bank Claims!</p>
-        
-        <form onsubmit="sendHeroWhatsAppLead(event, this);" id="iba-lead-form">
-          <div style="margin-bottom: 14px;">
-            <input type="text" name="name" placeholder="Your Name &amp; Designation" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
-          </div>
-          <div style="margin-bottom: 14px;">
-            <input type="tel" name="phone" placeholder="Mobile Number" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
-          </div>
-          <div style="margin-bottom: 14px;">
-            <input type="text" name="move_from" placeholder="Pickup Location in Dumka" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
-          </div>
-          <div style="margin-bottom: 14px;">
-            <input type="text" name="move_to" placeholder="Destination City" required style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;">
-          </div>
-          <div style="margin-bottom: 18px;">
-            <textarea name="message" placeholder="Details (e.g., Bank / Govt Department Name, 2BHK Goods)" rows="3" style="width: 100%; padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; box-sizing: border-box;"></textarea>
-          </div>
-          <button type="submit" style="width: 100%; background: #2563eb; color: #ffffff; border: none; padding: 14px; border-radius: 6px; font-size: 1rem; font-weight: 700; cursor: pointer;" id="submit-iba-btn">
-            Get IBA Estimate <i class="fa-solid fa-arrow-right" style="margin-left: 6px;"></i>
-          </button>
-        </form>
-      </div>
+        <!-- Right Hero Column: Interactive WhatsApp Lead Form -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 18px; padding: 32px; box-shadow: 0 15px 35px rgba(0,0,0,0.5);">
+          <h2 style="font-size: 1.45rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Shifting Estimate</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 22px;">Receive itemized quotation on WhatsApp within 2 minutes</p>
 
+          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px;">
+              <input type="text" name="move_from" class="form-control" value="Dumka" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+              <input type="text" name="move_to" class="form-control" value="Destination Hub" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            </div>
+            <button type="submit" style="width: 100%; padding: 15px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1.05rem; cursor: pointer; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4); transition: transform 0.2s ease;">
+              Get Instant Estimate Now &rarr;
+            </button>
+          </form>
+        </div>
+
+      </div>
     </div>
   </section>
 
-  <!-- Section 2: Trust Counter Bar -->
-    <!-- Section 2: Trust Counter Bar -->
-  <section class="stats-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);" id="trust-counter-bar">
+  <!-- =========================================================================
+       SECTION 2: 4-CARD LIVE STATS & TRUST HIGHLIGHT BAR
+       ========================================================================= -->
+  <section style="background: #070d1e; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;"><?php echo isset($page_locality) ? htmlspecialchars($page_locality) : 'Dumka'; ?> Local</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Dedicated Packing Crew</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">22,000+</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Relocations Executed</p>
         </div>
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">7-Layer Wrap</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Zero-Damage Cargo Packaging</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">100% Insured</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Declared Value Marine Policy</p>
         </div>
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">100% Claimable Relocation Bills</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">4.9 / 5.0</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Customer Satisfaction Score</p>
         </div>
-        <div style="padding: 22px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">GPS Fleet</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Live Satellite Tracking</div>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">IBA Approved</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Govt &amp; Corporate Claim Bills</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 3: Technical Overview & 6-Card Grid -->
-  <section style="padding: 70px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;" id="technical-overview-section">
+  <!-- =========================================================================
+       SECTION 3: COMPREHENSIVE TARIFF & COST BREAKDOWN MATRIX TABLE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Institutional Relocation Standards</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        IBA Approved Moving Standards for Dumka Transfers
-      </h2>
-
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-        Relocating as a government officer, bank manager, defense personnel, or faculty member at Sido Kanhu Murmu University (SKMU) requires absolute billing accuracy. Accounting departments enforce strict verification protocols, requiring official GST invoices, stamped Consignment Lorry Receipts (LR), and itemized inventory lists before authorizing transfer allowance reimbursements.
-      </p>
-
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 30px;">
-        At <strong>Shree Ashirwad Packers and Movers</strong>, our Dumka branch is fully compliant with Indian Banks Association (IBA) criteria. We provide complete 5-document claim packets that guarantee seamless 100% reimbursement approval.
-      </p>
-
-      <!-- 6 Cards Grid (3x2 Layout) -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 35px 0;">
-        
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-file-alt"></i></div>
-          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">18% GST Tax Invoice (SAC 996511)</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Original TAX invoice generated with 15-digit GSTIN and official SAC code 996511 required for government reimbursement.
-          </p>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-truck"></i></div>
-          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Stamped Consignment Lorry Receipt</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Official stamped transport Lorry Receipt (LR) detailing vehicle registration number, driver mobile, route, and weight dispatch.
-          </p>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-clipboard-list"></i></div>
-          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Itemized Packing Inventory Sheet</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Box-by-box itemized inventory list declaring all furniture, appliances, and personal cartons signed by the move supervisor.
-          </p>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-credit-card"></i></div>
-          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Official Stamped Money Receipt</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Stamped financial payment receipt recording advance token receipts and final balance settlement for employer accounts.
-          </p>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-shield-alt"></i></div>
-          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">100% Full-Value Transit Insurance</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Official 100% full-value transit insurance policy document issued by national insurance partners for complete risk mitigation.
-          </p>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-          <div style="background: rgba(245, 158, 11, 0.15); width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;">🏛️</div>
-          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Audit Verification Support</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Our Dumka branch provides prompt official verification letters and NOC support whenever employer audit desks request verification.
-          </p>
-        </div>
-
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Iba Approved Packers And Movers In Dumka <span style="color: #f59e0b;">Cost Matrix &amp; Tariffs</span>
+        </h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Our moving estimates are calculated based on shipment volume, packing tiers, distance, labor, and carrier specifications with zero hidden surcharges on moving day.
+        </p>
       </div>
 
-    </div>
-  </section>
-
-  <!-- Section 4: 4-Protocol Zero-Damage Execution System -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="safety-protocols-section">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Compliance Standards</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        4 Essential Compliance Criteria for IBA Relocation Bills
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 30px;">
-        To ensure your transfer claim is approved without delay, verify these 4 IBA compliance criteria:
-      </p>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
-        
-        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Criteria 1: Active GST Portal Verification</div>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            The moving company GSTIN must be active on gst.gov.in with matching business name and registered office address in Dumka or Jharkhand.
-          </p>
-        </div>
-
-        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Criteria 2: Official SAC Code &amp; Tax Split</div>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Invoices must clearly mention SAC code 996511 with proper CGST + SGST (9%+9%) or IGST (18%) tax splits.
-          </p>
-        </div>
-
-        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Criteria 3: Vehicle Number on Stamped LR</div>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            The Consignment Lorry Receipt (LR) must be stamped and bear the valid commercial transport vehicle registration number.
-          </p>
-        </div>
-
-        <div style="background: #101c40; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25);">
-          <div style="font-size: 1.3rem; font-weight: 800; color: #f59e0b; margin-bottom: 12px;">Criteria 4: Bank Account Payment Traceability</div>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Payment receipts must trace to the registered company current bank account rather than personal individual accounts.
-          </p>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section 5: Transparent Pricing Matrix Table -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;" id="pricing-matrix-section">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Verification Matrix</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        Comparison: IBA Approved Bills vs. Local Non-Claimable Bills
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-        Review why official audit desks accept IBA-compliant bills while rejecting uncertified transport receipts:
-      </p>
-
-      <div style="overflow-x: auto; margin-bottom: 30px;">
-        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3);">
+      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; color: #cbd5e1; font-size: 0.95rem;">
           <thead>
-            <tr style="background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%); color: #f59e0b; text-align: left; font-size: 0.95rem;">
-              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Document Parameter</th>
-              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">IBA Approved Bills (Shree Ashirwad)</th>
-              <th style="padding: 16px 20px; border-bottom: 2px solid rgba(245, 158, 11, 0.4);">Uncertified Local Transport Bills</th>
+            <tr style="background: rgba(245, 158, 11, 0.18); color: #f59e0b; border-bottom: 1.5px solid rgba(245,158,11,0.4);">
+              <th style="padding: 16px 20px; font-weight: 700;">Consignment / Move Type</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Packing &amp; Materials</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Loading / Unloading</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Transport Freight</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Estimated Total Cost</th>
             </tr>
           </thead>
-          <tbody style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.6;">
+          <tbody>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">GSTIN Validity</td>
-              <td style="padding: 14px 20px; color: #22c55e; font-weight: 700;">Active 15-Digit GSTIN Verified on Portal</td>
-              <td style="padding: 14px 20px; color: #ef4444;">No GSTIN or Fake Numbers</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">1 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹2,500 - ₹4,000</td>
+              <td style="padding: 16px 20px;">₹2,000 - ₹3,000</td>
+              <td style="padding: 16px 20px;">₹6,000 - ₹11,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹10,500 - ₹18,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Lorry Receipt (LR Copy)</td>
-              <td style="padding: 14px 20px; color: #22c55e; font-weight: 700;">Stamped Consignment LR with Vehicle No.</td>
-              <td style="padding: 14px 20px; color: #ef4444;">Handwritten Slip without Vehicle No.</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">2 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹4,500 - ₹7,000</td>
+              <td style="padding: 16px 20px;">₹3,500 - ₹5,000</td>
+              <td style="padding: 16px 20px;">₹9,000 - ₹16,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹17,000 - ₹28,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Itemized Inventory Sheet</td>
-              <td style="padding: 14px 20px; color: #22c55e; font-weight: 700;">Numbered &amp; Signed Inventory List</td>
-              <td style="padding: 14px 20px; color: #ef4444;">Vague Verbal Summaries</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">3 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹6,500 - ₹10,500</td>
+              <td style="padding: 16px 20px;">₹5,000 - ₹7,500</td>
+              <td style="padding: 16px 20px;">₹14,000 - ₹24,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹25,500 - ₹42,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Reimbursement Claim Acceptance</td>
-              <td style="padding: 14px 20px; color: #22c55e; font-weight: 700;">100% Guaranteed Bank &amp; Govt Audit Approval</td>
-              <td style="padding: 14px 20px; color: #ef4444;">High Risk of Rejection by Auditors</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">4 BHK / Villa Relocation</td>
+              <td style="padding: 16px 20px;">₹9,500 - ₹15,000</td>
+              <td style="padding: 16px 20px;">₹7,000 - ₹11,000</td>
+              <td style="padding: 16px 20px;">₹18,500 - ₹32,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹35,000 - ₹58,000</td>
             </tr>
-            <tr style="background: rgba(255,255,255,0.04);">
-              <td style="padding: 14px 20px; font-weight: 700; color: #ffffff;">Transit Insurance Policy</td>
-              <td style="padding: 14px 20px; color: #22c55e; font-weight: 700;">Official Policy from National Insurers</td>
-              <td style="padding: 14px 20px; color: #ef4444;">Verbal Assurances without Policy</td>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Bike / Two-Wheeler Transport</td>
+              <td style="padding: 16px 20px;">₹800 - ₹1,500</td>
+              <td style="padding: 16px 20px;">₹500 - ₹800</td>
+              <td style="padding: 16px 20px;">₹2,500 - ₹5,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹3,800 - ₹7,300</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Car Transport (Hatchback/Sedan/SUV)</td>
+              <td style="padding: 16px 20px;">₹1,500 - ₹2,500</td>
+              <td style="padding: 16px 20px;">₹1,000 - ₹1,500</td>
+              <td style="padding: 16px 20px;">₹11,000 - ₹22,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹13,500 - ₹26,000</td>
             </tr>
           </tbody>
         </table>
       </div>
-
     </div>
   </section>
 
-  <!-- Section 6: 5-Stage Relocation Workflow -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="workflow-section">
+  <!-- =========================================================================
+       SECTION 4: ROUTE TRANSIT SPECS, HIGHWAY CORRIDORS & CHECKPOST LOGISTICS
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Execution Workflow</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        5-Stage IBA Shifting Execution Workflow in Dumka
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
-        Here is how we execute IBA-standard relocations from initial quote to final bill claim submission:
-      </p>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px;">
-        
-        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
-          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">01</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 1: Pre-Move Audit &amp; Official Quote Letter</h3>
-          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Our supervisor conducts a physical survey in Dumka and issues a formal written quote on official company letterhead.
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Logistics</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Dumka to Destination Hub <span style="color: #f59e0b;">Transit Specifications</span>
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Transporting goods along the <strong>Dumka</strong> &rarr; <strong>Destination Hub</strong> arterial freight corridor demands meticulous route planning, adherence to interstate green tax compliance, and seamless toll clearance through FASTag-equipped multi-axle carrier trucks.
           </p>
+          <ul style="padding-left: 20px; margin: 0 0 20px 0; line-height: 1.85; color: #cbd5e1;">
+            <li><strong>Dedicated Freight Corridors:</strong> Utilizing major National Highways and express bypasses to ensure minimum vibration and speed bottlenecks.</li>
+            <li><strong>Interstate Checkpost Clearance:</strong> Complete e-Way bill documentation and state transport permits pre-cleared to avoid regulatory delays.</li>
+            <li><strong>Weather-Proof Enclosed Carriers:</strong> High-tensile steel container bodies protect delicate goods from torrential monsoon rain, dust storms, and highway vibrations.</li>
+          </ul>
         </div>
 
-        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
-          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">02</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 2: 7-Layer Packing &amp; Inventory Tagging</h3>
-          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Our crew applies bubble wrap, corrugated sheets, stretch film, and wood crating, creating a numbered inventory list.
-          </p>
+        <div style="background: #172a54; border-radius: 16px; padding: 30px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 20px;">Route Performance Highlights</h3>
+          <div style="display: flex; flex-direction: column; gap: 15px;">
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">PRIMARY HIGHWAYS</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">National Highway &amp; Golden Quadrilateral Corridors</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #10b981;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">ESTIMATED TRANSIT DURATION</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">3 to 6 Working Days (With live satellite GPS updates)</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #3b82f6;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">CONTAINER SPECIFICATION</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">18ft, 22ft &amp; 32ft MX High-Cube Weatherproof Containers</div>
+            </div>
+          </div>
         </div>
 
-        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
-          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">03</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 3: Container Loading &amp; Stamped LR Issuance</h3>
-          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            Goods are loaded into enclosed containers, anchored with belts, and your stamped Consignment Lorry Receipt (LR) is issued.
+        <!-- AI Logistics Intelligence & Checkpost Advisory Block -->
+        <div style="grid-column: 1 / -1; margin-top: 25px; background: rgba(245, 158, 11, 0.06); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
+          <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
+            <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory
+          </h3>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">
+            When dispatching consignments from Dumka towards Destination Hub, our fleet navigation system actively maps arterial bypass routes around metropolitan congestion zones. Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">
+            All long-distance carriers operating along the Dumka &rarr; Destination Hub corridor undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains emergency roadside assistance contracts with major highway repair networks, ensuring that even in the unlikely event of a mechanical puncture or engine trouble, a backup recovery vehicle is mobilized immediately to avoid delivery deadline breaches.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your vehicle crosses key regional toll plazas or arrives at state distribution hubs. You are always in direct contact with both your dedicated relocation manager and the truck driver throughout the journey.
           </p>
         </div>
+      </div>
+    </div>
+  </section>
 
-        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
-          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">04</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 4: Live GPS Transit &amp; Insurance Policy</h3>
-          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            The container truck travels under real-time satellite GPS tracking with full-value transit insurance policy coverage.
-          </p>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #101c40 0%, #09122b 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.25); position: relative;">
-          <span style="font-size: 2rem; font-weight: 900; color: rgba(245, 158, 11, 0.3); position: absolute; right: 20px; top: 15px;">05</span>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #f59e0b; margin-bottom: 12px; padding-right: 40px;">Stage 5: Unloading &amp; IBA Claim Packet Handover</h3>
-          <p style="font-size: 0.93rem; color: #cbd5e1; line-height: 1.7; margin: 0;">
-            We unload, reassemble furniture, and hand over your complete 5-document IBA claim billing packet ready for submission.
-          </p>
-        </div>
-
+  <!-- =========================================================================
+       SECTION 5: SPECIALIZED 7-LAYER PROTECTIVE PACKAGING PROTOCOL
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Zero-Damage Standard</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">7-Layer Protective Packaging System</h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          We engineer our packaging protocols specifically for harsh Indian road conditions and variable transit humidity.
+        </p>
       </div>
 
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-layer-group" style="margin-right: 8px;"></i> 1. High-Density Bubble Cushioning</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">80-GSM heavy-duty air-bubble rolls tightly bound around polished wood, glassware, and electronic appliances to absorb mechanical vibrations.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-box" style="margin-right: 8px;"></i> 2. Multi-Ply Corrugated Sheets</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High bursting-strength 5-ply and 7-ply corrugated fiberboard panels wrap external surfaces to prevent abrasions, pressure marks, and scratches.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-shield-alt" style="margin-right: 8px;"></i> 3. Corner &amp; Edge Protectors</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Reinforced L-shaped solid cardboard edge boards guard tabletop borders, wardrobe corners, and mirror frames against impact collisions.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-water" style="margin-right: 8px;"></i> 4. Stretch Film Moisture Seal</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Commercial-grade waterproof stretch wrap hermetically seals cartons, shielding goods against humidity, highway grime, and unexpected monsoon rainfall.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-pallet" style="margin-right: 8px;"></i> 5. Customized Pinewood Crates</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Tailored heat-treated wooden crates assembled on-site for oversized OLED/QLED televisions, marble temples, fragile chandeliers, and fine artwork.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-lock" style="margin-right: 8px;"></i> 6. Heavy-Duty Lashing &amp; Chocks</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High-tensile polyester ratchet tie-down straps anchor heavier furnishings and vehicle tires securely to the container chassis bed.</p>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- Section 7: IBA Approved Reimbursement Documentation -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="iba-documentation-section">
+  <!-- =========================================================================
+       SECTION 6: VEHICLE RELOCATION & CLOSED CARRIER STANDARDS
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Claim Documentation</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        5 Mandatory Claim Documents for Bank &amp; Government Transfers
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
-        Every employee receives our complete 5-document claim billing packet:
-      </p>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
-        
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
-          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-file-alt"></i></div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Original 18% GST Moving Invoice</h3>
-          </div>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Original TAX invoice generated with 15-digit GSTIN, SAC code (996511), and clear cost breakdowns for official reimbursement.
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div style="background: #172a54; padding: 30px; border-radius: 16px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 15px;">Automotive Transport Safety Protocols</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; margin-bottom: 15px;">
+            Whether relocating a luxury sedan or a daily commuter motorcycle, Shree Ashirwad manages your automobile with specialized automotive handling procedures:
           </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li><strong>Pre-Transit Condition Inspection:</strong> Odometer, fuel level, and bodywork photos meticulously logged on your digital handover manifest.</li>
+            <li><strong>Hydraulic Loading Ramps:</strong> Prevents ground-clearance scraping or undercarriage impact during vehicle embarkation.</li>
+            <li><strong>Individual Wheel Locks:</strong> Steel wheel stoppers prevent forward or reverse momentum during highway transit maneuvers.</li>
+          </ul>
         </div>
 
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
-          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-truck"></i></div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Consignment Lorry Receipt (LR)</h3>
-          </div>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Stamped transport Lorry Receipt recording vehicle registration number, driver mobile, route, and weight dispatch approvals.
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Automotive Care</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Dedicated <span style="color: #f59e0b;">Car &amp; Bike Carrier</span> Fleets
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
+            We do not load vehicles alongside loose household cartons. All motorcycles are packaged in dedicated steel-frame bike containers, and cars travel in enclosed auto transport trailers across the Dumka &rarr; Destination Hub route.
           </p>
+          <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Iba+Approved+Packers+And+Movers+In+Dumka+from+Dumka+to+Destination+Hub." title="Book Vehicle Transport" target="_blank" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
+            <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Book Vehicle Transport on WhatsApp
+          </a>
         </div>
+      </div>
+    </div>
+  </section>
 
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
-          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-clipboard-list"></i></div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Itemized Inventory Packing Sheet</h3>
+  <!-- =========================================================================
+       SECTION 7: TRANSIT MARINE INSURANCE & ZERO-DEP CLAIM GUIDE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 18px; padding: 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+        <div style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 30px; align-items: center;">
+          <div>
+            <span style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">
+              100% FINANCIAL PROTECTION
+            </span>
+            <h2 style="font-size: 2rem; font-weight: 800; margin-top: 15px; margin-bottom: 15px; color: #ffffff;">
+              Transit Marine Insurance &amp; Zero-Dep Settlement
+            </h2>
+            <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.75; margin-bottom: 20px;">
+              Shree Ashirwad partners with premier national insurance providers to extend comprehensive all-risk transit coverage. Calculated at a transparent 3% of declared consignment value (0.3% base tariff), this policy shields you against highway collisions, fire incidents, or overturning.
+            </p>
+            <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+              <span>&check; <strong style="color: #fff;">100% Declared Value</strong> Coverage</span>
+              <span>&check; <strong style="color: #fff;">Zero-Depreciation</strong> Clause</span>
+              <span>&check; <strong style="color: #fff;">Rapid 7-Day</strong> Claim Turnaround</span>
+            </div>
           </div>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Master inventory packing sheet detailing all packed furniture, appliances, and numbered boxes signed by the move supervisor.
-          </p>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
-          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-credit-card"></i></div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Stamped Money Payment Receipt</h3>
+          <div style="background: rgba(0,0,0,0.3); border: 1px solid rgba(245,158,11,0.25); border-radius: 14px; padding: 25px; text-align: center;">
+            <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 10px;">Quick Claims Assistance</h3>
+            <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin-bottom: 18px;">Our claims desk processes survey documentation smoothly with zero bureaucratic delays.</p>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 12px 24px; background: #f59e0b; color: #000; border-radius: 50px; font-weight: 700; font-size: 0.92rem; text-decoration: none;">
+              Insurance Desk: <?php echo SITE_PHONE; ?>
+            </a>
           </div>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Stamped payment receipt confirming advance payments and final bill settlement for accounts verification.
-          </p>
         </div>
+      </div>
+    </div>
+  </section>
 
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245, 158, 11, 0.3);">
-          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 14px;">
-            <div style="background: rgba(245, 158, 11, 0.2); width: 42px; height: 42px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; font-weight: 800;"><i class="fas fa-shield-alt"></i></div>
-            <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin: 0;">Valid Transit Insurance Policy</h3>
-          </div>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-            Original 100% full-value transit insurance policy document issued by national insurance partners.
-          </p>
-        </div>
-
+  <!-- =========================================================================
+       SECTION 8: IBA APPROVED DOCUMENTATION & CORPORATE REIMBURSEMENT
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Official Compliance</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          IBA Approved Bills &amp; Corporate Shifting Documentation
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Shree Ashirwad is an officially recognized logistics provider. We issue complete documentation sets required by government employees, public sector banks, defense personnel, and MNC executives for 100% transfer allowance reimbursement.
+        </p>
       </div>
 
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px;">
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">GST Invoice Copy</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Compliant tax invoice with GSTIN breakdown and SAC transport codes.</p>
+        </div>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-truck-moving" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Consignment Note (LR)</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Lorry Receipt copy recording truck number and transit date.</p>
+        </div>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-clipboard-list" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Itemized Packing List</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Numbered inventory manifest signed by you and our lead supervisor.</p>
+        </div>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-university" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">IBA Bank Clearance</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Indian Banks' Association approval code printed directly on invoice.</p>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- Section 8: Internal Locality & Route Links Grid -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(245, 158, 11, 0.15);" id="internal-links-grid-section">
+  <!-- =========================================================================
+       SECTION 9: STRATEGIC MOVING DAY STEP-BY-STEP CHECKLIST
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px; display: inline-block; margin-bottom: 10px;">Dumka Relocation Network</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 0 0 20px 0;">
-        Explore More Dumka Shifting Services
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 35px;">
-        Navigate through our dedicated Dumka relocation hub pages and specialized service guides:
-      </p>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
-        
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" title="Packers and Movers in Dumka Main city hub relocation services &amp; booking" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-dumka-main">
-          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Packers and Movers in Dumka</div>
-          <div style="font-size: 0.88rem; color: #94a3b8;">Main city hub relocation services &amp; booking</div>
-        </a>
-
-        <a href="<?php echo SITE_URL; ?>packers-and-movers-dumka-cost-guide" title="Dumka Cost &amp; Tariff Guide Complete 1BHK, 2BHK, 3BHK rate breakdown" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-cost-guide">
-          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Dumka Cost &amp; Tariff Guide</div>
-          <div style="font-size: 0.88rem; color: #94a3b8;">Complete 1BHK, 2BHK, 3BHK rate breakdown</div>
-        </a>
-
-        <a href="<?php echo SITE_URL; ?>how-to-choose-best-packers-and-movers-in-dumka" title="How to Choose Best Movers Expert selection guide &amp; verification checklist" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-choose-movers">
-          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">How to Choose Best Movers</div>
-          <div style="font-size: 0.88rem; color: #94a3b8;">Expert selection guide &amp; verification checklist</div>
-        </a>
-
-        <a href="<?php echo SITE_URL; ?>household-shifting-checklist-dumka" title="Household Shifting Checklist Step-by-step 30-day pre-move planner" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-shifting-checklist">
-          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Household Shifting Checklist</div>
-          <div style="font-size: 0.88rem; color: #94a3b8;">Step-by-step 30-day pre-move planner</div>
-        </a>
-
-        <a href="<?php echo SITE_URL; ?>car-and-bike-transport-guide-dumka" title="Car &amp; Bike Transport Guide Safe vehicle shipping rates &amp; process" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-vehicle-guide">
-          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Car &amp; Bike Transport Guide</div>
-          <div style="font-size: 0.88rem; color: #94a3b8;">Safe vehicle shipping rates &amp; process</div>
-        </a>
-
-        <a href="<?php echo SITE_URL; ?>warehouse-and-storage-facilities-in-dumka" title="Warehouse &amp; Storage Facilities Secure short-term &amp; long-term storage" style="text-decoration: none; display: block; background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.25); transition: transform 0.2s;" id="link-storage-facilities">
-          <div style="font-size: 1.1rem; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">Warehouse &amp; Storage Facilities</div>
-          <div style="font-size: 0.88rem; color: #94a3b8;">Secure short-term &amp; long-term storage</div>
-        </a>
-
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Stress-Free Execution</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">Your Strategic Relocation Checklist</h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Follow our proven moving milestone schedule to eliminate moving-day panic and guarantee an organized handover.
+        </p>
       </div>
 
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #f59e0b;">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">T-Minus 7 Days: Preparation</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Sort items into keep, donate, and discard piles to optimize consignment weight.</li>
+            <li>Backup critical digital files and secure jewelry, passports, and title deeds in personal luggage.</li>
+            <li>Notify utility providers (Wi-Fi, electricity, gas pipeline) for disconnection and address updates.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #10b981;">
+          <h3 style="color: #10b981; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Moving Day: Execution</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Defrost refrigerators 24 hours prior to prevent water leakage onto surrounding cartons.</li>
+            <li>Conduct room-by-room walkthrough with Shree Ashirwad supervisor for item inventory tagging.</li>
+            <li>Verify odometer reading on vehicle condition report before trailer ramp loading.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #3b82f6;">
+          <h3 style="color: #3b82f6; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Delivery Day: Settling In</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Supervise unloading and cross-verify carton box numbers against your master inventory sheet.</li>
+            <li>Inspect fragile crates and appliances before signing the final delivery acceptance manifest.</li>
+            <li>Our team assists with basic furniture reassembly (beds, tables, wardrobes) at your new home.</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- Section 9: Locality Content & Strategic Guide (High Density, 1800+ Words) -->
-  <section class="content-guide-section" style="background: #ffffff; padding: 60px 0;" id="detailed-iba-guide">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px; color: #334155; line-height: 1.8;">
-      
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 25px;">
-        Complete IBA Approved Moving &amp; Billing Guide for Dumka Transfers
-      </h2>
+  <!-- =========================================================================
+       SECTION 10: SHREE ASHIRWAD VS UNREGISTERED LOCAL TRANSPORTERS COMPARISON
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Why We Lead</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Shree Ashirwad vs <span style="color: #f59e0b;">Local Unregistered Movers</span>
+        </h2>
+      </div>
 
-      <p style="font-size: 1.05rem; margin-bottom: 20px;">
-        As the sub-capital of Jharkhand, Dumka houses major government administrative headquarters, judicial courts near Court Road, state treasury offices, and central educational institutions like Sido Kanhu Murmu University (SKMU). Transferring out of Dumka to another district or state requires choosing an IBA-approved moving company that guarantees 100% legal document compliance.
-      </p>
-
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        1. Understanding IBA Standards for Employee Relocation
-      </h3>
-      <p style="margin-bottom: 20px;">
-        The Indian Banks Association (IBA) maintains strict criteria for transport operators. Approval signifies that the moving agency possesses registered office premises, owned or long-term leased commercial container vehicles, active tax registrations, and strong financial integrity. Bills issued under IBA compliance satisfy public sector accounting guidelines nationwide.
-      </p>
-
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        2. Essential Elements of a Claimable GST Relocation Invoice
-      </h3>
-      <p style="margin-bottom: 20px;">
-        To prevent claim rejection or delay by internal auditors, ensure your relocation invoice contains: 1. Active 15-digit GSTIN matching company trade name, 2. Official SAC code 996511, 3. Itemized cost breakdown for packing, labor, vehicle freight, GST, and transit insurance, 4. Official company seal and supervisor signature.
-      </p>
-
-      <h3 style="font-size: 1.6rem; font-weight: 700; color: #1e293b; margin-top: 30px; margin-bottom: 15px;">
-        3. Comprehensive Audit Verification &amp; Support
-      </h3>
-      <p style="margin-bottom: 20px;">
-        If your employer's finance department requests additional verification post-move, our dedicated IBA customer support desk in Dumka provides prompt official verification letters, consignment tracking records, and bank NOC certificates to ensure your transfer allowance claim is settled smoothly.
-      </p>
-
+      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; color: #cbd5e1; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.18); color: #f59e0b; border-bottom: 1.5px solid rgba(245,158,11,0.4);">
+              <th style="padding: 16px 20px; font-weight: 700;">Service Parameter</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #10b981;">Shree Ashirwad Packers &amp; Movers</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #ef4444;">Unregistered Local Truckers</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Pricing Model</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Fixed-Price Quotation with zero hidden moving-day fees</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Low upfront bait price followed by delivery-day extortion</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Packaging Materials</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Certified 7-layer 80-GSM bubble wrap, corrugated sheets, stretch wrap</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Substandard recycled newspaper and torn single-ply cartons</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Fleet Vehicles</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; High-cube enclosed weatherproof containers with live GPS tracking</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Open wooden tarpaulin trucks prone to moisture, dust, and theft</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Insurance &amp; Claims</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Declared value transit policy with zero-depreciation clause</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Zero compensation for broken glass or dented furniture</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Documentation</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Valid GST invoice, consignment LR note, and IBA-approved billing</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Blank paper slips rejected by employers and corporate finance</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </section>
 
-  <!-- Section 10: 20-FAQ Accordion -->
-  <section class="faq-section" style="background: #f8fafc; padding: 60px 0; border-top: 1px solid #e2e8f0;" id="faqs">
+  <!-- =========================================================================
+       SECTION 10B: ROOM-BY-ROOM PACKING PROTOCOLS & DELICATE CARE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Itemized Care Standard</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Room-by-Room Packing &amp; Protection Protocols
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Different household assets require specialized packing methodologies to endure interstate transit vibrations across India. Our certified crew deploys distinct material suites tailored for each room.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-couch" style="margin-right: 8px;"></i> Living &amp; Dining Room</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Sofa upholstery and recliner fabrics are wrapped with breathable stretch film to avoid condensation staining, followed by heavy corrugated padding for wooden legs and corner frames. Dining glass tops are enclosed in custom foam sleeves before wooden crating.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-bed" style="margin-right: 8px;"></i> Master Bedroom &amp; Wardrobe</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Mattresses are sealed within heavy-gauge waterproof polythene zip bags to safeguard against dust and moisture. Wardrobe contents can be transferred directly into upright wardrobe carton boxes to preserve formal clothing without folding creases.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-utensils" style="margin-right: 8px;"></i> Kitchen &amp; Delicate Crockery</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Fine china, ceramic dinner sets, and glassware are individually swaddled in double-layer air-bubble film and nestled vertically into cellular partitioned cartons. Gaps are filled with biodegradable packing peanuts to eliminate transit friction.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-tv" style="margin-right: 8px;"></i> Home Electronics &amp; IT Gear</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            LED/OLED screens, soundbars, and desktop workstations receive antistatic bubble wraps, thermocol side corner buffers, and heavy multi-wall rigid cartons clearly marked with 'Fragile' handling directional arrows.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10C: HIGHWAY SAFETY, SATELLITE GPS & RISK MITIGATION
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Surveillance</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Real-Time Satellite GPS &amp; Highway Risk Mitigation
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Long-haul transit across Indian state borders involves variable topography, express highways, and regional traffic checkposts. Shree Ashirwad maintains strict operational risk mitigation protocols:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
+            <li><strong>Dual-Driver Shifts on Intercity Moves:</strong> Long-distance trucks travel with two certified commercial drivers who rotate every 4 to 5 hours to prevent driver fatigue and highway accidents.</li>
+            <li><strong>Zero-Night Transit in Hazardous Terrains:</strong> In mountainous or ghat corridors, trucks halt at verified highway hubs during late night hours for maximum transit safety.</li>
+            <li><strong>Geofenced Telematics &amp; Instant Alerts:</strong> Automated route deviation alerts notify our 24/7 central logistics command center if a carrier stops unscheduled.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 18px;">How You Can Track Your Shipment</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
+            Upon truck dispatch from Dumka, you receive a unique consignment tracking link directly on WhatsApp and SMS. You can monitor live highway progress, toll plaza crossings, and estimated delivery windows in real time.
+          </p>
+          <div style="background: rgba(0,0,0,0.3); padding: 18px; border-radius: 10px; border-left: 4px solid #10b981;">
+            <div style="font-size: 0.88rem; color: #94a3b8; font-weight: 600;">CENTRAL LOGISTICS HELPLINE</div>
+            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-top: 4px;">24/7 Dispatch Control: <?php echo SITE_PHONE; ?></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10D: SECURE WAREHOUSING & SHORT/LONG-TERM STORAGE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Flexible Storage Solutions</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Clean, Secure Warehousing &amp; Transit Storage Hubs
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Experiencing a gap between vacating your old residence and receiving possession of your new home? Shree Ashirwad maintains modern, secure storage hubs across all major state capitals and transport hubs in India.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-video" style="margin-right: 8px;"></i> 24/7 CCTV &amp; Biometric Security</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            All warehouse perimeters and storage aisles are monitored continuously with high-definition night-vision CCTV cameras and round-the-clock physical security guards.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-bug" style="margin-right: 8px;"></i> Moisture &amp; Pest-Controlled Bays</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Regular quarterly pest-control fumigation and elevated wooden pallet shelving protect furniture, fabrics, and mattresses against dampness, termites, and rodents.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-calendar-alt" style="margin-right: 8px;"></i> Flexible Rental Tenures</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Store your household goods from 7 days up to multiple years with transparent weekly or monthly billing options and zero lock-in contracts.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10E: CORPORATE & COMMERCIAL RELOCATION PROTOCOL
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Enterprise Solutions</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Corporate Office Shifting &amp; Commercial Moves
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Executing a corporate relocation between <strong>Dumka</strong> and <strong>Destination Hub</strong> requires meticulous downtime planning to prevent disruption to business operations. Our corporate relocation division delivers turnkey enterprise logistics:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
+            <li><strong>Weekend &amp; After-Hours Execution:</strong> Office moves scheduled from Friday evening to Sunday night ensures your staff starts work Monday morning with zero business downtime.</li>
+            <li><strong>IT Equipment &amp; Server Migration:</strong> Dedicated antistatic padded crates, individual serial number tagging, and climate-controlled vehicles for sensitive servers, switches, and workstations.</li>
+            <li><strong>Confidential Document Tagging:</strong> Numbered, tamper-evident security seals on document archive crates to protect corporate records and customer data privacy.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 15px;">Corporate Billing &amp; Tender Compliance</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
+            We participate in formal corporate vendor empanelment and government GeM procurement portals. We supply valid GST invoices, audited financial records, and vendor compliance certificates upon request.
+          </p>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
+            <i class="fas fa-briefcase" style="margin-right: 8px;"></i> Speak with Corporate Move Manager
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10F: INTERSTATE BORDER CHECKPOSTS & OCTROI / GREEN TAX CLEARANCE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Regulatory Compliance</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Interstate Border Checkpoints &amp; Green Tax Clearances
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Navigating interstate highway transport between Dumka and Destination Hub requires rigorous statutory compliance across multiple regional transport authorities (RTOs) and commercial tax departments.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-barcode" style="margin-right: 8px;"></i> Automated National e-Way Bill</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Every consignment crossing state borders is registered on the National Goods &amp; Services Tax e-Way bill portal with unique RFID tracking numbers, preventing arbitrary highway interception or impounding at state boundary plazas.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-leaf" style="margin-right: 8px;"></i> Green Cess &amp; Entry Permits</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Municipal corporation border entry cess, state green taxes, and municipal entry permits are fully settled by Shree Ashirwad in advance. Clients never face surprise tax demands from highway authorities during transit.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-id-card" style="margin-right: 8px;"></i> RTO Form 28 / 29 / 30 Advisory</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            For permanent vehicle relocations between Dumka and Destination Hub, our administrative documentation desk guides customers on RTO No Objection Certificate (NOC) documentation, Form 28 (triplicate), and interstate road tax refund claims.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 11: FREQUENTLY ASKED QUESTIONS (FAQ ACCORDION)
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
       <div style="text-align: center; margin-bottom: 45px;">
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">Frequently Asked Questions (FAQs)</h2>
-        <p style="color: #64748b; font-size: 1rem;">Clear answers to common questions about IBA approved movers in Dumka.</p>
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions About <span style="color: #f59e0b;">Iba Approved Packers And Movers In Dumka</span>
+        </h2>
       </div>
 
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        <?php foreach ($faq_list as $index => $faq): ?>
-          <div style="border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; background: #ffffff;">
-            <div style="padding: 18px 22px; font-weight: 700; font-size: 1.05rem; color: #0f172a; cursor: pointer; display: flex; justify-content: space-between; align-items: center;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'block' ? 'none' : 'block';">
-              <span><?php echo ($index + 1) . '. ' . htmlspecialchars($faq['q']); ?></span>
-              <i class="fa-solid fa-chevron-down" style="font-size: 0.9rem; color: #2563eb;"></i>
-            </div>
-            <div style="padding: 0 22px 18px 22px; font-size: 0.95rem; color: #475569; line-height: 1.7; display: <?php echo $index === 0 ? 'block' : 'none'; ?>;">
+      <div style="display: flex; flex-direction: column; gap: 16px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <details style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;" <?php echo ($idx === 0 ? 'open' : ''); ?>>
+            <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+              <span><strong style="color: #f59e0b; margin-right: 8px;">Q<?php echo ($idx + 1); ?>.</strong> <?php echo htmlspecialchars($faq['q']); ?></span>
+              <span style="color: #f59e0b; font-size: 1.3rem; font-weight: 800;">&#43;</span>
+            </summary>
+            <div style="padding: 16px 24px 22px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; border-top: 1px solid rgba(255,255,255,0.08);">
               <?php echo htmlspecialchars($faq['a']); ?>
             </div>
+          </details>
+        <?php endforeach; ?>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 12: DYNAMIC 6-LINK INTERNAL LINKING MESH
+       ========================================================================= -->
+  <section style="padding: 65px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Connected Logistics Network</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px;">
+          Related Shifting Routes &amp; <span style="color: #f59e0b;">Verified Moving Corridors</span>
+        </h2>
+        <p style="color: #cbd5e1; max-width: 700px; margin: 10px auto 0 auto; font-size: 0.95rem;">
+          Explore verified relocation services and interstate freight corridors connected to your moving route:
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;">
+        <?php
+        $mesh_routes = array (
+  0 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/bike-transportation-in-dumka',
+    'slug' => 'bike-transportation-in-dumka',
+    'title' => 'Bike Transportation In Dumka',
+    'anchor' => 'Bike Transportation In Dumka',
+  ),
+  1 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/car-and-bike-transport-guide-dumka',
+    'slug' => 'car-and-bike-transport-guide-dumka',
+    'title' => 'Car And Bike Transport Guide Dumka',
+    'anchor' => 'Car And Bike Transport Guide Dumka',
+  ),
+  2 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/car-transportation-in-dumka',
+    'slug' => 'car-transportation-in-dumka',
+    'title' => 'Car Transportation In Dumka',
+    'anchor' => 'Car Transportation In Dumka',
+  ),
+  3 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',
+    'slug' => 'affordable-bike-transportation-in-ranchi',
+    'title' => 'Affordable Bike Transportation In Ranchi',
+    'anchor' => 'Affordable Bike Transportation In Ranchi',
+  ),
+  4 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-car-transportation-in-ranchi',
+    'slug' => 'affordable-car-transportation-in-ranchi',
+    'title' => 'Affordable Car Transportation In Ranchi',
+    'anchor' => 'Affordable Car Transportation In Ranchi',
+  ),
+  5 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/agarwal-packers-car-transporting-charges-from-mumbai-to-bangalore',
+    'slug' => 'agarwal-packers-car-transporting-charges-from-mumbai-to-bangalore',
+    'title' => 'Agarwal Packers Car Transporting Charges From Mumbai To Bangalore',
+    'anchor' => 'Agarwal Packers Car Transporting Charges From Mumbai To Bangalore',
+  ),
+);
+        foreach ($mesh_routes as $mr):
+        ?>
+          <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); transition: border-color 0.2s ease;">
+            <a href="<?php echo htmlspecialchars($mr['url']); ?>" title="<?php echo htmlspecialchars($mr['title']); ?>" style="text-decoration: none; color: inherit; display: block;">
+              <h3 style="color: #f59e0b; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px;">
+                <i class="fas fa-truck-moving" style="margin-right: 8px;"></i> <?php echo htmlspecialchars($mr['title']); ?>
+              </h3>
+              <p style="color: #94a3b8; font-size: 0.85rem; margin: 0; line-height: 1.5;">
+                Doorstep moving solutions, GPS-tracked container trucks, and transparent rates. &rarr;
+              </p>
+            </a>
           </div>
         <?php endforeach; ?>
       </div>
     </div>
   </section>
 
-  <!-- Section 11: Bottom Call/WhatsApp CTA Banner -->
-  <section class="cta-banner" style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 50px 0; text-align: center;" id="bottom-cta">
-    <div class="container" style="max-width: 900px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2.2rem; font-weight: 800; margin-bottom: 15px; color: #ffffff;">Book IBA Approved Packers and Movers in Dumka Today!</h2>
-      <p style="font-size: 1.1rem; color: #cbd5e1; margin-bottom: 30px; line-height: 1.7;">
-        Call Shree Ashirwad Packers and Movers for 100% claimable GST relocation bills, LR copies, and official receipts!
+  <!-- =========================================================================
+       SECTION 13: HIGH-CONVERTING CALL TO ACTION FOOTER BANNER
+       ========================================================================= -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
+      <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 16px;">
+        Book Your <span style="color: #f59e0b;">Iba Approved Packers And Movers In Dumka</span> Today!
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 780px; margin: 0 auto 32px auto; line-height: 1.75;">
+        Experience seamless packing, damage-free container transport, and dedicated move management with Shree Ashirwad Packers and Movers. Speak with an expert or request a WhatsApp estimate now.
       </p>
-      <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="tel:+918409531615" title="Call +91 8409531615" style="background: #2563eb; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-call-btn">
-          <i class="fa-solid fa-phone"></i> Call +91 8409531615
+
+      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
         </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20IBA%20approved%20moving%20bills%20in%20Dumka." title="Chat on WhatsApp" style="background: #22c55e; color: #ffffff; padding: 14px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem;" id="cta-wa-btn">
-          <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
+        <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Iba+Approved+Packers+And+Movers+In+Dumka+from+Dumka+to+Destination+Hub." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
         </a>
       </div>
     </div>
@@ -621,6 +843,9 @@ require_once __DIR__ . '/../includes/header.php';
 
 </main>
 
+<!-- =========================================================================
+     SECTION 14: INTERACTIVE HERO WHATSAPP SCRIPT
+     ========================================================================= -->
 <script>
 function sendHeroWhatsAppLead(event, form) {
   event.preventDefault();
@@ -628,16 +853,59 @@ function sendHeroWhatsAppLead(event, form) {
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
-  var extraMsg = form.querySelector('[name="message"]').value;
   
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Quote:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
-  
-  if (extraMsg && extraMsg.trim() !== '') {
-    message += "\n- Details: " + extraMsg;
-  }
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a shifting estimate for Iba Approved Packers And Movers In Dumka:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination Location: " + moveTo;
   
   var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
   window.location.href = whatsappUrl;
+}
+</script>
+
+<!-- =========================================================================
+     SECTION 15: DUAL SCHEMA (FAQPage & MovingCompany JSON-LD)
+     ========================================================================= -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MovingCompany",
+      "@id": "<?php echo $canonical_url; ?>#movingcompany",
+      "name": "Shree Ashirwad Packers and Movers",
+      "url": "<?php echo SITE_URL; ?>",
+      "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN"
+      },
+      "areaServed": [
+        "Dumka",
+        "Destination Hub"
+      ],
+      "description": "<?php echo addslashes($page_desc); ?>"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "<?php echo $canonical_url; ?>#faqpage",
+      "mainEntity": [
+        <?php 
+        $schema_faqs = [];
+        foreach ($faq_list as $faq) {
+          $schema_faqs[] = json_encode([
+            '@type' => 'Question',
+            'name' => $faq['q'],
+            'acceptedAnswer' => [
+              '@type' => 'Answer',
+              'text' => $faq['a']
+            ]
+          ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+        }
+        echo implode(",\n        ", $schema_faqs);
+        ?>
+      ]
+    }
+  ]
 }
 </script>
 

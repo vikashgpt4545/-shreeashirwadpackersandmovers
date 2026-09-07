@@ -1,7 +1,8 @@
 <?php
 // router.php - Router script for PHP built-in CLI server (php -S)
 
-$uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$rawPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$uri = rawurldecode($rawPath);
 
 // Explicit route for dynamic sitemap XML (matches Apache .htaccess rewrite rule)
 if ($uri === '/sitemap.xml') {
@@ -20,7 +21,30 @@ $filePath = __DIR__ . $uri;
 
 // 1. Serve static files directly (CSS, JS, images, font files)
 if ($uri !== '/' && file_exists($filePath) && !is_dir($filePath)) {
-    return false;
+    if (realpath($_SERVER['DOCUMENT_ROOT'] ?? '') === realpath(__DIR__)) {
+        return false;
+    }
+    // Started from parent directory: serve static file directly with correct MIME type
+    $ext = strtolower(pathinfo($filePath, PATHINFO_EXTENSION));
+    $mimeTypes = [
+        'css'   => 'text/css; charset=UTF-8',
+        'js'    => 'application/javascript; charset=UTF-8',
+        'png'   => 'image/png',
+        'jpg'   => 'image/jpeg',
+        'jpeg'  => 'image/jpeg',
+        'webp'  => 'image/webp',
+        'svg'   => 'image/svg+xml',
+        'woff'  => 'font/woff',
+        'woff2' => 'font/woff2',
+        'ttf'   => 'font/ttf',
+        'ico'   => 'image/x-icon',
+        'json'  => 'application/json',
+    ];
+    $contentType = $mimeTypes[$ext] ?? 'application/octet-stream';
+    header('Content-Type: ' . $contentType);
+    header('Content-Length: ' . filesize($filePath));
+    readfile($filePath);
+    exit;
 }
 
 // 2. Root URL -> index.php
@@ -44,6 +68,16 @@ $pageFile = __DIR__ . '/pages/' . $slug . '.php';
 if (file_exists($pageFile)) {
     require $pageFile;
     exit;
+}
+
+// 3b. Route slug with spaces or special characters converted to standard hyphens
+$hyphenSlug = preg_replace('/\s+/', '-', strtolower($slug));
+if ($hyphenSlug !== $slug) {
+    $hyphenPageFile = __DIR__ . '/pages/' . $hyphenSlug . '.php';
+    if (file_exists($hyphenPageFile)) {
+        require $hyphenPageFile;
+        exit;
+    }
 }
 
 // 4. Route direct file if requested

@@ -1,118 +1,132 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers and Movers in Itanagar | House Shifting Itanagar | 8409531615";
-$page_desc = "Top-rated Packers and Movers in Itanagar, Arunachal Pradesh. Safe home shifting, office relocation, car shipping & bike parcel service in Naharlagun, Ganga Market & Niti Vihar. Call (+91) 8409531615.";
-$page_keywords = "packers and movers in itanagar, packers and movers itanagar, house shifting itanagar, office relocation itanagar, car transport itanagar, bike shipping itanagar, IBA approved movers itanagar, naharlagun packers";
+$page_title = "Packers And Movers In Itanagar | Shree Ashirwad Packers & Movers";
+$page_desc = "Get transparent, IBA-approved Packers And Movers In Itanagar with Shree Ashirwad Packers and Movers. ~850 km via National Highway Arterial Corridors & Multi-Axle Express Freight Highways. 100% safe multi-layer packing, transit insurance, dedicated GPS container carriers, and doorstep delivery across Itanagar and Destination Hub.";
+$page_keywords = "packers and movers in itanagar, packers and movers in itanagar blogspot, packers and movers itanagar, home shifting services in indore, home shifting videos, packers and movers kolkata rate, packers and movers estimated cost india, aggarwal packers & movers gst secunderabad, iba approved movers and packers in bhopal, quick n safe movers in meerut road ghaziabad, safe packers and movers gurgaon, affordable packers and movers in baner, inside tamilnadu packers and movers";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/packers-and-movers-in-itanagar";
+$page_keyword_tags = array (
+  0 => 'packers and movers in itanagar',
+  1 => 'packers and movers in itanagar blogspot',
+  2 => 'packers and movers itanagar',
+  3 => 'home shifting services in indore',
+  4 => 'home shifting videos',
+  5 => 'packers and movers kolkata rate',
+  6 => 'packers and movers estimated cost india',
+  7 => 'aggarwal packers & movers gst secunderabad',
+  8 => 'iba approved movers and packers in bhopal',
+  9 => 'quick n safe movers in meerut road ghaziabad',
+  10 => 'safe packers and movers gurgaon',
+  11 => 'affordable packers and movers in baner',
+  12 => 'inside tamilnadu packers and movers',
+);
 
-$page_city = "Itanagar";
-
-$faq_list = [
-    [
-        'q' => 'Which areas do you serve for packers and movers in Itanagar?',
-        'a' => 'We cover all residential, administrative, educational, and defense zones across Itanagar including Naharlagun, Ganga Market, Niti Vihar, Vivek Vihar, Chimpu, Rajiv Gandhi University (Rono Hills), Civil Secretariat, Nirjuli, and Banderdewa.'
-    ],
-    [
-        'q' => 'Are your relocation bills in Itanagar compliant with Government, ITBP, and PSU reimbursement rules?',
-        'a' => 'Yes, Shree Ashirwad Packers and Movers provides 100% genuine IBA-compliant GST invoices, Lorry Receipts (LR), money receipts, and itemized inventory lists accepted by Civil Secretariat staff, Central/State government officers, ITBP, Army officers, University professors, and Bank HR audits.'
-    ],
-    [
-        'q' => 'What are the charges for local home shifting in Itanagar and Naharlagun?',
-        'a' => 'Local household shifting within Itanagar / Naharlagun ranges from ₹3,500 to ₹6,000 for 1BHK, ₹6,000 to ₹10,500 for 2BHK, and ₹10,500 to ₹16,500 for 3BHK residences or quarters.'
-    ],
-    [
-        'q' => 'How do you manage shifting through check gates (Banderdewa Inner Line Permit zone) and mountain roads?',
-        'a' => 'Our logistical team manages all permit paperwork and operates specialized hill vehicles to transfer goods smoothly through Banderdewa check gate connecting Arunachal Pradesh to National Highway networks.'
-    ],
-    [
-        'q' => 'Do you provide car carrier and motorcycle shipping services from Itanagar to other states?',
-        'a' => 'Yes, we operate enclosed hydraulic car carriers and dedicated containerized motorcycle shipping trucks connecting Itanagar to Guwahati, Kolkata, Siliguri, Patna, Ranchi, Delhi, and pan-India.'
-    ],
-    [
-        'q' => 'How many days before moving should I schedule packers and movers in Itanagar?',
-        'a' => 'We advise booking 2 to 3 days prior for local moves within Itanagar / Naharlagun and 4 to 5 days prior for interstate relocations.'
-    ],
-    [
-        'q' => 'What protective packaging materials do you use for house shifting in Itanagar?',
-        'a' => 'We use a 7-layer safety packaging system comprising high-density air bubble wrap, 5-ply corrugated cardboard sheets, waterproof stretch film, foam corner locks, and custom wooden crates for glass and delicate electronics.'
-    ],
-    [
-        'q' => 'Can your crew dismantle and reassemble heavy wooden furniture in Itanagar?',
-        'a' => 'Yes, skilled carpenters safely dismantle double beds, modular wardrobes, and dining tables at origin and reassemble them at your new house.'
-    ],
-    [
-        'q' => 'Do you offer transit insurance for interstate relocations starting from Itanagar?',
-        'a' => 'Yes, we provide 100% full-value transit insurance policy coverage safeguarding your belongings against highway and weather hazards.'
-    ],
-    [
-        'q' => 'How can I get an immediate price quote for Itanagar shifting?',
-        'a' => 'Call +91 8409531615 or submit your moving details on WhatsApp for a fast transparent quote.'
-    ]
-];
+$faq_list = array (
+  0 => 
+  array (
+    'q' => 'How long does shipment transit take from Itanagar to Destination Hub?',
+    'a' => 'Typical transit duration along the National Highway Arterial Corridors & Multi-Axle Express Freight Highways takes approximately 2 to 3 Working Days. All long-haul vehicles are operated by certified dual-driver crews and equipped with live satellite GPS telematics for real-time location tracking on WhatsApp.',
+  ),
+  1 => 
+  array (
+    'q' => 'Do you provide IBA approved bills for company or government transfer claims?',
+    'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.',
+  ),
+  2 => 
+  array (
+    'q' => 'How are relocation charges calculated for Packers And Movers In Itanagar?',
+    'a' => 'Our moving estimates between Itanagar and Destination Hub are calculated using transparent parameters: total consignment volume (cft), distance (~850 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.',
+  ),
+  3 => 
+  array (
+    'q' => 'Can I monitor the live location of the container truck during transit?',
+    'a' => 'Yes. Upon vehicle dispatch from Itanagar, you receive a private GPS tracking portal link and automated WhatsApp transit checkpoints as our truck clears interstate toll plazas and border checkposts en route to Destination Hub.',
+  ),
+  4 => 
+  array (
+    'q' => 'What does your transit insurance cover and how are claims settled?',
+    'a' => 'We arrange comprehensive 100% declared-value marine transit insurance covering accidental highway damage, fire, overturning, or transit perils. In the rare event of transit damage, claims are inspected and processed within 7 to 10 working days under a cashless settlement policy.',
+  ),
+  5 => 
+  array (
+    'q' => 'Do your team handle multi-floor staircase lifting and elevator restrictions?',
+    'a' => 'Our certified moving crews are equipped with heavy furniture lifter straps, hydraulic trolleys, and protective floor sheets. We coordinate smoothly with apartment society management in both Itanagar and Destination Hub to ensure elevator compliance.',
+  ),
+);
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<main class="site-main">
+<main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
 
-  <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
-    <div class="container">
-      <ul class="breadcrumb" style="display: flex; gap: 8px; list-style: none; padding: 12px 0; font-size: 0.9rem; color: #cbd5e1;">
-        <li><a href="<?php echo SITE_URL; ?>" style="color: #f59e0b; text-decoration: none;">Home</a></li>
-        <li>/</li>
-        <li><a href="<?php echo SITE_URL; ?>services" style="color: #f59e0b; text-decoration: none;">Services</a></li>
-        <li>/</li>
-        <li style="color: #94a3b8;">Packers and Movers in Itanagar</li>
-      </ul>
+  <!-- =========================================================================
+       SECTION 1: BREADCRUMBS & 2-COLUMN HERO SECTION WITH LEAD FORM
+       ========================================================================= -->
+  <div class="breadcrumb-wrapper" style="background: #0b132b; padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="font-size: 0.88rem; color: #94a3b8; display: flex; align-items: center; gap: 8px;">
+        <a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #ffffff; font-weight: 600;"><?php echo htmlspecialchars($page_title); ?></span>
+      </div>
     </div>
   </div>
 
-  <!-- Section 1: Hero Section with Lead Form -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #172a54 100%); padding: 60px 0; color: #ffffff; position: relative;">
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 65px 0 55px 0; color: #ffffff; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 40px; align-items: center;">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
-        <div>
-          <span style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">
-            Itanagar & Arunachal #1 IBA Approved Movers
+        <!-- Left Hero Column -->
+        <div class="hero-text">
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 18px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 18px; letter-spacing: 0.5px;">
+            IBA APPROVED &bull; ISO 9001:2015 CERTIFIED &bull; 100% FIXED PRICE GUARANTEE
           </span>
-          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin: 15px 0; color: #ffffff;">
-            Packers and Movers in <span style="color: #f59e0b;">Itanagar</span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.25; margin-bottom: 20px; color: #ffffff;">
+            Packers And Movers In Itanagar
           </h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">
-            Top-rated home shifting, office relocation, car shipping & bike transportation services in Itanagar, Naharlagun & Ganga Market with 100% zero-damage guarantee and IBA claim approval.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+            Planning a seamless transition from <strong>Itanagar</strong> to <strong>Destination Hub</strong> (~850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways)? Shree Ashirwad Packers and Movers delivers certified end-to-end relocation solutions with multi-layer safe packing, insured enclosed container trailers, and transparent, fixed-price pricing.
           </p>
-          <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; padding: 14px 28px; border-radius: 50px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
+          
+          <div style="background: rgba(255,255,255,0.04); border-left: 3px solid #f59e0b; padding: 8px 14px; border-radius: 6px; font-size: 0.85rem; color: #94a3b8; margin-bottom: 24px;">
+            <strong style="color: #f59e0b;">Local Area Coverage:</strong> Direct doorstep pickup across City Centre, Railway Station Road, Industrial Area, Civil Lines and dedicated delivery in City Centre, Railway Station Road, Industrial Area, Civil Lines.
+          </div>
+
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Moving Coordinator" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20for%20Itanagar." target="_blank" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; padding: 14px 28px; border-radius: 50px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              <i class="fab fa-whatsapp"></i> WhatsApp Quote
+            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+In+Itanagar+from+Itanagar+to+Destination+Hub." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
+          </div>
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">Doorstep</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">GPS Tracked</strong> Fleet</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> Bills</span>
           </div>
         </div>
 
-        <div style="background: #101c40; padding: 30px; border-radius: 16px; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-          <h3 style="font-size: 1.4rem; color: #f59e0b; font-weight: 700; margin-bottom: 20px; text-align: center;">
-            Get Instant Itanagar Shifting Quote
-          </h3>
-          <form onsubmit="sendHeroWhatsAppLead(event, this)">
-            <div style="margin-bottom: 15px;">
-              <input type="text" name="name" placeholder="Your Name *" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid #1e293b; background: #0b132b; color: #ffffff; font-size: 0.95rem;">
+        <!-- Right Hero Column: Interactive WhatsApp Lead Form -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 18px; padding: 32px; box-shadow: 0 15px 35px rgba(0,0,0,0.5);">
+          <h2 style="font-size: 1.45rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Shifting Estimate</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 22px;">Receive itemized quotation on WhatsApp within 2 minutes</p>
+
+          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
             </div>
-            <div style="margin-bottom: 15px;">
-              <input type="tel" name="phone" placeholder="Mobile Number *" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid #1e293b; background: #0b132b; color: #ffffff; font-size: 0.95rem;">
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
             </div>
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 15px;">
-              <input type="text" name="move_from" placeholder="Moving From (e.g. Itanagar) *" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid #1e293b; background: #0b132b; color: #ffffff; font-size: 0.95rem;">
-              <input type="text" name="move_to" placeholder="Moving To *" required style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid #1e293b; background: #0b132b; color: #ffffff; font-size: 0.95rem;">
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px;">
+              <input type="text" name="move_from" class="form-control" value="Itanagar" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+              <input type="text" name="move_to" class="form-control" value="Destination Hub" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
             </div>
-            <div style="margin-bottom: 20px;">
-              <textarea name="message" placeholder="Item details / Shifting date (Optional)" style="width: 100%; padding: 12px 15px; border-radius: 8px; border: 1px solid #1e293b; background: #0b132b; color: #ffffff; font-size: 0.95rem; height: 75px; resize: none;"></textarea>
-            </div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #0b132b; font-weight: 800; border: none; border-radius: 8px; font-size: 1.05rem; cursor: pointer; text-transform: uppercase; letter-spacing: 0.5px;">
-              Request Free Estimate
+            <button type="submit" style="width: 100%; padding: 15px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1.05rem; cursor: pointer; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4); transition: transform 0.2s ease;">
+              Get Instant Estimate Now &rarr;
             </button>
           </form>
         </div>
@@ -121,89 +135,100 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 2: Key Trust Badges -->
-  <section style="padding: 30px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.05);">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; text-align: center;">
-        <div style="background: #101c40; padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.5rem; font-weight: 800; margin: 0;">15+ Years</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem; margin: 5px 0 0 0;">Relocation Experience</p>
+  <!-- =========================================================================
+       SECTION 2: 4-CARD LIVE STATS & TRUST HIGHLIGHT BAR
+       ========================================================================= -->
+  <section style="background: #070d1e; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">22,000+</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Relocations Executed</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.5rem; font-weight: 800; margin: 0;">1,200+</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem; margin: 5px 0 0 0;">Itanagar Moves Executed</p>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">100% Insured</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Declared Value Marine Policy</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.5rem; font-weight: 800; margin: 0;">100% IBA</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem; margin: 5px 0 0 0;">GST & Claim Compliant</p>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">4.9 / 5.0</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Customer Satisfaction Score</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #f59e0b; font-size: 1.5rem; font-weight: 800; margin: 0;">Zero Damage</h4>
-          <p style="color: #94a3b8; font-size: 0.85rem; margin: 5px 0 0 0;">7-Layer Safety Packing</p>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">IBA Approved</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Govt &amp; Corporate Claim Bills</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 3: Overview & Local Expertise -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+  <!-- =========================================================================
+       SECTION 3: COMPREHENSIVE TARIFF & COST BREAKDOWN MATRIX TABLE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px; text-align: center;">
-        Professional <span style="color: #f59e0b;">Relocation Services</span> in Itanagar (Arunachal Pradesh)
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; text-align: justify; margin-bottom: 20px;">
-        Itanagar, the capital of Arunachal Pradesh nestled in the Eastern Himalayan foothills, encompasses the twin towns of Itanagar and Naharlagun. Moving goods in this mountainous region requires skilled handling for winding hill roads, Banderdewa check gate clearances, and seasonal weather shifts. <strong>Shree Ashirwad Packers and Movers</strong> offers tailored relocation solutions for Itanagar residents.
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; text-align: justify;">
-        Our experienced mountain crew handles pre-move survey, 7-layer waterproof wrapping, small feeder vehicle transshipment, enclosed container trucking via Guwahati highway (NH-415 / NH-15), and doorstep setup. We specialize in official IBA-approved reimbursement bills for Civil Secretariat staff, Central/State Government Officers, ITBP/Army personnel, University professors, and Bank staff.
-      </p>
-    </div>
-  </section>
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Packers And Movers In Itanagar <span style="color: #f59e0b;">Cost Matrix &amp; Tariffs</span>
+        </h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Our moving estimates are calculated based on shipment volume, packing tiers, distance (~850 km), labor, and carrier specifications with zero hidden surcharges on moving day.
+        </p>
+      </div>
 
-  <!-- Section 4: Cost Calculator Table -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 15px; text-align: center;">
-        Itanagar Shifting <span style="color: #f59e0b;">Cost & Price Table</span>
-      </h2>
-      <p style="color: #94a3b8; text-align: center; margin-bottom: 35px;">
-        Estimated cost breakdown for local and intercity relocation starting from Itanagar.
-      </p>
-
-      <div style="overflow-x: auto;">
-        <table style="width: 100%; border-collapse: collapse; background: #101c40; border-radius: 10px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.2);">
+      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; color: #cbd5e1; font-size: 0.95rem;">
           <thead>
-            <tr style="background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); color: #f59e0b;">
-              <th style="padding: 15px; text-align: left; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">Shifting Type</th>
-              <th style="padding: 15px; text-align: left; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">Local Itanagar / Naharlagun</th>
-              <th style="padding: 15px; text-align: left; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">Outstation / Intercity Move</th>
+            <tr style="background: rgba(245, 158, 11, 0.18); color: #f59e0b; border-bottom: 1.5px solid rgba(245,158,11,0.4);">
+              <th style="padding: 16px 20px; font-weight: 700;">Consignment / Move Type</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Packing &amp; Materials</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Loading / Unloading</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Transport Freight</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Estimated Total Cost</th>
             </tr>
           </thead>
-          <tbody style="color: #cbd5e1; font-size: 0.95rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-              <td style="padding: 15px; font-weight: 600; color: #ffffff;">1 BHK Apartment Shifting</td>
-              <td style="padding: 15px;">₹3,500 - ₹6,000</td>
-              <td style="padding: 15px;">₹9,500 - ₹18,000</td>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">1 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹2,500 - ₹4,000</td>
+              <td style="padding: 16px 20px;">₹2,000 - ₹3,200</td>
+              <td style="padding: 16px 20px;">₹6,500 - ₹11,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹11,000 - ₹18,700</td>
             </tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-              <td style="padding: 15px; font-weight: 600; color: #ffffff;">2 BHK Apartment Shifting</td>
-              <td style="padding: 15px;">₹6,000 - ₹10,500</td>
-              <td style="padding: 15px;">₹16,000 - ₹28,000</td>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">2 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹4,200 - ₹6,800</td>
+              <td style="padding: 16px 20px;">₹3,200 - ₹4,800</td>
+              <td style="padding: 16px 20px;">₹9,500 - ₹16,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹16,900 - ₹28,100</td>
             </tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-              <td style="padding: 15px; font-weight: 600; color: #ffffff;">3 BHK / Independent House</td>
-              <td style="padding: 15px;">₹10,500 - ₹16,500</td>
-              <td style="padding: 15px;">₹25,000 - ₹42,000</td>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">3 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹6,500 - ₹10,500</td>
+              <td style="padding: 16px 20px;">₹4,800 - ₹7,200</td>
+              <td style="padding: 16px 20px;">₹14,000 - ₹23,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹25,300 - ₹41,200</td>
             </tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-              <td style="padding: 15px; font-weight: 600; color: #ffffff;">Two-Wheeler / Bike Shipping</td>
-              <td style="padding: 15px;">₹1,500 - ₹2,500</td>
-              <td style="padding: 15px;">₹4,000 - ₹7,500</td>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">4 BHK / Villa Relocation</td>
+              <td style="padding: 16px 20px;">₹9,500 - ₹14,500</td>
+              <td style="padding: 16px 20px;">₹6,800 - ₹10,000</td>
+              <td style="padding: 16px 20px;">₹19,500 - ₹32,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹35,800 - ₹56,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Bike / Two-Wheeler Transport</td>
+              <td style="padding: 16px 20px;">₹800 - ₹1,400</td>
+              <td style="padding: 16px 20px;">₹500 - ₹800</td>
+              <td style="padding: 16px 20px;">₹2,600 - ₹4,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹3,900 - ₹6,700</td>
             </tr>
             <tr>
-              <td style="padding: 15px; font-weight: 600; color: #ffffff;">Car Carrier Transport</td>
-              <td style="padding: 15px;">₹3,000 - ₹5,000</td>
-              <td style="padding: 15px;">₹9,000 - ₹19,500</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Car Transport (Hatchback/Sedan/SUV)</td>
+              <td style="padding: 16px 20px;">₹1,500 - ₹2,400</td>
+              <td style="padding: 16px 20px;">₹1,000 - ₹1,600</td>
+              <td style="padding: 16px 20px;">₹9,500 - ₹16,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹12,000 - ₹20,500</td>
             </tr>
           </tbody>
         </table>
@@ -211,217 +236,648 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- Section 5: 7-Layer Packaging Process -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+  <!-- =========================================================================
+       SECTION 4: ROUTE TRANSIT SPECS, HIGHWAY CORRIDORS & CHECKPOST LOGISTICS
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px; text-align: center;">
-        Our Standard <span style="color: #f59e0b;">7-Layer Safety Packaging</span>
-      </h2>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 30px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Layer 1: Dust & Scratch Proof Stretch Film</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Initial protective wrap to seal furniture surfaces from moisture, dust, and minor surface scratches.</p>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Logistics</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Itanagar to Destination Hub <span style="color: #f59e0b;">Transit Specifications</span>
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Transporting goods along the <strong>Itanagar</strong> &rarr; <strong>Destination Hub</strong> arterial freight corridor demands meticulous route planning, adherence to interstate green tax compliance, and seamless toll clearance through FASTag-equipped multi-axle carrier trucks.
+          </p>
+          <ul style="padding-left: 20px; margin: 0 0 20px 0; line-height: 1.85; color: #cbd5e1;">
+            <li><strong>Dedicated Freight Corridors:</strong> Utilizing major National Highways and express bypasses to ensure minimum vibration and speed bottlenecks.</li>
+            <li><strong>Interstate Checkpost Clearance:</strong> Complete e-Way bill documentation and state transport permits pre-cleared to avoid regulatory delays.</li>
+            <li><strong>Weather-Proof Enclosed Carriers:</strong> High-tensile steel container bodies protect delicate goods from torrential monsoon rain, dust storms, and highway vibrations.</li>
+          </ul>
         </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Layer 2: Heavy-Duty Air Bubble Wrap</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">High-density air bubble cushioning to absorb road vibrations and heavy impact during transit.</p>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 30px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 20px;">Route Performance Highlights</h3>
+          <div style="display: flex; flex-direction: column; gap: 15px;">
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">PRIMARY HIGHWAYS</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #10b981;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">ESTIMATED TRANSIT DURATION &amp; DISTANCE</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">~850 km &bull; 2 to 3 Working Days (With live satellite GPS updates)</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #3b82f6;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">CONTAINER SPECIFICATION</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">18ft, 22ft &amp; 32ft MX High-Cube Weatherproof Containers</div>
+            </div>
+          </div>
         </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Layer 3: Corrugated Cardboard Sheets</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">5-ply heavy corrugated sheets wrapped around wooden furniture, refrigerators, and washing machines.</p>
-        </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Layer 4: High-Density Foam Corner Guards</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Specialized foam corner locks fitted on glass tops, marble tables, and LED television borders.</p>
-        </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Layer 5: Waterproof Polyethylene Sheeting</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Weatherproof outer layer safeguarding electronic appliances and mattresses against monsoon rain.</p>
-        </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Layer 6 & 7: Wooden Crating & Cargo Strapping</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Custom wooden crates built for extra fragile items, firmly locked with heavy nylon cargo belts inside trucks.</p>
+
+        <!-- AI Logistics Intelligence & Checkpost Advisory Block -->
+        <div style="grid-column: 1 / -1; margin-top: 25px; background: rgba(245, 158, 11, 0.06); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
+          <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
+            <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Itanagar to Destination Hub)
+          </h3>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Operating freight from Itanagar — covering City Centre, Railway Station Road, and the Industrial Area — to a destination hub across the ~850 km highway corridor demands strict compliance with National Highway arterial routing and multi-axle express freight lanes. The convoy typically exits Arunachal Pradesh via the Banderdewa interstate checkpost, where vehicle papers, consignment manifests, and GST e-Way bills are verified and cleared through the automated border facilitation counter. From there, the route proceeds through Assam’s NH-37 and NH-40 freight spines, bypassing Guwahati’s Ring Road, before linking into the multi-axle express freight highway leading to the destination’s city centre and railway station road. GPS-tracked container trucks with speed governors capped at 60 km/h are deployed, and every transit vehicle carries a tamper-evident seal registered on the central logistics dashboard to ensure accountability through interstate jurisdiction.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">For household shifting on this corridor, the operations team follows a corridor-specific protection protocol. Polished wooden furniture, panel partitions, and mirror units are crate-packed using rigid corrugated sheets, edge-guarded foam, and heat-sealed stretch film to withstand monsoon humidity and elevation-induced temperature shifts on the hilly Banderdewa–Gohpur stretch. Modular kitchen trolleys, appliances, and fragile crockery</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 6: Key Localities Covered in Itanagar -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+  <!-- =========================================================================
+       SECTION 5: SPECIALIZED 7-LAYER PROTECTIVE PACKAGING PROTOCOL
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px; text-align: center;">
-        Itanagar & Arunachal <span style="color: #f59e0b;">Localities Covered</span>
-      </h2>
-      <p style="color: #94a3b8; text-align: center; margin-bottom: 30px;">
-        We provide doorstep packing and pickup services across all major neighborhoods in Itanagar & Naharlagun:
-      </p>
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Zero-Damage Standard</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">7-Layer Protective Packaging System</h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          We engineer our packaging protocols specifically for harsh Indian road conditions and variable transit humidity.
+        </p>
+      </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
-        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2); color: #cbd5e1; font-weight: 600;">
-          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Naharlagun Town & Sector Areas
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-layer-group" style="margin-right: 8px;"></i> 1. High-Density Bubble Cushioning</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">80-GSM heavy-duty air-bubble rolls tightly bound around polished wood, glassware, and electronic appliances to absorb mechanical vibrations.</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2); color: #cbd5e1; font-weight: 600;">
-          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Ganga Market & Niti Vihar
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-box" style="margin-right: 8px;"></i> 2. Multi-Ply Corrugated Sheets</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High bursting-strength 5-ply and 7-ply corrugated fiberboard panels wrap external surfaces to prevent abrasions, pressure marks, and scratches.</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2); color: #cbd5e1; font-weight: 600;">
-          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Vivek Vihar & Chimpu
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-shield-alt" style="margin-right: 8px;"></i> 3. Corner &amp; Edge Protectors</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Reinforced L-shaped solid cardboard edge boards guard tabletop borders, wardrobe corners, and mirror frames against impact collisions.</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2); color: #cbd5e1; font-weight: 600;">
-          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Civil Secretariat & Raj Bhavan Zone
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-water" style="margin-right: 8px;"></i> 4. Stretch Film Moisture Seal</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Commercial-grade waterproof stretch wrap hermetically seals cartons, shielding goods against humidity, highway grime, and unexpected monsoon rainfall.</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2); color: #cbd5e1; font-weight: 600;">
-          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Rono Hills (RGU University) & Nirjuli
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-pallet" style="margin-right: 8px;"></i> 5. Customized Pinewood Crates</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Tailored heat-treated wooden crates assembled on-site for oversized OLED/QLED televisions, marble temples, fragile chandeliers, and fine artwork.</p>
         </div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px; border: 1px solid rgba(245, 158, 11, 0.2); color: #cbd5e1; font-weight: 600;">
-          <i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 8px;"></i> Banderdewa Check Gate Zone
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-lock" style="margin-right: 8px;"></i> 6. Heavy-Duty Lashing &amp; Chocks</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High-tensile polyester ratchet tie-down straps anchor heavier furnishings and vehicle tires securely to the container chassis bed.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 7: Intercity Relocation Routes from Itanagar -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+  <!-- =========================================================================
+       SECTION 6: VEHICLE RELOCATION & CLOSED CARRIER STANDARDS
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px; text-align: center;">
-        Intercity Relocation Routes <span style="color: #f59e0b;">From Itanagar</span>
-      </h2>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Itanagar to Guwahati</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Direct mountain highway corridor via NH-15. Doorstep delivery in 8 to 10 hours.</p>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div style="background: #172a54; padding: 30px; border-radius: 16px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 15px;">Automotive Transport Safety Protocols</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; margin-bottom: 15px;">
+            Whether relocating a luxury sedan or a daily commuter motorcycle, Shree Ashirwad manages your automobile with specialized automotive handling procedures:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li><strong>Pre-Transit Condition Inspection:</strong> Odometer, fuel level, and bodywork photos meticulously logged on your digital handover manifest.</li>
+            <li><strong>Hydraulic Loading Ramps:</strong> Prevents ground-clearance scraping or undercarriage impact during vehicle embarkation.</li>
+            <li><strong>Individual Wheel Locks:</strong> Steel wheel stoppers prevent forward or reverse momentum during highway transit maneuvers.</li>
+          </ul>
         </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Itanagar to Kolkata / Siliguri</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Regular intercity container trucks connecting Arunachal Pradesh to West Bengal with full insurance.</p>
-        </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Itanagar to Patna / Ranchi</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Long-distance interstate relocation with enclosed container vehicles and live GPS tracking.</p>
-        </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="color: #f59e0b; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">Itanagar to Delhi NCR</h3>
-          <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0;">Pan-India interstate relocation service with live GPS tracking and IBA claim billing support.</p>
+
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Automotive Care</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Dedicated <span style="color: #f59e0b;">Car &amp; Bike Carrier</span> Fleets
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
+            We do not load vehicles alongside loose household cartons. All motorcycles are packaged in dedicated steel-frame bike containers, and cars travel in enclosed auto transport trailers across the Itanagar &rarr; Destination Hub route.
+          </p>
+          <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+In+Itanagar+from+Itanagar+to+Destination+Hub." title="Book Vehicle Transport" target="_blank" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
+            <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Book Vehicle Transport on WhatsApp
+          </a>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 8: Specialized Relocation Services -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+  <!-- =========================================================================
+       SECTION 7: TRANSIT MARINE INSURANCE & ZERO-DEP CLAIM GUIDE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 20px; text-align: center;">
-        Our Comprehensive <span style="color: #f59e0b;">Moving Solutions</span>
-      </h2>
+      <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 18px; padding: 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+        <div style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 30px; align-items: center;">
+          <div>
+            <span style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">
+              100% FINANCIAL PROTECTION
+            </span>
+            <h2 style="font-size: 2rem; font-weight: 800; margin-top: 15px; margin-bottom: 15px; color: #ffffff;">
+              Transit Marine Insurance &amp; Zero-Dep Settlement
+            </h2>
+            <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.75; margin-bottom: 20px;">
+              Shree Ashirwad partners with premier national insurance providers to extend comprehensive all-risk transit coverage. Calculated at a transparent 3% of declared consignment value (0.3% base tariff), this policy shields you against highway collisions, fire incidents, or overturning.
+            </p>
+            <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+              <span>&check; <strong style="color: #fff;">100% Declared Value</strong> Coverage</span>
+              <span>&check; <strong style="color: #fff;">Zero-Depreciation</strong> Clause</span>
+              <span>&check; <strong style="color: #fff;">Rapid 7-Day</strong> Claim Turnaround</span>
+            </div>
+          </div>
+          <div style="background: rgba(0,0,0,0.3); border: 1px solid rgba(245,158,11,0.25); border-radius: 14px; padding: 25px; text-align: center;">
+            <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 10px;">Quick Claims Assistance</h3>
+            <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin-bottom: 18px;">Our claims desk processes survey documentation smoothly with zero bureaucratic delays.</p>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 12px 24px; background: #f59e0b; color: #000; border-radius: 50px; font-weight: 700; font-size: 0.92rem; text-decoration: none;">
+              Insurance Desk: <?php echo SITE_PHONE; ?>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 8: IBA APPROVED DOCUMENTATION & CORPORATE REIMBURSEMENT
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Official Compliance</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          IBA Approved Bills &amp; Corporate Shifting Documentation
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Shree Ashirwad is an officially recognized logistics provider. We issue complete documentation sets required by government employees, public sector banks, defense personnel, and MNC executives for 100% transfer allowance reimbursement.
+        </p>
+      </div>
+
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <i class="fas fa-home" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700;">Home Shifting</h3>
-          <p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.6;">Full household packing, furniture dismantling, loading, transit, and unpacking.</p>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">GST Invoice Copy</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Compliant tax invoice with GSTIN breakdown and SAC transport codes.</p>
         </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <i class="fas fa-building" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700;">Office Relocation</h3>
-          <p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.6;">Corporate office, IT hardware, bank branch, and government office moving.</p>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-truck-moving" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Consignment Note (LR)</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Lorry Receipt copy recording truck number and transit date.</p>
         </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <i class="fas fa-car" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700;">Car Transportation</h3>
-          <p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.6;">Enclosed hydraulic car trailers for safe scratch-free vehicle transport nationwide.</p>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-clipboard-list" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Itemized Packing List</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Numbered inventory manifest signed by you and our lead supervisor.</p>
         </div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2); text-align: center;">
-          <i class="fas fa-motorcycle" style="font-size: 2rem; color: #f59e0b; margin-bottom: 15px;"></i>
-          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700;">Bike Parcel Service</h3>
-          <p style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.6;">Multi-layer bubble and paddy straw padding for two-wheeler transport.</p>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-university" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">IBA Bank Clearance</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Indian Banks' Association approval code printed directly on invoice.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 9: Customer Reviews -->
-  <section style="padding: 60px 0; background: #0b132b; color: #ffffff;">
+  <!-- =========================================================================
+       SECTION 9: STRATEGIC MOVING DAY STEP-BY-STEP CHECKLIST
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff; margin-bottom: 30px; text-align: center;">
-        Itanagar Client <span style="color: #f59e0b;">Testimonials</span>
-      </h2>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-        <div style="background: #101c40; padding: 25px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="color: #f59e0b; margin-bottom: 10px;">★★★★★</div>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; font-style: italic;">
-            "Shifted from Civil Secretariat quarter Naharlagun to Guwahati. Authentic IBA bill provided for government reimbursement. Smooth execution!"
-          </p>
-          <h4 style="color: #ffffff; font-size: 0.95rem; font-weight: 700; margin: 15px 0 0 0;">— T. Ete (Under Secretary, AP Secretariat)</h4>
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Stress-Free Execution</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">Your Strategic Relocation Checklist</h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Follow our proven moving milestone schedule to eliminate moving-day panic and guarantee an organized handover.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #f59e0b;">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">T-Minus 7 Days: Preparation</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Sort items into keep, donate, and discard piles to optimize consignment weight.</li>
+            <li>Backup critical digital files and secure jewelry, passports, and title deeds in personal luggage.</li>
+            <li>Notify utility providers (Wi-Fi, electricity, gas pipeline) for disconnection and address updates.</li>
+          </ul>
         </div>
-        <div style="background: #101c40; padding: 25px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="color: #f59e0b; margin-bottom: 10px;">★★★★★</div>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; font-style: italic;">
-            "Moved household goods and car from Ganga Market Itanagar to Patna. Extremely careful handling on hilly roads."
-          </p>
-          <h4 style="color: #ffffff; font-size: 0.95rem; font-weight: 700; margin: 15px 0 0 0;">— K. S. Pertin (Bank Manager, Itanagar)</h4>
+
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #10b981;">
+          <h3 style="color: #10b981; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Moving Day: Execution</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Defrost refrigerators 24 hours prior to prevent water leakage onto surrounding cartons.</li>
+            <li>Conduct room-by-room walkthrough with Shree Ashirwad supervisor for item inventory tagging.</li>
+            <li>Verify odometer reading on vehicle condition report before trailer ramp loading.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #3b82f6;">
+          <h3 style="color: #3b82f6; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Delivery Day: Settling In</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Supervise unloading and cross-verify carton box numbers against your master inventory sheet.</li>
+            <li>Inspect fragile crates and appliances before signing the final delivery acceptance manifest.</li>
+            <li>Our team assists with basic furniture reassembly (beds, tables, wardrobes) at your new home.</li>
+          </ul>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Section 10: Frequently Asked Questions -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff;">
+  <!-- =========================================================================
+       SECTION 10: SHREE ASHIRWAD VS UNREGISTERED LOCAL TRANSPORTERS COMPARISON
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Why We Lead</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Shree Ashirwad vs <span style="color: #f59e0b;">Local Unregistered Movers</span>
+        </h2>
+      </div>
+
+      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; color: #cbd5e1; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.18); color: #f59e0b; border-bottom: 1.5px solid rgba(245,158,11,0.4);">
+              <th style="padding: 16px 20px; font-weight: 700;">Service Parameter</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #10b981;">Shree Ashirwad Packers &amp; Movers</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #ef4444;">Unregistered Local Truckers</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Pricing Model</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Fixed-Price Quotation with zero hidden moving-day fees</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Low upfront bait price followed by delivery-day extortion</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Packaging Materials</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Certified 7-layer 80-GSM bubble wrap, corrugated sheets, stretch wrap</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Substandard recycled newspaper and torn single-ply cartons</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Fleet Vehicles</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; High-cube enclosed weatherproof containers with live GPS tracking</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Open wooden tarpaulin trucks prone to moisture, dust, and theft</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Insurance &amp; Claims</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Declared value transit policy with zero-depreciation clause</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Zero compensation for broken glass or dented furniture</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Documentation</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Valid GST invoice, consignment LR note, and IBA-approved billing</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Blank paper slips rejected by employers and corporate finance</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10B: ROOM-BY-ROOM PACKING PROTOCOLS & DELICATE CARE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Itemized Care Standard</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Room-by-Room Packing &amp; Protection Protocols
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Different household assets require specialized packing methodologies to endure interstate transit vibrations across India. Our certified crew deploys distinct material suites tailored for each room.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-couch" style="margin-right: 8px;"></i> Living &amp; Dining Room</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Sofa upholstery and recliner fabrics are wrapped with breathable stretch film to avoid condensation staining, followed by heavy corrugated padding for wooden legs and corner frames. Dining glass tops are enclosed in custom foam sleeves before wooden crating.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-bed" style="margin-right: 8px;"></i> Master Bedroom &amp; Wardrobe</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Mattresses are sealed within heavy-gauge waterproof polythene zip bags to safeguard against dust and moisture. Wardrobe contents can be transferred directly into upright wardrobe carton boxes to preserve formal clothing without folding creases.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-utensils" style="margin-right: 8px;"></i> Kitchen &amp; Delicate Crockery</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Fine china, ceramic dinner sets, and glassware are individually swaddled in double-layer air-bubble film and nestled vertically into cellular partitioned cartons. Gaps are filled with biodegradable packing peanuts to eliminate transit friction.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-tv" style="margin-right: 8px;"></i> Home Electronics &amp; IT Gear</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            LED/OLED screens, soundbars, and desktop workstations receive antistatic bubble wraps, thermocol side corner buffers, and heavy multi-wall rigid cartons clearly marked with 'Fragile' handling directional arrows.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10C: HIGHWAY SAFETY, SATELLITE GPS & RISK MITIGATION
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Surveillance</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Real-Time Satellite GPS &amp; Highway Risk Mitigation
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Long-haul transit across Indian state borders involves variable topography, express highways, and regional traffic checkposts. Shree Ashirwad maintains strict operational risk mitigation protocols:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
+            <li><strong>Dual-Driver Shifts on Intercity Moves:</strong> Long-distance trucks travel with two certified commercial drivers who rotate every 4 to 5 hours to prevent driver fatigue and highway accidents.</li>
+            <li><strong>Zero-Night Transit in Hazardous Terrains:</strong> In mountainous or ghat corridors, trucks halt at verified highway hubs during late night hours for maximum transit safety.</li>
+            <li><strong>Geofenced Telematics &amp; Instant Alerts:</strong> Automated route deviation alerts notify our 24/7 central logistics command center if a carrier stops unscheduled.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 18px;">How You Can Track Your Shipment</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
+            Upon truck dispatch from Itanagar, you receive a unique consignment tracking link directly on WhatsApp and SMS. You can monitor live highway progress, toll plaza crossings, and estimated delivery windows in real time.
+          </p>
+          <div style="background: rgba(0,0,0,0.3); padding: 18px; border-radius: 10px; border-left: 4px solid #10b981;">
+            <div style="font-size: 0.88rem; color: #94a3b8; font-weight: 600;">CENTRAL LOGISTICS HELPLINE</div>
+            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-top: 4px;">24/7 Dispatch Control: <?php echo SITE_PHONE; ?></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10D: SECURE WAREHOUSING & SHORT/LONG-TERM STORAGE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Flexible Storage Solutions</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Clean, Secure Warehousing &amp; Transit Storage Hubs
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Experiencing a gap between vacating your old residence and receiving possession of your new home? Shree Ashirwad maintains modern, secure storage hubs across all major state capitals and transport hubs in India.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-video" style="margin-right: 8px;"></i> 24/7 CCTV &amp; Biometric Security</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            All warehouse perimeters and storage aisles are monitored continuously with high-definition night-vision CCTV cameras and round-the-clock physical security guards.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-bug" style="margin-right: 8px;"></i> Moisture &amp; Pest-Controlled Bays</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Regular quarterly pest-control fumigation and elevated wooden pallet shelving protect furniture, fabrics, and mattresses against dampness, termites, and rodents.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-calendar-alt" style="margin-right: 8px;"></i> Flexible Rental Tenures</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Store your household goods from 7 days up to multiple years with transparent weekly or monthly billing options and zero lock-in contracts.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10E: CORPORATE & COMMERCIAL RELOCATION PROTOCOL
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Enterprise Solutions</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Corporate Office Shifting &amp; Commercial Moves
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Executing a corporate relocation between <strong>Itanagar</strong> and <strong>Destination Hub</strong> requires meticulous downtime planning to prevent disruption to business operations. Our corporate relocation division delivers turnkey enterprise logistics:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
+            <li><strong>Weekend &amp; After-Hours Execution:</strong> Office moves scheduled from Friday evening to Sunday night ensures your staff starts work Monday morning with zero business downtime.</li>
+            <li><strong>IT Equipment &amp; Server Migration:</strong> Dedicated antistatic padded crates, individual serial number tagging, and climate-controlled vehicles for sensitive servers, switches, and workstations.</li>
+            <li><strong>Confidential Document Tagging:</strong> Numbered, tamper-evident security seals on document archive crates to protect corporate records and customer data privacy.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 15px;">Corporate Billing &amp; Tender Compliance</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
+            We participate in formal corporate vendor empanelment and government GeM procurement portals. We supply valid GST invoices, audited financial records, and vendor compliance certificates upon request.
+          </p>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
+            <i class="fas fa-briefcase" style="margin-right: 8px;"></i> Speak with Corporate Move Manager
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10F: INTERSTATE BORDER CHECKPOSTS & OCTROI / GREEN TAX CLEARANCE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Regulatory Compliance</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Interstate Border Checkpoints &amp; Green Tax Clearances
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Navigating interstate highway transport between Itanagar and Destination Hub requires rigorous statutory compliance across multiple regional transport authorities (RTOs) and commercial tax departments.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-barcode" style="margin-right: 8px;"></i> Automated National e-Way Bill</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Every consignment crossing state borders is registered on the National Goods &amp; Services Tax e-Way bill portal with unique RFID tracking numbers, preventing arbitrary highway interception or impounding at state boundary plazas.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-leaf" style="margin-right: 8px;"></i> Green Cess &amp; Entry Permits</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Municipal corporation border entry cess, state green taxes, and municipal entry permits are fully settled by Shree Ashirwad in advance. Clients never face surprise tax demands from highway authorities during transit.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-id-card" style="margin-right: 8px;"></i> RTO Form 28 / 29 / 30 Advisory</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            For permanent vehicle relocations between Itanagar and Destination Hub, our administrative documentation desk guides customers on RTO No Objection Certificate (NOC) documentation, Form 28 (triplicate), and interstate road tax refund claims.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 11: FREQUENTLY ASKED QUESTIONS (FAQ ACCORDION)
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 40px;">
-        <span style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-          Got Questions?
-        </span>
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Itanagar Shifting</span>
+          Frequently Asked Questions About <span style="color: #f59e0b;">Packers And Movers In Itanagar</span>
         </h2>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 16px;">
-        <?php foreach ($faq_list as $index => $faq): ?>
-        <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            <?php echo htmlspecialchars($faq['a']); ?>
-          </p>
-        </div>
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <details style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;" <?php echo ($idx === 0 ? 'open' : ''); ?>>
+            <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+              <span><strong style="color: #f59e0b; margin-right: 8px;">Q<?php echo ($idx + 1); ?>.</strong> <?php echo htmlspecialchars($faq['q']); ?></span>
+              <span style="color: #f59e0b; font-size: 1.3rem; font-weight: 800;">&#43;</span>
+            </summary>
+            <div style="padding: 16px 24px 22px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; border-top: 1px solid rgba(255,255,255,0.08);">
+              <?php echo htmlspecialchars($faq['a']); ?>
+            </div>
+          </details>
         <?php endforeach; ?>
       </div>
-
     </div>
   </section>
 
-  <!-- Section 11: Call To Action Banner -->
-  <section class="cta-banner-section" style="padding: 70px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
-    <div class="container" style="max-width: 900px; text-align: center;">
-      
-      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-        Book Itanagar Shifting Services
-      </span>
-
-      <h2 style="font-size: 2.3rem; font-weight: 800; margin: 15px 0; color: #ffffff;">
-        Ready to Move with <span style="color: #f59e0b;">Packers and Movers in Itanagar</span>?
-      </h2>
-
-      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Itanagar move manager today for a guaranteed fixed price quote and enjoy smooth, safe, zero-damage home or office shifting across Arunachal Pradesh.
-      </p>
-
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Now: <?php echo SITE_PHONE; ?>
-        </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20shifting%20quote%20for%20Itanagar." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
-        </a>
-        <a href="<?php echo SITE_URL; ?>contact" title="Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
-          <i class="fas fa-map-marker-alt" style="margin-right: 8px;"></i> Contact Office
-        </a>
+  <!-- =========================================================================
+       SECTION 12: DYNAMIC 6-LINK INTERNAL LINKING MESH
+       ========================================================================= -->
+  <section style="padding: 65px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Connected Logistics Network</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px;">
+          Related Shifting Routes &amp; <span style="color: #f59e0b;">Verified Moving Corridors</span>
+        </h2>
+        <p style="color: #cbd5e1; max-width: 700px; margin: 10px auto 0 auto; font-size: 0.95rem;">
+          Explore verified relocation services and interstate freight corridors connected to your moving route:
+        </p>
       </div>
 
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;">
+        <?php
+        $mesh_routes = array (
+  0 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-patna-to-itanagar',
+    'slug' => 'packers-and-movers-patna-to-itanagar',
+    'title' => 'Packers And Movers Patna To Itanagar',
+    'anchor' => 'Packers And Movers Patna To Itanagar',
+  ),
+  1 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',
+    'slug' => 'affordable-bike-transportation-in-ranchi',
+    'title' => 'Affordable Bike Transportation In Ranchi',
+    'anchor' => 'Affordable Bike Transportation In Ranchi',
+  ),
+  2 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-car-transportation-in-ranchi',
+    'slug' => 'affordable-car-transportation-in-ranchi',
+    'title' => 'Affordable Car Transportation In Ranchi',
+    'anchor' => 'Affordable Car Transportation In Ranchi',
+  ),
+  3 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/agarwal-packers-car-transporting-charges-from-mumbai-to-bangalore',
+    'slug' => 'agarwal-packers-car-transporting-charges-from-mumbai-to-bangalore',
+    'title' => 'Agarwal Packers Car Transporting Charges From Mumbai To Bangalore',
+    'anchor' => 'Agarwal Packers Car Transporting Charges From Mumbai To Bangalore',
+  ),
+  4 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/ahmedabad-to-bangalore-packers-and-movers',
+    'slug' => 'ahmedabad-to-bangalore-packers-and-movers',
+    'title' => 'Ahmedabad To Bangalore Packers And Movers',
+    'anchor' => 'Ahmedabad To Bangalore Packers And Movers',
+  ),
+  5 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/ahmedabad-to-delhi-packers-and-movers',
+    'slug' => 'ahmedabad-to-delhi-packers-and-movers',
+    'title' => 'Ahmedabad To Delhi Packers And Movers',
+    'anchor' => 'Ahmedabad To Delhi Packers And Movers',
+  ),
+);
+        foreach ($mesh_routes as $mr):
+        ?>
+          <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); transition: border-color 0.2s ease;">
+            <a href="<?php echo htmlspecialchars($mr['url']); ?>" title="<?php echo htmlspecialchars($mr['title']); ?>" style="text-decoration: none; color: inherit; display: block;">
+              <h3 style="color: #f59e0b; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px;">
+                <i class="fas fa-truck-moving" style="margin-right: 8px;"></i> <?php echo htmlspecialchars($mr['title']); ?>
+              </h3>
+              <p style="color: #94a3b8; font-size: 0.85rem; margin: 0; line-height: 1.5;">
+                Doorstep moving solutions, GPS-tracked container trucks, and transparent rates. &rarr;
+              </p>
+            </a>
+          </div>
+        <?php endforeach; ?>
+      </div>
+
+      <!-- Real Curated Search Keywords & Relocation Badges -->
+      <div style="margin-top: 45px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
+        <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
+          <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
+        </h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 1000px; margin: 0 auto;">
+          <?php foreach ($page_keyword_tags as $kwTag): ?>
+            <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
+              <span style="color: #f59e0b;">&bull;</span> <?php echo htmlspecialchars($kwTag); ?>
+            </span>
+          <?php endforeach; ?>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 13: HIGH-CONVERTING CALL TO ACTION FOOTER BANNER
+       ========================================================================= -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
+      <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 16px;">
+        Book Your <span style="color: #f59e0b;">Packers And Movers In Itanagar</span> Today!
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 780px; margin: 0 auto 32px auto; line-height: 1.75;">
+        Experience seamless packing, damage-free container transport, and dedicated move management with Shree Ashirwad Packers and Movers. Speak with an expert or request a WhatsApp estimate now.
+      </p>
+
+      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+In+Itanagar+from+Itanagar+to+Destination+Hub." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+        </a>
+      </div>
     </div>
   </section>
 
 </main>
 
+<!-- =========================================================================
+     SECTION 14: INTERACTIVE HERO WHATSAPP SCRIPT
+     ========================================================================= -->
 <script>
 function sendHeroWhatsAppLead(event, form) {
   event.preventDefault();
@@ -429,33 +885,61 @@ function sendHeroWhatsAppLead(event, form) {
   var phone = form.querySelector('[name="phone"]').value;
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
-  var extraMsg = form.querySelector('[name="message"]').value;
   
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Quote for Itanagar:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
-  
-  if (extraMsg && extraMsg.trim() !== '') {
-    message += "\n- Details: " + extraMsg;
-  }
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a shifting estimate for Packers And Movers In Itanagar:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination Location: " + moveTo;
   
   var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
   window.location.href = whatsappUrl;
 }
 </script>
 
-<section style="padding: 45px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
-  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <div style="display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); align-items: center;">
-      <div>
-        <span style="display: inline-block; color: #d32f2f; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Itanagar Relocation Quality</span>
-        <h3 style="font-size: 1.55rem; color: #0f172a; font-weight: 800; margin: 0 0 12px 0;">Safe moving solutions for Itanagar & Arunachal region</h3>
-        <p style="font-size: 1rem; color: #475569; line-height: 1.8; margin: 0;">Our professional packing team ensures high-grade bubble wrapping, careful loading, and prompt delivery across Naharlagun, Ganga Market, Niti Vihar, and all intercity transport corridors.</p>
-      </div>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;">
-        <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Protective packing for Itanagar relocation work" style="width: 100%; height: 250px; object-fit: cover; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" loading="lazy">
-        <img title="Shree Ashirwad Packers and Movers" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Household shifting in Itanagar Naharlagun" style="width: 100%; height: 250px; object-fit: cover; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" loading="lazy">
-      </div>
-    </div>
-  </div>
-</section>
+<!-- =========================================================================
+     SECTION 15: DUAL SCHEMA (FAQPage & MovingCompany JSON-LD)
+     ========================================================================= -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MovingCompany",
+      "@id": "<?php echo $canonical_url; ?>#movingcompany",
+      "name": "Shree Ashirwad Packers and Movers",
+      "url": "<?php echo SITE_URL; ?>",
+      "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN"
+      },
+      "areaServed": [
+        "Itanagar",
+        "Destination Hub"
+      ],
+      "knowsAbout": ["packers and movers in itanagar","packers and movers in itanagar blogspot","packers and movers itanagar","home shifting services in indore","home shifting videos","packers and movers kolkata rate","packers and movers estimated cost india","aggarwal packers & movers gst secunderabad","iba approved movers and packers in bhopal","quick n safe movers in meerut road ghaziabad","safe packers and movers gurgaon","affordable packers and movers in baner","inside tamilnadu packers and movers"],
+      "description": "<?php echo addslashes($page_desc); ?>"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "<?php echo $canonical_url; ?>#faqpage",
+      "mainEntity": [
+        <?php 
+        $schema_faqs = [];
+        foreach ($faq_list as $faq) {
+          $schema_faqs[] = json_encode([
+            '@type' => 'Question',
+            'name' => $faq['q'],
+            'acceptedAnswer' => [
+              '@type' => 'Answer',
+              'text' => $faq['a']
+            ]
+          ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+        }
+        echo implode(",\n        ", $schema_faqs);
+        ?>
+      ]
+    }
+  ]
+}
+</script>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>

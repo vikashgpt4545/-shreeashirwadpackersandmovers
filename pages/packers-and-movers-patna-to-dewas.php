@@ -1,551 +1,947 @@
 <?php
-$page_title = "Packers and Movers Patna to Dewas | Relocation Services";
-$page_description = "Hire trusted packers and movers from Patna to Dewas for household shifting, vehicle transport, and office relocation with verified rates and live tracking.";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-dewas.php";
-include '../includes/header.php';
+require_once __DIR__ . '/../includes/config.php';
+
+$page_title = "Packers And Movers Patna To Dewas | Shree Ashirwad Packers & Movers";
+$page_desc = "Get transparent, IBA-approved Packers And Movers Patna To Dewas with Shree Ashirwad Packers and Movers. ~850 km via National Highway Arterial Corridors & Multi-Axle Express Freight Highways. 100% safe multi-layer packing, transit insurance, dedicated GPS container carriers, and doorstep delivery across Patna and Dewas.";
+$page_keywords = "kaleswari packers and movers visakhapatnam to hyderabad, best packer mover in patna, car movers and packers patna office, packers and movers in dewas, movers and packers dewas naka indore, packers and movers dewas, household moving services missouri, home relocation services in gurgaon, movers and packers powai rates, mumbai to kolhapur packers and movers charges, packeers and movers bills, movers and packers sahibabad ghaziabad, safe express packers and movers delhi, super safe packers and movers pune, movers and packers gopala puram";
+$canonical_url = "https://shreeashirwadpackersandmovers.com/packers-and-movers-patna-to-dewas";
+$page_keyword_tags = array (
+  0 => 'kaleswari packers and movers visakhapatnam to hyderabad',
+  1 => 'best packer mover in patna',
+  2 => 'car movers and packers patna office',
+  3 => 'packers and movers in dewas',
+  4 => 'movers and packers dewas naka indore',
+  5 => 'packers and movers dewas',
+  6 => 'household moving services missouri',
+  7 => 'home relocation services in gurgaon',
+  8 => 'movers and packers powai rates',
+  9 => 'mumbai to kolhapur packers and movers charges',
+  10 => 'packeers and movers bills',
+  11 => 'movers and packers sahibabad ghaziabad',
+  12 => 'safe express packers and movers delhi',
+  13 => 'super safe packers and movers pune',
+  14 => 'movers and packers gopala puram',
+);
+
+$faq_list = array (
+  0 => 
+  array (
+    'q' => 'How long does shipment transit take from Patna to Dewas?',
+    'a' => 'Typical transit duration along the National Highway Arterial Corridors & Multi-Axle Express Freight Highways takes approximately 2 to 3 Working Days. All long-haul vehicles are operated by certified dual-driver crews and equipped with live satellite GPS telematics for real-time location tracking on WhatsApp.',
+  ),
+  1 => 
+  array (
+    'q' => 'How are relocation charges calculated for Packers And Movers Patna To Dewas?',
+    'a' => 'Our moving estimates between Patna and Dewas are calculated using transparent parameters: total consignment volume (cft), distance (~850 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.',
+  ),
+  2 => 
+  array (
+    'q' => 'Do you provide IBA approved bills for company or government transfer claims?',
+    'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.',
+  ),
+  3 => 
+  array (
+    'q' => 'How many days in advance should I confirm my booking for Packers And Movers Patna To Dewas?',
+    'a' => 'For regional moves within Patna, booking 2 to 3 days prior is recommended. For intercity transit to Dewas, we advise confirming 4 to 7 days ahead to reserve dedicated weatherproof container trucks and preferred morning departure slots.',
+  ),
+  4 => 
+  array (
+    'q' => 'Does your quotation include unloading, unpacking, and furniture reassembly?',
+    'a' => 'Yes! Our full-service relocation package includes doorstep unloading, carton placement into respective rooms, unpacking fragile crates, and basic reassembly of master beds, dining tables, and modular wardrobes.',
+  ),
+  5 => 
+  array (
+    'q' => 'What payment options and milestone terms are accepted?',
+    'a' => 'We accept all major corporate and digital payment modes including NEFT/RTGS, UPI, credit/debit cards, and corporate purchase orders. Standard terms involve a nominal advance booking fee, balance payment upon truck dispatch with LR copy, and final clearance upon doorstep delivery.',
+  ),
+);
+
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<!-- Hero Section -->
-<section class="hero-section text-white py-5" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
-  <div class="container py-4">
-    <div class="row align-items-center">
-      <div class="col-lg-7 mb-4 mb-lg-0">
-        <span class="badge bg-danger mb-3 px-3 py-2 fs-6 rounded-pill">Patna to Dewas Interstate Route</span>
-        <h1 class="display-4 fw-bold mb-3">Professional Packers and Movers Patna to Dewas</h1>
-        <p class="lead text-light mb-4">Relocating from Patna to Dewas in Madhya Pradesh? Shree Ashirwad Packers and Movers offers seamless, safe, and stress-free long-distance shifting services with insurance coverage, GPS tracking, and expert handling.</p>
-        <div class="d-flex flex-wrap gap-3 mb-4">
-          <div class="d-flex align-items-center text-light me-3">
-            <i class="bi bi-shield-check text-warning fs-4 me-2"></i> 100% Safe Handling
+<main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+
+  <!-- =========================================================================
+       SECTION 1: BREADCRUMBS & 2-COLUMN HERO SECTION WITH LEAD FORM
+       ========================================================================= -->
+  <div class="breadcrumb-wrapper" style="background: #0b132b; padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="font-size: 0.88rem; color: #94a3b8; display: flex; align-items: center; gap: 8px;">
+        <a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #ffffff; font-weight: 600;"><?php echo htmlspecialchars($page_title); ?></span>
+      </div>
+    </div>
+  </div>
+
+  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 65px 0 55px 0; color: #ffffff; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
+        
+        <!-- Left Hero Column -->
+        <div class="hero-text">
+          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 18px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 18px; letter-spacing: 0.5px;">
+            IBA APPROVED &bull; ISO 9001:2015 CERTIFIED &bull; 100% FIXED PRICE GUARANTEE
+          </span>
+          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.25; margin-bottom: 20px; color: #ffffff;">
+            Packers And Movers Patna To Dewas
+          </h1>
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+            Planning a seamless transition from <strong>Patna</strong> to <strong>Dewas</strong> (~850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways)? Shree Ashirwad Packers and Movers delivers certified end-to-end relocation solutions with multi-layer safe packing, insured enclosed container trailers, and transparent, fixed-price pricing.
+          </p>
+          
+          <div style="background: rgba(255,255,255,0.04); border-left: 3px solid #f59e0b; padding: 8px 14px; border-radius: 6px; font-size: 0.85rem; color: #94a3b8; margin-bottom: 24px;">
+            <strong style="color: #f59e0b;">Local Area Coverage:</strong> Direct doorstep pickup across Boring Road, Kankarbagh, Bailey Road, Danapur and dedicated delivery in City Centre, Railway Station Road, Industrial Area, Civil Lines.
           </div>
-          <div class="d-flex align-items-center text-light me-3">
-            <i class="bi bi-clock-history text-warning fs-4 me-2"></i> On-Time Delivery
+
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Moving Coordinator" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
+            </a>
+            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+Patna+To+Dewas+from+Patna+to+Dewas." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+              <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+            </a>
           </div>
-          <div class="d-flex align-items-center text-light">
-            <i class="bi bi-currency-rupee text-warning fs-4 me-2"></i> Transparent Pricing
+
+          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+            <span><strong style="color: #f59e0b;">100% Insured</strong> Transit</span>
+            <span><strong style="color: #f59e0b;">Doorstep</strong> Delivery</span>
+            <span><strong style="color: #f59e0b;">GPS Tracked</strong> Fleet</span>
+            <span><strong style="color: #f59e0b;">IBA Approved</strong> Bills</span>
           </div>
         </div>
+
+        <!-- Right Hero Column: Interactive WhatsApp Lead Form -->
+        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 18px; padding: 32px; box-shadow: 0 15px 35px rgba(0,0,0,0.5);">
+          <h2 style="font-size: 1.45rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Shifting Estimate</h2>
+          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 22px;">Receive itemized quotation on WhatsApp within 2 minutes</p>
+
+          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
+            <div style="margin-bottom: 14px;">
+              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            </div>
+            <div style="margin-bottom: 14px;">
+              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px;">
+              <input type="text" name="move_from" class="form-control" value="Patna" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+              <input type="text" name="move_to" class="form-control" value="Dewas" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            </div>
+            <button type="submit" style="width: 100%; padding: 15px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1.05rem; cursor: pointer; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4); transition: transform 0.2s ease;">
+              Get Instant Estimate Now &rarr;
+            </button>
+          </form>
+        </div>
+
       </div>
-      <div class="col-lg-5">
-        <div class="card bg-dark text-white border-secondary shadow-lg rounded-3">
-          <div class="card-body p-4">
-            <h3 class="h4 fw-bold text-center text-warning mb-3">Get Instant Free Quote</h3>
-            <form id="heroLeadForm" onsubmit="sendHeroWhatsAppLead(event)">
-              <div class="mb-3">
-                <input type="text" class="form-control bg-secondary text-white border-0" id="heroName" placeholder="Your Full Name" required>
-              </div>
-              <div class="mb-3">
-                <input type="tel" class="form-control bg-secondary text-white border-0" id="heroPhone" placeholder="Mobile Number" required pattern="[0-9]{10}">
-              </div>
-              <div class="mb-3">
-                <select class="form-select bg-secondary text-white border-0" id="heroService" required>
-                  <option value="" selected disabled>Select Shifting Type</option>
-                  <option value="Household Shifting">Household Shifting</option>
-                  <option value="Car / Bike Transport">Car / Bike Transport</option>
-                  <option value="Office Relocation">Office Relocation</option>
-                  <option value="Complete Moving Package">Complete Moving Package</option>
-                </select>
-              </div>
-              <button type="submit" class="btn btn-warning w-100 fw-bold py-2 shadow"><i class="bi bi-whatsapp me-2"></i>Request Rates via WhatsApp</button>
-            </form>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 2: 4-CARD LIVE STATS & TRUST HIGHLIGHT BAR
+       ========================================================================= -->
+  <section style="background: #070d1e; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">22,000+</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Relocations Executed</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">100% Insured</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Declared Value Marine Policy</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">4.9 / 5.0</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Customer Satisfaction Score</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); padding: 22px 15px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 2rem; font-weight: 800; margin: 0;">IBA Approved</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 6px 0 0 0; font-weight: 600;">Govt &amp; Corporate Claim Bills</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 3: COMPREHENSIVE TARIFF & COST BREAKDOWN MATRIX TABLE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Packers And Movers Patna To Dewas <span style="color: #f59e0b;">Cost Matrix &amp; Tariffs</span>
+        </h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Our moving estimates are calculated based on shipment volume, packing tiers, distance (~850 km), labor, and carrier specifications with zero hidden surcharges on moving day.
+        </p>
+      </div>
+
+      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; color: #cbd5e1; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.18); color: #f59e0b; border-bottom: 1.5px solid rgba(245,158,11,0.4);">
+              <th style="padding: 16px 20px; font-weight: 700;">Consignment / Move Type</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Packing &amp; Materials</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Loading / Unloading</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Transport Freight</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Estimated Total Cost</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">1 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹2,500 - ₹4,000</td>
+              <td style="padding: 16px 20px;">₹2,000 - ₹3,200</td>
+              <td style="padding: 16px 20px;">₹6,500 - ₹11,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹11,000 - ₹18,700</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">2 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹4,200 - ₹6,800</td>
+              <td style="padding: 16px 20px;">₹3,200 - ₹4,800</td>
+              <td style="padding: 16px 20px;">₹9,500 - ₹16,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹16,900 - ₹28,100</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">3 BHK Complete Household</td>
+              <td style="padding: 16px 20px;">₹6,500 - ₹10,500</td>
+              <td style="padding: 16px 20px;">₹4,800 - ₹7,200</td>
+              <td style="padding: 16px 20px;">₹14,000 - ₹23,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹25,300 - ₹41,200</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">4 BHK / Villa Relocation</td>
+              <td style="padding: 16px 20px;">₹9,500 - ₹14,500</td>
+              <td style="padding: 16px 20px;">₹6,800 - ₹10,000</td>
+              <td style="padding: 16px 20px;">₹19,500 - ₹32,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹35,800 - ₹56,500</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Bike / Two-Wheeler Transport</td>
+              <td style="padding: 16px 20px;">₹800 - ₹1,400</td>
+              <td style="padding: 16px 20px;">₹500 - ₹800</td>
+              <td style="padding: 16px 20px;">₹2,600 - ₹4,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹3,900 - ₹6,700</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Car Transport (Hatchback/Sedan/SUV)</td>
+              <td style="padding: 16px 20px;">₹1,500 - ₹2,400</td>
+              <td style="padding: 16px 20px;">₹1,000 - ₹1,600</td>
+              <td style="padding: 16px 20px;">₹9,500 - ₹16,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹12,000 - ₹20,500</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 4: ROUTE TRANSIT SPECS, HIGHWAY CORRIDORS & CHECKPOST LOGISTICS
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Logistics</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Patna to Dewas <span style="color: #f59e0b;">Transit Specifications</span>
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Transporting goods along the <strong>Patna</strong> &rarr; <strong>Dewas</strong> arterial freight corridor demands meticulous route planning, adherence to interstate green tax compliance, and seamless toll clearance through FASTag-equipped multi-axle carrier trucks.
+          </p>
+          <ul style="padding-left: 20px; margin: 0 0 20px 0; line-height: 1.85; color: #cbd5e1;">
+            <li><strong>Dedicated Freight Corridors:</strong> Utilizing major National Highways and express bypasses to ensure minimum vibration and speed bottlenecks.</li>
+            <li><strong>Interstate Checkpost Clearance:</strong> Complete e-Way bill documentation and state transport permits pre-cleared to avoid regulatory delays.</li>
+            <li><strong>Weather-Proof Enclosed Carriers:</strong> High-tensile steel container bodies protect delicate goods from torrential monsoon rain, dust storms, and highway vibrations.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 30px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 20px;">Route Performance Highlights</h3>
+          <div style="display: flex; flex-direction: column; gap: 15px;">
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">PRIMARY HIGHWAYS</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #10b981;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">ESTIMATED TRANSIT DURATION &amp; DISTANCE</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">~850 km &bull; 2 to 3 Working Days (With live satellite GPS updates)</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #3b82f6;">
+              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">CONTAINER SPECIFICATION</div>
+              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">18ft, 22ft &amp; 32ft MX High-Cube Weatherproof Containers</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- AI Logistics Intelligence & Checkpost Advisory Block -->
+        <div style="grid-column: 1 / -1; margin-top: 25px; background: rgba(245, 158, 11, 0.06); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
+          <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
+            <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Patna to Dewas)
+          </h3>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants me to act as a senior logistics coordinator for &quot;Shree Ashirwad Packers and Movers&quot;. They want two authoritative, detailed paragraphs with advice for the route from Patna (various localities) to Dewas (various localities). They mention a highway distance of about 850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways, transit duration 2-3 working days, service is household shifting and relocation. Primary target keyword: &quot;kaleswari packers and movers visakhapatnam to hyderabad&quot;. The content must be 150-220 words, 100% unique, authoritative, factual, not generic placeholders.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We must incorporate the keyword &quot;kaleswari packers and movers visakhapatnam to hyderabad&quot;. The user also says &quot;Do not use generic placeholders.&quot; So we must provide specific advice.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We must ensure we do not violate any policy. There&#039;s no request for disallowed content. It&#039;s providing freight advice, shipping advice, and the keyword insertion is presumably a placeholder but they specifically want that phrase as a primary target keyword. It&#039;s not a disallowed request. We can comply.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We must write about the route: Patna to Dewas, the route likely goes via NH-19 (or NH-30</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 5: SPECIALIZED 7-LAYER PROTECTIVE PACKAGING PROTOCOL
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Zero-Damage Standard</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">7-Layer Protective Packaging System</h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          We engineer our packaging protocols specifically for harsh Indian road conditions and variable transit humidity.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-layer-group" style="margin-right: 8px;"></i> 1. High-Density Bubble Cushioning</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">80-GSM heavy-duty air-bubble rolls tightly bound around polished wood, glassware, and electronic appliances to absorb mechanical vibrations.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-box" style="margin-right: 8px;"></i> 2. Multi-Ply Corrugated Sheets</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High bursting-strength 5-ply and 7-ply corrugated fiberboard panels wrap external surfaces to prevent abrasions, pressure marks, and scratches.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-shield-alt" style="margin-right: 8px;"></i> 3. Corner &amp; Edge Protectors</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Reinforced L-shaped solid cardboard edge boards guard tabletop borders, wardrobe corners, and mirror frames against impact collisions.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-water" style="margin-right: 8px;"></i> 4. Stretch Film Moisture Seal</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Commercial-grade waterproof stretch wrap hermetically seals cartons, shielding goods against humidity, highway grime, and unexpected monsoon rainfall.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-pallet" style="margin-right: 8px;"></i> 5. Customized Pinewood Crates</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Tailored heat-treated wooden crates assembled on-site for oversized OLED/QLED televisions, marble temples, fragile chandeliers, and fine artwork.</p>
+        </div>
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-lock" style="margin-right: 8px;"></i> 6. Heavy-Duty Lashing &amp; Chocks</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High-tensile polyester ratchet tie-down straps anchor heavier furnishings and vehicle tires securely to the container chassis bed.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 6: VEHICLE RELOCATION & CLOSED CARRIER STANDARDS
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div style="background: #172a54; padding: 30px; border-radius: 16px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 15px;">Automotive Transport Safety Protocols</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; margin-bottom: 15px;">
+            Whether relocating a luxury sedan or a daily commuter motorcycle, Shree Ashirwad manages your automobile with specialized automotive handling procedures:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li><strong>Pre-Transit Condition Inspection:</strong> Odometer, fuel level, and bodywork photos meticulously logged on your digital handover manifest.</li>
+            <li><strong>Hydraulic Loading Ramps:</strong> Prevents ground-clearance scraping or undercarriage impact during vehicle embarkation.</li>
+            <li><strong>Individual Wheel Locks:</strong> Steel wheel stoppers prevent forward or reverse momentum during highway transit maneuvers.</li>
+          </ul>
+        </div>
+
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Automotive Care</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Dedicated <span style="color: #f59e0b;">Car &amp; Bike Carrier</span> Fleets
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
+            We do not load vehicles alongside loose household cartons. All motorcycles are packaged in dedicated steel-frame bike containers, and cars travel in enclosed auto transport trailers across the Patna &rarr; Dewas route.
+          </p>
+          <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+Patna+To+Dewas+from+Patna+to+Dewas." title="Book Vehicle Transport" target="_blank" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
+            <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Book Vehicle Transport on WhatsApp
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 7: TRANSIT MARINE INSURANCE & ZERO-DEP CLAIM GUIDE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 18px; padding: 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+        <div style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 30px; align-items: center;">
+          <div>
+            <span style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">
+              100% FINANCIAL PROTECTION
+            </span>
+            <h2 style="font-size: 2rem; font-weight: 800; margin-top: 15px; margin-bottom: 15px; color: #ffffff;">
+              Transit Marine Insurance &amp; Zero-Dep Settlement
+            </h2>
+            <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.75; margin-bottom: 20px;">
+              Shree Ashirwad partners with premier national insurance providers to extend comprehensive all-risk transit coverage. Calculated at a transparent 3% of declared consignment value (0.3% base tariff), this policy shields you against highway collisions, fire incidents, or overturning.
+            </p>
+            <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
+              <span>&check; <strong style="color: #fff;">100% Declared Value</strong> Coverage</span>
+              <span>&check; <strong style="color: #fff;">Zero-Depreciation</strong> Clause</span>
+              <span>&check; <strong style="color: #fff;">Rapid 7-Day</strong> Claim Turnaround</span>
+            </div>
+          </div>
+          <div style="background: rgba(0,0,0,0.3); border: 1px solid rgba(245,158,11,0.25); border-radius: 14px; padding: 25px; text-align: center;">
+            <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 10px;">Quick Claims Assistance</h3>
+            <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin-bottom: 18px;">Our claims desk processes survey documentation smoothly with zero bureaucratic delays.</p>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 12px 24px; background: #f59e0b; color: #000; border-radius: 50px; font-weight: 700; font-size: 0.92rem; text-decoration: none;">
+              Insurance Desk: <?php echo SITE_PHONE; ?>
+            </a>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Section 2: Key Route Information & Overview -->
-<section class="py-5 bg-light text-dark">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 mb-4 mb-lg-0">
-        <h2 class="h2 fw-bold mb-3 text-primary">Patna to Dewas Moving Distance & Route Highlights</h2>
-        <p class="text-secondary">The distance between Patna (Bihar) and Dewas (Madhya Pradesh) is approximately 930 km. Traveling via NH30 and NH46/NH52, our dedicated container transport vehicles complete intercity goods transit safely within 36 to 48 hours.</p>
-        <div class="row g-3 mt-2">
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Approx. Distance</h4>
-              <p class="h5 fw-bold mb-0 text-dark">~930 KM</p>
-            </div>
-          </div>
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Estimated Transit</h4>
-              <p class="h5 fw-bold mb-0 text-dark">36 - 48 Hours</p>
-            </div>
-          </div>
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Packing Material</h4>
-              <p class="h5 fw-bold mb-0 text-dark">3-Layer Heavy Duty</p>
-            </div>
-          </div>
-          <div class="col-6">
-            <div class="p-3 border rounded bg-white shadow-sm">
-              <h4 class="h6 text-muted mb-1">Insurance Coverage</h4>
-              <p class="h5 fw-bold mb-0 text-dark">Full Transit Cover</p>
-            </div>
-          </div>
+  <!-- =========================================================================
+       SECTION 8: IBA APPROVED DOCUMENTATION & CORPORATE REIMBURSEMENT
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Official Compliance</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          IBA Approved Bills &amp; Corporate Shifting Documentation
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Shree Ashirwad is an officially recognized logistics provider. We issue complete documentation sets required by government employees, public sector banks, defense personnel, and MNC executives for 100% transfer allowance reimbursement.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px;">
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">GST Invoice Copy</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Compliant tax invoice with GSTIN breakdown and SAC transport codes.</p>
+        </div>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-truck-moving" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Consignment Note (LR)</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Lorry Receipt copy recording truck number and transit date.</p>
+        </div>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-clipboard-list" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Itemized Packing List</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Numbered inventory manifest signed by you and our lead supervisor.</p>
+        </div>
+        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+          <i class="fas fa-university" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
+          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">IBA Bank Clearance</h3>
+          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Indian Banks' Association approval code printed directly on invoice.</p>
         </div>
       </div>
-      <div class="col-lg-6">
-        <div class="p-4 bg-white rounded shadow-sm border border-secondary">
-          <h3 class="h5 fw-bold mb-3 text-dark">Why Choose Us for Patna to Dewas Relocation?</h3>
-          <ul class="list-unstyled mb-0">
-            <li class="mb-3 d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Dedicated Interstate Fleet:</strong> Weatherproof closed-body container trucks ensuring zero dust and damage during travel.</div>
-            </li>
-            <li class="mb-3 d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Multi-Layer Safety Packing:</strong> High-density bubble wrap, corrugated sheets, stretch film, and wooden crating for fragile items.</div>
-            </li>
-            <li class="mb-3 d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Door-to-Door Service:</strong> Complete handling from loading at Patna home to unpacking at Dewas destination.</div>
-            </li>
-            <li class="d-flex align-items-start">
-              <i class="bi bi-check-circle-fill text-success fs-5 me-3"></i>
-              <div><strong>Transparent Quotation:</strong> All-inclusive costs with no hidden fees or surge charges on shifting day.</div>
-            </li>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 9: STRATEGIC MOVING DAY STEP-BY-STEP CHECKLIST
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Stress-Free Execution</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">Your Strategic Relocation Checklist</h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Follow our proven moving milestone schedule to eliminate moving-day panic and guarantee an organized handover.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #f59e0b;">
+          <h3 style="color: #f59e0b; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">T-Minus 7 Days: Preparation</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Sort items into keep, donate, and discard piles to optimize consignment weight.</li>
+            <li>Backup critical digital files and secure jewelry, passports, and title deeds in personal luggage.</li>
+            <li>Notify utility providers (Wi-Fi, electricity, gas pipeline) for disconnection and address updates.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #10b981;">
+          <h3 style="color: #10b981; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Moving Day: Execution</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Defrost refrigerators 24 hours prior to prevent water leakage onto surrounding cartons.</li>
+            <li>Conduct room-by-room walkthrough with Shree Ashirwad supervisor for item inventory tagging.</li>
+            <li>Verify odometer reading on vehicle condition report before trailer ramp loading.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #3b82f6;">
+          <h3 style="color: #3b82f6; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Delivery Day: Settling In</h3>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
+            <li>Supervise unloading and cross-verify carton box numbers against your master inventory sheet.</li>
+            <li>Inspect fragile crates and appliances before signing the final delivery acceptance manifest.</li>
+            <li>Our team assists with basic furniture reassembly (beds, tables, wardrobes) at your new home.</li>
           </ul>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Section 3: Detailed Services Offered -->
-<section class="py-5 bg-dark text-white">
-  <div class="container">
-    <div class="text-center mb-5">
-      <h2 class="h2 fw-bold text-warning">Comprehensive Shifting Services for Dewas Route</h2>
-      <p class="text-light">Customized relocation solutions tailored to your household and commercial requirements.</p>
+  <!-- =========================================================================
+       SECTION 10: SHREE ASHIRWAD VS UNREGISTERED LOCAL TRANSPORTERS COMPARISON
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Why We Lead</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Shree Ashirwad vs <span style="color: #f59e0b;">Local Unregistered Movers</span>
+        </h2>
+      </div>
+
+      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; color: #cbd5e1; font-size: 0.95rem;">
+          <thead>
+            <tr style="background: rgba(245, 158, 11, 0.18); color: #f59e0b; border-bottom: 1.5px solid rgba(245,158,11,0.4);">
+              <th style="padding: 16px 20px; font-weight: 700;">Service Parameter</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #10b981;">Shree Ashirwad Packers &amp; Movers</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #ef4444;">Unregistered Local Truckers</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Pricing Model</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Fixed-Price Quotation with zero hidden moving-day fees</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Low upfront bait price followed by delivery-day extortion</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Packaging Materials</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Certified 7-layer 80-GSM bubble wrap, corrugated sheets, stretch wrap</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Substandard recycled newspaper and torn single-ply cartons</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Fleet Vehicles</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; High-cube enclosed weatherproof containers with live GPS tracking</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Open wooden tarpaulin trucks prone to moisture, dust, and theft</td>
+            </tr>
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Insurance &amp; Claims</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Declared value transit policy with zero-depreciation clause</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Zero compensation for broken glass or dented furniture</td>
+            </tr>
+            <tr>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Documentation</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Valid GST invoice, consignment LR note, and IBA-approved billing</td>
+              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Blank paper slips rejected by employers and corporate finance</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
-    <div class="row g-4">
-      <div class="col-md-4">
-        <div class="card h-100 bg-secondary text-white border-0 shadow">
-          <div class="card-body p-4">
-            <div class="bg-warning text-dark rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 50px; height: 50px;">
-              <i class="bi bi-house-door fs-4"></i>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10B: ROOM-BY-ROOM PACKING PROTOCOLS & DELICATE CARE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Itemized Care Standard</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Room-by-Room Packing &amp; Protection Protocols
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Different household assets require specialized packing methodologies to endure interstate transit vibrations across India. Our certified crew deploys distinct material suites tailored for each room.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-couch" style="margin-right: 8px;"></i> Living &amp; Dining Room</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Sofa upholstery and recliner fabrics are wrapped with breathable stretch film to avoid condensation staining, followed by heavy corrugated padding for wooden legs and corner frames. Dining glass tops are enclosed in custom foam sleeves before wooden crating.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-bed" style="margin-right: 8px;"></i> Master Bedroom &amp; Wardrobe</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Mattresses are sealed within heavy-gauge waterproof polythene zip bags to safeguard against dust and moisture. Wardrobe contents can be transferred directly into upright wardrobe carton boxes to preserve formal clothing without folding creases.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-utensils" style="margin-right: 8px;"></i> Kitchen &amp; Delicate Crockery</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Fine china, ceramic dinner sets, and glassware are individually swaddled in double-layer air-bubble film and nestled vertically into cellular partitioned cartons. Gaps are filled with biodegradable packing peanuts to eliminate transit friction.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-tv" style="margin-right: 8px;"></i> Home Electronics &amp; IT Gear</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            LED/OLED screens, soundbars, and desktop workstations receive antistatic bubble wraps, thermocol side corner buffers, and heavy multi-wall rigid cartons clearly marked with 'Fragile' handling directional arrows.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10C: HIGHWAY SAFETY, SATELLITE GPS & RISK MITIGATION
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Surveillance</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Real-Time Satellite GPS &amp; Highway Risk Mitigation
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Long-haul transit across Indian state borders involves variable topography, express highways, and regional traffic checkposts. Shree Ashirwad maintains strict operational risk mitigation protocols:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
+            <li><strong>Dual-Driver Shifts on Intercity Moves:</strong> Long-distance trucks travel with two certified commercial drivers who rotate every 4 to 5 hours to prevent driver fatigue and highway accidents.</li>
+            <li><strong>Zero-Night Transit in Hazardous Terrains:</strong> In mountainous or ghat corridors, trucks halt at verified highway hubs during late night hours for maximum transit safety.</li>
+            <li><strong>Geofenced Telematics &amp; Instant Alerts:</strong> Automated route deviation alerts notify our 24/7 central logistics command center if a carrier stops unscheduled.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 18px;">How You Can Track Your Shipment</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
+            Upon truck dispatch from Patna, you receive a unique consignment tracking link directly on WhatsApp and SMS. You can monitor live highway progress, toll plaza crossings, and estimated delivery windows in real time.
+          </p>
+          <div style="background: rgba(0,0,0,0.3); padding: 18px; border-radius: 10px; border-left: 4px solid #10b981;">
+            <div style="font-size: 0.88rem; color: #94a3b8; font-weight: 600;">CENTRAL LOGISTICS HELPLINE</div>
+            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-top: 4px;">24/7 Dispatch Control: <?php echo SITE_PHONE; ?></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10D: SECURE WAREHOUSING & SHORT/LONG-TERM STORAGE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Flexible Storage Solutions</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Clean, Secure Warehousing &amp; Transit Storage Hubs
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Experiencing a gap between vacating your old residence and receiving possession of your new home? Shree Ashirwad maintains modern, secure storage hubs across all major state capitals and transport hubs in India.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-video" style="margin-right: 8px;"></i> 24/7 CCTV &amp; Biometric Security</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            All warehouse perimeters and storage aisles are monitored continuously with high-definition night-vision CCTV cameras and round-the-clock physical security guards.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-bug" style="margin-right: 8px;"></i> Moisture &amp; Pest-Controlled Bays</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Regular quarterly pest-control fumigation and elevated wooden pallet shelving protect furniture, fabrics, and mattresses against dampness, termites, and rodents.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-calendar-alt" style="margin-right: 8px;"></i> Flexible Rental Tenures</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Store your household goods from 7 days up to multiple years with transparent weekly or monthly billing options and zero lock-in contracts.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10E: CORPORATE & COMMERCIAL RELOCATION PROTOCOL
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Enterprise Solutions</span>
+          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
+            Corporate Office Shifting &amp; Commercial Moves
+          </h2>
+          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
+            Executing a corporate relocation between <strong>Patna</strong> and <strong>Dewas</strong> requires meticulous downtime planning to prevent disruption to business operations. Our corporate relocation division delivers turnkey enterprise logistics:
+          </p>
+          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
+            <li><strong>Weekend &amp; After-Hours Execution:</strong> Office moves scheduled from Friday evening to Sunday night ensures your staff starts work Monday morning with zero business downtime.</li>
+            <li><strong>IT Equipment &amp; Server Migration:</strong> Dedicated antistatic padded crates, individual serial number tagging, and climate-controlled vehicles for sensitive servers, switches, and workstations.</li>
+            <li><strong>Confidential Document Tagging:</strong> Numbered, tamper-evident security seals on document archive crates to protect corporate records and customer data privacy.</li>
+          </ul>
+        </div>
+
+        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
+          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 15px;">Corporate Billing &amp; Tender Compliance</h3>
+          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
+            We participate in formal corporate vendor empanelment and government GeM procurement portals. We supply valid GST invoices, audited financial records, and vendor compliance certificates upon request.
+          </p>
+          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
+            <i class="fas fa-briefcase" style="margin-right: 8px;"></i> Speak with Corporate Move Manager
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 10F: INTERSTATE BORDER CHECKPOSTS & OCTROI / GREEN TAX CLEARANCE
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Regulatory Compliance</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Interstate Border Checkpoints &amp; Green Tax Clearances
+        </h2>
+        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Navigating interstate highway transport between Patna and Dewas requires rigorous statutory compliance across multiple regional transport authorities (RTOs) and commercial tax departments.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-barcode" style="margin-right: 8px;"></i> Automated National e-Way Bill</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Every consignment crossing state borders is registered on the National Goods &amp; Services Tax e-Way bill portal with unique RFID tracking numbers, preventing arbitrary highway interception or impounding at state boundary plazas.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-leaf" style="margin-right: 8px;"></i> Green Cess &amp; Entry Permits</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            Municipal corporation border entry cess, state green taxes, and municipal entry permits are fully settled by Shree Ashirwad in advance. Clients never face surprise tax demands from highway authorities during transit.
+          </p>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
+          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-id-card" style="margin-right: 8px;"></i> RTO Form 28 / 29 / 30 Advisory</h3>
+          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
+            For permanent vehicle relocations between Patna and Dewas, our administrative documentation desk guides customers on RTO No Objection Certificate (NOC) documentation, Form 28 (triplicate), and interstate road tax refund claims.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 11: FREQUENTLY ASKED QUESTIONS (FAQ ACCORDION)
+       ========================================================================= -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
+          Frequently Asked Questions About <span style="color: #f59e0b;">Packers And Movers Patna To Dewas</span>
+        </h2>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 16px;">
+        <?php foreach ($faq_list as $idx => $faq): ?>
+          <details style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;" <?php echo ($idx === 0 ? 'open' : ''); ?>>
+            <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+              <span><strong style="color: #f59e0b; margin-right: 8px;">Q<?php echo ($idx + 1); ?>.</strong> <?php echo htmlspecialchars($faq['q']); ?></span>
+              <span style="color: #f59e0b; font-size: 1.3rem; font-weight: 800;">&#43;</span>
+            </summary>
+            <div style="padding: 16px 24px 22px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; border-top: 1px solid rgba(255,255,255,0.08);">
+              <?php echo htmlspecialchars($faq['a']); ?>
             </div>
-            <h3 class="h5 fw-bold">Household Goods Shifting</h3>
-            <p class="text-light small">Complete home packing, heavy furniture dismantling, electronics protection, and secure door delivery from Patna to Dewas.</p>
-          </div>
-        </div>
+          </details>
+        <?php endforeach; ?>
       </div>
-      <div class="col-md-4">
-        <div class="card h-100 bg-secondary text-white border-0 shadow">
-          <div class="card-body p-4">
-            <div class="bg-warning text-dark rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 50px; height: 50px;">
-              <i class="bi bi-truck fs-4"></i>
-            </div>
-            <h3 class="h5 fw-bold">Car & Bike Carrier Services</h3>
-            <p class="text-light small">Specialized enclosed car carriers and hydraulic bike loading trucks ensuring scratch-free vehicle transport between Patna and Dewas.</p>
-          </div>
-        </div>
+    </div>
+  </section>
+
+  <!-- =========================================================================
+       SECTION 12: DYNAMIC 6-LINK INTERNAL LINKING MESH
+       ========================================================================= -->
+  <section style="padding: 65px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Connected Logistics Network</span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px;">
+          Related Shifting Routes &amp; <span style="color: #f59e0b;">Verified Moving Corridors</span>
+        </h2>
+        <p style="color: #cbd5e1; max-width: 700px; margin: 10px auto 0 auto; font-size: 0.95rem;">
+          Explore verified relocation services and interstate freight corridors connected to your moving route:
+        </p>
       </div>
-      <div class="col-md-4">
-        <div class="card h-100 bg-secondary text-white border-0 shadow">
-          <div class="card-body p-4">
-            <div class="bg-warning text-dark rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 50px; height: 50px;">
-              <i class="bi bi-building fs-4"></i>
-            </div>
-            <h3 class="h5 fw-bold">Office & Business Relocation</h3>
-            <p class="text-light small">Commercial equipment packing, IT server handling, office furniture transport, and swift setup at Dewas with minimal downtime.</p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;">
+        <?php
+        $mesh_routes = array (
+  0 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-ahmedabad-to-dewas',
+    'slug' => 'packers-and-movers-ahmedabad-to-dewas',
+    'title' => 'Packers And Movers Ahmedabad To Dewas',
+    'anchor' => 'Packers And Movers Ahmedabad To Dewas',
+  ),
+  1 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-bhopal-to-dewas',
+    'slug' => 'packers-and-movers-bhopal-to-dewas',
+    'title' => 'Packers And Movers Bhopal To Dewas',
+    'anchor' => 'Packers And Movers Bhopal To Dewas',
+  ),
+  2 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-delhi-to-dewas',
+    'slug' => 'packers-and-movers-delhi-to-dewas',
+    'title' => 'Packers And Movers Delhi To Dewas',
+    'anchor' => 'Packers And Movers Delhi To Dewas',
+  ),
+  3 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-gwalior-to-dewas',
+    'slug' => 'packers-and-movers-gwalior-to-dewas',
+    'title' => 'Packers And Movers Gwalior To Dewas',
+    'anchor' => 'Packers And Movers Gwalior To Dewas',
+  ),
+  4 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-hyderabad-to-dewas',
+    'slug' => 'packers-and-movers-hyderabad-to-dewas',
+    'title' => 'Packers And Movers Hyderabad To Dewas',
+    'anchor' => 'Packers And Movers Hyderabad To Dewas',
+  ),
+  5 => 
+  array (
+    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',
+    'slug' => 'affordable-bike-transportation-in-ranchi',
+    'title' => 'Affordable Bike Transportation In Ranchi',
+    'anchor' => 'Affordable Bike Transportation In Ranchi',
+  ),
+);
+        foreach ($mesh_routes as $mr):
+        ?>
+          <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); transition: border-color 0.2s ease;">
+            <a href="<?php echo htmlspecialchars($mr['url']); ?>" title="<?php echo htmlspecialchars($mr['title']); ?>" style="text-decoration: none; color: inherit; display: block;">
+              <h3 style="color: #f59e0b; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px;">
+                <i class="fas fa-truck-moving" style="margin-right: 8px;"></i> <?php echo htmlspecialchars($mr['title']); ?>
+              </h3>
+              <p style="color: #94a3b8; font-size: 0.85rem; margin: 0; line-height: 1.5;">
+                Doorstep moving solutions, GPS-tracked container trucks, and transparent rates. &rarr;
+              </p>
+            </a>
           </div>
+        <?php endforeach; ?>
+      </div>
+
+      <!-- Real Curated Search Keywords & Relocation Badges -->
+      <div style="margin-top: 45px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
+        <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
+          <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
+        </h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 1000px; margin: 0 auto;">
+          <?php foreach ($page_keyword_tags as $kwTag): ?>
+            <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
+              <span style="color: #f59e0b;">&bull;</span> <?php echo htmlspecialchars($kwTag); ?>
+            </span>
+          <?php endforeach; ?>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Section 4: Cost & Tariff Structure -->
-<section class="py-5 bg-light text-dark">
-  <div class="container">
-    <h2 class="h2 fw-bold text-center mb-4 text-primary">Patna to Dewas Packers Charges Rate Chart</h2>
-    <p class="text-center text-muted mb-5">Estimated price breakdown based on movement volume and vehicle requirements.</p>
-    <div class="table-responsive">
-      <table class="table table-bordered table-striped align-middle bg-white shadow-sm">
-        <thead class="table-dark">
-          <tr>
-            <th>Shifting Type</th>
-            <th>Packing Material Charges</th>
-            <th>Labor & Handling</th>
-            <th>Total Estimated Charges</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><strong>1 BHK House Shifting</strong></td>
-            <td>₹4,000 - ₹6,000</td>
-            <td>₹3,500 - ₹5,000</td>
-            <td><strong>₹18,000 - ₹26,000</strong></td>
-          </tr>
-          <tr>
-            <td><strong>2 BHK House Shifting</strong></td>
-            <td>₹6,000 - ₹9,000</td>
-            <td>₹5,000 - ₹7,000</td>
-            <td><strong>₹26,000 - ₹36,000</strong></td>
-          </tr>
-          <tr>
-            <td><strong>3 BHK / Villa Shifting</strong></td>
-            <td>₹9,000 - ₹14,000</td>
-            <td>₹7,000 - ₹10,500</td>
-            <td><strong>₹36,000 - ₹52,000</strong></td>
-          </tr>
-          <tr>
-            <td><strong>Two-Wheeler Transport</strong></td>
-            <td>₹1,500 - ₹2,500</td>
-            <td>₹1,000 - ₹1,500</td>
-            <td><strong>₹5,500 - ₹8,500</strong></td>
-          </tr>
-          <tr>
-            <td><strong>Four-Wheeler (Car) Transport</strong></td>
-            <td>₹3,000 - ₹4,500</td>
-            <td>₹2,500 - ₹3,500</td>
-            <td><strong>₹14,000 - ₹22,000</strong></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</section>
+  <!-- =========================================================================
+       SECTION 13: HIGH-CONVERTING CALL TO ACTION FOOTER BANNER
+       ========================================================================= -->
+  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
+      <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 16px;">
+        Book Your <span style="color: #f59e0b;">Packers And Movers Patna To Dewas</span> Today!
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 780px; margin: 0 auto 32px auto; line-height: 1.75;">
+        Experience seamless packing, damage-free container transport, and dedicated move management with Shree Ashirwad Packers and Movers. Speak with an expert or request a WhatsApp estimate now.
+      </p>
 
-<!-- Section 5: Step-by-Step Moving Process Blueprint -->
-<section class="py-5 bg-dark text-white">
-  <div class="container">
-    <h2 class="h2 fw-bold text-center text-warning mb-5">Our 5-Step Patna to Dewas Relocation Workflow</h2>
-    <div class="row g-4">
-      <div class="col-md-2 col-6 text-center">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">1</div>
-        <h5 class="h6">Pre-Move Survey</h5>
-        <p class="small text-light">Virtual or doorstep inventory audit.</p>
-      </div>
-      <div class="col-md-2 col-6 text-center">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">2</div>
-        <h5 class="h6">Quality Packing</h5>
-        <p class="small text-light">3-Layer cushion wrapping at Patna.</p>
-      </div>
-      <div class="col-md-2 col-6 text-center">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">3</div>
-        <h5 class="h6">Safe Loading</h5>
-        <p class="small text-light">Supervised handling into enclosed truck.</p>
-      </div>
-      <div class="col-md-2 col-6 text-center">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">4</div>
-        <h5 class="h6">Interstate Transit</h5>
-        <p class="small text-light">GPS tracking via NH30/NH46 highway.</p>
-      </div>
-      <div class="col-md-2 col-6 text-center">
-        <div class="bg-primary text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;">5</div>
-        <h5 class="h6">Door Delivery</h5>
-        <p class="small text-light">Unpacking and setup at Dewas.</p>
-      </div>
-      <div class="col-md-2 col-6 text-center">
-        <div class="bg-success text-white rounded-circle mx-auto d-flex align-items-center justify-content-center mb-3" style="width:60px; height:60px; font-size:1.5rem; font-weight:bold;"><i class="bi bi-check-lg"></i></div>
-        <h5 class="h6">Complete Satisfaction</h5>
-        <p class="small text-light">Final review and feedback receipt.</p>
+      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
+        </a>
+        <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+Patna+To+Dewas+from+Patna+to+Dewas." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+        </a>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Section 6: Safety & Insurance Blueprint -->
-<section class="py-5 bg-light text-dark">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 mb-4 mb-lg-0">
-        <h2 class="h2 fw-bold text-primary mb-3">Complete Goods Safety & Transit Insurance</h2>
-        <p class="text-secondary">Long-distance highway transit demands superior protective measures. We offer optional transit insurance (Full Value Declaration) covering any unforeseen risks or accidental damages during movement from Patna to Dewas.</p>
-        <ul class="list-group list-group-flush border-0">
-          <li class="list-group-item bg-transparent ps-0"><i class="bi bi-shield-fill-check text-success me-2"></i> All-Risk Transit Policy covering structural damage.</li>
-          <li class="list-group-item bg-transparent ps-0"><i class="bi bi-shield-fill-check text-success me-2"></i> Quick Claim Settlement with zero hassle paperwork.</li>
-          <li class="list-group-item bg-transparent ps-0"><i class="bi bi-shield-fill-check text-success me-2"></i> High-grade waterproof tarpaulins & container seals.</li>
-        </ul>
-      </div>
-      <div class="col-lg-6">
-        <div class="p-4 bg-white rounded shadow border-start border-4 border-primary">
-          <h4 class="h5 fw-bold text-dark mb-2">Transit Guidelines for Customers</h4>
-          <p class="small text-muted mb-3">Please ensure personal valuables such as cash, jewelry, confidential documents, and medicine are carried personally during relocation.</p>
-          <div class="d-flex align-items-center p-3 bg-light rounded">
-            <i class="bi bi-telephone-fill text-primary fs-3 me-3"></i>
-            <div>
-              <h6 class="mb-0 fw-bold">Have Questions About Insurance?</h6>
-              <small class="text-secondary">Call our route expert directly for instant guidance.</small>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+</main>
 
-<!-- Section 7: FAQs (10 Questions + JSON-LD Schema) -->
-<section class="py-5 bg-dark text-white">
-  <div class="container">
-    <h2 class="h2 fw-bold text-center text-warning mb-4">Frequently Asked Questions (Patna to Dewas Shifting)</h2>
-    <div class="accordion accordion-flush" id="faqAccordion">
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading1">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1">
-            1. What is the estimated delivery time for Patna to Dewas shifting?
-          </button>
-        </h2>
-        <div id="faqCollapse1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Normally, dedicated container trucks deliver goods within 36 to 48 hours from Patna to Dewas depending on road and weather conditions.
-          </div>
-        </div>
-      </div>
+<!-- =========================================================================
+     SECTION 14: INTERACTIVE HERO WHATSAPP SCRIPT
+     ========================================================================= -->
+<script>
+function sendHeroWhatsAppLead(event, form) {
+  event.preventDefault();
+  var name = form.querySelector('[name="name"]').value;
+  var phone = form.querySelector('[name="phone"]').value;
+  var moveFrom = form.querySelector('[name="move_from"]').value;
+  var moveTo = form.querySelector('[name="move_to"]').value;
+  
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a shifting estimate for Packers And Movers Patna To Dewas:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination Location: " + moveTo;
+  
+  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
+  window.location.href = whatsappUrl;
+}
+</script>
 
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading2">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2">
-            2. How are fragile kitchen items and electronics packed?
-          </button>
-        </h2>
-        <div id="faqCollapse2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            We use multi-layer bubble wrap, foam sheets, corrugated boxes, and fragile warning labels for delicate kitchenware and electronic appliances.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading3">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3">
-            3. Do you provide transit insurance for Patna to Dewas relocation?
-          </button>
-        </h2>
-        <div id="faqCollapse3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Yes, we provide 100% comprehensive transit insurance cover based on declared item values to safeguard your belongings against highway hazards.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading4">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse4">
-            4. Can I transport my two-wheeler (bike/scooter) along with house goods?
-          </button>
-        </h2>
-        <div id="faqCollapse4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Yes, we can safely transport two-wheelers inside the same container truck after securing them with specialized safety belts and bubble wrapping.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading5">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse5">
-            5. Are there any hidden costs in the quoted amount?
-          </button>
-        </h2>
-        <div id="faqCollapse5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            No, our written quotations include packing, loading, toll taxes, transit, unloading, and unpacking costs with complete transparency.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading6">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse6">
-            6. How many days in advance should I book my move?
-          </button>
-        </h2>
-        <div id="faqCollapse6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            We recommend booking 2 to 4 days prior to your preferred shifting date to ensure availability of optimal container vehicles and team slots.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading7">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse7">
-            7. Do you handle unpacking and furniture assembly at Dewas?
-          </button>
-        </h2>
-        <div id="faqCollapse7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Yes, our destination crew in Dewas helps unload, unpack, and reassemble dismantled bed frames and dining tables as part of our door-to-door service.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading8">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse8">
-            8. Is live GPS tracking available during goods transport?
-          </button>
-        </h2>
-        <div id="faqCollapse8" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            Yes, all our long-distance container vehicles are equipped with GPS tracking, and our support team provides regular location updates.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading9">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse9">
-            9. What documents are needed for interstate household shifting?
-          </button>
-        </h2>
-        <div id="faqCollapse9" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            You will need a copy of your ID proof (Aadhaar / PAN), item declaration list, and consignment note provided by Shree Ashirwad Packers and Movers.
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion-item bg-secondary text-white border-bottom border-dark">
-        <h2 class="accordion-header" id="faqHeading10">
-          <button class="accordion-button collapsed bg-secondary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse10">
-            10. What payment options are accepted?
-          </button>
-        </h2>
-        <div id="faqCollapse10" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-          <div class="accordion-body text-light">
-            We accept UPI payments, online bank transfers (NEFT/RTGS), debit/credit cards, and cash payments at designated milestones.
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- FAQ Schema JSON-LD -->
+<!-- =========================================================================
+     SECTION 15: DUAL SCHEMA (FAQPage & MovingCompany JSON-LD)
+     ========================================================================= -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
+  "@graph": [
     {
-      "@type": "Question",
-      "name": "What is the estimated delivery time for Patna to Dewas shifting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Normally, dedicated container trucks deliver goods within 36 to 48 hours from Patna to Dewas depending on road and weather conditions."
-      }
+      "@type": "MovingCompany",
+      "@id": "<?php echo $canonical_url; ?>#movingcompany",
+      "name": "Shree Ashirwad Packers and Movers",
+      "url": "<?php echo SITE_URL; ?>",
+      "telephone": "<?php echo SITE_PHONE_RAW; ?>",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN"
+      },
+      "areaServed": [
+        "Patna",
+        "Dewas"
+      ],
+      "knowsAbout": ["kaleswari packers and movers visakhapatnam to hyderabad","best packer mover in patna","car movers and packers patna office","packers and movers in dewas","movers and packers dewas naka indore","packers and movers dewas","household moving services missouri","home relocation services in gurgaon","movers and packers powai rates","mumbai to kolhapur packers and movers charges","packeers and movers bills","movers and packers sahibabad ghaziabad","safe express packers and movers delhi","super safe packers and movers pune","movers and packers gopala puram"],
+      "description": "<?php echo addslashes($page_desc); ?>"
     },
     {
-      "@type": "Question",
-      "name": "How are fragile kitchen items and electronics packed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We use multi-layer bubble wrap, foam sheets, corrugated boxes, and fragile warning labels for delicate kitchenware and electronic appliances."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you provide transit insurance for Patna to Dewas relocation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide 100% comprehensive transit insurance cover based on declared item values to safeguard your belongings against highway hazards."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I transport my two-wheeler (bike/scooter) along with house goods?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we can safely transport two-wheelers inside the same container truck after securing them with specialized safety belts and bubble wrapping."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there any hidden costs in the quoted amount?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, our written quotations include packing, loading, toll taxes, transit, unloading, and unpacking costs with complete transparency."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many days in advance should I book my move?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We recommend booking 2 to 4 days prior to your preferred shifting date to ensure availability of optimal container vehicles and team slots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you handle unpacking and furniture assembly at Dewas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, our destination crew in Dewas helps unload, unpack, and reassemble dismantled bed frames and dining tables as part of our door-to-door service."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is live GPS tracking available during goods transport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, all our long-distance container vehicles are equipped with GPS tracking, and our support team provides regular location updates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What documents are needed for interstate household shifting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You will need a copy of your ID proof (Aadhaar / PAN), item declaration list, and consignment note provided by Shree Ashirwad Packers and Movers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What payment options are accepted?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We accept UPI payments, online bank transfers (NEFT/RTGS), debit/credit cards, and cash payments at designated milestones."
-      }
+      "@type": "FAQPage",
+      "@id": "<?php echo $canonical_url; ?>#faqpage",
+      "mainEntity": [
+        <?php 
+        $schema_faqs = [];
+        foreach ($faq_list as $faq) {
+          $schema_faqs[] = json_encode([
+            '@type' => 'Question',
+            'name' => $faq['q'],
+            'acceptedAnswer' => [
+              '@type' => 'Answer',
+              'text' => $faq['a']
+            ]
+          ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+        }
+        echo implode(",\n        ", $schema_faqs);
+        ?>
+      ]
     }
   ]
 }
 </script>
 
-<script>
-function sendHeroWhatsAppLead(event) {
-  event.preventDefault();
-  const name = document.getElementById('heroName').value;
-  const phone = document.getElementById('heroPhone').value;
-  const service = document.getElementById('heroService').value;
-  const text = `Hello Shree Ashirwad Packers, I need a quotation for Patna to Dewas relocation.%0A%0A*Name:* ${name}%0A*Phone:* ${phone}%0A*Service Required:* ${service}`;
-  window.open(`https://api.whatsapp.com/send?phone=919308888780&text=${text}`, '_blank');
-}
-</script>
-
-<!-- MovingCompany Schema JSON-LD -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MovingCompany",
-  "name": "Shree Ashirwad Packers and Movers Patna to Dewas",
-  "url": "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-dewas.php",
-  "logo": "https://shreeashirwadpackersandmovers.com/assets/images/logo.png",
-  "telephone": "+91-8409531615",
-  "priceRange": "₹5500 - ₹52000",
-  "description": "Professional household shifting, car/bike transport, and office relocation services from Patna to Dewas (Madhya Pradesh).",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "MIG 214, Hanuman Nagar, Kankarbagh",
-    "addressLocality": "Patna",
-    "addressRegion": "Bihar",
-    "postalCode": "800020",
-    "addressCountry": "IN"
-  },
-  "areaServed": [
-    "Patna",
-    "Dewas",
-    "Madhya Pradesh",
-    "Bihar"
-  ]
-}
-</script>
-
-<?php include '../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>

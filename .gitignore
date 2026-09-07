@@ -13,6 +13,8 @@ Desktop.ini
 # Temporary & Log files
 *.log
 *.tmp
+*.bak
+*.bak.*
 tmp/
 
 # Environment & Config overrides
