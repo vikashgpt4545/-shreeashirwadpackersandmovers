@@ -84,8 +84,8 @@
 
 # Prevent caching of sitemap XML files so changes update immediately
 <IfModule mod_headers.c>
-    <FilesMatch "(sitemap\.xml|sitemap.*\.xml)$">
-        Header set Cache-Control "no-cache, no-store, must-revalidate"
+    <FilesMatch "(sitemap\.xml|generate_sitemap\.php|sitemap.*\.xml)$">
+        Header set Cache-Control "no-cache, no-store, must-revalidate, max-age=0"
         Header set Pragma "no-cache"
         Header set Expires 0
     </FilesMatch>

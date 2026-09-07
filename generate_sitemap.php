@@ -146,5 +146,8 @@ $xml .= '</urlset>';
 // 5. Output XML response directly for HTTP requests
 if (php_sapi_name() !== 'cli') {
     header('Content-Type: application/xml; charset=utf-8');
+    header('Cache-Control: no-cache, no-store, must-revalidate, max-age=0');
+    header('Pragma: no-cache');
+    header('Expires: 0');
 }
 echo $xml;
