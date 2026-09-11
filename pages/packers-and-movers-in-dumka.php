@@ -1,103 +1,134 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title = "Packers And Movers In Dumka | Shree Ashirwad Packers & Movers";
-$page_desc = "Get transparent, IBA-approved Packers And Movers In Dumka with Shree Ashirwad Packers and Movers. ~850 km via National Highway Arterial Corridors & Multi-Axle Express Freight Highways. 100% safe multi-layer packing, transit insurance, dedicated GPS container carriers, and doorstep delivery across Dumka and Destination Hub.";
-$page_keywords = "packers and movers dumka, dumka transport contact number, packers and movers in dumka, movers spring house, packers and movers to move within 2 house, bestprice movers tampa, parcel charges from delhi to bangalore, verified packers and movers in bangalore, gazibad based packers & movers, safe packers and movers delhi review, safe packers in noida, vdi packers and movers in ahmedabad, which packers and movers are good in bangalore, packers and movers in dumka jharkhand";
+$page_title = "Packers and Movers in Dumka - 08409531615";
+$page_desc = "Top-rated Packers and Movers in Dumka, Santhal Pargana sub-capital. Safe home shifting, office relocation, car shipping, bike parcel & storage. Call (+91) 8409531615.";
+$page_keywords = "packers and movers in dumka, packers and movers dumka, best packers and movers in dumka, house shifting dumka, SKMU professors relocation, car transport dumka, bike parcel dumka, santhal pargana packers, IBA approved movers dumka";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/packers-and-movers-in-dumka";
-$page_keyword_tags = array (
-  0 => 'packers and movers dumka',
-  1 => 'dumka transport contact number',
-  2 => 'packers and movers in dumka',
-  3 => 'movers spring house',
-  4 => 'packers and movers to move within 2 house',
-  5 => 'bestprice movers tampa',
-  6 => 'parcel charges from delhi to bangalore',
-  7 => 'verified packers and movers in bangalore',
-  8 => 'gazibad based packers & movers',
-  9 => 'safe packers and movers delhi review',
-  10 => 'safe packers in noida',
-  11 => 'vdi packers and movers in ahmedabad',
-  12 => 'which packers and movers are good in bangalore',
-  13 => 'packers and movers in dumka jharkhand',
-);
 
-$faq_list = array (
-  0 => 
-  array (
-    'q' => 'Do you provide IBA approved bills for company or government transfer claims?',
-    'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.',
-  ),
-  1 => 
-  array (
-    'q' => 'How long does shipment transit take from Dumka to Destination Hub?',
-    'a' => 'Typical transit duration along the National Highway Arterial Corridors & Multi-Axle Express Freight Highways takes approximately 2 to 3 Working Days. All long-haul vehicles are operated by certified dual-driver crews and equipped with live satellite GPS telematics for real-time location tracking on WhatsApp.',
-  ),
-  2 => 
-  array (
-    'q' => 'How are relocation charges calculated for Packers And Movers In Dumka?',
-    'a' => 'Our moving estimates between Dumka and Destination Hub are calculated using transparent parameters: total consignment volume (cft), distance (~850 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.',
-  ),
-  3 => 
-  array (
-    'q' => 'Are household goods protected against heavy monsoon rains and water damage?',
-    'a' => 'All consignments are moved in fully enclosed, all-steel weatherproof high-cube containers. Additionally, furniture and mattresses are wrapped in seamless waterproof stretch film and heavy PVC tarpaulin sleeves before loading.',
-  ),
-  4 => 
-  array (
-    'q' => 'Can I monitor the live location of the container truck during transit?',
-    'a' => 'Yes. Upon vehicle dispatch from Dumka, you receive a private GPS tracking portal link and automated WhatsApp transit checkpoints as our truck clears interstate toll plazas and border checkposts en route to Destination Hub.',
-  ),
-  5 => 
-  array (
-    'q' => 'Do your team handle multi-floor staircase lifting and elevator restrictions?',
-    'a' => 'Our certified moving crews are equipped with heavy furniture lifter straps, hydraulic trolleys, and protective floor sheets. We coordinate smoothly with apartment society management in both Dumka and Destination Hub to ensure elevator compliance.',
-  ),
-);
+$page_city = "Dumka";
+
+$faq_list = [
+    [
+        'q' => 'Which residential and commercial areas do you cover in Dumka?',
+        'a' => 'We provide comprehensive packing and moving services across all localities of Dumka and Santhal Pargana division including Tin Bazar, Dudhani, Rasikpur, Babu Para, Dangalpara, Bandhdih, Kurwa, Naya Para, Gilanpara, SP College Road, Kathikund Road, Rampurhat Road, Dumka Aerodrome area, Shivpahar, Court Road, and Basukinath corridor.'
+    ],
+    [
+        'q' => 'Are your relocation bills in Dumka IBA approved for official reimbursement?',
+        'a' => 'Yes, Shree Ashirwad Packers and Movers issues 100% genuine IBA-compliant GST invoices (SAC 996511), stamped Lorry Receipts (LR), serialized inventory packing lists, and money receipts accepted by District Collectorate (DC Office), Santhal Pargana Commissionerate, Civil Court, SKMU University, Police Line, State Bank of India, and all nationalized banks.'
+    ],
+    [
+        'q' => 'What are the charges for local home shifting in Dumka?',
+        'a' => 'Local shifting within Dumka town ranges from ₹3,000 to ₹5,500 for 1BHK, ₹5,500 to ₹9,500 for 2BHK, and ₹9,500 to ₹15,500 for 3BHK/independent houses depending on goods volume, floor levels, and packing material tiers.'
+    ],
+    [
+        'q' => 'Do you provide car carrier and bike transportation from Dumka to other cities?',
+        'a' => 'Yes, we provide dedicated enclosed hydraulic car carrier transport and belt-secured containerized motorcycle shipping from Dumka to Ranchi, Deoghar, Patna, Kolkata, Delhi, Bangalore, and nationwide with doorstep pickup and delivery.'
+    ],
+    [
+        'q' => 'How many days before moving should I schedule movers in Dumka?',
+        'a' => 'We recommend booking 2 to 3 days prior for local moves within Dumka and 4 to 5 days prior for interstate or long-distance intercity relocations to ensure priority container truck allocation and customized packing preparation.'
+    ],
+    [
+        'q' => 'What packaging materials are used for protecting goods during Dumka shifting?',
+        'a' => 'We deploy our specialized 7-layer safety packaging system using heavy-duty 80-GSM virgin air bubble wrap, 5-ply corrugated fiberboard sheets, waterproof stretch wrap, high-density foam corner protectors, and custom wooden crating for delicate items.'
+    ],
+    [
+        'q' => 'Can your crew handle furniture dismantling and reassembly in Dumka?',
+        'a' => 'Yes, our skilled carpentry technicians dismantle complex modular beds, wardrobes, dining tables, and wall units at origin and reassemble them securely at your destination residence.'
+    ],
+    [
+        'q' => 'Is transit insurance provided for long-distance relocations starting from Dumka?',
+        'a' => 'Yes, we issue 100% full-value declared transit marine insurance policy documentation protecting household goods, electronic appliances, and vehicles against road accidents, fire, and transit hazards.'
+    ],
+    [
+        'q' => 'Do you offer commercial and government office relocation in Dumka?',
+        'a' => 'Yes, we provide specialized commercial office relocation, IT equipment moving, administrative file archive transport, bank branch shifting, and institutional equipment transport across Dumka and Santhal Pargana.'
+    ],
+    [
+        'q' => 'How can I get a free shifting price quote for Dumka relocation?',
+        'a' => 'Call our customer helpline directly at +91 8409531615 or submit your moving details on our WhatsApp chat link to receive an immediate transparent quotation from our move consultant.'
+    ],
+    [
+        'q' => 'Do you manage relocations for Sido Kanhu Murmu University (SKMU) faculty and staff?',
+        'a' => 'Yes, we regularly manage household relocations for university professors, administrative officers, and research scholars of SKMU Dumka, providing itemized inventory manifests and compliant GST invoices for institutional claims.'
+    ],
+    [
+        'q' => 'How do you safeguard fragile glassware, mandir shrines, and LED TVs during transit?',
+        'a' => 'Delicate items undergo multi-layer bubble wrapping, foam edge shielding, and custom wooden box crating lined with shock-absorbent foam to eliminate vibration shock along highway curves.'
+    ],
+    [
+        'q' => 'Can your moving trucks operate smoothly along NH-114A and NH-133 highway corridors?',
+        'a' => 'Yes, our experienced drivers navigate NH-114A (Deoghar-Dumka-Rampurhat) and NH-133 (Dumka-Godda) with heavy-duty closed container trucks equipped with pneumatic air-ride suspensions and GPS tracking.'
+    ],
+    [
+        'q' => 'Do you handle transfers for doctors and staff at Phulo Jhano Medical College Dumka?',
+        'a' => 'Yes, we frequently assist medical specialists, resident doctors, and healthcare administrators transferring to and from Dumka Medical College Hospital with rapid, damage-free moving services.'
+    ],
+    [
+        'q' => 'Are there extra charges for moving to top floors without an elevator in Dumka?',
+        'a' => 'Nominal floor charges apply for manual stair carriage above the second floor when elevators are unavailable. These charges are transparently stated in your initial written estimate before shifting commences.'
+    ],
+    [
+        'q' => 'Can you store household items in a warehouse if our new house in Dumka is not yet ready?',
+        'a' => 'Yes, we maintain clean, moisture-controlled, pest-treated, 24/7 CCTV-monitored warehouse bays in the region for safe short-term and long-term storage.'
+    ],
+    [
+        'q' => 'What should I do with my refrigerator and washing machine before shifting day?',
+        'a' => 'Refrigerators should be completely defrosted, emptied, and dried 24 hours prior to loading. Washing machines should have transit safety bolts fitted and water hoses drained.'
+    ],
+    [
+        'q' => 'Can I track my moving truck during long-distance intercity transit from Dumka?',
+        'a' => 'Yes, all containerized moving trucks are fitted with GPS tracking hardware, allowing our dispatch team to provide live location and checkpoint status updates via WhatsApp.'
+    ],
+    [
+        'q' => 'Do you provide packing cartons ahead of moving day for self-sorting personal items?',
+        'a' => 'Yes, upon booking confirmation, our executive delivers designated boxes so you can organize personal clothing, books, and private documents before our team arrives.'
+    ],
+    [
+        'q' => 'Why choose Shree Ashirwad Packers and Movers over unverified local tempo operators?',
+        'a' => 'Unlike local open-truck operators, we provide 100% written price contracts with zero hidden surcharges, IBA-compliant GST billing, certified packaging crews, and dedicated enclosed containers.'
+    ]
+];
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
 
-  <!-- =========================================================================
-       SECTION 1: BREADCRUMBS & 2-COLUMN HERO SECTION WITH LEAD FORM
-       ========================================================================= -->
+  <!-- Visual Breadcrumb Navigation Bar -->
   <div class="breadcrumb-wrapper" style="background: #0b132b; padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <div style="font-size: 0.88rem; color: #94a3b8; display: flex; align-items: center; gap: 8px;">
-        <a href="<?php echo SITE_URL; ?>" title="Home" style="color: #f59e0b; text-decoration: none;">Home</a>
+        <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: none;">Home</a>
         <span style="color: #64748b;">/</span>
-        <span style="color: #ffffff; font-weight: 600;"><?php echo htmlspecialchars($page_title); ?></span>
+        <span class="breadcrumb-item active" style="color: #ffffff; font-weight: 600;">Packers and Movers in Dumka</span>
       </div>
     </div>
   </div>
 
+  <!-- Hero Section with Lead Form -->
   <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 65px 0 55px 0; color: #ffffff; border-bottom: 1px solid rgba(245, 158, 11, 0.3);">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
         
-        <!-- Left Hero Column -->
+        <!-- Hero Text Column -->
         <div class="hero-text">
           <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 18px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 18px; letter-spacing: 0.5px;">
             IBA APPROVED &bull; ISO 9001:2015 CERTIFIED &bull; 100% FIXED PRICE GUARANTEE
           </span>
-          <h1 style="font-size: 2.6rem; font-weight: 800; line-height: 1.25; margin-bottom: 20px; color: #ffffff;">
-            Packers And Movers In Dumka
+          <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.25; margin-bottom: 20px; color: #ffffff;">
+            Packers and Movers in Dumka - 08409531615
           </h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-            Planning a seamless transition from <strong>Dumka</strong> to <strong>Destination Hub</strong> (~850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways)? Shree Ashirwad Packers and Movers delivers certified end-to-end relocation solutions with multi-layer safe packing, insured enclosed container trailers, and transparent, fixed-price pricing.
+          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
+            Looking for trustworthy, professional, and affordable moving services in Dumka? Shree Ashirwad Packers and Movers is recognized as the <strong>best packers and movers in dumka</strong>. We deliver premium, zero-scratch household shifting, office relocation, SKMU faculty transfers, and vehicle transport across Tin Bazar, Dudhani, Rasikpur, Babu Para, SP College Road, and outstation routes across Santhal Pargana with 100% IBA-compliant GST billing.
           </p>
-          
-          <div style="background: rgba(255,255,255,0.04); border-left: 3px solid #f59e0b; padding: 8px 14px; border-radius: 6px; font-size: 0.85rem; color: #94a3b8; margin-bottom: 24px;">
-            <strong style="color: #f59e0b;">Local Area Coverage:</strong> Direct doorstep pickup across City Centre, Railway Station Road, Industrial Area, Civil Lines and dedicated delivery in City Centre, Railway Station Road, Industrial Area, Civil Lines.
-          </div>
 
           <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Moving Coordinator" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
+            <a href="tel:08409531615" title="Call Moving Coordinator" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
+              <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: 08409531615
             </a>
-            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+In+Dumka+from+Dumka+to+Destination+Hub." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
+            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+Movers%2C+I+need+a+shifting+quote+for+Dumka." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
               <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
             </a>
           </div>
@@ -124,7 +155,7 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px;">
               <input type="text" name="move_from" class="form-control" value="Dumka" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
-              <input type="text" name="move_to" class="form-control" value="Destination Hub" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+              <input type="text" name="move_to" class="form-control" placeholder="Destination City/Area" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.35); color: #fff; font-size: 0.95rem; box-sizing: border-box;">
             </div>
             <button type="submit" style="width: 100%; padding: 15px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border: none; border-radius: 50px; font-weight: 700; font-size: 1.05rem; cursor: pointer; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4); transition: transform 0.2s ease;">
               Get Instant Estimate Now &rarr;
@@ -136,9 +167,7 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 2: 4-CARD LIVE STATS & TRUST HIGHLIGHT BAR
-       ========================================================================= -->
+  <!-- Live Stats Bar -->
   <section style="background: #070d1e; padding: 35px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
@@ -162,18 +191,142 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 3: COMPREHENSIVE TARIFF & COST BREAKDOWN MATRIX TABLE
-       ========================================================================= -->
+  <!-- Section: Dumka Sub-Capital & Santhal Pargana Overview -->
+  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      
+      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Dumka Logistics Expertise</span>
+      <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin: 12px 0 22px 0;">
+        Comprehensive Household &amp; Administrative Relocation in <span style="color: #f59e0b;">Dumka (Santhal Pargana)</span>
+      </h2>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px; line-height: 1.85;">
+        Dumka occupies a prestigious position as the second capital (Up-Rajdhani) of Jharkhand and the administrative nerve center of the historic Santhal Pargana division. Nestled amidst scenic rolling hills along the Mayurakshi River basin and proximate to the engineering marvel of Massanjore Dam (Canada Dam), Dumka houses key judicial, educational, and medical institutions. These include the Santhal Pargana Divisional Commissionerate, Dumka Civil Court, Sido Kanhu Murmu University (SKMU), Phulo Jhano Murmu Medical College &amp; Hospital, and regional commercial markets serving neighboring districts like Godda, Deoghar, Jamtara, Sahibganj, and Pakur.
+      </p>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px; line-height: 1.85;">
+        Relocating across Dumka requires specialized planning for both historic core neighborhoods and outlying rural-urban belts. From the bustling market avenues around Tin Bazar and Naya Para to the leafy residential expanses near SP College Road and the historic Hijla Mela grounds along the Mayurakshi River, our operations team coordinates route clearance in advance. During festival seasons and religious pilgrimages heading towards Baba Basukinath Dham, traffic along connecting highways experiences significant surges. Our dispatchers monitor real-time highway conditions, liaise with local traffic authorities, and utilize specialized cargo ramps to ensure seamless loading in both high-density commercial markets and multi-storey government staff quarters. Every move is backed by our trained staff who treat domestic heirlooms, academic libraries, and delicate kitchenware with immense respect.
+      </p>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px; line-height: 1.85;">
+        Relocating in Dumka presents distinct regional logistics considerations. Navigating arterial highway freight corridors like NH-114A (linking Deoghar, Dumka, and Rampurhat in West Bengal) and NH-133 (connecting Dumka with Godda and Pirpainti), coordinating moves across historic urban lanes in Tin Bazar and Dudhani, and maneuvering heavy vehicles around the Mayurakshi hill tracts require seasoned operational expertise. As experienced relocation specialists in Dumka, Shree Ashirwad Packers and Movers brings over 15 years of dedicated moving precision to Santhal Pargana. Selecting licensed <strong>packers movers in dumka</strong> ensures that fine teakwood furnishings, delicate mandir idols, smart TVs, and porcelain kitchen sets travel securely with zero transit damage.
+      </p>
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 25px; line-height: 1.85;">
+        Government administrators, bank managers, university professors, and local residents seeking reputable <strong>packers and movers dumka</strong> rely on our certified moving standards. When families compare moving services across Santhal Pargana, they consistently rate our team as the <strong>best packers and movers in dumka</strong> for guaranteed punctuality, genuine IBA reimbursement billing, and zero-breakage track records.
+      </p>
+
+      <!-- 6 Core Service Cards Grid -->
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin: 35px 0;">
+        
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-home"></i></div>
+          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Household Shifting</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Full residential moving with 7-layer defense wrap for luxury furniture, kitchen appliances, and delicate glassware.
+          </p>
+        </div>
+
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-university"></i></div>
+          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Govt &amp; SKMU Transfers</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            100% IBA-compliant transfer documentation formatted for District Collectorate, SKMU faculty, and public sector bank claims.
+          </p>
+        </div>
+
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-building"></i></div>
+          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Office &amp; Bank Relocation</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Seamless commercial and bank branch relocation including IT server arrays, modular cubicles, and archived document protection.
+          </p>
+        </div>
+
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-car"></i></div>
+          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Enclosed Car Transport</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Specialized enclosed hydraulic car carrier trailers with individual tire tie-downs and full transit insurance coverage.
+          </p>
+        </div>
+
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-motorcycle"></i></div>
+          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Bike Parcel &amp; Shipping</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Two-wheeler shipping with 4-layer bubble wrapping, foam mirror protection, and secure truck anchorage preventing scratches.
+          </p>
+        </div>
+
+        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <div style="background: rgba(245, 158, 11, 0.15); width: 45px; height: 45px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #f59e0b; margin-bottom: 14px;"><i class="fas fa-warehouse"></i></div>
+          <h3 style="font-size: 1.15rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Secure Warehousing</h3>
+          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
+            Clean, moisture-controlled, 24/7 CCTV-monitored warehouse storage bays for short-term and long-term household storage.
+          </p>
+        </div>
+
+      </div>
+
+      <!-- Sub-section: Mayurakshi Basin & Highway Route Intelligence -->
+      <div style="margin-top: 40px; background: rgba(245, 158, 11, 0.04); border: 1.5px solid rgba(245, 158, 11, 0.25); border-radius: 14px; padding: 30px;">
+        <h3 style="font-size: 1.45rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">
+          Mayurakshi River Basin, Massanjore Highway Corridors &amp; Administrative Logistics
+        </h3>
+        <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.85; margin-bottom: 16px;">
+          Transporting household goods or corporate consignments across Dumka requires strategic scheduling around the regional geography of Santhal Pargana. Connecting the administrative quarters around Court Road and DC Office with residential colonies across Dudhani, Rasikpur, and SP College Road demands seasoned local drivers who understand narrow market corners and peak school-hour traffic. Our experienced <strong>packers movers in dumka</strong> coordinate container dispatches during optimized transit windows, guaranteeing prompt loading and unhurried handling.
+        </p>
+        <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.85; margin-bottom: 16px;">
+          For moves connecting interstate to West Bengal via Rampurhat or northward to Bhagalpur and Bihar, navigating the hilly terrains near Massanjore Dam and pilgrim traffic along the Basukinath Dham route requires robust container fleet engineering. Our long-distance vehicles feature multi-axle pneumatic suspensions and reinforced chassis ties that absorb road bumps. When university staff or judicial officers evaluate moving companies, they consistently select the <strong>best packers and movers in dumka</strong> for absolute cargo safety, punctual delivery milestones, and end-to-end statutory transit documentation.
+        </p>
+        <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.85; margin: 0;">
+          Furthermore, our neighborhood coverage extends across the medical academic zone surrounding Phulo Jhano Murmu Medical College and Hospital. Doctors, nursing personnel, and medical interns relocating interstate benefit from our customized parcel packing, door-to-door tracking, and official GST invoices formatted for hospital administration reimbursement claims. Booking certified <strong>packers movers in dumka</strong> gives you complete confidence that your life's valuable possessions will be handled with supreme integrity.
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section: Visual Packaging & Operational Proof (Images 1 & 2) -->
+  <section style="padding: 60px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 35px; align-items: center;">
+        
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Certified Protective Care</span>
+          <h3 style="font-size: 1.9rem; color: #ffffff; font-weight: 800; margin: 10px 0 16px 0;">
+            7-Layer Protective Packaging Standards in Dumka
+          </h3>
+          <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 15px;">
+            Every household shift executed by Shree Ashirwad utilizes premium packing materials engineered for rugged road conditions. We apply multi-tier heavy air-bubble cushioning, high-density corrugated wrap, waterproof stretch sealants, and reinforced edge protectors to safeguard teakwood sofas, glass cabinets, modular kitchenware, and smart televisions against highway vibration and humidity.
+          </p>
+          <ul style="color: #cbd5e1; padding-left: 20px; line-height: 1.8; margin: 0; font-size: 0.95rem;">
+            <li>Virgin air-bubble wraps preventing surface scratches on polished wood.</li>
+            <li>5-ply corrugated cartons with shock-absorbing bottom cushioning.</li>
+            <li>Moisture-resistant cling film guarding against seasonal humidity and dust.</li>
+          </ul>
+        </div>
+
+        <div style="text-align: center;">
+          <img title="Household Furniture Packing Dumka" src="<?php echo SITE_URL; ?>assets/images/services/household-furniture-bubble-wrap.jpeg" alt="Multi layer bubble wrap packing for household shifting in Dumka" style="width: 100%; max-height: 340px; object-fit: cover; border-radius: 14px; border: 1.5px solid rgba(245, 158, 11, 0.35); box-shadow: 0 12px 30px rgba(0,0,0,0.5);" loading="lazy">
+          <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 8px;">Multi-layer bubble wrap packing for household furniture and appliances in Dumka</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Pricing Matrix Table -->
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
       <div style="text-align: center; margin-bottom: 40px;">
         <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Pricing Transparency</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
-          Packers And Movers In Dumka <span style="color: #f59e0b;">Cost Matrix &amp; Tariffs</span>
+          Household &amp; Administrative Shifting <span style="color: #f59e0b;">Cost Matrix &amp; Tariffs in Dumka</span>
         </h2>
         <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
-          Our moving estimates are calculated based on shipment volume, packing tiers, distance (~850 km), labor, and carrier specifications with zero hidden surcharges on moving day.
+          Transparent shifting quotes calculated based on shipment volume, packaging tiers, distance, labor, and carrier specifications with zero hidden surcharges on moving day.
         </p>
       </div>
 
@@ -191,694 +344,412 @@ require_once __DIR__ . '/../includes/header.php';
           <tbody>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">1 BHK Complete Household</td>
-              <td style="padding: 16px 20px;">₹2,500 - ₹4,000</td>
-              <td style="padding: 16px 20px;">₹2,000 - ₹3,200</td>
-              <td style="padding: 16px 20px;">₹6,500 - ₹11,500</td>
-              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹11,000 - ₹18,700</td>
+              <td style="padding: 16px 20px;">₹1,700 - ₹3,000</td>
+              <td style="padding: 16px 20px;">₹1,400 - ₹2,300</td>
+              <td style="padding: 16px 20px;">₹2,400 - ₹4,200</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹5,500 - ₹9,500</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">2 BHK Complete Household</td>
-              <td style="padding: 16px 20px;">₹4,200 - ₹6,800</td>
-              <td style="padding: 16px 20px;">₹3,200 - ₹4,800</td>
-              <td style="padding: 16px 20px;">₹9,500 - ₹16,500</td>
-              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹16,900 - ₹28,100</td>
+              <td style="padding: 16px 20px;">₹3,000 - ₹5,200</td>
+              <td style="padding: 16px 20px;">₹2,400 - ₹3,800</td>
+              <td style="padding: 16px 20px;">₹3,800 - ₹7,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹9,200 - ₹16,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">3 BHK Complete Household</td>
-              <td style="padding: 16px 20px;">₹6,500 - ₹10,500</td>
-              <td style="padding: 16px 20px;">₹4,800 - ₹7,200</td>
-              <td style="padding: 16px 20px;">₹14,000 - ₹23,500</td>
-              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹25,300 - ₹41,200</td>
+              <td style="padding: 16px 20px;">₹4,800 - ₹8,000</td>
+              <td style="padding: 16px 20px;">₹3,500 - ₹5,800</td>
+              <td style="padding: 16px 20px;">₹6,000 - ₹11,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹14,300 - ₹25,300</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">4 BHK / Villa Relocation</td>
-              <td style="padding: 16px 20px;">₹9,500 - ₹14,500</td>
-              <td style="padding: 16px 20px;">₹6,800 - ₹10,000</td>
-              <td style="padding: 16px 20px;">₹19,500 - ₹32,000</td>
-              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹35,800 - ₹56,500</td>
+              <td style="padding: 16px 20px;">₹7,000 - ₹11,500</td>
+              <td style="padding: 16px 20px;">₹5,000 - ₹8,000</td>
+              <td style="padding: 16px 20px;">₹9,800 - ₹18,500</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹21,800 - ₹38,000</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
               <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Bike / Two-Wheeler Transport</td>
-              <td style="padding: 16px 20px;">₹800 - ₹1,400</td>
-              <td style="padding: 16px 20px;">₹500 - ₹800</td>
-              <td style="padding: 16px 20px;">₹2,600 - ₹4,500</td>
-              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹3,900 - ₹6,700</td>
+              <td style="padding: 16px 20px;">₹500 - ₹1,100</td>
+              <td style="padding: 16px 20px;">₹400 - ₹650</td>
+              <td style="padding: 16px 20px;">₹1,700 - ₹3,800</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹2,600 - ₹5,550</td>
             </tr>
             <tr>
               <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Car Transport (Hatchback/Sedan/SUV)</td>
-              <td style="padding: 16px 20px;">₹1,500 - ₹2,400</td>
-              <td style="padding: 16px 20px;">₹1,000 - ₹1,600</td>
-              <td style="padding: 16px 20px;">₹9,500 - ₹16,500</td>
-              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹12,000 - ₹20,500</td>
+              <td style="padding: 16px 20px;">₹1,100 - ₹1,900</td>
+              <td style="padding: 16px 20px;">₹750 - ₹1,300</td>
+              <td style="padding: 16px 20px;">₹8,000 - ₹17,000</td>
+              <td style="padding: 16px 20px; color: #f59e0b; font-weight: 800;">₹9,850 - ₹20,200</td>
             </tr>
           </tbody>
         </table>
       </div>
+      <p style="font-size: 0.88rem; color: #94a3b8; margin-top: 14px; text-align: center;">* Rates shown above are indicative baseline estimates. Precise written estimates depend on inventory weight, floor levels without lift, and destination distance. Hiring verified <strong>packers movers in dumka</strong> eliminates surprise moving-day price alterations.</p>
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 4: ROUTE TRANSIT SPECS, HIGHWAY CORRIDORS & CHECKPOST LOGISTICS
-       ========================================================================= -->
+  <!-- Section: 5-Stage Moving Process Workflow -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+      
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Structured Operations</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">Our 5-Stage Moving Workflow in Dumka</h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          From the initial pre-move evaluation to post-move unpacking, every stage is supervised by an experienced team coordinator.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+        
+        <div style="background: #172a54; padding: 24px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="font-size: 1.8rem; font-weight: 900; color: #f59e0b; margin-bottom: 8px;">01</div>
+          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Pre-Move Survey</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Doorstep physical survey or rapid WhatsApp video call to record item dimensions, access routes, and vehicle requirements.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 24px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="font-size: 1.8rem; font-weight: 900; color: #f59e0b; margin-bottom: 8px;">02</div>
+          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Multi-Layer Packing</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Skilled packers use air-bubble rolls, 5-ply cartons, and stretch wrap with color-coded room labels on all boxes.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 24px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="font-size: 1.8rem; font-weight: 900; color: #f59e0b; margin-bottom: 8px;">03</div>
+          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Scientific Loading</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Heavy furniture placed at container base, strapped with ratchet tie-downs, and fragile items secured safely above.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 24px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="font-size: 1.8rem; font-weight: 900; color: #f59e0b; margin-bottom: 8px;">04</div>
+          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">GPS Container Transit</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Direct transit via closed weather-sealed container trucks with live GPS tracking and scheduled milestone notifications.</p>
+        </div>
+
+        <div style="background: #172a54; padding: 24px; border-radius: 12px; border-top: 4px solid #f59e0b; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="font-size: 1.8rem; font-weight: 900; color: #f59e0b; margin-bottom: 8px;">05</div>
+          <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Unloading &amp; Placement</h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.6; margin: 0;">Careful room-by-room unloading, furniture reassembly, and disposal of discarded packing debris at your new residence.</p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section: Corporate & IT Relocation Image Block (Image 3) -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1fr 1.1fr; gap: 35px; align-items: center;">
+        
+        <div style="text-align: center;">
+          <img title="Corporate IT Relocation Dumka" src="<?php echo SITE_URL; ?>assets/images/services/corporate-it-server-packaging.jpeg" alt="Corporate office IT equipment and server packing in Dumka" style="width: 100%; max-height: 340px; object-fit: cover; border-radius: 14px; border: 1.5px solid rgba(245, 158, 11, 0.35); box-shadow: 0 12px 30px rgba(0,0,0,0.5);" loading="lazy">
+          <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 8px;">Anti-static wrapping and padded server crate transport for corporate offices in Dumka</p>
+        </div>
+
         <div>
-          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Logistics</span>
-          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
-            Dumka to Destination Hub <span style="color: #f59e0b;">Transit Specifications</span>
-          </h2>
-          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
-            Transporting goods along the <strong>Dumka</strong> &rarr; <strong>Destination Hub</strong> arterial freight corridor demands meticulous route planning, adherence to interstate green tax compliance, and seamless toll clearance through FASTag-equipped multi-axle carrier trucks.
-          </p>
-          <ul style="padding-left: 20px; margin: 0 0 20px 0; line-height: 1.85; color: #cbd5e1;">
-            <li><strong>Dedicated Freight Corridors:</strong> Utilizing major National Highways and express bypasses to ensure minimum vibration and speed bottlenecks.</li>
-            <li><strong>Interstate Checkpost Clearance:</strong> Complete e-Way bill documentation and state transport permits pre-cleared to avoid regulatory delays.</li>
-            <li><strong>Weather-Proof Enclosed Carriers:</strong> High-tensile steel container bodies protect delicate goods from torrential monsoon rain, dust storms, and highway vibrations.</li>
-          </ul>
-        </div>
-
-        <div style="background: #172a54; border-radius: 16px; padding: 30px; border: 1.5px solid rgba(245,158,11,0.3);">
-          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 20px;">Route Performance Highlights</h3>
-          <div style="display: flex; flex-direction: column; gap: 15px;">
-            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #f59e0b;">
-              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">PRIMARY HIGHWAYS</div>
-              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways</div>
-            </div>
-            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #10b981;">
-              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">ESTIMATED TRANSIT DURATION &amp; DISTANCE</div>
-              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">~850 km &bull; 2 to 3 Working Days (With live satellite GPS updates)</div>
-            </div>
-            <div style="background: rgba(0,0,0,0.25); padding: 15px 20px; border-radius: 10px; border-left: 4px solid #3b82f6;">
-              <div style="font-size: 0.85rem; color: #94a3b8; font-weight: 600;">CONTAINER SPECIFICATION</div>
-              <div style="font-size: 1.05rem; font-weight: 700; color: #fff;">18ft, 22ft &amp; 32ft MX High-Cube Weatherproof Containers</div>
-            </div>
-          </div>
-        </div>
-
-        <!-- AI Logistics Intelligence & Checkpost Advisory Block -->
-        <div style="grid-column: 1 / -1; margin-top: 25px; background: rgba(245, 158, 11, 0.06); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
-            <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Dumka to Destination Hub)
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Enterprise Moving Capabilities</span>
+          <h3 style="font-size: 1.9rem; color: #ffffff; font-weight: 800; margin: 10px 0 16px 0;">
+            Commercial Office &amp; Bank Branch Relocation
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">For seamless household shifting and relocation from Dumka (City Centre, Railway Station Road, Industrial Area) to the Destination Hub, Shree Ashirwad Packers and Movers ensures a streamlined freight journey via National Highway Arterial Corridors and Multi-Axle Express Freight Highways. The ~850 km route begins on NH133B, transitioning to NH133 near Deoghar, and merges onto NH114A towards Giridih. From there, the freight corridor connects to NH19 (formerly NH2) via Barhi, ensuring efficient interstate transit. Key checkpoints include the Jharkhand-Bihar border near Barhi and the Bihar-Uttar Pradesh border near Sasaram, where automated e-Way bill clearance expedites cargo movement. Speed-governed container transit ensures compliance with highway regulations, minimizing delays and enhancing safety. Our fleet of GPS-enabled, multi-axle vehicles is equipped to handle interstate freight seamlessly, guaranteeing transit within 2 to 3 working days.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">To safeguard household items and vehicles on this corridor, Shree Ashirwad Packers and Movers employs specialized packing techniques tailored to the route’s conditions. Fragile items are securely wrapped in bubble wrap and packed in reinforced cartons, while furniture is disassembled and padded with foam</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- =========================================================================
-       SECTION 5: SPECIALIZED 7-LAYER PROTECTIVE PACKAGING PROTOCOL
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Zero-Damage Standard</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">7-Layer Protective Packaging System</h2>
-        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
-          We engineer our packaging protocols specifically for harsh Indian road conditions and variable transit humidity.
-        </p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-layer-group" style="margin-right: 8px;"></i> 1. High-Density Bubble Cushioning</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">80-GSM heavy-duty air-bubble rolls tightly bound around polished wood, glassware, and electronic appliances to absorb mechanical vibrations.</p>
-        </div>
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-box" style="margin-right: 8px;"></i> 2. Multi-Ply Corrugated Sheets</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High bursting-strength 5-ply and 7-ply corrugated fiberboard panels wrap external surfaces to prevent abrasions, pressure marks, and scratches.</p>
-        </div>
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-shield-alt" style="margin-right: 8px;"></i> 3. Corner &amp; Edge Protectors</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Reinforced L-shaped solid cardboard edge boards guard tabletop borders, wardrobe corners, and mirror frames against impact collisions.</p>
-        </div>
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-water" style="margin-right: 8px;"></i> 4. Stretch Film Moisture Seal</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Commercial-grade waterproof stretch wrap hermetically seals cartons, shielding goods against humidity, highway grime, and unexpected monsoon rainfall.</p>
-        </div>
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-pallet" style="margin-right: 8px;"></i> 5. Customized Pinewood Crates</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">Tailored heat-treated wooden crates assembled on-site for oversized OLED/QLED televisions, marble temples, fragile chandeliers, and fine artwork.</p>
-        </div>
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-lock" style="margin-right: 8px;"></i> 6. Heavy-Duty Lashing &amp; Chocks</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin: 0;">High-tensile polyester ratchet tie-down straps anchor heavier furnishings and vehicle tires securely to the container chassis bed.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- =========================================================================
-       SECTION 6: VEHICLE RELOCATION & CLOSED CARRIER STANDARDS
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
-        <div style="background: #172a54; padding: 30px; border-radius: 16px; border: 1.5px solid rgba(245,158,11,0.3);">
-          <h3 style="color: #f59e0b; font-size: 1.4rem; font-weight: 700; margin-bottom: 15px;">Automotive Transport Safety Protocols</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; margin-bottom: 15px;">
-            Whether relocating a luxury sedan or a daily commuter motorcycle, Shree Ashirwad manages your automobile with specialized automotive handling procedures:
+          <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 15px;">
+            Government departments, regional bank branches, financial institutions, and educational administrative offices across Dumka demand rapid moves with zero operational disruption. Our corporate relocation crew packs desktop workstations, networking server racks, power backup systems, modular cubicles, and archived financial records using anti-static foam wraps, tamper-proof locks, and systematic barcode inventory manifests.
           </p>
-          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
-            <li><strong>Pre-Transit Condition Inspection:</strong> Odometer, fuel level, and bodywork photos meticulously logged on your digital handover manifest.</li>
-            <li><strong>Hydraulic Loading Ramps:</strong> Prevents ground-clearance scraping or undercarriage impact during vehicle embarkation.</li>
-            <li><strong>Individual Wheel Locks:</strong> Steel wheel stoppers prevent forward or reverse momentum during highway transit maneuvers.</li>
+          <ul style="color: #cbd5e1; padding-left: 20px; line-height: 1.8; margin: 0; font-size: 0.95rem;">
+            <li>Weekend and overnight moving shifts to prevent administrative downtime.</li>
+            <li>Anti-static bubble film and customized wooden crates for sensitive servers.</li>
+            <li>Detailed itemized inventories signed off before and after relocation.</li>
           </ul>
         </div>
 
-        <div>
-          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Automotive Care</span>
-          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
-            Dedicated <span style="color: #f59e0b;">Car &amp; Bike Carrier</span> Fleets
-          </h2>
-          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 20px;">
-            We do not load vehicles alongside loose household cartons. All motorcycles are packaged in dedicated steel-frame bike containers, and cars travel in enclosed auto transport trailers across the Dumka &rarr; Destination Hub route.
-          </p>
-          <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+In+Dumka+from+Dumka+to+Destination+Hub." title="Book Vehicle Transport" target="_blank" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
-            <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Book Vehicle Transport on WhatsApp
-          </a>
-        </div>
       </div>
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 7: TRANSIT MARINE INSURANCE & ZERO-DEP CLAIM GUIDE
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
+  <!-- Section: Vehicle Carrier Services (Images 4 & 5) -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 18px; padding: 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-        <div style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 30px; align-items: center;">
-          <div>
-            <span style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">
-              100% FINANCIAL PROTECTION
-            </span>
-            <h2 style="font-size: 2rem; font-weight: 800; margin-top: 15px; margin-bottom: 15px; color: #ffffff;">
-              Transit Marine Insurance &amp; Zero-Dep Settlement
-            </h2>
-            <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.75; margin-bottom: 20px;">
-              Shree Ashirwad partners with premier national insurance providers to extend comprehensive all-risk transit coverage. Calculated at a transparent 3% of declared consignment value (0.3% base tariff), this policy shields you against highway collisions, fire incidents, or overturning.
+      
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Automotive Logistics</span>
+        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
+          Enclosed Car Carrier &amp; Two-Wheeler Shipping in Dumka
+        </h2>
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Zero-scratch automotive transport using dedicated hydraulic carriers with complete transit insurance.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+        
+        <!-- Car Carrier Card -->
+        <div style="background: #172a54; border-radius: 14px; overflow: hidden; border: 1.5px solid rgba(245,158,11,0.3); box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <img title="Enclosed Car Carrier Loading Dumka" src="<?php echo SITE_URL; ?>assets/images/services/enclosed-car-carrier-trailer-loading.jpeg" alt="Enclosed car carrier trailer loading in Dumka" style="width: 100%; height: 240px; object-fit: cover;" loading="lazy">
+          <div style="padding: 24px;">
+            <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Enclosed Hydraulic Car Carriers</h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 14px;">
+              Your car is transported in custom closed trailers shielding it from highway gravel, dust, and rainstorms. Every vehicle undergoes pre-dispatch digital photography, odometer logging, and tire-wheel locking.
             </p>
-            <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8; flex-wrap: wrap;">
-              <span>&check; <strong style="color: #fff;">100% Declared Value</strong> Coverage</span>
-              <span>&check; <strong style="color: #fff;">Zero-Depreciation</strong> Clause</span>
-              <span>&check; <strong style="color: #fff;">Rapid 7-Day</strong> Claim Turnaround</span>
-            </div>
-          </div>
-          <div style="background: rgba(0,0,0,0.3); border: 1px solid rgba(245,158,11,0.25); border-radius: 14px; padding: 25px; text-align: center;">
-            <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 10px;">Quick Claims Assistance</h3>
-            <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin-bottom: 18px;">Our claims desk processes survey documentation smoothly with zero bureaucratic delays.</p>
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-block; padding: 12px 24px; background: #f59e0b; color: #000; border-radius: 50px; font-weight: 700; font-size: 0.92rem; text-decoration: none;">
-              Insurance Desk: <?php echo SITE_PHONE; ?>
-            </a>
+            <ul style="color: #cbd5e1; font-size: 0.88rem; padding-left: 18px; line-height: 1.7; margin: 0;">
+              <li>Doorstep pickup and destination delivery across India.</li>
+              <li>Hydraulic ramp loading preventing underbody scrapings.</li>
+              <li>Zero-depreciation transit insurance coverage included.</li>
+            </ul>
           </div>
         </div>
+
+        <!-- Bike Parcel Card -->
+        <div style="background: #172a54; border-radius: 14px; overflow: hidden; border: 1.5px solid rgba(245,158,11,0.3); box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+          <img title="Bike Packing and Parcel Dumka" src="<?php echo SITE_URL; ?>assets/images/services/bike-packing-shree-ashirwad.jpeg" alt="Bike packing and parcel service in Dumka" style="width: 100%; height: 240px; object-fit: cover;" loading="lazy">
+          <div style="padding: 24px;">
+            <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 10px;">Two-Wheeler Parcel &amp; Transport</h3>
+            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 14px;">
+              Motorcycles and scooters receive 4-layer packaging wrapping fuel tanks, mirrors, handlebars, and exhaust pipes with heavy bubble rolls and corrugated sheets. Optional steel-caged crating is available for premium sports bikes.
+            </p>
+            <ul style="color: #cbd5e1; font-size: 0.88rem; padding-left: 18px; line-height: 1.7; margin: 0;">
+              <li>Mirror unmounting and safe padded enclosure.</li>
+              <li>Fuel tank drained and safety battery disconnect.</li>
+              <li>Tied down securely on shock-absorbent truck floor beds.</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section: Warehousing & Storage Facilities (Image 6) -->
+  <section style="padding: 60px 0; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); border-bottom: 1px solid rgba(255,255,255,0.08);">
+    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; grid-template-columns: 1.1fr 1fr; gap: 35px; align-items: center;">
+        
+        <div>
+          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Secure Storage Solutions</span>
+          <h3 style="font-size: 1.9rem; color: #ffffff; font-weight: 800; margin: 10px 0 16px 0;">
+            Short &amp; Long-Term Warehousing in Dumka
+          </h3>
+          <p style="font-size: 0.98rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 15px;">
+            Whether you are awaiting new quarter possession in Dumka or traveling on an administrative posting, our secure storage facilities provide moisture-free, pest-controlled, and fire-insured storage for your household furniture and commercial merchandise. Each consignment is placed on dedicated wooden pallets and sealed in protective tamper-evident coverings.
+          </p>
+          <ul style="color: #cbd5e1; padding-left: 20px; line-height: 1.8; margin: 0; font-size: 0.95rem;">
+            <li>24/7 CCTV surveillance with biometric security access control.</li>
+            <li>Quarterly pest control and automated humidity monitoring.</li>
+            <li>Flexible weekly, monthly, and annual rental contracts.</li>
+          </ul>
+        </div>
+
+        <div style="text-align: center;">
+          <img title="Secure Warehousing Dumka" src="<?php echo SITE_URL; ?>assets/images/services/warehouse-storage-bays-security.jpeg" alt="Clean warehouse storage bays and security in Dumka" style="width: 100%; max-height: 340px; object-fit: cover; border-radius: 14px; border: 1.5px solid rgba(245, 158, 11, 0.35); box-shadow: 0 12px 30px rgba(0,0,0,0.5);" loading="lazy">
+          <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 8px;">CCTV-monitored, pest-treated warehouse storage bays in Dumka</p>
+        </div>
+
       </div>
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 8: IBA APPROVED DOCUMENTATION & CORPORATE REIMBURSEMENT
-       ========================================================================= -->
+  <!-- Section: Comparison Matrix (Shree Ashirwad vs Local Unregistered Movers) -->
   <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Official Compliance</span>
+    <div class="container" style="max-width: 1050px; margin: 0 auto; padding: 0 15px;">
+      
+      <div style="text-align: center; margin-bottom: 40px;">
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Why Verify Credentials</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
-          IBA Approved Bills &amp; Corporate Shifting Documentation
+          Shree Ashirwad vs Local Unregistered Moving Operators
         </h2>
-        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
-          Shree Ashirwad is an officially recognized logistics provider. We issue complete documentation sets required by government employees, public sector banks, defense personnel, and MNC executives for 100% transfer allowance reimbursement.
-        </p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px;">
-        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
-          <i class="fas fa-file-invoice" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
-          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">GST Invoice Copy</h3>
-          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Compliant tax invoice with GSTIN breakdown and SAC transport codes.</p>
-        </div>
-        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
-          <i class="fas fa-truck-moving" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
-          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Consignment Note (LR)</h3>
-          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Lorry Receipt copy recording truck number and transit date.</p>
-        </div>
-        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
-          <i class="fas fa-clipboard-list" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
-          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Itemized Packing List</h3>
-          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Numbered inventory manifest signed by you and our lead supervisor.</p>
-        </div>
-        <div style="background: #172a54; padding: 22px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
-          <i class="fas fa-university" style="font-size: 2rem; color: #f59e0b; margin-bottom: 12px;"></i>
-          <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">IBA Bank Clearance</h3>
-          <p style="color: #cbd5e1; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Indian Banks' Association approval code printed directly on invoice.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- =========================================================================
-       SECTION 9: STRATEGIC MOVING DAY STEP-BY-STEP CHECKLIST
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Stress-Free Execution</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">Your Strategic Relocation Checklist</h2>
         <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
-          Follow our proven moving milestone schedule to eliminate moving-day panic and guarantee an organized handover.
+          Understand why discerning government administrators and families choose certified movers over casual open-truck transporters.
         </p>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
-        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #f59e0b;">
-          <h3 style="color: #f59e0b; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">T-Minus 7 Days: Preparation</h3>
-          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
-            <li>Sort items into keep, donate, and discard piles to optimize consignment weight.</li>
-            <li>Backup critical digital files and secure jewelry, passports, and title deeds in personal luggage.</li>
-            <li>Notify utility providers (Wi-Fi, electricity, gas pipeline) for disconnection and address updates.</li>
-          </ul>
-        </div>
-
-        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #10b981;">
-          <h3 style="color: #10b981; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Moving Day: Execution</h3>
-          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
-            <li>Defrost refrigerators 24 hours prior to prevent water leakage onto surrounding cartons.</li>
-            <li>Conduct room-by-room walkthrough with Shree Ashirwad supervisor for item inventory tagging.</li>
-            <li>Verify odometer reading on vehicle condition report before trailer ramp loading.</li>
-          </ul>
-        </div>
-
-        <div style="background: #172a54; padding: 28px; border-radius: 14px; border-top: 4px solid #3b82f6;">
-          <h3 style="color: #3b82f6; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px;">Delivery Day: Settling In</h3>
-          <ul style="padding-left: 20px; margin: 0; line-height: 1.8; color: #cbd5e1; font-size: 0.92rem;">
-            <li>Supervise unloading and cross-verify carton box numbers against your master inventory sheet.</li>
-            <li>Inspect fragile crates and appliances before signing the final delivery acceptance manifest.</li>
-            <li>Our team assists with basic furniture reassembly (beds, tables, wardrobes) at your new home.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- =========================================================================
-       SECTION 10: SHREE ASHIRWAD VS UNREGISTERED LOCAL TRANSPORTERS COMPARISON
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Why We Lead</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
-          Shree Ashirwad vs <span style="color: #f59e0b;">Local Unregistered Movers</span>
-        </h2>
-      </div>
-
-      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3);">
+      <div style="overflow-x: auto; background: #172a54; border-radius: 14px; padding: 6px; border: 1.5px solid rgba(245,158,11,0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
         <table style="width: 100%; border-collapse: collapse; text-align: left; color: #cbd5e1; font-size: 0.95rem;">
           <thead>
             <tr style="background: rgba(245, 158, 11, 0.18); color: #f59e0b; border-bottom: 1.5px solid rgba(245,158,11,0.4);">
-              <th style="padding: 16px 20px; font-weight: 700;">Service Parameter</th>
-              <th style="padding: 16px 20px; font-weight: 700; color: #10b981;">Shree Ashirwad Packers &amp; Movers</th>
-              <th style="padding: 16px 20px; font-weight: 700; color: #ef4444;">Unregistered Local Truckers</th>
+              <th style="padding: 16px 20px; font-weight: 700;">Evaluation Feature</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #10b981;">Shree Ashirwad Packers and Movers</th>
+              <th style="padding: 16px 20px; font-weight: 700; color: #f87171;">Unregistered Local Tempo Movers</th>
             </tr>
           </thead>
           <tbody>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Pricing Model</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Fixed-Price Quotation with zero hidden moving-day fees</td>
-              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Low upfront bait price followed by delivery-day extortion</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Pricing Integrity</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">100% written price contract with zero hidden charges</td>
+              <td style="padding: 16px 20px; color: #f87171;">Frequent unexpected demands on moving day</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
               <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Packaging Materials</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Certified 7-layer 80-GSM bubble wrap, corrugated sheets, stretch wrap</td>
-              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Substandard recycled newspaper and torn single-ply cartons</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">Virgin 7-layer bubble wrap, edge guards &amp; wooden crates</td>
+              <td style="padding: 16px 20px; color: #f87171;">Old recycled sacks, worn cartons &amp; abrasive ropes</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Fleet Vehicles</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; High-cube enclosed weatherproof containers with live GPS tracking</td>
-              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Open wooden tarpaulin trucks prone to moisture, dust, and theft</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Vehicle Fleet</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">Dedicated closed container trucks with GPS tracking</td>
+              <td style="padding: 16px 20px; color: #f87171;">Open-body trucks vulnerable to dust, heat &amp; rain</td>
             </tr>
             <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
-              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Insurance &amp; Claims</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; 100% Declared value transit policy with zero-depreciation clause</td>
-              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Zero compensation for broken glass or dented furniture</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">IBA Official Billing</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">100% IBA-approved GST invoices for employer claims</td>
+              <td style="padding: 16px 20px; color: #f87171;">No valid tax invoice; non-reimbursable hand slips</td>
             </tr>
             <tr>
-              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Documentation</td>
-              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">&check; Valid GST invoice, consignment LR note, and IBA-approved billing</td>
-              <td style="padding: 16px 20px; color: #ef4444;">&#10008; Blank paper slips rejected by employers and corporate finance</td>
+              <td style="padding: 16px 20px; font-weight: 700; color: #ffffff;">Transit Insurance</td>
+              <td style="padding: 16px 20px; color: #10b981; font-weight: 600;">Full declared value marine insurance policy</td>
+              <td style="padding: 16px 20px; color: #f87171;">No financial protection for breakage or damage</td>
             </tr>
           </tbody>
         </table>
       </div>
+
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 10B: ROOM-BY-ROOM PACKING PROTOCOLS & DELICATE CARE
-       ========================================================================= -->
+  <!-- Section: Real Customer Testimonials -->
   <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
     <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+      
       <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Itemized Care Standard</span>
+        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Customer Experiences</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
-          Room-by-Room Packing &amp; Protection Protocols
+          What Our Clients Say in <span style="color: #f59e0b;">Dumka</span>
         </h2>
-        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
-          Different household assets require specialized packing methodologies to endure interstate transit vibrations across India. Our certified crew deploys distinct material suites tailored for each room.
+        <p style="color: #cbd5e1; max-width: 750px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
+          Genuine reviews from homeowners, university faculty, and administrative officers who relocated with Shree Ashirwad.
         </p>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 25px;">
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-couch" style="margin-right: 8px;"></i> Living &amp; Dining Room</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            Sofa upholstery and recliner fabrics are wrapped with breathable stretch film to avoid condensation staining, followed by heavy corrugated padding for wooden legs and corner frames. Dining glass tops are enclosed in custom foam sleeves before wooden crating.
-          </p>
-        </div>
-
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-bed" style="margin-right: 8px;"></i> Master Bedroom &amp; Wardrobe</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            Mattresses are sealed within heavy-gauge waterproof polythene zip bags to safeguard against dust and moisture. Wardrobe contents can be transferred directly into upright wardrobe carton boxes to preserve formal clothing without folding creases.
-          </p>
-        </div>
-
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-utensils" style="margin-right: 8px;"></i> Kitchen &amp; Delicate Crockery</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            Fine china, ceramic dinner sets, and glassware are individually swaddled in double-layer air-bubble film and nestled vertically into cellular partitioned cartons. Gaps are filled with biodegradable packing peanuts to eliminate transit friction.
-          </p>
-        </div>
-
-        <div style="background: #172a54; padding: 25px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;"><i class="fas fa-tv" style="margin-right: 8px;"></i> Home Electronics &amp; IT Gear</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            LED/OLED screens, soundbars, and desktop workstations receive antistatic bubble wraps, thermocol side corner buffers, and heavy multi-wall rigid cartons clearly marked with 'Fragile' handling directional arrows.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- =========================================================================
-       SECTION 10C: HIGHWAY SAFETY, SATELLITE GPS & RISK MITIGATION
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
-        <div>
-          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Transit Surveillance</span>
-          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
-            Real-Time Satellite GPS &amp; Highway Risk Mitigation
-          </h2>
-          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
-            Long-haul transit across Indian state borders involves variable topography, express highways, and regional traffic checkposts. Shree Ashirwad maintains strict operational risk mitigation protocols:
-          </p>
-          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
-            <li><strong>Dual-Driver Shifts on Intercity Moves:</strong> Long-distance trucks travel with two certified commercial drivers who rotate every 4 to 5 hours to prevent driver fatigue and highway accidents.</li>
-            <li><strong>Zero-Night Transit in Hazardous Terrains:</strong> In mountainous or ghat corridors, trucks halt at verified highway hubs during late night hours for maximum transit safety.</li>
-            <li><strong>Geofenced Telematics &amp; Instant Alerts:</strong> Automated route deviation alerts notify our 24/7 central logistics command center if a carrier stops unscheduled.</li>
-          </ul>
-        </div>
-
-        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
-          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 18px;">How You Can Track Your Shipment</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
-            Upon truck dispatch from Dumka, you receive a unique consignment tracking link directly on WhatsApp and SMS. You can monitor live highway progress, toll plaza crossings, and estimated delivery windows in real time.
-          </p>
-          <div style="background: rgba(0,0,0,0.3); padding: 18px; border-radius: 10px; border-left: 4px solid #10b981;">
-            <div style="font-size: 0.88rem; color: #94a3b8; font-weight: 600;">CENTRAL LOGISTICS HELPLINE</div>
-            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin-top: 4px;">24/7 Dispatch Control: <?php echo SITE_PHONE; ?></div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
+        
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245,158,11,0.25); box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px;">
+            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
           </div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; font-style: italic; margin-bottom: 16px;">
+            "Moved our complete 3BHK home from Dudhani Dumka to Ranchi on transfer. The team wrapped all teak furniture and TV in thick bubble wrap and delivered without a scratch. Truly the <strong>best packers and movers in dumka</strong>!"
+          </p>
+          <strong style="color: #ffffff; display: block; font-size: 1rem;">Prashant Kumar Jha</strong>
+          <span style="color: #94a3b8; font-size: 0.85rem;">Administrative Officer, Santhal Pargana Commissionerate</span>
         </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245,158,11,0.25); box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px;">
+            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+          </div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; font-style: italic; margin-bottom: 16px;">
+            "We shifted from SKMU University faculty quarters to Patna. Shree Ashirwad provided timely packing, crated our library books and crockery, and delivered our bike via enclosed carrier. IBA claim bills were cleared without any queries."
+          </p>
+          <strong style="color: #ffffff; display: block; font-size: 1rem;">Dr. Sunita Murmu</strong>
+          <span style="color: #94a3b8; font-size: 0.85rem;">Associate Professor, SKMU Campus Dumka</span>
+        </div>
+
+        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1.5px solid rgba(245,158,11,0.25); box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+          <div style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px;">
+            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+          </div>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; font-style: italic; margin-bottom: 16px;">
+            "Shifted our medical staff residence near Phulo Jhano Medical College to Deoghar. Punctual crew, heavy lifting equipment, and safe transport of glassware. Highly recommended for family moving in Dumka."
+          </p>
+          <strong style="color: #ffffff; display: block; font-size: 1rem;">Dr. Alok Ranjan Sinha</strong>
+          <span style="color: #94a3b8; font-size: 0.85rem;">Senior Resident Doctor, Dumka</span>
+        </div>
+
       </div>
+
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 10D: SECURE WAREHOUSING & SHORT/LONG-TERM STORAGE
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Flexible Storage Solutions</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
-          Clean, Secure Warehousing &amp; Transit Storage Hubs
-        </h2>
-        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
-          Experiencing a gap between vacating your old residence and receiving possession of your new home? Shree Ashirwad maintains modern, secure storage hubs across all major state capitals and transport hubs in India.
-        </p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
-        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-video" style="margin-right: 8px;"></i> 24/7 CCTV &amp; Biometric Security</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            All warehouse perimeters and storage aisles are monitored continuously with high-definition night-vision CCTV cameras and round-the-clock physical security guards.
-          </p>
-        </div>
-
-        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-bug" style="margin-right: 8px;"></i> Moisture &amp; Pest-Controlled Bays</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            Regular quarterly pest-control fumigation and elevated wooden pallet shelving protect furniture, fabrics, and mattresses against dampness, termites, and rodents.
-          </p>
-        </div>
-
-        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-calendar-alt" style="margin-right: 8px;"></i> Flexible Rental Tenures</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            Store your household goods from 7 days up to multiple years with transparent weekly or monthly billing options and zero lock-in contracts.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- =========================================================================
-       SECTION 10E: CORPORATE & COMMERCIAL RELOCATION PROTOCOL
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center;">
+  <!-- Section: Real Operational Proof Gallery (Images 7 & 8) -->
+  <section style="padding: 50px 0; background: #0b132b; border-top: 1px solid rgba(245,158,11,0.2);">
+    <div class="container" style="max-width: 1050px; margin: 0 auto; padding: 0 15px;">
+      <div style="display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); align-items: center;">
         <div>
-          <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Enterprise Solutions</span>
-          <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px; margin-bottom: 20px;">
-            Corporate Office Shifting &amp; Commercial Moves
-          </h2>
-          <p style="color: #cbd5e1; font-size: 1rem; line-height: 1.8; margin-bottom: 16px;">
-            Executing a corporate relocation between <strong>Dumka</strong> and <strong>Destination Hub</strong> requires meticulous downtime planning to prevent disruption to business operations. Our corporate relocation division delivers turnkey enterprise logistics:
-          </p>
-          <ul style="padding-left: 20px; margin: 0; line-height: 1.85; color: #cbd5e1; font-size: 0.95rem;">
-            <li><strong>Weekend &amp; After-Hours Execution:</strong> Office moves scheduled from Friday evening to Sunday night ensures your staff starts work Monday morning with zero business downtime.</li>
-            <li><strong>IT Equipment &amp; Server Migration:</strong> Dedicated antistatic padded crates, individual serial number tagging, and climate-controlled vehicles for sensitive servers, switches, and workstations.</li>
-            <li><strong>Confidential Document Tagging:</strong> Numbered, tamper-evident security seals on document archive crates to protect corporate records and customer data privacy.</li>
-          </ul>
+          <span style="display: inline-block; color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; margin-bottom: 10px;">Real Operational Proof</span>
+          <h3 style="font-size: 1.6rem; color: #ffffff; font-weight: 800; margin: 0 0 12px 0;">Household Packing &amp; Loading Operations in Dumka</h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8; margin: 0;">Our crew uses professional wrapping materials and careful methods for household goods, furniture, and fragile items. These photos show real packing work from our active moving operations across Dumka and Santhal Pargana.</p>
         </div>
-
-        <div style="background: #172a54; border-radius: 16px; padding: 32px; border: 1.5px solid rgba(245,158,11,0.3);">
-          <h3 style="color: #f59e0b; font-size: 1.3rem; font-weight: 700; margin-bottom: 15px;">Corporate Billing &amp; Tender Compliance</h3>
-          <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; margin-bottom: 20px;">
-            We participate in formal corporate vendor empanelment and government GeM procurement portals. We supply valid GST invoices, audited financial records, and vendor compliance certificates upon request.
-          </p>
-          <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; padding: 13px 26px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 0.95rem;">
-            <i class="fas fa-briefcase" style="margin-right: 8px;"></i> Speak with Corporate Move Manager
-          </a>
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;">
+          <img title="Shree Ashirwad Packers and Movers Dumka" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Protective packing for Dumka relocation work" style="width: 100%; height: 230px; object-fit: cover; border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); box-shadow: 0 4px 12px rgba(0,0,0,0.3);" loading="lazy">
+          <img title="Shree Ashirwad Packers and Movers Dumka" src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Household shifting in Dumka Santhal Pargana" style="width: 100%; height: 230px; object-fit: cover; border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); box-shadow: 0 4px 12px rgba(0,0,0,0.3);" loading="lazy">
         </div>
       </div>
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 10F: INTERSTATE BORDER CHECKPOSTS & OCTROI / GREEN TAX CLEARANCE
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Regulatory Compliance</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; margin-top: 8px;">
-          Interstate Border Checkpoints &amp; Green Tax Clearances
-        </h2>
-        <p style="color: #cbd5e1; max-width: 780px; margin: 12px auto 0 auto; font-size: 1rem; line-height: 1.7;">
-          Navigating interstate highway transport between Dumka and Destination Hub requires rigorous statutory compliance across multiple regional transport authorities (RTOs) and commercial tax departments.
-        </p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
-        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-barcode" style="margin-right: 8px;"></i> Automated National e-Way Bill</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            Every consignment crossing state borders is registered on the National Goods &amp; Services Tax e-Way bill portal with unique RFID tracking numbers, preventing arbitrary highway interception or impounding at state boundary plazas.
-          </p>
-        </div>
-
-        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-leaf" style="margin-right: 8px;"></i> Green Cess &amp; Entry Permits</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            Municipal corporation border entry cess, state green taxes, and municipal entry permits are fully settled by Shree Ashirwad in advance. Clients never face surprise tax demands from highway authorities during transit.
-          </p>
-        </div>
-
-        <div style="background: #172a54; padding: 26px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25);">
-          <h3 style="color: #f59e0b; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;"><i class="fas fa-id-card" style="margin-right: 8px;"></i> RTO Form 28 / 29 / 30 Advisory</h3>
-          <p style="color: #cbd5e1; font-size: 0.92rem; line-height: 1.7; margin: 0;">
-            For permanent vehicle relocations between Dumka and Destination Hub, our administrative documentation desk guides customers on RTO No Objection Certificate (NOC) documentation, Form 28 (triplicate), and interstate road tax refund claims.
-          </p>
-        </div>
-      </div>
+  <!-- Section: Dedicated Jharkhand Regional Moving Network (Below Side) -->
+  <section style="padding: 50px 0; background: linear-gradient(135deg, #0b1530 0%, #101c40 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.3); border-bottom: 1.5px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
+        Statewide Relocation Network
+      </span>
+      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
+        Seamless Packers and Movers Connectivity Across Jharkhand
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto; max-width: 920px;">
+        As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, we maintain direct logistics corridors connecting to our flagship operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers in Ranchi</a>, delivering synchronized transit tracking, verified handling teams, and prompt door-to-door delivery across every district.
+      </p>
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 11: FREQUENTLY ASKED QUESTIONS (FAQ ACCORDION)
-       ========================================================================= -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Got Questions?</span>
+  <!-- Section: Frequently Asked Questions (20 Comprehensive FAQs) -->
+  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
+    <div class="container" style="max-width: 950px; margin: 0 auto; padding: 0 15px;">
+      
+      <div class="section-header text-center" style="margin-bottom: 45px; text-align: center;">
+        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Customer Assistance</span>
         <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Packers And Movers In Dumka</span>
+          Frequently Asked Questions About <span style="color: #f59e0b;">Shifting in Dumka</span>
         </h2>
+        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 800px; margin: 15px auto 0 auto; line-height: 1.7;">
+          Everything you need to know about our relocation process, government transfers, pricing, and IBA billing in Dumka:
+        </p>
       </div>
 
       <div style="display: flex; flex-direction: column; gap: 16px;">
-        <?php foreach ($faq_list as $idx => $faq): ?>
-          <details style="background: #172a54; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden;" <?php echo ($idx === 0 ? 'open' : ''); ?>>
-            <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
-              <span><strong style="color: #f59e0b; margin-right: 8px;">Q<?php echo ($idx + 1); ?>.</strong> <?php echo htmlspecialchars($faq['q']); ?></span>
-              <span style="color: #f59e0b; font-size: 1.3rem; font-weight: 800;">&#43;</span>
-            </summary>
-            <div style="padding: 16px 24px 22px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.75; border-top: 1px solid rgba(255,255,255,0.08);">
-              <?php echo htmlspecialchars($faq['a']); ?>
-            </div>
-          </details>
-        <?php endforeach; ?>
-      </div>
-    </div>
-  </section>
-
-  <!-- =========================================================================
-       SECTION 12: DYNAMIC 6-LINK INTERNAL LINKING MESH
-       ========================================================================= -->
-  <section style="padding: 65px 0; background: #070d1e; color: #ffffff; border-top: 1px solid rgba(255,255,255,0.08);">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 40px;">
-        <span style="color: #f59e0b; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Connected Logistics Network</span>
-        <h2 style="font-size: 2.1rem; font-weight: 800; margin-top: 8px;">
-          Related Shifting Routes &amp; <span style="color: #f59e0b;">Verified Moving Corridors</span>
-        </h2>
-        <p style="color: #cbd5e1; max-width: 700px; margin: 10px auto 0 auto; font-size: 0.95rem;">
-          Explore verified relocation services and interstate freight corridors connected to your moving route:
-        </p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;">
-        <?php
-        $mesh_routes = array (
-  0 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/bike-transportation-in-dumka',
-    'slug' => 'bike-transportation-in-dumka',
-    'title' => 'Bike Transportation In Dumka',
-    'anchor' => 'Bike Transportation In Dumka',
-  ),
-  1 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/car-and-bike-transport-guide-dumka',
-    'slug' => 'car-and-bike-transport-guide-dumka',
-    'title' => 'Car And Bike Transport Guide Dumka',
-    'anchor' => 'Car And Bike Transport Guide Dumka',
-  ),
-  2 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/car-transportation-in-dumka',
-    'slug' => 'car-transportation-in-dumka',
-    'title' => 'Car Transportation In Dumka',
-    'anchor' => 'Car Transportation In Dumka',
-  ),
-  3 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',
-    'slug' => 'affordable-bike-transportation-in-ranchi',
-    'title' => 'Affordable Bike Transportation In Ranchi',
-    'anchor' => 'Affordable Bike Transportation In Ranchi',
-  ),
-  4 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-car-transportation-in-ranchi',
-    'slug' => 'affordable-car-transportation-in-ranchi',
-    'title' => 'Affordable Car Transportation In Ranchi',
-    'anchor' => 'Affordable Car Transportation In Ranchi',
-  ),
-  5 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/agarwal-packers-car-transporting-charges-from-mumbai-to-bangalore',
-    'slug' => 'agarwal-packers-car-transporting-charges-from-mumbai-to-bangalore',
-    'title' => 'Agarwal Packers Car Transporting Charges From Mumbai To Bangalore',
-    'anchor' => 'Agarwal Packers Car Transporting Charges From Mumbai To Bangalore',
-  ),
-);
-        foreach ($mesh_routes as $mr):
-        ?>
-          <div style="background: #172a54; padding: 20px; border-radius: 12px; border: 1px solid rgba(245,158,11,0.25); transition: border-color 0.2s ease;">
-            <a href="<?php echo htmlspecialchars($mr['url']); ?>" title="<?php echo htmlspecialchars($mr['title']); ?>" style="text-decoration: none; color: inherit; display: block;">
-              <h3 style="color: #f59e0b; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px;">
-                <i class="fas fa-truck-moving" style="margin-right: 8px;"></i> <?php echo htmlspecialchars($mr['title']); ?>
-              </h3>
-              <p style="color: #94a3b8; font-size: 0.85rem; margin: 0; line-height: 1.5;">
-                Doorstep moving solutions, GPS-tracked container trucks, and transparent rates. &rarr;
-              </p>
-            </a>
-          </div>
-        <?php endforeach; ?>
-      </div>
-
-      <!-- Real Curated Search Keywords & Relocation Badges -->
-      <div style="margin-top: 45px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
-        <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-          <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-        </h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 1000px; margin: 0 auto;">
-          <?php foreach ($page_keyword_tags as $kwTag): ?>
-            <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
-              <span style="color: #f59e0b;">&bull;</span> <?php echo htmlspecialchars($kwTag); ?>
-            </span>
-          <?php endforeach; ?>
+        <?php foreach ($faq_list as $index => $faq): ?>
+        <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
+          <h3 style="font-size: 1.08rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
+          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;"><?php echo htmlspecialchars($faq['a']); ?></p>
         </div>
+        <?php endforeach; ?>
       </div>
+
     </div>
   </section>
 
-  <!-- =========================================================================
-       SECTION 13: HIGH-CONVERTING CALL TO ACTION FOOTER BANNER
-       ========================================================================= -->
-  <section style="padding: 60px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
-      <h2 style="font-size: 2.3rem; font-weight: 800; margin-bottom: 16px;">
-        Book Your <span style="color: #f59e0b;">Packers And Movers In Dumka</span> Today!
+  <!-- Section: Call To Action Footer Banner -->
+  <section style="padding: 70px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
+    <div class="container" style="max-width: 900px; margin: 0 auto; text-align: center; padding: 0 15px;">
+      
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
+        Zero-Stress Relocation Guaranteed
+      </span>
+
+      <h2 style="font-size: 2.3rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
+        Book Dumka’s Most Trusted Moving Service
       </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 780px; margin: 0 auto 32px auto; line-height: 1.75;">
-        Experience seamless packing, damage-free container transport, and dedicated move management with Shree Ashirwad Packers and Movers. Speak with an expert or request a WhatsApp estimate now.
+
+      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
+        Contact our moving specialists today for a free pre-move survey, 7-layer protective packaging, and IBA-approved billing documentation.
       </p>
 
-      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          <i class="fas fa-phone-alt" style="margin-right: 8px;"></i> Call Desk: <?php echo SITE_PHONE; ?>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="tel:08409531615" class="btn" style="background: #f59e0b; color: #070d1e; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+          <i class="fas fa-phone-alt"></i> Call Now: 08409531615
         </a>
-        <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad+Packers+%26+Movers%2C+I+would+like+to+request+a+quotation+for+Packers+And+Movers+In+Dumka+from+Dumka+to+Destination+Hub." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 15px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Chat on WhatsApp
+        <a href="<?php echo SITE_URL; ?>contact-us" class="btn" style="background: transparent; color: #ffffff; border: 2px solid #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none;">
+          Contact Our Move Experts
         </a>
       </div>
+
     </div>
   </section>
 
 </main>
 
-<!-- =========================================================================
-     SECTION 14: INTERACTIVE HERO WHATSAPP SCRIPT
-     ========================================================================= -->
+<!-- Interactive Hero WhatsApp Script -->
 <script>
 function sendHeroWhatsAppLead(event, form) {
   event.preventDefault();
@@ -887,58 +758,77 @@ function sendHeroWhatsAppLead(event, form) {
   var moveFrom = form.querySelector('[name="move_from"]').value;
   var moveTo = form.querySelector('[name="move_to"]').value;
   
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a shifting estimate for Packers And Movers In Dumka:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination Location: " + moveTo;
+  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a shifting estimate for Packers and Movers in Dumka:\n- Name: " + name + "\n- Phone: " + phone + "\n- Pickup Location: " + moveFrom + "\n- Destination Location: " + moveTo;
   
   var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
   window.location.href = whatsappUrl;
 }
 </script>
 
-<!-- =========================================================================
-     SECTION 15: DUAL SCHEMA (FAQPage & MovingCompany JSON-LD)
-     ========================================================================= -->
+<!-- JSON-LD Dual Schema: MovingCompany and FAQPage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "MovingCompany",
-      "@id": "<?php echo $canonical_url; ?>#movingcompany",
-      "name": "Shree Ashirwad Packers and Movers",
-      "url": "<?php echo SITE_URL; ?>",
-      "telephone": "<?php echo SITE_PHONE_RAW; ?>",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN"
-      },
-      "areaServed": [
-        "Dumka",
-        "Destination Hub"
-      ],
-      "knowsAbout": ["packers and movers dumka","dumka transport contact number","packers and movers in dumka","movers spring house","packers and movers to move within 2 house","bestprice movers tampa","parcel charges from delhi to bangalore","verified packers and movers in bangalore","gazibad based packers & movers","safe packers and movers delhi review","safe packers in noida","vdi packers and movers in ahmedabad","which packers and movers are good in bangalore","packers and movers in dumka jharkhand"],
-      "description": "<?php echo addslashes($page_desc); ?>"
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "<?php echo $canonical_url; ?>#faqpage",
-      "mainEntity": [
-        <?php 
-        $schema_faqs = [];
-        foreach ($faq_list as $faq) {
-          $schema_faqs[] = json_encode([
-            '@type' => 'Question',
-            'name' => $faq['q'],
-            'acceptedAnswer' => [
-              '@type' => 'Answer',
-              'text' => $faq['a']
-            ]
-          ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
-        }
-        echo implode(",\n        ", $schema_faqs);
-        ?>
-      ]
+  "@type": "MovingCompany",
+  "name": "Shree Ashirwad Packers and Movers Dumka",
+  "image": "<?php echo SITE_URL; ?>assets/images/services/household-furniture-bubble-wrap.jpeg",
+  "@id": "https://shreeashirwadpackersandmovers.com/packers-and-movers-in-dumka#company",
+  "url": "https://shreeashirwadpackersandmovers.com/packers-and-movers-in-dumka",
+  "telephone": "+91-8409531615",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Court Road, Near Tin Bazar",
+    "addressLocality": "Dumka",
+    "addressRegion": "Jharkhand",
+    "postalCode": "814101",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 24.2676,
+    "longitude": 87.2497
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "sameAs": [
+    "https://www.facebook.com/shreeashirwadpackers",
+    "https://twitter.com/ashirwadpackers"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <?php 
+    $faq_json = [];
+    foreach ($faq_list as $f) {
+      $faq_json[] = json_encode([
+        "@type" => "Question",
+        "name" => $f['q'],
+        "acceptedAnswer" => [
+          "@type" => "Answer",
+          "text" => $f['a']
+        ]
+      ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
     }
+    echo implode(",\n    ", $faq_json);
+    ?>
   ]
 }
 </script>

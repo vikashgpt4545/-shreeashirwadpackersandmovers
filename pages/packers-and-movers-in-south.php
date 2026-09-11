@@ -778,34 +778,6 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;">
         <?php
         $mesh_routes = array (
-  0 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/furniture-to-south-packers-and-movers',
-    'slug' => 'furniture-to-south-packers-and-movers',
-    'title' => 'Furniture To South Packers And Movers',
-    'anchor' => 'Furniture To South Packers And Movers',
-  ),
-  1 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/mumbai-to-south-packers-and-movers',
-    'slug' => 'mumbai-to-south-packers-and-movers',
-    'title' => 'Mumbai To South Packers And Movers',
-    'anchor' => 'Mumbai To South Packers And Movers',
-  ),
-  2 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-in-southampton',
-    'slug' => 'packers-and-movers-in-southampton',
-    'title' => 'Packers And Movers In Southampton',
-    'anchor' => 'Packers And Movers In Southampton',
-  ),
-  3 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',
-    'slug' => 'affordable-bike-transportation-in-ranchi',
-    'title' => 'Affordable Bike Transportation In Ranchi',
-    'anchor' => 'Affordable Bike Transportation In Ranchi',
-  ),
   4 => 
   array (
     'url' => 'https://shreeashirwadpackersandmovers.com/affordable-car-transportation-in-ranchi',

@@ -806,20 +806,6 @@ require_once __DIR__ . '/../includes/header.php';
     'title' => 'Furniture To India Packers And Movers',
     'anchor' => 'Furniture To India Packers And Movers',
   ),
-  4 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/kong-to-india-packers-and-movers',
-    'slug' => 'kong-to-india-packers-and-movers',
-    'title' => 'Kong To India Packers And Movers',
-    'anchor' => 'Kong To India Packers And Movers',
-  ),
-  5 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',
-    'slug' => 'affordable-bike-transportation-in-ranchi',
-    'title' => 'Affordable Bike Transportation In Ranchi',
-    'anchor' => 'Affordable Bike Transportation In Ranchi',
-  ),
 );
         foreach ($mesh_routes as $mr):
         ?>

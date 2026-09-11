@@ -73,10 +73,10 @@ foreach ($iterator as $file) {
             continue;
         }
 
-        // Exclude partial template components / includes
+        // Exclude partial template components / includes / backups
         $realPath = $file->getPathname();
         $relPath = str_replace('\\', '/', substr($realPath, strlen($pagesDir) + 1));
-        if (strpos($relPath, 'includes/') !== false || basename($file->getPath()) === 'includes') {
+        if (strpos($relPath, 'includes/') !== false || basename($file->getPath()) === 'includes' || strpos($relPath, 'backup') !== false || strpos($relPath, '_') !== false) {
             continue;
         }
 
@@ -149,5 +149,6 @@ if (php_sapi_name() !== 'cli') {
     header('Cache-Control: no-cache, no-store, must-revalidate, max-age=0');
     header('Pragma: no-cache');
     header('Expires: 0');
+    header('X-Robots-Tag: noindex, follow');
 }
 echo $xml;

@@ -44,18 +44,26 @@ require_once __DIR__ . '/config.php';
       }
   }
 
-  // Dynamic Target City Detection for Multi-City Schema & GEO Context
+  // Dynamic Target City & Route Detection for Multi-City Schema & GEO Context
   $target_city = "Ranchi"; // Default HQ City
   if (isset($page_city) && !empty($page_city)) {
       $target_city = ucfirst(strtolower(trim($page_city)));
-  } elseif (stripos($clean_slug, 'jamshedpur') !== false || (isset($page_title) && stripos($page_title, 'jamshedpur') !== false)) {
-      $target_city = "Jamshedpur";
-  } elseif (stripos($clean_slug, 'bokaro') !== false || (isset($page_title) && stripos($page_title, 'bokaro') !== false)) {
-      $target_city = "Bokaro";
-  } elseif (stripos($clean_slug, 'dhanbad') !== false || (isset($page_title) && stripos($page_title, 'dhanbad') !== false)) {
-      $target_city = "Dhanbad";
-  } elseif (stripos($clean_slug, 'hazaribagh') !== false || (isset($page_title) && stripos($page_title, 'hazaribagh') !== false)) {
-      $target_city = "Hazaribagh";
+  } elseif (isset($page_origin) && !empty($page_origin)) {
+      $target_city = ucfirst(strtolower(trim($page_origin)));
+  } else {
+      $city_scan_list = [
+          'jamshedpur', 'bokaro', 'dhanbad', 'hazaribagh', 'deoghar', 'giridih',
+          'ramgarh', 'dumka', 'chaibasa', 'daltonganj', 'medininagar', 'chatra',
+          'patna', 'gaya', 'kolkata', 'delhi', 'ahmedabad', 'gurgaon', 'gurugram',
+          'pune', 'mumbai', 'bangalore', 'hyderabad', 'chennai', 'ranchi'
+      ];
+      $text_to_scan = $clean_slug . ' ' . (isset($page_title) ? $page_title : '');
+      foreach ($city_scan_list as $c_candidate) {
+          if (stripos($text_to_scan, $c_candidate) !== false) {
+              $target_city = ucfirst($c_candidate);
+              break;
+          }
+      }
   }
 
   $city_details = get_city_details($target_city);
@@ -115,8 +123,9 @@ require_once __DIR__ . '/config.php';
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap">
 
-  <!-- FontAwesome Icons CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- FontAwesome Icons CDN (Non-blocking Async Preload for Fast FCP/LCP) -->
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
 
   <!-- CSS Stylesheet -->
   <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.css">
@@ -155,9 +164,17 @@ require_once __DIR__ . '/config.php';
           "telephone" => SITE_PHONE_RAW,
           "email" => SITE_EMAIL,
           "url" => SITE_URL,
-          "priceRange" => "₹₹",
+          "priceRange" => "₹3,500 - ₹45,000",
           "currenciesAccepted" => "INR",
           "paymentAccepted" => "Cash, Credit Card, Debit Card, UPI, Net Banking",
+          "openingHoursSpecification" => [
+              [
+                  "@type" => "OpeningHoursSpecification",
+                  "dayOfWeek" => ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+                  "opens" => "07:00",
+                  "closes" => "22:00"
+              ]
+          ],
           "address" => [
               [
                   "@type" => "PostalAddress",
@@ -179,7 +196,44 @@ require_once __DIR__ . '/config.php';
               FACEBOOK_URL,
               YOUTUBE_URL
           ],
-          "areaServed" => [$target_city, "Ranchi", "Jamshedpur", "Bokaro", "Dhanbad", "Hazaribagh", "Jharkhand", "India"],
+          "areaServed" => (function() use ($target_city, $city_details) {
+              global $page_origin, $page_destination, $schema_area_served;
+              if (isset($schema_area_served) && is_array($schema_area_served) && !empty($schema_area_served)) {
+                  return $schema_area_served;
+              }
+              $areas = [];
+              if (!empty($page_origin) && !empty($page_destination)) {
+                  $origDetails = get_city_details($page_origin);
+                  $destDetails = get_city_details($page_destination);
+                  $areas[] = [
+                      "@type" => "City",
+                      "name" => $origDetails['name'],
+                      "sameAs" => array_values(array_filter([$origDetails['wikipedia'] ?? null, $origDetails['wikidata'] ?? null]))
+                  ];
+                  $areas[] = [
+                      "@type" => "City",
+                      "name" => $destDetails['name'],
+                      "sameAs" => array_values(array_filter([$destDetails['wikipedia'] ?? null, $destDetails['wikidata'] ?? null]))
+                  ];
+              } else {
+                  $areas[] = [
+                      "@type" => "City",
+                      "name" => $city_details['name'],
+                      "sameAs" => array_values(array_filter([$city_details['wikipedia'] ?? null, $city_details['wikidata'] ?? null]))
+                  ];
+              }
+              $areas[] = [
+                  "@type" => "AdministrativeArea",
+                  "name" => $city_details['state'] ?? "Jharkhand",
+                  "sameAs" => "https://en.wikipedia.org/wiki/" . urlencode($city_details['state'] ?? "Jharkhand")
+              ];
+              $areas[] = [
+                  "@type" => "Country",
+                  "name" => "India",
+                  "sameAs" => "https://en.wikipedia.org/wiki/India"
+              ];
+              return $areas;
+          })(),
           "hasOfferCatalog" => [
               "@type" => "OfferCatalog",
               "name" => "Relocation Services",
@@ -296,6 +350,8 @@ require_once __DIR__ . '/config.php';
           "url" => $canonical_url,
           "name" => isset($page_title) ? $page_title : DEFAULT_PAGE_TITLE,
           "description" => isset($page_desc) ? $page_desc : DEFAULT_META_DESC,
+          "datePublished" => "2024-01-15T08:00:00+05:30",
+          "dateModified" => "2026-09-12T00:00:00+05:30",
           "keywords" => $schema_keywords_string,
           "about" => [
               "@type" => "Service",
@@ -338,6 +394,46 @@ require_once __DIR__ . '/config.php';
           ];
       }
   }
+
+  // HowTo Schema Integration for Step-by-Step Relocation Process
+  $effective_howto_steps = (isset($howto_steps) && is_array($howto_steps) && count($howto_steps) > 0) ? $howto_steps : [
+      [
+          "@type" => "HowToStep",
+          "position" => 1,
+          "name" => "Pre-Move Survey & Instant Quote",
+          "text" => "Share your inventory via WhatsApp or call to receive a transparent quotation with zero hidden charges.",
+          "url" => $canonical_url . "#survey"
+      ],
+      [
+          "@type" => "HowToStep",
+          "position" => 2,
+          "name" => "7-Layer Specialized Packing",
+          "text" => "Our trained crew packs household goods using heavy bubble wrap, 5-ply cartons, and protective foam corner guards.",
+          "url" => $canonical_url . "#packing"
+      ],
+      [
+          "@type" => "HowToStep",
+          "position" => 3,
+          "name" => "GPS Container Transport",
+          "text" => "Consignments travel inside weather-sealed, GPS-monitored container trucks with live tracking updates.",
+          "url" => $canonical_url . "#transit"
+      ],
+      [
+          "@type" => "HowToStep",
+          "position" => 4,
+          "name" => "Doorstep Delivery & Unpacking",
+          "text" => "Safe unloading, room-by-room placement, unpacking, and furniture reassembly at your destination residence.",
+          "url" => $canonical_url . "#delivery"
+      ]
+  ];
+  $schema_graph[] = [
+      "@type" => "HowTo",
+      "@id" => $canonical_url . "#howto",
+      "name" => $howto_title ?? ("How Shifting Works with " . (isset($page_title) ? $page_title : DEFAULT_PAGE_TITLE)),
+      "description" => $howto_description ?? ("Step-by-step moving and packing procedure with Shree Ashirwad Packers and Movers in " . $target_city . "."),
+      "totalTime" => "P1D",
+      "step" => $effective_howto_steps
+  ];
 
   // Google My Business Review & AggregateRating Schema Integration
   if (isset($gmb_reviews) && is_array($gmb_reviews) && count($gmb_reviews) > 0) {

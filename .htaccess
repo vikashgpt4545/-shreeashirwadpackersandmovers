@@ -83,11 +83,13 @@
 </IfModule>
 
 # Prevent caching of sitemap XML files so changes update immediately
+# Tell search engines to parse URLs but NEVER index the raw sitemap XML in search results
 <IfModule mod_headers.c>
     <FilesMatch "(sitemap\.xml|generate_sitemap\.php|sitemap.*\.xml)$">
         Header set Cache-Control "no-cache, no-store, must-revalidate, max-age=0"
         Header set Pragma "no-cache"
         Header set Expires 0
+        Header set X-Robots-Tag "noindex, follow"
     </FilesMatch>
 </IfModule>
 

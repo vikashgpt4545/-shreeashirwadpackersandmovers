@@ -28,3 +28,17 @@ node_modules/
 
 # Google Service Account Credentials
 service_account.json
+credentials*.json
+*.pem
+*.key
+
+# Backups & Archived files
+_foreign_pages_backup/
+backup/
+backups/
+*.backup
+
+# Tooling & IDE cache
+.antigravity/
+.gemini/
+.agents/

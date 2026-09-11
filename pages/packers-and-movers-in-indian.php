@@ -777,20 +777,6 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;">
         <?php
         $mesh_routes = array (
-  0 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-in-indianapolis',
-    'slug' => 'packers-and-movers-in-indianapolis',
-    'title' => 'Packers And Movers In Indianapolis',
-    'anchor' => 'Packers And Movers In Indianapolis',
-  ),
-  1 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/step-by-step-guide-to-booking-car-transport-by-indian-railways',
-    'slug' => 'step-by-step-guide-to-booking-car-transport-by-indian-railways',
-    'title' => 'Step By Step Guide To Booking Car Transport By Indian Railways',
-    'anchor' => 'Step By Step Guide To Booking Car Transport By Indian Railways',
-  ),
   2 => 
   array (
     'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',

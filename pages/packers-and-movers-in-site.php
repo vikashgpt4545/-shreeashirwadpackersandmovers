@@ -784,20 +784,6 @@ require_once __DIR__ . '/../includes/header.php';
     'title' => 'How To Spot And Avoid Fake Websites Of Vehicle Transport Services',
     'anchor' => 'How To Spot And Avoid Fake Websites Of Vehicle Transport Services',
   ),
-  1 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/packers-and-movers-in-siteleri',
-    'slug' => 'packers-and-movers-in-siteleri',
-    'title' => 'Packers And Movers In Siteleri',
-    'anchor' => 'Packers And Movers In Siteleri',
-  ),
-  2 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/sitemap',
-    'slug' => 'sitemap',
-    'title' => 'Sitemap',
-    'anchor' => 'Sitemap',
-  ),
   3 => 
   array (
     'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',

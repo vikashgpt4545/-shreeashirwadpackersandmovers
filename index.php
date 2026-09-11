@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/includes/config.php';
 
-$page_title = "Packers and Movers in Ranchi | 8409531615";
-$page_desc = "Looking for top-rated Packers and Movers in Ranchi? Get safe household shifting, office relocation, bike & car transport services with 100% damage-free delivery.";
+$page_title = "Best Packers and Movers in Ranchi | 8409531615";
+$page_desc = "Top IBA-approved Packers and Movers in Ranchi. Safe household shifting, bike & car transport, and office relocation with 100% damage-free delivery.";
 $schema_keywords = [
     "packers and movers in ranchi",
     "packers movers in ranchi",
@@ -73,7 +73,15 @@ $faq_list = [
     ],
     [
         'q' => 'How can I calculate movers and packers in ranchi price and total moving cost?',
-        'a' => 'The movers and packers in ranchi price depends on the volume of goods (1BHK/2BHK/3BHK), packing materials needed, distance from Ranchi, floor level, and whether specialized car transport in ranchi is requested. For an accurate, transparent cost estimate with zero hidden fees, contact our team directly at our movers and packers ranchi contact number 8409531615 for a free pre-move quotation.'
+        'a' => 'Movers and packers in ranchi price is calculated based on household volume (1 BHK, 2 BHK, 3 BHK), physical transit distance, packing material grade, floor numbers, and elevator availability. Shree Ashirwad offers a transparent moving cost estimation with 1 BHK local shifting starting from Rs 3,500 to Rs 6,500, and 2-3 BHK shifting from Rs 7,000 to Rs 16,000 with zero hidden charges.'
+    ],
+    [
+        'q' => 'What are the charges for bike parcel and vehicle transportation from Ranchi to other states?',
+        'a' => 'Two-wheeler and bike transport from Ranchi typically ranges between Rs 2,500 to Rs 6,500 depending on destination distance (e.g. Ranchi to Patna, Kolkata, Delhi, or Pune), engine displacement, and customized wooden crating requirements. All bike shipments include door-to-door transit and insurance coverage.'
+    ],
+    [
+        'q' => 'What is the contact number for booking Shree Ashirwad packers and movers in ranchi?',
+        'a' => 'You can reach our 24/7 customer support and moving desk by calling (+91) 8409531615 or messaging our instant WhatsApp booking line at +918409531615 for a free in-home pre-move survey and immediate shifting quotation.'
     ],
     [
         'q' => 'How does packers and movers tracking work during long-distance shifting from Ranchi?',
@@ -165,6 +173,40 @@ $gmb_reviews = [
     ]
 ];
 
+// Step-by-Step Relocation Workflow for Schema.org HowTo Rich Results
+$howto_title = "How Shifting Works with Packers and Movers in Ranchi";
+$howto_description = "Step-by-step moving and packing procedure with Shree Ashirwad Packers and Movers in Ranchi from survey to destination setup.";
+$howto_steps = [
+    [
+        "@type" => "HowToStep",
+        "position" => 1,
+        "name" => "Book & Get Instant Estimate",
+        "text" => "Submit your moving details via website form or phone call. Our team of packers and movers in ranchi calculates a clear, transparent shifting estimate right away.",
+        "url" => "https://shreeashirwadpackersandmovers.com/#quickQuote"
+    ],
+    [
+        "@type" => "HowToStep",
+        "position" => 2,
+        "name" => "Multi-Layer Safe Packing",
+        "text" => "On moving day, our professional packing crew arrives with premium bubble wrap, corrugated boxes, and foam sheets to protect all household items carefully.",
+        "url" => "https://shreeashirwadpackersandmovers.com/#services"
+    ],
+    [
+        "@type" => "HowToStep",
+        "position" => 3,
+        "name" => "Safe Loading & Transit",
+        "text" => "Packed goods are loaded securely into enclosed container trucks. As trusted packers and movers in ranchi, we track vehicle transit via live satellite GPS.",
+        "url" => "https://shreeashirwadpackersandmovers.com/#process"
+    ],
+    [
+        "@type" => "HowToStep",
+        "position" => 4,
+        "name" => "Unloading & Final Setup",
+        "text" => "At your new home or office, goods are gently unloaded, inspected against the inventory sheet, and unpacked into assigned rooms safely.",
+        "url" => "https://shreeashirwadpackersandmovers.com/#contact"
+    ]
+];
+
 require_once __DIR__ . '/includes/header.php';
 ?>
 
@@ -226,7 +268,7 @@ require_once __DIR__ . '/includes/header.php';
         <!-- Right Column: Quick Quote Form Card with Direct WhatsApp Lead Redirection -->
         <div class="hero-card-wrapper" id="quickQuote">
           <div class="hero-card">
-            <h2 class="card-title">Get Shifting Quote</h2>
+            <h2 class="card-title">Get Free Packers and Movers in Ranchi Quote</h2>
             <p class="card-subtitle">Calculate movers and packers in ranchi price & get instant moving cost estimate</p>
             
             <form action="#" method="POST" onsubmit="sendWhatsAppLead(event, this);">
@@ -362,7 +404,7 @@ require_once __DIR__ . '/includes/header.php';
           
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" loading="lazy">
+              <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" width="904" height="1200" loading="lazy">
               <div class="photo-overlay">
                 <span>Bike Straw Padding & Branded Tape</span>
               </div>
@@ -371,7 +413,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" loading="lazy">
+              <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" width="1200" height="904" loading="lazy">
               <div class="photo-overlay">
                 <span>Cardboard & Stretch Wrap Bike Packing</span>
               </div>
@@ -380,7 +422,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" loading="lazy">
+              <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" width="904" height="1200" loading="lazy">
               <div class="photo-overlay">
                 <span>Custom Wooden Crate Box Framing</span>
               </div>
@@ -389,7 +431,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" loading="lazy">
+              <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" width="904" height="1200" loading="lazy">
               <div class="photo-overlay">
                 <span>Smart TV Wooden Crate Protection</span>
               </div>
@@ -398,7 +440,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" loading="lazy">
+              <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" width="1200" height="904" loading="lazy">
               <div class="photo-overlay">
                 <span>Heavy Carton & Foam Sheet Packing</span>
               </div>
@@ -407,7 +449,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" loading="lazy">
+              <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" width="904" height="1200" loading="lazy">
               <div class="photo-overlay">
                 <span>Cushioned Blanket TV Shrink Wrap</span>
               </div>
@@ -416,7 +458,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" loading="lazy">
+              <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" width="904" height="1200" loading="lazy">
               <div class="photo-overlay">
                 <span>Full Container Truck Goods Loading</span>
               </div>
@@ -1106,6 +1148,36 @@ require_once __DIR__ . '/includes/header.php';
             <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dumka" class="locality-pill"><svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg> Packers and Movers Dumka</a>
             <a href="<?php echo SITE_URL; ?>packers-and-movers-in-chaibasa" class="locality-pill"><svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg> Packers and Movers Chaibasa</a>
             <a href="<?php echo SITE_URL; ?>packers-and-movers-in-gaya" class="locality-pill"><svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg> Packers and Movers in Gaya Bihar</a>
+          </div>
+        </div>
+
+        <!-- Google Map Harmu HQ Location Embed Card for Local SEO Proximity Signals -->
+        <div class="coverage-card" style="grid-column: 1 / -1; padding: 24px; background: rgba(15, 23, 42, 0.7); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px;">
+          <div class="coverage-card-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 16px;">
+            <div style="display: flex; align-items: center; gap: 12px;">
+              <div class="coverage-icon">
+                <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+              </div>
+              <div>
+                <h3 class="coverage-card-title" style="margin: 0; font-size: 1.25rem;">Shree Ashirwad Head Office — Harmu, Ranchi</h3>
+                <p style="margin: 4px 0 0; font-size: 0.88rem; color: #94a3b8;">Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand 834002</p>
+              </div>
+            </div>
+            <a href="<?php echo GMB_MAPS_URL; ?>" target="_blank" rel="noopener noreferrer" class="btn btn-outline-gold" style="padding: 8px 18px; font-size: 0.88rem;">
+              Open in Google Maps
+            </a>
+          </div>
+          <div style="width: 100%; height: 350px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+            <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.628929729864!2d85.3124311!3d23.3654497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4e10116ddbf0d%3A0x8691aeef36f01174!2sShree%20Ashirwad%20Packers%20and%20Movers!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
+              width="100%" 
+              height="100%" 
+              style="border:0;" 
+              allowfullscreen="" 
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade" 
+              title="Shree Ashirwad Packers and Movers Ranchi Harmu HQ Office Map">
+            </iframe>
           </div>
         </div>
 

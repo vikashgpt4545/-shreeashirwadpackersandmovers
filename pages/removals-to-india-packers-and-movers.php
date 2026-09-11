@@ -785,20 +785,6 @@ require_once __DIR__ . '/../includes/header.php';
     'title' => 'Furniture To India Packers And Movers',
     'anchor' => 'Furniture To India Packers And Movers',
   ),
-  1 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/kong-to-india-packers-and-movers',
-    'slug' => 'kong-to-india-packers-and-movers',
-    'title' => 'Kong To India Packers And Movers',
-    'anchor' => 'Kong To India Packers And Movers',
-  ),
-  2 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/movers-to-india-packers-and-movers',
-    'slug' => 'movers-to-india-packers-and-movers',
-    'title' => 'Movers To India Packers And Movers',
-    'anchor' => 'Movers To India Packers And Movers',
-  ),
   3 => 
   array (
     'url' => 'https://shreeashirwadpackersandmovers.com/nj-to-india-packers-and-movers',

@@ -792,20 +792,6 @@ require_once __DIR__ . '/../includes/header.php';
     'title' => 'Furniture To Another Packers And Movers',
     'anchor' => 'Furniture To Another Packers And Movers',
   ),
-  2 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/furniture-to-australia-packers-and-movers',
-    'slug' => 'furniture-to-australia-packers-and-movers',
-    'title' => 'Furniture To Australia Packers And Movers',
-    'anchor' => 'Furniture To Australia Packers And Movers',
-  ),
-  3 => 
-  array (
-    'url' => 'https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi',
-    'slug' => 'affordable-bike-transportation-in-ranchi',
-    'title' => 'Affordable Bike Transportation In Ranchi',
-    'anchor' => 'Affordable Bike Transportation In Ranchi',
-  ),
   4 => 
   array (
     'url' => 'https://shreeashirwadpackersandmovers.com/affordable-car-transportation-in-ranchi',
