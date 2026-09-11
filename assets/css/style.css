@@ -1791,6 +1791,172 @@ ul {
   font-style: italic;
 }
 
+/* Google My Business Trust Banner & Review Card Extensions */
+.gmb-trust-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  background: rgba(16, 21, 43, 0.85);
+  border: 1.5px solid rgba(245, 158, 11, 0.4);
+  border-radius: 16px;
+  padding: 16px 24px;
+  margin: 25px auto 35px;
+  max-width: 780px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(8px);
+}
+
+.gmb-trust-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  text-align: left;
+}
+
+.google-icon-circle {
+  width: 48px;
+  height: 48px;
+  background: #ffffff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+
+.gmb-score-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.gmb-score {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #ffffff;
+  line-height: 1;
+}
+
+.gmb-stars {
+  color: #f59e0b;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+}
+
+.gmb-status {
+  background: rgba(34, 197, 94, 0.2);
+  color: #4ade80;
+  border: 1px solid rgba(34, 197, 94, 0.4);
+  font-size: 0.72rem;
+  font-weight: 800;
+  padding: 3px 8px;
+  border-radius: 12px;
+  letter-spacing: 0.5px;
+}
+
+.gmb-count {
+  font-size: 0.85rem;
+  color: #cbd5e1;
+  margin-top: 4px;
+}
+
+.gmb-count strong {
+  color: #f59e0b;
+}
+
+.btn-outline-gmb {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1.5px solid rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.88rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.btn-outline-gmb:hover {
+  background: #ffffff;
+  color: #0b132b;
+  border-color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 255, 255, 0.2);
+}
+
+.testimonial-card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.card-g-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  color: #cbd5e1;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.client-meta-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.verified-icon {
+  color: #3b82f6;
+  font-size: 0.85rem;
+}
+
+.client-route {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--brand-yellow);
+  font-weight: 600;
+  margin-top: 2px;
+}
+
+.client-badge-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  color: #94a3b8;
+  font-weight: 500;
+  margin-top: 2px;
+}
+
+.rating-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.rating-row .rating-stars {
+  margin-bottom: 0;
+}
+
+.review-date {
+  font-size: 0.78rem;
+  color: #94a3b8;
+}
+
 @media (max-width: 992px) {
   .testimonials-grid {
     grid-template-columns: 1fr;
@@ -1805,6 +1971,21 @@ ul {
 
   .testimonial-card {
     padding: 24px 20px;
+  }
+
+  .gmb-trust-banner {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .gmb-trust-left {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .gmb-score-row {
+    justify-content: center;
   }
 }
 

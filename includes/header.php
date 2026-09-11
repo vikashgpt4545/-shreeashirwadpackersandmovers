@@ -308,6 +308,36 @@ require_once __DIR__ . '/config.php';
       }
   }
 
+  // Google My Business Review & AggregateRating Schema Integration
+  if (isset($gmb_reviews) && is_array($gmb_reviews) && count($gmb_reviews) > 0) {
+      $schema_graph[0]["aggregateRating"] = [
+          "@type" => "AggregateRating",
+          "ratingValue" => "4.9",
+          "reviewCount" => "664",
+          "bestRating" => "5",
+          "worstRating" => "1"
+      ];
+      $schema_reviews = [];
+      foreach ($gmb_reviews as $rev) {
+          $schema_reviews[] = [
+              "@type" => "Review",
+              "author" => [
+                  "@type" => "Person",
+                  "name" => $rev['author']
+              ],
+              "datePublished" => $rev['date'] ?? date('Y-m-d'),
+              "reviewBody" => strip_tags($rev['text']),
+              "reviewRating" => [
+                  "@type" => "Rating",
+                  "ratingValue" => (string)($rev['rating'] ?? 5),
+                  "bestRating" => "5",
+                  "worstRating" => "1"
+              ]
+          ];
+      }
+      $schema_graph[0]["review"] = $schema_reviews;
+  }
+
   $schema_data = [
       "@context" => "https://schema.org",
       "@graph" => $schema_graph
