@@ -3,7 +3,43 @@ require_once __DIR__ . '/includes/config.php';
 
 $page_title = "Packers and Movers in Ranchi | 8409531615";
 $page_desc = "Looking for top-rated Packers and Movers in Ranchi? Get safe household shifting, office relocation, bike & car transport services with 100% damage-free delivery.";
-$page_keywords = DEFAULT_KEYWORDS;
+$schema_keywords = [
+    "packers and movers in ranchi",
+    "packers movers in ranchi",
+    "packers and movers ranchi",
+    "best packers and movers in ranchi",
+    "movers and packers ranchi",
+    "ranchi packers and movers",
+    "packers & movers in ranchi",
+    "gati packers and movers ranchi",
+    "packers and movers ranchi jharkhand",
+    "packers and movers in ranchi jharkhand",
+    "mover and packer near me",
+    "best packers and movers ranchi",
+    "car transport in ranchi",
+    "packer and mover in ranchi",
+    "movers and packers in ranchi",
+    "packers and movers near me ranchi",
+    "packers and movers near ranchi jharkhand",
+    "movers and packers in ranchi price",
+    "movers and packers ranchi contact number",
+    "bike transport in ranchi",
+    "household shifting in ranchi",
+    "office relocation in ranchi",
+    "packers and movers kanke road ranchi",
+    "packers and movers lalpur ranchi",
+    "packers and movers harmu ranchi",
+    "packers and movers doranda ranchi",
+    "packers and movers bariatu ranchi",
+    "packers and movers morabadi ranchi",
+    "packers and movers ratu road ranchi",
+    "packers and movers argora ranchi",
+    "packers and movers hinoo ranchi",
+    "packers and movers namkum ranchi",
+    "packers and movers ashok nagar ranchi",
+    "packers and movers tupudana ranchi"
+];
+$page_keywords = implode(', ', $schema_keywords);
 
 // FAQ List for SERP FAQPage JSON-LD Schema
 $faq_list = [

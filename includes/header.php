@@ -123,12 +123,34 @@ require_once __DIR__ . '/config.php';
 
   <!-- Schema.org JSON-LD Connected Entity Knowledge Graph for Local Business SEO & AI Search (GEO) -->
   <?php
+  // Build keywords list & string for Schema.org JSON-LD Entity Graph
+  if (isset($schema_keywords) && is_array($schema_keywords) && count($schema_keywords) > 0) {
+      $schema_keywords_list = array_values(array_unique(array_filter(array_map('trim', $schema_keywords))));
+      $schema_keywords_string = implode(', ', $schema_keywords_list);
+  } elseif (isset($page_keywords) && !empty($page_keywords)) {
+      $schema_keywords_string = $page_keywords;
+      $schema_keywords_list = array_values(array_unique(array_filter(array_map('trim', explode(',', $page_keywords)))));
+  } else {
+      $schema_keywords_string = DEFAULT_KEYWORDS;
+      $schema_keywords_list = array_values(array_unique(array_filter(array_map('trim', explode(',', DEFAULT_KEYWORDS)))));
+  }
+
   $schema_graph = [
       [
           "@type" => "MovingCompany",
           "@id" => SITE_URL . "#organization",
           "name" => "Shree Ashirwad Packers and Movers",
-          "alternateName" => "Packers and Movers " . $target_city,
+          "alternateName" => [
+              "Packers and Movers " . $target_city,
+              "Movers and Packers " . $target_city,
+              "Best Packers and Movers in " . $target_city,
+              $target_city . " Packers and Movers",
+              "Packers & Movers in " . $target_city,
+              "Packers Movers in " . $target_city,
+              "Shree Ashirwad Packers and Movers " . $target_city
+          ],
+          "keywords" => $schema_keywords_string,
+          "knowsAbout" => $schema_keywords_list,
           "image" => SITE_URL . "assets/images/logo.png",
           "telephone" => SITE_PHONE_RAW,
           "email" => SITE_EMAIL,
@@ -274,6 +296,15 @@ require_once __DIR__ . '/config.php';
           "url" => $canonical_url,
           "name" => isset($page_title) ? $page_title : DEFAULT_PAGE_TITLE,
           "description" => isset($page_desc) ? $page_desc : DEFAULT_META_DESC,
+          "keywords" => $schema_keywords_string,
+          "about" => [
+              "@type" => "Service",
+              "name" => "Packers and Movers in " . $target_city,
+              "serviceType" => "Household Shifting, Office Relocation, Bike & Car Transportation Services",
+              "provider" => [
+                  "@id" => SITE_URL . "#organization"
+              ]
+          ],
           "breadcrumb" => [
               "@id" => $canonical_url . "#breadcrumb"
           ],
