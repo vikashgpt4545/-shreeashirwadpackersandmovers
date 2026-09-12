@@ -20,6 +20,70 @@ $faq_list = [
     ['q' => 'How can I get an accurate cost estimate for shifting from Bokaro?', 'a' => 'Call our helpline +91 8409531615 or submit your requirement via WhatsApp for an immediate itemized quotation.']
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -202,9 +266,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         PRICING &amp; CLEARANCE MATRIX
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Transparent Relocation Pricing &amp; Regulatory Coverage Matrix
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Transparent Relocation Pricing &amp; Regulatory Coverage Matrix</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Comprehensive breakdown of base freight, mandatory documentation, and transit insurance
       </p>
@@ -230,9 +292,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Packers and Movers in Bokaro Cost Guide | 8409531615
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -347,8 +407,7 @@ require_once __DIR__ . '/../includes/header.php';
 <h3>Transit Time</h3>
 <p>Road transport is flexible and can start immediately, completing the move within 2–3 days for intra‑state trips. Train schedules, however, depend on rail timetables; a typical Bokaro‑to‑Delhi move takes 3–4 days, plus waiting time for loading and unloading. If time is critical, road is the faster choice.</p>
 
-<h3>Safety and Security
-</h3><p>Road movers often use sealed containers and GPS tracking, but theft or damage during traffic congestion remains a risk. Train transport keeps goods in dedicated freight cars with minimal handling, reducing breakage. Both modes require <strong>IBA approved packers and movers</strong> to ensure proper packing and insurance coverage.</p>
+<h3>Safety and Security</h3><p>Road movers often use sealed containers and GPS tracking, but theft or damage during traffic congestion remains a risk. Train transport keeps goods in dedicated freight cars with minimal handling, reducing breakage. Both modes require <strong>IBA approved packers and movers</strong> to ensure proper packing and insurance coverage.</p>
 
 <h3>Paperwork and Compliance</h3>
 <p>Road freight requires a simple Bill of Lading and a commercial invoice. Train freight demands additional rail freight documents, including a Railway Cargo Receipt and customs clearance for interstate moves. While paperwork for trains is more extensive, it provides an audit trail that can be useful for insurance claims.</p>
@@ -442,19 +501,62 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Decoding the Transparent Packers And Movers Bokaro Cost Guide</h2>
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">**Transparent Packers And Movers Bokaro Cost Guide**
 
-When you’re moving a 3 BHK house, the headline price can feel like a mystery. The **Transparent Packers And Movers Bokaro Cost Guide** demystifies every dollar, turning hidden fees into clear, predictable charges. Let’s unpack the key cost elements, the math behind each, and why this transparency builds lasting trust.
-
-| Cost Element | Typical Charge | How It’s Calculated | Why It Matters |
-|--------------|----------------|---------------------|----------------|
-| **Packing Materials** | ₹1,200–₹1,800 | (Number of boxes × ₹100) + (Special items × ₹200) | Saves you from buying overpriced supplies later. |
-| **Labor (Packing & Unpacking)** | ₹8,000–₹12,000 | (Hours × ₹500) + (Special handling × ₹300) | Guarantees skilled IBA approved packers, reducing damage risk. |
-| **Vehicle & Fuel** | ₹2,500–₹3,500 | Base fare + (Distance × ₹15/km) | Transparent fuel surcharges prevent “extra” charges at the end. |
-| **Distance Surcharge** | ₹1,500–₹2,500 | (Distance × ₹10/km) | Directly ties cost to your move’s length, so you know exactly what you’re paying for. |
-| **Insurance** | ₹1,000–₹3,000 | (Declared value × 0.05%) | Protects your belongings; the rate is fixed, no surprise premiums. |
-| **Extra Services** | ₹500–₹1,500 | (Service × flat fee) | Includes furniture disassembly, cleaning, or storage. |
-| **Taxes & GST** | 18% of subtotal | Calculated on the sum of all items | Keeps the final invoice compliant and predictable. |
-
-**Calculation Method in Action**
+When you’re moving a 3 BHK house, the headline price can feel like a mystery. The **Transparent Packers And Movers Bokaro Cost Guide** demystifies every dollar, turning hidden fees into clear, predictable charges. Let’s unpack the key cost elements, the math behind each, and why this transparency builds lasting trust.<div style='overflow-x: auto; margin: 15px 0;'>
+<table style='width: 100%; border-collapse: collapse; font-size: 0.85rem; color: #cbd5e1; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;'>
+  <thead>
+    <tr style='background: rgba(30, 41, 59, 0.9); border-bottom: 2px solid rgba(59, 130, 246, 0.4); text-align: left;'>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Cost Element</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Typical Charge</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>How It’s Calculated</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Why It Matters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Packing Materials</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>₹1,200–₹1,800</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>(Number of boxes × ₹100) + (Special items × ₹200)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Saves you from buying overpriced supplies later.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Labor (Packing &amp; Unpacking)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>₹8,000–₹12,000</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>(Hours × ₹500) + (Special handling × ₹300)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Guarantees skilled IBA approved packers, reducing damage risk.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Vehicle &amp; Fuel</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>₹2,500–₹3,500</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Base fare + (Distance × ₹15/km)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Transparent fuel surcharges prevent “extra” charges at the end.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Distance Surcharge</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>₹1,500–₹2,500</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>(Distance × ₹10/km)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Directly ties cost to your move’s length, so you know exactly what you’re paying for.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Insurance</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>₹1,000–₹3,000</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>(Declared value × 0.05%)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Protects your belongings; the rate is fixed, no surprise premiums.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Extra Services</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>₹500–₹1,500</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>(Service × flat fee)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Includes furniture disassembly, cleaning, or storage.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Taxes &amp; GST</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>18% of subtotal</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Calculated on the sum of all items</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Keeps the final invoice compliant and predictable.</td>
+    </tr>
+  </tbody>
+</table>
+</div>**Calculation Method in Action**
 
 Suppose you’re moving a 3 BHK from Bokaro to Ranchi (120 km). Packing takes 12 hrs, 50 boxes, and you need special packing for a piano. Plugging into the guide:
 
@@ -510,9 +612,7 @@ When every line item is visible, customers can audit the invoice, compare quotes
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Operational Infrastructure & Transit Standards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Operational Infrastructure &amp; Transit Standards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -561,9 +661,7 @@ When every line item is visible, customers can audit the invoice, compare quotes
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -602,9 +700,7 @@ When every line item is visible, customers can audit the invoice, compare quotes
       <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
         Statewide Relocation Network
       </span>
-      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
-        Seamless Packers and Movers Connectivity Across Jharkhand
-      </h2>
+      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">Seamless Packers and Movers Connectivity Across Jharkhand</h2>
       <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto 10px auto; max-width: 920px;">
         As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, our fleet network guarantees on-time delivery.
       </p>
@@ -614,11 +710,28 @@ When every line item is visible, customers can audit the invoice, compare quotes
     </div>
   </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-sitemap"></i> STATEWIDE RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Jharkhand: <span style="color: #f59e0b;">Ranchi &amp; Ranchi Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating a local residential shift within Ranchi district or planning an outstation move across states, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Ranchi district.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Packers and Movers in Bokaro Cost Guide | 8409531615
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What factors most influence the Packers And Movers Bokaro Cost Guide for a 3 BHK house shift?</h3>
@@ -660,9 +773,7 @@ When every line item is visible, customers can audit the invoice, compare quotes
         <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 8px;">
           <i class="fas fa-map-marked-alt" style="margin-right: 6px;"></i> Verified Service Network
         </span>
-        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
-          Find Our Operational Service Network in <span style="color: #f59e0b;">Bokaro</span>
-        </h2>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">Find Our Operational Service Network in &lt;span style=&quot;color: #f59e0b;&quot;&gt;Bokaro&lt;/span&gt;</h2>
         <p style="color: #cbd5e1; font-size: 0.95rem; max-width: 760px; margin: 10px auto 0 auto; line-height: 1.7;">
           Visit our nearest operational base or connect with our verified logistics coordinators for rapid vehicle inspection, quotation, and packing material dispatch.
         </p>
@@ -841,11 +952,88 @@ When every line item is visible, customers can audit the invoice, compare quotes
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Bokaro, Jharkhand to Destination city name or null Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Bokaro%2C+Jharkhand+to+Destination+city+name+or+null+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- SECTION: LOCAL SEO & ENTITY GEO-SIGNALS (Google Knowledge Graph & Local Pack Grounding) -->
+<section class="geo-signals-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 12px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 20px;">
+        <div>
+          <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 14px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            📍 Entity Grounding &amp; Geo-Coordinates
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-top: 8px; margin-bottom: 0;">
+            Bokaro, Jharkhand to Destination city name or null Interstate Logistics Corridor via NH-33, NH-43 &amp; NH-20 Expressway Network
+          </h3>
+        </div>
+        <div style="display: flex; gap: 10px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LAT: 23.3639813° N
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LNG: 85.3090259° E
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-map-marked-alt"></i> Primary Service Localities &amp; Pickup Hubs:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Harmu Housing Colony • Lalpur • Kanke Road • Bariatu • Doranda • Morabadi • Dhurwa (HEC) • Ratu Road • Ashok Nagar • Namkum • Tupudana Industrial Area • Birsa Chowk • Hinoo
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-road"></i> National Highway Corridors:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Connected via <strong>NH-33</strong> (Ranchi–Jamshedpur–Kolkata), <strong>NH-43</strong> (Ranchi–Gumla), <strong>NH-20</strong> (Ranchi–Patna), and <strong>Ring Road Expressway</strong> for non-stop interstate container movement.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-building"></i> Registered Headquarters Hub:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | IBA Code &amp; ISO 9001:2015 Certified
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
       <a href="https://shreeashirwadpackersandmovers.com/affordable-car-transportation-in-ranchi" title="Affordable Car Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Car Transportation In Ranchi</a>
@@ -859,9 +1047,7 @@ When every line item is visible, customers can audit the invoice, compare quotes
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Packers And Movers Bokaro Cost Guide</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> 3 bhk house shifting</span>
