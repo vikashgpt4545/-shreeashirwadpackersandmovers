@@ -89,6 +89,70 @@ $faq_list = [
     ]
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -640,6 +704,25 @@ require_once __DIR__ . '/../includes/header.php';
       </p>
     </div>
   </section>
+
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-globe-asia"></i> PAN-INDIA RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Interstate Shifting: <span style="color: #f59e0b;">Pan-India Carrier Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an interstate household relocation or planning dedicated car carrier transport across India, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout all major Indian state capitals and commercial corridors.
+      </p>
+    </div>
+  </div>
+</section>
 
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">

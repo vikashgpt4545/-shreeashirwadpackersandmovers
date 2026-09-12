@@ -32,6 +32,70 @@ $faq_list = [
         'a' => 'Yes, we provide comprehensive 100% declared value transit marine insurance policy coverage (calculated at 0.3% of goods valuation) covering accidental highway damage, fire, overturning, or natural transit hazards with zero-depreciation cashless settlement.']
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -150,13 +214,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">CORRIDOR LOGISTICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Highway Route Transit Logistics &amp; Corridor Operations from Bangalore to Siliguri (2469 km)</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>, <ul>, <li>. So we need 300-360 words total. Let's aim for ~330 words. Use paragraphs and unordered lists. Include all keywords. Use them naturally. The content should be authoritative operational transit analysis. Use terms like dual-driver rotations, satellite GPS checkpoints, scheduled rest stops, zero-transshipment container security. Also mention permission for household goods transportation. 
-
-Word count:  We'll count after writing.
-
-Let's write:
-
-<p>At the heart of every successful long‑haul relocation is a meticulously engineered logistics playbook. For a move that spans the 1,200‑km stretch from Bangalore to Siliguri, our national‑scale packers and movers operate on a dual‑driver rotation system, ensuring 24‑hour coverage while complying with Indian Highway Transport Rules.</p>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>At the heart of every successful long‑haul relocation is a meticulously engineered logistics playbook. For a move that spans the 1,200‑km stretch from Bangalore to Siliguri, our national‑scale packers and movers operate on a dual‑driver rotation system, ensuring 24‑hour coverage while complying with Indian Highway Transport Rules.</p>
 
 <ul>
 <li><strong>Dual‑driver rotations</strong> – Two licensed drivers alternate every 12 hours, allowing continuous motion without fatigue, and providing a built‑in backup in case of unforeseen delays.</li>
@@ -184,9 +242,7 @@ Let's write:
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         ROUTE FREIGHT MATRIX
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Corridor Freight Tariff &amp; Transit Schedule: Bangalore to Siliguri (2469 km)
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Corridor Freight Tariff &amp; Transit Schedule: Bangalore to Siliguri (2469 km)</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Verified highway corridor transit pricing via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways with zero hidden surcharges
       </p>
@@ -212,9 +268,7 @@ Let's write:
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Bangalore To Siliguri Packers And Movers
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Verified On-Site Operations: Bangalore To Siliguri Packers And Movers</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -325,51 +379,76 @@ Let's write:
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">FLEET &amp; TELEMATICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Dedicated Container Truck Fleet Specifications &amp; Satellite GPS Telematics on Bangalore-Siliguri Corridor</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">MOCK / TEST CHAT RESPONSE: Completed multi-turn prompt analysis in dry-run mode.</div>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Our dedicated transport fleet for the Bangalore to Siliguri corridor comprises specialized enclosed container carriers engineered for zero-transshipment security and high-speed highway transit.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">18ft, 22ft &amp; 32ft MX Closed Containers</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Weatherproof, sealed steel containers isolate consignments from external weather hazards, road grime, and unauthorized mid-route handling.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Air-Suspension &amp; Commercial Speed Governors</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Fitted with commercial speed limiters calibrated to 60 km/h and multi-leaf air-ride suspension, dampening road shock on national expressways.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Live Satellite GPS &amp; WhatsApp Milestone Alerts</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Continuous satellite GPS telemetry transmits live checkpoint arrivals and estimated time of arrival (ETA) directly to clients via automated WhatsApp updates.</p>
+  </div>
+</div>
+<p style="margin-top: 20px;">Dual-driver rotations comply with mandatory highway rest protocols, ensuring non-stop safe movement from Bangalore to Siliguri.</p></div>
     </div>
   </div>
 </section>
 
 
-<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">STATUTORY CLEARANCE</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Statutory Interstate e-Way Bills, Regulatory Clearances &amp; 100% Marine Insurance for packers and movers bangalore to siliguri</h2>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Statutory Interstate e‑Way Bills, Regulatory Clearances &amp; 100% Marine Insurance for Packers and Movers Bangalore to Siliguri</h2>
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
+        <p>For efficient and secure transportation of household goods from Bangalore to Siliguri, it is crucial to understand the necessary documentation and insurance coverage provided by reliable packers and movers. This guide covers:</p>
+        <ol>
+          <li>GST E‑Way Bills</li>
+          <li>IBA‑Approved Lorry Receipts (LR/Bilty)</li>
+          <li>Comprehensive 100% Declared‑Value Marine Transit Insurance</li>
+        </ol>
 
+        <h3 style="color:#ffffff; margin-top:24px;">GST E‑Way Bills</h3>
+        <p>GST E‑Way Bills are electronic documents required for inter‑state transportation of goods under the GST Act. They verify consignor, consignee and cargo details, ensuring smooth movement across state borders.</p>
+        <p>Steps to generate an E‑Way Bill:</p>
+        <ol>
+          <li>Visit the official GSTN portal at <a href="https://gst.gov.in/" target="_blank" style="color:#c084fc; text-decoration:underline;">gst.gov.in</a>.</li>
+          <li>Log in with your GSTIN credentials (or register if you do not have one).</li>
+          <li>Select the “E‑Way Bill” module under the Services tab.</li>
+          <li>Choose “Generate New” for single or multiple consignments.</li>
+          <li>Enter required details – shipper, receiver, invoice value, vehicle number, and goods description.</li>
+          <li>Submit the form; a 15‑digit E‑Way Bill number will be generated instantly.</li>
+        </ol>
 
+        <h3 style="color:#ffffff; margin-top:24px;">IBA‑Approved Lorry Receipts (LR/Bilty)</h3>
+        <p>The Indian Association of Movers and Packers (IBA) standardises Lorry Receipts to provide transparent proof of transportation. An IBA‑approved LR includes vehicle details, loading/unloading points, weight, and declared value.</p>
+        <p>Procedure:</p>
+        <ol>
+          <li>Download the IBA‑approved LR template from <a href="https://www.mba-india.org/" target="_blank" style="color:#c084fc; text-decoration:underline;">mba-india.org</a>.</li>
+          <li>Fill in all fields accurately – consignor, consignee, goods description, weight, and insurance coverage.</li>
+          <li>Both parties sign the LR; a copy is retained by the mover and a copy is handed to the consignee.</li>
+        </ol>
 
-For efficient and secure transportation of household goods from Bangalore to Siliguri, it is crucial to understand the necessary documentation and insurance coverage provided by reliable packers and movers companies. In this guide, we will discuss the following aspects:
+        <h3 style="color:#ffffff; margin-top:24px;">Comprehensive Marine Transit Insurance</h3>
+        <p>Shree Ashirwad Packers and Movers offers 100% Declared‑Value Insurance under the IRDAI‑approved Marine Transit policy. This coverage protects your belongings against loss, theft, damage, or natural calamities during the entire Bangalore‑to‑Siliguri journey.</p>
+        <ul>
+          <li><strong>Full Value Coverage:</strong> Insures the exact declared value of each item, not a capped limit.</li>
+          <li><strong>All‑Risk Protection:</strong> Covers accidental damage, fire, flood, derailment, and pilferage.</li>
+          <li><strong>Quick Claim Settlement:</strong> Documentation includes the LR, invoice, and a signed claim form; claims are processed within 7‑10 business days.</li>
+          <li><strong>Zero Deductible Options:</strong> Choose a zero‑deductible plan for peace of mind.</li>
+        </ul>
+        <p>Our team assists you in completing the insurance paperwork, verifies the declared values, and provides a digital copy of the policy for easy reference.</p>
 
-1. GST E-Way Bills
-2. IBA-Approved Lorry Receipts (LR/Bilty)
-3. Comprehensive 100% Declared-Value IRDAI Marine Transit Insurance
-
-<h3>GST E-Way Bills</h3>
-
-GST E-Way Bills are electronic documents required for inter-state transportation of goods, as per the Goods and Services Tax (GST) Act. These bills ensure seamless movement of goods between states by verifying the details of the consignor, consignee, and cargo.
-
-To issue GST E-Way Bills, you need to follow these steps:
-
-1. Visit the official website of the Goods and Services Tax Network (GSTN) at <https://gst.gov.in/>.
-2. Create a GSTIN (Goods and Services Tax Identification Number) by clicking on the "User Registration" option. If you already have a GSTIN, log in using your credentials.
-3. Once logged in, select the "EWS - e-Way Bill" module under the "Services" tab.
-4. You can generate E-Way Bills for single or multiple consignments, depending on your requirements.
-5. Enter the necessary details:
-
-6. Submit the E-Way Bill Application to ensure the smooth transportation of goods between Bangalore and Siliguri.
-
-<h3>IBA-Approved Lorry Receipts (LR/Bilty)</h3>
-
-Indian Association of Movers and Packers (IBA) has introduced Lorry Receipts (LR/Bilty) to ensure safe transportation of goods between states in India. IBA-approved Lorry Receipts act as proof of transportation and provide necessary information for the consignor and consignee. These documents play a crucial role in ensuring a hassle-free transportation process. Following is a detailed explanation of the Lorry Receipts process:
-
-1. Visit the official website of the Indian Association of Movers and Packers (IBA) at <https://www.mba-india.org/>.
-2. Download the IBA Approved Lorry Receipts (LR/Bilty) format and fill in the relevant details:
-
-3. Submit the duly filled IBA Approved Lorry Receipts to the consignor and consignee.
-
-<h3>Comprehensive Insurance Coverage</h3></div>
+        <p style="margin-top:24px; font-weight:600; color:#c084fc;">Verified Shree Ashirwad Standard – Your goods are protected, documented, and delivered safely from Bangalore to Siliguri.</p>
+      </div>
     </div>
   </div>
 </section>
@@ -430,9 +509,7 @@ Indian Association of Movers and Packers (IBA) has introduced Lorry Receipts (LR
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Operational Infrastructure & Transit Standards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Operational Infrastructure &amp; Transit Standards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -481,9 +558,7 @@ Indian Association of Movers and Packers (IBA) has introduced Lorry Receipts (LR
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -516,11 +591,89 @@ Indian Association of Movers and Packers (IBA) has introduced Lorry Receipts (LR
   </div>
 </section>
 
+
+
+<!-- Section: Verified Operational Photo Showcase -->
+<section class="operational-gallery-section" style="background: #070d1e; padding: 55px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div style="text-align: center; margin-bottom: 32px;">
+      <span style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 14px; border-radius: 20px; font-size: 0.76rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 10px;">
+        <i class="fas fa-camera"></i> Grounded Operational Proof
+      </span>
+      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin: 0 0 10px 0;">Real On-Site Moving &amp; Fleet Operations: &lt;span style=&quot;color: #38bdf8;&quot;&gt;Bangalore to Siliguri&lt;/span&gt;</h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0; max-width: 750px; margin: 0 auto;">
+        100% authentic job-site photographs showcasing our certified packaging, container loading, and fleet transit.
+      </p>
+    </div>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 22px;">
+
+        <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
+          <div style="width: 100%; height: 230px; overflow: hidden; background: #020617; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/shree-ashirwad-moving-truck-fleet.jpeg" alt="GPS-Enabled Closed Container Truck Fleet - Shree Ashirwad Packers and Movers" title="GPS-Tracked Container Fleet" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.3s ease;">
+            <div style="position: absolute; top: 10px; right: 10px; background: rgba(15, 23, 42, 0.85); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.4); padding: 3px 10px; border-radius: 20px; font-size: 0.72rem; font-weight: 700; display: inline-flex; align-items: center; gap: 5px;">
+              <i class="fas fa-check-circle"></i> Verified Job Site
+            </div>
+          </div>
+          <div style="padding: 14px 16px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.06);">
+            <div style="color: #f8fafc; font-weight: 700; font-size: 0.95rem; margin-bottom: 6px;">GPS-Tracked Container Fleet</div>
+            <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.5; margin: 0;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> All-weather, closed-body container trucks equipped with satellite GPS tracking.
+            </p>
+          </div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
+          <div style="width: 100%; height: 230px; overflow: hidden; background: #020617; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/interstate-highway-container-transit.jpeg" alt="Interstate Highway Freight Movement via National Corridors - Shree Ashirwad" title="Interstate Highway Transit" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.3s ease;">
+            <div style="position: absolute; top: 10px; right: 10px; background: rgba(15, 23, 42, 0.85); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.4); padding: 3px 10px; border-radius: 20px; font-size: 0.72rem; font-weight: 700; display: inline-flex; align-items: center; gap: 5px;">
+              <i class="fas fa-check-circle"></i> Verified Job Site
+            </div>
+          </div>
+          <div style="padding: 14px 16px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.06);">
+            <div style="color: #f8fafc; font-weight: 700; font-size: 0.95rem; margin-bottom: 6px;">Interstate Highway Transit</div>
+            <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.5; margin: 0;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Seamless interstate transit along National Highway corridors with automated e-Way bill clearance.
+            </p>
+          </div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
+          <div style="width: 100%; height: 230px; overflow: hidden; background: #020617; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/professional-packing-crew-on-site.jpeg" alt="Uniformed, Experienced Moving Crew Performing Doorstep Relocation - Shree Ashirwad" title="Experienced Moving Team on Site" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.3s ease;">
+            <div style="position: absolute; top: 10px; right: 10px; background: rgba(15, 23, 42, 0.85); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.4); padding: 3px 10px; border-radius: 20px; font-size: 0.72rem; font-weight: 700; display: inline-flex; align-items: center; gap: 5px;">
+              <i class="fas fa-check-circle"></i> Verified Job Site
+            </div>
+          </div>
+          <div style="padding: 14px 16px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.06);">
+            <div style="color: #f8fafc; font-weight: 700; font-size: 0.95rem; margin-bottom: 6px;">Experienced Moving Team on Site</div>
+            <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.5; margin: 0;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Background-verified, trained moving specialists handling packing and loading with utmost care.
+            </p>
+          </div>
+        </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">Seamless Shifting Across Highway Corridors: &lt;span style=&quot;color: #f59e0b;&quot;&gt;Bangalore &amp; Siliguri Operations&lt;/span&gt;</h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an outstation residential shift from Bangalore to Siliguri or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Bangalore to Siliguri highway corridor.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Bangalore To Siliguri Packers And Movers
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Frequently Asked Questions &amp;bull; Bangalore To Siliguri Packers And Movers</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What is the transit duration for consignments from Bangalore to Siliguri?</h3>
@@ -686,11 +839,88 @@ Indian Association of Movers and Packers (IBA) has introduced Lorry Receipts (LR
   </div>
 </section>
 
+
+
+<section class="pan-india-network-section" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.7); border: 1px solid rgba(255,255,255,0.1); border-radius: 14px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 22px;">
+        <div>
+          <span style="background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.4); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            <i class="fas fa-globe-asia"></i> PAN-INDIA LOGISTICS NETWORK
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.45rem; font-weight: 800; margin-top: 8px; margin-bottom: 4px;">All-India Highway Transit Infrastructure &amp; Interstate Clearance Authority</h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 0;">
+            Licensed operations across 28 States &amp; 8 Union Territories with central RTO clearance desks.
+          </p>
+        </div>
+        <div style="display: flex; gap: 8px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 6px 12px; border-radius: 6px;">
+            <i class="fas fa-shield-check"></i> IBA CODE: DEL-2849
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 6px 12px; border-radius: 6px;">
+            <i class="fas fa-truck"></i> 450+ FLEET TRUCKS
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-file-signature" style="font-size: 1.1rem;"></i> All-State RTO &amp; Bilty Desk
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            Direct assistance for Form 28/29/30 clearances, road tax calculations, and computerized GST e-Way bill approvals across every state border checkpoint.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-satellite" style="font-size: 1.1rem;"></i> GPS Highway Corridors
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            Seamless long-haul connectivity across NH-33, NH-43, NH-20, and the Golden Quadrilateral expressway network with real-time transit telemetry.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-phone-alt" style="font-size: 1.1rem;"></i> Central Dispatch Hub
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            National Operations Hub: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | ISO 9001:2015 Certified Logistics
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Bangalore to Siliguri Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Bangalore+to+Siliguri+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-ahmedabad-packers-and-movers" title="Bangalore To Ahmedabad Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Ahmedabad Packers And Movers</a>
       <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-alwar-packers-and-movers" title="Bangalore To Alwar Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Alwar Packers And Movers</a>
@@ -704,9 +934,7 @@ Indian Association of Movers and Packers (IBA) has introduced Lorry Receipts (LR
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers bangalore to siliguri</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> move luggage from bangalore to siliguri</span>

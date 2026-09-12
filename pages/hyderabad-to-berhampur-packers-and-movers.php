@@ -32,6 +32,70 @@ $faq_list = [
         'a' => 'Yes, we provide comprehensive 100% declared value transit marine insurance policy coverage (calculated at 0.3% of goods valuation) covering accidental highway damage, fire, overturning, or natural transit hazards with zero-depreciation cashless settlement.']
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -192,9 +256,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         ROUTE FREIGHT MATRIX
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Corridor Freight Tariff &amp; Transit Schedule: Hyderabad to Berhampur (850 km)
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Corridor Freight Tariff &amp; Transit Schedule: Hyderabad to Berhampur (850 km)</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Verified highway corridor transit pricing via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways with zero hidden surcharges
       </p>
@@ -220,9 +282,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Hyderabad To Berhampur Packers And Movers
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Verified On-Site Operations: Hyderabad To Berhampur Packers And Movers</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -279,32 +339,32 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Shree Ashirwad Specialized Fleet, a prominent player in the relocation industry, offers a comprehensive range of services catering to the needs of individuals and businesses alike. Located in Hyderabad, Telangana, the company specializes in providing efficient and secure transportation solutions for various relocation requirements.</p>
 
 <h3>Specialized Fleet for Shifting to Berhampur, Orissa</h3>
-<p>Shree Ashirwad's fleet is equipped with a diverse range of vehicles suitable for transporting goods over long distances. In this case, we focus on their specialized fleet heading from Hyderabad to Berhampur, Orissa. This fleet comprises:</p>
+<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Shree Ashirwad&#039;s fleet is equipped with a diverse range of vehicles suitable for transporting goods over long distances. In this case, we focus on their specialized fleet heading from Hyderabad to Berhampur, Orissa. This fleet comprises:</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">18ft, 22ft, and 32ft MX Enclosed Containers:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">These containers are designed to protect your belongings from harsh weather conditions and external elements during transit. They utilize air-suspension systems to ensure a smooth ride for the cargo, minimizing the risk of damages.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>These containers are designed to protect your belongings from harsh weather conditions and external elements during transit. They utilize air-suspension systems to ensure a smooth ride for the cargo, minimizing the risk of damages.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Air-Suspension Systems:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The fleet's vehicles are fitted with air-suspension systems that create a level surface for the cargo, preventing tilting or uneven movement during transit.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The fleet&#039;s vehicles are fitted with air-suspension systems that create a level surface for the cargo, preventing tilting or uneven movement during transit.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Speed Governors Calibrated to 60 km/h:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The vehicles are equipped with speed governors that ensure a constant speed of 60 km/h, ensuring a safer, more stable journey for your belongings.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The vehicles are equipped with speed governors that ensure a constant speed of 60 km/h, ensuring a safer, more stable journey for your belongings.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Automated Milestone Alerts:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">To provide transparency and peace of mind, automated milestone alerts are sent to clients on WhatsApp. These alerts keep you informed about the journey's progress, including key milestones and estimated arrival times.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>To provide transparency and peace of mind, automated milestone alerts are sent to clients on WhatsApp. These alerts keep you informed about the journey&#039;s progress, including key milestones and estimated arrival times.</p>
   </div>
 </div>
 
 <h3>Related Packers and Movers Services in Hyderabad</h3>
-<p>Shree Ashirwad Specialized Fleet is part of a larger network of reputable packers and movers in Hyderabad. Here are some of the services they offer:</p>
+<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Shree Ashirwad Specialized Fleet is part of a larger network of reputable packers and movers in Hyderabad. Here are some of the services they offer:</p>
 <ul style="list-style: none; padding-left: 0; margin: 18px 0;">
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>SimpliShift Packers and Movers Hyderabad:</strong> A dedicated service focused on providing efficient and reliable relocation solutions in and around Hyderabad.</span></li>
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Packers and Movers in Serilingampally Hyderabad:</strong> Serving the Serilingampally area, this service ensures smooth and secure relocation for your household items.</span></li>
@@ -312,14 +372,14 @@ require_once __DIR__ . '/../includes/header.php';
 </ul>
 
 <h3>Price Factors for Packers and Movers Services</h3>
-<p>While pricing for packers and movers services can vary depending on several factors, some common price-determining elements include:</p>
+<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>While pricing for packers and movers services can vary depending on several factors, some common price-determining elements include:</p>
 <ul style="list-style: none; padding-left: 0; margin: 18px 0;">
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Distance:</strong> The longer the distance, the higher the cost due to increased transportation needs, such as fuel and driver accommodations.</span></li>
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Volume and Weight:</strong> The size and weight of the items being relocated will impact the total cost, as heavier or larger items require more manpower, fuel, and resources.</span></li>
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Additional Services:</strong> Services such as packing, unpacking, dismantling, and assembling may increase the cost, as they require extra labor and expertise.</span></li>
 </ul>
 
-<h3>Conclusion</h3></div>
+<h3>Conclusion</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Conclusion ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Hyderabad to Berhampur Packers And Movers corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -367,35 +427,49 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
 <p>When planning a seamless household or office relocation from Hyderabad to Berhampur, Orissa, it is essential to engage a reliable and experienced mover and packer. We present an authoritative operational transit analysis for <strong>SimpliShift Packers and Movers Hyderabad</strong> and their associated services.</p>
 
-<h3>Transit Routes and Corridors</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">National Highway Arterial Corridors</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">To minimize the distance and travel time, we recommend utilizing National Highway Arterial Corridors, connecting Hyderabad and Berhampur. This ensures a direct route and reduces the risk of road disruptions.</p>
+<h3>Transit Routes and Corridors
+
+  
+    01
+    National Highway Arterial Corridors</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>To minimize the distance and travel time, we recommend utilizing National Highway Arterial Corridors, connecting Hyderabad and Berhampur. This ensures a direct route and reduces the risk of road disruptions.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Multi-Axle Express Freight Highways</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">To optimize load distribution and efficiency, our team will utilize Multi-Axle Express Freight Highways, which are specifically designed for heavy-duty transportation. These highways ensure smooth transportation and reduced transit time.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>To optimize load distribution and efficiency, our team will utilize Multi-Axle Express Freight Highways, which are specifically designed for heavy-duty transportation. These highways ensure smooth transportation and reduced transit time.</p>
   </div>
 </div>
 
-<h3>Moving Services</h3>
-<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Dual-Driver Rotations:</strong> To ensure a smooth journey and minimize fatigue, our team will employ dual-driver rotations. This ensures constant monitoring and safe transportation of your belongings.</span></li>
-	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Satellite GPS Checkpoints:</strong> Our team will utilize satellite GPS tracking to monitor the truck's location in real-time and ensure timely delivery. This technology allows us to track the truck's route, fuel consumption, and overall progress.</span></li>
-	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Scheduled Rest Stops:</strong> To maintain the well-being of our drivers and ensure safe transportation, our team will schedule regular rest stops at designated locations. These stops will provide drivers with necessary rest, meals, and relaxation.</span></li>
-</ul>
+<h3>Moving Services
 
-<h3>Container Security and Packaging</h3>
-<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Zero-Transshipment Container Security:</strong> Our team will ensure a secure journey for your belongings by avoiding transshipment at intermediate locations. By keeping your belongings within a single vehicle, we guarantee maximum security and minimize the risk of theft or loss.</span></li>
-	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>High-Quality Packaging:</strong> To ensure the safe transportation of your valuable possessions, our team will utilize high-quality packaging materials. We will use robust boxes, wrapping papers, and appropriate padding to protect your belongings during transit.</span></li>
-	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Container Sealing and Verification:</strong> Prior to departure, our team will ensure that all containers are securely sealed and verified to guarantee their integrity throughout the journey.</span></li>
-</ul>
+	Dual-Driver Rotations: To ensure a smooth journey and minimize fatigue, our team will employ dual-driver rotations. This ensures constant monitoring and safe transportation of your belongings.
+	Satellite GPS Checkpoints: Our team will utilize satellite GPS tracking to monitor the truck&amp;#039;s location in real-time and ensure timely delivery. This technology allows us to track the truck&amp;#039;s route, fuel consumption, and overall progress.
+	Scheduled Rest Stops: To maintain the well-being of our drivers and ensure safe transportation, our team will schedule regular rest stops at designated locations. These stops will provide drivers with necessary rest, meals, and relaxation.
 
-<h3>Transit Estimates and Factors</h3></div>
+
+Container Security and Packaging
+
+	Zero-Transshipment Container Security: Our team will ensure a secure journey for your belongings by avoiding transshipment at intermediate locations. By keeping your belongings within a single vehicle, we guarantee maximum security and minimize the risk of theft or loss.
+	High-Quality Packaging: To ensure the safe transportation of your valuable possessions, our team will utilize high-quality packaging materials. We will use robust boxes, wrapping papers, and appropriate padding to protect your belongings during transit.
+	Container Sealing and Verification: Prior to departure, our team will ensure that all containers are securely sealed and verified to guarantee their integrity throughout the journey.
+
+
+Transit Estimates and Factors</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Moving Services
+
+	Dual-Driver Rotations: To ensure a smooth journey and minimize fatigue, our team will employ dual-driver rotations. This ensures constant monitoring and safe transportation of your belongings.
+	Satellite GPS Checkpoints: Our team will utilize satellite GPS tracking to monitor the truck's location in real-time and ensure timely delivery. This technology allows us to track the truck's route, fuel consumption, and overall progress.
+	Scheduled Rest Stops: To maintain the well-being of our drivers and ensure safe transportation, our team will schedule regular rest stops at designated locations. These stops will provide drivers with necessary rest, meals, and relaxation.
+
+
+Container Security and Packaging
+
+	Zero-Transshipment Container Security: Our team will ensure a secure journey for your belongings by avoiding transshipment at intermediate locations. By keeping your belongings within a single vehicle, we guarantee maximum security and minimize the risk of theft or loss.
+	High-Quality Packaging: To ensure the safe transportation of your valuable possessions, our team will utilize high-quality packaging materials. We will use robust boxes, wrapping papers, and appropriate padding to protect your belongings during transit.
+	Container Sealing and Verification: Prior to departure, our team will ensure that all containers are securely sealed and verified to guarantee their integrity throughout the journey.
+
+
+Transit Estimates and Factors ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Hyderabad to Berhampur Packers And Movers corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -443,9 +517,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Operational Infrastructure & Transit Standards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Operational Infrastructure &amp; Transit Standards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -494,9 +566,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -529,11 +599,28 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Highway Corridors: <span style="color: #f59e0b;">Hyderabad &amp; Berhampur Packers And Movers Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an outstation residential shift from Hyderabad to Berhampur Packers And Movers or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Hyderabad to Berhampur Packers And Movers highway corridor.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Hyderabad To Berhampur Packers And Movers
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Frequently Asked Questions &amp;bull; Hyderabad To Berhampur Packers And Movers</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What is the transit duration for consignments from Hyderabad to Berhampur?</h3>
@@ -699,11 +786,88 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Hyderabad to Berhampur Packers And Movers Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Hyderabad+to+Berhampur+Packers+And+Movers+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- SECTION: LOCAL SEO & ENTITY GEO-SIGNALS (Google Knowledge Graph & Local Pack Grounding) -->
+<section class="geo-signals-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 12px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 20px;">
+        <div>
+          <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 14px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            📍 Entity Grounding &amp; Geo-Coordinates
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-top: 8px; margin-bottom: 0;">
+            Hyderabad to Berhampur Packers And Movers Interstate Logistics Corridor via NH-33, NH-43 &amp; NH-20 Expressway Network
+          </h3>
+        </div>
+        <div style="display: flex; gap: 10px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LAT: 23.3639813° N
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LNG: 85.3090259° E
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-map-marked-alt"></i> Primary Service Localities &amp; Pickup Hubs:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Harmu Housing Colony • Lalpur • Kanke Road • Bariatu • Doranda • Morabadi • Dhurwa (HEC) • Ratu Road • Ashok Nagar • Namkum • Tupudana Industrial Area • Birsa Chowk • Hinoo
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-road"></i> National Highway Corridors:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Connected via <strong>NH-33</strong> (Ranchi–Jamshedpur–Kolkata), <strong>NH-43</strong> (Ranchi–Gumla), <strong>NH-20</strong> (Ranchi–Patna), and <strong>Ring Road Expressway</strong> for non-stop interstate container movement.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-building"></i> Registered Headquarters Hub:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | IBA Code &amp; ISO 9001:2015 Certified
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/hyderabad-to-adoni-packers-and-movers" title="Hyderabad To Adoni Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Hyderabad To Adoni Packers And Movers</a>
       <a href="https://shreeashirwadpackersandmovers.com/hyderabad-to-ahmedabad-packers-and-movers" title="Hyderabad To Ahmedabad Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Hyderabad To Ahmedabad Packers And Movers</a>
@@ -717,9 +881,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers hyderabad to berhampur orissa</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> simplishift packers and movers hyderabad hyderabad telangana</span>

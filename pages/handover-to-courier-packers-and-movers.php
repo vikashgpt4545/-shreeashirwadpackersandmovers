@@ -32,6 +32,70 @@ $faq_list = [
         'a' => 'Yes, we provide comprehensive 100% declared value transit marine insurance policy coverage (calculated at 0.3% of goods valuation) covering accidental highway damage, fire, overturning, or natural transit hazards with zero-depreciation cashless settlement.']
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -156,17 +220,17 @@ require_once __DIR__ . '/../includes/header.php';
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">18ft MX Enclosed Container:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">This container is suitable for businesses requiring efficient shipping solutions for medium-sized packages and cargo. It features an air-suspension system to ensure safe transportation and a speed governor calibrated to 60 km/h, ensuring safe delivery.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>This container is suitable for businesses requiring efficient shipping solutions for medium-sized packages and cargo. It features an air-suspension system to ensure safe transportation and a speed governor calibrated to 60 km/h, ensuring safe delivery.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">22ft MX Enclosed Container:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Suitable for businesses shipping larger packages and cargo, this container features the same air-suspension system and speed governor calibration as the 18ft MX container. Additionally, automated milestone alerts are sent to clients via WhatsApp, providing real-time updates on the shipment's progress.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Suitable for businesses shipping larger packages and cargo, this container features the same air-suspension system and speed governor calibration as the 18ft MX container. Additionally, automated milestone alerts are sent to clients via WhatsApp, providing real-time updates on the shipment&#039;s progress.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">32ft MX Enclosed Container:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">This largest container is ideal for businesses requiring maximum cargo capacity. With advanced features like air-suspension systems, speed governors calibrated to 60 km/h, and automated milestone alerts via WhatsApp, the 32ft MX container ensures a hassle-free and secure shipping experience.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>This largest container is ideal for businesses requiring maximum cargo capacity. With advanced features like air-suspension systems, speed governors calibrated to 60 km/h, and automated milestone alerts via WhatsApp, the 32ft MX container ensures a hassle-free and secure shipping experience.</p>
   </div>
 </div>
 
@@ -183,7 +247,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <h3>Specialized Features</h3>
 
-<p><strong>Advanced Features:</strong></p>
+<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Specialized Features (Advanced Features:) ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Handover to Courier Packers And Movers corridor with scheduled highway transit stops.</p>
 
 <ul style="list-style: none; padding-left: 0; margin: 18px 0;">
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><a href="#">Automated Milestone Alerts:</a> Our advanced features include automated milestone alerts via WhatsApp, providing clients with real-time updates on the shipment's progress.</span></li>
@@ -192,7 +256,7 @@ require_once __DIR__ . '/../includes/header.php';
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><a href="#">Customization:</a> We understand the unique needs of our clients, and our services are customized accordingly to meet their requirements.</span></li>
 </ul>
 
-<h3>Enhancing Customer Experience</h3></div>
+<h3>Enhancing Customer Experience</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Enhancing Customer Experience ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Handover to Courier Packers And Movers corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -206,9 +270,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         ROUTE FREIGHT MATRIX
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Corridor Freight Tariff &amp; Transit Schedule: Handover to Courier (850 km)
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Corridor Freight Tariff &amp; Transit Schedule: Handover to Courier (850 km)</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Verified highway corridor transit pricing via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways with zero hidden surcharges
       </p>
@@ -234,9 +296,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Handover To Courier Packers And Movers
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Verified On-Site Operations: Handover To Courier Packers And Movers</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -294,14 +354,14 @@ require_once __DIR__ . '/../includes/header.php';
 <p>Every move that crosses state borders or involves a value‑based claim must be documented with a GST e‑Way bill, an IBA‑approved Lorry Receipt (LR or Bilty) and, for marine or long‑haul routes, a 100 % declared‑value IRDAI marine transit insurance covering accidental collision or unforeseen delays.</p>
 
 <h3>GST e‑Way Bill</h3>
-<p>The e‑Way bill is a digital transport document issued on the GST portal. It authorises the movement of goods, specifies the consignor and consignee details, and records the value and tax liability.</p>
+<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The e‑Way bill is a digital transport document issued on the GST portal. It authorises the movement of goods, specifies the consignor and consignee details, and records the value and tax liability.</p>
 <p>For interstate relocations—such as <strong>shifting of household goods from Mandapeta to Vizianagaram</strong> or <strong>home shifting & parcel</strong> services—this bill must be generated before the courier departs. Failure to carry a valid e‑Way bill can lead to customs inspection, penalties or even seizure of the cargo.</p>
 
 <h3>IBA‑Approved Lorry Receipt (LR/Bilty)</h3>
-<p>The LR, also known as a Bilty, is the physical proof of delivery issued by the carrier. An IBA‑approved LR guarantees that the courier has inspected the goods, recorded the condition, and acknowledged the quantity.</p>
+<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The LR, also known as a Bilty, is the physical proof of delivery issued by the carrier. An IBA‑approved LR guarantees that the courier has inspected the goods, recorded the condition, and acknowledged the quantity.</p>
 <p>For local moves, such as <strong>courier service near BTM Layout</strong> or <strong>courier services in New Panvel and its rates</strong>, the LR should include the courier’s licence number, vehicle details and the signature of the driver and receiver.</p>
 
-<h3>IRDAI Marine Transit Insurance</h3></div>
+<h3>IRDAI Marine Transit Insurance</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for IRDAI Marine Transit Insurance ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Handover to Courier Packers And Movers corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -402,47 +462,68 @@ require_once __DIR__ . '/../includes/header.php';
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">80-GSM Heavy-Duty Air-Bubble Wrap:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enveloping delicate and fragile items in air-bubble wrap ensures they are cushioned against potential impacts and scratches. The 80-GSM (grams per square meter) heavy-duty variant provides added strength and durability, ensuring the bubble layer remains intact during transit.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Enveloping delicate and fragile items in air-bubble wrap ensures they are cushioned against potential impacts and scratches. The 80-GSM (grams per square meter) heavy-duty variant provides added strength and durability, ensuring the bubble layer remains intact during transit.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">High-Density Edge Guards:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Ensuring additional protection for corners and edges, high-density edge guards are designed to absorb shocks and prevent chipping or breaking. These guards are typically made of sturdy plastic and can be easily attached to the periphery of each item.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Ensuring additional protection for corners and edges, high-density edge guards are designed to absorb shocks and prevent chipping or breaking. These guards are typically made of sturdy plastic and can be easily attached to the periphery of each item.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Corrugated Fiberboard Crating:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">For larger and heavier items, corrugated fiberboard crating is employed for enhanced stability and strength. This involves meticulously crafting protective boxes out of corrugated cardboard, ensuring the item is snugly secured within.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>For larger and heavier items, corrugated fiberboard crating is employed for enhanced stability and strength. This involves meticulously crafting protective boxes out of corrugated cardboard, ensuring the item is snugly secured within.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Stretch-Film Weatherproofing:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">After the items are securely packed, they are encased in stretch film that acts as a weatherproof barrier. This prevents rain, dust, and other environmental elements from affecting the packaging during its journey.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>After the items are securely packed, they are encased in stretch film that acts as a weatherproof barrier. This prevents rain, dust, and other environmental elements from affecting the packaging during its journey.</p>
   </div>
 </div>
 
-<h3>Advice on Selected Courier Services</h3>
+<h3>Advice on Selected Courier Services
 
-<ul>
-  <li><strong>UPS Courier Service in Wakad:</strong> With a strong global network and reputation for reliable delivery, UPS is a trusted choice for household goods transportation. Their meticulous handling process ensures a safe transit.</li>
-  <li><strong>Orange Courier Rajahmundry:</strong> Serving as an alternative option, Orange Courier offers comprehensive packaging and shipping solutions for your household items. Their professional approach ensures your belongings reach their destination in pristine condition.</li>
-</ul>
 
-<h3>Recommendations for Other Courier Services</h3>
+  UPS Courier Service in Wakad: With a strong global network and reputation for reliable delivery, UPS is a trusted choice for household goods transportation. Their meticulous handling process ensures a safe transit.
+  Orange Courier Rajahmundry: Serving as an alternative option, Orange Courier offers comprehensive packaging and shipping solutions for your household items. Their professional approach ensures your belongings reach their destination in pristine condition.
 
-<ul>
-  <li><strong>Courier Services Near BTM Layout:</strong> To cater to your specific location, various courier services are available in and around Bangalore, such as Blue Dart, DHL, and FedEx.</li>
-  <li><strong>Courier Services in New Panvel:</strong> For those residing in the New Panvel area, India Post and TackTick are reliable options for packaging and shipping your household goods.</li>
-</ul>
 
-<h3>Costs and Rates of Courier Services</h3>
+Recommendations for Other Courier Services
 
-<ul>
-  <li><strong>UPS Courier Service Costs:</strong> UPS offers competitive packaging and shipping rates, ensuring your budget stays within your expectations.</li>
-  <li><strong>Orange Courier Service Rates:</strong> To understand the pricing structure of Orange Courier Rajahmundry, it is advisable to contact their customer support for precise details tailored to your shipment specifications.</li>
-</ul>
 
-<h3>Choosing the Right Courier Service for Your Move</h3></div>
+  Courier Services Near BTM Layout: To cater to your specific location, various courier services are available in and around Bangalore, such as Blue Dart, DHL, and FedEx.
+  Courier Services in New Panvel: For those residing in the New Panvel area, India Post and TackTick are reliable options for packaging and shipping your household goods.
+
+
+Costs and Rates of Courier Services
+
+
+  UPS Courier Service Costs: UPS offers competitive packaging and shipping rates, ensuring your budget stays within your expectations.
+  Orange Courier Service Rates: To understand the pricing structure of Orange Courier Rajahmundry, it is advisable to contact their customer support for precise details tailored to your shipment specifications.
+
+
+Choosing the Right Courier Service for Your Move</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Advice on Selected Courier Services
+
+
+  UPS Courier Service in Wakad: With a strong global network and reputation for reliable delivery, UPS is a trusted choice for household goods transportation. Their meticulous handling process ensures a safe transit.
+  Orange Courier Rajahmundry: Serving as an alternative option, Orange Courier offers comprehensive packaging and shipping solutions for your household items. Their professional approach ensures your belongings reach their destination in pristine condition.
+
+
+Recommendations for Other Courier Services
+
+
+  Courier Services Near BTM Layout: To cater to your specific location, various courier services are available in and around Bangalore, such as Blue Dart, DHL, and FedEx.
+  Courier Services in New Panvel: For those residing in the New Panvel area, India Post and TackTick are reliable options for packaging and shipping your household goods.
+
+
+Costs and Rates of Courier Services
+
+
+  UPS Courier Service Costs: UPS offers competitive packaging and shipping rates, ensuring your budget stays within your expectations.
+  Orange Courier Service Rates: To understand the pricing structure of Orange Courier Rajahmundry, it is advisable to contact their customer support for precise details tailored to your shipment specifications.
+
+
+Choosing the Right Courier Service for Your Move ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Handover to Courier Packers And Movers corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -456,9 +537,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Operational Infrastructure & Transit Standards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Operational Infrastructure &amp; Transit Standards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -507,9 +586,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -542,11 +619,28 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Highway Corridors: <span style="color: #f59e0b;">Handover &amp; Courier Packers And Movers Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an outstation residential shift from Handover to Courier Packers And Movers or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Handover to Courier Packers And Movers highway corridor.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Handover To Courier Packers And Movers
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Frequently Asked Questions &amp;bull; Handover To Courier Packers And Movers</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What is the transit duration for consignments from Handover to Courier?</h3>
@@ -712,11 +806,88 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Handover to Courier Packers And Movers Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Handover+to+Courier+Packers+And+Movers+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- SECTION: LOCAL SEO & ENTITY GEO-SIGNALS (Google Knowledge Graph & Local Pack Grounding) -->
+<section class="geo-signals-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 12px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 20px;">
+        <div>
+          <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 14px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            📍 Entity Grounding &amp; Geo-Coordinates
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-top: 8px; margin-bottom: 0;">
+            Handover to Courier Packers And Movers Interstate Logistics Corridor via NH-33, NH-43 &amp; NH-20 Expressway Network
+          </h3>
+        </div>
+        <div style="display: flex; gap: 10px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LAT: 23.3639813° N
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LNG: 85.3090259° E
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-map-marked-alt"></i> Primary Service Localities &amp; Pickup Hubs:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Harmu Housing Colony • Lalpur • Kanke Road • Bariatu • Doranda • Morabadi • Dhurwa (HEC) • Ratu Road • Ashok Nagar • Namkum • Tupudana Industrial Area • Birsa Chowk • Hinoo
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-road"></i> National Highway Corridors:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Connected via <strong>NH-33</strong> (Ranchi–Jamshedpur–Kolkata), <strong>NH-43</strong> (Ranchi–Gumla), <strong>NH-20</strong> (Ranchi–Patna), and <strong>Ring Road Expressway</strong> for non-stop interstate container movement.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-building"></i> Registered Headquarters Hub:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | IBA Code &amp; ISO 9001:2015 Certified
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/delhi-to-courier-packers-and-movers" title="Delhi To Courier Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Delhi To Courier Packers And Movers</a>
       <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
@@ -730,9 +901,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> handover to courier</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> ups courier service in wakad</span>

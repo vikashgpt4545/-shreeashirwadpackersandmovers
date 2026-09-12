@@ -51,6 +51,70 @@ $faq_list = [
     ]
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -206,9 +270,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         TRANSPARENT TARIFF MATRIX
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Two-Wheeler Relocation Tariff &amp; Safety Matrix
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Two-Wheeler Relocation Tariff &amp; Safety Matrix</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Verified freight rate bands, multi-layer packaging tiers, and transit insurance for two-wheelers
       </p>
@@ -234,9 +296,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Bike Transportation in Gunupur | Safe Two-Wheeler Shifting Rayagada OD-18
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -293,46 +353,64 @@ require_once __DIR__ . '/../includes/header.php';
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
 	<p>When it comes to transporting bikes in Gunupur, utilizing specialized enclosed hydraulic ramp carriers is a highly efficient and secure method. These carriers are designed specifically for transporting two-wheelers and ensure a safe journey for your bike.</p>
 
-	<h3>Specialized Enclosed Hydraulic Ramp Carriers</h3>
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Sturdy Construction:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">These carriers are built with high-quality materials, providing a robust and durable structure to withstand the transportation process.</p>
+	<h3>Specialized Enclosed Hydraulic Ramp Carriers
+	
+  
+    01
+    Sturdy Construction:</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>These carriers are built with high-quality materials, providing a robust and durable structure to withstand the transportation process.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Enclosed Design:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The enclosed design ensures your bike remains protected from external elements, such as weather conditions and potential theft.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The enclosed design ensures your bike remains protected from external elements, such as weather conditions and potential theft.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Hydraulic Ramp:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Equipped with a hydraulic ramp, loading and unloading your bike is made simple and efficient.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Equipped with a hydraulic ramp, loading and unloading your bike is made simple and efficient.</p>
   </div>
 </div>
 
 	<p>To guarantee maximum stability during transportation, individual steel wheel-lock chocks are employed. These chocks are specifically designed to securely lock each wheel in place, preventing any movement or potential damage to your bike.</p>
 
-	<h3>Steel Wheel-Lock Chocks</h3>
-	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Individual Locking:</strong> Each wheel is secured individually, ensuring maximum stability and protection for your bike.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Steel Construction:</strong> The use of high-quality steel ensures durability and reliability in securing your bike.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Non-Marring Design:</strong> These chocks are specifically engineered to prevent any scratches or damages to your bike's tires and rims.</span></li>
-	</ul>
+	<h3>Steel Wheel-Lock Chocks
+	
+		Individual Locking: Each wheel is secured individually, ensuring maximum stability and protection for your bike.
+		Steel Construction: The use of high-quality steel ensures durability and reliability in securing your bike.
+		Non-Marring Design: These chocks are specifically engineered to prevent any scratches or damages to your bike&amp;#039;s tires and rims.
+	
 
-	<p>To prevent any unintended movement during the transportation process, high-tensile ratchet lashing is employed. This advanced lashing system ensures your bike remains secure throughout the journey.</p>
+	To prevent any unintended movement during the transportation process, high-tensile ratchet lashing is employed. This advanced lashing system ensures your bike remains secure throughout the journey.
 
-	<h3>High-Tensile Ratchet Lashing</h3>
-	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>High Tensile Strength:</strong> The ratchet lashing is crafted from high-tensile materials, ensuring the utmost strength and durability.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Multiple Points of Attachment:</strong> This lashing system ensures your bike is securely fastened at various points, reducing the risk of movement during transit.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Ratchet Mechanism:</strong> The ratchet mechanism provides a tight and customizable securement, ensuring your bike is safely held in place.</span></li>
-	</ul>
+	High-Tensile Ratchet Lashing
+	
+		High Tensile Strength: The ratchet lashing is crafted from high-tensile materials, ensuring the utmost strength and durability.
+		Multiple Points of Attachment: This lashing system ensures your bike is securely fastened at various points, reducing the risk of movement during transit.
+		Ratchet Mechanism: The ratchet mechanism provides a tight and customizable securement, ensuring your bike is safely held in place.
+	
 
-	<p>In Gunupur, there are various methods to transport bikes:</p>
+	In Gunupur, there are various methods to transport bikes:
 
-	<h3>Two Wheeler Transport via Train</h3></div>
+	Two Wheeler Transport via Train</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Steel Wheel-Lock Chocks
+	
+		Individual Locking: Each wheel is secured individually, ensuring maximum stability and protection for your bike.
+		Steel Construction: The use of high-quality steel ensures durability and reliability in securing your bike.
+		Non-Marring Design: These chocks are specifically engineered to prevent any scratches or damages to your bike's tires and rims.
+	
+
+	To prevent any unintended movement during the transportation process, high-tensile ratchet lashing is employed. This advanced lashing system ensures your bike remains secure throughout the journey.
+
+	High-Tensile Ratchet Lashing
+	
+		High Tensile Strength: The ratchet lashing is crafted from high-tensile materials, ensuring the utmost strength and durability.
+		Multiple Points of Attachment: This lashing system ensures your bike is securely fastened at various points, reducing the risk of movement during transit.
+		Ratchet Mechanism: The ratchet mechanism provides a tight and customizable securement, ensuring your bike is safely held in place.
+	
+
+	In Gunupur, there are various methods to transport bikes:
+
+	Two Wheeler Transport via Train ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Ranchi corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -345,46 +423,56 @@ require_once __DIR__ . '/../includes/header.php';
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Pre-Loading Inspection, Odometer Logging &amp; Photographic Audit for Bike Transportation Gunupur Safe</h2>
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
 	<p>Transporting two-wheelers and motorcycles requires meticulous planning and preparation to ensure safe and smooth transportation. Below, we provide a detailed checklist covering essential protocols for both train and bus services:</p>
-	<h3>Pre-loading Protocols for Two-Wheeler &amp; Motorcycle Transport:</h3>
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">360-Degree Digital Condition Audit:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Before loading two-wheelers onto transport vehicles, conduct a comprehensive digital condition audit capturing every aspect of the bike's condition. This ensures minimal damage during transit and facilitates efficient claims processing if any issues arise.</p>
+	<h3>Pre-loading Protocols for Two-Wheeler &amp; Motorcycle Transport:
+	
+  
+    01
+    360-Degree Digital Condition Audit:</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Before loading two-wheelers onto transport vehicles, conduct a comprehensive digital condition audit capturing every aspect of the bike&#039;s condition. This ensures minimal damage during transit and facilitates efficient claims processing if any issues arise.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Battery Terminal Checks:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Inspect and ensure proper connections of the bike's battery terminals. Reconnecting battery terminals improperly could lead to electrical issues during transit.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Inspect and ensure proper connections of the bike&#039;s battery terminals. Reconnecting battery terminals improperly could lead to electrical issues during transit.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">One-Quarter Tank Fuel Regulation:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Fill the fuel tank of the two-wheeler up to one-quarter of its capacity. Overfilling can lead to accidental spills and leaks, while an empty tank may cause damage due to cold weather during transit.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Fill the fuel tank of the two-wheeler up to one-quarter of its capacity. Overfilling can lead to accidental spills and leaks, while an empty tank may cause damage due to cold weather during transit.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">FASTag Management:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Attach the FASTag to the bike's rearview mirror or windshield to facilitate seamless toll payments and minimize inconvenience during transit. Ensure that the FASTag is properly attached and functional before loading the bike.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Attach the FASTag to the bike&#039;s rearview mirror or windshield to facilitate seamless toll payments and minimize inconvenience during transit. Ensure that the FASTag is properly attached and functional before loading the bike.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Documentation Requirements:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Prepare necessary documents, such as the bike's registration papers, insurance certificate, and proof of ownership. These documents are crucial for effective tracking and documentation during transit.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Prepare necessary documents, such as the bike&#039;s registration papers, insurance certificate, and proof of ownership. These documents are crucial for effective tracking and documentation during transit.</p>
   </div>
 </div>
 
-	<h3>Two-Wheeler Transport by Train:</h3>
-	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Documentation Preparation:</strong> Ensure that all relevant documents, including registration papers, insurance certificates, and proof of ownership, are ready before transporting the bike by train.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Luggage Space Availability:</strong> Check the train's luggage space availability to determine if it can accommodate the bike or not. In case of inadequate space, consider alternative modes of transport such as trucks or container-based transport.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Train Ticketing:</strong> Secure train tickets for both the pickup and delivery destinations. Make sure to choose the appropriate train category that suits your bike's dimensions and weight.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Bike Loading &amp; Unloading Process:</strong> Liaise with the railway authorities or transport companies for the safe loading and unloading process, ensuring minimal risk of damage during the transition.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Train Transport Preparation:</strong> Before placing the bike on the train, ensure that it is clean and in good condition. Removing unnecessary items and keeping the bike securely tied with straps or chains can prevent any accidental movement during transit.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Insurance Coverage:</strong> Verify that you have valid insurance coverage for the bike, ensuring protection in case of any accidental damage during transit.</span></li>
-	</ul>
+	<h3>Two-Wheeler Transport by Train:
+	
+		Documentation Preparation: Ensure that all relevant documents, including registration papers, insurance certificates, and proof of ownership, are ready before transporting the bike by train.
+		Luggage Space Availability: Check the train&amp;#039;s luggage space availability to determine if it can accommodate the bike or not. In case of inadequate space, consider alternative modes of transport such as trucks or container-based transport.
+		Train Ticketing: Secure train tickets for both the pickup and delivery destinations. Make sure to choose the appropriate train category that suits your bike&amp;#039;s dimensions and weight.
+		Bike Loading &amp; Unloading Process: Liaise with the railway authorities or transport companies for the safe loading and unloading process, ensuring minimal risk of damage during the transition.
+		Train Transport Preparation: Before placing the bike on the train, ensure that it is clean and in good condition. Removing unnecessary items and keeping the bike securely tied with straps or chains can prevent any accidental movement during transit.
+		Insurance Coverage: Verify that you have valid insurance coverage for the bike, ensuring protection in case of any accidental damage during transit.
+	
 
-	<h3>Two-Wheeler Transport by Bus:</h3></div>
+	Two-Wheeler Transport by Bus:</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Two-Wheeler Transport by Train:
+	
+		Documentation Preparation: Ensure that all relevant documents, including registration papers, insurance certificates, and proof of ownership, are ready before transporting the bike by train.
+		Luggage Space Availability: Check the train's luggage space availability to determine if it can accommodate the bike or not. In case of inadequate space, consider alternative modes of transport such as trucks or container-based transport.
+		Train Ticketing: Secure train tickets for both the pickup and delivery destinations. Make sure to choose the appropriate train category that suits your bike's dimensions and weight.
+		Bike Loading &amp; Unloading Process: Liaise with the railway authorities or transport companies for the safe loading and unloading process, ensuring minimal risk of damage during the transition.
+		Train Transport Preparation: Before placing the bike on the train, ensure that it is clean and in good condition. Removing unnecessary items and keeping the bike securely tied with straps or chains can prevent any accidental movement during transit.
+		Insurance Coverage: Verify that you have valid insurance coverage for the bike, ensuring protection in case of any accidental damage during transit.
+	
+
+	Two-Wheeler Transport by Bus: ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Ranchi corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -472,9 +560,7 @@ Bullet points can be</div>
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Vehicle Carrier Engineering & Transit Safeguards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Vehicle Carrier Engineering &amp; Transit Safeguards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -523,9 +609,7 @@ Bullet points can be</div>
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -558,11 +642,28 @@ Bullet points can be</div>
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-globe-asia"></i> PAN-INDIA RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Interstate Shifting: <span style="color: #f59e0b;">Pan-India Carrier Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an interstate household relocation or planning dedicated car carrier transport across India, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout all major Indian state capitals and commercial corridors.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Bike Transportation in Gunupur | Safe Two-Wheeler Shifting Rayagada OD-18
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What documents are required to book Two-Wheeler &amp; Motorcycle transport?</h3>
@@ -585,7 +686,7 @@ Bullet points can be</div>
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact.</p>
       </div>
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&#039;s location while it is on the carrier?</h3>
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&amp;#039;s location while it is on the carrier?</h3>
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp.</p>
       </div>
   </div>
@@ -728,11 +829,88 @@ Bullet points can be</div>
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Packers and Movers in Ranchi
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Packers+and+Movers+in+Ranchi&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- SECTION: LOCAL SEO & ENTITY GEO-SIGNALS (Google Knowledge Graph & Local Pack Grounding) -->
+<section class="geo-signals-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 12px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 20px;">
+        <div>
+          <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 14px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            📍 Entity Grounding &amp; Geo-Coordinates
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-top: 8px; margin-bottom: 0;">
+            Ranchi Urban &amp; Greater Chota Nagpur Logistics Belt (Harmu Hub, Ratu Road, NH-33 &amp; NH-43)
+          </h3>
+        </div>
+        <div style="display: flex; gap: 10px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LAT: 23.3639813° N
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LNG: 85.3090259° E
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-map-marked-alt"></i> Primary Service Localities &amp; Pickup Hubs:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Harmu Housing Colony • Lalpur • Kanke Road • Bariatu • Doranda • Morabadi • Dhurwa (HEC) • Ratu Road • Ashok Nagar • Namkum • Tupudana Industrial Area • Birsa Chowk • Hinoo
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-road"></i> National Highway Corridors:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Connected via <strong>NH-33</strong> (Ranchi–Jamshedpur–Kolkata), <strong>NH-43</strong> (Ranchi–Gumla), <strong>NH-20</strong> (Ranchi–Patna), and <strong>Ring Road Expressway</strong> for non-stop interstate container movement.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-building"></i> Registered Headquarters Hub:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | IBA Code &amp; ISO 9001:2015 Certified
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/car-transportation-in-gunupur" title="Car Transportation In Gunupur" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Car Transportation In Gunupur</a>
       <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
@@ -746,9 +924,7 @@ Bullet points can be</div>
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Bike Transportation In Gunupur</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> two wheeler transport by train</span>

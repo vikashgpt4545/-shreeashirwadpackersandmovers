@@ -49,6 +49,70 @@ $faq_list = [
     ]
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -206,9 +270,7 @@ In conclusion, **Bike Transportation In Mudbidri** is a vital service that requi
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         TRANSPARENT TARIFF MATRIX
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Two-Wheeler Relocation Tariff &amp; Safety Matrix
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Two-Wheeler Relocation Tariff &amp; Safety Matrix</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Verified freight rate bands, multi-layer packaging tiers, and transit insurance for two-wheelers
       </p>
@@ -234,9 +296,7 @@ In conclusion, **Bike Transportation In Mudbidri** is a vital service that requi
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Bike Transportation in Mudbidri | Secure Two-Wheeler Shifting Karnataka
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -298,17 +358,44 @@ In conclusion, **Bike Transportation In Mudbidri** is a vital service that requi
 
 ---
 
-### 2. Core Features of a Secure Bike Transport Service  
-
-| Feature | What It Means | Why It Matters for Bike Owners |
-|---------|---------------|--------------------------------|
-| **Hydraulic Ramp Trailers** | Heavy‑duty trailers equipped with hydraulic lifts that lower the bike onto the trailer bed. | • Reduces manual lifting – lower risk of damage. <br>• Provides a smooth, controlled descent onto the trailer. |
-| **Zero‑Transit Scratch Guarantee** | A promise that the bike will arrive scratch‑free, with compensation if any scratches appear during transit. | • Eliminates liability worries for the owner.<br>• Encourages use of professional services over DIY moves. |
-| **Specialized Packing Techniques** | Use of anti‑scratch foam, padded straps, and custom‑cut foam inserts that fit the bike’s geometry. | • Protects delicate components (headset, chain, brakes).<br>• Minimizes vibration damage during road or sea transport. |
-| **IBS (IBA) Approval** | Certification from the International Bike Association, confirming compliance with global safety standards. | • Guarantees the service provider follows best‑practice handling. <br>• Adds credibility and trust for the customer. |
-| **Transit Insurance** | Coverage that protects the bike against loss, theft, or damage en‑route. | • Offers financial protection beyond the zero‑scratch guarantee. <br>• Essential for high‑value or vintage bikes. |
-
----
+### 2. Core Features of a Secure Bike Transport Service<div style='overflow-x: auto; margin: 15px 0;'>
+<table style='width: 100%; border-collapse: collapse; font-size: 0.85rem; color: #cbd5e1; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;'>
+  <thead>
+    <tr style='background: rgba(30, 41, 59, 0.9); border-bottom: 2px solid rgba(59, 130, 246, 0.4); text-align: left;'>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Feature</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>What It Means</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Why It Matters for Bike Owners</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Hydraulic Ramp Trailers</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Heavy‑duty trailers equipped with hydraulic lifts that lower the bike onto the trailer bed.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>• Reduces manual lifting – lower risk of damage. • Provides a smooth, controlled descent onto the trailer.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Zero‑Transit Scratch Guarantee</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>A promise that the bike will arrive scratch‑free, with compensation if any scratches appear during transit.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>• Eliminates liability worries for the owner.• Encourages use of professional services over DIY moves.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Specialized Packing Techniques</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Use of anti‑scratch foam, padded straps, and custom‑cut foam inserts that fit the bike’s geometry.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>• Protects delicate components (headset, chain, brakes).• Minimizes vibration damage during road or sea transport.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>IBS (IBA) Approval</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Certification from the International Bike Association, confirming compliance with global safety standards.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>• Guarantees the service provider follows best‑practice handling. • Adds credibility and trust for the customer.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Transit Insurance</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Coverage that protects the bike against loss, theft, or damage en‑route.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>• Offers financial protection beyond the zero‑scratch guarantee. • Essential for high‑value or vintage bikes.</td>
+    </tr>
+  </tbody>
+</table>
+</div>---
 
 ### 3. Detailed Discussion of Each Feature  
 
@@ -389,32 +476,83 @@ When it comes to moving a motorcycle from one place to another, the old “pick�
 
 ---
 
-### 1. The Process: From Your Doorstep to the Destination
-
-| Step | What Happens | Why It Matters |
-|------|--------------|----------------|
-| **1. Book Online or Call** | Use a local app or hotline to schedule a pickup. | Quick, 24/7 availability eliminates the need to visit a depot. |
-| **2. Confirmation & ETA** | The service confirms the date/time and provides an estimated arrival window. | Transparent scheduling keeps you in the loop. |
-| **3. Professional Pickup** | A trained rider or driver arrives, loads your bike onto a secure trailer or dedicated bike carrier, and documents the vehicle’s condition. | Ensures the bike is handled safely and any pre‑existing damage is noted. |
-| **4. Secure Transport** | The bike travels in a climate‑controlled, padded carrier to avoid scratches and vibration damage. | Protects the bike’s finish and mechanical components. |
-| **5. Door‑to‑Door Delivery** | The vehicle is dropped off at the exact address you specify, with a delivery confirmation and optional inspection. | Eliminates the hassle of finding a drop‑off spot or dealing with traffic. |
-
-> **Tip:** Most providers offer real‑time GPS tracking so you can watch the journey unfold.
+### 1. The Process: From Your Doorstep to the Destination<div style='overflow-x: auto; margin: 15px 0;'>
+<table style='width: 100%; border-collapse: collapse; font-size: 0.85rem; color: #cbd5e1; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;'>
+  <thead>
+    <tr style='background: rgba(30, 41, 59, 0.9); border-bottom: 2px solid rgba(59, 130, 246, 0.4); text-align: left;'>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Step</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>What Happens</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Why It Matters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>1. Book Online or Call</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Use a local app or hotline to schedule a pickup.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Quick, 24/7 availability eliminates the need to visit a depot.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>2. Confirmation &amp; ETA</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>The service confirms the date/time and provides an estimated arrival window.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Transparent scheduling keeps you in the loop.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>3. Professional Pickup</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>A trained rider or driver arrives, loads your bike onto a secure trailer or dedicated bike carrier, and documents the vehicle’s condition.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Ensures the bike is handled safely and any pre‑existing damage is noted.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>4. Secure Transport</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>The bike travels in a climate‑controlled, padded carrier to avoid scratches and vibration damage.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Protects the bike’s finish and mechanical components.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>5. Door‑to‑Door Delivery</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>The vehicle is dropped off at the exact address you specify, with a delivery confirmation and optional inspection.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Eliminates the hassle of finding a drop‑off spot or dealing with traffic.</td>
+    </tr>
+  </tbody>
+</table>
+</div>> **Tip:** Most providers offer real‑time GPS tracking so you can watch the journey unfold.
 
 ---
 
-### 2. Benefits That Drive Customer Satisfaction
-
-| Benefit | How It Enhances Your Experience |
-|---------|--------------------------------|
-| **Time‑Saving** | No need to drive to a depot or wait for a scheduled service. |
-| **Convenience** | Your bike is picked up and delivered right at your doorstep—no extra trips. |
-| **Safety & Security** | Professional handling reduces the risk of damage or theft during transit. |
-| **Cost‑Effective** | Avoid fuel, parking fees, or the cost of hiring a private driver. |
-| **Eco‑Friendly** | Consolidated routes reduce carbon emissions compared to multiple individual trips. |
-| **All‑Season Ready** | Weather‑proof carriers protect against rain, dust, or sand—crucial in Mudbidri’s coastal climate. |
-
----
+### 2. Benefits That Drive Customer Satisfaction<div style='overflow-x: auto; margin: 15px 0;'>
+<table style='width: 100%; border-collapse: collapse; font-size: 0.85rem; color: #cbd5e1; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;'>
+  <thead>
+    <tr style='background: rgba(30, 41, 59, 0.9); border-bottom: 2px solid rgba(59, 130, 246, 0.4); text-align: left;'>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Benefit</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>How It Enhances Your Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Time‑Saving</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>No need to drive to a depot or wait for a scheduled service.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Convenience</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Your bike is picked up and delivered right at your doorstep—no extra trips.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Safety &amp; Security</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Professional handling reduces the risk of damage or theft during transit.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Cost‑Effective</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Avoid fuel, parking fees, or the cost of hiring a private driver.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Eco‑Friendly</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Consolidated routes reduce carbon emissions compared to multiple individual trips.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>All‑Season Ready</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Weather‑proof carriers protect against rain, dust, or sand—crucial in Mudbidri’s coastal climate.</td>
+    </tr>
+  </tbody>
+</table>
+</div>---
 
 ### 3. Real Customer Experiences
 
@@ -501,9 +639,7 @@ Understanding the claims process helps customers navigate the situation smoothly
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Vehicle Carrier Engineering & Transit Safeguards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Vehicle Carrier Engineering &amp; Transit Safeguards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -552,9 +688,7 @@ Understanding the claims process helps customers navigate the situation smoothly
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -587,11 +721,28 @@ Understanding the claims process helps customers navigate the situation smoothly
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-globe-asia"></i> PAN-INDIA RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Interstate Shifting: <span style="color: #f59e0b;">Pan-India Carrier Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an interstate household relocation or planning dedicated car carrier transport across India, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout all major Indian state capitals and commercial corridors.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Bike Transportation in Mudbidri | Secure Two-Wheeler Shifting Karnataka
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What makes bike transportation in Mudbidri secure?</h3>
@@ -761,11 +912,30 @@ Understanding the claims process helps customers navigate the situation smoothly
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Packers and Movers in Ranchi
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Packers+and+Movers+in+Ranchi&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/car-transportation-in-mudbidri" title="Car Transportation In Mudbidri" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Car Transportation In Mudbidri</a>
       <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
@@ -779,9 +949,7 @@ Understanding the claims process helps customers navigate the situation smoothly
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Bike Transportation In Mudbidri</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> bike transport service</span>

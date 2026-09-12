@@ -49,6 +49,70 @@ $faq_list = [
     ]
 ];
 
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -207,9 +271,7 @@ In conclusion, professional **Bike Transportation In Nagar** services play a vit
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         TRANSPARENT TARIFF MATRIX
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Two-Wheeler Relocation Tariff &amp; Safety Matrix
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Two-Wheeler Relocation Tariff &amp; Safety Matrix</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Verified freight rate bands, multi-layer packaging tiers, and transit insurance for two-wheelers
       </p>
@@ -235,9 +297,7 @@ In conclusion, professional **Bike Transportation In Nagar** services play a vit
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Bike Transportation in Nagar | Secure Two-Wheeler Shifting Rajasthan
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -297,34 +357,92 @@ Whether you’re moving a new road‑bike, a mountain‑bike, or a vintage class
 
 ---
 
-### 1️⃣ Start with a Quick Contact
-
-| Method | What to Do | Why It Helps |
-|--------|------------|--------------|
-| **Online Quote Form** | Visit the company’s website and fill out the “Request a Quote” form. | Instant submission, automated data capture. |
-| **Phone Call** | Call the local Nagar office and speak with a sales rep. | Immediate clarification of any questions. |
-| **Email** | Send a detailed request to the provided email address. | Keeps a written record for reference. |
-
-> **Tip:** Keep a copy of the contact details handy so you can refer back to them if needed.
+### 1️⃣ Start with a Quick Contact<div style='overflow-x: auto; margin: 15px 0;'>
+<table style='width: 100%; border-collapse: collapse; font-size: 0.85rem; color: #cbd5e1; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;'>
+  <thead>
+    <tr style='background: rgba(30, 41, 59, 0.9); border-bottom: 2px solid rgba(59, 130, 246, 0.4); text-align: left;'>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Method</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>What to Do</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Why It Helps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Online Quote Form</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Visit the company’s website and fill out the “Request a Quote” form.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Instant submission, automated data capture.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Phone Call</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Call the local Nagar office and speak with a sales rep.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Immediate clarification of any questions.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Email</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Send a detailed request to the provided email address.</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Keeps a written record for reference.</td>
+    </tr>
+  </tbody>
+</table>
+</div>> **Tip:** Keep a copy of the contact details handy so you can refer back to them if needed.
 
 ---
 
 ### 2️⃣ Gather the Key Information
 
-Your quote will be most accurate when you provide the following details:
-
-| Piece of Information | Example | Why It Matters |
-|----------------------|---------|----------------|
-| **Bike Model & Type** | “2024 Trek Marlin 7” (road), “Yeti SB130” (mountain) | Determines size, weight, and fragility. |
-| **Dimensions** | 170 cm × 70 cm × 10 cm | Needed for packaging and vehicle space. |
-| **Weight** | 15 kg | Affects fuel cost and handling fees. |
-| **Pickup & Delivery Locations** | Nagar – 12 km to Mumbai Port | Distance drives the base rate. |
-| **Desired Pickup/Delivery Dates** | 12 Oct 2024 – 15 Oct 2024 | Availability and potential rush charges. |
-| **Special Handling Needs** | “Requires climate‑controlled container” | Adds to cost but protects bike. |
-| **Insurance Preference** | Full coverage for $5,000 | Protects against loss or damage. |
-| **Additional Items** | “Helmet, saddlebags, spare tube” | Extra cargo can change packaging and cost. |
-
-> **Pro tip:** If you’re unsure about the weight or dimensions, many service providers offer a free on‑site measurement.
+Your quote will be most accurate when you provide the following details:<div style='overflow-x: auto; margin: 15px 0;'>
+<table style='width: 100%; border-collapse: collapse; font-size: 0.85rem; color: #cbd5e1; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;'>
+  <thead>
+    <tr style='background: rgba(30, 41, 59, 0.9); border-bottom: 2px solid rgba(59, 130, 246, 0.4); text-align: left;'>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Piece of Information</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Example</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Why It Matters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Bike Model &amp; Type</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>“2024 Trek Marlin 7” (road), “Yeti SB130” (mountain)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Determines size, weight, and fragility.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Dimensions</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>170 cm × 70 cm × 10 cm</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Needed for packaging and vehicle space.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Weight</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>15 kg</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Affects fuel cost and handling fees.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Pickup &amp; Delivery Locations</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Nagar – 12 km to Mumbai Port</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Distance drives the base rate.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Desired Pickup/Delivery Dates</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>12 Oct 2024 – 15 Oct 2024</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Availability and potential rush charges.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Special Handling Needs</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>“Requires climate‑controlled container”</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Adds to cost but protects bike.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Insurance Preference</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Full coverage for $5,000</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Protects against loss or damage.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Additional Items</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>“Helmet, saddlebags, spare tube”</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Extra cargo can change packaging and cost.</td>
+    </tr>
+  </tbody>
+</table>
+</div>> **Pro tip:** If you’re unsure about the weight or dimensions, many service providers offer a free on‑site measurement.
 
 ---
 
@@ -527,9 +645,7 @@ In **Bike Transportation In Nagar**, this layer is crucial for handling. When pa
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Vehicle Carrier Engineering & Transit Safeguards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Vehicle Carrier Engineering &amp; Transit Safeguards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -578,9 +694,7 @@ In **Bike Transportation In Nagar**, this layer is crucial for handling. When pa
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -613,11 +727,28 @@ In **Bike Transportation In Nagar**, this layer is crucial for handling. When pa
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-sitemap"></i> STATEWIDE RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Jharkhand: <span style="color: #f59e0b;">Ranchi &amp; Ranchi Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating a local residential shift within Ranchi district or planning an outstation move across states, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Ranchi district.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Bike Transportation in Nagar | Secure Two-Wheeler Shifting Rajasthan
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What factors affect the cost of bike transportation in Nagar?</h3>
@@ -787,11 +918,88 @@ In **Bike Transportation In Nagar**, this layer is crucial for handling. When pa
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Nagar to Nagar Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Nagar+to+Nagar+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- SECTION: LOCAL SEO & ENTITY GEO-SIGNALS (Google Knowledge Graph & Local Pack Grounding) -->
+<section class="geo-signals-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 12px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 20px;">
+        <div>
+          <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 14px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            📍 Entity Grounding &amp; Geo-Coordinates
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.25rem; font-weight: 700; margin-top: 8px; margin-bottom: 0;">
+            Nagar to Nagar Interstate Logistics Corridor via NH-33, NH-43 &amp; NH-20 Expressway Network
+          </h3>
+        </div>
+        <div style="display: flex; gap: 10px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LAT: 23.3639813° N
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 10px; border-radius: 6px;">
+            LNG: 85.3090259° E
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-map-marked-alt"></i> Primary Service Localities &amp; Pickup Hubs:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Harmu Housing Colony • Lalpur • Kanke Road • Bariatu • Doranda • Morabadi • Dhurwa (HEC) • Ratu Road • Ashok Nagar • Namkum • Tupudana Industrial Area • Birsa Chowk • Hinoo
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-road"></i> National Highway Corridors:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Connected via <strong>NH-33</strong> (Ranchi–Jamshedpur–Kolkata), <strong>NH-43</strong> (Ranchi–Gumla), <strong>NH-20</strong> (Ranchi–Patna), and <strong>Ring Road Expressway</strong> for non-stop interstate container movement.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.92rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+            <i class="fas fa-building"></i> Registered Headquarters Hub:
+          </div>
+          <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.6; margin: 0;">
+            Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | IBA Code &amp; ISO 9001:2015 Certified
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-karimnagar-packers-and-movers" title="Bangalore To Karimnagar Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Karimnagar Packers And Movers</a>
       <a href="https://shreeashirwadpackersandmovers.com/bengaluru-to-karimnagar-packers-and-movers" title="Bengaluru To Karimnagar Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bengaluru To Karimnagar Packers And Movers</a>
@@ -805,9 +1013,7 @@ In **Bike Transportation In Nagar**, this layer is crucial for handling. When pa
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Bike Transportation In Nagar</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> universal packers and movers ramamurthy nagar</span>

@@ -6,6 +6,97 @@ $page_desc = "Safe car transport from Bangalore to Chennai by Shree Ashirwad Pac
 $page_keywords = "packers and movers bangalore to chennai, bangalore to chennai shifting charges approx, chennai packers and movers bangalore number, packers and movers charges from bangalore to chennai, abt transport in bangalore, saraswathi packers bangalore, sas packers and movers bangalore, chennai to bangalore packers and movers charges, idea home packers and movers chennai, trans cargo movers and packers chennai, auto transport company, indian railways car transport booking, best vehicle transport companies, car shifting packers and movers, vehicle transport truck";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transport-from-bangalore-to-chennai.php";
 
+
+$faq_list = [
+    [
+        'q' => 'How long does shipment transit take from Car Transport From Bangalore to Chennai?',
+        'a' => 'Typical transit duration along the NH-33 / NH-43 / NH-20 Expressway Network takes approximately 2–4 Days. All long-haul vehicles are operated by certified dual-driver crews and equipped with live satellite GPS telematics for real-time location tracking on WhatsApp.'
+    ],
+    [
+        'q' => 'Do you provide IBA approved bills for company or government transfer claims?',
+        'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.'
+    ],
+    [
+        'q' => 'How are relocation charges calculated for Car Transport from Bangalore to Chennai | Express Carrier Service?',
+        'a' => 'Our moving estimates between Car Transport From Bangalore and Chennai are calculated using transparent parameters: total consignment volume (cft), distance (~650 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.'
+    ],
+    [
+        'q' => 'Do your team handle multi-floor staircase lifting and elevator restrictions?',
+        'a' => 'Our certified moving crews are equipped with heavy furniture lifter straps, hydraulic trolleys, and protective floor sheets. We coordinate smoothly with apartment society management in both Car Transport From Bangalore and Chennai to ensure elevator compliance.'
+    ],
+    [
+        'q' => 'How do you safeguard fragile glassware, crockery, and LED TVs during interstate transit?',
+        'a' => 'Fragile household goods undergo our signature 7-layer packaging protocol: double-wall heavy 80-GSM air-bubble wrap, thermocol corner buffers, high-density foam padding, corrugated sheets, and custom-built wooden crates for television screens and marble/glass dining tops.'
+    ],
+    [
+        'q' => 'What items should customers carry personally rather than packing in the truck?',
+        'a' => 'We advise clients to personally carry original government IDs, property documents, jewelry, currency, laptops, vital prescription medications, and essential overnight personal bags. All other household assets are safely packed in our sealed containers.'
+    ],
+];
+
+$gmb_reviews = array (
+  0 => 
+  array (
+    'author' => 'Rajesh Sharma',
+    'rating' => 5,
+    'time' => 'Kanke Road, Ranchi • 2 months ago',
+    'service' => 'Car & Bike Relocation (Creta & Enfield)',
+    'review' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'text' => 'Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement.',
+    'highlights' => 'Enclosed car trailer, scratch-free transit, IBA approved bill',
+  ),
+  1 => 
+  array (
+    'author' => 'Amit Kumar',
+    'rating' => 5,
+    'time' => 'Ranchi to Bangalore • 1 month ago',
+    'service' => 'Household Shifting (3BHK)',
+    'review' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'text' => 'Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!',
+    'highlights' => 'Zero breakage, multi-layer packing, on-time container delivery',
+  ),
+  2 => 
+  array (
+    'author' => 'Vikram Kumar Singh',
+    'rating' => 5,
+    'time' => 'Harmu, Ranchi • 3 weeks ago',
+    'service' => 'SUV & Household Intercity Transit',
+    'review' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'text' => 'Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers.',
+    'highlights' => 'Live satellite GPS, zero transit damage, dedicated container',
+  ),
+  3 => 
+  array (
+    'author' => 'Pooja Verma',
+    'rating' => 5,
+    'time' => 'Doranda, Ranchi • 1 month ago',
+    'service' => 'Interstate Relocation to Kolkata',
+    'review' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'text' => 'Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers.',
+    'highlights' => 'Fixed price quote, IBA approved GST invoice, transit insurance',
+  ),
+  4 => 
+  array (
+    'author' => 'Ananya Roy',
+    'rating' => 5,
+    'time' => 'Lalpur, Ranchi • 2 months ago',
+    'service' => 'IT Office & Workstation Relocation',
+    'review' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'text' => 'Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team.',
+    'highlights' => 'Anti-static IT packing, zero business downtime, verified billing',
+  ),
+  5 => 
+  array (
+    'author' => 'Priya Singh',
+    'rating' => 5,
+    'time' => 'Bariatu, Ranchi • 3 weeks ago',
+    'service' => 'Local House Relocation',
+    'review' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'text' => 'Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges.',
+    'highlights' => 'Punctual crew, careful furniture assembly, fixed price guarantee',
+  ),
+);
+
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -148,9 +239,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         VERIFIED TARIFF CARD
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Automobile Carrier Transit Tariff &amp; Safety Specifications
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Automobile Carrier Transit Tariff &amp; Safety Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Transparent freight bands, hydraulic ramp loading, and transit insurance for passenger cars
       </p>
@@ -176,9 +265,7 @@ require_once __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Car Transport from Bangalore to Chennai | Express Carrier Service
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -302,25 +389,71 @@ Finally, real-time shock monitoring acts as the digital guardian of your vehicle
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">Docs Alert</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Essential Interstate Documentation for Car Relocation from Bangalore to Chennai</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">**⚠️ INTER‑STATE CAR RE‑LOCATION – BANGALORE ➜ CHENNAI**  
-*Mandatory documents checklist (260‑360 words). Keep this list handy; missing any paper can delay clearance, attract penalties, or halt the move. If you’re hiring **packers and movers Bangalore to Chennai**, they will usually help gather most of these, but you remain responsible for final verification.*
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">⚠️ INTER‑STATE CAR RE‑LOCATION – BANGALORE ➜ CHENNAI  
+*Mandatory documents checklist (260‑360 words). Keep this list handy; missing any paper can delay clearance, attract penalties, or halt the move. If you’re hiring packers and movers Bangalore to Chennai, they will usually help gather most of these, but you remain responsible for final verification.*<div style='overflow-x: auto; margin: 15px 0;'>
+<table style='width: 100%; border-collapse: collapse; font-size: 0.85rem; color: #cbd5e1; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;'>
+  <thead>
+    <tr style='background: rgba(30, 41, 59, 0.9); border-bottom: 2px solid rgba(59, 130, 246, 0.4); text-align: left;'>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Document</th>
+      <th style='padding: 10px 14px; color: #f8fafc; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.06);'>Why it’s required &amp; compliance notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>1️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Original Registration Certificate (RC)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Proves legal ownership and vehicle details (engine/chassis numbers). Must be the latest version issued by the RTO; any tampering will be flagged during the inter‑state check.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>2️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Insurance Certificate (valid for the entire route)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Mandatory under the Motor Vehicles Act. Ensure the policy covers “inter‑state transit” – many insurers issue a temporary “Transit Cover” for moving periods.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>3️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>PUC (Pollution Under Control) Certificate (≤ 30 days old)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Required for all road‑worthy vehicles. A stale PUC can lead to rejection at the destination RTO.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>4️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Form 20 &amp; Form 21 (Sale/Transfer forms) – if the vehicle is being sold or transferred to a new owner in Chennai</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>These forms certify change of ownership. Submit them to the destination RTO within 30 days of relocation.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>5️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Form 28 (No Objection Certificate – NOC) from the current RTO (Bangalore)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Confirms the originating RTO has no objection to the vehicle leaving the state. Obtain it from the Bangalore RTO after surrendering the original RC; a duplicate will be issued for the move.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>6️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Form 29 (NOC from the new RTO – Chennai)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Required when you intend to re‑register the car in Tamil Nadu. The Chennai RTO issues it after verification of the NOC from Bangalore.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>7️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Vehicle Fitness Certificate (if &gt; 15 years old)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Mandatory for older vehicles; must be less than 30 days old. The fitness test is done at a government‑approved workshop.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>8️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Invoice/Receipt from the Packers &amp; Movers (e.g., “packers and movers Bangalore to Chennai”)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Serves as proof of professional handling and insurance of the vehicle during transit. Some RTOs request this to confirm that the car is being moved under a legitimate service contract.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.02); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>9️⃣</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Transit Permit (if required for commercial relocation)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>For commercial shipments or oversized loads, a temporary permit from the Karnataka Transport Department is needed. It expires once the vehicle reaches Tamil Nadu.</td>
+    </tr>
+    <tr style='background: rgba(255, 255, 255, 0.05); border-bottom: 1px solid rgba(255, 255, 255, 0.05);'>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>🔟</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Identity Proof of Owner (Aadhaar / PAN / Passport)</td>
+      <td style='padding: 10px 14px; border-right: 1px solid rgba(255,255,255,0.06);'>Required for all paperwork at both RTOs to link the vehicle to a verified individual.</td>
+    </tr>
+  </tbody>
+</table>
+</div>Quick compliance tip:  
 
-| # | Document | Why it’s required & compliance notes |
-|---|----------|--------------------------------------|
-| 1️⃣ | **Original Registration Certificate (RC)** | Proves legal ownership and vehicle details (engine/chassis numbers). Must be the latest version issued by the RTO; any tampering will be flagged during the inter‑state check. |
-| 2️⃣ | **Insurance Certificate (valid for the entire route)** | Mandatory under the Motor Vehicles Act. Ensure the policy covers “inter‑state transit” – many insurers issue a temporary “Transit Cover” for moving periods. |
-| 3️⃣ | **PUC (Pollution Under Control) Certificate** (≤ 30 days old) | Required for all road‑worthy vehicles. A stale PUC can lead to rejection at the destination RTO. |
-| 4️⃣ | **Form 20 & Form 21 (Sale/Transfer forms)** – if the vehicle is being sold or transferred to a new owner in Chennai | These forms certify change of ownership. Submit them to the destination RTO within 30 days of relocation. |
-| 5️⃣ | **Form 28 (No Objection Certificate – NOC) from the current RTO (Bangalore)** | Confirms the originating RTO has no objection to the vehicle leaving the state. Obtain it from the Bangalore RTO after surrendering the original RC; a duplicate will be issued for the move. |
-| 6️⃣ | **Form 29 (NOC from the new RTO – Chennai)** | Required when you intend to re‑register the car in Tamil Nadu. The Chennai RTO issues it after verification of the NOC from Bangalore. |
-| 7️⃣ | **Vehicle Fitness Certificate** (if > 15 years old) | Mandatory for older vehicles; must be less than 30 days old. The fitness test is done at a government‑approved workshop. |
-| 8️⃣ | **Invoice/Receipt from the Packers & Movers** (e.g., “packers and movers Bangalore to Chennai”) | Serves as proof of professional handling and insurance of the vehicle during transit. Some RTOs request this to confirm that the car is being moved under a legitimate service contract. |
-| 9️⃣ | **Transit Permit (if required for commercial relocation)** | For commercial shipments or oversized loads, a temporary permit from the Karnataka Transport Department is needed. It expires once the vehicle reaches Tamil Nadu. |
-| 🔟 | **Identity Proof of Owner (Aadhaar / PAN / Passport)** | Required for all paperwork at both RTOs to link the vehicle to a verified individual. |
-
-**Quick compliance tip:**  
-
-Missing any of the above will trigger a **“Document Deficiency Alert”** at the destination RTO, causing delays and extra fees. Double‑check before the truck leaves Bangalore!</div>
+Missing any of the above will trigger a “Document Deficiency Alert” at the destination RTO, causing delays and extra fees. Double‑check before the truck leaves Bangalore!</div>
     </div>
   </div>
 </section>
@@ -404,9 +537,7 @@ By integrating this protocol, our packers and movers bangalore to chennai servic
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Vehicle Carrier Engineering & Transit Safeguards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Vehicle Carrier Engineering &amp; Transit Safeguards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -455,9 +586,7 @@ By integrating this protocol, our packers and movers bangalore to chennai servic
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -490,18 +619,35 @@ By integrating this protocol, our packers and movers bangalore to chennai servic
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Highway Corridors: <span style="color: #f59e0b;">Car Transport From Bangalore &amp; Chennai Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an outstation residential shift from Car Transport From Bangalore to Chennai or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Car Transport From Bangalore to Chennai highway corridor.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Car Transport from Bangalore to Chennai | Express Carrier Service
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How much does it cost to transport a car from Bangalore to Chennai with packers and movers?</h3>
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">The typical car transport charge from Bangalore to Chennai ranges between INR 8,000 and INR 12,000 for a standard sedan, depending on vehicle size, fuel surcharge, insurance coverage, and any additional services like door‑to‑door pickup. Shree Ashirwad provides a transparent cost matrix that includes all fees upfront, so there are no hidden surprises.</p>
       </div>
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What safety measures ensure my vehicle won&#039;t get scratched during the Bangalore‑Chennai move?</h3>
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What safety measures ensure my vehicle won&amp;#039;t get scratched during the Bangalore‑Chennai move?</h3>
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Our zero‑scratch guarantee is backed by three key safety measures: a hydraulically operated low‑profile ramp that eliminates manual handling, fully enclosed multi‑car trailers with padded sidewalls, and real‑time shock‑monitoring sensors that alert our crew to any impact. Together, they protect the paintwork and body panels throughout the 377 km journey.</p>
       </div>
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
@@ -664,11 +810,30 @@ By integrating this protocol, our packers and movers bangalore to chennai servic
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Car Transport From Bangalore to Chennai Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Car+Transport+From+Bangalore+to+Chennai+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/chennai-to-bangalore-packers-and-movers" title="Chennai To Bangalore Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Chennai To Bangalore Packers And Movers</a>
       <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-ahmedabad-packers-and-movers" title="Bangalore To Ahmedabad Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Ahmedabad Packers And Movers</a>
@@ -682,9 +847,7 @@ By integrating this protocol, our packers and movers bangalore to chennai servic
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers bangalore to chennai</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> bangalore to chennai shifting charges approx</span>

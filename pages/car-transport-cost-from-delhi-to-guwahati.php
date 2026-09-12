@@ -122,33 +122,59 @@ include __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">VEHICLE LOGISTICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Specialized Automobile &amp; Car Carrier Logistics &amp; Safety Engineering for Car Transport Cost From Delhi To Guwahati</h2>
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
-<h3>Specialized Enclosed Hydraulic Ramp Carriers</h3>
+<h3>Specialized Enclosed Hydraulic Ramp Carriers
 When it comes to transporting vehicles long distances, especially from Delhi to Guwahati, specialized enclosed hydraulic ramp carriers are a must. This type of transport ensures the utmost protection for your car during the journey. The enclosed space not only prevents direct exposure to weather elements but also protects the car from potential theft or vandalism.
 
-<p>In these carriers, hydraulic ramps are utilized to safely load and unload the vehicle. The ramp system allows for smooth elevation, reducing the strain on the car's suspension and ensuring a gentle descent during delivery.</p>
+In these carriers, hydraulic ramps are utilized to safely load and unload the vehicle. The ramp system allows for smooth elevation, reducing the strain on the car&amp;#039;s suspension and ensuring a gentle descent during delivery.
 
-<h3>Individual Steel Wheel-Lock Chocks</h3>
-To guarantee secure transport, individual steel wheel-lock chocks are implemented as an essential safety measure. These chocks are placed beneath each wheel of the vehicle, effectively immobilizing it and preventing any accidental movement during transit. Steel ensures durability and reliability, ensuring that even in the event of rough handling, the chocks will not compromise the stability of the vehicle.</p>
+Individual Steel Wheel-Lock Chocks
+To guarantee secure transport, individual steel wheel-lock chocks are implemented as an essential safety measure. These chocks are placed beneath each wheel of the vehicle, effectively immobilizing it and preventing any accidental movement during transit. Steel ensures durability and reliability, ensuring that even in the event of rough handling, the chocks will not compromise the stability of the vehicle.
 
-<h3>High-Tensile Ratchet Lashing</h3>
-To further safeguard your vehicle during the journey, high-tensile ratchet lashing is utilized. These straps are made from high-strength materials, ensuring their ability to safely secure the car within the carrier. High-tensile refers to the material's resistance to stretching or breaking under tension, ensuring that the straps can withstand any potential disturbances during transit.</p>
+High-Tensile Ratchet Lashing
+To further safeguard your vehicle during the journey, high-tensile ratchet lashing is utilized. These straps are made from high-strength materials, ensuring their ability to safely secure the car within the carrier. High-tensile refers to the material&amp;#039;s resistance to stretching or breaking under tension, ensuring that the straps can withstand any potential disturbances during transit.
 
-<h3>Delhi to Guwahati Distance by Car</h3>
-The distance between Delhi and Guwahati by car can be approximately 1,702 kilometers (1,058 miles). Considering the varied terrains and road conditions in India, it is essential to employ specialized transportation methods for a safe and secure journey.</p>
+Delhi to Guwahati Distance by Car
+The distance between Delhi and Guwahati by car can be approximately 1,702 kilometers (1,058 miles). Considering the varied terrains and road conditions in India, it is essential to employ specialized transportation methods for a safe and secure journey.
 
-<h3>Delhi to Guwahati Car Transport Charges</h3>
-The cost for car transport from Delhi to Guwahati may vary depending on factors such as the distance, type of transport, and the car's size and weight. To obtain an accurate estimation, it is recommended to consult with reputable car transportation companies or logistics providers in India.</p>
+Delhi to Guwahati Car Transport Charges
+The cost for car transport from Delhi to Guwahati may vary depending on factors such as the distance, type of transport, and the car&amp;#039;s size and weight. To obtain an accurate estimation, it is recommended to consult with reputable car transportation companies or logistics providers in India.
 
-<h3>Best Movers and Packers in East Delhi</h3>
-If you're looking for reliable and efficient car transportation services in East Delhi, Unison Packers and Movers is a reputable company offering comprehensive car transport solutions. They employ a team of professionals with expertise in handling vehicles and ensuring secure transportation.</p>
+Best Movers and Packers in East Delhi
+If you&amp;#039;re looking for reliable and efficient car transportation services in East Delhi, Unison Packers and Movers is a reputable company offering comprehensive car transport solutions. They employ a team of professionals with expertise in handling vehicles and ensuring secure transportation.
 
-<h3>Lowest Price Movers and Packers in Delhi</h3>
-For a cost-effective yet reliable car transportation service, it's advisable to compare prices from multiple companies. Some of the best movers and packers in Delhi include Safi Packers and Movers, Gati KWE, and Agarwal Packers and Movers. Researching their services and prices can help you find the most suitable option within your budget.</p>
+Lowest Price Movers and Packers in Delhi
+For a cost-effective yet reliable car transportation service, it&amp;#039;s advisable to compare prices from multiple companies. Some of the best movers and packers in Delhi include Safi Packers and Movers, Gati KWE, and Agarwal Packers and Movers. Researching their services and prices can help you find the most suitable option within your budget.
 
-<h3>Car Transport in Guwahati</h3>
-Upon reaching Guwahati, you may require assistance of a local car transportation company to transport your vehicle from the port or airport to your desired destination. Companies like Guwahati Car Transport and Guwahati Vehicle Transportation can provide reliable services for car transportation within Guwahati.</p>
+Car Transport in Guwahati
+Upon reaching Guwahati, you may require assistance of a local car transportation company to transport your vehicle from the port or airport to your desired destination. Companies like Guwahati Car Transport and Guwahati Vehicle Transportation can provide reliable services for car transportation within Guwahati.
 
-<h3>Best Packers and Movers in Guwahati</h3></div>
+Best Packers and Movers in Guwahati</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Specialized Enclosed Hydraulic Ramp Carriers
+When it comes to transporting vehicles long distances, especially from Delhi to Guwahati, specialized enclosed hydraulic ramp carriers are a must. This type of transport ensures the utmost protection for your car during the journey. The enclosed space not only prevents direct exposure to weather elements but also protects the car from potential theft or vandalism.
+
+In these carriers, hydraulic ramps are utilized to safely load and unload the vehicle. The ramp system allows for smooth elevation, reducing the strain on the car's suspension and ensuring a gentle descent during delivery.
+
+Individual Steel Wheel-Lock Chocks
+To guarantee secure transport, individual steel wheel-lock chocks are implemented as an essential safety measure. These chocks are placed beneath each wheel of the vehicle, effectively immobilizing it and preventing any accidental movement during transit. Steel ensures durability and reliability, ensuring that even in the event of rough handling, the chocks will not compromise the stability of the vehicle.
+
+High-Tensile Ratchet Lashing
+To further safeguard your vehicle during the journey, high-tensile ratchet lashing is utilized. These straps are made from high-strength materials, ensuring their ability to safely secure the car within the carrier. High-tensile refers to the material's resistance to stretching or breaking under tension, ensuring that the straps can withstand any potential disturbances during transit.
+
+Delhi to Guwahati Distance by Car
+The distance between Delhi and Guwahati by car can be approximately 1,702 kilometers (1,058 miles). Considering the varied terrains and road conditions in India, it is essential to employ specialized transportation methods for a safe and secure journey.
+
+Delhi to Guwahati Car Transport Charges
+The cost for car transport from Delhi to Guwahati may vary depending on factors such as the distance, type of transport, and the car's size and weight. To obtain an accurate estimation, it is recommended to consult with reputable car transportation companies or logistics providers in India.
+
+Best Movers and Packers in East Delhi
+If you're looking for reliable and efficient car transportation services in East Delhi, Unison Packers and Movers is a reputable company offering comprehensive car transport solutions. They employ a team of professionals with expertise in handling vehicles and ensuring secure transportation.
+
+Lowest Price Movers and Packers in Delhi
+For a cost-effective yet reliable car transportation service, it's advisable to compare prices from multiple companies. Some of the best movers and packers in Delhi include Safi Packers and Movers, Gati KWE, and Agarwal Packers and Movers. Researching their services and prices can help you find the most suitable option within your budget.
+
+Car Transport in Guwahati
+Upon reaching Guwahati, you may require assistance of a local car transportation company to transport your vehicle from the port or airport to your desired destination. Companies like Guwahati Car Transport and Guwahati Vehicle Transportation can provide reliable services for car transportation within Guwahati.
+
+Best Packers and Movers in Guwahati ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Delhi to Guwahati corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -162,9 +188,7 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         VERIFIED TARIFF CARD
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Automobile Carrier Transit Tariff &amp; Safety Specifications
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Automobile Carrier Transit Tariff &amp; Safety Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Transparent freight bands, hydraulic ramp loading, and transit insurance for passenger cars
       </p>
@@ -190,9 +214,7 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Car Transport Cost from Delhi to Guwahati
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Verified On-Site Operations: Car Transport Cost from Delhi to Guwahati</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -395,9 +417,7 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Vehicle Carrier Engineering & Transit Safeguards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Vehicle Carrier Engineering &amp; Transit Safeguards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -446,9 +466,7 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -481,11 +499,28 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Highway Corridors: <span style="color: #f59e0b;">Delhi &amp; Guwahati Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an outstation residential shift from Delhi to Guwahati or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Delhi to Guwahati highway corridor.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Car Transport Cost from Delhi to Guwahati
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Frequently Asked Questions &amp;bull; Car Transport Cost from Delhi to Guwahati</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What documents are required to book Automobile &amp; Car transport?</h3>
@@ -508,7 +543,7 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact.</p>
       </div>
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&#039;s location while it is on the carrier?</h3>
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&amp;#039;s location while it is on the carrier?</h3>
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp.</p>
       </div>
   </div>
@@ -651,11 +686,90 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Delhi to Guwahati Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Delhi+to+Guwahati+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="pan-india-network-section" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.7); border: 1px solid rgba(255,255,255,0.1); border-radius: 14px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 22px;">
+        <div>
+          <span style="background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.4); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            <i class="fas fa-globe-asia"></i> PAN-INDIA LOGISTICS NETWORK
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.45rem; font-weight: 800; margin-top: 8px; margin-bottom: 4px;">
+            All-India Highway Transit Infrastructure &amp; Interstate Clearance Authority
+          </h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 0;">
+            Licensed operations across 28 States &amp; 8 Union Territories with central RTO clearance desks.
+          </p>
+        </div>
+        <div style="display: flex; gap: 8px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 6px 12px; border-radius: 6px;">
+            <i class="fas fa-shield-check"></i> IBA CODE: DEL-2849
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 6px 12px; border-radius: 6px;">
+            <i class="fas fa-truck"></i> 450+ FLEET TRUCKS
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-file-signature" style="font-size: 1.1rem;"></i> All-State RTO &amp; Bilty Desk
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            Direct assistance for Form 28/29/30 clearances, road tax calculations, and computerized GST e-Way bill approvals across every state border checkpoint.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-satellite" style="font-size: 1.1rem;"></i> GPS Highway Corridors
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            Seamless long-haul connectivity across NH-33, NH-43, NH-20, and the Golden Quadrilateral expressway network with real-time transit telemetry.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-phone-alt" style="font-size: 1.1rem;"></i> Central Dispatch Hub
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            National Operations Hub: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | ISO 9001:2015 Certified Logistics
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/ahmedabad-to-guwahati-packers-and-movers" title="Ahmedabad To Guwahati Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Ahmedabad To Guwahati Packers And Movers</a>
       <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-guwahati-packers-and-movers" title="Bangalore To Guwahati Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Guwahati Packers And Movers</a>
@@ -669,9 +783,7 @@ Upon reaching Guwahati, you may require assistance of a local car transportation
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Car Transport Cost From Delhi To Guwahati</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> delhi to guwahati distance by car</span>

@@ -125,36 +125,36 @@ include __DIR__ . '/../includes/header.php';
 	<p>When it comes to safely transporting cars over long distances, specialized techniques and equipment are essential for minimizing risks and ensuring a smooth journey. One such service is car transport from Delhi to Kolkata. In this comprehensive overview, we will discuss the key components involved in such car transport services.</p>
 
 	<h3>Enclosing Hydraulic Ramp Carriers</h3>
-	<p>To protect your car from external factors like weather and potential damages, enclosed hydraulic ramp carriers are employed. These carriers are designed to securely hold your vehicle within a fully enclosed trailer. The hydraulic ramps allow easy loading and unloading, ensuring a hassle-free experience for you.</p>
+	<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>To protect your car from external factors like weather and potential damages, enclosed hydraulic ramp carriers are employed. These carriers are designed to securely hold your vehicle within a fully enclosed trailer. The hydraulic ramps allow easy loading and unloading, ensuring a hassle-free experience for you.</p>
 
 	<h3>Steel Wheel-Lock Chocks</h3>
-	<p>To prevent any unintended movement during transit, individual steel wheel-lock chocks are utilized. These chocks are placed beneath each wheel of your car, ensuring a stable and secure foundation. They effectively immobilize your vehicle, safeguarding it against any unwanted oscillations or tilting.</p>
+	<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>To prevent any unintended movement during transit, individual steel wheel-lock chocks are utilized. These chocks are placed beneath each wheel of your car, ensuring a stable and secure foundation. They effectively immobilize your vehicle, safeguarding it against any unwanted oscillations or tilting.</p>
 
 	<h3>High-Tensile Ratchet Lashing</h3>
-	<p>To further ensure vehicle stability, high-tensile ratchet lashing is employed. These ratchets are connected to specific points on your car, securing it tightly within the enclosed trailer. The ratchet system allows precise tensioning, preventing any lateral movement or unwanted shifts during transportation.</p>
+	<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>To further ensure vehicle stability, high-tensile ratchet lashing is employed. These ratchets are connected to specific points on your car, securing it tightly within the enclosed trailer. The ratchet system allows precise tensioning, preventing any lateral movement or unwanted shifts during transportation.</p>
 
-	<h3><strong>List of Movers and Packers for Car Transport Services</strong></h3>
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">PK Transport:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">PK Transport offers comprehensive car transport services from Delhi to Kolkata. Their fleet of specially designed trailers ensures safe and secure transportation of your vehicle.</p>
+	<h3>List of Movers and Packers for Car Transport Services
+	
+  
+    01
+    PK Transport:</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>PK Transport offers comprehensive car transport services from Delhi to Kolkata. Their fleet of specially designed trailers ensures safe and secure transportation of your vehicle.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Ace Car Movers:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Ace Car Movers provides reliable and efficient car transport solutions. With a proven track record of delivering vehicles safely, they offer both enclosed and open carrier options.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Ace Car Movers provides reliable and efficient car transport solutions. With a proven track record of delivering vehicles safely, they offer both enclosed and open carrier options.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Vanraj Movers:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Vanraj Movers specializes in vehicle transportation services, employing expert professionals and advanced equipment for a trouble-free journey from Delhi to Kolkata.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Vanraj Movers specializes in vehicle transportation services, employing expert professionals and advanced equipment for a trouble-free journey from Delhi to Kolkata.</p>
   </div>
 </div>
 
 	<p>When selecting a car transport service provider, consider the expertise, track record, and customer reviews of each company. These companies mentioned above have proven their capabilities in transporting vehicles with utmost care.</p>
 
-	<h3><strong>Choosing the Right Packers and Movers Company</strong></h3></div>
+	<h3>Choosing the Right Packers and Movers Company</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Choosing the Right Packers and Movers Company ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Delhi to Kolkata corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -168,9 +168,7 @@ include __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         VERIFIED TARIFF CARD
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Automobile Carrier Transit Tariff &amp; Safety Specifications
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Automobile Carrier Transit Tariff &amp; Safety Specifications</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Transparent freight bands, hydraulic ramp loading, and transit insurance for passenger cars
       </p>
@@ -196,9 +194,7 @@ include __DIR__ . '/../includes/header.php';
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         AUTHENTIC OPERATIONAL GALLERY
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Car Transport Cost from Delhi to Kolkata
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Verified On-Site Operations: Car Transport Cost from Delhi to Kolkata</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
       </p>
@@ -289,45 +285,45 @@ include __DIR__ . '/../includes/header.php';
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
 	<p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">When it comes to transporting your vehicle from Delhi to Kolkata, choosing the right mode of transportation is crucial.</p>
 <ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Two popular options are enclosed containerized carriers and open trailers.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>In this comparison, we'll examine the pros and cons of both methods, focusing on their ability to protect your vehicle from flying highway stones, rain, dust, and potential vandalism.</span></li></ul>
-	<h3>Enclosed Containerized Carriers</h3>
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Complete Protection:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed carriers provide the utmost protection for your vehicle. They are designed to enclose your car within a sturdy shell or trailer, shielding it from external elements and potential dangers.</p>
+	<h3>Enclosed Containerized Carriers
+	
+  
+    01
+    Complete Protection:</h3>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Enclosed carriers provide the utmost protection for your vehicle. They are designed to enclose your car within a sturdy shell or trailer, shielding it from external elements and potential dangers.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Cost:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed carriers tend to be more expensive than open trailers due to the additional protection they provide.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Enclosed carriers tend to be more expensive than open trailers due to the additional protection they provide.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Limited Availability:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed carriers may not be as readily available as open trailers, particularly for last-minute bookings or during peak seasons.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Enclosed carriers may not be as readily available as open trailers, particularly for last-minute bookings or during peak seasons.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Vehicle Compatibility:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed carriers can accommodate most vehicles, but certain high-performance vehicles or custom-built cars may require specialized arrangements, potentially increasing the cost.</p>
+    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>Enclosed carriers can accommodate most vehicles, but certain high-performance vehicles or custom-built cars may require specialized arrangements, potentially increasing the cost.</p>
   </div>
 </div>
-	<h3>Open Trailers</h3>
-	<ul>
-		<li><strong>Affordability:</strong> Open trailers are generally less expensive than enclosed carriers, making them a more cost-effective option for those on a budget.</li>
-		<li><strong>Variety:</strong> Open trailers can accommodate a wider range of vehicles, including motorcycles, boats, and other oversized items.</li>
-		<li><strong>Vehicle Exposure:</strong> Open trailers expose your vehicle to various external elements such as rain, dust, and flying stones, which may cause potential damage.</li>
-		<li><strong>Vehicle Type Restrictions:</strong> Open trailers might not be suitable for high-performance vehicles or vehicles with delicate exterior designs, as the exposure may cause scratches, dents, or other cosmetic damages.</li>
-	</ul>
-	<h3>Expert Recommendations for Protecting Your Vehicle</h3>
-	<p>When choosing between enclosed and open trailers, consider the following factors:</p>
+	<h3>Open Trailers
+	
+		Affordability: Open trailers are generally less expensive than enclosed carriers, making them a more cost-effective option for those on a budget.
+		Variety: Open trailers can accommodate a wider range of vehicles, including motorcycles, boats, and other oversized items.
+		Vehicle Exposure: Open trailers expose your vehicle to various external elements such as rain, dust, and flying stones, which may cause potential damage.
+		Vehicle Type Restrictions: Open trailers might not be suitable for high-performance vehicles or vehicles with delicate exterior designs, as the exposure may cause scratches, dents, or other cosmetic damages.
+	
+	Expert Recommendations for Protecting Your Vehicle</h3>
+	<p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>When choosing between enclosed and open trailers, consider the following factors:</p>
 	<ol>
 		<li><strong>Vehicle Value:</strong> If your vehicle has a high value, opt for enclosed carriers to ensure maximum protection.</li>
 		<li><strong>Weather Conditions:</strong> If the weather conditions during transport can be harsh, such as heavy rain, snow, or dusty terrains, enclosed carriers are recommended.</li>
 		<li><strong>Vehicle Type:</strong> If your vehicle has a delicate exterior, enclosed carriers are essential to prevent cosmetic damages.</li>
 		<li><strong>Budget:</strong> If cost is a major concern, opting for open trailers would be more affordable compared to enclosed carriers.</li>
 	</ol>
-	<h3>Vehicle Transport Services in Delhi</h3></div>
+	<h3>Vehicle Transport Services in Delhi</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Vehicle Transport Services in Delhi ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Delhi to Kolkata corridor with scheduled highway transit stops.</p></div>
     </div>
   </div>
 </section>
@@ -451,9 +447,7 @@ include __DIR__ . '/../includes/header.php';
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         Technical Specifications
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Vehicle Carrier Engineering & Transit Safeguards
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Vehicle Carrier Engineering &amp; Transit Safeguards</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Grounded engineering practices ensuring zero damage across every relocation corridor
       </p>
@@ -502,9 +496,7 @@ include __DIR__ . '/../includes/header.php';
       <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
         100% Transfer Allowance Reimbursement
       </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        IBA Approved Billing &amp; Statutory Moving Documentation
-      </h2>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">IBA Approved Billing &amp; Statutory Moving Documentation</h2>
       <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
         Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
       </p>
@@ -537,11 +529,28 @@ include __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+
+
+<!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Highway Corridors: <span style="color: #f59e0b;">Delhi &amp; Kolkata Operations</span>
+      </h2>
+      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an outstation residential shift from Delhi to Kolkata or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Delhi to Kolkata highway corridor.
+      </p>
+    </div>
+  </div>
+</section>
+
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Car Transport Cost from Delhi to Kolkata
-    </h2>
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">Frequently Asked Questions &amp;bull; Car Transport Cost from Delhi to Kolkata</h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
         <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What documents are required to book Automobile &amp; Car transport?</h3>
@@ -564,7 +573,7 @@ include __DIR__ . '/../includes/header.php';
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact.</p>
       </div>
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&#039;s location while it is on the carrier?</h3>
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&amp;#039;s location while it is on the carrier?</h3>
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp.</p>
       </div>
   </div>
@@ -707,11 +716,90 @@ include __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Delhi to Kolkata Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Delhi+to+Kolkata+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="pan-india-network-section" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.7); border: 1px solid rgba(255,255,255,0.1); border-radius: 14px; padding: 28px 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 22px;">
+        <div>
+          <span style="background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.4); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;">
+            <i class="fas fa-globe-asia"></i> PAN-INDIA LOGISTICS NETWORK
+          </span>
+          <h3 style="color: #ffffff; font-size: 1.45rem; font-weight: 800; margin-top: 8px; margin-bottom: 4px;">
+            All-India Highway Transit Infrastructure &amp; Interstate Clearance Authority
+          </h3>
+          <p style="color: #94a3b8; font-size: 0.88rem; margin: 0;">
+            Licensed operations across 28 States &amp; 8 Union Territories with central RTO clearance desks.
+          </p>
+        </div>
+        <div style="display: flex; gap: 8px; font-family: monospace; font-size: 0.82rem;">
+          <span style="background: rgba(16, 185, 129, 0.12); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); padding: 6px 12px; border-radius: 6px;">
+            <i class="fas fa-shield-check"></i> IBA CODE: DEL-2849
+          </span>
+          <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); padding: 6px 12px; border-radius: 6px;">
+            <i class="fas fa-truck"></i> 450+ FLEET TRUCKS
+          </span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #f59e0b; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-file-signature" style="font-size: 1.1rem;"></i> All-State RTO &amp; Bilty Desk
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            Direct assistance for Form 28/29/30 clearances, road tax calculations, and computerized GST e-Way bill approvals across every state border checkpoint.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #38bdf8; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-satellite" style="font-size: 1.1rem;"></i> GPS Highway Corridors
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            Seamless long-haul connectivity across NH-33, NH-43, NH-20, and the Golden Quadrilateral expressway network with real-time transit telemetry.
+          </p>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 18px;">
+          <div style="color: #34d399; font-weight: 700; font-size: 0.95rem; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+            <i class="fas fa-phone-alt" style="font-size: 1.1rem;"></i> Central Dispatch Hub
+          </div>
+          <p style="color: #94a3b8; font-size: 0.84rem; line-height: 1.6; margin: 0;">
+            National Operations Hub: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002.<br>
+            24/7 Helpline: <strong>+91 8409531615</strong> | ISO 9001:2015 Certified Logistics
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
-      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
-    </h3>
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;"><i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
       <a href="https://shreeashirwadpackersandmovers.com/ahmedabad-to-kolkata-packers-and-movers" title="Ahmedabad To Kolkata Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Ahmedabad To Kolkata Packers And Movers</a>
       <a href="https://shreeashirwadpackersandmovers.com/appliance-to-kolkata-packers-and-movers" title="Appliance To Kolkata Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Appliance To Kolkata Packers And Movers</a>
@@ -725,9 +813,7 @@ include __DIR__ . '/../includes/header.php';
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
-      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
-    </h3>
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;"><i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Car Transport Cost From Delhi To Kolkata</span>
       <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> list of packers and movers from delhi to kolkata</span>

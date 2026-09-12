@@ -446,14 +446,16 @@ require_once __DIR__ . '/config.php';
       ];
       $schema_reviews = [];
       foreach ($gmb_reviews as $rev) {
+          $authorName = is_array($rev['author'] ?? null) ? ($rev['author']['name'] ?? 'Customer') : ($rev['author'] ?? $rev['name'] ?? 'Customer');
+          $reviewBody = $rev['text'] ?? $rev['review'] ?? $rev['reviewBody'] ?? $rev['comment'] ?? '';
           $schema_reviews[] = [
               "@type" => "Review",
               "author" => [
                   "@type" => "Person",
-                  "name" => $rev['author']
+                  "name" => $authorName
               ],
-              "datePublished" => $rev['date'] ?? date('Y-m-d'),
-              "reviewBody" => strip_tags($rev['text']),
+              "datePublished" => $rev['date'] ?? $rev['datePublished'] ?? date('Y-m-d'),
+              "reviewBody" => strip_tags($reviewBody),
               "reviewRating" => [
                   "@type" => "Rating",
                   "ratingValue" => (string)($rev['rating'] ?? 5),
