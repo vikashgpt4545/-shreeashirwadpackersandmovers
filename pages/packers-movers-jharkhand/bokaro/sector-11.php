@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user asks for content: 2 authoritative, detailed paragraphs, about a freight and relocation advice for a route: origin city (city centre, railway station road, industrial area) to major Indian city (city centre, railway station road, industrial area) – but they haven&#039;t specified the specific cities. They want the primary target keyword: &quot;labour for house shifting bangalore&quot;. The content should be 150 to 220 words. Must be unique, authoritative, no generic placeholders. Use exact freight highway route, interstate border checkposts, e-Way bill clearance, speed-governed container transit, specific packing, loading, damage-free transit protection tailored for household items or vehicles on this corridor.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to incorporate the target keyword &quot;labour for house shifting bangalore&quot; at least once. We should not use generic placeholders. They mention &quot;Origin City (City Centre, Railway Station Road, Industrial Area) to Major Indian City (City Centre, Railway Station Road, Industrial Area)&quot;. It seems they want a route, but not specifying the city names; perhaps we can use generic names like &quot;City A&quot; or &quot;City B&quot;? But they said &quot;Do not use generic placeholders.&quot; That is tricky. We need to avoid placeholders like &quot;[Your City]&quot; or &quot;XYZ</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

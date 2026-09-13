@@ -215,59 +215,19 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">CARRIER INFRASTRUCTURE</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Enclosed Container Transporters vs Open Car Haulers for Car Transport From Kolkata To Guwahati</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>When it comes to transporting vehicles, particularly from Kolkata to Guwahati, choosing between enclosed containerized carriers and open trailers is essential to ensure complete protection for your car. Both options have their pros and cons, but enclosed carriers often offer superior coverage from flying highway stones, rain, dust, and potential vandalism.</p>
-
-<h3>Enclosed Containerized Carriers</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Comprehensive pre-loading protocols ensure vehicle safety, regulatory compliance, and damage-free transit between Kolkata and Guwahati.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Complete Protection:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed carriers provide a fully enclosed environment that safeguards your car from external elements and potential damages.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">360-Degree Digital Audit</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-resolution photographic condition recording documents exterior panels, glass, odometer, and underbody baseline before carrier embarkation.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Safeguard Against Stones:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed carriers protect your car from flying stones that may damage your vehicle during transportation.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Transit Safeguards</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Battery terminal isolation, one-quarter fuel regulation, and FASTag deactivation ensure full highway compliance across Eastern Corridors.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Rain and Dust Protection:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed carriers ensure that your car remains dry and free from dust and debris during the journey.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Vandalism Prevention:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Compared to open trailers, enclosed carriers significantly reduce the risk of your vehicle being vandalized or damaged while in transit.</p>
-  </div>
-</div>
-
-<h3>Open Trailers</h3>
-<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Less Secure:</strong> Open trailers expose your vehicle to potential risks, making it more susceptible to theft, vandalism, and damage from external elements.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Exposure to Weather:</strong> Open trailers leave your car exposed to rain, dust, and other weather conditions during the journey.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Lack of Protection:</strong> Open trailers do not provide a protective barrier for your car, making it more vulnerable to stones and other debris.</span></li>
-</ul>
-
-<h3>Key Factors to Consider</h3>
-<p>When comparing enclosed containerized carriers and open trailers for vehicle transportation, there are several factors to consider:</p>
-
-<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Cost:</strong> Enclosed carriers are typically more expensive than open trailers, reflecting the greater level of protection they provide.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Availability:</strong> Enclosed carriers might be harder to find compared to open trailers, as they cater to a more specific market demand.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Timeframe:</strong> Enclosed carriers may require more time for transportation due to their capacity and limited availability, leading to a slightly longer journey.</span></li>
-</ul>
-
-<h3>Selected Movers and Packers Services in Kolkata</h3>
-<p>In Kolkata, several reliable moving companies offer car transportation services. Below are some notable options:</p>
-
-<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Kamal Packers and Movers:</strong> They provide both enclosed and open trailer services, allowing you to choose the best option based on your needs and budget.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>A-One Packers and Movers:</strong> A-One provides open trailer services for car transportation, ensuring a cost-effective solution.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Skyline Packers and Movers:</strong> Skyline specializes in open trailer services, ensuring a cost-efficient transport option.</span></li>
-</ul>
-
-<h3>Car Transport from Kolkata to Guwahati</h3>
-<p>Once your vehicle reaches Guwahati, additional car transport services are provided:</p></div>
+</div></div>
     </div>
   </div>
 </section>
@@ -365,40 +325,19 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">VEHICLE LOGISTICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Specialized Automobile &amp; Car Carrier Logistics &amp; Safety Engineering for Car Transport From Kolkata To Guwahati</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Transporting a vehicle from Kolkata to Guwahati requires precision engineering and meticulous safety protocols. At the core of a secure journey lies the use of <strong>specialized enclosed hydraulic ramp carriers</strong> that lift the car onto a flat, insulated platform, ensuring that the chassis remains level and the wheels are fully supported.</p>
-<p>This design eliminates the risk of wheel spin or accidental jacking during the 1,200‑km transit across varied terrain.</p>
-
-<p>Once the vehicle is positioned, <strong>individual steel wheel‑lock chocks</strong> are applied to each wheel. These heavy‑duty chocks are engineered to resist the torque generated by the vehicle’s mass, locking the wheels in place even when the load shifts. Combined with a calibrated hydraulic system, the chocks form a fail‑safe barrier against roll‑over or unintended movement.</p>
-
-<p>To secure the entire assembly, <strong>high‑tensile ratchet lashing</strong> is deployed. These lashing straps, rated for 30,000 lb, are tensioned with industrial ratchets that lock in place, preventing any longitudinal or lateral motion. The lashing system is cross‑checked against ISO 9001 standards, guaranteeing that the load remains immobile throughout the highway journey.</p>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Comprehensive pre-loading protocols ensure vehicle safety, regulatory compliance, and damage-free transit between Kolkata and Guwahati.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 01</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Enclosed hydraulic ramp carriers keep the vehicle protected from weather and road debris.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">360-Degree Digital Audit</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-resolution photographic condition recording documents exterior panels, glass, odometer, and underbody baseline before carrier embarkation.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Steel wheel‑lock chocks provide a 100% lock on all four wheels.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Transit Safeguards</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Battery terminal isolation, one-quarter fuel regulation, and FASTag deactivation ensure full highway compliance across Eastern Corridors.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 03</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High‑tensile ratchet lashing stops any movement, even on uneven stretches.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 04</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">All components are inspected pre‑departure and re‑checked mid‑route.</p>
-  </div>
-</div>
-
-<p>When selecting a service, it is essential to partner with a reputable provider such as an <strong>all India car transport company</strong> that offers end‑to‑end solutions. Whether you are searching for <strong>packers and movers kolkata kamarhati</strong>, <strong>takshila packers and movers kolkata</strong>, or an <strong>honest packers and movers kolkata</strong>, the same high‑standard equipment and expertise apply.</p>
-<p>In Guwahati, the <strong>best packers and movers in guwahati</strong> and <strong>packers and movers in guwahati</strong> will coordinate unloading, ensuring the vehicle is placed back on a secure ramp for local transport.</p>
-
-<p>For those needing <strong>car transport in kolkata</strong> or <strong>car transport in guwahati</strong>, the combination of hydraulic ramps, wheel‑lock chocks, and high‑tensile lashing offers the ultimate guarantee of safety, reliability, and efficiency for the entire route from the eastern plains to the northeastern frontier.</p></div>
+</div></div>
     </div>
   </div>
 </section>
@@ -409,46 +348,17 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">PRE-TRANSIT AUDIT</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Pre-Loading Inspection, Odometer Logging &amp; Photographic Audit for Transport from Kolkata Guwahati</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>intro, then</p><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Comprehensive pre-loading protocols ensure vehicle safety, regulatory compliance, and damage-free transit between Kolkata and Guwahati.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">. Must weave in the keywords</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">"packers and movers kolkata kamarhati, takshila packers and movers kolkata, honest packers and movers kolkata, car transport in guwahati, packers and movers in guwahati, best packers and movers in guwahati, all india car transport company, car transport in kolkata".</p>
-<ul style="list-style: none; padding-left: 0; margin-top: 14px; margin-bottom: 0; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px;">
-  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
-    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
-    <span>We need 280-350 words total</span>
-  </li>
-  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
-    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
-    <span>Intro paragraph: 60-70 words</span>
-  </li>
-  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
-    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
-    <span>Then list of 4-5 items, each maybe 50-70 words</span>
-  </li>
-</ul>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">360-Degree Digital Audit</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-resolution photographic condition recording documents exterior panels, glass, odometer, and underbody baseline before carrier embarkation.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">maybe 65 words. 4 items =&gt; 260 words. Total 330. Good. Need to incorporate keywords within the list. Let's write. Check word count after drafting. We'll approximate. Draft intro:
-
-Before embarking on a long‑haul journey, a meticulous pre‑loading protocol ensures that every automobile is road‑ready and protected.</p>
-<ul style="list-style: none; padding-left: 0; margin-top: 14px; margin-bottom: 0; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px;">
-  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
-    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
-    <span>A 360‑degree digital condition audit captures every exterior and interior detail, while battery terminal checks confirm electrical integrity</span>
-  </li>
-  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
-    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
-    <span>Fuel regulation to one‑quarter tank, and FASTag management prevent delays at toll plazas</span>
-  </li>
-  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
-    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
-    <span>Together, these steps give you peace of mind whether you’re using a local packer in Kolkata or an all‑India car transport company</span>
-  </li>
-</ul>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Transit Safeguards</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Battery terminal isolation, one-quarter fuel regulation, and FASTag deactivation ensure full highway compliance across Eastern Corridors.</p>
   </div>
 </div></div>
     </div>
@@ -461,43 +371,19 @@ Before embarking on a long‑haul journey, a meticulous pre‑loading protocol e
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">LEGAL COMPLIANCE</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Statutory RTO Paperwork, Transit Marine Insurance &amp; Delivery Handover for Transport from Kolkata Guwahati</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">Transporting a vehicle from Kolkata to Guwahati involves more than just booking a truck.</p>
-<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Indian regulations require a set of documents that prove ownership, compliance with safety norms, and insurance coverage.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Having these items in order not only satisfies legal requirements but also protects you against unforeseen events during the long journey across the Eastern Corridor.</span></li></ul>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Comprehensive pre-loading protocols ensure vehicle safety, regulatory compliance, and damage-free transit between Kolkata and Guwahati.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 01</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Self‑attested photocopy of the Registration Certificate (RC)</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">360-Degree Digital Audit</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-resolution photographic condition recording documents exterior panels, glass, odometer, and underbody baseline before carrier embarkation.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Current Pollution Under Control (PUC) certificate</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Transit Safeguards</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Battery terminal isolation, one-quarter fuel regulation, and FASTag deactivation ensure full highway compliance across Eastern Corridors.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 03</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Valid insurance certificate covering the vehicle</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 04</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">IBA‑approved consignment bilty (a formal bill of lading for inland transport)</p>
-  </div>
-</div>
-
-<p>Each document serves a specific purpose:</p>
-
-<ul>
-<li>The RC photocopy confirms the vehicle’s identity and ownership. It must be signed and stamped by the owner and then self‑attested to prove authenticity.</li>
-<li>The PUC certificate guarantees that the car meets environmental standards and is fit for road travel. It should be the most recent one issued by the regional transport office.</li>
-<li>The insurance certificate is mandatory for any long‑haul movement. It should detail coverage limits, excess, and the period of validity.</li>
-<li>The consignment bilty, issued by an IBA‑registered transporter, acts as a receipt and proof of consignment. It must state the vehicle’s details, origin, destination, and the agreed freight charges.</li>
-</ul>
-
-<p>When arranging coverage, opt for a <strong>100% declared‑value marine transit insurance</strong>. Though the term “marine” is traditionally used for sea freight, it indicates a comprehensive policy that covers the vehicle against loss, theft, and damage for the entire transit period.</p>
-<p>Declaring the full market value ensures you receive full compensation if an incident occurs, making this the safest choice for a high‑value vehicle traveling over 1,300 kilometres.</p></div>
+</div></div>
     </div>
   </div>
 </section>
@@ -508,64 +394,19 @@ Before embarking on a long‑haul journey, a meticulous pre‑loading protocol e
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">HANDOVER INSPECTION</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Destination Handover, Odometer Sign-Off &amp; Joint Condition Inspection for Car Transport From Kolkata To Guwahati</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
-<p>When delivering a vehicle to its final destination, ensuring a smooth handover process is crucial for both parties involved. This comprehensive guide outlines the necessary steps and documentation required for a successful handover of an automobile or car:</p>
-
-<h3><strong>Daylight Condition Re-inspection:</strong></h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Comprehensive pre-loading protocols ensure vehicle safety, regulatory compliance, and damage-free transit between Kolkata and Guwahati.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 01</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Your vehicle, after being picked up from the supplier or manufacturer, arrives at the destination.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">360-Degree Digital Audit</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-resolution photographic condition recording documents exterior panels, glass, odometer, and underbody baseline before carrier embarkation.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Upon arrival, inspect the vehicle for any visible damages or discrepancies compared to the pickup photos provided.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Transit Safeguards</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Battery terminal isolation, one-quarter fuel regulation, and FASTag deactivation ensure full highway compliance across Eastern Corridors.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 03</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Take note of any changes, missing parts, or additional damages found during daylight conditions.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 04</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Document your findings using a detailed report, including photos to support your observations.</p>
-  </div>
-</div>
-
-<h3><strong>Odometer Verification:</strong></h3>
-<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Check the vehicle's odometer against the details provided in the LR Bill of Lading (Lessor Report) documents.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Verify the distance traveled matches the documentation provided by comparing the displayed mileage on the odometer.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>In case of discrepancies, discuss this with the recipient or designated representative before proceeding further.</span></li>
-</ul>
-
-<h3><strong>Signed Condition Sign-off:</strong></h3>
-<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Upon confirming the vehicle's condition and verifying the odometer, involve the recipient or their representative to sign off on the condition of the vehicle.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Have them acknowledge any visible damages, defects, or discrepancies that were identified during the inspection.</span></li>
-  <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Include this signed document in the final documentation for reference.</span></li>
-</ul>
-
-<p>By closely examining the vehicle during daylight conditions, verifying the odometer reading, and obtaining a signed condition sign-off from the recipient or their representative, you ensure a transparent and reliable handover process.</p>
-
-<p>Additionally, it is essential to establish open communication with the recipient or their representative during this handover process. Collaborating with them ensures mutual understanding and prevents any misunderstandings or disputes later on.</p>
-
-<p>Furthermore, documenting the entire process using photos, detailed reports, and signed documents provides a comprehensive record for future reference.</p>
-
-<p>By following these steps, you safeguard both parties involved, ensuring the vehicle is delivered in the condition it was received and verifying that the odometer reading is accurate.</p>
-
-<p>Keep in mind that these procedures may vary slightly depending on the specific requirements of the recipient and their preferences. Communicate with them ahead of time to ensure both parties adhere to the agreed-upon guidelines.</p>
-
-<p>Upon successful completion of these steps, you can proceed with the final paperwork and delivery handover.</p>
-
-<p>In conclusion, the thorough examination of the vehicle, verifying the odometer reading, and obtaining a signed condition sign-off contribute to a transparent and reliable handover process. By involving the recipient or their representative, you guarantee mutual agreement and avoid potential disputes.</p>
-
-<p>Remember to document everything using photos, detailed reports, and signed documents to maintain a comprehensive record for future reference.</p>
-
-<p>Ensure you have discussed and agreed upon these procedures with the recipient or their representative beforehand to ensure a seamless and satisfactory handover.</p></div>
+</div></div>
     </div>
   </div>
 </section>
@@ -668,6 +509,140 @@ Before embarking on a long‑haul journey, a meticulous pre‑loading protocol e
 
 
 <!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
+      </div>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Car &amp; Bike Relocation (Creta &amp; Enfield)</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #10b981; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Household Shifting (3BHK)</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #3b82f6; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>SUV &amp; Household Intercity Transit</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #a855f7; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Interstate Relocation to Kolkata</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #06b6d4; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>IT Office &amp; Workstation Relocation</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #ec4899; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Local House Relocation</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."
+        </p>
+      </div>
+    </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
@@ -719,144 +694,11 @@ Before embarking on a long‑haul journey, a meticulous pre‑loading protocol e
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What documents are required to book Automobile & Car transport?","acceptedAnswer":{"@type":"Answer","text":"You need a photocopy of the vehicle Registration Certificate (RC), valid insurance policy, current PUC certificate, and owner government photo ID."}},{"@type":"Question","name":"How much fuel should remain in the fuel tank prior to transport?","acceptedAnswer":{"@type":"Answer","text":"For safety compliance, keep approximately one-quarter (25%) or reserve fuel in the tank for carrier ramp loading and unloading."}},{"@type":"Question","name":"Is vehicle transit insurance included with the carrier booking?","acceptedAnswer":{"@type":"Answer","text":"Yes, we provide 100% declared-value transit marine insurance through IRDAI-registered underwriters covering all highway transit risks."}},{"@type":"Question","name":"Can personal belongings or luggage be packed inside the transported vehicle?","acceptedAnswer":{"@type":"Answer","text":"Transport safety regulations and transit insurance policies strictly prohibit carrying loose household luggage inside transported vehicles."}},{"@type":"Question","name":"How do you ensure my vehicle does not get scratched during transit?","acceptedAnswer":{"@type":"Answer","text":"All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact."}},{"@type":"Question","name":"Can I track my vehicle's location while it is on the carrier?","acceptedAnswer":{"@type":"Answer","text":"Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp."}}]}
   </script>
 </section>
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-    </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Car &amp; Bike Relocation (Creta &amp; Enfield)</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #10b981; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Household Shifting (3BHK)</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #3b82f6; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>SUV &amp; Household Intercity Transit</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #a855f7; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Interstate Relocation to Kolkata</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #06b6d4; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>IT Office &amp; Workstation Relocation</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #ec4899; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Local House Relocation</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."
-        </p>
-      </div>
-    </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
-  </div>
-</section>
-
-
+<!-- Google Business Profile Verified Customer Trust Section -->
 
 <!-- Section: Verified Local Google Map & Service Corridor -->
+
 <section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
   <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
     <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
@@ -869,7 +711,7 @@ Before embarking on a long‑haul journey, a meticulous pre‑loading protocol e
         </span>
       </div>
       <div style="width: 100%; height: 380px; position: relative;">
-        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Kolkata+to+Guwahati+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Kolkata+to+Guwahati+Highway&t=&z=12&ie=UTF&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
       </div>
     </div>
   </div>

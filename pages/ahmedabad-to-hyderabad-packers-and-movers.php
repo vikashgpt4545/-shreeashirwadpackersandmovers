@@ -483,8 +483,8 @@ Moving is stressful; knowing that your belongings are fully insured removes a ma
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">06</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Word count? Let&apos;s count approximate</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">I&apos;ll count words quickly. Title lines count? Let&apos;s count.</p>
+      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Interstate Transit Documentation</h3>
+      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">Verified interstate transport documentation and GPS container tracking.</p>
     </div>
     <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
       <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
@@ -827,24 +827,49 @@ The International</h3>
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long does a typical household move from Ahmedabad to Hyderabad take with Shree Ashirwad Packers and Movers?","acceptedAnswer":{"@type":"Answer","text":"A standard residential relocation covering the 1,143 km stretch via NH 44/33 usually completes in 3 to 4 business days. The timeline includes loading, secured transit with live GPS monitoring, scheduled check‑points, and unloading at the destination. Factors such as weather, traffic congestion at major junctions, and any additional services requested can slightly adjust the schedule."}},{"@type":"Question","name":"What documents are required for an interstate move between Gujarat and Telangana?","acceptedAnswer":{"@type":"Answer","text":"Customers must provide a valid government‑issued ID, original address proof, a signed packing list, the e‑Way bill generated for the consignment, and GST registration details if the move is corporate. For vehicle transport, the registration certificate, insurance copy, and a no‑objection certificate (NOC) from the RTO are also needed. Our team assists in preparing and filing each document."}},{"@type":"Question","name":"How is the pricing calculated for household items versus vehicle transport on the Ahmedabad‑Hyderabad route?","acceptedAnswer":{"@type":"Answer","text":"Pricing is a blend of distance‑based freight charges, volumetric weight of packed goods, and specific vehicle‑carrier fees. Household items are billed per cubic foot of packed space, while two‑wheelers and cars are charged based on carrier type (single‑deck trailer or multi‑car hydraulic trailer) and loading complexity. Transparent cost matrices break down each component, ensuring no hidden fees."}},{"@type":"Question","name":"Are there any restrictions on transporting hazardous or perishable goods between Ahmedabad and Hyderabad?","acceptedAnswer":{"@type":"Answer","text":"Yes. Hazardous materials such as chemicals, flammable liquids, or compressed gases are prohibited under the IBA mover code and government regulations for interstate road transport. Perishable items can be moved only with specialized refrigerated containers, which must be booked in advance. Our compliance team verifies cargo eligibility before dispatch to avoid regulatory penalties."}},{"@type":"Question","name":"What safety measures protect fragile items like glassware, temple idols, or electronics during the transit?","acceptedAnswer":{"@type":"Answer","text":"Our 7‑layer protective packaging system envelops each fragile piece with high‑density bubble wrap, foam edge protectors, corrugated fiberboard, and weather‑proof stretch film. For high‑value items, we use custom‑crafted wooden crates with reinforced ratchet lashings and wheel chocks for delicate transport. All cargo is secured on hydraulic platforms, and live GPS tracking ensures no unexpected handling."}},{"@type":"Question","name":"How does the live GPS tracking work and can I receive real‑time updates?","acceptedAnswer":{"@type":"Answer","text":"Each of our container trucks is equipped with satellite GPS devices that transmit location data every five minutes to our central control room. Customers receive a secure link to a web portal where they can view real‑time progress, estimated arrival times, and checkpoint confirmations. Optional SMS alerts are also available for instant updates."}},{"@type":"Question","name":"Is the insurance claim process straightforward if any damage occurs during the Ahmedabad‑Hyderabad move?","acceptedAnswer":{"@type":"Answer","text":"Our 100% insured coverage follows an IRDAI‑approved claim workflow. In the unlikely event of damage, the client files a claim within 48 hours, providing photographs, the original packing list, and the damage assessment report. Our dedicated claims team validates the loss, processes the settlement, and typically resolves claims within 7‑10 business days, ensuring a hassle‑free experience."}}]}
   </script>
 </section>
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+
+<!-- Section: Verified Local Google Map & Service Corridor -->
+
+<section class="route-map-section" style="background: #070d19; padding: 45px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
+          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Ahmedabad to Hyderabad Packers And Movers Highway
+        </div>
+        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
+          ✓ Live Satellite GPS Tracking Active
+        </span>
+      </div>
+      <div style="width: 100%; height: 380px; position: relative;">
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Ahmedabad+to+Hyderabad+Packers+And+Movers+Highway&t=&z=12&ie=UTF&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+      </div>
     </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
   </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+</section>
+
+
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
+      </div>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -852,7 +877,7 @@ The International</h3>
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -870,7 +895,7 @@ The International</h3>
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -888,7 +913,7 @@ The International</h3>
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -906,7 +931,7 @@ The International</h3>
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -924,7 +949,7 @@ The International</h3>
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -942,7 +967,7 @@ The International</h3>
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -954,30 +979,6 @@ The International</h3>
       </div>
     </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
-  </div>
-</section>
-
-
-
-<!-- Section: Verified Local Google Map & Service Corridor -->
-<section class="route-map-section" style="background: #070d19; padding: 45px 0;">
-  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
-        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
-          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: Ahmedabad to Hyderabad Packers And Movers Highway
-        </div>
-        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
-          ✓ Live Satellite GPS Tracking Active
-        </span>
-      </div>
-      <div style="width: 100%; height: 380px; position: relative;">
-        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Ahmedabad+to+Hyderabad+Packers+And+Movers+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
       </div>
     </div>
   </div>

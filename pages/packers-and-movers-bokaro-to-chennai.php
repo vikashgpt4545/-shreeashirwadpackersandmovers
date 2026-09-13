@@ -311,13 +311,12 @@ By integrating real‑time data into the sizing model, the team guarantees that 
 
 In sum, the initial consultation and pre‑move audit by bokaro packers and movers lay the foundation for a seamless move. By capturing detailed household goods, vehicle specifications, and special item needs, the volume assessment guarantees precise container sizing and a reliable transport home goods plan from Bokaro to Chennai."
 
-Now count words.
 
-Let's count manually: 
 
-Before(1) the2 first3 truck4 leaves5 Bokaro,6 the7 team8 of9 bokaro10 packers11 and12 movers13 schedules14 a15 detailed16 initial17 consultation.18 Whether19 you20 prefer21 a22 video23 call24 from25 the26 comfort27 of28 your29 home30 or31 a32 friendly33 visit34 to35 your36 apartment,37 the38 pre‑move39 audit40 is41 designed42 to43 capture44 every45 nuance46 of47 your48 household49 goods.50 During51 the52 virtual53 session,54 our55 professional56 surveyor57 guides58 you59 through60 a61 systematic62 inventory63 checklist,64 noting65 furniture66 dimensions,67 fragile68 items,69 and70 bulky71 appliances.72 For73 those74 who75 opt76 for77 an78 on‑site79 visit,80 the81 surveyor82 arrives83 with84 a85 tablet,86 scans87 barcodes,88 and89 takes90 precise91 measurements92 of93 each94 piece,95 ensuring96 nothing97 is98 overlooked.99
 
-The100 audit101 extends102 beyond103 furniture.104 Vehicle105 dimensions106 are107 recorded108 meticulously,109 from110 the111 sedan’s112 wheelbase113 to114 the115 cargo116 space117 of118 a119 pickup120 truck,121 allowing122 the123 bokaro124 packers125 and126 movers127 to128</div>
+Before the first truck leaves Bokaro,6 the team of9 bokaro packers and movers schedules a15 detailed initial consultation.18 Whether you prefer a22 video call from the comfort of28 your home or31 a32 friendly visit to35 your apartment,37 the pre‑move audit is41 designed to43 capture every nuance of47 your household goods.50 During the virtual session,54 our professional surveyor guides you through a61 systematic inventory checklist,64 noting furniture dimensions,67 fragile items,69 and bulky appliances.72 For those who opt for an78 on‑site visit,80 the surveyor arrives with a85 tablet,86 scans barcodes,88 and takes precise measurements of93 each piece,95 ensuring nothing is98 overlooked.99
+
+The audit extends beyond furniture.104 Vehicle dimensions are recorded meticulously,109 from the sedan’s112 wheelbase to114 the cargo space of118 a119 pickup truck,121 allowing the bokaro packers and movers to128</div>
     </div>
   </div>
 </section>
@@ -467,22 +466,6 @@ Operational efficiency is further bolstered by strict adherence to the standards
 </section>
 
 <!-- Section: Dedicated Jharkhand Regional Moving Network (Below Side) -->
-  <section style="padding: 50px 0; background: linear-gradient(135deg, #0b1530 0%, #101c40 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.3); border-bottom: 1.5px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
-      <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
-        Statewide Relocation Network
-      </span>
-      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
-        Seamless Packers and Movers Connectivity Across Jharkhand
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto 10px auto; max-width: 920px;">
-        As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, our fleet network guarantees on-time delivery.
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto; max-width: 920px;">
-        We maintain direct logistics corridors connecting to our flagship operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers in Ranchi</a>, delivering synchronized transit tracking, verified handling teams, and prompt door-to-door delivery across every district.
-      </p>
-    </div>
-  </section>
 
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
@@ -519,77 +502,31 @@ Operational efficiency is further bolstered by strict adherence to the standards
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How does Shree Ashirwad ensure my household goods are protected during the 1729 km Bokaro to Chennai journey?","acceptedAnswer":{"@type":"Answer","text":"Shree Ashirwad employs a 7‑layer multi‑guard packaging system that combines heavy‑duty bubble wrap, high‑density foam edge protectors, corrugated fiberboard, and stretch film to shield items from shocks, moisture, and temperature fluctuations. Each parcel is secured with ratchet lashings inside weather‑proof containers, and real‑time GPS monitoring ensures the cargo follows the planned route without deviation, guaranteeing optimal safety throughout the long‑distance transit."}},{"@type":"Question","name":"What documents are required for IBA‑approved claim reimbursement when moving from Bokaro to Chennai?","acceptedAnswer":{"@type":"Answer","text":"For an IBA‑approved claim you need a signed moving contract, a detailed inventory list with declared values, the GST‑compliant invoice, a valid e‑Way bill, and the IRDAI‑approved marine transit insurance certificate. Shree Ashirwad also provides a pre‑move audit report and a delivery receipt, all of which streamline reimbursement processing for government, PSU, or corporate accounts."}},{"@type":"Question","name":"Can I track my shipment in real time while it travels along NH 16?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every container truck in the Bokaro‑to‑Chennai fleet is equipped with satellite GPS devices that feed live location data to our customer portal. You can view the exact position, estimated arrival time, and any route deviations instantly. This transparency is part of our commitment to reliable, end‑to‑end logistics on the East Coast Arterial Freight Corridor."}},{"@type":"Question","name":"Are vehicle and two‑wheeler transports included in the Bokaro‑to‑Chennai service?","acceptedAnswer":{"@type":"Answer","text":"Absolutely. Shree Ashirwad offers dedicated enclosed multi‑car trailers with hydraulic loading ramps for cars, as well as specialized two‑wheeler carriers featuring wheel chocks and high‑tensile ratchet lashings. Both services are covered under the same quotation, ensuring safe, damage‑free transport of your automobiles alongside household goods on the same NH 16 route."}},{"@type":"Question","name":"How is the final price calculated for a long‑distance move from Bokaro steel city to Chennai?","acceptedAnswer":{"@type":"Answer","text":"The final cost is derived from four core components: the volume and weight of goods, the distance covered (approximately 1729 km), the type of container or vehicle required, and optional services such as insurance, disassembly/reassembly, and special handling. All taxes, fuel surcharges, and regulatory fees are itemised in the binding quote, providing full price transparency."}},{"@type":"Question","name":"What safety measures are taken for fragile items like glassware or temple idols during the Bokaro to Chennai relocation?","acceptedAnswer":{"@type":"Answer","text":"Fragile items receive custom wooden crates reinforced with high‑density foam and edge protectors, then wrapped in multiple layers of bubble wrap and stretch film. They are placed in climate‑controlled, weather‑proof containers and secured with padded straps. Upon arrival, a post‑delivery inspection verifies that each piece is intact, and any damage is immediately reported for insurance claim processing."}}]}
   </script>
 </section>
+
 <!-- Section: Google Map & Operating Network Details -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1.5px solid rgba(245, 158, 11, 0.25); border-bottom: 1.5px solid rgba(245, 158, 11, 0.25);">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 35px;">
-        <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 8px;">
-          <i class="fas fa-map-marked-alt" style="margin-right: 6px;"></i> Verified Service Network
-        </span>
-        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
-          Find Our Operational Service Network in <span style="color: #f59e0b;">Bokaro</span>
-        </h2>
-        <p style="color: #cbd5e1; font-size: 0.95rem; max-width: 760px; margin: 10px auto 0 auto; line-height: 1.7;">
-          Visit our nearest operational base or connect with our verified logistics coordinators for rapid vehicle inspection, quotation, and packing material dispatch.
-        </p>
-      </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; align-items: center; background: #0f1a36; padding: 28px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
-        <div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">Bokaro Relocation Office</span>
-          <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 800; margin: 6px 0 12px 0;">Bokaro Operations Base</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 16px;">
-            Serving Sector 12/A, Chas, Bokaro Thermal, and Chas bypass logistics routes.
-          </p>
-          <div style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-            <div><strong style="color: #ffffff;"><i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 6px;"></i> Address:</strong> <?php echo ADDRESS_BOKARO; ?></div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-phone-alt" style="color: #f59e0b; margin-right: 6px;"></i> Helpline:</strong> <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="color: #38bdf8; text-decoration: none; font-weight: 600;"><?php echo SITE_PHONE; ?></a></div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-envelope" style="color: #f59e0b; margin-right: 6px;"></i> Email:</strong> <a href="mailto:<?php echo SITE_EMAIL; ?>" style="color: #38bdf8; text-decoration: none;"><?php echo SITE_EMAIL; ?></a></div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-clock" style="color: #f59e0b; margin-right: 6px;"></i> Hours:</strong> Mon - Sun: 7:00 AM – 10:00 PM (Emergency Dispatch 24/7)</div>
-          </div>
-          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad%2C+I+want+to+visit+your+office+or+book+shifting+for+Bokaro." target="_blank" style="padding: 10px 18px; background: #10b981; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fab fa-whatsapp"></i> WhatsApp Desk
-            </a>
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 10px 18px; background: #e11d48; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fas fa-phone-alt"></i> Call Direct
-            </a>
-          </div>
-        </div>
-        <div style="border-radius: 12px; overflow: hidden; border: 1.5px solid rgba(245, 158, 11, 0.35); height: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);">
-          <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117065.1873429215!2d86.085522!3d23.6693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f42289eb3fffff%3A0x8849eb248e3e4df6!2sBokaro%20Steel%20City%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy" 
-            referrerpolicy="no-referrer-when-downgrade" 
-            title="Google Map of Shree Ashirwad Packers and Movers in Bokaro">
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </section>
+<!-- Google Business Profile Verified Customer Trust Section -->
 
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-    </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
+      </div>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -597,7 +534,7 @@ Operational efficiency is further bolstered by strict adherence to the standards
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -615,7 +552,7 @@ Operational efficiency is further bolstered by strict adherence to the standards
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -633,7 +570,7 @@ Operational efficiency is further bolstered by strict adherence to the standards
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -651,7 +588,7 @@ Operational efficiency is further bolstered by strict adherence to the standards
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -669,7 +606,7 @@ Operational efficiency is further bolstered by strict adherence to the standards
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -687,7 +624,7 @@ Operational efficiency is further bolstered by strict adherence to the standards
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -699,11 +636,8 @@ Operational efficiency is further bolstered by strict adherence to the standards
       </div>
     </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
+      </div>
+    </div>
   </div>
 </section>
 

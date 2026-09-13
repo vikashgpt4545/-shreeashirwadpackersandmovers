@@ -280,7 +280,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (India to Destination Hub)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants 2 authoritative, detailed, fact-grounded paragraphs providing genuine freight and relocation advice for a route: India (City Centre, Railway Station Road, Industrial Area) to Destination Hub (City Centre, Railway Station Road, Industrial Area). Highway distance ~850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways. Transit duration 2-3 working days. Service: Household Shifting &amp; Relocation. Primary target keyword: best rated packers and movers in India. Cover: 1. Exact freight highway route, interstate border checkposts, automated e-Way bill clearance, speed-governed container transit. 2. Specific packing, loading, and damage-free transit protection tailored for household items or vehicles on this specific corridor.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Word count 150-220 words. 100% unique. No generic placeholders. Need to be authoritative, fact grounded. Provide details: e.g., route: NH 44, NH 48, etc. Provide interstate border checkposts: e.g., crossing from State A to State B. Provide e-Way bill clearance: mention e-way system. Provide speed-governed container transit: mention speed limits on express highways. Provide packing: using moisture-resistant packing, bubble wrap, etc. Provide</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

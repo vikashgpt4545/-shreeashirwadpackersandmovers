@@ -459,25 +459,8 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">PRE-TRANSIT AUDIT</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Pre-Loading Inspection, Odometer Logging &amp; Photographic Audit for Transport from Hyderabad Ranchi</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">We need to produce 280-350 words in clean HTML. Intro paragraph, then 4-5 actionable checklist points. Must weave in the given keywords: "padmaja packers & movers in hyderabad, packers and movers hyderabad secunderabad telangana, navata transport hyderabad kphb colony, packers and movers in ranchi, best packers and movers ranchi, ranchi packers movers, open car carrier, railway vehicle transport". Must include these exactly? Likely yes. Should incorporate them naturally. Should not use ellipses '' and no markdown fences. Just plain HTML.   Intro paragraph maybe 60-80 words. Then 4-5 checklist items each maybe 60-80 words. Need to ensure total words 280-350. Let's count approximate. Intro 70 words. Each checklist item 60 words, 5 items = 300 words. Total 370 words. Need 280-350. So maybe 4 items 70 words each = 280. Intro 70 = 350. So 4 items. Let's aim for 4 items each ~70 words. Intro ~70. That gives 350 words. 
-
-Word count: We must count. Let's write and then count roughly.
-
-Intro paragraph: "Before dispatching an automobile or car, a meticulous pre‑loading protocol safeguards the vehicle’s integrity and ensures compliance with transport regulations. By conducting a 360‑degree digital condition audit, verifying battery terminals, regulating fuel levels to a quarter‑tank, and managing FASTag accounts, logistics partners like Padmaja Packers & Movers in Hyderabad, Navata Transport in KPHB Colony, and the best packers and movers in Ranchi can deliver seamless, hassle‑free service across Hyderabad Secunderabad Telangana, Ranchi, and beyond." regulations.(20) By(21) conducting(22) a(23) 360‑degree(24) digital(25) condition(26) audit,(27) verifying(28) battery(29) terminals,(30) regulating(31) fuel(32) levels(33) to(34) a(35) quarter‑tank,(36) and(37) managing(38) FASTag(39) accounts,(40) logistics(41) partners(42) like(43) Padmaja(44) Packers(45) &(46) Movers(47) in(48) Hyderabad,(49) Navata(50) Transport(51) in(52) KPHB(53) Colony,(54) and(55) the(56) best(57) packers(58) and(59) movers(60) in(61) Ranchi(62) can(63) deliver(64) seamless,(65) hassle‑free(66) service(67) across(68) Hyderabad(69) Secunderabad(70) Telangana,(71) Ranchi,(72) and(73) beyond.(74) So 74 words.
-
-Good.
-
-Now 4 checklist items. Each ~70 words. 
-
-Item 1: 360-degree digital condition audit: description.
-
-Item 2: Battery terminal checks.
-
-Item 3: One-quarter tank fuel regulation.
-
-Item 4: FASTag management.
-
-We also need to weave in keywords: "open car carrier", "railway vehicle transport", "packers and movers in ranchi", "best packers and movers ranchi", "ranchi packers movers", "padmaja packers & movers in hyderabad", "packers and movers hyderabad secunderabad telangana", "navata transport hyderabad kphb colony". Already</div>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="margin-bottom: 15px;">Vehicle relocation from Hyderabad to Ranchi covers approximately 1,350 km along the East-Central highway corridor via NH 44 and NH 33. Certified auto transport carriers deploy enclosed car trailers with hydraulic ramps, non-abrasive wheel-tie lashing, and dedicated vehicle inspection sheets recording odometer readings and exterior condition.</p>
+        <p style="margin-bottom: 15px;">All car consignments carry comprehensive marine transit insurance with zero-deductible coverage. Real-time GPS telematics provide automated checkpoint alerts at state border checkposts, ensuring absolute transparency from pickup to final doorstep handover.</p></div>
     </div>
   </div>
 </section>

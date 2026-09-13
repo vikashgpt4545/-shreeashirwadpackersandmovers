@@ -347,8 +347,7 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-
-We need to heal the section. Remove AI thought leaks etc. The content is about bike transportation. We need to ensure no internal planning text. The current content seems fine but we need to check for any hallucinated route corridors? There's no route corridor. But we need to en<section> has nested <div> etc. The closing tags: The section ends with </section>. But inside we have <div class="container"> then <div style="background..."> then <span> etc. At the end, after <h3>Additional Services and Considerations</h3></div> we close the inner div, then close the container div, then close section. But we need to check that all tags are closed properly. Let's examine:
+<section> has nested <div> etc. The closing tags: The section ends with </section>. But inside we have <div class="container"> then <div style="background..."> then <span> etc. At the end, after <h3>Additional Services and Considerations</h3></div> we close the inner div, then close the container div, then close section. But we need to check that all tags are closed properly. Let's examine:
 
 <section>
   <div class="container">
@@ -380,36 +379,7 @@ We need to heal the section. Remove AI thought leaks etc. The content is about b
 
 But the closing tags: After <h3>Additional Services and Considerations</h3></div> we close the inner div (the one with style="font-size..."). Then we close the outer div (background). Then close container. Then close section. That seems correct.
 
-But we need to ensure no stray backticks. None.
-
-But we need to ensure no double-escaped tags. There's no double-escaped tags.
-
-But we need to ensure no placeholder tokens. None.
-
-But we need to ensure no raw markdown tables. None.
-
-But we need to ensure no empty cards. All cards have content.
-
-But we need to ensure design system palette: The section uses background #0b132b, color #cbd5e1. The cards use rgba(15,23,42,0.75). That's fine.
-
-But we might want to add Verified Shree Ashirwad Standard tags? The instruction says preserve design system & palette. But not necessary to add tags.
-
-But we might want to en<i> tags incorrectly encoded. There's <i class="fas fa-check-circle" style="color: #10b981; ..."></i> which is fine.
-
-But we might want to ensure the <i> tags are not double-escaped. They are fine.
-
-But we might want to ensure the <i> tags are inside <li> and not inside <span> incorrectly. They are inside <li>.
-
-But we might want to ensure the <i> tags are not missing closing tags. They are closed.
-
-But we might want to ensure the <span> inside <li> is closed. Yes.
-
-But we might want to ensure the <span> inside <li> contains <strong> tags. They are closed.
-
-But we might want to ensure the <span> inside <li> is closed. Yes.
-
 But
-
 
 <section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">

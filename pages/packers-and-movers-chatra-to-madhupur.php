@@ -209,217 +209,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">FLEET &amp; TELEMATICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Dedicated Container Truck Fleet Specifications &amp; Satellite GPS Telematics on Packers And Movers Chatra-Madhupur Corridor</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Shree Ashirwad Packers and Movers is equipped with an array of specialized fleets designed to cater to the diverse transportation requirements of our clients. In the context of Chatra to Madhupur transport, we employ 18ft, 22ft, and 32ft MX enclosed containers coupled with advanced features such as air-suspension systems, speed governors, and automated alerts.</p>
-<p>This ensures a safe, efficient, and transparent relocation experience for our clients.</p>
-
-<p>For those interested in Madhupur transport services, Shree Ashirwad Packers and Movers is an ideal choice. We specialize in providing reliable household shifting solutions, ensuring hassle-free transportation of your belongings. Our clients can contact us directly using the following contact number - 09500038619.</p>
-
-<p>If you are searching for packers and movers for house shifting near me, Shree Ashirwad Packers and Movers is a renowned name in the industry. With years of experience and a dedicated team, we provide tailored solutions to suit your specific needs. Our services are suitable for both residential and commercial relocations.</p>
-
-<p>In terms of trucks utilized for household shifting, we pride ourselves on using high-quality vehicles that cater to diverse requirements. Whether you have bulky items or delicate belongings, our fleet guarantees safe transportation.</p>
-
-<p>For those exploring house shifting apps, Shree Ashirwad Packers and Movers offers an easy-to-use platform to track the progress of your relocation. Our household shifting services cover the entirety of India, ensuring seamless transitions for our valued clients.</p>
-
-<p>When it comes to household shifting services in India, Shree Ashirwad Packers and Movers stands out for its exceptional expertise. We ensure efficient packing, smooth loading, transportation, and unloading processes for a stress-free relocation experience. Our experienced team is well-versed in handling fragile items and bulky objects alike.</p>
-
-<p>Regarding the charges for movers and packers in Sanpada, please note that our rates are competitive and transparent. We provide tailored solutions to meet your specific requirements, ensuring cost-effective services. Contact us directly for a personalized quote that caters to your relocation needs.</p>
-
-<h3>Protocols for Household Shifting from Chatra to Madhupur</h3>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">1. Preliminary Assessment:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our team conducts a thorough assessment of your belongings to determine the appropriate vehicles and packing materials required for your relocation.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">2. Sturdy Packing:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our team ensures that all items are packed using high-quality materials to protect your belongings during transportation.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">3. Air-Ride Suspension:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">We utilize air-ride suspension systems in our trucks to provide a smooth ride, minimizing the risk of damages during the journey.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">4. Speed Governor Calibration:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our vehicles are equipped with speed governors, limiting the overall speed of transportation to ensure safety and minimize the risk of accidents and damages.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">5. Real-time Tracking:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">We implement automated alerts through a dedicated app, providing you with real-time updates regarding your belongings' journey.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">06</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">6. Complimentary Insurance:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">As part of our commitment to customer satisfaction, we provide complimentary insurance coverage to protect your valuable belongings.</p>
-  </div>
-</div>
-
-<h3>Specialized Fleet of Packers And Movers Chatra To Madhupur</h3></div>
-    </div>
-  </div>
-</section>
-
-
-
-<section class="dynamic-topic-table-section" style="padding: 55px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    
-    <div style="text-align: center; margin-bottom: 35px;">
-      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
-        ROUTE FREIGHT MATRIX
-      </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Corridor Freight Tariff &amp; Transit Schedule: Packers And Movers Chatra to Madhupur (850 km)
-      </h2>
-      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
-        Verified highway corridor transit pricing via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways with zero hidden surcharges
-      </p>
-    </div>
-
-    <div style="overflow-x: auto; background: #0f172a; border-radius: 14px; border: 1.5px solid rgba(255,255,255,0.1); box-shadow: 0 15px 35px rgba(0,0,0,0.45);">
-      <table style="width: 100%; border-collapse: collapse; text-align: left;">
-        <thead>
-          <tr style="border-bottom: 2px solid rgba(245, 158, 11, 0.4);"><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Consignment Category</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: rgba(16, 185, 129, 0.12); color: #10b981;">Standard Freight Band</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Transit Duration</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Included Protective Inclusions</th></tr>
-        </thead>
-        <tbody><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">1 BHK Household Shifting</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹11,500 - ₹17,500</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">3 - 5 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Multi-Layer Packing + Loading/Unloading</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">2 BHK Family Relocation</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹16,500 - ₹25,000</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">3 - 5 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Complete Bubble Wrap + Furniture Blankets</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">3 BHK / Villa Shifting</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹23,000 - ₹36,000</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">4 - 6 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Dedicated 19ft/22ft Closed Container</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Two-Wheeler Solo Carrier</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹3,800 - ₹6,800</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">2 - 4 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">7-Layer Protective Wrap + Wheel Chocks</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Car Carrier (Sedan / SUV)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹11,000 - ₹19,500</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">3 - 5 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Hydraulic Enclosed Auto Trailer + Insurance</td></tr></tbody>
-      </table>
-    </div>
-
-  </div>
-</section>
-
-
-<section class="operational-photo-showcase-section" style="padding: 55px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    
-    <div style="text-align: center; margin-bottom: 35px;">
-      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
-        AUTHENTIC OPERATIONAL GALLERY
-      </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Packers and Movers Chatra to Madhupur | 8409531615
-      </h2>
-      <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
-        Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
-      </p>
-    </div>
-
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 24px;">
-      
-        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
-          <div style="height: 230px; overflow: hidden; position: relative;">
-            <img src="<?php echo SITE_URL; ?>assets/images/services/shree-ashirwad-moving-truck-fleet.jpeg" alt="GPS-Enabled Closed Container Truck Fleet - Shree Ashirwad Packers and Movers" title="GPS-Tracked Container Fleet" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
-              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
-            </span>
-          </div>
-          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
-            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">GPS-Tracked Container Fleet</h3>
-            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">All-weather, closed-body container trucks equipped with satellite GPS tracking.</p>
-          </div>
-        </div>
-        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
-          <div style="height: 230px; overflow: hidden; position: relative;">
-            <img src="<?php echo SITE_URL; ?>assets/images/services/interstate-highway-container-transit.jpeg" alt="Interstate Highway Freight Movement via National Corridors - Shree Ashirwad" title="Interstate Highway Transit" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
-              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
-            </span>
-          </div>
-          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
-            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Interstate Highway Transit</h3>
-            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Seamless interstate transit along National Highway corridors with automated e-Way bill clearance.</p>
-          </div>
-        </div>
-        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
-          <div style="height: 230px; overflow: hidden; position: relative;">
-            <img src="<?php echo SITE_URL; ?>assets/images/services/professional-packing-crew-on-site.jpeg" alt="Uniformed, Experienced Moving Crew Performing Doorstep Relocation - Shree Ashirwad" title="Experienced Moving Team on Site" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
-              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
-            </span>
-          </div>
-          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
-            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Experienced Moving Team on Site</h3>
-            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Background-verified, trained moving specialists handling packing and loading with utmost care.</p>
-          </div>
-        </div>
-    </div>
-
-  </div>
-</section>
-
-<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">CORRIDOR LOGISTICS</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Highway Route Transit Logistics &amp; Corridor Operations from Packers And Movers Chatra to Madhupur (850 km)</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p><strong>Operational Transit Analysis – Chatra → Madhupur</strong></p>
-
-<p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">The corridor from Chatra to Madhupur spans approximately 210 km and is serviced by a blend of National Highway arterial corridors and dedicated Multi‑Axle Express Freight Highways (MEFH).</p>
-<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Leveraging a dual‑driver rotation model, a fleet of 12‑ton and 18‑ton <em>trucks used for household shifting</em> can maintain a continuous 24‑hour window while complying with the Motor Vehicles Act’s driver‑rest regulations.</span></li></ul>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Dual‑Driver Rotations:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Each vehicle is staffed by two certified drivers who alternate 4‑hour driving blocks followed by a 2‑hour rest in the cab. This schedule yields an average speed of 55 km/h, ensuring on‑time delivery without fatigue‑related risk.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Satellite GPS Checkpoints:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Real‑time geofencing is configured at five strategic nodes – Koderma, Hazaribagh, Barhi, Madhupur‑East, and the final depot. Alerts trigger at every 30 km, providing live visibility to the control centre and the client via the house shifting app.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Scheduled Rest Stops:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Designated lay‑over bays at Hazaribagh (Rest‑Stop‑A) and Barhi (Rest‑Stop‑B) are equipped with secure parking, fueling, and driver amenities. Each stop includes a mandatory 30‑minute cargo inspection to verify container integrity.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Zero‑Transshipment Container Security:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">All household goods are loaded into sealed, tamper‑evident containers at the Chatra pickup point. Containers remain sealed throughout the journey; no intermediate handling is permitted, eliminating cross‑contamination and pilferage risks.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Final Delivery Protocol:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Upon arrival at the Madhupur depot, the on‑site team conducts a dual‑verification – visual seal check and QR‑code scan – before handing over to the end‑customer. The madhupur transport contact number (📞 +91‑98765‑43210) is displayed on the delivery manifest for instant coordination.</p>
-  </div>
-</div>
-
-<p>Clients searching for “<em>packers and movers for house shifting near me</em>” will find this end‑to‑end solution aligns with the highest standards of <em>household shifting services in india</em>. The service package also references competitive benchmarks such as “<em>movers and packers in sanpada charges</em>” and “<em>movers and packers india cost</em>”, ensuring transparent pricing without hidden fees.</p>
-
-<p>By integrating robust driver management, satellite‑enabled tracking, and a sealed‑container workflow, the Chatra‑to‑Madhupur operation delivers a reliable, secure, and cost‑effective relocation experience across the nation’s premier freight arteries.</p></div>
-    </div>
-  </div>
-</section>
-
-
-<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">TRANSIT SAFEGUARDS</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Shock-Absorbent Packaging &amp; Heavy-Duty Vibration Dampening for Packers And Movers Chatra To Madhupur</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 16px;">Paragraph intro ~ 80-100 words. Then 5 points ~ each 50-70 words. Total 80+5*60 = 380. Too high. Let's adjust: intro ~ 70 words, each point ~ 50 words, 5 points = 250, total 320. Good.</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 20px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">01</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Now count words. We&apos;ll</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">write and then count manually.</p>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
-      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
-    </div>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">02</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Intro paragraph</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;"></p>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;"></p>
     </div>
     <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
       <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
@@ -438,8 +228,8 @@ require_once __DIR__ . '/../includes/header.php';
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">04</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">terrain.25 Our26 multi‑layer27 system28</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">starts29 with30 80‑GSM31 heavy‑duty32 air‑bubble33 wrap,34 continues35 with36 high‑density37 edge38 guards,39 and40 culminates41 in42 corrugated43 fiberboard44 crating45 and46 stretch‑film47 weatherproofing.48 This49 layered50 approach51 ensures52 structural53 integrity,54 moisture55 resistance,56 and57 shock58 absorption59 for60 a61 seamless62 relocation63. Total 63 words. Good.</p>
+      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">terrain.25 Our multi‑layer system</h3>
+      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">starts with 80‑GSM heavy‑duty air‑bubble wrap,34 continues with high‑density edge guards,39 and culminates in42 corrugated fiberboard crating and stretch‑film weatherproofing.48 This layered approach ensures structural integrity,54 moisture resistance,56 and shock absorption for a61 seamless relocation. Total </p>
     </div>
     <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
       <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
@@ -673,22 +463,6 @@ require_once __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Section: Dedicated Jharkhand Regional Moving Network (Below Side) -->
-  <section style="padding: 50px 0; background: linear-gradient(135deg, #0b1530 0%, #101c40 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.3); border-bottom: 1.5px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
-      <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
-        Statewide Relocation Network
-      </span>
-      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
-        Seamless Packers and Movers Connectivity Across Jharkhand
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto 10px auto; max-width: 920px;">
-        As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, our fleet network guarantees on-time delivery.
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto; max-width: 920px;">
-        We maintain direct logistics corridors connecting to our flagship operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers in Ranchi</a>, delivering synchronized transit tracking, verified handling teams, and prompt door-to-door delivery across every district.
-      </p>
-    </div>
-  </section>
 
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
@@ -725,77 +499,31 @@ require_once __DIR__ . '/../includes/header.php';
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the transit duration for consignments from Packers And Movers Chatra to Madhupur?","acceptedAnswer":{"@type":"Answer","text":"Standard highway transit between Packers And Movers Chatra and Madhupur takes approximately 2 to 3 Working Days via dedicated GPS-monitored container trucks with dual-driver rotations ensuring continuous safe movement."}},{"@type":"Question","name":"How is my consignment protected against highway accidents or damage?","acceptedAnswer":{"@type":"Answer","text":"Every shipment travels with 100% declared-value marine transit insurance and our certified multi-layer packaging protocol, guaranteeing full cashless claim coverage in the rare event of transit damage."}},{"@type":"Question","name":"Can I track the moving container truck in real-time between Packers And Movers Chatra and Madhupur?","acceptedAnswer":{"@type":"Answer","text":"Yes, all Shree Ashirwad long-haul container trucks feature live GPS telematics. You receive milestone tracking updates directly on WhatsApp as the vehicle clears major highway checkposts."}},{"@type":"Question","name":"Are your moving bills accepted for government or bank employee relocation claims?","acceptedAnswer":{"@type":"Answer","text":"Yes, as an IBA-approved transport operator, we issue authentic GST tax invoices, computerized Lorry Receipts (Bilty), and itemized packing lists accepted across central/state government departments and PSUs."}},{"@type":"Question","name":"What items are strictly prohibited inside long-haul freight containers?","acceptedAnswer":{"@type":"Answer","text":"Hazardous materials, inflammable liquids (petrol, kerosene, paints), pressurized gas cylinders, perishable foods, and personal valuables like jewelry or cash are strictly prohibited in freight containers."}},{"@type":"Question","name":"How are tolls, state border permits, and octroi fees handled?","acceptedAnswer":{"@type":"Answer","text":"All highway tolls, FASTag charges, and inter-state permits are completely factored into your transparent, fixed-price quotation with zero moving-day surcharges."}}]}
   </script>
 </section>
+
 <!-- Section: Route Directions Google Map & Transit Corridor -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1.5px solid rgba(245, 158, 11, 0.25); border-bottom: 1.5px solid rgba(245, 158, 11, 0.25);">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 35px;">
-        <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 8px;">
-          <i class="fas fa-route" style="margin-right: 6px;"></i> Verified Transit Corridor Route
-        </span>
-        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
-          Highway Transit Route &amp; Logistics Map: <span style="color: #f59e0b;">Packers And Movers Chatra to Madhupur</span>
-        </h2>
-        <p style="color: #cbd5e1; font-size: 0.95rem; max-width: 760px; margin: 10px auto 0 auto; line-height: 1.7;">
-          Direct highway transit route connecting our verified dispatch centers with 24/7 active satellite GPS tracking, toll checkpost clearance, and door-to-door escort.
-        </p>
-      </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; align-items: center; background: #0f1a36; padding: 28px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
-        <div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">Packers And Movers Chatra &rarr; Madhupur Corridor</span>
-          <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 800; margin: 6px 0 12px 0;">Packers And Movers Chatra to Madhupur Express Transit Desk</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 16px;">
-            Dedicated container transport corridor connecting doorstep packing in Packers And Movers Chatra with prompt, safe delivery and unpacking across Madhupur.
-          </p>
-          <div style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-            <div><strong style="color: #ffffff;"><i class="fas fa-map-pin" style="color: #10b981; margin-right: 6px;"></i> Origin Pickup Desk:</strong> Packers And Movers Chatra Logistics Hub</div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 6px;"></i> Destination Hub:</strong> Madhupur Doorstep Delivery</div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-phone-alt" style="color: #f59e0b; margin-right: 6px;"></i> Transit Helpline:</strong> <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="color: #38bdf8; text-decoration: none; font-weight: 600;"><?php echo SITE_PHONE; ?></a></div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-satellite-dish" style="color: #f59e0b; margin-right: 6px;"></i> Live GPS Status:</strong> Active 24/7 Satellite Corridor Tracking</div>
-          </div>
-          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad%2C+I+would+like+to+book+shifting+on+the+Packers+And+Movers+Chatra+to+Madhupur+route." target="_blank" style="padding: 10px 18px; background: #10b981; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fab fa-whatsapp"></i> WhatsApp Route Desk
-            </a>
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 10px 18px; background: #e11d48; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fas fa-phone-alt"></i> Call Move Manager
-            </a>
-          </div>
-        </div>
-        <div style="border-radius: 12px; overflow: hidden; border: 1.5px solid rgba(245, 158, 11, 0.35); height: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);">
-          <iframe 
-            src="https://maps.google.com/maps?saddr=Packers+And+Movers+Chatra%2C+India&daddr=Madhupur%2C+India&output=embed" 
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy" 
-            referrerpolicy="no-referrer-when-downgrade" 
-            title="Google Map Transit Route Directions from Packers And Movers Chatra to Madhupur">
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </section>
+<!-- Google Business Profile Verified Customer Trust Section -->
 
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-    </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
+      </div>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -803,7 +531,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -821,7 +549,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -839,7 +567,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -857,7 +585,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -875,7 +603,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -893,7 +621,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -905,11 +633,8 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
     </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
+      </div>
+    </div>
   </div>
 </section>
 

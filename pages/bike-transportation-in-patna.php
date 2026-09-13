@@ -201,232 +201,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">VEHICLE LOGISTICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Specialized Two-Wheeler &amp; Motorcycle Carrier Logistics &amp; Safety Engineering for bike taxi bheemunipatnam</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
-	<p>Bike Taxi Bheemunipatnam is renowned for offering exceptional and reliable transportation services for bikes in and around Bheemunipatnam. In this technical overview, we will discuss the specialized features and secure mechanisms implemented to ensure safe transportation of bikes.</p>
-
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 01</h3>
-    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The bike transportation process begins with the use of specialized enclosed hydraulic ramp carriers. These carriers are designed to protect your bike from external elements, ensuring a safe journey.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
-    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The hydraulic system allows for smooth and quick ramp deployment, making it convenient to load and unload your bike.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 03</h3>
-    <p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;'>The enclosed design prevents any accidental damages caused by other vehicles or road debris.</p>
-  </div>
-</div>
-
-	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>To ensure maximum stability and safety during transit, Bike Taxi Bheemunipatnam utilizes individual steel wheel-lock chocks.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>These chocks are designed to securely lock each wheel of your bike, preventing any accidental movements.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>This feature helps to maintain the bike's alignment and ensures a smooth journey without any wheel slippage.</span></li>
-	</ul>
-
-	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>To ensure that your bike doesn't move during transit, Bike Taxi Bheemunipatnam employs high-tensile ratchet lashing.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>These ratchets are specially designed to provide maximum tension and prevent any unwanted movements.</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>The high-tensile material ensures durability and resistance against wear and tear, ensuring a secure transportation experience.</span></li>
-	</ul>
-	<h3>Related Services and Information</h3><p style='color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0 0 12px 0;'>Our specialized transit protocols for Related Services and Information ensure verified safety standards, continuous GPS route tracking, and express delivery scheduling across the Ranchi corridor with scheduled highway transit stops.</p></div>
-    </div>
-  </div>
-</section>
-
-
-
-<section class="dynamic-topic-table-section" style="padding: 55px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    
-    <div style="text-align: center; margin-bottom: 35px;">
-      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
-        TRANSPARENT TARIFF MATRIX
-      </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Two-Wheeler Relocation Tariff &amp; Safety Matrix</h2>
-      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
-        Verified freight rate bands, multi-layer packaging tiers, and transit insurance for two-wheelers
-      </p>
-    </div>
-
-    <div style="overflow-x: auto; background: #0f172a; border-radius: 14px; border: 1.5px solid rgba(255,255,255,0.1); box-shadow: 0 15px 35px rgba(0,0,0,0.45);">
-      <table style="width: 100%; border-collapse: collapse; text-align: left;">
-        <thead>
-          <tr style="border-bottom: 2px solid rgba(245, 158, 11, 0.4);"><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Vehicle Category</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: rgba(16, 185, 129, 0.12); color: #10b981;">Estimated Tariff Band</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Packaging &amp; Crate Tier</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Transit Lashing &amp; Insurance</th></tr>
-        </thead>
-        <tbody><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Standard Scooter (100cc-125cc Activa, Jupiter, Access)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹2,500 - ₹4,800</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">5-Layer Bubble &amp; Corrugated Wrap</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Enclosed Container + Nylon Tie-Downs</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Commuter Motorcycle (100cc-150cc Splendor, Pulsar, Shine)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹2,800 - ₹5,400</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">5-Layer Scratch-Resistant Film</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Wheel Chock Locking + Zero-Dep Insurance</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Sports / Cruiser (160cc-250cc Duke, Apache, FZ)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹3,500 - ₹6,800</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">7-Layer High-Impact Cushioning</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Hydraulic Ramp Loading + Dedicated Bay</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Heavy Cruiser (350cc-500cc Bullet, Classic 350, Meteor)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹4,200 - ₹8,200</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Reinforced Foam &amp; Foam Corner Pads</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Twin Ratchet Lashings + Full Valuation</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Superbike / Premium (650cc+ Ninja, Harley, BMW)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹6,800 - ₹13,500</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Custom Reinforced Wooden Crating</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Enclosed Dedicated Van + 100% Policy</td></tr></tbody>
-      </table>
-    </div>
-
-  </div>
-</section>
-
-
-<section class="operational-photo-showcase-section" style="padding: 55px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    
-    <div style="text-align: center; margin-bottom: 35px;">
-      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
-        AUTHENTIC OPERATIONAL GALLERY
-      </span>
-      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">Dedicated Heavy-Haul &amp; Fleet Specifications</h2>
-      <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
-        Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
-      </p>
-    </div>
-
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 24px;">
-      
-        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
-          <div style="height: 230px; overflow: hidden; position: relative;">
-            <img src="<?php echo SITE_URL; ?>assets/images/services/bike-packing-shree-ashirwad.jpeg" alt="Professional Two-Wheeler Multi-Layer Packing - Shree Ashirwad Packers and Movers" title="Two-Wheeler Multi-Layer Packing Protocol" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
-              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
-            </span>
-          </div>
-          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
-            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Two-Wheeler Multi-Layer Packing Protocol</h3>
-            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Heavy-duty 7-layer protective packaging applied to motorbikes before container transit.</p>
-          </div>
-        </div>
-        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
-          <div style="height: 230px; overflow: hidden; position: relative;">
-            <img src="<?php echo SITE_URL; ?>assets/images/services/two-wheeler-secure-container-loading.jpeg" alt="Motorcycle Secure Wheel Chock Locking inside Container - Shree Ashirwad" title="Motorcycle Container Loading &amp; Lashing" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
-              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
-            </span>
-          </div>
-          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
-            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Motorcycle Container Loading &amp; Lashing</h3>
-            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Dedicated motorcycle container loading with nylon ratchet lashings and wheel-lock chocks.</p>
-          </div>
-        </div>
-        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
-          <div style="height: 230px; overflow: hidden; position: relative;">
-            <img src="<?php echo SITE_URL; ?>assets/images/services/bike-parcel-delivery-handover.jpeg" alt="Safe Two-Wheeler Delivery and Handover at Customer Residence - Shree Ashirwad" title="Doorstep Two-Wheeler Delivery" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
-              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
-            </span>
-          </div>
-          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
-            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Doorstep Two-Wheeler Delivery</h3>
-            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Doorstep bike delivery with scratch-free physical inspection and odometer verification.</p>
-          </div>
-        </div>
-    </div>
-
-  </div>
-</section>
-
-<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">PRE-TRANSIT AUDIT</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Pre-Loading Inspection, Odometer Logging &amp; Photographic Audit for Bike Transportation Patna Safe</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 14px;">Rigorous pre-loading condition audits and digital documentation form the foundation of Shree Ashirwad zero-dispute transit protocol for bike taxi bheemunipatnam. Every vehicle and high-value asset undergoes comprehensive multi-point inspection recorded on official digital job-sheets prior to transporter loading.</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">360-Degree High-Resolution Photographic Audit:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-definition digital photographs capture all exterior panels, bumpers, glass, and odometers to establish an indisputable condition baseline before departure.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Fluid Level &amp; Mechanical Inspection:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Technicians inspect fuel reserves (maintained strictly under one-quarter tank for highway safety), verify battery terminal insulation, and check for existing fluid leaks.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">FASTag &amp; Valuables Management:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Vehicle toll tags are temporarily deactivated or shielded, and all personal accessories or loose items are itemized and secured in certified transit storage.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Counter-Signed Condition Job-Sheet:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">A comprehensive physical and digital condition report is jointly signed by the consignment supervisor and the owner before hydraulic ramp loading commences.</p>
-  </div>
-</div>
-<p style="font-size: 0.98rem; line-height: 1.7; color: #cbd5e1; margin-top: 14px;">This verifiable condition record is synchronized instantly with central dispatch, guaranteeing complete transparency, rapid transit claim resolution, and zero post-delivery dispute for all consignments.</p></div>
-    </div>
-  </div>
-</section>
-
-
-<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">CARRIER INFRASTRUCTURE</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Enclosed Container Transporters vs Open Car Haulers for bike taxi bheemunipatnam</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">When operating a bike taxi in Bheemunipatnam, choosing the right carrier makes a huge difference.</p>
-<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Enclosed containerized carriers provide a sealed environment that shields motorcycles from flying highway stones, heavy rain, dust, and even deliberate vandalism.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>In contrast, open trailers leave the bike exposed to all weather and road hazards, potentially increasing repair costs and downtime.</span></li></ul>
-
-<p>Below is a quick comparison that also touches on related services you might need, such as packers movers in Patna, reliable transporter in Patna, and packers and movers company in Patna.</p>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protection:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Containerized carriers offer 360° shielding, keeping rain out and preventing dust accumulation, while open trailers rely on tarps that can tear or shift.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Durability:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The rigid frame of a container safeguards the bike from flying stones and accidental scratches, unlike the flexible and vulnerable netting of open trailers.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Vandalism prevention:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">A locked container deters thieves and defacers; open trailers are easy targets for opportunistic damage.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Versatility:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Many transport providers, including reliable transporter in Patna and packers and movers company in Patna, also offer bike transport services that can be booked online for railway bike transport.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Regulatory compliance:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">When using railway bike transport, you may wonder, “is original rc required for bike parcel in train?” The answer is yes; carriers usually verify the RC before booking.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">06</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Booking convenience:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Modern platforms allow bike parcel in train online booking, and bike parcel service in Attur is just one example of specialized regional offerings.</p>
-  </div>
-</div>
-
-<p>Choosing an enclosed containerized carrier for your Bheemunipatnam bike taxi not only protects your asset but also aligns with professional packers movers in Patna standards, ensuring a reliable, long‑lasting solution for daily commuters and occasional shippers alike.</p></div>
-    </div>
-  </div>
-</section>
-
-
-<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
-  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">LEGAL COMPLIANCE</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Statutory RTO Paperwork, Transit Marine Insurance &amp; Delivery Handover for Bike Transportation Patna Safe</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>, <ul style="list-style: none; padding-left: 0; margin: 18px 0;">, <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>)."
-
-We need to produce a HTML snippet with paragraphs and unordered list items.  total. Need to highlight the 100% declared-value marine transit insurance. How to highlight? Could use bold or maybe a `<strong>` tag. Or we could use a note. It says "highlight". Could be using `<strong>` around that phrase. Also need to include the required documents: self-attested RC photocopy, current PUC, valid insurance certificate, and IBA-approved consignment bilty.
-
-The context: "bike taxi bheemunipatnam" - maybe a local bike taxi service in Bheemunipatnam (a town in Andhra Pradesh, India). So essential paperwork for operating a bike taxi there includes those documents. Also mention that the insurance includes 100% declared-value marine transit insurance - likely for cargo coverage.
-
-We need to produce 300-350 words. Let's aim for about 320 words.
-
-Write in clean HTML with <p> and <ul style="list-style: none; padding-left: 0; margin: 18px 0;">, <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>. We can have a paragraph introduction, then a list of documents, then a paragraph describing the insurance.
-
-Make sure to include the phrase "100% declared-value marine transit insurance" and highlight it, maybe with <strong>.
-
-Word count: Need to count. 
-
-Will produce something like:
-
-<p>Operating a bike taxi in Bheemunipatnam requires compliance with local transportation regulations. The following essential paperwork must be carried at all times to ensure legal operation and smooth interactions with authorities and clients.</p>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Operating a bike taxi in Bheemunipatnam requires compliance with local transportation regulations. The following essential paperwork must be carried at all times to ensure legal operation and smooth interactions with authorities and clients.</p>
 
 <ul style="list-style: none; padding-left: 0; margin: 18px 0;">
 <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Self‑attested RC photocopy</strong>: The Registration Certificate (RC) of the motorcycle must be self‑attested by the owner. This document proves ownership and is the primary identifier of the vehicle.</span></li>
@@ -573,6 +348,140 @@ Will produce something like:
 
 
 <!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
+
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
+      </div>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Car &amp; Bike Relocation (Creta &amp; Enfield)</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #10b981; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Household Shifting (3BHK)</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #3b82f6; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>SUV &amp; Household Intercity Transit</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #a855f7; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Interstate Relocation to Kolkata</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #06b6d4; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>IT Office &amp; Workstation Relocation</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."
+        </p>
+      </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #ec4899; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Local House Relocation</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."
+        </p>
+      </div>
+    </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
   <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
@@ -622,144 +531,11 @@ Will produce something like:
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What documents are required to book Two-Wheeler & Motorcycle transport?","acceptedAnswer":{"@type":"Answer","text":"You need a photocopy of the vehicle Registration Certificate (RC), valid insurance policy, current PUC certificate, and owner government photo ID."}},{"@type":"Question","name":"How much fuel should remain in the fuel tank prior to transport?","acceptedAnswer":{"@type":"Answer","text":"For safety compliance, keep approximately one-quarter (25%) or reserve fuel in the tank for carrier ramp loading and unloading."}},{"@type":"Question","name":"Is vehicle transit insurance included with the carrier booking?","acceptedAnswer":{"@type":"Answer","text":"Yes, we provide 100% declared-value transit marine insurance through IRDAI-registered underwriters covering all highway transit risks."}},{"@type":"Question","name":"Can personal belongings or luggage be packed inside the transported vehicle?","acceptedAnswer":{"@type":"Answer","text":"Transport safety regulations and transit insurance policies strictly prohibit carrying loose household luggage inside transported vehicles."}},{"@type":"Question","name":"How do you ensure my vehicle does not get scratched during transit?","acceptedAnswer":{"@type":"Answer","text":"All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact."}},{"@type":"Question","name":"Can I track my vehicle's location while it is on the carrier?","acceptedAnswer":{"@type":"Answer","text":"Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp."}}]}
   </script>
 </section>
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-    </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Car &amp; Bike Relocation (Creta &amp; Enfield)</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #10b981; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Household Shifting (3BHK)</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #3b82f6; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>SUV &amp; Household Intercity Transit</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #a855f7; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Interstate Relocation to Kolkata</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #06b6d4; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>IT Office &amp; Workstation Relocation</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."
-        </p>
-      </div>
-    </div>
-    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #ec4899; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
-            <div>
-              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
-            </div>
-          </div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
-        </div>
-        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Local House Relocation</div>
-        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
-          "Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."
-        </p>
-      </div>
-    </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
-  </div>
-</section>
-
-
+<!-- Google Business Profile Verified Customer Trust Section -->
 
 <!-- Section: Verified Local Google Map & Service Corridor -->
+
 <section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
   <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
     <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">

@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to produce 2 paragraphs, 150-220 words total. The content must be authoritative, detailed, fact-grounded. Target keyword: &quot;thane home shifting&quot;. Provide exact freight highway route, interstate border checkposts, automated e-Way bill clearance, speed-governed container transit. Then specific packing, loading, and damage-free transit protection tailored for household items or vehicles on this corridor. Must be 150-220 words. Let&#039;s craft ~180 words. Use two paragraphs. Avoid generic placeholders. Provide details: from Thane (City Centre, Railway Station Road, Industrial Area) to major Indian city (maybe Delhi? Let&#039;s pick Mumbai to Delhi? Actually Thane to Delhi is 850 km? Thane to Delhi ~1,200 km. But they said 850 km. Maybe Thane to Pune? That&#039;s 200 km. But 850 km could be Thane to Jaipur? Not sure. Let&#039;s pick Thane to Hyderabad? 850 km? Thane to Hyderabad ~1,300 km. Let&#039;s choose Thane to Bangalore? 2,000 km. Let&#039;s choose Thane to Ahmedabad? 850 km. That is plausible: Thane to Ahmedabad is about 850 km via NH48. So we can use that. Provide route:</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

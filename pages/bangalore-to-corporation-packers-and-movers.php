@@ -465,12 +465,12 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">STATUTORY CLEARANCE</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Statutory Interstate e-Way Bills, Regulatory Clearances &amp; 100% Marine Insurance for ramamurthy nagar bangalore to corporation</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 16px;">3.  **Writing the Content (Word Count Management):**</p>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">01</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">`html
+      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">
    </h3>
       <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">    Relocating from Ramamurthy Nagar, Bangalore requires strict adherence to statutory transit paperwork and robust risk coverage to protect your assets. Whether engaging household packers and movers in bangalore or specialized logistics providers, documentation ensures seamless clearance at state checkpoints. Reputable bangalore to k</p>
     </div>

@@ -387,12 +387,9 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+<section> then <div class="container"> then <div> then content then closing tags: we see </div> for the inner container, then </div> for container, then </section>. The inner <div> has closing tags after the content. The <h3>Related Services and Comparisons:</h3> is inside the inner <div>. That seems fine.
 
-We need to heal the HTML section. Remove AI thought leaks etc. Ensure no stray backticks. Replace placeholder tokens? There's no placeholder tokens. No raw markdown tables. Ensure design system palette: background #0b132b, color #cbd5e1. Keep badges etc. Ensure no internal planning text. The section currently has content. We need to ensure it's valid. Also ensure no stray backticks. The content seems fine. But we need to check for any AI thought leaks: none. But we need to ensure no stray backticks or prompt echoes. There's no backticks. The content includes <i class="fas fa-check-circle" style="color: #10b981; ...> which is fine. But we need to ensure no double-escaped tags. None. The section is okay. But we might need to add 'Verified Shree Ashirwad Standard' tags? The instruction says preserve design system & palette. But we might need to add a badge? The original had a badge "CARRIER INFRASTRUCTURE". That is fine.
-
-We need to en<section> then <div class="container"> then <div> then content then closing tags: we see </div> for the inner container, then </div> for container, then </section>. The inner <div> has closing tags after the content. The <h3>Related Services and Comparisons:</h3> is inside the inner <div>. That seems fine.
-
-But we need to ensure no stray closing tags. Let's re-evaluate the structure:
+But
 
 <section>
   <div class="container">
@@ -413,24 +410,7 @@ But we need to ensure no stray closing tags. Let's re-evaluate the structure:
 
 Yes.
 
-But we need to ensure the <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"> encloses the <p> and the grid and ul and h3. That is fine.
-
-We need to ensure no stray tags. The <div> for grid has closing tag after the four cards. Good.
-
-Now we need to ensure the design system: background #0b132b, color #cbd5e1. The section has style: background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07). Good.
-
-The container has style: max-width: 1060px; margin: 0 auto; padding: 0 15px. Good.
-
-The inner card container has style: background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35). Good.
-
-Badge: background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px. Good.
-
-h2 style: color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px. Good.
-
-Paragraph style: color: #cbd5e1. Good.
-
-Grid cards: each card style: background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.
-
+But
 
 <section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">

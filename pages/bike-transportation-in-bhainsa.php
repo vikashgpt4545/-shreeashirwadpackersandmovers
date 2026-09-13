@@ -327,30 +327,6 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-We need to heal the HTML section. Remove AI thought leaks, placeholders, etc. Ensure dark navy palette. Replace any placeholder tokens: 'Ranchi & Central Hubs', 'Destination Cities', or [City] - none present. But we have generic 'Bike Transportation Bhainsa Safe' maybe fine. We need to ensure no hallucinated route corridors. The content is about pre-transit audit, transport options. It's fine. But we need to ensure no stray backticks or prompt echoes. There's no backticks. Ensure no internal planning text. The content seems fine.
-
-But we need to ensure design system: background #0b132b or rgba(15,23,42,0.75). The section uses #070d1e background. Should we adjust? The instruction: preserve exact dark navy palette (background: #0b132b or rgba(15, 23, 42, 0.75)). So we should change background to #0b132b. Also color: #ffffff / #cbd5e1. The section uses #cbd5e1. That's fine. The container uses background: rgba(15,23,42,0.65). Should be consistent maybe rgba(15,23,42,0.75). We'll adjust.
-
-Also ensure badges etc. The badge uses rgba(59,130,246,0.12) etc. That's fine.
-
-We need to ensure no empty cards. All cards have content.
-
-We need to ensure no markdown tables. None present.
-
-We need to ensure no escaped tags. There's no escaped tags.
-
-We need to ensure no placeholder tokens. None.
-
-We need to ensure no AI thought leaks. None.
-
-But we might want to adjust the heading: "Pre-Loading Inspection, Odometer Logging & Photographic Audit for Bike Transportation Bhainsa Safe" maybe adjust to "Pre-Loading Inspection, Odometer Logging & Photographic Audit for Bike Transportation in Bhainsa". Also "Bike Transportation Bhainsa Safe" maybe redundant.
-
-Also the section title "Bike Transportation in Bhainsa | Safe Two-Wheeler Shifting Telangana" is page title. The section heading maybe fine.
-
-Also the list items mention "Track Bike Parcel in Train" etc. Might be fine.
-
-We need to en<h3>Train Shipping:</h3></div> seems mismatched. Let's check structure:
-
 <section>
   <div class="container">
     <div style="background...">
@@ -372,28 +348,7 @@ We need to en<h3>Train Shipping:</h3></div> seems mismatched. Let's check struct
 
 But the closing tags: after <h3>Train Shipping:</h3></div> we close the inner div, then close the outer div, then close container, then close section. That seems fine.
 
-But we need to ensure the <div style="display: grid..."> is closed properly. It is closed after the last card. Good.
-
-We need to ensure the <ul> list items have proper <i> tags. They use <i class="fas fa-check-circle" style="color: #10b981; ..."></i> which is fine.
-
-We need to ensure the style for the badge uses correct color. It's fine.
-
-We need to ensure the background color of the container is consistent. We'll change to rgba(15,23,42,0.75). Also the outer section background to #0b132b.
-
-Also we might want to add a "Verified Shree Ashirwad Standard" badge somewhere? Not required but design system says preserve badges. The badge already present.
-
-Also we might want to add a final note about insurance. But not necessary.
-
-We need to ensure no stray backticks. None.
-
-We need to ensure no internal planning text. None.
-
-Thus we produce healed HTML section.
-
-Let's rewrite with cleaned styles.
-
-Also we might want to adjust the heading to "Pre-Loading Inspection, Odometer Logging & Photographic Audit for Bike Transportation in Bhainsa". Also maybe add a subheading "Ensuring Safe Two-Whe
-
+But
 
 <section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">

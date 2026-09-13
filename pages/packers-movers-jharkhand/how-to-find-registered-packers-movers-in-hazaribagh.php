@@ -280,7 +280,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Hazaribagh to Destination Hub)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to produce 2 paragraphs, 150-220 words total, authoritative, fact-grounded. Provide exact freight highway route, interstate border checkposts, e-Way bill clearance, speed-governed container transit. Also specific packing, loading, damage-free transit protection tailored for household items or vehicles on this corridor. Primary target keyword: hazaribagh packers and movers. Must be 100% unique, no placeholders. Provide realistic route: Hazaribagh to destination hub (also presumably in same city? Wait: route: Hazaribagh to Destination Hub (City Centre, Railway Station Road, Industrial Area). That seems like same city? But maybe destination hub is in another city? Actually route: Hazaribagh (City Centre, Railway Station Road, Industrial Area) to Destination Hub (City Centre, Railway Station Road, Industrial Area). The same. Might be a misprint; maybe destination hub is in another city? Let&#039;s assume destination hub is in another city, maybe Kolkata? But not specified. But we can assume it&#039;s a different city. But we need to provide highway route, interstate border checkposts, etc. Provide route: Hazaribagh -&gt; via NH 19? Actually Hazaribagh is in Jharkhand. The</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

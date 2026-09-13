@@ -280,7 +280,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants a piece of writing: two paragraphs, 150-220 words total, with a focus on &quot;how to transport furniture abroad&quot;. Wait, that seems contradictory: they want advice about freight highway route in India, but also &quot;transport furniture abroad&quot;. Possibly they want to advise on transport of furniture overseas using Indian logistics? Or they want to mention shipping furniture abroad? The phrase &quot;how to transport furniture abroad&quot; suggests maybe they&#039;re moving furniture abroad (i.e., from India to abroad), but the route specified is within India: Origin City to Major Indian City, distance ~850 km. There&#039;s a mismatch. However, they say &quot;Primary Target Keyword: how to transport furniture abroad&quot;. That could be used as a target keyword for SEO for an article on a website about moving furniture abroad, but the content should be about route and packing, etc., likely for domestic relocation. So we need to incorporate &quot;how to transport furniture abroad&quot; somewhere, perhaps as a heading or phrase, while still providing the requested advice.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to ensure we produce 150-220 words, two paragraphs, authoritative, detailed, fact-grounded. Provide exact freight highway route, interstate border checkposts, e-Way bill clearance, speed-governed container transit, packing details for household items/vehicles</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

@@ -410,21 +410,6 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-
-We need to heal the section. Remove AI thought leaks etc. The content seems fine but we need to ensure no placeholder tokens. The content uses "Muzaffarpur BR06 Carrier" which is fine. But we need to ensure no hallucinated route corridors. The content is about pre-transit audit. It's fine.
-
-We need to ensure no stray backticks or prompt echoes. None.
-
-We need to ensure any escaped tags: I see <i class="fas fa-check-circle"...> is fine. No double-escaped.
-
-We need to convert any raw markdown tables: none.
-
-Empty/hollow cards: none.
-
-Design system: keep palette. The section uses background #070d1e, color #cbd5e1. That matches dark navy? They said background: #0b132b or rgba(15,23,42,0.75). Our background is #070d1e which is slightly different but acceptable? Might adjust to #0b132b to match. Also container style uses max-width 1060px etc. That's fine.
-
-We need to en<h3>7. Cleaning and Organizing</h3></div> seems missing content after that. There's a stray closing div. Let's check structure:
-
 <section>
   <div class="container">
     <div style="background...">
@@ -455,37 +440,7 @@ We need to en<h3>7. Cleaning and Organizing</h3></div> seems missing content aft
 
 The last <h3>7. Cleaning and Organizing</h3> has no content, and the closing </div> closes the inner content div. We need to add some content for section 7. Also maybe add a closing </div> for the container? Already closed. The structure seems fine.
 
-We need to ensure no stray tags. Also we might want to add a paragraph after 7. Cleaning and Organizing. Provide a short description.
-
-Also we might want to add a final paragraph summarizing the audit.
-
-Also we might want to add a "Verified Shree Ashirwad Standard" badge somewhere? Not required but design system says preserve badges. We could add a badge after the heading maybe.
-
-Also we need to ensure the color palette: background #0b132b, color #cbd5e1. Let's change background to #0b132b. Also the container background uses rgba(15,23,42,0.65) which is fine.
-
-Also the inner card background uses rgba(15,23,42,0.75). That's fine.
-
-Also the span uses background rgba(168,85,247,0.12). That's fine.
-
-Also the icons use color #10b981. That's fine.
-
-We need to ensure no stray backticks. None.
-
-We need to ensure no placeholder tokens. None.
-
-We need to ensure no hallucinated route corridors. None.
-
-We need to ensure no raw markdown tables. None.
-
-We need to ensure empty/hollow cards: none.
-
-Thus we just need to add content for section 7 and maybe a concluding paragraph. Also maybe add a final note about insurance.
-
-Also we might want to add a "Verified Shree Ashirwad Standard" badge near the heading.
-
-Let's craft final HTML.
-
-Also we need to ensure the <section> has style padding:55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);.
+<section> has style padding:55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);.
 
 Also we
 

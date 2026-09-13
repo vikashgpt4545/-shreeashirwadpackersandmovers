@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants us to write 2 authoritative, detailed, fact-grounded paragraphs providing genuine freight and relocation advice for a specific route: origin city (city centre, railway station road, industrial area) to major Indian city (city centre, railway station road, industrial area) with highway distance about 850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways, transit duration 2-3 working days, service: household shifting &amp; relocation. Primary target keyword: &quot;transporting household googs in bangalore&quot;. They want 150-220 words of unique content. They want covering exact freight highway route, interstate border checkposts, automated e-Way bill clearance, and speed-governed container transit; also specific packing, loading, and damage-free transit protection tailored for household items or vehicles on this specific corridor.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We must produce two paragraphs, 150-220 words total. Must be unique, authoritative, fact-grounded, not generic placeholders.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user mentions &quot;transporting household googs in bangalore&quot;. Possibly a typo &quot;googs&quot;? Could be &quot;goods&quot;. We&#039;ll interpret as &quot;household goods&quot;. The primary target keyword: &quot;transporting household googs in bangalore&quot;. Must incorporate that phrase. We&#039;ll use &quot;transporting household</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

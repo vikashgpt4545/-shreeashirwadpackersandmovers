@@ -214,10 +214,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">CORRIDOR LOGISTICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Highway Route Transit Logistics &amp; Corridor Operations from Belguam to Bangalore (850 km)</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p><ul style="list-style: none; padding-left: 0; margin: 18px 0;"><li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>`).
-
-2.  Drafting Content (Mental Outline & 
-        <p>Operational transit analysis for the Belgaum to Bangalore corridor via NH 44/NH 33 mandates strict adherence to the North-South Freight protocols, utilizing the Raipur-Nagpur-Hyderabad axis for high-volume logistics. This extended routing requires optimized fleet management to mitigate transit time variances. Dual-driver rotations are enforced at 450km intervals, specifically at Nagpur and Hyderabad</div>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">        <p>Operational transit analysis for the Belgaum to Bangalore corridor via NH 44/NH 33 mandates strict adherence to the North-South Freight protocols, utilizing the Raipur-Nagpur-Hyderabad axis for high-volume logistics. This extended routing requires optimized fleet management to mitigate transit time variances. Dual-driver rotations are enforced at 450km intervals, specifically at Nagpur and Hyderabad.</p></div>
     </div>
   </div>
 </section>

@@ -389,16 +389,7 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-
-We need to heal the section. Remove AI thought leaks, etc. Ensure no placeholder tokens. Replace any placeholder city references? The content references Tirupur, Shollinganallur, Bargarh. Those are real cities. But we need to ensure authenticity for Bargarh. The section includes irrelevant route corridor? Not present. But we have references to other cities. The instruction says: "If this is an informational guide (tips, red flags, vehicle maintenance, RTO rules) and the section contains an irrelevant route corridor (e.g., 'Delhi to Mumbai NH-19 Milestones' or 'At Agra...'), rewrite the entire section into authentic, highly valuable guide advice strictly matching 'Bike Transportation in Bargarh | Safe Two-Wheeler Shifting Odisha'." The content is about bike transportation in Bargarh, but includes other cities. That might be considered irrelevant. We should rewrite the entire section into authentic guide advice for Bargarh. So we need to rewrite the entire content to be about Bargarh, with tips, red flags, pre-transit checks, etc. Also we need to preserve design system and palette. Use dark navy palette. Provide 2-3 authoritative sentences for empty cards. But we will rewrite entire section. We need to keep the structure: container, card, etc. Use the same style. Provide a section with heading, subheadings, bullet lists, maybe a table. Use dark theme. Ensure no stray backticks. No markdown fences. Provide only the healed HTML section.
-
-We need to remove any internal planning text. The current content has no such. But we need to rewrite.
-
-We need to ensure no placeholder tokens. Use real context: Bargarh, Odisha. Provide tips: check bike condition, secure with straps, use protective covers, insurance, choose reputable local movers, etc. Provide a table of packing checklist. Provide a card with 3 points. Provide bullet lists with icons. Use <i class="fas fa-check-circle"> etc. Ensure icons are real. Use style for icons.
-
-We need to preserve the design system: background #0b132b or rgba(15,23,42,0.75). Colors: #ffffff, #cbd5e1. Badges: Verified Shree Ashirwad Standard tags. Use badge style.
-
-We need to ensure no markdown. Provide only <section>...</section>.
+<section>...</section>.
 
 Let's craft.
 
@@ -415,23 +406,6 @@ Also include a card with 3 authoritative sentences about logistics, packing prot
 Also include a badge "Verified Shree Ashirwad Standard" inside the card.
 
 Let's craft.
-
-We need to ensure icons: <i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i>
-
-Also we need to ensure the table style: <div style='overflow-x: auto;'><table style='width: 100%; border-collapse: collapse; margin: 15px 0; font-size: 0.88rem; color: #cbd5e1; background: rgba(15,23,42,0.8); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px;'> etc. Use <th> and <td>.
-
-Also ensure no stray backticks.
-
-Let's write the section.
-
-We need to keep the same outer style: background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07); etc.
-
-Inside container: same.
-
-Inside card: same style.
-
-Badge: style: background: rgba(168,85,247,0.12
-
 
 <section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">

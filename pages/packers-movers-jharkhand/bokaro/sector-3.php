@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants 2 authoritative, detailed, fact-grounded paragraphs providing genuine freight and relocation advice. Route: Origin City (City Centre, Railway Station Road, Industrial Area) to Major Indian City (City Centre, Railway Station Road, Industrial Area). Highway distance: ~850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways. Transit Duration: 2 to 3 Working Days. Service: Household Shifting &amp; Relocation. Primary target keyword: chandigarh to nasirabad luggage service.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">They want content covering:</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">1. Exact freight highway route, interstate border checkposts, automated e-Way bill clearance, and speed-governed container transit.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">2. Specific packing, loading, and damage-free transit protection tailored for household items or vehicles on this specific corridor.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Write 150 to 220 words of 100% unique, authoritative content. No generic placeholders.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to write 2 paragraphs, each presumably 75-110 words. The content must be authoritative, fact-grounded. Use real highway names: Chandigarh to Nasirabad. Which major Indian city is Nasirabad? Nasirabad is a town in Rajasthan. So route: Chandigarh (Punjab) to Nasirabad (Rajasthan). Highway: likely NH</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

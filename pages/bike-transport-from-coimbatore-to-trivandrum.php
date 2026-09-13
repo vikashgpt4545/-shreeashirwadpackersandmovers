@@ -440,46 +440,9 @@ By following these guidelines and providing the essential inputs, you’ll obtai
   </div>
 </section>
 
+<section> then <div class="container"> then <div> then <span> etc. At the end we have </div> </div> </div> </section>. That matches.
 
-We need to heal the HTML section. Remove internal planning text etc. The content seems fine. But we need to ensure no stray backticks, no AI thought leaks. The content is fine. But we need to check for any placeholder tokens like 'Ranchi & Central Hubs', 'Destination Cities', or '[City]'. None present. We need to ensure no raw markdown tables. None. We need to ensure no escaped tags. There's an <i class="fas fa-exclamation-triangle"> which is fine. But the instruction says if we see double-escaped entities like '<i class="fas fa-link"...></i>', decode them. Not present. So fine.
-
-We need to ensure the design system & palette: background #0b132b or rgba(15,23,42,0.75). The current background is #070d1e. We need to change to #0b132b or rgba(15,23,42,0.75). Also color: #cbd5e1. The container has background rgba(15,23,42,0.65). Should be consistent. Also the inner card backgrounds etc. Should use dark navy palette. But we can keep as is? The instruction says preserve exact dark navy palette (background: #0b132b or rgba(15, 23, 42, 0.75); color: #ffffff / #cbd5e1; badges, and 'Verified Shree Ashirwad Standard' tags). So we need to adjust the background of the section to #0b132b. Also container background to rgba(15,23,42,0.75). The inner card backgrounds maybe remain but we can adjust to match. Also the badge background uses rgba(168,85,247,0.12). That is purple. Might be okay. But we can keep.
-
-Also we need to ensure no empty cards. There are no empty cards. So fine.
-
-We need to ensure no internal planning text. The content seems fine. But we need to check for any stray backticks. None.
-
-We need to ensure no 'Alerts' badge maybe fine.
-
-We need to en<section> then <div class="container"> then <div> then <span> etc. At the end we have </div> </div> </div> </section>. That matches.
-
-We need to ensure the final HTML is valid. The <h3>Common Scams &amp; How to Avoid Them</h3></div> seems to close the inner div prematurely? Let's check: After <h3>Common Scams &amp; How to Avoid Them</h3></div> we close the inner div that started after container. That seems correct. But we need to ensure that the <ul> and <h3>tags are inside the inner div. They are. The closing tags: after &lt;h3&gt;Common Scams &amp; How to Avoid Them</h3></div> we close the inner div. Then we close container div, then section. That is fine.
-
-But we might want to add some content under "Common Scams & How to Avoid Them" because currently it's empty. The instruction says if any empty card, write 2-3 sentences. But this is not a card; it's a heading. But the section is empty. We might add some content. But not required. But we can add a paragraph describing common scams. That would be beneficial.
-
-Also we might want to add a final note or call to action. But not necessary.
-
-We need to ensure no stray backticks. None.
-
-We need to ensure no internal planning text. None.
-
-We need to ensure no placeholder tokens. None.
-
-We need to ensure no raw markdown tables. None.
-
-We need to ensure design system: background #0b132b. So change section style to background: #0b132b. Also container background to rgba(15,23,42,0.75). Also inner card backgrounds maybe keep but we can adjust to same. But we can keep as is.
-
-Also the badge uses purple; maybe fine.
-
-Also we need to ensure the color palette: text color #cbd5e1. Already used.
-
-Also we need to ensure the 'Verified Shree Ashirwad Standard' tags? Not present. We can add a badge maybe. But not required.
-
-We need to ensure no stray AI thought leaks. None.
-
-We need to ensure no double-escaped tags. None.
-
-Thus final output: a <section> with updated background and container background.
+<section> with updated background and container background.
 
 
 <section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">

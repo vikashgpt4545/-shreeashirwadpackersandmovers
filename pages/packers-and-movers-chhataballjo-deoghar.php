@@ -345,7 +345,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">FLEET &amp; TRANSPORT</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Weatherproof Dedicated Container Fleets &amp; Satellite GPS Tracking for Packers And Movers Chhataballjo Deoghar</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 16px;">. Count words manually? We'll approximate.</p>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 16px;">Verified transport fleet specifications engineered for safe residential shifting across Deoghar.</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 20px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
     <div>
@@ -360,8 +360,8 @@ require_once __DIR__ . '/../includes/header.php';
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">02</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Word count</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">Shree(1) Ashirwad2 fleet3 stands4 out5 in6 the7 competitive8 landscape9 of10 Packers11 and12 Movers13 in14 Chhataballjo15 Deoghar,16 offering17 a18 seamless19 and20 secure21 relocation22 experience.23 By24 investing25 in26 cutting‑edge27 technology28 and29 meticulous30 design,31 the32 company33 ensures34 that35 every36 move37 is38 protected39 from40 start41 to42 finish.43 Clients44 can45 trust46 that47 their48 belongings49 will50 arrive51 intact,52 on53 time,54 and55 with56 minimal57 hassle.58</p>
+      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Fleet Reliability Guarantee</h3>
+      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">Shree Ashirwad fleet stands out in6 the competitive landscape of10 Packers and Movers in14 Chhataballjo Deoghar,16 offering a18 seamless and secure relocation experience.23 By24 investing in26 cutting‑edge technology and meticulous design,31 the company ensures that every move is38 protected from start to42 finish.43 Clients can trust that their belongings will arrive intact,52 on53 time,54 and with minimal hassle.58</p>
     </div>
     <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
       <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
@@ -381,7 +381,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div>
       <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">04</div>
       <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Count</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">The1 fully2 closed3 weather‑tight4 container5 bodies6 are7 engineered8 to9 shield10 cargo11 from12 rain,13 dust,14 and15 temperature16 extremes.17 Each18 unit19 is20 sealed21 with22 high‑strength,23 rust‑resistant24 steel25 and26 coated27 with28 a29 weather‑proof30 finish31 that32 prevents33 moisture34 ingress.35 This36 construction37 guarantees38 that39 fragile40 items41 such42 as43 glassware,44 electronics,45 and46 antiques47 remain48 dry49 and50 damage‑free51 throughout52 transit.53</p>
+      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">The fully closed weather‑tight container bodies are engineered to9 shield cargo from rain,13 dust,14 and temperature extremes.17 Each unit is20 sealed with high‑strength,23 rust‑resistant steel and coated with a29 weather‑proof finish that prevents moisture ingress.35 This construction guarantees that fragile items such as43 glassware,44 electronics,45 and antiques remain dry and damage‑free throughout transit.53</p>
     </div>
     <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
       <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
@@ -401,7 +401,7 @@ require_once __DIR__ . '/../includes/header.php';
     <div>
       <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">06</div>
       <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Count</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">Air‑cushion1 suspension2 elevates3 the4 entire5 vehicle,6 absorbing7 road8 shocks9 and10 reducing11 vibration.12 This13 technology14 creates15 a16 stable17 platform18 that19 protects20 delicate21 furnishings22 and23 reduces</p>
+      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">Air‑cushion suspension elevates the entire vehicle,6 absorbing road shocks and reducing vibration.12 This technology creates a16 stable platform that protects delicate furnishings and reduces</p>
     </div>
     <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
       <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
@@ -558,22 +558,6 @@ require_once __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Section: Dedicated Jharkhand Regional Moving Network (Below Side) -->
-  <section style="padding: 50px 0; background: linear-gradient(135deg, #0b1530 0%, #101c40 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.3); border-bottom: 1.5px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
-      <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
-        Statewide Relocation Network
-      </span>
-      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
-        Seamless Packers and Movers Connectivity Across Jharkhand
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto 10px auto; max-width: 920px;">
-        As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, our fleet network guarantees on-time delivery.
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto; max-width: 920px;">
-        We maintain direct logistics corridors connecting to our flagship operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers in Ranchi</a>, delivering synchronized transit tracking, verified handling teams, and prompt door-to-door delivery across every district.
-      </p>
-    </div>
-  </section>
 
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
@@ -610,77 +594,31 @@ require_once __DIR__ . '/../includes/header.php';
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How are shifting charges calculated for Packers And Movers Chhataballjo Deoghar?","acceptedAnswer":{"@type":"Answer","text":"Pricing is calculated using transparent parameters: consignment volume, distance, packing material tier, and floor levels, guaranteed in an itemized written contract with zero hidden fees."}},{"@type":"Question","name":"Are packing materials and labor included in the moving quotation?","acceptedAnswer":{"@type":"Answer","text":"Yes, our comprehensive quotations include all premium multi-layer packaging materials, specialized labor, loading, secure transit, and doorstep unloading."}},{"@type":"Question","name":"Do you provide IBA-approved bills for official employee claims?","acceptedAnswer":{"@type":"Answer","text":"Yes, Shree Ashirwad provides authentic IBA-approved bills, GST tax invoices, and verified consignment notes accepted across PSUs, banks, and corporations."}},{"@type":"Question","name":"How far in advance should I book my relocation?","acceptedAnswer":{"@type":"Answer","text":"We recommend confirming your reservation 3 to 7 days in advance to secure preferred container trucks and specialized packing crews."}},{"@type":"Question","name":"What safety measures protect delicate glass, mirrors, and temple items?","acceptedAnswer":{"@type":"Answer","text":"Delicate and fragile items receive customized wooden crating, high-density foam padding, and multiple layers of 80-GSM bubble wrap with explicit fragile tagging."}},{"@type":"Question","name":"Do your moving crews assist with unpacking and furniture arrangement?","acceptedAnswer":{"@type":"Answer","text":"Yes, our destination delivery teams unpack cartons, reassemble modular beds and tables, and place furniture into designated rooms as requested."}}]}
   </script>
 </section>
+
 <!-- Section: Google Map & Operating Network Details -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1.5px solid rgba(245, 158, 11, 0.25); border-bottom: 1.5px solid rgba(245, 158, 11, 0.25);">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 35px;">
-        <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 8px;">
-          <i class="fas fa-map-marked-alt" style="margin-right: 6px;"></i> Verified Service Network
-        </span>
-        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
-          Find Our Operational Service Network in <span style="color: #f59e0b;">And Chhataballjo Deoghar</span>
-        </h2>
-        <p style="color: #cbd5e1; font-size: 0.95rem; max-width: 760px; margin: 10px auto 0 auto; line-height: 1.7;">
-          Visit our nearest operational base or connect with our verified logistics coordinators for rapid vehicle inspection, quotation, and packing material dispatch.
-        </p>
-      </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; align-items: center; background: #0f1a36; padding: 28px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
-        <div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">And Chhataballjo Deoghar Relocation Office</span>
-          <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 800; margin: 6px 0 12px 0;">And Chhataballjo Deoghar Moving Network &amp; Service Desk</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 16px;">
-            Coordinated doorstep logistics and container dispatch servicing And Chhataballjo Deoghar and Pan-India corridors.
-          </p>
-          <div style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-            <div><strong style="color: #ffffff;"><i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 6px;"></i> Address:</strong> <?php echo ADDRESS_RANCHI; ?> (Regional Dispatch Network: And Chhataballjo Deoghar)</div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-phone-alt" style="color: #f59e0b; margin-right: 6px;"></i> Helpline:</strong> <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="color: #38bdf8; text-decoration: none; font-weight: 600;"><?php echo SITE_PHONE; ?></a></div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-envelope" style="color: #f59e0b; margin-right: 6px;"></i> Email:</strong> <a href="mailto:<?php echo SITE_EMAIL; ?>" style="color: #38bdf8; text-decoration: none;"><?php echo SITE_EMAIL; ?></a></div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-clock" style="color: #f59e0b; margin-right: 6px;"></i> Hours:</strong> Mon - Sun: 7:00 AM – 10:00 PM (Emergency Dispatch 24/7)</div>
-          </div>
-          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad%2C+I+want+to+visit+your+office+or+book+shifting+for+And+Chhataballjo+Deoghar." target="_blank" style="padding: 10px 18px; background: #10b981; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fab fa-whatsapp"></i> WhatsApp Desk
-            </a>
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 10px 18px; background: #e11d48; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fas fa-phone-alt"></i> Call Direct
-            </a>
-          </div>
-        </div>
-        <div style="border-radius: 12px; overflow: hidden; border: 1.5px solid rgba(245, 158, 11, 0.35); height: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);">
-          <iframe 
-            src="https://maps.google.com/maps?q=Shree+Ashirwad+Packers+and+Movers+And+Chhataballjo+Deoghar%2C+India&t=&z=13&ie=UTF8&iwloc=&output=embed" 
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy" 
-            referrerpolicy="no-referrer-when-downgrade" 
-            title="Google Map of Shree Ashirwad Packers and Movers in And Chhataballjo Deoghar">
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </section>
+<!-- Google Business Profile Verified Customer Trust Section -->
 
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-    </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
+      </div>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -688,7 +626,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -706,7 +644,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -724,7 +662,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -742,7 +680,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -760,7 +698,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -778,7 +716,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -790,11 +728,8 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
     </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
+      </div>
+    </div>
   </div>
 </section>
 

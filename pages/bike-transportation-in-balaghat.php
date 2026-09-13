@@ -328,28 +328,6 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-We need to heal the HTML section. Remove AI thought leaks, etc. Ensure no stray backticks. Replace any placeholder tokens. Check for any out-of-context route corridors: The content seems relevant to bike transportation in Balaghat. No irrelevant route corridors. But we need to ensure no placeholders like 'Ranchi & Central Hubs', 'Destination Cities', or '[City]'. I don't see those. There's no raw markdown tables. There's no empty cards. The content is fairly complete. But we need to ensure design system palette: background #0b132b or rgba(15,23,42,0.75). The current background is #070d1e. Should change to #0b132b or rgba(15,23,42,0.75). Also color palette: text color #cbd5e1. Badges etc. The section uses a badge with background rgba(59,130,246,0.12). That is fine. But we need to ensure consistent dark navy palette. The container background is rgba(15,23,42,0.65). That is okay. But the outer section background is #070d1e, which is slightly lighter. Should change to #0b132b or rgba(15,23,42,0.75). Let's change to rgba(15,23,42,0.75). Also en<h4>9. Insurance Coverage:</h4></div> ... The closing tags: there are two closing divs and then </section>. But the <h4>9. Insurance Coverage: is not closed properly. It has &lt;h4&gt;9. Insurance Coverage:</h4> but no content. That might be incomplete. We need to add a paragraph or bullet list for insurance coverage. We should add a brief description. Also ensure the closing tags match.
-
-Let's rewrite the section with cleaned up content, ensuring proper closing tags.
-
-Also ensure the badge style uses the correct color. The badge uses background rgba(59,130,246,0.12). That is fine.
-
-Also ensure the container style uses background rgba(15,23,42,0.65). That is okay.
-
-Also ensure the outer section background uses rgba(15,23,42,0.75). Good.
-
-Also ensure the text color is #cbd5e1.
-
-Also ensure the heading color #ffffff.
-
-Also ensure the protocol cards use consistent colors. They use background rgba(15,23,42,0.75). That is fine.
-
-Also ensure the icons use correct color. They use <i class="fas fa-check-circle" style="color: #10b981; ...>. That is fine.
-
-Also ensure the final closing tags: we need to close the <div> that contains the protocols and the <div> that contains the container. Let's count.
-
-Original structure:
-
 <section>
   <div class="container">
     <div style="background: ...">

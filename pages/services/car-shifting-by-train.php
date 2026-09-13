@@ -281,7 +281,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants two authoritative, detailed paragraphs of 150-220 words total (combined) about two-wheeler transport by train and household shifting for the specified route. The route is not explicitly named; but it says &quot;Origin City (City Centre, Railway Station Road, Industrial Area) to Major Indian City (City Centre, Railway Station Road, Industrial Area)&quot;. It is basically a generic origin city to a major Indian city. The user wants to avoid generic placeholders; they likely want actual city names? The prompt says &quot;Origin City&quot; and &quot;Major Indian City&quot;. That&#039;s ambiguous. We can possibly use &quot;Lucknow&quot; or &quot;Patna&quot;? The user wants the content not generic placeholders. However the instructions: &quot;Do not use generic placeholders.&quot; Means we should use actual city names, like &quot;Patna&quot; and &quot;Delhi&quot;? Or we could treat &quot;Origin City&quot; as a placeholder replaced with something like &quot;Agra&quot; and &quot;Major Indian City&quot; as &quot;Mumbai&quot;? However the request: &quot;Route: Origin City (City Centre, Railway Station Road, Industrial Area) to Major Indian City (City Centre, Railway Station Road, Industrial Area)&quot;. This suggests we can treat them as generic but mention &quot;Origin City&quot; and &quot;Major Indian City&quot;? However the &quot;</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to produce 2 paragraphs of 150-220 words total? The instruction: &quot;Write 150 to 220 words of 100% unique, authoritative content.&quot; Then also &quot;Write 2 authoritative, detailed, fact-grounded paragraphs.&quot; So two paragraphs combined should be between 150-220 words. The content must be specific, no placeholders. Must mention route details: &quot;Origin City (City Centre, Railway Station Road, Industrial Area) to Major Indian City (City Centre, Railway Station Road, Industrial Area)&quot;. We need to choose actual Indian cities. Let&#039;s pick origin: maybe &quot;Patna&quot; to destination &quot;Delhi&quot;. Or maybe &quot;Lucknow&quot; to &quot;Mumbai&quot;. The route is 850 km approx, via NH arterial corridors &amp; multi-axle express freight highways. For Patna to Delhi, the distance is roughly 1100 km, not 850. Let&#039;s find a route of ~850 km. Could be &quot;Jaipur to Nagpur&quot;? Actually Jaipur to Nagpur is about 1100 km. Let&#039;s find one: &quot;Ahmedabad to Indore&quot; is ~650 km. &quot;Bhopal to Pune&quot; is ~800 km. &quot;Surat to Bhopal&quot;? Hmm.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Better to use &quot;Indore (</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

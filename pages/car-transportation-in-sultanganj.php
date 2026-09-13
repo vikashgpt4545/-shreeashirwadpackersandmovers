@@ -778,27 +778,6 @@ require_once __DIR__ . '/../includes/header.php';
 
 
 
-<!-- Section: Verified Local Google Map & Service Corridor -->
-<section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
-  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-      <div style="padding: 16px 24px; background: rgba(245, 158, 11, 0.08); border-bottom: 1px solid rgba(245, 158, 11, 0.2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
-        <div style="color: #f59e0b; font-weight: 700; font-size: 1.05rem; display: flex; align-items: center; gap: 10px;">
-          <span>📍</span> Verified Relocation Corridor &amp; GPS Hub: null to Sultanganj Highway
-        </div>
-        <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">
-          ✓ Live Satellite GPS Tracking Active
-        </span>
-      </div>
-      <div style="width: 100%; height: 380px; position: relative;">
-        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=null+to+Sultanganj+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
 <!-- SECTION: LOCAL SEO & ENTITY GEO-SIGNALS (Google Knowledge Graph & Local Pack Grounding) -->
 <section class="geo-signals-section" style="padding: 45px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">

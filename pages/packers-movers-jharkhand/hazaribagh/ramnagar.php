@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants me to generate two authoritative, detailed paragraphs of advice for freight and relocation from a given route: origin city (city centre, railway station road, industrial area) to a major Indian city (city centre, railway station road, industrial area). The route is ~850 km via national highways, transit 2-3 working days, service: household shifting &amp; relocation. Primary target keyword: &quot;documents required while shifting household by truck&quot;. Cover the two topics: exact freight highway route, interstate border checkposts, automated e-Way bill clearance, speed-governed container transit; and specific packing, loading, damage-free transit protection tailored for household items or vehicles on this corridor. 150-220 words, 100% unique, authoritative content. No generic placeholders. The user wants &quot;Shree Ashirwad Packers and Movers&quot; as senior logistics coordinator.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We must produce content that references typical Indian logistics context: e.g., e-way bill, GST, vehicle registration, insurance, loading plan, packing material, cushioning, strapping, etc. Must not use placeholders like [Origin City] or [Destination City] etc. We must use actual names? The user says &quot;Route: Origin City (City Centre, Railway Station Road, Industrial Area) to Major</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

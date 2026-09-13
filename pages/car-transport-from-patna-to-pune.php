@@ -466,23 +466,6 @@ Now that we have outlined the advantages of enclosed carriers, let's dive into s
   </div>
 </section>
 
-
-We need to heal the HTML section. Remove AI thought leaks, etc. Ensure no stray backticks. Replace placeholder tokens: none present. Ensure no hallucinated route corridors: content is about handover inspection, fine. Ensure tables: none. Ensure empty cards: none. Ensure design system palette: background #0b132b etc. Ensure icons are correct. Ensure no double-escaped tags: there are icons already correct. But we need to ensure no stray backticks. Also ensure closing tags: The section ends with <h3>Records to Keep:</h3></div> ... but missing content after that. We need to close properly. The original had <h3>Records to Keep:</h3></div> but missing closing tags for the container. We need to close the inner divs properly. Also maybe add some content after Records to Keep? The instruction says if empty card, write 2-3 sentences. But this is not a card. It's a heading. We might need to add a paragraph after that heading. But maybe it's okay to leave empty? But better to add a paragraph summarizing records to keep. Let's add a paragraph.
-
-Also ensure no stray backticks. The code currently has no backticks. Good.
-
-Also ensure no internal planning text. None.
-
-Also ensure no double-escaped tags: icons are fine.
-
-Also ensure no placeholder tokens: none.
-
-Also ensure no markdown tables: none.
-
-Also ensure design system: background colors etc. Already present.
-
-Also ensure we close all tags: Let's count.
-
 <section> open
 <div class="container"> open
 <div style="background: ..."> open

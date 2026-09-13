@@ -278,7 +278,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to produce 2 paragraphs, 150-220 words total (so roughly 75-110 words per paragraph). Provide factual, authoritative advice. Must target primary keyword &quot;commercial freight movers hyderabad contact number&quot;. Must include that phrase exactly? The primary target keyword is &quot;commercial freight movers hyderabad contact number&quot;. We need to incorporate it, likely as part of a sentence: &quot;For direct assistance, contact our commercial freight movers Hyderabad at [phone number]&quot; but we cannot provide a real phone number? The user says &quot;commercial freight movers hyderabad contact number&quot;. The request is for content that includes that phrase. It&#039;s permissible to include a placeholder like &quot;XXXXX&quot; or &quot;080-XXXX-XXXX&quot;? The policy says we should not provide personal phone numbers if they are private. The user is asking for a contact number of a commercial freight mover in Hyderabad. This is presumably a business phone number. We can provide a generic example, but might be considered personal data if it&#039;s a specific individual&#039;s private number. However, it&#039;s a business phone number, which might be permissible if publicly available. But we don&#039;t have a verified real phone number. The user is requesting content that includes &quot;commercial freight movers hyderabad contact number&quot;. The content may include the phrase, but we may not have to</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

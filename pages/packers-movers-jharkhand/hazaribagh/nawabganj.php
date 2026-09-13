@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to produce 150-220 words, 2 paragraphs, authoritative, fact-grounded, about freight route from Chennai to Coimbatore, covering highway route, interstate border checkposts, e-Way bill, speed-governed container transit, and specific packing/loading/damage-free transit protection for household items or vehicles on this corridor. Target keyword: &quot;house shifting from Chennai to Coimbatore&quot;. Must not use generic placeholders. Provide exact route, border checkposts, etc. Should be 2 paragraphs. Ensure length 150-220 words. Let&#039;s aim for about 190 words.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Need to mention National Highway 544, NH 48, NH 81? Actually Chennai to Coimbatore route: Chennai - Tiruvallur - Vellore - Katpadi - Dharmapuri - Krishnagiri - Hosur - Bangalore? Wait Coimbatore is in Tamil Nadu. The most common route: Chennai via NH 48 to Vellore, then NH 544 to Coimbatore. But maybe via NH 44? Actually NH 544 runs from Salem to Coimbatore. The route from Chennai: take NH 48 (Tiruvallur to Vellore), then NH 544 (Vellore to Coimb</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

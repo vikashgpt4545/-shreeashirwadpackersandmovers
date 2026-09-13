@@ -399,48 +399,11 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
+<section> <div class="container"> <div style="background: rgba(15, 23, 42, 0.65); ..."> ... content ... <h3>Comparison of Two-Wheeler Transportation Methods in Salempur Deoria</h3></div> </div> </section>. The last h3 is not closed? Actually it's closed. But the container div is closed after that. The section ends. Good.
 
-We need to heal the section. Let's check defects:
+But
 
-1. AI thought leaks: none visible. Good.
-
-2. Escaped HTML tags: I see <i class="fas fa-check-circle" style="color: #10b981; ...> etc. Those are fine. But earlier there might be double-escaped? I don't see any &lt;i... So fine.
-
-3. Out-of-context corridor: The content is about bike transportation in Salempur Deoria. It's fine. No irrelevant route corridor.
-
-4. Placeholder tokens: None.
-
-5. Raw markdown tables: None.
-
-6. Empty/hollow cards: There are no empty cards.
-
-7. Design system & palette: The colors used: background #070d1e, etc. But design system says background: #0b132b or rgba(15,23,42,0.75). We need to preserve exact dark navy palette. The current background is #070d1e which is close but not exact. Should adjust to #0b132b or rgba(15,23,42,0.75). Also text color #cbd5e1 is fine. Badges color etc. The badge uses rgba(168,85,247,0.12) etc. Should use palette: maybe #6b7280? But we keep as is? The instruction: preserve exact dark navy palette (background: #0b132b or rgba(15, 23, 42, 0.75); color: #ffffff / #cbd5e1; badges, and 'Verified Shree Ashirwad Standard' tags). So we need to adjust background to #0b132b. Also container background to rgba(15,23,42,0.65) maybe fine. But we should use consistent. Also the badge background should be maybe #6b7280? But we can keep but ensure it's within palette. Use #6b7280? But we can keep as is.
-
-Also we need to en<section> <div class="container"> <div style="background: rgba(15, 23, 42, 0.65); ..."> ... content ... <h3>Comparison of Two-Wheeler Transportation Methods in Salempur Deoria</h3></div> </div> </section>. The last h3 is not closed? Actually it's closed. But the container div is closed after that. The section ends. Good.
-
-But we need to ensure no stray tags. The badge uses <span> with style. That's fine.
-
-We might want to add 'Verified Shree Ashirwad Standard' tags somewhere? Not required but maybe add at the end of each card? But not necessary.
-
-We need to ensure the design system: background #0b132b for section. So change style of section to background: #0b132b. Also container background maybe keep rgba(15,23,42,0.65). That's fine.
-
-Also the badge background uses rgba(168,85,247,0.12). That is purple. Might be okay but maybe we want to use #6b7280? But instruction: preserve exact dark navy palette. So badges should use navy palette. So we should change badge background to #6b7280? Actually navy palette: #0b132b background, text #ffffff or #cbd5e1. Badges maybe use #6b7280? But we can keep as is but maybe adjust to #6b7280. Let's change badge background to #6b7280 with opacity 0.12? But we can just use #6b7280. Let's set style: background: rgba(107,114,128,0.12); color: #6b7280; border: 1px solid rgba(107,114,128,0.35). That matches navy palette.
-
-Also the container background uses rgba(15,23,42,0.65). That's fine.
-
-Also the card backgrounds use rgba(15,23,42,0.75). That's fine.
-
-Also the icons use color #10b981 etc. That's green. Might be okay.
-
-Also we need to ensure no stray backticks. None.
-
-Also we need to ensure no placeholder tokens. None.
-
-Also we need to ensure no markdown tables. None.
-
-Also we need to ensure no empty cards. None.
-
-Also we need to en<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">LEGAL COMPLIANCE</span>

@@ -2,7 +2,7 @@
 require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Car Transport from Delhi to Chandigarh | Express Enclosed Carrier";
-$page_desc = "Professional car transport from Delhi to Chandigarh by Shree Ashirwad Packers and Movers. Express 24-hour delivery via NH44 corridor (~250 km), 100% all-risk transit insurance & doorstep pickup across Dwarka, Rohini, South Delhi to Sector 17, Sector 35, Mohali, Panchkula, Chandigarh.";
+$page_desc = "Professional car transport from Delhi to Chandigarh by Shree Ashirwad Packers and Movers. Express 24-hour delivery via NH corridor (~250 km), 100% all-risk transit insurance & doorstep pickup across Dwarka, Rohini, South Delhi to Sector 17, Sector 35, Mohali, Panchkula, Chandigarh.";
 $page_keywords = "packers and movers delhi to chandigarh, movers and packers charges from delhi to chandigarh, movers and packers chandigarh to delhi, packers and movers charges from delhi to chandigarh, movers and packers in madan garhi delhi, packers and movers in delhi+, packers and movers in old delhi, packers & movers chandigarh chandigarh, movers and packers chandigarh price list, transportation for shifting things from patiala to chandigarh, all india car transport company, commercial vehicle transport, indian railways car transport booking, car shifting by train in india, vehicle transport services";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transport-from-delhi-to-chandigarh.php";
 
@@ -99,7 +99,7 @@ $gmb_reviews = array (
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
-<main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+<main class="site-main" style="background: #070d1e; color: #cbde1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
 <section class="hero-section" style="padding: 70px 0 50px; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.1);">
   <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 40px; align-items: center;">
@@ -108,10 +108,10 @@ require_once __DIR__ . '/../includes/header.php';
           <i class="fas fa-shield-alt"></i> Verified Car Carrier &amp; Vehicle Transport
         </span>
         <h1 style="font-size: 2.2rem; font-weight: 800; line-height: 1.25; margin-bottom: 15px; color: #ffffff;">Car Transport from Delhi to Chandigarh | Express Enclosed Carrier</h1>
-        <p style="font-size: 1.05rem; line-height: 1.7; color: #cbd5e1; margin-bottom: 25px;">
+        <p style="font-size: 1.05rem; line-height: 1.7; color: #cbde1; margin-bottom: 25px;">
           Trust Shree Ashirwad Packers and Movers for dependable, 100% insured, and damage-free moving solutions. Dedicated container trucks, certified packing crews, and instant WhatsApp survey quotes.
         </p>
-        <div style="display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 25px; color: #cbd5e1; font-size: 0.9rem; font-weight: 500;">
+        <div style="display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 25px; color: #cbde1; font-size: 0.9rem; font-weight: 500;">
           <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> IBA Approved Bills</span>
           <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> GPS-Monitored Fleet</span>
           <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> Damage-Free Guarantee</span>
@@ -210,36 +210,18 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbde1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">VEHICLE LOGISTICS</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Specialized Automobile &amp; Car Carrier Logistics &amp; Safety Engineering for packers and movers delhi to chandigarh</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>, <ul style="list-style: none; padding-left: 0; margin: 18px 0;">, <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Should not use otherJust <p> and <ul style="list-style: none; padding-left: 0; margin: 18px 0;"><li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>.
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbde1;"><p>, <ul style="list-style: none; padding-left: 0; margin: 18px 0;">, <li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Should not use otherJust <p> and <ul style="list-style: none; padding-left: 0; margin: 18px 0;"><li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>.
 
 We need to ensure 300-360 words. Let's aim for ~330 words. Need to weave in keywords. Use them in sentences. Keep them natural. Provide technical overview of the specialized equipment. Also mention charges. Provide some bullet points for equipment. Provide overall overview. Use <p> for paragraphs, <ul style="list-style: none; padding-left: 0; margin: 18px 0;"> for bullet list. Ensure  Also no <h1> etc. Provide final answer.
 
- Count approximate: 1 paragraph 150 words, bullet list 50 words, second paragraph 80 words, maybe 3 paragraphs. Let's write.
+ <p>During a long‑haul move from Delhi to Chandigarh, the safety and integrity of high‑value cargo hinges on the use of specialized equipment. An enclosed hydraulic ramp carrier keeps furniture and appliances protected from road debris while allowing a smooth, level transfer onto the transport truck. Each vehicle is fitted with individual steel wheel‑lock chocks that lock the wheels in place, preventing any roll‑back even when the load is shifted. Complementing these measures, high‑tensile ratchet lashing systems secure the entire load, distributing tension evenly across the chassis and ensuring that nothing moves during highway transit. These systems work in tandem to provide a seamless, damage‑free journey for your belongings.</p>
 
-Paragraph1: ~110 words. Paragraph2: bullet list ~50 words. Paragraph3: ~110 words. Need 300-360. Let's add another paragraph of ~90 words. So Let's write.
-
-Paragraph1: talk about specialized equipment. Use keywords: "movers and packers charges from delhi to chandigarh" etc.
-
-Paragraph2: bullet list of equipment.
-
-Paragraph3: talk about charges and locations: "movers and packers in madan garhi delhi", "packers and movers in delhi+", "packers and movers in old delhi", "packers & movers chandigarh chandigarh", "movers and packers chandigarh price list".
-
-Paragraph4: concluding sentence about reliability.
-
-Let's write.
-
-Word count: and then count quickly.
-
-Paragraph1:
-
-"During a long‑haul move from Delhi to Chandigarh, the safety and integrity of high‑value cargo hinges on the use of specialized equipment. An enclosed hydraulic ramp carrier keeps furniture and appliances protected from road debris while allowing a smooth, level transfer onto the transport truck. Each vehicle is fitted with individual steel wheel‑lock chocks that lock the wheels in place, preventing any roll‑back even when the load is shifted. Complementing these measures, high‑tensile ratchet lashing systems secure the entire load, distributing tension evenly across the chassis and ensuring that nothing moves during highway transit. These systems work in tandem to provide a seamless, damage‑free journey for your belongings."
-
-equipment.22 An23 enclosed24 hydraulic25 ramp26 carrier27 keeps28 furniture29 and30 appliances31 protected32 from33 road34 debris35 while36 allowing37 a38 smooth,39 level40 transfer41 onto42 the43 transport44 truck.45 Each46 vehicle47 is48 fitted49 with50 individual51 steel52 wheel‑lock53 chocks54 that55 lock56 the57 wheels58 in59 place,60 preventing61 any62 roll‑back63 even64 when65 the66 load67 is68 shifted.69 Complementing70 these71 measures,72 high‑tensile73 ratchet74 lashing75 systems76 secure77 the78 entire79 load,80 distributing81 tension82 evenly83 across84 the85 chassis86 and87 ensuring88 that89 nothing90 moves91</div>
+equipment.22 An enclosed hydraulic ramp carrier keeps furniture and appliances protected from road debris while allowing a38 smooth,39 level transfer onto the transport truck.45 Each vehicle is fitted with individual steel wheel‑lock chocks that lock the wheels in place,60 preventing any roll‑back even when the load is shifted.69 Complementing these measures,72 high‑tensile ratchet lashing systems secure the entire load,80 distributing tension evenly across the chassis and ensuring that nothing moves</div>
     </div>
   </div>
 </section>
@@ -266,7 +248,7 @@ equipment.22 An23 enclosed24 hydraulic25 ramp26 carrier27 keeps28 furniture29 an
         <thead>
           <tr style="border-bottom: 2px solid rgba(245, 158, 11, 0.4);"><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Automobile Segment</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: rgba(16, 185, 129, 0.12); color: #10b981;">Interstate Tariff Band</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Carrier Type</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Safety &amp; Lashings</th></tr>
         </thead>
-        <tbody><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Hatchback (Alto, Swift, i10, WagonR)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹7,500 - ₹14,500</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Enclosed Multi-Car Auto Carrier</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">4-Point Wheel Chocks + Safety Straps</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Sedan (Dzire, City, Verna, Ciaz)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹9,000 - ₹16,800</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Covered Double-Decker Auto Carrier</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Over-Tire Lashing + Pre-Move Survey</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Compact SUV (Brezza, Creta, Nexon, Seltos)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹11,000 - ₹19,500</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Hydraulic Ramp Enclosed Trailer</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Chassis Restraints + GPS Telematics</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Large SUV / MUV (Innova, Fortuner, Scorpio)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹13,500 - ₹24,000</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Dedicated Lower Deck Car Carrier</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Heavy-Duty Suspension Straps + Insurance</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Luxury / Vintage Automobile (Mercedes, BMW, Audi, Classic)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹18,500 - ₹34,000</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Dedicated Single-Car Enclosed Carrier</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Air-Ride Suspension + Zero-Dep Cover</td></tr></tbody>
+        <tbody><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Hatchback (Alto, Swift, i10, WagonR)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹7,500 - ₹14,500</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Enclosed Multi-Car Auto Carrier</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">4-Point Wheel Chocks + Safety Straps</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Sedan (Dzire, City, Verna, Ciaz)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹9,000 - ₹16,800</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Covered Double-Decker Auto Carrier</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Over-Tire Lashing + Pre-Move Survey</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Compact SUV (Brezza, Creta, Nexon, Seltos)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹11,000 - ₹19,500</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Hydraulic Ramp Enclosed Trailer</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Chassis Restraints + GPS Telematics</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Large SUV / MUV (Innova, Fortuner, Scorpio)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹13,500 - ₹24,000</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Dedicated Lower Deck Car Carrier</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Heavy-Duty Suspension Straps + Insurance</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Luxury / Vintage Automobile (Mercedes, BMW, Audi, Classic)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹18,500 - ₹34,000</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Dedicated Single-Car Enclosed Carrier</td><td style="padding: 16px 20px; color: #cbde1; font-size: 0.92rem;">Air-Ride Suspension + Zero-Dep Cover</td></tr></tbody>
       </table>
     </div>
 
@@ -332,12 +314,12 @@ equipment.22 An23 enclosed24 hydraulic25 ramp26 carrier27 keeps28 furniture29 an
   </div>
 </section>
 
-<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbde1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">PRE-TRANSIT AUDIT</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Pre-Loading Inspection, Odometer Logging &amp; Photographic Audit for Transport from Delhi Chandigarh</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbde1;">
 	<p>When planning to transport your automobile or car, it is essential to follow proper pre-loading protocols to ensure a safe and hassle-free journey. In this guide, we will discuss the key steps and checklist to follow before loading your vehicle onto a transportation truck.</p>
 
 	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
@@ -362,7 +344,7 @@ equipment.22 An23 enclosed24 hydraulic25 ramp26 carrier27 keeps28 furniture29 an
     <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">If your vehicle is equipped with a FASTag (Fastag), ensure it is properly mounted and functional before transport. This tag facilitates seamless highways toll payments during the journey.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec922; color: #ec9; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Documentation and Inventory:</h3>
     <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Compile a detailed list of all items inside the vehicle, including spare tires, tools, and any personal belongings. This will aid in ensuring a seamless unloading process at the destination.</p>
   </div>
@@ -383,12 +365,12 @@ equipment.22 An23 enclosed24 hydraulic25 ramp26 carrier27 keeps28 furniture29 an
 </section>
 
 
-<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbde1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">CARRIER INFRASTRUCTURE</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Enclosed Container Transporters vs Open Car Haulers for packers and movers delhi to chandigarh</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">When planning a move from Delhi to Chandigarh, selecting the right transport mode is critical for ensuring the safety of your household goods. The primary choice lies between open trailers and enclosed containerized carriers. While open trailers are generally cheaper, they expose your belongings to significant environmental and security risks, making enclosed containers the superior choice for long-distance moves.
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbde1;">When planning a move from Delhi to Chandigarh, selecting the right transport mode is critical for ensuring the safety of your household goods. The primary choice lies between open trailers and enclosed containerized carriers. While open trailers are generally cheaper, they expose your belongings to significant environmental and security risks, making enclosed containers the superior choice for long-distance moves.
 
 Enclosed containerized carriers offer complete protection that open trailers simply cannot match. On highways connecting Delhi and Chandigarh, flying stones from heavy vehicles are a common hazard. An open trailer leaves your boxes vulnerable to impact, often resulting in broken glass, dented furniture, and damaged electronics. In contrast, the robust metal or composite walls of a container shield your items from these high-velocity projectiles. Furthermore, weather conditions can be unpredictable. Rain and dust storms are frequent in this region; open trailers allow water ingress and dust accumulation, which can ruin documents, electronics, and furniture. Covered containers create a sealed environment, keeping your goods dry and dust-free throughout the journey. Security is another major concern. Open trucks are more susceptible to vandalism or theft, especially during stops or if the truck is left unattended. Enclosed containers are locked and tamper-resistant, providing peace of mind against opportunistic theft.
 
@@ -398,12 +380,12 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
 </section>
 
 
-<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbde1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">LEGAL COMPLIANCE</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Statutory RTO Paperwork, Transit Marine Insurance &amp; Delivery Handover for Transport from Delhi Chandigarh</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 14px;">Highway corridor transit operations for packers and movers delhi to chandigarh require specialized long-haul route scheduling, dual-driver shifts, and continuous GPS telematics monitoring. Shree Ashirwad operates dedicated closed container trucks engineered to shield cargo against highway vibrations, weather extremes, and inter-state delays.</p>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbde1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 14px;">Highway corridor transit operations for packers and movers delhi to chandigarh require specialized long-haul route scheduling, dual-driver shifts, and continuous GPS telematics monitoring. Shree Ashirwad operates dedicated closed container trucks engineered to shield cargo against highway vibrations, weather extremes, and inter-state delays.</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
@@ -426,18 +408,18 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
     <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Goods travel in sealed, lock-and-key containers from origin pickup to destination delivery without hub unloading or vehicle transfers.</p>
   </div>
 </div>
-<p style="font-size: 0.98rem; line-height: 1.7; color: #cbd5e1; margin-top: 14px;">Rigorous convoy scheduling and regular checkpoint halts ensure optimal fleet health, rapid emergency response readiness, and guaranteed delivery schedule adherence for all moving clients.</p></div>
+<p style="font-size: 0.98rem; line-height: 1.7; color: #cbde1; margin-top: 14px;">Rigorous convoy scheduling and regular checkpoint halts ensure optimal fleet health, rapid emergency response readiness, and guaranteed delivery schedule adherence for all moving clients.</p></div>
     </div>
   </div>
 </section>
 
 
-<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbde1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">HANDOVER INSPECTION</span>
       <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Destination Handover, Odometer Sign-Off &amp; Joint Condition Inspection for packers and movers delhi to chandigarh</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>At the destination, the delivery handover for automobiles and cars is a meticulous process designed to guarantee that the vehicle arrives in the condition promised at the time of pickup. The handover begins with a daylight condition re‑inspection, where the recipient’s representative compares the car’s current appearance against the original pickup photographs.</p>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbde1;"><p>At the destination, the delivery handover for automobiles and cars is a meticulous process designed to guarantee that the vehicle arrives in the condition promised at the time of pickup. The handover begins with a daylight condition re‑inspection, where the recipient’s representative compares the car’s current appearance against the original pickup photographs.</p>
 <p>This visual audit checks for new dents, scratches, or paint defects that may have appeared during transit. Any discrepancies are documented with photographs and logged in the delivery record, allowing for swift resolution if the carrier or logistics partner is held accountable.</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
@@ -562,75 +544,26 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
 
 
 <!-- Section: Statewide / National Relocation Network Section (Authority Interlinks) -->
-<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
-  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
-      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
-        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
-      </div>
-      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
-        Seamless Shifting Across Highway Corridors: <span style="color: #f59e0b;">Delhi &amp; Chandigarh Operations</span>
-      </h2>
-      <p style="color: #cbd5e1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
-        Whether you are coordinating an outstation residential shift from Delhi to Chandigarh or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Delhi to Chandigarh highway corridor.
-      </p>
-    </div>
-  </div>
-</section>
 
-<section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Car Transport from Delhi to Chandigarh | Express Enclosed Carrier
-    </h2>
-    
-      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What documents are required to book Automobile &amp; Car transport?</h3>
-        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">You need a photocopy of the vehicle Registration Certificate (RC), valid insurance policy, current PUC certificate, and owner government photo ID.</p>
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
       </div>
-      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How much fuel should remain in the fuel tank prior to transport?</h3>
-        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">For safety compliance, keep approximately one-quarter (25%) or reserve fuel in the tank for carrier ramp loading and unloading.</p>
-      </div>
-      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Is vehicle transit insurance included with the carrier booking?</h3>
-        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, we provide 100% declared-value transit marine insurance through IRDAI-registered underwriters covering all highway transit risks.</p>
-      </div>
-      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can personal belongings or luggage be packed inside the transported vehicle?</h3>
-        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Transport safety regulations and transit insurance policies strictly prohibit carrying loose household luggage inside transported vehicles.</p>
-      </div>
-      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How do you ensure my vehicle does not get scratched during transit?</h3>
-        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact.</p>
-      </div>
-      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&#039;s location while it is on the carrier?</h3>
-        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp.</p>
-      </div>
-  </div>
-  <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What documents are required to book Automobile & Car transport?","acceptedAnswer":{"@type":"Answer","text":"You need a photocopy of the vehicle Registration Certificate (RC), valid insurance policy, current PUC certificate, and owner government photo ID."}},{"@type":"Question","name":"How much fuel should remain in the fuel tank prior to transport?","acceptedAnswer":{"@type":"Answer","text":"For safety compliance, keep approximately one-quarter (25%) or reserve fuel in the tank for carrier ramp loading and unloading."}},{"@type":"Question","name":"Is vehicle transit insurance included with the carrier booking?","acceptedAnswer":{"@type":"Answer","text":"Yes, we provide 100% declared-value transit marine insurance through IRDAI-registered underwriters covering all highway transit risks."}},{"@type":"Question","name":"Can personal belongings or luggage be packed inside the transported vehicle?","acceptedAnswer":{"@type":"Answer","text":"Transport safety regulations and transit insurance policies strictly prohibit carrying loose household luggage inside transported vehicles."}},{"@type":"Question","name":"How do you ensure my vehicle does not get scratched during transit?","acceptedAnswer":{"@type":"Answer","text":"All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact."}},{"@type":"Question","name":"Can I track my vehicle's location while it is on the carrier?","acceptedAnswer":{"@type":"Answer","text":"Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp."}}]}
-  </script>
-</section>
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-    </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -638,7 +571,7 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -656,7 +589,7 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -674,7 +607,7 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -692,7 +625,7 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -710,7 +643,7 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -728,7 +661,7 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -740,17 +673,67 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
       </div>
     </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
+      </div>
+    </div>
   </div>
 </section>
 
+<section class="statewide-network-section" style="background: #0b132b; padding: 45px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 26px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);">
+      <div style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+        <i class="fas fa-route"></i> NATIONAL RELOCATION NETWORK
+      </div>
+      <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 800; margin: 0 0 16px 0; line-height: 1.3;">
+        Seamless Shifting Across Highway Corridors: <span style="color: #f59e0b;">Delhi &amp; Chandigarh Operations</span>
+      </h2>
+      <p style="color: #cbde1; font-size: 0.96rem; line-height: 1.75; margin: 0;">
+        Whether you are coordinating an outstation residential shift from Delhi to Chandigarh or planning an interstate industrial transfer, choosing certified <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> ensures your furniture, appliances, and vehicle reach without transit damage. As Jharkhand's trusted relocation brand, Shree Ashirwad operates as premier <a href="<?php echo SITE_URL; ?>" title="Shree Ashirwad Packers and Movers" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">packers and movers</a> with regular dedicated container truck departures directly linked to our state operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #38bdf8; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, providing complete end-to-end packing, GPS consignment tracking, and verified IBA-approved reimbursement billing for families and professionals throughout Delhi to Chandigarh highway corridor.
+      </p>
+    </div>
+  </div>
+</section>
 
+<section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
+      Frequently Asked Questions &bull; Car Transport from Delhi to Chandigarh | Express Enclosed Carrier
+    </h2>
+    
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What documents are required to book Automobile &amp; Car transport?</h3>
+        <p style="color: #cbde1; line-height: 1.7; font-size: 0.95rem; margin: 0;">You need a photocopy of the vehicle Registration Certificate (RC), valid insurance policy, current PUC certificate, and owner government photo ID.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How much fuel should remain in the fuel tank prior to transport?</h3>
+        <p style="color: #cbde1; line-height: 1.7; font-size: 0.95rem; margin: 0;">For safety compliance, keep approximately one-quarter (25%) or reserve fuel in the tank for carrier ramp loading and unloading.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Is vehicle transit insurance included with the carrier booking?</h3>
+        <p style="color: #cbde1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, we provide 100% declared-value transit marine insurance through IRDAI-registered underwriters covering all highway transit risks.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can personal belongings or luggage be packed inside the transported vehicle?</h3>
+        <p style="color: #cbde1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Transport safety regulations and transit insurance policies strictly prohibit carrying loose household luggage inside transported vehicles.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How do you ensure my vehicle does not get scratched during transit?</h3>
+        <p style="color: #cbde1; line-height: 1.7; font-size: 0.95rem; margin: 0;">All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my vehicle&#039;s location while it is on the carrier?</h3>
+        <p style="color: #cbde1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp.</p>
+      </div>
+  </div>
+  <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What documents are required to book Automobile & Car transport?","acceptedAnswer":{"@type":"Answer","text":"You need a photocopy of the vehicle Registration Certificate (RC), valid insurance policy, current PUC certificate, and owner government photo ID."}},{"@type":"Question","name":"How much fuel should remain in the fuel tank prior to transport?","acceptedAnswer":{"@type":"Answer","text":"For safety compliance, keep approximately one-quarter (25%) or reserve fuel in the tank for carrier ramp loading and unloading."}},{"@type":"Question","name":"Is vehicle transit insurance included with the carrier booking?","acceptedAnswer":{"@type":"Answer","text":"Yes, we provide 100% declared-value transit marine insurance through IRDAI-registered underwriters covering all highway transit risks."}},{"@type":"Question","name":"Can personal belongings or luggage be packed inside the transported vehicle?","acceptedAnswer":{"@type":"Answer","text":"Transport safety regulations and transit insurance policies strictly prohibit carrying loose household luggage inside transported vehicles."}},{"@type":"Question","name":"How do you ensure my vehicle does not get scratched during transit?","acceptedAnswer":{"@type":"Answer","text":"All vehicles travel inside sealed, weather-tight container carriers secured by wheel-lock chocks and high-tensile ratchet lashings with zero body contact."}},{"@type":"Question","name":"Can I track my vehicle's location while it is on the carrier?","acceptedAnswer":{"@type":"Answer","text":"Yes, our car trailers and container carriers are equipped with live satellite GPS tracking, providing milestone updates on WhatsApp."}}]}
+  </script>
+</section>
+
+<!-- Google Business Profile Verified Customer Trust Section -->
 
 <!-- Section: Verified Local Google Map & Service Corridor -->
+
 <section class="route-map-section" style="background: #070d1e; padding: 45px 0;">
   <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
     <div style="background: #0f172a; border-radius: 12px; overflow: hidden; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
@@ -763,7 +746,7 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
         </span>
       </div>
       <div style="width: 100%; height: 380px; position: relative;">
-        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Delhi+to+Chandigarh+Highway&t=&z=12&ie=UTF8&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
+        <iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Delhi+to+Chandigarh+Highway&t=&z=12&ie=UTF&iwloc=&output=embed" loading="lazy" style="border:0; width:100%; height:100%; display:block;"></iframe>
       </div>
     </div>
   </div>
@@ -835,37 +818,37 @@ When comparing costs, it is essential to look beyond just the base fare. You sho
       <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
     </h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
-      <a href="https://shreeashirwadpackersandmovers.com/chandigarh-to-delhi-packers-and-movers" title="Chandigarh To Delhi Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Chandigarh To Delhi Packers And Movers</a>
-      <a href="https://shreeashirwadpackersandmovers.com/delhi-to-ahmedabad-packers-and-movers" title="Delhi To Ahmedabad Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Delhi To Ahmedabad Packers And Movers</a>
-      <a href="https://shreeashirwadpackersandmovers.com/delhi-to-alwar-packers-and-movers" title="Delhi To Alwar Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Delhi To Alwar Packers And Movers</a>
-      <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-chandigarh-packers-and-movers" title="Bangalore To Chandigarh Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Chandigarh Packers And Movers</a>
-      <a href="https://shreeashirwadpackersandmovers.com/bike-transport-from-bangalore-to-chandigarh" title="Bike Transport From Bangalore To Chandigarh" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bike Transport From Bangalore To Chandigarh</a>
-      <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
+      <a href="https://shreeashirwadpackersandmovers.com/chandigarh-to-delhi-packers-and-movers" title="Chandigarh To Delhi Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbde1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Chandigarh To Delhi Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/delhi-to-ahmedabad-packers-and-movers" title="Delhi To Ahmedabad Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbde1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Delhi To Ahmedabad Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/delhi-to-alwar-packers-and-movers" title="Delhi To Alwar Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbde1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Delhi To Alwar Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-chandigarh-packers-and-movers" title="Bangalore To Chandigarh Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbde1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Chandigarh Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/bike-transport-from-bangalore-to-chandigarh" title="Bike Transport From Bangalore To Chandigarh" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbde1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bike Transport From Bangalore To Chandigarh</a>
+      <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbde1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
     </div>
   </div>
 </section>
 
 <section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
+    <h3 style="color: #cbde1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
       <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
     </h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers delhi to chandigarh</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers charges from delhi to chandigarh</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers chandigarh to delhi</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers charges from delhi to chandigarh</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers in madan garhi delhi</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers in delhi+</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers in old delhi</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers &amp; movers chandigarh chandigarh</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers chandigarh price list</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> transportation for shifting things from patiala to chandigarh</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> all india car transport company</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> commercial vehicle transport</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> indian railways car transport booking</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> car shifting by train in india</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> vehicle transport services</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers delhi to chandigarh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers charges from delhi to chandigarh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers chandigarh to delhi</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers charges from delhi to chandigarh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers in madan garhi delhi</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers in delhi+</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers in old delhi</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers &amp; movers chandigarh chandigarh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers chandigarh price list</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> transportation for shifting things from patiala to chandigarh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> all india car transport company</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> commercial vehicle transport</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> indian railways car transport booking</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> car shifting by train in india</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbde1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> vehicle transport services</span>
     </div>
   </div>
 </section>

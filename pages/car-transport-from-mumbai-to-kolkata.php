@@ -327,49 +327,9 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-We need to produce healed HTML section. Remove AI thought leaks, etc. Ensure no internal planning text. Replace placeholder tokens: none. Ensure no escaped tags. The content seems fine. But we need to ensure design system palette: background #0b132b or rgba(15,23,42,0.75). The current section uses #070d1e. Should change to #0b132b or rgba(15,23,42,0.75). Also color palette: text #cbd5e1. Badges etc. We need to preserve design system. Also ensure no stray backticks. The content includes <i class="fas fa-check-circle"> etc. That's fine.
+We need to produce healed HTML section. Remove AI thought leaks, etc. Ensure no internal planning text. Replace placeholder tokens: none. Ensure no escaped tags. The content seems fine. But
 
-We need to ensure no hallucinated route corridors. The content is about Mumbai to Kolkata. It's fine.
-
-We need to ensure no empty cards. All cards have content.
-
-We need to ensure no markdown tables. None.
-
-We need to ensure no placeholder tokens. None.
-
-We need to ensure no escaped tags. None.
-
-We need to ensure no AI thought leaks. The content includes no such. But the heading "Enclosed Container Transporters vs Open Car Haulers for packers and movers mumbai to kolkata" maybe should be "Enclosed Container Transporters vs Open Car Haulers for Packers and Movers Mumbai to Kolkata". Minor.
-
-Also we need to en<section> has class content-ui-section. Inside container. The inner card has <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"> containing <p> etc. That is fine.
-
-We need to ensure the final <h3>at end &quot;Factors to Consider When Choosing Between Enclosed Carriers and Open Trailers&quot; has no closing tags? It ends with &lt;/div&gt; after that heading. Actually the last &lt;h3&gt; is inside the inner div but no content after. That might be incomplete. We should add a paragraph or bullet list after that heading. The original content ended with that heading but no content. We need to add some content. Provide a short paragraph summarizing factors.
-
-Also we need to en</h2>
-      <div style="font-size: 1.02rem; ...">
-        <p>...</p>
-        <h3>Enclosed Containerized Carriers</h3>
-        <div style="display: grid; ...">
-          <div>... card 01 ...</div>
-          <div>... card 02 ...</div>
-          <div>... card 03 ...</div>
-        </div>
-        <h3>Open Trailers</h3>
-        <ul>...</ul>
-        <h3>Comparing Both Options</h3>
-        <ul>...</ul>
-        <p>When choosing between enclosed carriers and open trailers, consider the value of your belongings, the budget you have at your disposal, and the volume of items you have to transport.</p>
-        <h3>Top Packers and Movers in Mumbai and Kolkata</h3>
-        <ul>...</ul>
-        <p>When choosing a packers and movers company, carefully consider factors such as the type of carrier, insurance coverage, and budget. Each of the mentioned companies offers a range of services to cater to your specific needs.</p>
-        <h3>Factors to Consider When Choosing Between Enclosed Carriers and Open Trailers</h3>
-      </div>
-    </div>
-  </div>
-</section>
-
-We need to add content after the last h3. Provide a paragraph summarizing factors: e.g., "Key factors include vehicle condition, insurance, route safety, timing, and budget."
-
+<section> has class content-ui-section. Inside container. The inner card has <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"> containing <p> etc. That is fine.
 
 <section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">

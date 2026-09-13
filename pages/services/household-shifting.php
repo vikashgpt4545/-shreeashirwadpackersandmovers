@@ -277,7 +277,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to write 2 authoritative, detailed paragraphs providing genuine freight and relocation advice. Target keyword: &quot;parcel services to move household items in bangalore&quot;. We must cover route details, interstate border checkposts, e-Way bill clearance, speed-governed container transit, packing, loading, damage-free transit protection tailored for household items or vehicles on this corridor.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Word count 150-220 words total. Should be 2 paragraphs. Must be unique. No generic placeholders. Use factual details. Provide exact highway route: origin city to major Indian city. Let&#039;s pick origin city as &quot;Chennai&quot; maybe? But we need origin city (City Centre, Railway Station Road, Industrial Area) to major Indian city (City Centre, Railway Station Road, Industrial Area). Actually the route is from origin city to major Indian city. Could be from &quot;Chennai&quot; to &quot;Bangalore&quot;. But the keyword is &quot;parcel services to move household items in bangalore&quot;. So we are targeting Bangalore. So maybe origin city is &quot;Hyderabad&quot;? But the route distance 850 km via National Highway Arterial Corridors &amp; Multi-Axle Express Freight Highways. Let&#039;s choose origin city as &quot;Hyderabad&quot;. But distance from Hyderabad to Bangalore is about 570 km. Not 850</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

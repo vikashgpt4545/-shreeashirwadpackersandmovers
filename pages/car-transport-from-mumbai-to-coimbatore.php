@@ -473,25 +473,6 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-
-We need to heal the section. Let's analyze defects:
-
-1. AI thought leaks: none visible? There's no internal planning text. Good.
-
-2. Escaped HTML tags: I see <i class="fas fa-check-circle"...> is fine. But earlier there was &lt;i class=&quot;fas fa-link&quot;... but not present. So fine.
-
-3. Out-of-context corridor: The content is about transport from Mumbai to Coimbatore. It's fine.
-
-4. Placeholder tokens: No placeholders.
-
-5. Raw markdown tables: None.
-
-6. Empty/hollow cards: Not relevant.
-
-7. Design system & palette: Should preserve dark navy palette. The section uses background #0b132b, color #cbd5e1. Good.
-
-But we need to en<h3>6. Original Vehicle Registration Document (Form 29)</h3></div> ... but missing closing tags for the inner divs? Let's check structure:
-
 <section>
   <div class="container">
     <div style="background: ...">
@@ -523,39 +504,11 @@ But we need to en<h3>6. Original Vehicle Registration Document (Form 29)</h3></d
   </div>
 </section>
 
-Looks fine. But we need to ensure that the <div style="font-size: 1.02rem; ..."> is closed properly. It is closed after the last h3. Yes.
+Looks fine. But
 
-But we might want to add a paragraph after h3 6 to explain. Also maybe add a concluding note.
+<section> has closing </section>. Good.
 
-Also we need to ensure that the <i> tags are correct. They are fine.
-
-But we need to ensure that the section uses the design system: maybe add a badge 'Verified Shree Ashirwad Standard' somewhere. Not required but could.
-
-Also we need to ensure that the color palette is consistent: background #0b132b, color #cbd5e1. The inner card uses rgba(15,23,42,0.65) etc. Good.
-
-But we might need to add a closing tag for the <div style="background: rgba(15, 23, 42, 0.65); ...">? It is closed after the inner content. Yes.
-
-But we might want to add a final note: "For any queries, contact our support." Not necessary.
-
-But we need to ensure no stray tags. The <i> tags are fine.
-
-Let's check for any stray backticks or code fences: none.
-
-But we need to ensure that the section is valid. Let's check for missing closing tags: The <section> has closing </section>. Good.
-
-Now we need to ensure that the content is relevant to Car Transport from Mumbai to Coimbatore. The content is about statutory compliance. It's fine.
-
-But we might want to add a small note about route-specific considerations: e.g., "During the 1,200 km journey, ensure the vehicle is serviced, tires inflated, etc." But not required.
-
-But we need to ensure that the section uses the design system: maybe add a 'Verified Shree Ashirwad Standard' badge near the top. Let's add a small span with style.
-
-Also we need to ensure that the <i> tags are not double-escaped. They are fine.
-
-But we might need to convert any raw markdown tables: none.
-
-Also we need to ensure that
-
-
+Now
 
 <section class="specifications-grid-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">

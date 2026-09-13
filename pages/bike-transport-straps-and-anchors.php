@@ -404,8 +404,7 @@ require_once __DIR__ . '/../includes/header.php';
   </div>
 </section>
 
-
-We need to heal the section. The content is about bike transport straps & tie-down anchors, but the current content is about enclosed vs open carriers. We need to rewrite to match the page topic: "Bike Transport Straps & Tie-Down Anchors | Heavy Duty Cargo Security". So we need to produce a section with relevant content: maybe a guide on straps, anchors, red flags, pre-transit checks, etc. Also need to remove AI thought leaks, etc. Ensure dark navy palette: background #0b132b or rgba(15,23,42,0.75). Use color #ffffff / #cbd5e1. Use badges. Provide 2-3 authoritative sentences for empty cards. Replace placeholder tokens. Convert any markdown tables to HTML. There are no tables. Remove any stray backticks. Ensure no markdown fences. Provide only <section>...</section>.
+<section>...</section>.
 
 We need to rewrite the content: maybe a section with heading, subheadings, bullet points, maybe a table of strap types. Provide a badge "Verified Shree Ashirwad Standard". Use icons. Use <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> etc. Ensure no double-escaped tags.
 

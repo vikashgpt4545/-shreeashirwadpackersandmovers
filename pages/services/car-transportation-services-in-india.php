@@ -281,7 +281,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (India to Destination Hub)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">We need to write 2 paragraphs, 150-220 words total. Provide details: exact freight highway route, interstate border checkposts, e-Way bill clearance, speed-governed container transit. Also specific packing, loading, damage-free transit protection tailored for household items or vehicles on this corridor. Target keyword: premium packers and movers in india. Use authoritative tone, fact-grounded. Avoid placeholders. Provide precise route: from City Centre, Railway Station Road, Industrial Area (maybe a specific city like Mumbai?). Destination Hub same. Let&#039;s assume route between Delhi and Bangalore? Actually 850 km. Could be between Pune and Jaipur? 850 km is approx. Let&#039;s pick route: from &quot;City Centre, Railway Station Road, Industrial Area&quot; in Mumbai to same in Bangalore? Mumbai to Bangalore is about 980 km. 850 km could be between Nagpur and Jaipur? Let&#039;s pick a realistic route: from &quot;City Centre, Railway Station Road, Industrial Area&quot; in Nagpur to &quot;City Centre, Railway Station Road, Industrial Area&quot; in Jaipur. That&#039;s about 850 km. Provide route via NH44 (Nagpur to Jabalpur, then NH44 to Jaipur). Provide border checkposts: Nagpur to Jabalpur border of Maharashtra to Madhya Pradesh</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

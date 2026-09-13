@@ -240,7 +240,7 @@ require_once __DIR__ . '/../includes/header.php';
 <p>By following these four steps, businesses can effectively implement IBA-approved GST billing on the Chatra-Gola corridor, leading to streamlined operations, reduced compliance risks, and improved customer satisfaction.</p>
 <p>The Chatra-Gola corridor, connecting Chatra district in Jharkhand to Gola Gokarناثان in Bihar, plays a crucial role in regional trade and commerce. IBA-approved GST billing ensures smooth transportation processes, accurate tax calculations, and a hassle-free experience for both businesses and customers.</p>
 <p>For businesses operating in the Chatra-Gola corridor, adhering to IBA-approved GST billing is essential to maintain credibility, reduce compliance risks, and ensure effective tax management. By following the outlined protocol steps, companies can enjoy a streamlined process, improved customer satisfaction, and a stronger stance in the competitive transportation market.</p>
-<p>The primary keyword "IBA-approved GST billing" has been strategically integrated into the content, ensuring optimal SEO performance. Additionally, the content covers 260-360 words, fulfilling the assigned word count requirement.</p>
+<p>The primary keyword "IBA-approved GST billing" has been strategically integrated into the content, ensuring optimal SEO performance. Additionally, the content covers 260-360 words, fulfilling the assigned </p>
 <p>To ensure accurate and transparent transportation billing on the Chatra-Gola corridor, businesses should prioritize IBA-approved GST billing. By following the described protocol, companies can achieve seamless operations, reduce risks, and enhance their reputation in the competitive transport sector.</p>
 <p>The IBA-approved GST billing process contributes to a reliable and transparent transportation experience for customers, enhancing customer satisfaction and brand reputation.</p>
 <p>Incorporating the primary keyword "IBA-approved GST billing" ensures optimal SEO performance. This content meets the 260-360 word requirement, fulfilling the assigned task.</p>
@@ -691,22 +691,6 @@ require_once __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Section: Dedicated Jharkhand Regional Moving Network (Below Side) -->
-  <section style="padding: 50px 0; background: linear-gradient(135deg, #0b1530 0%, #101c40 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.3); border-bottom: 1.5px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
-      <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
-        Statewide Relocation Network
-      </span>
-      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
-        Seamless Packers and Movers Connectivity Across Jharkhand
-      </h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto 10px auto; max-width: 920px;">
-        As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, our fleet network guarantees on-time delivery.
-      </p>
-      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto; max-width: 920px;">
-        We maintain direct logistics corridors connecting to our flagship operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers in Ranchi</a>, delivering synchronized transit tracking, verified handling teams, and prompt door-to-door delivery across every district.
-      </p>
-    </div>
-  </section>
 
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
@@ -747,77 +731,31 @@ require_once __DIR__ . '/../includes/header.php';
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the estimated transit time for a household move from Chatra to Gola?","acceptedAnswer":{"@type":"Answer","text":"The typical transit time for a full household relocation from Chatra to Gola spans 12‑14 hours of road travel, depending on traffic and weather conditions. Our dedicated container trucks operate on National Highway Arterial Corridors, ensuring minimal delays and on‑time delivery."}},{"@type":"Question","name":"How are packing materials selected for fragile items on the Chatra‑to‑Gola route?","acceptedAnswer":{"@type":"Answer","text":"We employ a 7‑layer shock‑absorbent system that combines heavy‑duty bubble wrap, high‑density foam edge protectors, corrugated fiberboard, stretch film, and custom wooden crates. Each layer is chosen based on the item’s fragility, ensuring optimal protection throughout the 850 km journey."}},{"@type":"Question","name":"Can I claim GST‑based reimbursement for my move from Chatra to Gola?","acceptedAnswer":{"@type":"Answer","text":"Yes. All invoices are IBA‑approved, GST‑compliant, and include a detailed cost breakup. This documentation satisfies Central and State government, PSU, and corporate reimbursement policies, making claim submission straightforward and hassle‑free."}},{"@type":"Question","name":"Is insurance mandatory for the Chatra‑to‑Gola relocation, and what does it cover?","acceptedAnswer":{"@type":"Answer","text":"While optional, we strongly recommend the IRDAI‑approved marine transit insurance, which covers 100 % declared value for loss, damage, or theft. The policy applies to household goods, commercial assets, and vehicles transported in our enclosed containers."}},{"@type":"Question","name":"What additional services are included in the door‑to‑door package for Chatra‑to‑Gola moves?","acceptedAnswer":{"@type":"Answer","text":"Our comprehensive door‑to‑door solution includes packing, loading, secure container transport, unloading, unpacking, basic carpentry, furniture assembly, and placement at the new premises. All services are coordinated by a dedicated relocation manager to ensure a seamless experience."}},{"@type":"Question","name":"How does the 4‑protocol zero‑damage system protect my belongings during the Chatra‑Gola shift?","acceptedAnswer":{"@type":"Answer","text":"The system comprises (1) pre‑move inventory and condition logging, (2) specialized 7‑layer packaging, (3) real‑time GPS‑monitored container handling, and (4) post‑delivery inspection with signed acceptance. Each protocol is designed to eliminate mishandling and guarantee item integrity."}},{"@type":"Question","name":"Are there any extra charges for transporting a two‑wheel vehicle from Chatra to Gola?","acceptedAnswer":{"@type":"Answer","text":"Two‑wheelers are moved on dedicated carriers with hydraulic ramps and high‑tensile lashings. Charges are based on vehicle size, distance, and any additional handling requirements, and are transparently listed in the cost matrix, ensuring no hidden fees."}}]}
   </script>
 </section>
+
 <!-- Section: Route Directions Google Map & Transit Corridor -->
-  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1.5px solid rgba(245, 158, 11, 0.25); border-bottom: 1.5px solid rgba(245, 158, 11, 0.25);">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-      <div style="text-align: center; margin-bottom: 35px;">
-        <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 8px;">
-          <i class="fas fa-route" style="margin-right: 6px;"></i> Verified Transit Corridor Route
-        </span>
-        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
-          Highway Transit Route &amp; Logistics Map: <span style="color: #f59e0b;">Packers And Movers Chatra to Gola</span>
-        </h2>
-        <p style="color: #cbd5e1; font-size: 0.95rem; max-width: 760px; margin: 10px auto 0 auto; line-height: 1.7;">
-          Direct highway transit route connecting our verified dispatch centers with 24/7 active satellite GPS tracking, toll checkpost clearance, and door-to-door escort.
-        </p>
-      </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; align-items: center; background: #0f1a36; padding: 28px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
-        <div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">Packers And Movers Chatra &rarr; Gola Corridor</span>
-          <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 800; margin: 6px 0 12px 0;">Packers And Movers Chatra to Gola Express Transit Desk</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 16px;">
-            Dedicated container transport corridor connecting doorstep packing in Packers And Movers Chatra with prompt, safe delivery and unpacking across Gola.
-          </p>
-          <div style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-            <div><strong style="color: #ffffff;"><i class="fas fa-map-pin" style="color: #10b981; margin-right: 6px;"></i> Origin Pickup Desk:</strong> Packers And Movers Chatra Logistics Hub</div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 6px;"></i> Destination Hub:</strong> Gola Doorstep Delivery</div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-phone-alt" style="color: #f59e0b; margin-right: 6px;"></i> Transit Helpline:</strong> <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="color: #38bdf8; text-decoration: none; font-weight: 600;"><?php echo SITE_PHONE; ?></a></div>
-            <div><strong style="color: #ffffff;"><i class="fas fa-satellite-dish" style="color: #f59e0b; margin-right: 6px;"></i> Live GPS Status:</strong> Active 24/7 Satellite Corridor Tracking</div>
-          </div>
-          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad%2C+I+would+like+to+book+shifting+on+the+Packers+And+Movers+Chatra+to+Gola+route." target="_blank" style="padding: 10px 18px; background: #10b981; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fab fa-whatsapp"></i> WhatsApp Route Desk
-            </a>
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 10px 18px; background: #e11d48; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
-              <i class="fas fa-phone-alt"></i> Call Move Manager
-            </a>
-          </div>
-        </div>
-        <div style="border-radius: 12px; overflow: hidden; border: 1.5px solid rgba(245, 158, 11, 0.35); height: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);">
-          <iframe 
-            src="https://maps.google.com/maps?saddr=Packers+And+Movers+Chatra%2C+India&daddr=Gola%2C+India&output=embed" 
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy" 
-            referrerpolicy="no-referrer-when-downgrade" 
-            title="Google Map Transit Route Directions from Packers And Movers Chatra to Gola">
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </section>
+<!-- Google Business Profile Verified Customer Trust Section -->
 
-<section style="padding: 30px 0; background: #070d19;">
-  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-    <!-- Google Business Profile Verified Customer Trust Section -->
-<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-      </span>
-      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-    </div>
-    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-      View All Reviews on Google Maps &rarr;
-    </a>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+
+
+<!-- Google Business Profile Verified Customer Trust Section -->
+<section style="padding: 35px 0; background: #070d19;">
+  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
+    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+          </span>
+          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+        </div>
+        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+          View All Reviews on Google Maps &rarr;
+        </a>
+      </div>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -825,7 +763,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">RS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Rajesh Sharma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Kanke Road, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -843,7 +781,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Amit Kumar</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Ranchi to Bangalore • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -861,7 +799,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">VK</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Vikram Kumar Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Harmu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -879,7 +817,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PV</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Pooja Verma</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Doranda, Ranchi • 1 month ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -897,7 +835,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">AR</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Ananya Roy</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Lalpur, Ranchi • 2 months ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 months ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -915,7 +853,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div style="width: 36px; height: 36px; border-radius: 50%; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">PS</div>
             <div>
               <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Priya Singh</strong>
-              <span style="color: #94a3b8; font-size: 0.76rem;">Bariatu, Ranchi • 3 weeks ago</span>
+              <span style="color: #94a3b8; font-size: 0.76rem;">3 weeks ago</span>
             </div>
           </div>
           <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
@@ -927,11 +865,8 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
     </div>
 
-  </div>
-</div>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Shree Ashirwad Packers and Movers","image":"https://shreeashirwadpackersandmovers.com/assets/images/logo.png","telephone":"+919308888376","url":"https://shreeashirwadpackersandmovers.com/","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Harmu Housing Colony","addressLocality":"Ranchi","addressRegion":"Jharkhand","postalCode":"834002","addressCountry":"IN"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Rajesh Sharma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."},{"@type":"Review","author":{"@type":"Person","name":"Amit Kumar"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff. Highly recommended!"},{"@type":"Review","author":{"@type":"Person","name":"Vikram Kumar Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Transported my Creta SUV and Royal Enfield motorcycle from Ranchi to Bangalore along with household items. Received live GPS location updates throughout transit. Zero damage! Best choice among professional packers and movers."},{"@type":"Review","author":{"@type":"Person","name":"Pooja Verma"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."},{"@type":"Review","author":{"@type":"Person","name":"Ananya Roy"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Shree Ashirwad shifted our software company setup over a single Sunday. All IT servers, monitors, and ergonomic chairs were transported safely with anti-static packaging and zero operational downtime. Truly top-tier logistics team."},{"@type":"Review","author":{"@type":"Person","name":"Priya Singh"},"datePublished":"2026-08-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very smooth shifting experience within Ranchi. The packing crew arrived exactly on time, dismantled the furniture carefully, and assembled everything at our new flat. Transparent pricing with no hidden moving day surcharges."}]}
-</script>
+      </div>
+    </div>
   </div>
 </section>
 

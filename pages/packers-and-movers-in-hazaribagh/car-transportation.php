@@ -278,7 +278,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">The user wants a senior logistics coordinator for Shree Ashirwad Packers and Movers, with authority and details, providing freight and relocation advice for a route: from an origin city (City Centre, Railway Station Road, Industrial Area) to a major Indian city (City Centre, Railway Station, Industrial Area). Highway distance ~850 km via National Highway arterial corridors &amp; Multi-Axle Express Freight Highways. Transit duration 2-3 working days. Service: Car Carrier &amp; Vehicle Transportation. Primary target keyword: &quot;car mover and packers&quot;. Must cover:</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">1. Exact freight highway route, interstate border checkposts, automated e-Way bill clearance, and speed-governed container transit.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">2. Specific packing, loading, and damage-free transit protection tailored for household items or vehicles on this specific corridor.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Write 150-220 words of 100% unique, authoritative content. Must not use generic placeholders. So we need to produce concrete advice, using route details that would be plausible for an 850 km route between two Indian cities. Since we are not given specific cities, we can use generic city names like &quot;City A&quot; and &quot;City B&quot; but we cannot use placeholders. The user wants no placeholders. But we need to be specific about the route:</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>

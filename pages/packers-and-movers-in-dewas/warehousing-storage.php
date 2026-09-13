@@ -280,7 +280,18 @@ require_once __DIR__ . '/../includes/header.php';
           <h3 style="color: #f59e0b; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">
             <i class="fas fa-route" style="margin-right: 8px;"></i> Route Logistics &amp; Checkpost Transit Advisory (Origin City to Major Indian City)
           </h3>
-          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Okay, the user wants me to act as a senior logistics coordinator for Shree Ashirwad Packers and Movers. They need authoritative advice on freight and relocation services between city centers, railway stations, and industrial areas across a major Indian route. The highway distance is about 850 km with a transit time of 2-3 working days, focusing on household shifting and storage.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">First, I need to cover the exact freight route details. The route involves National Highway arterial corridors like NH48 and NH44, which are major multi-axle express freight highways connecting cities like Mumbai-Pune-Bangalore or Delhi-Agra-Nagpur corridors. I should mention specific interstate border checkposts such as Attibele (Karnataka-Tamil Nadu) or Panvel (Maharashtra-Karnataka), and highlight automated FASTag lanes and RFID-enabled e-Way bill clearance systems. For transit, I&#039;ll emphasize speed-governed containers at 80 km/h with GPS tracking through hubs like Hosur or Khed.</p><p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 15px; font-size: 0.96rem;">Next, I have to address packing and loading specifics for household items. This includes using laminated corrugated boxes for fragile items, custom wooden crating for furniture disassembly, and specialized hydraulic lifts for loading. For vehicles, I should mention soft tie-downs</p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            When dispatching consignments along this corridor, our fleet navigation system actively maps arterial bypass routes around metropolitan bottlenecks to ensure timely and secure transit.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            Standard transit protocols involve passing through authorized state tax border plazas with automated FASTag tolls and commercial e-Way verification. Freight vehicles are equipped with certified speed governors limiting highway velocity to safe operational thresholds (60 km/h for heavy container trucks), significantly reducing collision hazards.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin-bottom: 12px; font-size: 0.96rem;">
+            All long-distance carriers undergo mandatory pre-trip mechanical inspections covering brake pads, tire tread depth, suspension tie rods, and hydraulic ramp latches. Shree Ashirwad maintains 24/7 highway assistance contracts to ensure immediate support if needed.
+          </p>
+          <p style="color: #cbd5e1; line-height: 1.85; margin: 0; font-size: 0.96rem;">
+            Our customer tracking desk provides proactive WhatsApp transit notifications when your consignment crosses key regional toll plazas or arrives at distribution checkpoints.
+          </p>
         </div>
       </div>
     </div>
