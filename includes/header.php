@@ -121,14 +121,22 @@ require_once __DIR__ . '/config.php';
   <!-- Preconnect to Google Fonts & Load Fonts Directly -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600;700&display=swap">
 
   <!-- FontAwesome Icons CDN (Non-blocking Async Preload for Fast FCP/LCP) -->
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
 
-  <!-- CSS Stylesheet -->
-  <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.css">
+  <!-- Critical CLS Shield: Pre-reserve space for icons & header to eliminate Cumulative Layout Shift -->
+  <style>
+    .fas, .fab, .far, .fa { display: inline-block; width: 1.15em; min-height: 1em; text-align: center; vertical-align: -0.125em; }
+    .site-header { min-height: 70px; }
+    .top-bar { min-height: 33px; }
+    .brand-logo img { width: 48px; height: 48px; aspect-ratio: 1/1; }
+  </style>
+
+  <!-- CSS Stylesheet (Minified for Fast FCP/LCP) -->
+  <link rel="stylesheet" href="<?php echo SITE_URL; ?>assets/css/style.min.css">
 
   <!-- Schema.org JSON-LD Connected Entity Knowledge Graph for Local Business SEO & AI Search (GEO) -->
   <?php
@@ -513,7 +521,7 @@ require_once __DIR__ . '/config.php';
           <li><a href="<?php echo SITE_URL; ?>" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'active' : ''; ?>" title="Home - Shree Ashirwad Packers and Movers">Home</a></li>
           <li><a href="<?php echo SITE_URL; ?>about" class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>" title="About Us - Shree Ashirwad Packers and Movers">About Us</a></li>
           <li class="nav-item dropdown">
-            <a href="javascript:void(0);" class="nav-link dropdown-toggle <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php' || (isset($_SERVER['REQUEST_URI']) && strpos($_SERVER['REQUEST_URI'], '/services/') !== false)) ? 'active' : ''; ?>" title="Relocation Services - Shree Ashirwad Packers and Movers" aria-expanded="false">Services <i class="fas fa-chevron-down" style="font-size: 0.75rem; margin-left: 3px;"></i></a>
+            <a href="<?php echo SITE_URL; ?>services" class="nav-link dropdown-toggle <?php echo (basename($_SERVER['PHP_SELF']) == 'services.php' || (isset($_SERVER['REQUEST_URI']) && strpos($_SERVER['REQUEST_URI'], '/services/') !== false)) ? 'active' : ''; ?>" title="Relocation Services - Shree Ashirwad Packers and Movers" aria-expanded="false">Services <i class="fas fa-chevron-down" style="font-size: 0.75rem; margin-left: 3px;"></i></a>
             <ul class="dropdown-menu">
               <li><a href="<?php echo SITE_URL; ?>services" class="dropdown-item" title="All Shifting Services">All Relocation Services</a></li>
               <li><a href="<?php echo SITE_URL; ?>services/household-shifting" class="dropdown-item" title="Household Shifting Services">Household Shifting</a></li>
@@ -524,7 +532,7 @@ require_once __DIR__ . '/config.php';
             </ul>
           </li>
           <li class="nav-item dropdown">
-            <a href="javascript:void(0);" class="nav-link dropdown-toggle <?php echo (basename($_SERVER['PHP_SELF']) == 'guides.php' || (isset($_SERVER['REQUEST_URI']) && strpos($_SERVER['REQUEST_URI'], '/guides/') !== false)) ? 'active' : ''; ?>" title="Moving Guides & Resources" aria-expanded="false">Guides <i class="fas fa-chevron-down" style="font-size: 0.75rem; margin-left: 3px;"></i></a>
+            <a href="<?php echo SITE_URL; ?>guides" class="nav-link dropdown-toggle <?php echo (basename($_SERVER['PHP_SELF']) == 'guides.php' || (isset($_SERVER['REQUEST_URI']) && strpos($_SERVER['REQUEST_URI'], '/guides/') !== false)) ? 'active' : ''; ?>" title="Moving Guides & Resources" aria-expanded="false">Guides <i class="fas fa-chevron-down" style="font-size: 0.75rem; margin-left: 3px;"></i></a>
             <ul class="dropdown-menu">
               <li><a href="<?php echo SITE_URL; ?>guides" class="dropdown-item" title="All Moving Guides">All Moving Guides</a></li>
               <li><a href="<?php echo SITE_URL; ?>guides/shifting-checklist" class="dropdown-item" title="Ultimate Home Shifting Checklist">Home Shifting Checklist</a></li>

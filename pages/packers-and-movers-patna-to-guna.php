@@ -3,7 +3,7 @@ $city = 'Guna';
 $page_title = 'Packers and Movers Patna to Guna | Safe & Verified Relocation';
 $page_description = 'Professional packers and movers from Patna to Guna. ISO-certified household shifting, car & bike transport, transparent pricing, and instant door-to-door delivery.';
 $canonical_url = 'https://shreeashirwadpackers.com/pages/packers-and-movers-patna-to-guna.php';
-include '../includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <!-- Custom Dark Mode & Dynamic Styling for Intercity Route -->
@@ -710,7 +710,7 @@ function sendHeroWhatsAppLead(e, city) {
 }
 </script>
 
-<?php include '../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 
 <!-- Google Business Profile Verified Customer Trust Section -->

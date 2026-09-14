@@ -3,844 +3,654 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers Hazaribagh to Noida 8409531615";
 $page_desc = "Secure and certified packers and movers services from Hazaribagh to Noida. Shree Ashirwad Packers and Movers offers home shifting, vehicle shipping, and transit insurance with zero hidden costs. Complete door-to-door relocation coverage across Matwari, Korrah, Ananda Chowk, Hazaribagh Lake, Canary Hill Road.";
-$page_keywords = "packers and movers hazaribagh to noida, best packers and movers hazaribagh to noida, affordable packers and movers hazaribagh to noida, packers and movers, packers and movers in ranchi, top packers and movers hazaribagh to noida company, household shifting packers and movers hazaribagh to noida, doorstep packers and movers hazaribagh to noida, verified packers and movers hazaribagh to noida services, shree ashirwad packers and movers hazaribagh to noida";
+$page_keywords = "Packers And Movers Hazaribagh To Noida, hazaribagh packers and movers, movers and packers hazaribagh, packers and movers hazaribagh, packers and movers charges in greater noida, real packers and movers greater noida uttar pradesh, packers and movers in greater noida west, how do packers and movers packer furniture, household shifting transportation services images 350x200, house hold material shifting transporters, shift furniture to hong kong from india, cost for house shifting from mehsana to sonipat, package and movers price, movers+and+packers+estimated+cost+india, in movers and packers gst invoice";
+$page_origin = "Packers And Movers Hazaribagh";
+$page_destination = "Noida";
+$page_city = "Packers And Movers Hazaribagh";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-hazaribagh-to-noida.php";
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
-?>
-
-<main class="site-main">
-  <div class="breadcrumb-wrapper">
-    <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" title="Hazaribagh">Hazaribagh</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active">Packers and Movers Hazaribagh to Noida</span>
+<main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+<section class="hero-section" style="padding: 70px 0 50px; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.1);">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 40px; align-items: center;">
+      <div>
+        <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); border: 1px solid #f59e0b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; margin-bottom: 15px; letter-spacing: 0.5px;">
+          <i class="fas fa-shield-alt"></i> Verified Intercity Moving Corridor
+        </span>
+        <h1 style="font-size: 2.2rem; font-weight: 800; line-height: 1.25; margin-bottom: 15px; color: #ffffff;">Packers and Movers Hazaribagh to Noida 8409531615</h1>
+        <p style="font-size: 1.05rem; line-height: 1.7; color: #cbd5e1; margin-bottom: 25px;">
+          Trust Shree Ashirwad Packers and Movers for dependable, 100% insured, and damage-free moving solutions. Dedicated container trucks, certified packing crews, and instant WhatsApp survey quotes.
+        </p>
+        <div style="display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 25px; color: #cbd5e1; font-size: 0.9rem; font-weight: 500;">
+          <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> IBA Approved Bills</span>
+          <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> GPS-Monitored Fleet</span>
+          <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> Damage-Free Guarantee</span>
+        </div>
+      </div>
+      <div style="background: #0f172a; border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+        <h3 style="color: #ffffff; font-size: 1.3rem; font-weight: 700; margin-bottom: 15px; text-align: center;">Get an Instant WhatsApp Moving Estimate</h3>
+        <form onsubmit="sendHeroWhatsAppLead(event, this);">
+          <div style="margin-bottom: 12px;">
+            <input type="text" name="name" placeholder="Your Full Name" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+          </div>
+          <div style="margin-bottom: 12px;">
+            <input type="tel" name="phone" placeholder="WhatsApp Contact Number" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 15px;">
+            <input type="text" name="move_from" placeholder="Pickup City / Area" value="Packers And Movers Hazaribagh" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            <input type="text" name="move_to" placeholder="Drop Location / City" value="Noida" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+          </div>
+          <button type="submit" style="width: 100%; background: #25d366; color: #ffffff; border: none; padding: 12px; border-radius: 6px; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px;">
+            <i class="fab fa-whatsapp" style="font-size: 1.2rem;"></i> Request Fixed Price Quote
+          </button>
+        </form>
       </div>
     </div>
   </div>
+</section>
 
-  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
-    <div class="container">
-      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
-        <div class="hero-text">
-          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">IBA Approved Professional Relocation</span>
-          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">Best <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span></h1>
-          <p style="font-size: 1.1rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 25px;">Looking for professional, damage-free household shifting, car transportation, bike moving, or office relocation services in Hazaribagh? Shree Ashirwad Packers and Movers provides 7-layer protective packaging, active GPS container tracking, full transit insurance, and genuine IBA-approved GST bills for corporate and government claims.</p>
-          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?></a>
-            <a href="https://wa.me/919955554330?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Packers+and+Movers+Hazaribagh+to+Noida" title="WhatsApp Quote" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none;"><i class="fab fa-whatsapp"></i> WhatsApp Quote</a>
-          </div>
-        </div>
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px;">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Quote</h2>
-          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;"><input type="text" name="name" placeholder="Your Full Name" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="margin-bottom: 14px;"><input type="tel" name="phone" placeholder="10-Digit Phone / WhatsApp" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></div>
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" placeholder="From" value="Hazaribagh" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" placeholder="To" value="Noida" required style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="margin-bottom: 16px;"><textarea name="message" rows="2" placeholder="Items (1BHK, 2BHK, Bike, Car)" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea></div>
-            <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000; font-weight: 800; font-size: 1rem; border-radius: 8px; border: none;">Get Free Quote on WhatsApp</button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="track-record-section" style="padding: 60px 0; background: #070d19; color: #ffffff; text-align: center;">
-    <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="margin-bottom: 40px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          TRUSTED RELOCATION TRACK RECORD
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Jharkhand's Most Dependable <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          With over a decade of domain excellence, Shree Ashirwad Packers and Movers has established itself as the top choice for household relocation, commercial office shifting, and vehicle transport. As trusted <strong>packers and movers hazaribagh to noida</strong> specialists, we prioritize the safety of your valuable belongings using high-grade multi-layer packing materials and dedicated container trucks across Matwari.
-        </p>
-      </div>
-
-      <!-- 4 Stats Cards Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; align-items: stretch;">
-        
-        <!-- Card 1 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px 20px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px auto; color: #f59e0b; font-size: 1.2rem;">
-            <i class="fas fa-chart-line"></i>
-          </div>
-          <h3 style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 4px;">10,000+</h3>
-          <h4 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; margin-bottom: 8px;">Successful Moves</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.5; margin: 0;">
-            Completed household &amp; office shifting projects across Matwari &amp; Jharkhand.
-          </p>
-        </div>
-
-        <!-- Card 2 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.5); border-radius: 14px; padding: 28px 20px; text-align: center; box-shadow: 0 10px 30px rgba(245, 158, 11, 0.15); transition: transform 0.3s ease;">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.2); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px auto; color: #f59e0b; font-size: 1.2rem;">
-            <i class="fas fa-heart"></i>
-          </div>
-          <h3 style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 4px;">5,000+</h3>
-          <h4 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; margin-bottom: 8px;">Happy Clients</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.5; margin: 0;">
-            Satisfied families and businesses who trust our <strong>packers and movers hazaribagh to noida</strong>.
-          </p>
-        </div>
-
-        <!-- Card 3 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px 20px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px auto; color: #f59e0b; font-size: 1.2rem;">
-            <i class="fas fa-map-marker-alt"></i>
-          </div>
-          <h3 style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 4px;">100+</h3>
-          <h4 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; margin-bottom: 8px;">Cities Connected</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.5; margin: 0;">
-            Seamless intercity relocation network linking Matwari to major Indian metro cities.
-          </p>
-        </div>
-
-        <!-- Card 4 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px 20px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-          <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px auto; color: #f59e0b; font-size: 1.2rem;">
-            <i class="fas fa-star"></i>
-          </div>
-          <h3 style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; margin-bottom: 4px;">24/7</h3>
-          <h4 style="font-size: 1.05rem; font-weight: 700; color: #ffffff; margin-bottom: 8px;">Live Support</h4>
-          <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.5; margin: 0;">
-            Round-the-clock dedicated assistance from experienced <strong>packers and movers hazaribagh to noida</strong> specialists.
-          </p>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: Live Work Gallery -->
-  <section class="gallery-showcase-section" style="padding: 60px 0; background: #070d19; color: #ffffff; text-align: center;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="margin-bottom: 40px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          REAL SHIFTING SHOWCASE
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Live Work Gallery of Top <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          Browse authentic photos of our professional team in action across Matwari. From heavy-duty 7-layer household packaging to GPS container truck loading, see how our verified <strong>packers and movers hazaribagh to noida</strong> deliver 100% damage-free shifting.
-        </p>
-      </div>
-
-      <!-- 4 Image Cards Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px;">
-        
-        <!-- Gallery Card 1 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 14px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.4); transition: transform 0.3s ease;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-1.webp" alt="Bike Straw Padding &amp; Branded Tape" style="width: 100%; height: 220px; object-fit: cover; display: block;" loading="lazy">
-          <div style="background: rgba(15, 23, 42, 0.95); padding: 12px 15px; text-align: center; color: #ffffff; font-weight: 700; font-size: 0.88rem; border-top: 1px solid rgba(245, 158, 11, 0.3);">
-            Bike Straw Padding &amp; Branded Tape
-          </div>
-        </div>
-
-        <!-- Gallery Card 2 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 14px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.4); transition: transform 0.3s ease;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-2.webp" alt="Cardboard &amp; Stretch Wrap Bike Packing" style="width: 100%; height: 220px; object-fit: cover; display: block;" loading="lazy">
-          <div style="background: rgba(15, 23, 42, 0.95); padding: 12px 15px; text-align: center; color: #ffffff; font-weight: 700; font-size: 0.88rem; border-top: 1px solid rgba(245, 158, 11, 0.3);">
-            Cardboard &amp; Stretch Wrap Bike Packing
-          </div>
-        </div>
-
-        <!-- Gallery Card 3 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 14px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.4); transition: transform 0.3s ease;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-3.webp" alt="Custom Wooden Crate Box Framing" style="width: 100%; height: 220px; object-fit: cover; display: block;" loading="lazy">
-          <div style="background: rgba(15, 23, 42, 0.95); padding: 12px 15px; text-align: center; color: #ffffff; font-weight: 700; font-size: 0.88rem; border-top: 1px solid rgba(245, 158, 11, 0.3);">
-            Custom Wooden Crate Box Framing
-          </div>
-        </div>
-
-        <!-- Gallery Card 4 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 14px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.4); transition: transform 0.3s ease;">
-          <img src="<?php echo SITE_URL; ?>assets/images/gallery/gallery-4.webp" alt="Smart TV Wooden Crate Packaging" style="width: 100%; height: 220px; object-fit: cover; display: block;" loading="lazy">
-          <div style="background: rgba(15, 23, 42, 0.95); padding: 12px 15px; text-align: center; color: #ffffff; font-weight: 700; font-size: 0.88rem; border-top: 1px solid rgba(245, 158, 11, 0.3);">
-            Smart TV Wooden Crate Packaging
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: End-to-End Professional Shifting Services -->
-  <section class="shifting-services-section" style="padding: 65px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          END-TO-END RELOCATION SOLUTIONS
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Professional Shifting Services by Top <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          Whether you are moving your home within Matwari or relocating your corporate office to another state, our certified <strong>packers and movers hazaribagh to noida</strong> deliver seamless, stress-free shifting backed by 100% damage-proof packaging and trained logistics personnel.
-        </p>
-      </div>
-
-      <!-- 6 Services 3x2 Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px;">
-        
-        <!-- Service Card 1 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-              <i class="fas fa-home"></i>
-            </div>
-            <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Household Goods Shifting</h3>
-            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin-bottom: 20px;">
-              Complete home relocation services across Matwari. Our expert <strong>packers and movers hazaribagh to noida</strong> disassemble heavy beds, pack kitchen glassware safely in sturdy boxes, wrap sofas in bubble film, and transport everything securely.
-            </p>
-            <ul style="list-style: none; padding: 0; margin: 0 0 25px 0; color: #cbd5e1; font-size: 0.88rem; line-height: 1.8;">
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Multi-layer bubble wrapping &amp; foam sheets</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Furniture disassembly &amp; re-assembly</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Dedicated enclosed shifting vehicles</li>
-            </ul>
-          </div>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Home%20Shifting%20in%20Matwari" title="Book Home Shifting" target="_blank" style="width: 100%; padding: 12px; border: 1.5px solid #f59e0b; border-radius: 10px; background: transparent; color: #ffffff; font-weight: 700; font-size: 0.9rem; text-align: center; text-decoration: none; display: block; box-sizing: border-box;">
-            Book Home Shifting
-          </a>
-        </div>
-
-        <!-- Service Card 2 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-              <i class="fas fa-building"></i>
-            </div>
-            <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Office &amp; Commercial Shifting</h3>
-            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin-bottom: 20px;">
-              Fast, zero-downtime corporate relocation for companies in Matwari. As leading <strong>packers and movers hazaribagh to noida</strong>, we safely relocate IT servers, office desks, confidential files, and conference electronics on weekends or off-peak hours.
-            </p>
-            <ul style="list-style: none; padding: 0; margin: 0 0 25px 0; color: #cbd5e1; font-size: 0.88rem; line-height: 1.8;">
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Tagged box labeling &amp; file inventory</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Anti-static packing for IT hardware</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Weekend &amp; overnight shifting execution</li>
-            </ul>
-          </div>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Office%20Shifting%20in%20Matwari" title="Book Office Shifting" target="_blank" style="width: 100%; padding: 12px; border: 1.5px solid #f59e0b; border-radius: 10px; background: transparent; color: #ffffff; font-weight: 700; font-size: 0.9rem; text-align: center; text-decoration: none; display: block; box-sizing: border-box;">
-            Book Office Shifting
-          </a>
-        </div>
-
-        <!-- Service Card 3 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-              <i class="fas fa-car"></i>
-            </div>
-            <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Car &amp; Bike Transportation</h3>
-            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin-bottom: 20px;">
-              Safe vehicle carrier services connecting Matwari to anywhere in India. Our experienced <strong>packers and movers hazaribagh to noida</strong> use hydraulic enclosed car trailers and specialized wheel-lock bike containers.
-            </p>
-            <ul style="list-style: none; padding: 0; margin: 0 0 25px 0; color: #cbd5e1; font-size: 0.88rem; line-height: 1.8;">
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Covered hydraulic car container trailers</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Scratch-free bike foam wrapping &amp; belt locking</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Doorstep vehicle pickup &amp; delivery</li>
-            </ul>
-          </div>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Vehicle%20Transport%20in%20Matwari" title="Book Vehicle Transport" target="_blank" style="width: 100%; padding: 12px; border: 1.5px solid #f59e0b; border-radius: 10px; background: transparent; color: #ffffff; font-weight: 700; font-size: 0.9rem; text-align: center; text-decoration: none; display: block; box-sizing: border-box;">
-            Book Vehicle Transport
-          </a>
-        </div>
-
-        <!-- Service Card 4 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-              <i class="fas fa-box-open"></i>
-            </div>
-            <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Packing &amp; Unpacking Services</h3>
-            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin-bottom: 20px;">
-              Professional packing and unboxing help in Matwari. Relying on premium materials like heavy-duty cartons, stretch wrap, and wooden crates, our <strong>packers and movers hazaribagh to noida</strong> safeguard fragile goods completely.
-            </p>
-            <ul style="list-style: none; padding: 0; margin: 0 0 25px 0; color: #cbd5e1; font-size: 0.88rem; line-height: 1.8;">
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Custom wooden crating for TV &amp; artwork</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> High-density corrugated boxes &amp; tape</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Post-shifting unpacking &amp; placement support</li>
-            </ul>
-          </div>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Packing%20Service%20in%20Matwari" title="Book Packing Service" target="_blank" style="width: 100%; padding: 12px; border: 1.5px solid #f59e0b; border-radius: 10px; background: transparent; color: #ffffff; font-weight: 700; font-size: 0.9rem; text-align: center; text-decoration: none; display: block; box-sizing: border-box;">
-            Book Packing Service
-          </a>
-        </div>
-
-        <!-- Service Card 5 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-              <i class="fas fa-warehouse"></i>
-            </div>
-            <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Warehouse &amp; Goods Storage</h3>
-            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin-bottom: 20px;">
-              Secure short-term and long-term storage units in Matwari. Our <strong>packers and movers hazaribagh to noida</strong> offer CCTV-monitored, pest-controlled, and fire-safe warehouse facilities for your household goods and commercial stock.
-            </p>
-            <ul style="list-style: none; padding: 0; margin: 0 0 25px 0; color: #cbd5e1; font-size: 0.88rem; line-height: 1.8;">
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> 24/7 CCTV surveillance &amp; security guards</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Moisture-proof &amp; pest-controlled storage</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Flexible daily, weekly, or monthly plans</li>
-            </ul>
-          </div>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Storage%20Space%20in%20Matwari" title="Book Storage Space" target="_blank" style="width: 100%; padding: 12px; border: 1.5px solid #f59e0b; border-radius: 10px; background: transparent; color: #ffffff; font-weight: 700; font-size: 0.9rem; text-align: center; text-decoration: none; display: block; box-sizing: border-box;">
-            Book Storage Space
-          </a>
-        </div>
-
-        <!-- Service Card 6 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.6); border-radius: 16px; padding: 30px 25px; text-align: left; box-shadow: 0 10px 30px rgba(245, 158, 11, 0.15); display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <div style="width: 48px; height: 48px; background: rgba(245, 158, 11, 0.2); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.2rem; margin-bottom: 20px;">
-              <i class="fas fa-truck-moving"></i>
-            </div>
-            <h3 style="font-size: 1.3rem; font-weight: 700; color: #ffffff; margin-bottom: 12px;">Intercity &amp; Domestic Shifting</h3>
-            <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin-bottom: 20px;">
-              Smooth intercity shifting from Matwari to Kolkata, Delhi, Patna, Bangalore, Mumbai, and all major cities. As experienced <strong>packers and movers hazaribagh to noida</strong>, we provide transit insurance and GPS vehicle tracking.
-            </p>
-            <ul style="list-style: none; padding: 0; margin: 0 0 25px 0; color: #cbd5e1; font-size: 0.88rem; line-height: 1.8;">
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Pan-India intercity transport network</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Full transit insurance policy coverage</li>
-              <li><span style="color: #f59e0b; font-weight: 700; margin-right: 8px;">&check;</span> Real-time GPS location updates</li>
-            </ul>
-          </div>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Intercity%20Shifting%20from%20Matwari" title="Book Intercity Shifting" target="_blank" style="width: 100%; padding: 12px; border: 1.5px solid #f59e0b; border-radius: 10px; background: transparent; color: #ffffff; font-weight: 700; font-size: 0.9rem; text-align: center; text-decoration: none; display: block; box-sizing: border-box;">
-            Book Intercity Shifting
-          </a>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: How Shifting Works Timeline -->
-  <section class="shifting-process-section" style="padding: 65px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          SIMPLE &amp; HASSLE-FREE JOURNEY
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          How Shifting Works with Top <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          Relocating with Shree Ashirwad is fast and straightforward. Follow our simple 4-step moving timeline designed by expert <strong>packers and movers hazaribagh to noida</strong> to ensure an effortless shifting experience from pickup to final unboxing in Matwari.
-        </p>
-      </div>
-
-      <!-- 4 Timeline Step Cards Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 25px; margin-top: 25px;">
-        
-        <!-- Step 01 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 22px; text-align: left; position: relative; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="position: absolute; top: -15px; right: 20px; width: 36px; height: 36px; background: linear-gradient(135deg, #e11d48 0%, #f59e0b 100%); color: #ffffff; border-radius: 50%; font-weight: 800; font-size: 0.9rem; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(225, 29, 72, 0.4);">
-            01
-          </div>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 20px;">
-            <i class="fas fa-clipboard-list"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Book &amp; Get Instant Estimate</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Submit your moving details via website form or WhatsApp call. Our team of <strong>packers and movers hazaribagh to noida</strong> in Matwari calculates a clear, transparent shifting estimate right away.
-          </p>
-        </div>
-
-        <!-- Step 02 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 22px; text-align: left; position: relative; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="position: absolute; top: -15px; right: 20px; width: 36px; height: 36px; background: linear-gradient(135deg, #e11d48 0%, #f59e0b 100%); color: #ffffff; border-radius: 50%; font-weight: 800; font-size: 0.9rem; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(225, 29, 72, 0.4);">
-            02
-          </div>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 20px;">
-            <i class="fas fa-box"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Multi-Layer Safe Packing</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            On moving day, our professional packing crew arrives with premium bubble wrap, corrugated boxes, and foam sheets to protect all household items carefully.
-          </p>
-        </div>
-
-        <!-- Step 03 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 22px; text-align: left; position: relative; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="position: absolute; top: -15px; right: 20px; width: 36px; height: 36px; background: linear-gradient(135deg, #e11d48 0%, #f59e0b 100%); color: #ffffff; border-radius: 50%; font-weight: 800; font-size: 0.9rem; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(225, 29, 72, 0.4);">
-            03
-          </div>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 20px;">
-            <i class="fas fa-truck"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Safe Loading &amp; Transit</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Packed goods are loaded securely into enclosed container trucks. As trusted <strong>packers and movers hazaribagh to noida</strong> in Matwari, we track vehicle transit via live satellite GPS.
-          </p>
-        </div>
-
-        <!-- Step 04 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px 22px; text-align: left; position: relative; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="position: absolute; top: -15px; right: 20px; width: 36px; height: 36px; background: linear-gradient(135deg, #e11d48 0%, #f59e0b 100%); color: #ffffff; border-radius: 50%; font-weight: 800; font-size: 0.9rem; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(225, 29, 72, 0.4);">
-            04
-          </div>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 20px;">
-            <i class="fas fa-home"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Unloading &amp; Final Setup</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            At your destination, our staff unloads, unboxes, and reassembles furniture in your designated rooms to complete a 100% successful move.
-          </p>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: Understanding Relocation Costs & Transparent Billing -->
-  <section class="relocation-costs-section" style="padding: 65px 0; background: #070d19; color: #ffffff;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          TRANSPARENT BILLING &amp; COST FACTORS
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Understanding Relocation Costs with <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          We believe in complete financial transparency with zero hidden charges. Relocation rates depend on key logistical variables. Learn how our certified <strong>packers and movers hazaribagh to noida</strong> calculate fair, budget-friendly shifting estimates customized for your move in Matwari.
-        </p>
-      </div>
-
-      <!-- 4 Cost Factor Cards Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; margin-top: 25px;">
-        
-        <!-- Factor 1 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 25px 20px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 42px; height: 42px; background: rgba(225, 29, 72, 0.2); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #e11d48; font-size: 1.1rem; margin-bottom: 18px;">
-            <i class="fas fa-boxes"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Volume of Household Goods</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            The overall size of your move (1 BHK, 2 BHK, 3 BHK, or villa) determines the size of the container truck required, volume of bubble film, and number of handling staff deployed by our <strong>packers and movers hazaribagh to noida</strong>.
-          </p>
-        </div>
-
-        <!-- Factor 2 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 25px 20px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 42px; height: 42px; background: rgba(225, 29, 72, 0.2); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #e11d48; font-size: 1.1rem; margin-bottom: 18px;">
-            <i class="fas fa-route"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Relocation Distance</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Local shifting within Matwari locality areas involves lower fuel costs compared to intercity moving across state borders, which includes highway toll taxes, state permits, and transit time considerations.
-          </p>
-        </div>
-
-        <!-- Factor 3 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 25px 20px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 42px; height: 42px; background: rgba(225, 29, 72, 0.2); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #e11d48; font-size: 1.1rem; margin-bottom: 18px;">
-            <i class="fas fa-box-open"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Packing Grade &amp; Custom Crating</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Standard multi-layer packing vs premium wooden crating for delicate items like glass dining tables, LED TVs, and antique artwork is factored into the customized quotation by our <strong>packers and movers hazaribagh to noida</strong>.
-          </p>
-        </div>
-
-        <!-- Factor 4 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 25px 20px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="width: 42px; height: 42px; background: rgba(225, 29, 72, 0.2); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #e11d48; font-size: 1.1rem; margin-bottom: 18px;">
-            <i class="fas fa-building"></i>
-          </div>
-          <h3 style="font-size: 1.15rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Floor Level &amp; Elevator Access</h3>
-          <p style="font-size: 0.88rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Moving items from high-rise apartments without elevators requires extra manpower and manual carrying up flights of stairs, which is accounted for in your customized shifting quote.
-          </p>
-        </div>
-
-      </div>
-
-      <!-- 100% Fixed Price Guarantee Banner -->
-      <div style="background: linear-gradient(135deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.9) 100%); border: 1.5px solid rgba(245, 158, 11, 0.6); border-left: 5px solid #e11d48; border-radius: 16px; padding: 30px 35px; margin-top: 35px; box-shadow: 0 15px 35px rgba(0,0,0,0.4); text-align: left;">
-        <h3 style="font-size: 1.35rem; font-weight: 800; color: #f59e0b; margin-bottom: 10px;">
-          100% Fixed Price Guarantee &amp; Transparent Quotations
-        </h3>
-        <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.65; margin-bottom: 20px;">
-          Unlike unverified local vendors who demand unexpected extra fees on moving day, our professional <strong>packers and movers hazaribagh to noida</strong> deliver itemized, written quotes before starting work. Every estimate includes loading, unloading, packing materials, transit insurance options, and GST billing.
-        </p>
-        
-        <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 25px; font-size: 0.88rem; color: #ffffff; font-weight: 600;">
-          <div><span style="color: #f59e0b; margin-right: 6px;">&check;</span> Written contract with zero hidden charges</div>
-          <div><span style="color: #f59e0b; margin-right: 6px;">&check;</span> Free pre-move site survey or virtual consultation</div>
-          <div><span style="color: #f59e0b; margin-right: 6px;">&check;</span> IBA-approved GST invoices for easy claim filing</div>
-        </div>
-
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20request%20a%20Custom%20Price%20Estimate%20for%20Matwari" title="Request Custom Price Estimate" target="_blank" style="padding: 12px 28px; background: linear-gradient(135deg, #d32f2f 0%, #f59e0b 100%); color: #ffffff; border-radius: 30px; font-weight: 700; font-size: 0.95rem; text-decoration: none; display: inline-block; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          Request Custom Price Estimate
-        </a>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: Operational Excellence & Shifting Logistics Fleet -->
-  <section class="operational-excellence-section" style="padding: 65px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          OPERATIONAL EXCELLENCE
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Our Shifting Process &amp; Logistics Fleet with Top <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          Take a look at how our experienced moving crews operate. As leading <strong>packers and movers hazaribagh to noida</strong>, we maintain a modern fleet of GPS-equipped covered container trucks, specialized vehicle trailers, and professional packing gear to ensure maximum safety across Matwari.
-        </p>
-      </div>
-
-      <!-- 6 Operational Stage Cards Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin-top: 25px;">
-        
-        <!-- Stage 01 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 22px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; margin-bottom: 16px; display: inline-block;">
-            Stage 01 &bull; Household Packing
-          </span>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 18px;">
-            <i class="fas fa-box"></i>
-          </div>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Multi-Layer Household Wrapping</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Our expert <strong>packers and movers hazaribagh to noida</strong> wrap sofas, wooden wardrobes, and glass cabinets in multi-layer bubble film, heavy corrugated sheets, and stretch wrap to prevent scratches during transport.
-          </p>
-        </div>
-
-        <!-- Stage 02 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 22px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; margin-bottom: 16px; display: inline-block;">
-            Stage 02 &bull; Heavy Loading
-          </span>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 18px;">
-            <i class="fas fa-dolly"></i>
-          </div>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Safe Cargo &amp; Furniture Loading</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Trained loaders utilize ramps, sliders, and heavy-duty belts to safely lift double beds, refrigerators, and washing machines into closed trucks without damage.
-          </p>
-        </div>
-
-        <!-- Stage 03 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 22px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; margin-bottom: 16px; display: inline-block;">
-            Stage 03 &bull; Container Transport
-          </span>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 18px;">
-            <i class="fas fa-truck"></i>
-          </div>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Enclosed GPS Shifting Fleet</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Weatherproof, fully enclosed container trucks protecting your goods from rain, dust, and transit hazards while being tracked live via satellite GPS by our <strong>packers and movers hazaribagh to noida</strong>.
-          </p>
-        </div>
-
-        <!-- Stage 04 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 22px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; margin-bottom: 16px; display: inline-block;">
-            Stage 04 &bull; Vehicle Transport
-          </span>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 18px;">
-            <i class="fas fa-car"></i>
-          </div>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Hydraulic Car &amp; Bike Carriers</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Dedicated hydraulic car trailers and belt-locked bike containers ensuring scratch-free, zero-mileage transportation connecting Matwari to any destination in India.
-          </p>
-        </div>
-
-        <!-- Stage 05 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 22px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; margin-bottom: 16px; display: inline-block;">
-            Stage 05 &bull; Unpacking &amp; Setup
-          </span>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 18px;">
-            <i class="fas fa-home"></i>
-          </div>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Room-by-Room Setup &amp; Unboxing</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Upon arrival, our professional <strong>packers and movers hazaribagh to noida</strong> unpack boxes, re-assemble beds and dining tables, and arrange furniture in your designated rooms.
-          </p>
-        </div>
-
-        <!-- Stage 06 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 22px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; margin-bottom: 16px; display: inline-block;">
-            Stage 06 &bull; Storage Warehouse
-          </span>
-          <div style="width: 44px; height: 44px; background: rgba(245, 158, 11, 0.15); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f59e0b; font-size: 1.15rem; margin-bottom: 18px;">
-            <i class="fas fa-warehouse"></i>
-          </div>
-          <h3 style="font-size: 1.2rem; font-weight: 700; color: #ffffff; margin-bottom: 12px; line-height: 1.35;">Pest-Controlled Warehouse Storage</h3>
-          <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Safe short-term and long-term storage facility in Matwari equipped with 24/7 CCTV surveillance, fire alarms, and moisture-controlled units for your household goods.
-          </p>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: Essential Moving Tips & Expert Shifting Guide -->
-  <section class="moving-tips-section" style="padding: 65px 0; background: #070d19; color: #ffffff;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          SHIFTING GUIDE &amp; EXPERT ADVICE
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Essential Moving Tips by Top <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          Planning your upcoming household or office move? Read expert advice and packing guidelines prepared by experienced <strong>packers and movers hazaribagh to noida</strong> to ensure an organized, damage-free shifting journey in Matwari.
-        </p>
-      </div>
-
-      <!-- 4 Moving Tips Cards Grid (2x2) -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin-top: 25px;">
-        
-        <!-- Tip Card 1 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px;">
-            <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; display: inline-block;">
-              HOME SHIFTING
-            </span>
-            <span style="color: #94a3b8; font-size: 0.8rem;">
-              <i class="far fa-clock" style="margin-right: 4px;"></i> 4 Min Read
-            </span>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 14px; line-height: 1.35;">How to Prepare Household Items Before Shifting Day</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Declutter unused items room by room, defrost your refrigerator 24 hours prior, keep essential medical &amp; personal documents in a handbag, and label fragile boxes clearly before your <strong>packers and movers hazaribagh to noida</strong> arrive.
-          </p>
-        </div>
-
-        <!-- Tip Card 2 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px;">
-            <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; display: inline-block;">
-              SAFETY ADVICE
-            </span>
-            <span style="color: #94a3b8; font-size: 0.8rem;">
-              <i class="far fa-clock" style="margin-right: 4px;"></i> 3 Min Read
-            </span>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 14px; line-height: 1.35;">10 Items You Should Never Pack in a Shifting Truck</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Avoid loading hazardous liquids, gas cylinders, paint thinners, cash, or jewelry into general transit trucks. Professional <strong>packers and movers hazaribagh to noida</strong> recommend carrying personal valuables safely in your private vehicle.
-          </p>
-        </div>
-
-        <!-- Tip Card 3 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px;">
-            <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; display: inline-block;">
-              VERIFICATION CHECKLIST
-            </span>
-            <span style="color: #94a3b8; font-size: 0.8rem;">
-              <i class="far fa-clock" style="margin-right: 4px;"></i> 5 Min Read
-            </span>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 14px; line-height: 1.35;">How to Identify Authentic Registered Packers and Movers Hazaribagh to Noida</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Verify official GST registration, IBA approval certificates, physical warehouse office in Matwari, and demand written contracts to avoid unverified local brokers posing as genuine <strong>packers and movers hazaribagh to noida</strong>.
-          </p>
-        </div>
-
-        <!-- Tip Card 4 -->
-        <div style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 28px 25px; text-align: left; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px;">
-            <span style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); border-radius: 20px; font-size: 0.75rem; font-weight: 700; padding: 4px 14px; display: inline-block;">
-              VEHICLE SHIFTING
-            </span>
-            <span style="color: #94a3b8; font-size: 0.8rem;">
-              <i class="far fa-clock" style="margin-right: 4px;"></i> 4 Min Read
-            </span>
-          </div>
-          <h3 style="font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 14px; line-height: 1.35;">Car &amp; Bike Shifting Checklist: Preventing Transit Scratches</h3>
-          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.65; margin: 0;">
-            Wash your vehicle to inspect pre-existing scratches, keep fuel tank level low (around 25%), remove personal accessories, and record odometer readings before handing over keys to your <strong>packers and movers hazaribagh to noida</strong>.
-          </p>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section: Custom FAQ Accordion & Schema JSON-LD -->
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the estimated cost of hiring packers and movers hazaribagh to noida in Matwari?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Relocation costs in Matwari depend on the volume of goods, transport distance, and packing quality. Local shifting in Matwari typically starts from ₹3,000 to ₹12,000 for 1-3 BHK apartments, while intercity transport varies based on distance. We offer free, transparent, itemized estimates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How early should I book packers and movers hazaribagh to noida for shifting in Matwari?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We recommend booking your move at least 2 to 4 days in advance for local shifting in Matwari, and 5 to 7 days prior for peak weekend or month-end intercity relocations to secure dedicated container trucks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do your packers and movers hazaribagh to noida provide transit insurance coverage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide 100% full transit insurance coverage for household goods, commercial stock, and vehicles shifted across Matwari and pan-India routes to safeguard against accidental damage or loss."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What multi-layer packing materials are used for fragile items in Matwari?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our moving crew in Matwari uses heavy-duty bubble wraps, high-density corrugated boxes, stretch film, edge corner guards, and custom wooden crates for glass items, TVs, and electronic appliances."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there any hidden fees or surprise charges on moving day in Matwari?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, Shree Ashirwad operates with a 100% Fixed Price Guarantee. All quotes provided by our certified packers and movers hazaribagh to noida in Matwari are written and itemized, including loading, unloading, packing materials, and GST billing."
-      }
-    }
-  ]
+<style>
+.trust-metrics-section {
+  width: 100%;
+  background: #070d1e;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  padding: 30px 0;
+  box-sizing: border-box;
 }
-  </script>
-
-  <section class="faq-section" style="padding: 65px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="text-align: center; margin-bottom: 45px;">
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 16px;">
-          FREQUENTLY ASKED QUESTIONS
-        </span>
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.3;">
-          Got Questions About <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span> in Matwari?
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto; line-height: 1.7;">
-          Find detailed answers to common queries regarding shifting estimates, packing safety, insurance coverage, and booking procedures for <strong>packers and movers hazaribagh to noida</strong> in Matwari.
-        </p>
+.trust-metrics-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.trust-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  width: 100%;
+}
+@media (max-width: 860px) {
+  .trust-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 480px) {
+  .trust-metrics-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+<section class="trust-metrics-section">
+  <div class="trust-metrics-container">
+    <div class="trust-metrics-grid">
+    
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(245, 158, 11, 0.15); color: #f59e0b; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-truck-moving"></i>
+        </div>
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">22,000+</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">Verified Moves Completed</div>
       </div>
 
-      <!-- FAQ Accordion Container -->
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        
-        <!-- FAQ Item 1 -->
-        <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden; transition: all 0.3s ease;">
-          <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; outline: none; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-            <span><strong style="color: #f59e0b; margin-right: 8px;">Q1.</strong> What is the estimated cost of hiring packers and movers hazaribagh to noida in Matwari?</span>
-            <span style="color: #f59e0b; font-size: 1.2rem; font-weight: 800;">&#43;</span>
-          </summary>
-          <div style="padding: 0 24px 20px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; border-top: 1px solid rgba(255,255,255,0.08); margin-top: 10px; padding-top: 15px;">
-            Relocation costs in Matwari depend on the volume of goods, transport distance, and packing quality. Local shifting in Matwari typically starts from ₹3,000 to ₹12,000 for 1-3 BHK apartments, while intercity transport varies based on distance. We offer free, transparent, itemized estimates.
-          </div>
-        </details>
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(16, 185, 129, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(16, 185, 129, 0.15); color: #10b981; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-star"></i>
+        </div>
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">4.9 / 5.0</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">Google &amp; Justdial Rating</div>
+      </div>
 
-        <!-- FAQ Item 2 -->
-        <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden; transition: all 0.3s ease;">
-          <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; outline: none; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-            <span><strong style="color: #f59e0b; margin-right: 8px;">Q2.</strong> How early should I book packers and movers hazaribagh to noida for shifting in Matwari?</span>
-            <span style="color: #f59e0b; font-size: 1.2rem; font-weight: 800;">&#43;</span>
-          </summary>
-          <div style="padding: 0 24px 20px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; border-top: 1px solid rgba(255,255,255,0.08); margin-top: 10px; padding-top: 15px;">
-            We recommend booking your move at least 2 to 4 days in advance for local shifting in Matwari, and 5 to 7 days prior for peak weekend or month-end intercity relocations to secure dedicated container trucks.
-          </div>
-        </details>
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(59, 130, 246, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(59, 130, 246, 0.15); color: #3b82f6; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-shield-alt"></i>
+        </div>
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">100% Insured</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">All-Risk Marine Policy</div>
+      </div>
 
-        <!-- FAQ Item 3 -->
-        <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden; transition: all 0.3s ease;">
-          <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; outline: none; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-            <span><strong style="color: #f59e0b; margin-right: 8px;">Q3.</strong> Do your packers and movers hazaribagh to noida provide transit insurance coverage?</span>
-            <span style="color: #f59e0b; font-size: 1.2rem; font-weight: 800;">&#43;</span>
-          </summary>
-          <div style="padding: 0 24px 20px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; border-top: 1px solid rgba(255,255,255,0.08); margin-top: 10px; padding-top: 15px;">
-            Yes, we provide 100% full transit insurance coverage for household goods, commercial stock, and vehicles shifted across Matwari and pan-India routes to safeguard against accidental damage or loss.
-          </div>
-        </details>
-
-        <!-- FAQ Item 4 -->
-        <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden; transition: all 0.3s ease;">
-          <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; outline: none; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-            <span><strong style="color: #f59e0b; margin-right: 8px;">Q4.</strong> What multi-layer packing materials are used for fragile items in Matwari?</span>
-            <span style="color: #f59e0b; font-size: 1.2rem; font-weight: 800;">&#43;</span>
-          </summary>
-          <div style="padding: 0 24px 20px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; border-top: 1px solid rgba(255,255,255,0.08); margin-top: 10px; padding-top: 15px;">
-            Our moving crew in Matwari uses heavy-duty bubble wraps, high-density corrugated boxes, stretch film, edge corner guards, and custom wooden crates for glass items, TVs, and electronic appliances.
-          </div>
-        </details>
-
-        <!-- FAQ Item 5 -->
-        <details style="background: #0f172a; border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; overflow: hidden; transition: all 0.3s ease;">
-          <summary style="padding: 18px 24px; color: #ffffff; font-weight: 700; font-size: 1.05rem; cursor: pointer; outline: none; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-            <span><strong style="color: #f59e0b; margin-right: 8px;">Q5.</strong> Are there any hidden fees or surprise charges on moving day in Matwari?</span>
-            <span style="color: #f59e0b; font-size: 1.2rem; font-weight: 800;">&#43;</span>
-          </summary>
-          <div style="padding: 0 24px 20px 24px; color: #cbd5e1; font-size: 0.95rem; line-height: 1.7; border-top: 1px solid rgba(255,255,255,0.08); margin-top: 10px; padding-top: 15px;">
-            No, Shree Ashirwad operates with a 100% Fixed Price Guarantee. All quotes provided by our certified packers and movers hazaribagh to noida in Matwari are written and itemized, including loading, unloading, packing materials, and GST billing.
-          </div>
-        </details>
-
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(168, 85, 247, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(168, 85, 247, 0.15); color: #a855f7; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-file-invoice-dollar"></i>
+        </div>
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">IBA Approved</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">ISO 9001:2015 Registered</div>
       </div>
 
     </div>
+  </div>
+</section>
+
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">FLEET &amp; TELEMATICS</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Dedicated Container Truck Fleet Specifications &amp; Satellite GPS Telematics on Packers And Movers Hazaribagh-Noida Corridor</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">At Shree Ashirwad Packers and Movers, we specialize in providing reliable and efficient transportation services for your household belongings between Hazaribagh and Noida.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Our specialized fleet includes three types of MX enclosed containers designed specifically for safe and smooth transportation of your possessions.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>These containers are equipped with air-suspension systems and speed governors calibrated to a safe speed of 60 km/h for optimal safety.</span></li></ul>
+
+<p>Our 18ft, 22ft, and 32ft MX enclosed containers ensure the protection of your belongings during transit. The air-suspension systems provide a smooth ride, reducing the chances of damage due to bumps and jerks.</p>
+<p>Additionally, the speed governors help maintain consistent transportation speeds, further safeguarding your belongings. Furthermore, automated milestone alerts are sent to clients via WhatsApp, keeping them updated on the progress of their belongings during transit.</p>
+
+<h3>Protocol Cards:</h3>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol Title 1: 18ft Enclosed Container:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our 18ft containers are perfectly suited for smaller residential moves or when space is at a premium. They are equipped with air-suspension systems and speed governors, ensuring a safe journey for your possessions. The container includes built-in storage compartments for easy organization of your belongings.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol Title 2: 22ft Enclosed Container:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Suitable for larger residential moves, our 22ft containers offer ample space for your belongings while maintaining the same level of security provided by our 18ft containers. They are equipped with air-suspension systems and speed governors to ensure a safe and stable transportation journey.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol Title 3: 32ft Enclosed Container:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">For larger household or office relocations, our 32ft containers offer ample space for your belongings while maintaining the same level of security provided by our smaller containers. They are equipped with air-suspension systems and speed governors, ensuring a safe and stable transportation journey.</p>
+<ul style="list-style: none; padding-left: 0; margin-top: 14px; margin-bottom: 0; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px;">
+  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
+    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
+    <span>Additionally, these containers feature larger storage compartments for efficient organization of your items</span>
+  </li>
+</ul>
+  </div>
+</div>
+
+<p>Our professional team of packers and movers in Hazaribagh uses these specialized containers to ensure the security and safe transportation of your household or office belongings. The containers are designed to protect your possessions from external elements and potential damages during transit.</p>
+
+<h3>Protocol Title 4: Container Preparation</h3>
+
+<ul>
+  <li><strong>Step 1: Inspection and Assessment:</strong> Our team carefully inspects and assesses your belongings to create an inventory list for transparency and ensure a smooth moving process.</li>
+
+  <li><strong>Step 2: Loading:</strong> Our experienced packers load your belongings with utmost care, ensuring a secure and stable loading process.</li>
+
+  <li><strong>Step 3: Stacking:</strong> Our team meticulously stacks the loaded containers, ensuring stability and safety during transit.</li>
+
+  <li><strong>Step 4: Sealing:</strong> The containers are carefully sealed to prevent any unauthorized access during transportation.</li>
+
+  <li><strong>Step 5: Tracking:</strong> We provide you with a live GPS tracking system to keep you informed throughout the journey.</li>
+</ul>
+
+<p>Our comprehensive approach ensures a hassle-free experience for our valued customers. Our team of professionals follows a strict protocol to ensure the safe transportation of your belongings from Hazaribagh to Noida.</p></div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="dynamic-topic-table-section" style="padding: 55px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        ROUTE FREIGHT MATRIX
+      </span>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        Corridor Freight Tariff &amp; Transit Schedule: Packers And Movers Hazaribagh to Noida (1224 km)
+      </h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
+        Verified highway corridor transit pricing via NH 19 (Grand Trunk Road Corridor via Varanasi, Prayagraj, and Kanpur) with zero hidden surcharges
+      </p>
+    </div>
+
+    <div style="overflow-x: auto; background: #0f172a; border-radius: 14px; border: 1.5px solid rgba(255,255,255,0.1); box-shadow: 0 15px 35px rgba(0,0,0,0.45);">
+      <table style="width: 100%; border-collapse: collapse; text-align: left;">
+        <thead>
+          <tr style="border-bottom: 2px solid rgba(245, 158, 11, 0.4);"><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Consignment Category</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: rgba(16, 185, 129, 0.12); color: #10b981;">Standard Freight Band</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Transit Duration</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Included Protective Inclusions</th></tr>
+        </thead>
+        <tbody><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">1 BHK Household Shifting</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹11,500 - ₹17,500</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">3 - 5 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Multi-Layer Packing + Loading/Unloading</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">2 BHK Family Relocation</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹16,500 - ₹25,000</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">3 - 5 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Complete Bubble Wrap + Furniture Blankets</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">3 BHK / Villa Shifting</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹23,000 - ₹36,000</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">4 - 6 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Dedicated 19ft/22ft Closed Container</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Two-Wheeler Solo Carrier</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹3,800 - ₹6,800</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">2 - 4 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">7-Layer Protective Wrap + Wheel Chocks</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Car Carrier (Sedan / SUV)</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>₹11,000 - ₹19,500</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">3 - 5 Business Days</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Hydraulic Enclosed Auto Trailer + Insurance</td></tr></tbody>
+      </table>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="operational-photo-showcase-section" style="padding: 55px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        AUTHENTIC OPERATIONAL GALLERY
+      </span>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        Verified On-Site Operations: Packers and Movers Hazaribagh to Noida 8409531615
+      </h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
+        Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
+      </p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 24px;">
+      
+        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
+          <div style="height: 230px; overflow: hidden; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/shree-ashirwad-moving-truck-fleet.jpeg" alt="GPS-Enabled Closed Container Truck Fleet - Shree Ashirwad Packers and Movers" title="GPS-Tracked Container Fleet" width="320" height="230" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
+            </span>
+          </div>
+          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
+            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">GPS-Tracked Container Fleet</h3>
+            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">All-weather, closed-body container trucks equipped with satellite GPS tracking.</p>
+          </div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
+          <div style="height: 230px; overflow: hidden; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/interstate-highway-container-transit.jpeg" alt="Interstate Highway Freight Movement via National Corridors - Shree Ashirwad" title="Interstate Highway Transit" width="320" height="230" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
+            </span>
+          </div>
+          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
+            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Interstate Highway Transit</h3>
+            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Seamless interstate transit along National Highway corridors with automated e-Way bill clearance.</p>
+          </div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
+          <div style="height: 230px; overflow: hidden; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/professional-packing-crew-on-site.jpeg" alt="Uniformed, Experienced Moving Crew Performing Doorstep Relocation - Shree Ashirwad" title="Experienced Moving Team on Site" width="320" height="230" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
+            </span>
+          </div>
+          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
+            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Experienced Moving Team on Site</h3>
+            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Background-verified, trained moving specialists handling packing and loading with utmost care.</p>
+          </div>
+        </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">CORRIDOR LOGISTICS</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Highway Route Transit Logistics &amp; Corridor Operations from Packers And Movers Hazaribagh to Noida (1224 km)</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
+	<p>When opting for seamless household and office relocation services, the choice of Packers And Movers Hazaribagh To Noida is crucial. In this extensive analysis, we explore the operational procedures, transport strategies, and safety measures implemented by the company to ensure a hassle-free journey from Hazaribagh to Noida via NH 19.</p>
+
+	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Dual-Driver Rotations:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">To ensure constant vigilance and maintain optimal driving conditions, Packers And Movers employs a dynamic driver rotation system. Two drivers will accompany the transportation fleet during the journey. This ensures consistent performance and reduces the risk of fatigue or accidents.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Satellite GPS Checkpoints:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">To monitor the truck's location and progress, the company employs advanced satellite tracking technologies. This provides real-time updates and allows for quick response in case of any unforeseen situations or emergencies.</p>
+  </div>
+</div>
+
+	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Scheduled Rest Stops:</strong> To ensure the well-being of the drivers and maintain optimal driving conditions, Packers And Movers schedules regular rest stops at designated locations along the route. These stops are planned to reduce fatigue and maintain a safe driving environment.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Zero-Transshipment Container Security:</strong> To ensure the safety and security of the transported goods, Packers And Movers implements a zero-transshipment policy. The transportation of goods remains confined to a single, secure vehicle, eliminating the risk of goods being handled at multiple points.</span></li>
+	</ul>
+
+	<p>The journey from Hazaribagh to Noida via NH 19 involves efficient planning, ensuring a smooth transit. Here is a detailed itinerary:</p></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">TRANSIT SAFEGUARDS</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Shock-Absorbent Packaging &amp; Heavy-Duty Vibration Dampening for Packers And Movers Hazaribagh To Noida</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">The relocation journey from Hazaribagh to Noida presents unique logistical challenges, particularly regarding the transition from hilly terrain to the flat plains of North India.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Our multi-layer packaging protocol is specifically engineered to mitigate risks associated with prolonged highway vibration and the unpredictable monsoon conditions that frequently impact the route.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>By integrating industrial-grade materials with precise application techniques, we ensure that every item arrives in pristine condition.</span></li></ul>
+<p>This comprehensive approach eliminates the guesswork often found in standard services, providing a robust shield against environmental and mechanical stressors. Clients seeking reliable hazaribagh packers and movers can trust this system to protect high-value assets without compromise.</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 01</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Surfaces of delicate furniture and electronics are first protected using 80-GSM heavy-duty air-bubble wrap. This specific gauge provides superior shock absorption compared to standard materials, effectively cushioning items against minor impacts. Movers and packers hazaribagh teams apply this layer meticulously, ensuring full coverage of vulnerable corners and edges to prevent scratches and dents during initial handling.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-density edge guards are then installed on all hardwood and composite furniture pieces. These rigid protectors absorb direct force from stacking and transit, safeguarding structural integrity. This step is critical for clients looking at packers and movers hazaribagh services who own antique or premium furniture that requires specialized structural defense against lateral pressure.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 03</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">For larger appliances and boxed contents, we utilize corrugated fiberboard crating. This rigid outer shell provides a stable container that maintains shape under load. Understanding how do packers and movers packer furniture helps customers appreciate why crating is essential for heavy items that cannot be safely stacked without a solid framework to distribute weight evenly.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 04</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The final layer consists of stretch-film weatherproofing applied tightly over the entire crate or packed unit. This barrier creates a waterproof seal that prevents moisture ingress during heavy monsoon rains. It also compresses the layers, reducing air movement and further stabilizing the contents against the continuous vibration experienced on the long highway stretch to Noida.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 05</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">We maintain transparent pricing structures that reflect the quality of materials used. While packers and movers charges in greater noida can vary, our costs account for premium protective supplies. Real packers and movers greater noida uttar pradesh operations prioritize safety over cost-cutting, ensuring that the investment in protection yields a safe and intact delivery for every customer.</p>
+  </div>
+</div></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">STATUTORY CLEARANCE</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Statutory Interstate e-Way Bills, Regulatory Clearances &amp; 100% Marine Insurance for Packers And Movers Hazaribagh To Noida</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>When you move from Hazaribagh to Noida, a reputable <strong>hazaribagh packers and movers</strong> service will handle not only the physical packing but also the mandatory statutory paperwork and risk coverage that protect your belongings during transit.</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">GST e‑Way Bill:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Under the Goods and Services Tax Act, any consignment valued above ₹50,000 requires an e‑Way bill. The mover generates this electronic document, linking the shipper, consignee, and transporter, and uploads it to the GST portal. It serves as proof of compliance and helps avoid fines or detention at checkpoints.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">IBA‑approved Lorry Receipt (LR/Bilty):</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The Indian Banks’ Association (IBA) standardizes the LR/Bilty, which records the details of the cargo, vehicle, and parties involved. It is a legally binding receipt that confirms the mover’s responsibility for the goods until delivery. Look for a clear, signed LR when you hire movers and packers hazaribagh professionals.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">IRDAI Marine Transit Insurance:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Leading movers offer a comprehensive 100 % declared‑value policy approved by the Insurance Regulatory and Development Authority of India (IRDAI). This marine transit insurance covers accidental collisions, theft, fire, and even unforeseen delays such as roadblocks or natural calamities.</p>
+<ul style="list-style: none; padding-left: 0; margin-top: 14px; margin-bottom: 0; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px;">
+  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
+    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
+    <span>The coverage is calculated on the full declared value of your household items, ensuring you are fully compensated in case of loss</span>
+  </li>
+</ul>
+  </div>
+</div>
+
+<p>Choosing a reliable partner—whether you search for <em>packers and movers hazaribagh</em> or <em>real packers and movers greater noida uttar pradesh</em>—means you’ll also get transparent <em>packers and movers charges in greater noida</em>. These fees typically include packing material, labor, transportation, and insurance premiums, so there are no hidden costs.</p>
+
+<p>Professional teams in <em>greater noida west</em> know <em>how do packers and movers packer furniture</em> safely. They use sturdy corrugated boxes, bubble wrap, and custom‑cut wooden crates for fragile items, then label each package for easy identification.</p>
+
+<p>For visual reference, many movers showcase <em>household shifting transportation services images 350x200</em> on their websites, giving you a clear picture of the trucks, packing process, and care taken during loading and unloading.</p>
+
+<p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">In summary, a seamless move from Hazaribagh to Noida hinges on three pillars: accurate GST e‑Way bills, an IBA‑approved LR/Bilty, and full‑value IRDAI marine insurance.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>By selecting a trusted <strong>packers and movers</strong> firm that meets these statutory and risk‑management standards, you can enjoy a stress‑free relocation with confidence that your belongings are protected every step of the way.</span></li></ul></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">DESTINATION PROTOCOL</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Doorstep Delivery Handover, Inventory Verification &amp; Placement at Noida</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Upon arrival at the Noida site, the delivery team follows a strict protocol to guarantee that every item is accounted for, inspected, and positioned correctly, while ensuring the work area remains clean and safe.</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Daylight delivery verification against original inventory bilty</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The driver and site supervisor conduct an immediate visual check in natural light. Each package is matched line‑by‑line with the inventory bilty, noting any discrepancies, damages, or missing pieces on the bilty copy. Photographs of the loaded truck and the unpacked pallets are taken for records before any item is moved.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Testing of electrical and mechanical components</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Before placement, all powered equipment (e.g., monitors, printers, kitchen appliances) is plugged into a dedicated test socket. Functional checks include power‑on, basic operation, and safety switches. Mechanical items such as chairs, drawers, and shelving are examined for alignment, moving parts, and structural integrity.</p>
+<ul style="list-style: none; padding-left: 0; margin-top: 14px; margin-bottom: 0; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px;">
+  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
+    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
+    <span>Any fault is reported instantly to the logistics coordinator for replacement or repair</span>
+  </li>
+</ul>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Clean furniture placement</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Once cleared, each piece is positioned according to the floor‑plan drawing. Soft‑fibre gloves and lint‑free cloths are used to handle surfaces, preventing scratches or dust transfer. Leveling tools ensure that desks, tables, and cabinets sit evenly, and protective floor pads are placed under heavy items to avoid floor damage.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Swift removal of packing debris</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">As soon as an item is set, its packaging—cardboard, foam, plastic wrap, and pallets—is collected in pre‑designated waste bins. A crew of two handles debris removal, transporting it to the on‑site recycling station or loading zone for disposal.</p>
+<ul style="list-style: none; padding-left: 0; margin-top: 14px; margin-bottom: 0; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px;">
+  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
+    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
+    <span>The area is vacuumed and inspected for stray fragments before the next delivery cycle begins</span>
+  </li>
+</ul>
+  </div>
+</div>
+
+<p>The entire process is timed to finish within the allocated delivery window, typically 4–6 hours, and is documented in a hand‑over log signed by the delivery lead, the site manager, and the client representative. This ensures traceability, accountability, and a seamless transition from delivery to operational use.</p></div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="specifications-grid-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        Technical Specifications
+      </span>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        Operational Infrastructure & Transit Standards
+      </h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
+        Grounded engineering practices ensuring zero damage across every relocation corridor
+      </p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px;">
+      
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #f59e0b; color: #f59e0b; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-box-open"></i>
+      </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">7-Layer Multi-Packaging</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">80-GSM air-bubble film, high-density corrugated sheets, thermocol corner buffers, and tailored wooden crating for fragile electronics.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #10b981; color: #10b981; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-tachometer-alt"></i>
+      </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">Speed-Governed Fleet</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">Container trucks fitted with commercial speed governors calibrated to safety thresholds (60 km/h) to minimize transit collision risks.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #3b82f6; color: #3b82f6; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-road"></i>
+      </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">FASTag &amp; e-Way Clearance</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">Automated FASTag toll clearance and commercial e-Way bills ensure uninterrupted transit along major freight corridors.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #a855f7; color: #a855f7; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-stamp"></i>
+      </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">IBA Certified Protocols</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">ISO 9001:2015 certified operations ensuring all packing materials and transit practices strictly satisfy banking association standards.</p>
+    </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="statutory-documentation-section" style="padding: 50px 0; background: #0f172a; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        100% Transfer Allowance Reimbursement
+      </span>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        IBA Approved Billing &amp; Statutory Moving Documentation
+      </h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
+        Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
+      </p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 18px;">
+      
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 01</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">IBA Consignment Note (LR/Bilty)</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Lorry Receipt specifying truck registration number, driver verification, seal numbers, origin-destination nodes, and declared value.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 02</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">18% GST Compliant Tax Invoice</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Detailed tax invoice with registered GSTIN breakdown and HSN/SAC codes (9965/9967) valid for corporate and government reimbursement.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 03</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Itemized Packing Manifest</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Supervisor-verified numbered inventory checklist detailing package condition and individual item status signed during loading and delivery.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 04</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Pre-Transit Inspection Report</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Photographic handover sheet recording initial odometer readings, vehicle exterior condition, fuel levels, and personal asset declarations.</p>
+    </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- Section: Dedicated Jharkhand Regional Moving Network (Below Side) -->
+  <section style="padding: 50px 0; background: linear-gradient(135deg, #0b1530 0%, #101c40 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.3); border-bottom: 1.5px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
+        Statewide Relocation Network
+      </span>
+      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
+        Seamless Packers and Movers Connectivity Across Jharkhand
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto 10px auto; max-width: 920px;">
+        As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, our fleet network guarantees on-time delivery.
+      </p>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto; max-width: 920px;">
+        We maintain direct logistics corridors connecting to our flagship operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers in Ranchi</a>, delivering synchronized transit tracking, verified handling teams, and prompt door-to-door delivery across every district.
+      </p>
+    </div>
   </section>
 
-  
-
-<!-- Google Business Profile Verified Customer Trust Section -->
-<section style="padding: 35px 0; background: #070d19;">
-  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
-      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-        <div style="display: flex; align-items: center; gap: 12px;">
-          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-          </span>
-          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-        </div>
-        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-          View All Reviews on Google Maps &rarr;
-        </a>
+<section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
+      Frequently Asked Questions &bull; Packers and Movers Hazaribagh to Noida 8409531615
+    </h2>
+    
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What is the transit duration for consignments from Packers And Movers Hazaribagh to Noida?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Standard highway transit between Packers And Movers Hazaribagh and Noida takes approximately 3 to 5 Working Days via dedicated GPS-monitored container trucks with dual-driver rotations ensuring continuous safe movement.</p>
       </div>
-      
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How is my consignment protected against highway accidents or damage?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Every shipment travels with 100% declared-value marine transit insurance and our certified multi-layer packaging protocol, guaranteeing full cashless claim coverage in the rare event of transit damage.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track the moving container truck in real-time between Packers And Movers Hazaribagh and Noida?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, all Shree Ashirwad long-haul container trucks feature live GPS telematics. You receive milestone tracking updates directly on WhatsApp as the vehicle clears major highway checkposts.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Are your moving bills accepted for government or bank employee relocation claims?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, as an IBA-approved transport operator, we issue authentic GST tax invoices, computerized Lorry Receipts (Bilty), and itemized packing lists accepted across central/state government departments and PSUs.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What items are strictly prohibited inside long-haul freight containers?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Hazardous materials, inflammable liquids (petrol, kerosene, paints), pressurized gas cylinders, perishable foods, and personal valuables like jewelry or cash are strictly prohibited in freight containers.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How are tolls, state border permits, and octroi fees handled?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">All highway tolls, FASTag charges, and inter-state permits are completely factored into your transparent, fixed-price quotation with zero moving-day surcharges.</p>
+      </div>
+  </div>
+  <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the transit duration for consignments from Packers And Movers Hazaribagh to Noida?","acceptedAnswer":{"@type":"Answer","text":"Standard highway transit between Packers And Movers Hazaribagh and Noida takes approximately 3 to 5 Working Days via dedicated GPS-monitored container trucks with dual-driver rotations ensuring continuous safe movement."}},{"@type":"Question","name":"How is my consignment protected against highway accidents or damage?","acceptedAnswer":{"@type":"Answer","text":"Every shipment travels with 100% declared-value marine transit insurance and our certified multi-layer packaging protocol, guaranteeing full cashless claim coverage in the rare event of transit damage."}},{"@type":"Question","name":"Can I track the moving container truck in real-time between Packers And Movers Hazaribagh and Noida?","acceptedAnswer":{"@type":"Answer","text":"Yes, all Shree Ashirwad long-haul container trucks feature live GPS telematics. You receive milestone tracking updates directly on WhatsApp as the vehicle clears major highway checkposts."}},{"@type":"Question","name":"Are your moving bills accepted for government or bank employee relocation claims?","acceptedAnswer":{"@type":"Answer","text":"Yes, as an IBA-approved transport operator, we issue authentic GST tax invoices, computerized Lorry Receipts (Bilty), and itemized packing lists accepted across central/state government departments and PSUs."}},{"@type":"Question","name":"What items are strictly prohibited inside long-haul freight containers?","acceptedAnswer":{"@type":"Answer","text":"Hazardous materials, inflammable liquids (petrol, kerosene, paints), pressurized gas cylinders, perishable foods, and personal valuables like jewelry or cash are strictly prohibited in freight containers."}},{"@type":"Question","name":"How are tolls, state border permits, and octroi fees handled?","acceptedAnswer":{"@type":"Answer","text":"All highway tolls, FASTag charges, and inter-state permits are completely factored into your transparent, fixed-price quotation with zero moving-day surcharges."}}]}
+  </script>
+</section>
+<!-- Section: Route Directions Google Map & Transit Corridor -->
+  <section style="padding: 60px 0; background: #070d1e; color: #ffffff; border-top: 1.5px solid rgba(245, 158, 11, 0.25); border-bottom: 1.5px solid rgba(245, 158, 11, 0.25);">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <div style="text-align: center; margin-bottom: 35px;">
+        <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 8px;">
+          <i class="fas fa-route" style="margin-right: 6px;"></i> Verified Transit Corridor Route
+        </span>
+        <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
+          Highway Transit Route &amp; Logistics Map: <span style="color: #f59e0b;">Packers And Movers Hazaribagh to Noida</span>
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; max-width: 760px; margin: 10px auto 0 auto; line-height: 1.7;">
+          Direct highway transit route connecting our verified dispatch centers with 24/7 active satellite GPS tracking, toll checkpost clearance, and door-to-door escort.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; align-items: center; background: #0f1a36; padding: 28px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+        <div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">Packers And Movers Hazaribagh &rarr; Noida Corridor</span>
+          <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 800; margin: 6px 0 12px 0;">Packers And Movers Hazaribagh to Noida Express Transit Desk</h3>
+          <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 16px;">
+            Dedicated container transport corridor connecting doorstep packing in Packers And Movers Hazaribagh with prompt, safe delivery and unpacking across Noida.
+          </p>
+          <div style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
+            <div><strong style="color: #ffffff;"><i class="fas fa-map-pin" style="color: #10b981; margin-right: 6px;"></i> Origin Pickup Desk:</strong> Packers And Movers Hazaribagh Logistics Hub</div>
+            <div><strong style="color: #ffffff;"><i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 6px;"></i> Destination Hub:</strong> Noida Doorstep Delivery</div>
+            <div><strong style="color: #ffffff;"><i class="fas fa-phone-alt" style="color: #f59e0b; margin-right: 6px;"></i> Transit Helpline:</strong> <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="color: #38bdf8; text-decoration: none; font-weight: 600;"><?php echo SITE_PHONE; ?></a></div>
+            <div><strong style="color: #ffffff;"><i class="fas fa-satellite-dish" style="color: #f59e0b; margin-right: 6px;"></i> Live GPS Status:</strong> Active 24/7 Satellite Corridor Tracking</div>
+          </div>
+          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad%2C+I+would+like+to+book+shifting+on+the+Packers+And+Movers+Hazaribagh+to+Noida+route." target="_blank" style="padding: 10px 18px; background: #10b981; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
+              <i class="fab fa-whatsapp"></i> WhatsApp Route Desk
+            </a>
+            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 10px 18px; background: #e11d48; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
+              <i class="fas fa-phone-alt"></i> Call Move Manager
+            </a>
+          </div>
+        </div>
+        <div style="border-radius: 12px; overflow: hidden; border: 1.5px solid rgba(245, 158, 11, 0.35); height: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);">
+          <iframe 
+            src="https://maps.google.com/maps?saddr=Packers+And+Movers+Hazaribagh%2C+India&daddr=Noida%2C+India&output=embed" 
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade" 
+            title="Google Map Transit Route Directions from Packers And Movers Hazaribagh to Noida">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section style="padding: 30px 0; background: #070d19;">
+  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+    <!-- Google Business Profile Verified Customer Trust Section -->
+<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+      </span>
+      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+    </div>
+    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+      View All Reviews on Google Maps &rarr;
+    </a>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -949,122 +759,89 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
       </div>
     </div>
-
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">ST</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Sanjay Tripathy</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Interstate Household Shifting</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Shifted household goods with Shree Ashirwad Packers and Movers. Their 7-layer protective packaging ensured total safety of electronics and crockery across long highway transit. Completely transparent billing."
+        </p>
       </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #10b981; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">DM</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Deepak Malhotra</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 weeks ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Two-Wheeler Parcel Service</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Dispatched my Royal Enfield motorcycle safely. Enclosed container transport with wheel chocks and high-tensile ratchets ensured it reached with zero scratches or dents. Highly dependable service."
+        </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+  </div>
+</section>
+
+<section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
+      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
+    </h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
+      <a href="https://shreeashirwadpackersandmovers.com/ahmedabad-to-noida-packers-and-movers" title="Ahmedabad To Noida Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Ahmedabad To Noida Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/bangalore-to-noida-packers-and-movers" title="Bangalore To Noida Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bangalore To Noida Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/bike-transport-from-bangalore-to-noida" title="Bike Transport From Bangalore To Noida" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Bike Transport From Bangalore To Noida</a>
+      <a href="https://shreeashirwadpackersandmovers.com/delhi-to-noida-packers-and-movers" title="Delhi To Noida Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Delhi To Noida Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/ghaziabad-to-noida-packers-and-movers" title="Ghaziabad To Noida Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Ghaziabad To Noida Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
     </div>
   </div>
 </section>
 
-<!-- Section: Final Conversion Call to Action Banner -->
-  <section class="smooth-move-cta-section" style="padding: 55px 0; background: #070d19; color: #ffffff;">
-    <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-      
-      <div style="background: linear-gradient(135deg, #1e1b4b 0%, #0f172a 50%, #070d19 100%); border: 1.5px solid rgba(245, 158, 11, 0.4); border-radius: 20px; padding: 50px 30px; text-align: center; box-shadow: 0 20px 40px rgba(0,0,0,0.5);">
-        
-        <span class="pill-badge" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1.5px solid rgba(245, 158, 11, 0.3); padding: 6px 20px; border-radius: 30px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 20px;">
-          READY FOR A SMOOTH MOVE?
-        </span>
-        
-        <h2 style="font-size: 2.3rem; font-weight: 800; color: #ffffff; margin-bottom: 18px; line-height: 1.3;">
-          Book Top Rated <span style="color: #f59e0b;">Packers and Movers Hazaribagh to Noida</span> Today!
-        </h2>
-        
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 850px; margin: 0 auto 30px auto; line-height: 1.7;">
-          Join 10,000+ satisfied families and corporate clients across Matwari. Get 100% safe packing, real-time GPS vehicle tracking, and zero hidden costs with our trusted <strong>packers and movers hazaribagh to noida</strong>.
-        </p>
-
-        <!-- CTA Buttons Row -->
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
-          <a href="tel:+918409531615" title="Call Now" style="padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #f59e0b 100%); color: #ffffff; border-radius: 30px; font-weight: 700; font-size: 1rem; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 6px 20px rgba(225, 29, 72, 0.4);">
-            <i class="fas fa-phone-alt"></i> Call (+91) 8409531615
-          </a>
-          
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20book%20Packers%20and%20Movers%20Hazaribagh%20to%20Noida%20in%20Matwari" title="Chat on WhatsApp" target="_blank" style="padding: 14px 28px; background: #25D366; color: #ffffff; border-radius: 30px; font-weight: 700; font-size: 1rem; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);">
-            <i class="fab fa-whatsapp"></i> Chat on WhatsApp
-          </a>
-
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20want%20to%20get%20a%20Shifting%20Estimate%20for%20Matwari" title="Get Shifting Estimate" target="_blank" style="padding: 14px 28px; background: transparent; border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 30px; font-weight: 700; font-size: 1rem; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
-            <i class="fas fa-calculator"></i> Get Shifting Estimate
-          </a>
-        </div>
-
-        <!-- Horizontal Trust Highlights Divider -->
-        <div style="border-top: 1px solid rgba(255, 255, 255, 0.1); margin-top: 25px; padding-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; font-size: 0.88rem; color: #cbd5e1; font-weight: 600;">
-          <div><span style="color: #f59e0b; margin-right: 6px;">&check;</span> 100% Safe Multi-Layer Packing</div>
-          <div><span style="color: #f59e0b; margin-right: 6px;">&check;</span> IBA Approved GST Billing</div>
-          <div><span style="color: #f59e0b; margin-right: 6px;">&check;</span> Live Satellite GPS Tracking</div>
-          <div><span style="color: #f59e0b; margin-right: 6px;">&check;</span> Guaranteed On-Time Shifting</div>
-        </div>
-
-      </div>
-
+<section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
+  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
+      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Packers And Movers Hazaribagh To Noida</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> hazaribagh packers and movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers hazaribagh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers hazaribagh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers charges in greater noida</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> real packers and movers greater noida uttar pradesh</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers in greater noida west</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> how do packers and movers packer furniture</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> household shifting transportation services images 350x200</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> house hold material shifting transporters</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> shift furniture to hong kong from india</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> cost for house shifting from mehsana to sonipat</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> package and movers price</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers+and+packers+estimated+cost+india</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> in movers and packers gst invoice</span>
     </div>
-  </section>
-
-  <section style="padding: 40px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
-    <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">100% Safe</div><div style="font-size: 0.85rem; color: #cbd5e1;">7-Layer Protection</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">IBA Approved</div><div style="font-size: 0.85rem; color: #cbd5e1;">GST Claim Bills</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">GPS Tracked</div><div style="font-size: 0.85rem; color: #cbd5e1;">Closed Containers</div></div>
-        <div style="padding: 15px; background: rgba(23, 42, 84, 0.5); border-radius: 10px;"><div style="font-size: 1.8rem; font-weight: 800; color: #f59e0b;">2,500+</div><div style="font-size: 0.85rem; color: #cbd5e1;">Satisfied Moves</div></div>
-      </div>
-    </div>
-  </section>
-
-  <section style="padding: 60px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
-    <div class="container" style="max-width: 950px;">
-      <h2 style="font-size: 2rem; font-weight: 800; color: #ffffff;">Complete Relocation Logistics & Services for Packers and Movers Hazaribagh to Noida</h2>
-      <p style="font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;">Shree Ashirwad Packers and Movers is the premier relocation company serving Hazaribagh and surrounding regions. Moving your home, office, two-wheeler, or car requires absolute precision, professional packing materials, trained logistics handlers, and guaranteed zero-damage execution. Our dedicated fleet operates continuously across NH-33, NH-520, and major national routes connecting Hazaribagh to all major cities across India.</p>
-      <p style='font-size: 1.05rem; color: #cbd5e1; margin-top: 15px;'>Whether you are shifting locally in Hazaribagh or moving to long-distance destinations, we bring over 15 years of industry excellence. Our move supervisors conduct pre-move surveys, create itemized inventory lists, and apply 7-layer protective packaging combining bubble wrap, 5-ply corrugated sheets, stretch wrap, foam corner guards, and custom wooden crating for delicate Smart TVs and glass items.</p>
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Estimated Charges & Cost Breakdown for Packers and Movers Hazaribagh to Noida</h2>
-      <div style="overflow-x: auto; margin-top: 20px;">
-        <table style="width: 100%; border-collapse: collapse; background: #172a54; border-radius: 10px; overflow: hidden;">
-          <thead><tr style="background: #1c2541; color: #f59e0b;"><th style="padding: 14px;">Shifting Type</th><th style="padding: 14px;">Packaging Grade</th><th style="padding: 14px;">Vehicle Type</th><th style="padding: 14px;">Estimated Price (&#8377;)</th></tr></thead>
-          <tbody style="color: #cbd5e1; font-size: 0.9rem;">
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">1 BHK Shifting</td><td style="padding: 12px;">Standard 3-Layer</td><td style="padding: 12px;">Pickup Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;4,500 - &#8377;8,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">2 BHK Shifting</td><td style="padding: 12px;">Premium 5-Layer</td><td style="padding: 12px;">14ft Sealed Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;8,500 - &#8377;14,500</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">3 BHK Shifting</td><td style="padding: 12px;">7-Layer Heavy Crate</td><td style="padding: 12px;">17ft/19ft Container</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;14,500 - &#8377;22,000</td></tr>
-            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);"><td style="padding: 12px; font-weight: 700; color: #fff;">Bike Transport</td><td style="padding: 12px;">Paddy + Bubble Wrap</td><td style="padding: 12px;">Enclosed Carrier</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;2,500 - &#8377;5,500</td></tr>
-            <tr><td style="padding: 12px; font-weight: 700; color: #fff;">Car Carrier Shifting</td><td style="padding: 12px;">Wheel-Chock Safety Locks</td><td style="padding: 12px;">Covered Hydraulic Trailer</td><td style="padding: 12px; font-weight: 700; color: #f59e0b;">&#8377;6,500 - &#8377;14,500</td></tr>
-          </tbody>
-        </table>
-      </div>
-
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Our 5-Stage Damage-Free Relocation Workflow</h2>
-      <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">1. Pre-Move Survey & Written Quote</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Physical or virtual video survey to assess goods volume and provide transparent binding rates.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">2. Multi-Layer Protective Packaging</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Uniformed experts apply bubble wrap, corrugated sheets, foam guards, and custom wooden crating.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">3. Safe Loading & Anchorage</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Goods are loaded using hydraulic ramps and anchored with safety belts inside closed container trucks.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">4. Highway Transit & Live GPS Monitoring</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Vehicles move under active GPS surveillance with regular position updates sent to clients.</p></div>
-        <div style="background: #101c40; padding: 20px; border-radius: 10px;"><h3 style="color: #f59e0b; font-size: 1.1rem;">5. Unloading, Unboxing & Reassembly</h3><p style="font-size: 0.9rem; color: #cbd5e1;">Complete door delivery, unpacking, furniture reassembly, and item positioning at destination.</p></div>
-      </div>
-
-      <h2 style="font-size: 1.8rem; font-weight: 800; color: #ffffff; margin-top: 40px;">Related Packers and Movers Services & Locations</h2>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" title="Packers and Movers in Hazaribagh Hub &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Hazaribagh Hub &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" title="Packers and Movers in Dhanbad &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Dhanbad &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" title="Packers and Movers in Bokaro &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Packers and Movers in Bokaro &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-ranchi" title="Hazaribagh to Ranchi Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Ranchi Shifting &rarr;</a></div>
-        <div style="background: #101c40; padding: 15px; border-radius: 8px;"><a href="<?php echo SITE_URL; ?>packers-and-movers-hazaribagh-to-patna" title="Hazaribagh to Patna Shifting &rarr;" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">Hazaribagh to Patna Shifting &rarr;</a></div>
-      </div>
+  </div>
+</section>
 
 </main>
-
-<script>
-function sendHeroWhatsAppLead(event, form) {
-  event.preventDefault();
-  var name = form.querySelector('[name="name"]').value;
-  var phone = form.querySelector('[name="phone"]').value;
-  var moveFrom = form.querySelector('[name="move_from"]').value;
-  var moveTo = form.querySelector('[name="move_to"]').value;
-  var extraMsg = form.querySelector('[name="message"]').value;
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nQuote Request:\n- Name: " + name + "\n- Phone: " + phone + "\n- From: " + moveFrom + "\n- To: " + moveTo;
-  if (extraMsg) { message += "\n- Details: " + extraMsg; }
-  window.location.href = "https://api.whatsapp.com/send?phone=919955554330&text=" + encodeURIComponent(message);
-}
-</script>
-
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
 

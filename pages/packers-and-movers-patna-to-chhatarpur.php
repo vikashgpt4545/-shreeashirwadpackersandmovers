@@ -2,7 +2,7 @@
 $page_title = "Packers and Movers Patna to Chhatarpur | Relocation Services";
 $page_description = "Hire trusted packers and movers from Patna to Chhatarpur for household shifting, vehicle transport, and office relocation with verified rates and live tracking.";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-chhatarpur.php";
-include '../includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <!-- Hero Section -->
@@ -548,7 +548,7 @@ function sendHeroWhatsAppLead(event) {
 }
 </script>
 
-<?php include '../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 
 <!-- Google Business Profile Verified Customer Trust Section -->

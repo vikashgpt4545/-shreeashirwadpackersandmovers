@@ -6,7 +6,7 @@ $page_description = "Reliable car transportation service in Khajani, Gorakhpur. 
 $page_keyword = "car transportation in khajani gorakhpur, car carrier service khajani, car movers khajani gorakhpur, vehicle transport khajani";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/car-transportation-in-khajani-gorakhpur.php";
 
-include '../includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
 <section class="hero-section" style="padding: 70px 0 50px; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.1);">

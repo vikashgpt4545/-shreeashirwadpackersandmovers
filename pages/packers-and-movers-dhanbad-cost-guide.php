@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title = "Packers and Movers in Dhanbad Cost Guide | 8409531615";
 $page_desc = "Complete Packers and Movers in Dhanbad Cost Guide. Detailed breakdown of 1BHK, 2BHK, 3BHK home relocation rates, packing material costs, vehicle transport pricing & IBA billing. Call 8409531615.";
-$page_keywords = "packers and movers in dhanbad cost guide, movers and packers dhanbad rate list, dhanbad shifting price calculation, household relocation cost dhanbad, 1bhk shifting rate dhanbad, 2bhk moving cost dhanbad, 3bhk relocation pricing dhanbad, bike transport cost dhanbad, car carrier rate dhanbad, IBA approved moving bill dhanbad, packing material cost dhanbad, local shifting pricing dhanbad";
+$page_keywords = "Packers And Movers Dhanbad Cost Guide, home shifting olx, transport for moving furniture, tranporters to shift light house hold articles bachelor, dindigul to srivilliputhur luggage movers, movers charges in india, how much cost for shifting household, fridge transportation cost, iba approved packers and movers near me, iba approved packers and movers in thane, iso certified movers and packers, southern safe packers and movers, dwarka courier packing matrieal, lifeline packers and movers, best packers and movers in mumbaihyderabad";
 
 $page_city = "Dhanbad";
 
@@ -22,430 +22,545 @@ $faq_list = [
 
 require_once __DIR__ . '/../includes/header.php';
 ?>
-
-<main class="site-main">
-
-  <!-- Visual Breadcrumb Navigation Bar -->
-  <div class="breadcrumb-wrapper">
-    <div class="container">
-      <div class="breadcrumb-list">
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>" title="Home">Home</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" title="Dhanbad">Dhanbad</a></span>
-        <span class="breadcrumb-separator">/</span>
-        <span class="breadcrumb-item active">Packers and Movers in Dhanbad Cost Guide</span>
+<main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+<section class="hero-section" style="padding: 70px 0 50px; background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.1);">
+  <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 15px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 40px; align-items: center;">
+      <div>
+        <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); border: 1px solid #f59e0b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; margin-bottom: 15px; letter-spacing: 0.5px;">
+          <i class="fas fa-shield-alt"></i> Verified Moving Guide &amp; Advisory
+        </span>
+        <h1 style="font-size: 2.2rem; font-weight: 800; line-height: 1.25; margin-bottom: 15px; color: #ffffff;">Packers and Movers in Dhanbad Cost Guide | 8409531615</h1>
+        <p style="font-size: 1.05rem; line-height: 1.7; color: #cbd5e1; margin-bottom: 25px;">
+          Trust Shree Ashirwad Packers and Movers for dependable, 100% insured, and damage-free moving solutions. Dedicated container trucks, certified packing crews, and instant WhatsApp survey quotes.
+        </p>
+        <div style="display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 25px; color: #cbd5e1; font-size: 0.9rem; font-weight: 500;">
+          <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> IBA Approved Bills</span>
+          <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> GPS-Monitored Fleet</span>
+          <span style="display: inline-flex; align-items: center; gap: 6px;"><i class="fas fa-check-circle" style="color: #10b981;"></i> Damage-Free Guarantee</span>
+        </div>
+      </div>
+      <div style="background: #0f172a; border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
+        <h3 style="color: #ffffff; font-size: 1.3rem; font-weight: 700; margin-bottom: 15px; text-align: center;">Get an Instant WhatsApp Moving Estimate</h3>
+        <form onsubmit="sendHeroWhatsAppLead(event, this);">
+          <div style="margin-bottom: 12px;">
+            <input type="text" name="name" placeholder="Your Full Name" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+          </div>
+          <div style="margin-bottom: 12px;">
+            <input type="tel" name="phone" placeholder="WhatsApp Contact Number" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 15px;">
+            <input type="text" name="move_from" placeholder="Pickup City / Area" value="" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            <input type="text" name="move_to" placeholder="Drop Location / City" value="" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+          </div>
+          <button type="submit" style="width: 100%; background: #25d366; color: #ffffff; border: none; padding: 12px; border-radius: 6px; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px;">
+            <i class="fab fa-whatsapp" style="font-size: 1.2rem;"></i> Request Fixed Price Quote
+          </button>
+        </form>
       </div>
     </div>
   </div>
+</section>
 
-  <!-- Hero Section with Lead Form -->
-  <section class="hero-section" style="background: linear-gradient(135deg, #0b132b 0%, #1c2541 100%); padding: 60px 0; color: #ffffff;">
-    <div class="container">
-      <div class="hero-grid" style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: center;">
-        
-        <!-- Hero Text Column -->
-        <div class="hero-text">
-          <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 15px;">
-            Official 2026 Price &amp; Rate Breakdown
-          </span>
-          <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-            Ultimate <span style="color: #f59e0b;">Packers and Movers in Dhanbad Cost Guide</span>
-          </h1>
-          <p style="font-size: 1.15rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-            Are you planning a local household move within Dhanbad or an intercity relocation across India and wondering how much professional shifting services cost? This comprehensive 2026 cost guide from Shree Ashirwad Packers and Movers breaks down every single cost factor â€” from 1BHK, 2BHK, and 3BHK home shifting rates to 7-layer packaging expenses, vehicle transport tariffs, floor elevation additions, and 100% IBA-approved GST bill structures.
-          </p>
-
-          <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
-            <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-              <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
-            </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20information%20about%20shifting%20costs%20in%20Dhanbad." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-              <i class="fab fa-whatsapp"></i> Chat on WhatsApp
-            </a>
-          </div>
-
-          <div style="display: flex; gap: 20px; font-size: 0.9rem; color: #94a3b8;">
-            <span><strong style="color: #f59e0b;">100%</strong> Transparent Rates</span>
-            <span><strong style="color: #f59e0b;">Zero</strong> Hidden Taxes</span>
-            <span><strong style="color: #f59e0b;">IBA Approved</strong> Invoices</span>
-          </div>
+<style>
+.trust-metrics-section {
+  width: 100%;
+  background: #070d1e;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  padding: 30px 0;
+  box-sizing: border-box;
+}
+.trust-metrics-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.trust-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  width: 100%;
+}
+@media (max-width: 860px) {
+  .trust-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 480px) {
+  .trust-metrics-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+<section class="trust-metrics-section">
+  <div class="trust-metrics-container">
+    <div class="trust-metrics-grid">
+    
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(245, 158, 11, 0.15); color: #f59e0b; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-truck-moving"></i>
         </div>
-
-        <!-- Hero Lead Form Column -->
-        <div class="hero-form-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-          <h2 style="font-size: 1.4rem; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-align: center;">Get Instant Rate Estimate</h2>
-          <p style="font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px;">Receive transparent cost breakdown on WhatsApp in 2 minutes</p>
-
-          <form action="#" method="POST" onsubmit="sendHeroWhatsAppLead(event, this);">
-            <div style="margin-bottom: 14px;">
-              <input type="text" name="name" class="form-control" placeholder="Your Full Name" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="margin-bottom: 14px;">
-              <input type="tel" name="phone" class="form-control" placeholder="10-Digit Phone / WhatsApp Number" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-              <input type="text" name="move_from" class="form-control" placeholder="Moving From (e.g. Bank More)" value="Dhanbad" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-              <input type="text" name="move_to" class="form-control" placeholder="Moving To (City / Locality)" required style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;">
-            </div>
-            <div style="margin-bottom: 16px;">
-              <textarea name="message" class="form-control" rows="2" placeholder="Shifting Goods (e.g. 2BHK Home, Bike, Car, Office)" style="width: 100%; padding: 12px 16px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(0,0,0,0.3); color: #fff;"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary" style="width: 100%; padding: 14px; font-weight: 700; font-size: 1rem; border-radius: 8px;">
-              Get Quote on WhatsApp
-            </button>
-          </form>
-        </div>
-
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">22,000+</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">Verified Moves Completed</div>
       </div>
-    </div>
-  </section>
 
-  <!-- Section 2: Trust Counter & Live Achievements -->
-  <section class="stats-section" style="padding: 50px 0; background: #070d1e; border-bottom: 1px solid rgba(245, 158, 11, 0.2);">
-    <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">10,000+</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Transparent Price Quotes</div>
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(16, 185, 129, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(16, 185, 129, 0.15); color: #10b981; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-star"></i>
         </div>
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">Zero</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Surprise Fees or Hidden Fees</div>
-        </div>
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">100%</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">Itemized Price Transparency</div>
-        </div>
-        <div style="padding: 20px; background: rgba(23, 42, 84, 0.5); border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <div style="font-size: 2.2rem; font-weight: 800; color: #f59e0b; font-family: 'Poppins', sans-serif;">IBA Approved</div>
-          <div style="font-size: 0.9rem; color: #cbd5e1; margin-top: 5px;">BCCL &amp; Corporate Claim Billing</div>
-        </div>
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">4.9 / 5.0</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">Google &amp; Justdial Rating</div>
       </div>
-    </div>
-  </section>
 
-  <!-- Section 3: 6-Card Grid (3x2 Layout) - Key Cost Factors -->
-  <section style="padding: 70px 0; background: #0b132b; color: #e2e8f0; line-height: 1.8;">
-    <div class="container">
-      
-      <div style="max-width: 950px; margin: 0 auto;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Price Architecture</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-          Key Factors That Influence <span style="color: #f59e0b;">Packers and Movers Costs in Dhanbad</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 25px;">
-          Understanding how moving companies in Dhanbad calculate relocation costs helps homeowners, BCCL personnel, IIT ISM staff, and corporate employees plan their budgets accurately. Shifting tariffs are determined by clear logistical variables rather than random estimates. Here are the 6 primary elements that govern your final relocation invoice:
-        </p>
-
-        <!-- 6 Cards Grid (3x2 Layout) -->
-        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
-          
-          <!-- Card 1 -->
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Total Goods Volume &amp; Truck Size</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              The volume of furniture, electronics, and boxes dictates whether a 14ft container, 17ft Eicher, or 20ft container vehicle is required.
-            </p>
-          </div>
-
-          <!-- Card 2 -->
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Transit Distance &amp; Fuel Consumption</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Local moves within Dhanbad (e.g. Bank More to Saraidhela) cost less than intercity trips to Patna, Kolkata, or Delhi via GT Road NH-19.
-            </p>
-          </div>
-
-          <!-- Card 3 -->
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Packaging Quality Tier</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Standard corrugated packaging vs multi-layer heavy air bubble wrap, foam corner guards, and custom wooden crating for delicate Smart TVs and glass items.
-            </p>
-          </div>
-
-          <!-- Card 4 -->
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-star"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Floor Elevation &amp; Elevator Status</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Ground floor loading is faster, whereas carrying heavy furniture up 4th or 5th-floor staircases without service elevators requires extra labor deployment.
-            </p>
-          </div>
-
-          <!-- Card 5 -->
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-car"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Vehicle Transport Additions</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Adding a two-wheeler (Royal Enfield, scooter) or four-wheeler (hatchback, SUV) in enclosed car carriers or dedicated bike slots adds to the overall bill.
-            </p>
-          </div>
-
-          <!-- Card 6 -->
-          <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1.5px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);">
-            <div style="background: rgba(245, 158, 11, 0.15); width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #f59e0b; margin-bottom: 12px;"><i class="fas fa-phone-alt"></i></div>
-            <h3 style="font-size: 1.1rem; color: #ffffff; font-weight: 700; margin-bottom: 10px;">Transit Insurance &amp; GST Compliance</h3>
-            <p style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.6; margin: 0;">
-              Optional 3% transit insurance covering declared goods value against highway risks, combined with 18% GST invoice compliance for corporate claim submission.
-            </p>
-          </div>
-
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(59, 130, 246, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(59, 130, 246, 0.15); color: #3b82f6; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-shield-alt"></i>
         </div>
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">100% Insured</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">All-Risk Marine Policy</div>
+      </div>
 
+      <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(168, 85, 247, 0.3); border-radius: 12px; padding: 20px 18px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; background: rgba(168, 85, 247, 0.15); color: #a855f7; font-size: 1.25rem; margin-bottom: 10px;">
+          <i class="fas fa-file-invoice-dollar"></i>
+        </div>
+        <div style="font-size: 1.65rem; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">IBA Approved</div>
+        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 4px; font-weight: 500;">ISO 9001:2015 Registered</div>
       </div>
 
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- Section 4: Detailed Local Shifting Rates Breakdown -->
-  <section style="padding: 70px 0; background: linear-gradient(180deg, #0b132b 0%, #16203b 100%); color: #ffffff;">
-    <div class="container">
-      
-      <div class="section-header text-center" style="margin-bottom: 50px;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Rate Comparison &amp; Estimates</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Local Shifting Rate Breakdown in <span style="color: #f59e0b;">Dhanbad</span>
-        </h2>
-        <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 800px; margin: 15px auto 0 auto; line-height: 1.7;">
-          Here is an estimated price spectrum for local household moving across prominent Dhanbad residential areas including Bank More, Hirapur, Saraidhela, Jharia, Katras, Govindpur, and Bartand:
-        </p>
-      </div>
-
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
-        
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">1. 1BHK / Single Room Local Shifting</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
-            Ideal for bachelor professionals, students, or small families moving minimal household goods locally within Dhanbad. Includes single bed, small fridge, washing machine, TV, and 10 to 15 luggage boxes.
-          </p>
-          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Estimated Rate Range: &#8377;3,000 â€“ &#8377;5,500</li>
-            <li>Vehicle Deployed: Tata Ace / Bolero Pickup</li>
-            <li>Crew Deployed: 2 to 3 trained packers</li>
-          </ul>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">2. 2BHK Apartment Local Shifting</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
-            Standard 2BHK family relocation within Dhanbad. Includes 2 double beds, 4-seater dining table, sofa set, refrigerator, washing machine, 2 AC units, and 20 to 30 carton boxes.
-          </p>
-          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Estimated Rate Range: &#8377;5,500 â€“ &#8377;9,500</li>
-            <li>Vehicle Deployed: 14ft Covered Container Truck</li>
-            <li>Crew Deployed: 3 to 4 expert packers</li>
-          </ul>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">3. 3BHK / Villa Local Shifting</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
-            Comprehensive large family home or bungalow shifting in Dhanbad. Includes 3 double beds, 6-seater dining set, heavy sofa sectional, double-door fridge, electronics, and 35 to 50 boxes.
-          </p>
-          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Estimated Rate Range: &#8377;9,500 â€“ &#8377;15,000</li>
-            <li>Vehicle Deployed: 17ft or 19ft Container Truck</li>
-            <li>Crew Deployed: 5 to 6 specialized packers</li>
-          </ul>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">4. Bike &amp; Two-Wheeler Transport</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
-            Local or intercity motorcycle and scooter packing and transport. Features paddy straw padding, bubble wrap, corrugated sheets, and heavy nylon tie-down belts inside enclosed trucks.
-          </p>
-          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Local Transit Rate: &#8377;1,500 â€“ &#8377;2,500</li>
-            <li>Intercity Transit Rate: &#8377;2,500 â€“ &#8377;5,500</li>
-            <li>Zero scratch guarantee included</li>
-          </ul>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">5. Car Transport via Covered Carrier</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
-            Safe vehicle transportation for hatchbacks, sedans, and SUVs traveling intercity from Dhanbad to major Indian metro cities using specialized covered hydraulic car carrier trailers.
-          </p>
-          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Intercity Rate Range: &#8377;4,800 â€“ &#8377;9,000</li>
-            <li>Includes pre-transit condition inspection</li>
-            <li>Real-time GPS tracking included</li>
-          </ul>
-        </div>
-
-        <div style="background: linear-gradient(145deg, #172a54 0%, #0d1736 100%); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 14px; padding: 28px;">
-          <h3 style="font-size: 1.3rem; color: #f59e0b; font-weight: 700; margin-bottom: 14px;">6. Office &amp; Commercial Workspace Moving</h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.8;">
-            Corporate office relocation in Dhanbad covering IT desktop workstations, office chairs, conference tables, server racks, and physical file archives with zero business downtime.
-          </p>
-          <ul style="color: #cbd5e1; font-size: 0.9rem; margin-top: 10px; padding-left: 18px; line-height: 1.6;">
-            <li>Customized quote after on-site survey</li>
-            <li>Anti-static bubble wrap for computers</li>
-            <li>Weekend &amp; night shift execution options</li>
-          </ul>
-        </div>
-
-      </div>
-
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">COST ARCHITECTURE</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Core Distance Bands, Volume Metrics &amp; Pricing Architecture for Packers And Movers Dhanbad Cost Guide</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">Understanding the primary pricing determinants for packers and movers in Dhanbad requires a granular analysis of your consignment’s total cubic feet (CFT) volume, the precise transit kilometers involved, and the specific category of carrier trailer required for safe transit.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Local rates often fluctuate based on real-time fuel surcharges, making it essential to understand how these variables interact to form your final invoice.</span></li></ul>
+<p>By accurately measuring your furniture and household goods, you can prevent hidden costs and ensure that the quoted price aligns with industry standards for professional relocation services across India.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Total Consignment CFT Volume:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Accurately calculate the total cubic feet of your items, including boxes and appliances, as this is the single most significant factor in determining the base transportation fee for your move.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Transit Kilometers and Route:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The distance between your origin and destination directly impacts fuel consumption and driver allowances, so verify the exact route distance to avoid inflated mileage charges in your estimate.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Carrier Trailer Category:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Selecting the appropriate truck size, such as a 7x14 or 10x20 tautliner, is crucial, as oversized vehicles waste budget while undersized ones require multiple trips, increasing overall logistics costs.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Fuel Surcharges and Taxes:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Factor in current diesel price fluctuations and applicable GST, as these variable costs are often adjusted dynamically based on market conditions during the specific week of your scheduled shift.</p>
+  </div>
+</div>
+<p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">When seeking reliable transport for moving furniture, many clients mistakenly rely on informal platforms like home shifting olx, which often lack the insurance and professional packing expertise required for high-value assets.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>To ensure your items arrive safely, it is vital to hire licensed operators who specialize in handling delicate goods, including providing specific fridge transportation cost estimates that account for the weight and fragility of large white goods.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Whether you are a professional looking for transporters to shift light house hold articles bachelor or a family requiring a full service, understanding movers charges in india helps you negotiate fair terms.</span></li></ul>
+<p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">For example, if you are considering long-distance routes like dindigul to srivilliputhur luggage movers, you will notice that per-kilometer rates decrease slightly over longer distances, but the total cost remains substantial.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>By asking how much cost for shifting household items precisely, you can compare quotes from iba approved packers and movers near me, ensuring you receive a transparent, all-inclusive price that covers packing, loading, transit, and final placement without unexpected add-ons.</span></li></ul></div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- Section 5: Contextual Link Grid 1 - Dhanbad Locality Internal Links -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Dhanbad Locality Network</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Explore Major Localities Served in <span style="color: #f59e0b;">Dhanbad</span>
-      </h2>
 
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Bank More Commercial Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Primary commercial trading center and business hub in central Dhanbad.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-bankmore-dhanbad" title="Packers and Movers Bank More &rarr;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Bank More &rarr;
-          </a>
-        </div>
 
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Hirapur Educational Sector</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Key educational quarter near IIT ISM campus and Court Road.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-hirapur-dhanbad" title="Packers and Movers Hirapur &rarr;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Hirapur &rarr;
-          </a>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Saraidhela Healthcare Hub</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Modern residential colonies, apartments, and hospital belt.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-saraidhela-dhanbad" title="Packers and Movers Saraidhela &rarr;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Saraidhela &rarr;
-          </a>
-        </div>
-
-        <div style="background: #101c40; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Jharia Coalfield Township</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Historic mining township and commercial trading center.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-jharia-dhanbad" title="Packers and Movers Jharia &rarr;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Packers and Movers Jharia &rarr;
-          </a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section 6: Major Intercity Express Destinations -->
-  <section style="padding: 70px 0; background: #0b132b; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      
-      <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Intercity Shifting Rates</span>
-      <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin: 10px 0 20px 0;">
-        Popular Intercity Routes from <span style="color: #f59e0b;">Dhanbad</span>
-      </h2>
-
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 30px;">
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhanbad to Patna</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Express container shifting rates connecting Dhanbad to Patna Bihar.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-dhanbad-to-patna" title="Dhanbad to Patna Shifting Services &rarr;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Dhanbad to Patna Shifting Services &rarr;
-          </a>
-        </div>
-
-        <div style="background: #172a54; padding: 18px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h4 style="color: #ffffff; font-size: 1.1rem; margin-bottom: 8px;">Dhanbad to Kolkata</h4>
-          <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 10px;">Direct express container route via Grand Trunk Road NH-19 to West Bengal.</p>
-          <a href="<?php echo SITE_URL; ?>packers-and-movers-dhanbad-to-kolkata" title="Dhanbad to Kolkata Shifting Services &rarr;" style="color: #f59e0b; text-decoration: underline; font-weight: 600; font-size: 0.9rem;">
-            Dhanbad to Kolkata Shifting Services &rarr;
-          </a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section 7: FAQs -->
-  <section style="padding: 70px 0; background: #070d1e; color: #ffffff;">
-    <div class="container" style="max-width: 900px;">
-      
-      <div class="section-header text-center" style="margin-bottom: 45px;">
-        <span class="section-tag" style="color: #f59e0b; text-transform: uppercase; font-weight: 700; font-size: 0.85rem; letter-spacing: 1px;">Cost &amp; Rate FAQs</span>
-        <h2 style="font-size: 2.2rem; font-weight: 800; color: #ffffff; margin-top: 10px;">
-          Frequently Asked Questions About <span style="color: #f59e0b;">Shifting Rates in Dhanbad</span>
-        </h2>
-      </div>
-
-      <div style="display: flex; flex-direction: column; gap: 16px;">
-        <?php foreach ($faq_list as $index => $faq): ?>
-        <div style="background: #101c40; padding: 20px 24px; border-radius: 10px; border: 1px solid rgba(245, 158, 11, 0.2);">
-          <h3 style="font-size: 1.1rem; color: #f59e0b; font-weight: 700; margin-bottom: 8px;">Q<?php echo ($index + 1); ?>: <?php echo htmlspecialchars($faq['q']); ?></h3>
-          <p style="font-size: 0.95rem; color: #cbd5e1; margin: 0; line-height: 1.7;">
-            <?php echo htmlspecialchars($faq['a']); ?>
-          </p>
-        </div>
-        <?php endforeach; ?>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- Section 8: Call To Action Banner -->
-  <section style="padding: 70px 0; background: linear-gradient(135deg, #172a54 0%, #0b132b 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.4); color: #ffffff;">
-    <div class="container" style="max-width: 900px; text-align: center;">
-      
-      <span class="section-tag" style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">
-        Get Transparent Moving Estimate Today
+<section class="dynamic-topic-table-section" style="padding: 55px 0; background: #070d1e; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        PRICING &amp; CLEARANCE MATRIX
       </span>
-
-      <h2 style="font-size: 2.3rem; font-weight: 800; margin: 15px 0 15px 0; color: #ffffff;">
-        Ready to Plan Your Move with <span style="color: #f59e0b;">Shree Ashirwad Packers and Movers</span>?
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        Transparent Relocation Pricing &amp; Regulatory Coverage Matrix
       </h2>
-
-      <p style="font-size: 1.05rem; color: #cbd5e1; max-width: 750px; margin: 0 auto 30px auto; line-height: 1.7;">
-        Contact our Dhanbad Office today for a guaranteed fixed-price written quotation and experience stress-free, professional relocation.
+      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
+        Comprehensive breakdown of base freight, mandatory documentation, and transit insurance
       </p>
+    </div>
 
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 25px;">
-        <a href="tel:<?php echo SITE_PHONE_RAW; ?>" title="Call Now:" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #e11d48 0%, #be123c 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(225, 29, 72, 0.4);">
-          <i class="fas fa-phone-alt"></i> Call Now: <?php echo SITE_PHONE; ?>
-        </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers%20and%20Movers,%20I%20want%20a%20shifting%20quote." title="Chat on WhatsApp" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">
-          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
-        </a>
-        <a href="<?php echo SITE_URL; ?>contact" title=" Contact Office" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 30px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 1.5px solid #f59e0b; color: #ffffff; border-radius: 50px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2);">
-          <i class="fas fa-phone-alt"></i> Contact Office
-        </a>
+    <div style="overflow-x: auto; background: #0f172a; border-radius: 14px; border: 1.5px solid rgba(255,255,255,0.1); box-shadow: 0 15px 35px rgba(0,0,0,0.45);">
+      <table style="width: 100%; border-collapse: collapse; text-align: left;">
+        <thead>
+          <tr style="border-bottom: 2px solid rgba(245, 158, 11, 0.4);"><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Service Parameter</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: rgba(16, 185, 129, 0.12); color: #10b981;">Standard Pricing Factor</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Documentation / Regulatory Requirement</th><th style="padding: 16px 20px; font-size: 0.92rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; background: #1e293b; color: #f8fafc;">Safety Guarantee</th></tr>
+        </thead>
+        <tbody><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Base Transit Freight</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>Calculated per kilometer and consignment volume</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Consignment Note (LR) &amp; e-Way Bill</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Fixed in written quotation (zero hidden fees)</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Packaging Materials &amp; Labor</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>Included in comprehensive move quotation</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Itemized Inventory Survey Sheet</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">New 5-ply cartons, 80-GSM bubble wrap</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Transit Marine Insurance</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>3% of declared consignment value</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Official Insurance Policy with zero-dep endorsement</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Doorstep claims support without surveyor delay</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Statutory Highway Tolls &amp; Green Tax</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>Included transparently in carrier bill</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Automated FASTag &amp; State RTO e-clearance</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Zero roadside stoppage or unexpected surcharges</td></tr><tr style="border-bottom: 1px solid rgba(255,255,255,0.06); transition: background 0.2s ease;"><td style="padding: 16px 20px; font-weight: 600; color: #f8fafc; font-size: 0.95rem;">Unpacking &amp; Debris Removal</td><td style="padding: 16px 20px; color: #10b981; font-size: 0.92rem; font-weight: 500; background: rgba(16, 185, 129, 0.03);"><i class="fas fa-check" style="margin-right: 8px; color: #10b981;"></i>Complimentary at destination delivery</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Customer Handover Verification Sign-off</td><td style="padding: 16px 20px; color: #cbd5e1; font-size: 0.92rem;">Assembly of dismantled beds, tables, and sofas</td></tr></tbody>
+      </table>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="operational-photo-showcase-section" style="padding: 55px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 5px 16px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        AUTHENTIC OPERATIONAL GALLERY
+      </span>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        Verified On-Site Operations: Packers and Movers in Dhanbad Cost Guide | 8409531615
+      </h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
+        Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
+      </p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 24px;">
+      
+        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
+          <div style="height: 230px; overflow: hidden; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/household-furniture-bubble-wrap.jpeg" alt="High-Density Bubble Cushioning for Wooden Furniture - Shree Ashirwad" title="Furniture Protective Cushioning" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
+            </span>
+          </div>
+          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
+            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Furniture Protective Cushioning</h3>
+            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">High-density air-bubble film and corrugated edge guards safeguarding wooden furniture.</p>
+          </div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
+          <div style="height: 230px; overflow: hidden; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/residential-moving-carton-loading.jpeg" alt="Systematic Loading of Heavy-Duty Corrugated Moving Cartons - Shree Ashirwad" title="Residential Shifting Carton Loading" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
+            </span>
+          </div>
+          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
+            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Residential Shifting Carton Loading</h3>
+            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Even weight distribution and systematic loading of household cartons in covered container trucks.</p>
+          </div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.35); display: flex; flex-direction: column;">
+          <div style="height: 230px; overflow: hidden; position: relative;">
+            <img src="<?php echo SITE_URL; ?>assets/images/services/appliance-protective-wrapping.jpeg" alt="Multi-Layer Appliance Packaging for Refrigerators and Washing Machines - Shree Ashirwad" title="Home Appliance Safe Packaging" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+            <span style="position: absolute; top: 12px; left: 12px; background: rgba(15,23,42,0.85); color: #38bdf8; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; border: 1px solid rgba(56,189,248,0.3); text-transform: uppercase; letter-spacing: 0.5px;">
+              <i class="fas fa-camera" style="color: #f59e0b; margin-right: 5px;"></i> Verified On-Site
+            </span>
+          </div>
+          <div style="padding: 16px 18px; background: #0b132b; border-top: 1px solid rgba(255,255,255,0.08); flex-grow: 1;">
+            <h3 style="color: #ffffff; font-size: 0.98rem; font-weight: 700; margin-bottom: 6px; line-height: 1.4;">Home Appliance Safe Packaging</h3>
+            <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.55; margin: 0;">Anti-static foam and heavy stretch wrap securing home appliances against transit shock.</p>
+          </div>
+        </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">INSURANCE &amp; TAXES</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Declared-Value Transit Marine Insurance Tariffs &amp; GST Compliance for Packers And Movers Dhanbad Cost Guide</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 16px;">When determining the costs involved in moving with Packers And Movers Dhanbad, it is essential to consider the statutory tax structures and insurance premiums that contribute to the final price. In India, the standard tax structure for packers and movers includes 18% GST (Goods and Services Tax) for most services.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
+    <div>
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">01</div>
+      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Additionally</h3>
+      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">insurance premiums are a crucial component of the overall cost. Packers And Movers Dhanbad offers transit marine insurance options with declared-value rates ranging from 1.5% to 3% of the insured value of your belongings. This insurance provides protection against any potential damages during the relocation process.</p>
+    </div>
+    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
+      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
+    </div>
+  </div>
+</div></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">BOOKING TIMELINE</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Strategic Booking Windows, Off-Peak Scheduling &amp; Payment Milestones for Packers And Movers Dhanbad Cost Guide</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 14px;">Engineered multi-layer protective packaging for Packers And Movers Dhanbad Cost Guide provides heavy-duty vibration dampening and climate resilience throughout the moving journey. Shree Ashirwad certified packaging specialists apply custom shock-absorbent materials tailored to each cargo category.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Heavy-Duty 80-GSM Bubble Cushioning:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-tensile air-bubble wrap absorbs transit road shocks, preventing friction marks, scratches, or cosmetic damage on finished surfaces.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">High-Density Corrugated Edge Guards:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Multi-wall cardboard corner guards reinforce vulnerable edges, furniture frames, and structural corners against lateral pressure.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Moisture-Sealed Stretch-Film Weatherproofing:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Industrial shrink wrap seals packed items against rainwater, humidity, road dust, and highway exhaust particles.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Custom Wooden Crating for Fragile Freight:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Delicate glass, precision electronics, and high-value artworks receive reinforced timber crates mounted on shock-absorbing bases.</p>
+  </div>
+</div>
+<p style="font-size: 0.98rem; line-height: 1.7; color: #cbd5e1; margin-top: 14px;">Every packaged unit undergoes supervisor verification before transporter loading, ensuring uniform shock absorption, intact seals, and complete freight integrity across thousands of highway kilometers.</p></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">PACKAGING TIERS</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Packaging Material Specifications &amp; Labor Cost Optimization for Packers Movers Dhanbad Cost</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
+	<p>When planning a relocation, choosing the right packaging materials is crucial for ensuring the safety of your belongings during transit. Premium packing materials not only safeguard your possessions but also contribute to an accurate total estimate provided by professional packers and movers.</p>
+
+	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Durability:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Heavy-duty corrugated cartons are made of thicker cardboard sheets that provide excellent protection against damage during transportation. Their robust construction ensures the security of your belongings.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Capacity:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">These cartons can hold a significant amount of weight, accommodating larger items like appliances, furniture, and heavy boxes.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Reusability:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Since they are made of recyclable materials, heavy-duty cartons can be reused for future moves, contributing to a more environmentally-friendly relocation.</p>
+  </div>
+</div>
+
+	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Protection:</strong> Bubble cushioning is an essential soft padding material that prevents scratches, dents, and other minor damages during transit. It effectively absorbs shocks and cushions your items.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Customizable:</strong> Bubble cushioning can be easily shaped to suit various furniture and household items, ensuring a tailored fit for optimal protection.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Built-in Air Cushion:</strong> Bubble cushioning rolls contain air bubbles that expand upon opening, creating a protective barrier around your belongings.</span></li>
+	</ul>
+
+	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Safety:</strong> Custom wooden crates are specifically designed to securely hold your delicate, valuable, and bulky items, such as antiques, electronics, and large furniture. They provide an additional layer of protection against potential damages during transit.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Sturdiness:</strong> Wooden crates are robust structures, ensuring that your belongings are securely enclosed and protected against external factors.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Customization:</strong> By using custom wooden crates, packers and movers can tailor the dimensions to fit the exact specifications of your possessions, preventing any unnecessary movement during transport.</span></li>
+	</ul>
+
+	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Increased Protection:</strong> Premium packing materials, including heavy-duty corrugated cartons, bubble cushioning, and custom wooden crating, provide a comprehensive level of protection for your possessions.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Minimized Damage:</strong> By using these materials, movers can ensure that your belongings are securely packed, reducing the chances of scratches, dents, or other damages during transportation.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Accurate Estimates:</strong> Reliable packers and movers typically account for the usage of premium packing materials when calculating their estimates, leading to more accurate and comprehensive quotes.</span></li>
+	</ul></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">SURCHARGE AVOIDANCE</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Eliminating Hidden Surcharges &amp; Demanding Written Binding Contracts for Packers Movers Dhanbad Cost</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 14px;">Engineered multi-layer protective packaging for Packers And Movers Dhanbad Cost Guide provides heavy-duty vibration dampening and climate resilience throughout the moving journey. Shree Ashirwad certified packaging specialists apply custom shock-absorbent materials tailored to each cargo category.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Heavy-Duty 80-GSM Bubble Cushioning:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-tensile air-bubble wrap absorbs transit road shocks, preventing friction marks, scratches, or cosmetic damage on finished surfaces.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">High-Density Corrugated Edge Guards:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Multi-wall cardboard corner guards reinforce vulnerable edges, furniture frames, and structural corners against lateral pressure.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Moisture-Sealed Stretch-Film Weatherproofing:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Industrial shrink wrap seals packed items against rainwater, humidity, road dust, and highway exhaust particles.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Custom Wooden Crating for Fragile Freight:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Delicate glass, precision electronics, and high-value artworks receive reinforced timber crates mounted on shock-absorbing bases.</p>
+  </div>
+</div>
+<p style="font-size: 0.98rem; line-height: 1.7; color: #cbd5e1; margin-top: 14px;">Every packaged unit undergoes supervisor verification before transporter loading, ensuring uniform shock absorption, intact seals, and complete freight integrity across thousands of highway kilometers.</p></div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="specifications-grid-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        Technical Specifications
+      </span>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        Operational Infrastructure & Transit Standards
+      </h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
+        Grounded engineering practices ensuring zero damage across every relocation corridor
+      </p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px;">
+      
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #f59e0b; color: #f59e0b; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-box-open"></i>
       </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">7-Layer Multi-Packaging</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">80-GSM air-bubble film, high-density corrugated sheets, thermocol corner buffers, and tailored wooden crating for fragile electronics.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #10b981; color: #10b981; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-tachometer-alt"></i>
+      </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">Speed-Governed Fleet</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">Container trucks fitted with commercial speed governors calibrated to safety thresholds (60 km/h) to minimize transit collision risks.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #3b82f6; color: #3b82f6; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-road"></i>
+      </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">FASTag &amp; e-Way Clearance</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">Automated FASTag toll clearance and commercial e-Way bills ensure uninterrupted transit along major freight corridors.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.1); border-radius: 14px; padding: 26px 22px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease;">
+      <div style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; background: rgba(255, 255, 255, 0.05); border: 1px solid #a855f7; color: #a855f7; font-size: 1.35rem; margin-bottom: 18px;">
+        <i class="fas fa-stamp"></i>
+      </div>
+      <h3 style="color: #ffffff; font-size: 1.15rem; font-weight: 700; margin-bottom: 10px;">IBA Certified Protocols</h3>
+      <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.65; margin: 0;">ISO 9001:2015 certified operations ensuring all packing materials and transit practices strictly satisfy banking association standards.</p>
+    </div>
+    </div>
 
+  </div>
+</section>
+
+
+<section class="statutory-documentation-section" style="padding: 50px 0; background: #0f172a; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
+    
+    <div style="text-align: center; margin-bottom: 35px;">
+      <span style="background: rgba(59, 130, 246, 0.12); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">
+        100% Transfer Allowance Reimbursement
+      </span>
+      <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
+        IBA Approved Billing &amp; Statutory Moving Documentation
+      </h2>
+      <p style="color: #94a3b8; font-size: 0.95rem; margin: 0;">
+        Full compliance documentation accepted across defense, banking, PSUs, and multinational corporations
+      </p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 18px;">
+      
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 01</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">IBA Consignment Note (LR/Bilty)</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Official Lorry Receipt specifying truck registration number, driver verification, seal numbers, origin-destination nodes, and declared value.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 02</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">18% GST Compliant Tax Invoice</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Detailed tax invoice with registered GSTIN breakdown and HSN/SAC codes (9965/9967) valid for corporate and government reimbursement.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 03</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Itemized Packing Manifest</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Supervisor-verified numbered inventory checklist detailing package condition and individual item status signed during loading and delivery.</p>
+    </div>
+    <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 22px 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; text-transform: uppercase; margin-bottom: 12px;">Document 04</span>
+      <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Pre-Transit Inspection Report</h3>
+      <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin: 0;">Photographic handover sheet recording initial odometer readings, vehicle exterior condition, fuel levels, and personal asset declarations.</p>
+    </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- Section: Dedicated Jharkhand Regional Moving Network (Below Side) -->
+  <section style="padding: 50px 0; background: linear-gradient(135deg, #0b1530 0%, #101c40 100%); border-top: 1.5px solid rgba(245, 158, 11, 0.3); border-bottom: 1.5px solid rgba(245, 158, 11, 0.3); color: #ffffff;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px; text-align: center;">
+      <span class="section-tag" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); padding: 4px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; display: inline-block; margin-bottom: 10px;">
+        Statewide Relocation Network
+      </span>
+      <h2 style="font-size: 1.85rem; font-weight: 800; color: #ffffff; margin-bottom: 14px;">
+        Seamless Packers and Movers Connectivity Across Jharkhand
+      </h2>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto 10px auto; max-width: 920px;">
+        As a certified relocation specialist across Jharkhand, Shree Ashirwad provides seamless residential and commercial moving solutions for clients transitioning between major regional centers. Operating as premier <a href="<?php echo SITE_URL; ?>" title="Packers and Movers" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers</a>, our fleet network guarantees on-time delivery.
+      </p>
+      <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.85; margin: 0 auto; max-width: 920px;">
+        We maintain direct logistics corridors connecting to our flagship operations at <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: #f59e0b; text-decoration: underline; font-weight: 700;">packers and movers in Ranchi</a>, delivering synchronized transit tracking, verified handling teams, and prompt door-to-door delivery across every district.
+      </p>
     </div>
   </section>
 
-
-
-<!-- Google Business Profile Verified Customer Trust Section -->
-<section style="padding: 35px 0; background: #070d19;">
-  <div class="container" style="max-width: 1150px; margin: 0 auto; padding: 0 15px;">
-    <div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 0; color: #cbd5e1;">
-      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
-        <div style="display: flex; align-items: center; gap: 12px;">
-          <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
-            <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
-          </span>
-          <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
-          <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
-        </div>
-        <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
-          View All Reviews on Google Maps &rarr;
-        </a>
+<section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+    <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
+      Frequently Asked Questions &bull; Packers and Movers in Dhanbad Cost Guide | 8409531615
+    </h2>
+    
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">What is the recommended advance booking timeline for Packers and Movers in Dhanbad Cost Guide | 8409531615?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">We recommend reserving your transport 3 to 7 days in advance to ensure dedicated container bays, hydraulic carrier ramps, and preferred transit schedules.</p>
       </div>
-      
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Are written binding quotations provided before work commences?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, Shree Ashirwad Packers and Movers provides 100% itemized, written contracts detailing packaging grades, freight charges, and insurance with zero hidden fees.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How does declared-value marine transit insurance protect my consignment?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Our declared-value transit insurance policy covers collision, fire, overturning, and transit impacts under IRDAI guidelines with computerized certificates.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Can I track my consignment location in real time during long-distance transit?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, all our specialized container trucks and trailers feature live satellite GPS tracking with periodic milestone updates sent to WhatsApp.</p>
+      </div>
+      <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">Do you provide IBA-approved bills for government and corporate claims?</h3>
+        <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Yes, as an IBA-approved logistics operator, our GST invoices, Lorry Receipts (LR/Bilty), and packing lists are accepted across all PSUs, banks, and MNCs.</p>
+      </div>
+  </div>
+  <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the recommended advance booking timeline for Packers and Movers in Dhanbad Cost Guide | 8409531615?","acceptedAnswer":{"@type":"Answer","text":"We recommend reserving your transport 3 to 7 days in advance to ensure dedicated container bays, hydraulic carrier ramps, and preferred transit schedules."}},{"@type":"Question","name":"Are written binding quotations provided before work commences?","acceptedAnswer":{"@type":"Answer","text":"Yes, Shree Ashirwad Packers and Movers provides 100% itemized, written contracts detailing packaging grades, freight charges, and insurance with zero hidden fees."}},{"@type":"Question","name":"How does declared-value marine transit insurance protect my consignment?","acceptedAnswer":{"@type":"Answer","text":"Our declared-value transit insurance policy covers collision, fire, overturning, and transit impacts under IRDAI guidelines with computerized certificates."}},{"@type":"Question","name":"Can I track my consignment location in real time during long-distance transit?","acceptedAnswer":{"@type":"Answer","text":"Yes, all our specialized container trucks and trailers feature live satellite GPS tracking with periodic milestone updates sent to WhatsApp."}},{"@type":"Question","name":"Do you provide IBA-approved bills for government and corporate claims?","acceptedAnswer":{"@type":"Answer","text":"Yes, as an IBA-approved logistics operator, our GST invoices, Lorry Receipts (LR/Bilty), and packing lists are accepted across all PSUs, banks, and MNCs."}}]}
+  </script>
+</section>
+
+
+<section style="padding: 30px 0; background: #070d19;">
+  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+    <!-- Google Business Profile Verified Customer Trust Section -->
+<div class="gmb-trust-card" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(245, 158, 11, 0.35); border-radius: 14px; padding: 28px 24px; margin: 35px 0; color: #cbd5e1;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 16px; margin-bottom: 22px; gap: 12px;">
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <span style="background: #1e293b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
+        <i class="fab fa-google" style="color: #ea4335;"></i> Google Verified Reviews
+      </span>
+      <span style="font-size: 1.25rem; font-weight: 800; color: #ffffff;">4.9 <span style="color: #f59e0b;">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+      <span style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">(500+ Customer Ratings)</span>
+    </div>
+    <a href="https://share.google/4FEjDv1dVCJV3O4ch" target="_blank" rel="noopener nofollow" style="color: #f59e0b; text-decoration: none; font-size: 0.88rem; font-weight: 600; display: inline-flex; align-items: center; gap: 5px;">
+      View All Reviews on Google Maps &rarr;
+    </a>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
     <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
@@ -554,33 +669,89 @@ require_once __DIR__ . '/../includes/header.php';
         </p>
       </div>
     </div>
-
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f59e0b; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">ST</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Sanjay Tripathy</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">1 month ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Interstate Household Shifting</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Shifted household goods with Shree Ashirwad Packers and Movers. Their 7-layer protective packaging ensured total safety of electronics and crockery across long highway transit. Completely transparent billing."
+        </p>
       </div>
+    </div>
+    <div style="background: rgba(0,0,0,0.3); border-radius: 12px; padding: 20px 18px; border-left: 4px solid #10b981; border-top: 1px solid rgba(255,255,255,0.06); border-right: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 20px rgba(0,0,0,0.25); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="width: 36px; height: 36px; border-radius: 50%; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; justify-content: center;">DM</div>
+            <div>
+              <strong style="color: #ffffff; font-size: 0.95rem; display: block; line-height: 1.2;">Deepak Malhotra</strong>
+              <span style="color: #94a3b8; font-size: 0.76rem;">2 weeks ago</span>
+            </div>
+          </div>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; background: rgba(245, 158, 11, 0.12); padding: 3px 8px; border-radius: 12px; white-space: nowrap;">&#9733;&#9733;&#9733;&#9733;&#9733; Verified</span>
+        </div>
+        <div style="color: #60a5fa; font-size: 0.8rem; font-weight: 600; margin-bottom: 10px;"><i class="fas fa-check-circle" style="margin-right: 5px;"></i>Two-Wheeler Parcel Service</div>
+        <p style="font-size: 0.88rem; line-height: 1.65; margin: 0; color: #cbd5e1; font-style: italic;">
+          "Dispatched my Royal Enfield motorcycle safely. Enclosed container transport with wheel chocks and high-tensile ratchets ensured it reached with zero scratches or dents. Highly dependable service."
+        </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+  </div>
+</section>
+
+<section class="internal-linking-mesh" style="padding: 45px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
+  <div class="container" style="max-width: 1100px; margin: 0 auto; padding: 0 15px;">
+    <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 700; margin-bottom: 18px;">
+      <i class="fas fa-link" style="color: #f59e0b; margin-right: 8px;"></i> Related Shifting Routes &amp; Verified Moving Corridors
+    </h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px;">
+      <a href="https://shreeashirwadpackersandmovers.com/affordable-bike-transportation-in-ranchi" title="Affordable Bike Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Bike Transportation In Ranchi</a>
+      <a href="https://shreeashirwadpackersandmovers.com/affordable-car-transportation-in-ranchi" title="Affordable Car Transportation In Ranchi" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Affordable Car Transportation In Ranchi</a>
+      <a href="https://shreeashirwadpackersandmovers.com/agarwal-packers-car-transporting-charges-from-mumbai-to-bangalore" title="Agarwal Packers Car Transporting Charges From Mumbai To Bangalore" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Agarwal Packers Car Transporting Charges From Mumbai To Bangalore</a>
+      <a href="https://shreeashirwadpackersandmovers.com/ahmedabad-to-bangalore-packers-and-movers" title="Ahmedabad To Bangalore Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Ahmedabad To Bangalore Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/ahmedabad-to-delhi-packers-and-movers" title="Ahmedabad To Delhi Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Ahmedabad To Delhi Packers And Movers</a>
+      <a href="https://shreeashirwadpackersandmovers.com/anupgadh-to-delhi-packers-and-movers" title="Anupgadh To Delhi Packers And Movers" style="display: block; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 16px; color: #cbd5e1; text-decoration: none; font-size: 0.9rem;"><strong style="color: #f59e0b;">&rarr;</strong> Anupgadh To Delhi Packers And Movers</a>
+    </div>
+  </div>
+</section>
+
+<section class="related-relocation-searches" style="padding: 40px 0; background: #070d1e; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
+  <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
+    <h3 style="color: #cbd5e1; font-size: 1.15rem; font-weight: 700; margin-bottom: 16px;">
+      <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Packers And Movers Dhanbad Cost Guide</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> home shifting olx</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> transport for moving furniture</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> tranporters to shift light house hold articles bachelor</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> dindigul to srivilliputhur luggage movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers charges in india</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> how much cost for shifting household</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> fridge transportation cost</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iba approved packers and movers near me</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iba approved packers and movers in thane</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iso certified movers and packers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> southern safe packers and movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> dwarka courier packing matrieal</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> lifeline packers and movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> best packers and movers in mumbaihyderabad</span>
     </div>
   </div>
 </section>
 
 </main>
-
-<script>
-function sendHeroWhatsAppLead(event, form) {
-  event.preventDefault();
-  var name = form.querySelector('[name="name"]').value;
-  var phone = form.querySelector('[name="phone"]').value;
-  var moveFrom = form.querySelector('[name="move_from"]').value;
-  var moveTo = form.querySelector('[name="move_to"]').value;
-  var extraMsg = form.querySelector('[name="message"]').value;
-  
-  var message = "Hello Shree Ashirwad Packers & Movers,\n\nI would like to request a Shifting Rate Estimate:\n- Name: " + name + "\n- Phone: " + phone + "\n- Moving From: " + moveFrom + "\n- Moving To: " + moveTo;
-  
-  if (extraMsg && extraMsg.trim() !== '') {
-    message += "\n- Details: " + extraMsg;
-  }
-  
-  var whatsappUrl = "https://api.whatsapp.com/send?phone=918409531615&text=" + encodeURIComponent(message);
-  window.location.href = whatsappUrl;
-}
-</script>
-
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
 

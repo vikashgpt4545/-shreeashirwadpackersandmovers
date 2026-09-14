@@ -2,7 +2,7 @@
 $page_title = "Packers and Movers Patna to Damoh | Safe Interstate Shifting";
 $page_description = "Reliable packers and movers from Patna to Damoh. Household shifting, vehicle transport, and commercial relocation with 100% insurance and door delivery.";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-damoh.php";
-include '../includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <!-- Hero Section -->
@@ -548,7 +548,7 @@ function sendHeroWhatsAppLead(event) {
 }
 </script>
 
-<?php include '../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 
 <!-- Google Business Profile Verified Customer Trust Section -->

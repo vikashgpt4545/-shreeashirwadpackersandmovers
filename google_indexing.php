@@ -28,8 +28,9 @@ if (json_last_error() !== JSON_ERROR_NONE) {
 }
 
 // Parse Command Line Options
-$options = getopt("", ["url:", "limit:", "offset:", "type:"]);
+$options = getopt("", ["url:", "limit:", "offset:", "type:", "file:"]);
 $targetUrl = $options['url'] ?? null;
+$fileList = $options['file'] ?? null;
 $limit = isset($options['limit']) ? intval($options['limit']) : 200;
 $offset = isset($options['offset']) ? intval($options['offset']) : 0;
 $notificationType = $options['type'] ?? 'URL_UPDATED'; // URL_UPDATED or URL_DELETED
@@ -155,6 +156,18 @@ $urlQueue = [];
 
 if ($targetUrl) {
     $urlQueue[] = $targetUrl;
+} elseif ($fileList) {
+    $filePath = file_exists($fileList) ? $fileList : ($rootDir . '/' . $fileList);
+    if (!file_exists($filePath)) {
+        die("Error: URL list file not found at {$filePath}\n");
+    }
+    $rawUrls = file($filePath, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    foreach ($rawUrls as $u) {
+        $u = trim($u);
+        if ($u && !str_starts_with($u, '#')) {
+            $urlQueue[] = $u;
+        }
+    }
 } else {
     // Read from sitemap.xml
     $sitemapPath = $rootDir . '/sitemap.xml';

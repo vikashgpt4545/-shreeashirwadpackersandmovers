@@ -2,7 +2,7 @@
 $page_title = "Packers and Movers Patna to Burhanpur | Safe Relocation Services";
 $page_description = "Relocating from Patna to Burhanpur? Shree Ashirwad Packers and Movers offers complete household shifting, vehicle transport, and office relocation with full transit insurance.";
 $canonical_url = "https://shreeashirwadpackersandmovers.com/pages/packers-and-movers-patna-to-burhanpur.php";
-include '../includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <!-- Hero Section -->
@@ -548,7 +548,7 @@ function sendHeroWhatsAppLead(event) {
 }
 </script>
 
-<?php include '../includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 
 <!-- Google Business Profile Verified Customer Trust Section -->
