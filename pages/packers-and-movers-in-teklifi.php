@@ -1,60 +1,5 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
-
-$page_title = "Packers And Movers In Template";
-$page_desc = "Get transparent, IBA-approved Packers And Movers In Template with Shree Ashirwad Packers and Movers. ~850 km via National Highway Arterial Corridors & Multi-Axle Express Freight Highways. 100% safe multi-layer packing, transit insurance, dedicated GPS container carriers, and doorstep delivery across Template and Destination Hub.";
-$page_keywords = "Packers And Movers In Template, movers and packers leafleat template, packers and movers to move within 2 house, house hold goods packers in ahmednagar, cheapest way to transport household goods, home relocation services kharadi, packers and movers ecil cost, packers and movers charges per kg, movers and packers cost one city to another, iso certified packers and movers, iba approved packers and movers in karur, iba approved packers and movers in baroda list 2018, fast and safe movers, dlf safe packers and movers, top blog for packers and movers";
-$page_city = "Template";
-$canonical_url = "https://shreeashirwadpackersandmovers.com/packers-and-movers-in-template";
-$page_keyword_tags = array (
-  0 => 'movers and packers leafleat template',
-  1 => 'packers and movers video free website templates',
-  2 => 'packers and movers html templates',
-  3 => 'house shifting from bangalore to mumbai',
-  4 => 'moving household from delhi to mumbai',
-  5 => 'charges for shifting home between indian cities',
-  6 => 'home shifting price from one city to another',
-  7 => 'commercial furniture movers kingston',
-  8 => 'movers and packers in delhi near maharanibagh',
-  9 => 'safe express movers and packers gurgaon',
-  10 => 'safe express packers and movers gurugram haryana',
-  11 => 'best packer mover in faridabad',
-  12 => 'chennai to bangalore family movers',
-);
-
-$faq_list = array (
-  0 => 
-  array (
-    'q' => 'Do you provide IBA approved bills for company or government transfer claims?',
-    'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.',
-  ),
-  1 => 
-  array (
-    'q' => 'How are relocation charges calculated for Packers And Movers In Template?',
-    'a' => 'Our moving estimates between Template and Destination Hub are calculated using transparent parameters: total consignment volume (cft), distance (~850 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.',
-  ),
-  2 => 
-  array (
-    'q' => 'How long does shipment transit take from Template to Destination Hub?',
-    'a' => 'Typical transit duration along the National Highway Arterial Corridors & Multi-Axle Express Freight Highways takes approximately 2 to 3 Working Days. All long-haul vehicles are operated by certified dual-driver crews and equipped with live satellite GPS telematics for real-time location tracking on WhatsApp.',
-  ),
-  3 => 
-  array (
-    'q' => 'Are household goods protected against heavy monsoon rains and water damage?',
-    'a' => 'All consignments are moved in fully enclosed, all-steel weatherproof high-cube containers. Additionally, furniture and mattresses are wrapped in seamless waterproof stretch film and heavy PVC tarpaulin sleeves before loading.',
-  ),
-  4 => 
-  array (
-    'q' => 'Does your quotation include unloading, unpacking, and furniture reassembly?',
-    'a' => 'Yes! Our full-service relocation package includes doorstep unloading, carton placement into respective rooms, unpacking fragile crates, and basic reassembly of master beds, dining tables, and modular wardrobes.',
-  ),
-  5 => 
-  array (
-    'q' => 'How are cars and two-wheelers transported safely across state boundaries?',
-    'a' => 'Vehicles are loaded onto specialized hydraulic closed car carrier trailers. Cars are secured with wheel-locking chocks and heavy-duty nylon lashings. Two-wheelers receive complete 4-layer bubble packaging with mirror removal and engine tank drain protocols.',
-  ),
-);
-
 require_once __DIR__ . '/../includes/header.php';
 ?>
 <main class="site-main" style="background: #070d1e; color: #cbd5e1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
@@ -65,7 +10,7 @@ require_once __DIR__ . '/../includes/header.php';
         <span style="display: inline-block; background: rgba(245, 158, 11, 0.15); border: 1px solid #f59e0b; color: #f59e0b; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; margin-bottom: 15px; letter-spacing: 0.5px;">
           <i class="fas fa-shield-alt"></i> Verified Household Relocation
         </span>
-        <h1 style="font-size: 2.2rem; font-weight: 800; line-height: 1.25; margin-bottom: 15px; color: #ffffff;">Packers And Movers In Template</h1>
+        <h1 style="font-size: 2.2rem; font-weight: 800; line-height: 1.25; margin-bottom: 15px; color: #ffffff;">UNKNOWN</h1>
         <p style="font-size: 1.05rem; line-height: 1.7; color: #cbd5e1; margin-bottom: 25px;">
           Trust Shree Ashirwad Packers and Movers for dependable, 100% insured, and damage-free moving solutions. Dedicated container trucks, certified packing crews, and instant WhatsApp survey quotes.
         </p>
@@ -85,7 +30,7 @@ require_once __DIR__ . '/../includes/header.php';
             <input type="tel" name="phone" placeholder="WhatsApp Contact Number" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
           </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 15px;">
-            <input type="text" name="move_from" placeholder="Pickup City / Area" value="Template" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
+            <input type="text" name="move_from" placeholder="Pickup City / Area" value="Teklifi" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
             <input type="text" name="move_to" placeholder="Drop Location / City" value="" required style="width: 100%; padding: 10px 14px; background: #1e293b; border: 1px solid #334155; border-radius: 6px; color: #fff; font-size: 0.95rem; box-sizing: border-box;">
           </div>
           <button type="submit" style="width: 100%; background: #25d366; color: #ffffff; border: none; padding: 12px; border-radius: 6px; font-weight: 700; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px;">
@@ -171,44 +116,32 @@ require_once __DIR__ . '/../includes/header.php';
 <section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">OPERATIONAL STANDARDS</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Systematic Relocation Standards &amp; Comprehensive Moving Survey for Packers And Movers In Template</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Shree Ashirwad Packers and Movers delivers a meticulously engineered relocation ecosystem that prioritizes systematic moving day coordination to eliminate logistical bottlenecks and ensure seamless execution. Our protocol integrates trained packing specialists with dedicated supervisor oversight, creating a multi-layered quality assurance framework that safeguards every asset.</p>
-<p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">By leveraging our robust Packers Movers Template, we streamline the entire relocation lifecycle, from initial inventory to final placement, ensuring that each household item receives individual attention.</p>
-<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>This structured approach minimizes transit risks while maximizing operational efficiency, providing clients with a transparent, damage-free guarantee that underscores our commitment to excellence in professional residential and commercial moving services across diverse geographical corridors.</span></li></ul>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
+      <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">FLEET &amp; TRANSPORT</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Weatherproof Dedicated Container Fleets &amp; Satellite GPS Tracking for Packers And Movers In Teklifi</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">Shree Ashirwad Packers and Movers offers a range of advantages for your relocation needs in Teklifi.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>We understand the importance of ensuring your belongings are secure and well-maintained during transport.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Our fleet of vehicles boasts fully closed, weather-tight container bodies that protect your items from harsh weather conditions.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Additionally, our air-cushion suspension system ensures a smooth ride, reducing the risk of damages during transit.</span></li></ul>
+
+<p>To keep you updated about the status of your belongings, we incorporate advanced GPS telematics into our fleet. You can receive live location updates on your preferred communication platform, WhatsApp, giving you peace of mind throughout the moving process.</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Systematic Day Coordination:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our synchronized moving day protocol utilizes real-time tracking and pre-scheduled resource allocation to prevent delays. This ensures that loading, transit, and unloading phases align perfectly with client timelines, reducing wait times and maintaining a strict operational rhythm throughout the entire relocation event.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Fully Closed Weather-Tight Container Bodies:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our vehicles feature enclosed spaces that shield your belongings from rain, snow, dust, and other environmental factors during transportation. This ensures that your items arrive at their destination in pristine condition.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Trained Specialist Execution:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Certified packing specialists employ industry-standard cushioning materials and double-boxing techniques to protect fragile and high-value items. Their expertise in handling delicate electronics and antique furniture ensures that every object is secured against vibration and impact, significantly reducing the probability of transit-related damage.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Air-Cushion Suspension System:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our vehicles are equipped with an air-cushion suspension that minimizes bumps and shocks during the journey. This feature reduces the risk of damages to your belongings and guarantees a smoother ride.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Supervised Quality Control:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">A dedicated on-site supervisor monitors every operational phase, from initial packing to final placement, ensuring strict adherence to safety protocols. This continuous oversight allows for immediate corrective actions, maintaining a damage-free guarantee and ensuring that all logistical variables are managed with precision and accountability.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">GPS Telematics &amp; Live Location Updates on WhatsApp:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">We utilize state-of-the-art GPS tracking technology, providing you with real-time updates on the location and progress of your shipment. You can receive these updates conveniently through WhatsApp, allowing you to monitor your belongings as they make their way to their new destination.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Transparent Pricing Frameworks:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">We provide clear, itemized cost structures for various services, including house hold goods packers in ahmednagar and packers and movers ecil cost assessments. Our transparent model addresses queries on packers and movers charges per kg, ensuring clients understand the exact financial implications of their specific relocation needs.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Optimized Transport Solutions:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Identifying the cheapest way to transport household goods requires strategic route planning and consolidated shipping options. For local transfers, such as moving within 2 house or utilizing home relocation services kharadi, we optimize vehicle capacity to minimize per-unit costs.</p>
-<ul style="list-style: none; padding-left: 0; margin-top: 14px; margin-bottom: 0; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px;">
-  <li style="color: #cbd5e1; font-size: 0.84rem; line-height: 1.5; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px;">
-    <i class="fas fa-check-circle" style="color: #10b981; font-size: 0.8rem; margin-top: 3px; flex-shrink: 0;"></i>
-    <span>For intra-city moves, we evaluate movers and packers cost one city to another scenarios to deliver the most economically viable and efficient logistical solution</span>
-  </li>
-</ul>
-  </div>
-</div></div>
+</div>
+
+<p>At Shree Ashirwad Packers and Movers, we understand the importance of transparency and communication during your relocation process. By offering our customers cutting-edge features like fully enclosed vehicles, advanced suspension systems, and real-time location tracking via WhatsApp, we ensure a stress-free moving experience that keeps your belongings safe and secure.</p></div>
     </div>
   </div>
 </section>
@@ -251,7 +184,7 @@ require_once __DIR__ . '/../includes/header.php';
         AUTHENTIC OPERATIONAL GALLERY
       </span>
       <h2 style="color: #ffffff; font-size: 1.75rem; font-weight: 800; margin-top: 12px; margin-bottom: 8px;">
-        Verified On-Site Operations: Packers And Movers In Template
+        Verified On-Site Operations: UNKNOWN
       </h2>
       <p style="color: #94a3b8; font-size: 0.95rem; max-width: 720px; margin: 0 auto;">
         Real job-site photographic evidence of our specialized packaging materials, loading protocols, and GPS-tracked container transport.
@@ -304,32 +237,48 @@ require_once __DIR__ . '/../includes/header.php';
 <section class="content-ui-section" style="padding: 55px 0; background: #070d1e; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">PACKAGING PROTOCOL</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Engineered Shock-Absorbent Multi-Layer Packaging Standards for Packers Movers Template</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 14px;">Engineered multi-layer protective packaging for Packers And Movers In Template provides heavy-duty vibration dampening and climate resilience throughout the moving journey. Shree Ashirwad certified packaging specialists apply custom shock-absorbent materials tailored to each cargo category.</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
+      <span style="background: rgba(59, 130, 246, 0.12); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">OPERATIONAL STANDARDS</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Systematic Relocation Standards &amp; Comprehensive Moving Survey for Packers And Movers In Teklifi</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
+	<p>Looking for reliable and efficient <strong>home shifting packers</strong> or <strong>house movers bangkok</strong> services that guarantee a seamless experience? Look no further than Packers and Movers in Teklifi.</p>
+
+	<p>Our team of experienced professionals understands that a successful move starts with careful planning. That's why we provide a comprehensive <strong>household goods shipping company</strong> service that ensures a well-organized moving day.</p>
+
+	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Heavy-Duty 80-GSM Bubble Cushioning:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">High-tensile air-bubble wrap absorbs transit road shocks, preventing friction marks, scratches, or cosmetic damage on finished surfaces.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Pre-Move Assessment:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our team conducts a thorough assessment of your belongings to develop a customized moving plan.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">High-Density Corrugated Edge Guards:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Multi-wall cardboard corner guards reinforce vulnerable edges, furniture frames, and structural corners against lateral pressure.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Packaging &amp; Labeling:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">We employ trained packing specialists who utilize high-quality materials to pack your belongings securely and label each box for efficient unpacking.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Moisture-Sealed Stretch-Film Weatherproofing:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Industrial shrink wrap seals packed items against rainwater, humidity, road dust, and highway exhaust particles.</p>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Custom Wooden Crating for Fragile Freight:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Delicate glass, precision electronics, and high-value artworks receive reinforced timber crates mounted on shock-absorbing bases.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Move Day Coordination:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our dedicated supervisors oversee the entire process, ensuring a smooth and efficient transition.</p>
   </div>
 </div>
-<p style="font-size: 0.98rem; line-height: 1.7; color: #cbd5e1; margin-top: 14px;">Every packaged unit undergoes supervisor verification before transporter loading, ensuring uniform shock absorption, intact seals, and complete freight integrity across thousands of highway kilometers.</p></div>
+
+	<p>At Packers and Movers in Teklifi, we pride ourselves on providing exceptional <strong>iso certified movers and packers</strong> services. Our experienced supervisor ensures that every aspect of your move is executed flawlessly.</p>
+
+	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Supervisor Oversight:</strong> A dedicated supervisor supervises the entire process, from packing to loading and unloading.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Damage-Free Guarantee:</strong> We understand the value of your belongings, which is why we provide a damage-free guarantee.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Quality Control:</strong> Our supervisors conduct a thorough inspection of all items upon delivery to ensure everything arrives in the same condition as it left.</span></li>
+	</ul>
+
+	<p>At Packers and Movers in Teklifi, we strive to provide comprehensive services that cater to your unique requirements. Our <strong>bike parcel service in hosur to thanjavur charges</strong> ensures a hassle-free experience for our valued customers.</p>
+
+	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Bike Transportation:</strong> Our experienced team ensures a safe and secure transportation of your valuable belongings, including bicycles or motorcycles.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Customized Services:</strong> We offer customized services tailored to your needs, whether you require assistance with packing, loading, or unloading.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>Transportation Options:</strong> We offer reliable transportation options, such as trucks and vans, to ensure a smooth and efficient move.</span></li>
+	</ul>
+
+	<p>At Packers and Movers in Teklifi, we take pride in providing exceptional services that have earned us positive <strong>customer testimonials</strong>. Our satisfied customers attest to our commitment to quality and reliability:</p></div>
     </div>
   </div>
 </section>
@@ -338,31 +287,40 @@ require_once __DIR__ . '/../includes/header.php';
 <section class="content-ui-section" style="padding: 55px 0; background: #0b132b; color: #cbd5e1; border-bottom: 1px solid rgba(255,255,255,0.07);">
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
-      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">FLEET &amp; TRANSPORT</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Weatherproof Dedicated Container Fleets &amp; Satellite GPS Tracking for Packers And Movers In Template</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p>Shree Ashirwad Packers and Movers provides a comprehensive range of services to ensure a smooth and stress-free relocation experience for its customers. Their fleet of vehicles is equipped with:</p>
+      <span style="background: rgba(16, 185, 129, 0.12); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">PACKAGING PROTOCOL</span>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Engineered Shock-Absorbent Multi-Layer Packaging Standards for UNKNOWN</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">When entrusting your life’s treasures to professional logistics providers, understanding the engineering behind multi-layer protective packaging is essential for peace of mind.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>This specialized approach combines rigid structural support with flexible cushioning to create a barrier against impact, moisture, and dust.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>For those searching for reliable home shifting packers, the quality of materials used is often the deciding factor between a safe move and a costly disaster.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Whether you are looking for house movers bangkok or services in other global cities, the standard involves a meticulous layering process.</span></li></ul>
+<p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 12px;">Customers frequently ask for shifting home which app is good, but the true differentiator lies in the physical protection of items.</p>
+<ul style="list-style: none; padding-left: 0; margin: 16px 0 20px 0; display: flex; flex-direction: column; gap: 10px;"><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>A reputable household goods shipping company will never compromise on material quality, ensuring that every fragile item is encased in a fortress of protection.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>Transparency in pricing is also critical, as many clients worry about scenarios where movers and packers asking for 3 times the rate due to hidden costs or poor initial estimates.</span></li><li style="display: flex; align-items: flex-start; gap: 10px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07); padding: 10px 14px; border-radius: 8px; font-size: 0.92rem; line-height: 1.55; color: #cbd5e1;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 4px; flex-shrink: 0; font-size: 0.9rem;"></i><span>By understanding the components used, you can better evaluate quotes and avoid overpaying for substandard services.</span></li></ul>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 24px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Fully closed, weather-tight container bodies:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">These containers provide an enclosed and secure environment for your belongings during transport. The weather-tight design ensures protection against rain, dust, and other external elements, reducing the risk of damage during the journey.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 01</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Each item is first wrapped in 80-GSM bubble wrap, a high-density material that dissipates shock energy effectively. This primary layer protects against minor abrasions and provides immediate cushioning for glassware, ceramics, and electronics, ensuring that superficial damage is prevented before heavier impacts occur.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Air-cushion suspension:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Shree Ashirwad utilizes air suspension systems on their trucks, which absorb shocks and vibrations during transit. This minimizes the risk of damage to your possessions and helps to avoid accidents caused by unexpected jerks or bumps on the road.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Corrugated fiberboard sheets are then used to create sturdy boxes and partitions. This rigid structure prevents items from shifting inside the packaging, reducing the risk of internal collisions during transport. High-quality board also offers superior stacking strength, allowing multiple layers of boxes to be secured without crushing the contents below.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
-    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">GPS telematics:</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Each vehicle in their fleet is equipped with GPS tracking devices, providing real-time location updates to customers via WhatsApp. This transparency ensures peace of mind for clients, allowing them to track their belongings' progress and plan accordingly.</p>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 03</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Edge buffers and corner protectors are applied to furniture and large appliances to absorb direct impacts. These foam or plastic inserts shield vulnerable corners and edges from bumps against truck walls or other cargo, which is a common source of damage in standard moves that lack this specific engineering.</p>
   </div>
-</div>
-
-<p>By investing in these cutting-edge technologies, Shree Ashirwad Packers and Movers ensures the safe and efficient transport of your belongings. The combination of fully closed containers, air-cushion suspension, and GPS tracking ensures that your possessions are well-protected and monitored throughout the relocation process.</p>
-
-<p>With Shree Ashirwad's fleet, you can trust that your valuable belongings are in good hands. Their commitment to advanced technologies and exceptional service guarantees a smooth and stress-free relocation experience. Contact them today to experience their unparalleled dedication to customer satisfaction.</p></div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">04</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 04</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Waterproof stretch wrap is applied over the entire assembly to seal out moisture, dust, and debris. This final layer is crucial for outdoor transit or climates with high humidity, ensuring that your belongings remain dry and clean until they are unpacked in their new location.</p>
+  </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">05</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 05</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Seeking iso certified movers and packers guarantees that these packaging protocols are part of a standardized, audited process. Certification ensures consistency and accountability, helping you understand the approx cost of packers and movers by providing clear, itemized charges that reflect the value of the protective materials used.</p>
+  </div>
+</div></div>
     </div>
   </div>
 </section>
@@ -372,56 +330,50 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(168, 85, 247, 0.12); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">TRANSPARENT BILLING</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">100% Fixed-Price Written Quotations, IBA Approved Billing &amp; Transit Insurance for Packers Movers Template</h2>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">100% Fixed-Price Written Quotations, IBA Approved Billing &amp; Transit Insurance for UNKNOWN</h2>
       <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
-	<p>We understand the importance of clear and transparent pricing when it comes to moving services. That's why we provide a comprehensive breakdown of our pricing to guarantee a hassle-free experience for our clients.</p>
+	<p>When selecting a reliable and trustworthy movers and packers service in Teklifi, it's essential to consider transparent pricing that covers all essential services and protects your belongings.</p>
 
-	<p>At our Packers and Movers company, we pride ourselves on offering reliable and cost-effective moving services. We never impose moving-day surcharges or hidden fees, ensuring that you receive an accurate and fixed price for your move.</p>
 	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 01</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">No additional charges on moving day</p>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">At our packing and moving company, we understand the stress that comes with moving day. That's why we don't apply any hidden or moving-day surcharges that can increase your overall cost.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 02</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Fixed pricing based on the services selected</p>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Our fixed prices are based on the size of your belongings, the distance, and the level of service you require.</p>
   </div>
   <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
     <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">Protocol 03</h3>
-    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Transparent and upfront pricing policy</p>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">By offering transparent pricing, you can have peace of mind knowing your costs won't change on the day of your move.</p>
   </div>
 </div>
 
-	<p>We understand the importance of clear communication during the moving process. That's why we provide itemized written contracts detailing the services, costs, and estimated timeline for your move.</p>
 	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Itemized list of services included in your move</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Detailed pricing breakdown for each service</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Contract signed before the move for your peace of mind</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>To ensure a smooth and hassle-free moving experience, we provide itemized written contracts detailing all services included and the corresponding costs.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>This ensures that there are no misunderstandings or disputes regarding the services provided.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>The contract includes a detailed inventory of your belongings, the estimated moving time, and any additional services requested.</span></li>
 	</ul>
 
-	<p>In case of any damage or loss during the move, our clients can rest assured that we provide official IBA (Indian Bureau of Airlines) approved bills for government/corporate claims. This ensures a smooth process when claiming damages or losses.</p>
 	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>IBA-approved bills for government/corporate claims</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Proper documentation for hassle-free claims process</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Expert assessment and identification of damages for accurate claims</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>For our corporate and government clients, we provide IBA (Indian Bureau of Allied Services)-approved bills for any claims or disputes related to your move.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>These bills provide comprehensive documentation of the services provided, including the number of items, estimated value, and moving costs.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>This ensures a smooth process when filing claims or negotiating costs with external parties.</span></li>
 	</ul>
 
-	<p>Here at our Packers and Movers company, we take the security of your belongings seriously. Our 100% declared-value transit insurance ensures that your valuables are protected throughout the moving process.</p>
 	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>100% declared-value transit insurance coverage</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Protection for your valuable assets against accidental damages</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Fast and efficient claims processing for your peace of mind</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>To protect your valuable belongings during the move, we offer a comprehensive transit insurance policy, covering 100% of the declared value of your items.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>This covers any damages or losses that may occur during the transportation process.</span></li>
+		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Our insurance policy ensures your peace of mind and ensures that you are fully compensated for any unexpected damages.</span></li>
 	</ul>
-	<h3>Experience Hassle-Free Move with Our Comprehensive Services</h3>
-	<p>By providing these transparent pricing options and comprehensive services, we aim to deliver a stress-free moving experience for you. Trust in our expertise and commitment to quality to ensure a seamless transition to your new location.</p>
-	<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>No hidden costs or additional charges</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Fixed and transparent pricing for peace of mind</span></li>
-		<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span>Expert team for safe and efficient packing, loading, and unloading services</span></li>
-	</ul></div>
+	<p>By providing these transparent pricing aspects, we aim to offer a seamless and stress-free moving experience for our clients in Teklifi. Our focus is on delivering reliable, efficient, and cost-effective services that meet your specific needs.</p>
+	<p>Contact us today to discuss your moving requirements and receive a personalized quote, tailored to your needs and budget.</p>
+	<p>Our team will guide you through the entire moving process, ensuring you have a clear understanding of the costs and services included.</p>
+	<p>By choosing our packing and moving company, you can trust that your belongings will be handled with care and protected by our comprehensive insurance coverage.</p>
+	<p>For further information or to schedule a moving consultation, please feel free to reach out to us.</p></div>
     </div>
   </div>
 </section>
@@ -431,70 +383,42 @@ require_once __DIR__ . '/../includes/header.php';
   <div class="container" style="max-width: 1060px; margin: 0 auto; padding: 0 15px;">
     <div style="background: rgba(15, 23, 42, 0.65); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 36px 32px; box-shadow: 0 12px 30px rgba(0,0,0,0.35);">
       <span style="background: rgba(245, 158, 11, 0.12); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.35); padding: 4px 14px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 14px;">STEP-BY-STEP PROCESS</span>
-      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Step-by-Step Moving Day Workflow: Survey, Packing, Transit &amp; Placement for Packers And Movers In Template</h2>
-      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;"><p style="font-size: 1.04rem; line-height: 1.75; color: #f1f5f9; font-weight: 500; margin-bottom: 16px;">Efficient relocation relies on a structured, transparent workflow that minimizes stress and maximizes safety. The process begins with a comprehensive pre-move assessment, ensuring both client and team are aligned on scope and logistics. This initial phase includes a detailed physical survey of the premises, where professional packers evaluate item dimensions, fragility, and access points.</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; margin-top: 20px;">
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">01</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">For remote clients</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">a live video survey serves as an effective alternative, allowing the team to identify potential obstacles such as narrow stairwells or heavy furniture requiring specialized equipment. This step establishes a precise inventory and a tailored moving plan, setting realistic expectations for timelines and costs.</p>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
-      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
-    </div>
+      <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; line-height: 1.35; margin-bottom: 18px;">Step-by-Step Moving Day Workflow: Survey, Packing, Transit &amp; Placement for Packers And Movers In Teklifi</h2>
+      <div style="font-size: 1.02rem; line-height: 1.8; color: #cbd5e1;">
+	<p>Moving to a new location can be a stressful task, but with the help of experienced packers and movers like Packers And Movers In Teklifi, the process becomes much smoother and efficient.</p>
+
+	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px;">
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #f59e0b22; color: #f59e0b; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">01</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">1. Request for Survey:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">The first step in the moving process is to request a pre-move survey from Packers And Movers In Teklifi. This can be done either through a video call or a physical visit to your current location.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">02</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Once the survey is complete</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">the team initiates systematic room-by-room packing. This methodical approach prevents chaos and ensures nothing is overlooked. High-value and fragile items, such as electronics and glassware, are prioritized using premium protective materials like bubble wrap, foam, and custom boxes.</p>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
-      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
-    </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #10b98122; color: #10b981; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">02</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">2. Assessing Items:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">During the survey, the team will carefully assess all the items that need to be moved, including their quantity, size, fragility, and any special requirements.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">03</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Each box is clearly</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">labeled with its room destination and contents, facilitating an organized unpacking process. Furniture is carefully disassembled, with all hardware bagged and taped to corresponding pieces. This stage emphasizes meticulous attention to detail, ensuring that every item is secured against shifting or damage during transit.</p>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
-      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
-    </div>
+  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 24px 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.2s ease, border-color 0.2s ease;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 10px; background: #3b82f622; color: #3b82f6; font-weight: 800; font-size: 1.05rem; margin-bottom: 14px;">03</div>
+    <h3 style="color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4;">3. Creating a Moving Plan:</h3>
+    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.65; margin: 0;">Based on the survey, the packers and movers will create a detailed moving plan that outlines the services required, the cost, and the timeline.</p>
   </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #a855f722; color: #a855f7; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">04</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Safe transit is the critical middle phase</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">where proper loading techniques protect your belongings from the rigors of the road. Items are loaded strategically to balance weight distribution, with heavy boxes placed at the bottom and fragile items secured near the front.</p>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
-      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
-    </div>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #ec489922; color: #ec4899; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">05</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Professional strapping and padding</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">prevent movement within the truck, reducing the risk of impact damage. GPS tracking and real-time communication keep the client informed of the vehicle’s location and estimated arrival time, providing peace of mind throughout the journey.</p>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
-      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
-    </div>
-  </div>
-  <div style="background: rgba(15, 23, 42, 0.75); border: 1.5px solid rgba(255, 255, 255, 0.08); border-radius: 14px; padding: 22px 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.35); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <div style="display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 10px; background: #06b6d422; color: #06b6d4; font-weight: 800; font-size: 0.95rem; margin-bottom: 12px;">06</div>
-      <h3 style="color: #ffffff; font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4;">Upon arrival</h3>
-      <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.6; margin: 0;">the destination uncrating process begins, mirroring the systematic approach of the packing phase. Teams carefully unload items, transporting them to their designated rooms to minimize rearrangement later. Furniture is reassembled, and appliances are positioned according to client specifications.</p>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.8rem; color: #10b981;">
-      <i class="fas fa-check-circle"></i><span>Verified Shree Ashirwad Standard</span>
-    </div>
-  </div>
-</div></div>
+</div>
+
+<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>1. Planning:</strong> Before starting the packing process, it is essential to plan and organize everything. Packers And Movers In Teklifi will provide you with a packing checklist that includes all the items to be moved and their respective packing materials.</span></li>
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>2. Labeling:</strong> Each box should be labeled according to its content and the room it belongs to. This will help in unloading and organizing at the new location.</span></li>
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>3. Room-by-Room Packing:</strong> The packing process begins with the room-by-room approach, starting with non-essential items and gradually moving to the essential ones.</span></li>
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>4. Fragile Items:</strong> Fragile items such as glassware, electronic items, and artwork should be packed separately using additional cushioning materials like bubble wrap, tissue paper, and foam sheets.</span></li>
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>5. Loading:</strong> Once all the boxes are packed, they will be loaded onto the moving truck carefully.</span></li>
+</ul>
+
+<ul style="list-style: none; padding-left: 0; margin: 18px 0;">
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>1. Secure Loading:</strong> The moving truck is loaded under the supervision of a packer and mover expert to ensure everything is loaded securely.</span></li>
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>2. Safe Transportation:</strong> The trucks used by Packers And Movers In Teklifi are well-maintained and equipped with necessary safety features to ensure a safe transit.</span></li>
+	<li style="margin-bottom: 10px; display: flex; align-items: flex-start; gap: 10px;"><i class="fas fa-check-circle" style="color: #10b981; margin-top: 5px; flex-shrink: 0; font-size: 0.95rem;"></i><span><strong>3. Route Planning:</strong> The team will plan the route to avoid traffic and potential hazards, ensuring that the items reach the destination safely.</span></li>
+</ul>
+</div>
     </div>
   </div>
 </section>
@@ -615,11 +539,11 @@ require_once __DIR__ . '/../includes/header.php';
 <section class="faq-section" style="padding: 50px 0; background: #0b132b; border-bottom: 1px solid rgba(255,255,255,0.08);">
   <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 15px;">
     <h2 style="color: #ffffff; font-size: 1.7rem; font-weight: 800; margin-bottom: 25px; text-align: center;">
-      Frequently Asked Questions &bull; Packers And Movers In Template
+      Frequently Asked Questions &bull; UNKNOWN
     </h2>
     
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
-        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How are shifting charges calculated for Packers And Movers In Template?</h3>
+        <h3 style="color: #f8fafc; font-size: 1.1rem; font-weight: 700; margin-bottom: 8px;">How are shifting charges calculated for Packers And Movers In Teklifi?</h3>
         <p style="color: #cbd5e1; line-height: 1.7; font-size: 0.95rem; margin: 0;">Pricing is calculated using transparent parameters: consignment volume, distance, packing material tier, and floor levels, guaranteed in an itemized written contract with zero hidden fees.</p>
       </div>
       <div style="margin-bottom: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 16px 20px;">
@@ -644,7 +568,7 @@ require_once __DIR__ . '/../includes/header.php';
       </div>
   </div>
   <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How are shifting charges calculated for Packers And Movers In Template?","acceptedAnswer":{"@type":"Answer","text":"Pricing is calculated using transparent parameters: consignment volume, distance, packing material tier, and floor levels, guaranteed in an itemized written contract with zero hidden fees."}},{"@type":"Question","name":"Are packing materials and labor included in the moving quotation?","acceptedAnswer":{"@type":"Answer","text":"Yes, our comprehensive quotations include all premium multi-layer packaging materials, specialized labor, loading, secure transit, and doorstep unloading."}},{"@type":"Question","name":"Do you provide IBA-approved bills for official employee claims?","acceptedAnswer":{"@type":"Answer","text":"Yes, Shree Ashirwad provides authentic IBA-approved bills, GST tax invoices, and verified consignment notes accepted across PSUs, banks, and corporations."}},{"@type":"Question","name":"How far in advance should I book my relocation?","acceptedAnswer":{"@type":"Answer","text":"We recommend confirming your reservation 3 to 7 days in advance to secure preferred container trucks and specialized packing crews."}},{"@type":"Question","name":"What safety measures protect delicate glass, mirrors, and temple items?","acceptedAnswer":{"@type":"Answer","text":"Delicate and fragile items receive customized wooden crating, high-density foam padding, and multiple layers of 80-GSM bubble wrap with explicit fragile tagging."}},{"@type":"Question","name":"Do your moving crews assist with unpacking and furniture arrangement?","acceptedAnswer":{"@type":"Answer","text":"Yes, our destination delivery teams unpack cartons, reassemble modular beds and tables, and place furniture into designated rooms as requested."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How are shifting charges calculated for Packers And Movers In Teklifi?","acceptedAnswer":{"@type":"Answer","text":"Pricing is calculated using transparent parameters: consignment volume, distance, packing material tier, and floor levels, guaranteed in an itemized written contract with zero hidden fees."}},{"@type":"Question","name":"Are packing materials and labor included in the moving quotation?","acceptedAnswer":{"@type":"Answer","text":"Yes, our comprehensive quotations include all premium multi-layer packaging materials, specialized labor, loading, secure transit, and doorstep unloading."}},{"@type":"Question","name":"Do you provide IBA-approved bills for official employee claims?","acceptedAnswer":{"@type":"Answer","text":"Yes, Shree Ashirwad provides authentic IBA-approved bills, GST tax invoices, and verified consignment notes accepted across PSUs, banks, and corporations."}},{"@type":"Question","name":"How far in advance should I book my relocation?","acceptedAnswer":{"@type":"Answer","text":"We recommend confirming your reservation 3 to 7 days in advance to secure preferred container trucks and specialized packing crews."}},{"@type":"Question","name":"What safety measures protect delicate glass, mirrors, and temple items?","acceptedAnswer":{"@type":"Answer","text":"Delicate and fragile items receive customized wooden crating, high-density foam padding, and multiple layers of 80-GSM bubble wrap with explicit fragile tagging."}},{"@type":"Question","name":"Do your moving crews assist with unpacking and furniture arrangement?","acceptedAnswer":{"@type":"Answer","text":"Yes, our destination delivery teams unpack cartons, reassemble modular beds and tables, and place furniture into designated rooms as requested."}}]}
   </script>
 </section>
 <!-- Section: Google Map & Operating Network Details -->
@@ -655,7 +579,7 @@ require_once __DIR__ . '/../includes/header.php';
           <i class="fas fa-map-marked-alt" style="margin-right: 6px;"></i> Verified Service Network
         </span>
         <h2 style="font-size: 2.1rem; font-weight: 800; color: #ffffff; margin-top: 8px;">
-          Find Our Operational Service Network in <span style="color: #f59e0b;">Template</span>
+          Find Our Operational Service Network in <span style="color: #f59e0b;">Teklifi</span>
         </h2>
         <p style="color: #cbd5e1; font-size: 0.95rem; max-width: 760px; margin: 10px auto 0 auto; line-height: 1.7;">
           Visit our nearest operational base or connect with our verified logistics coordinators for rapid vehicle inspection, quotation, and packing material dispatch.
@@ -664,19 +588,19 @@ require_once __DIR__ . '/../includes/header.php';
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; align-items: center; background: #0f1a36; padding: 28px; border-radius: 16px; border: 1.5px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
         <div>
-          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">Template Relocation Office</span>
-          <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 800; margin: 6px 0 12px 0;">Template Moving Network &amp; Service Desk</h3>
+          <span style="color: #f59e0b; font-size: 0.82rem; font-weight: 700; text-transform: uppercase;">Teklifi Relocation Office</span>
+          <h3 style="color: #ffffff; font-size: 1.4rem; font-weight: 800; margin: 6px 0 12px 0;">Teklifi Moving Network &amp; Service Desk</h3>
           <p style="font-size: 0.92rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 16px;">
-            Coordinated doorstep logistics and container dispatch servicing Template and Pan-India corridors.
+            Coordinated doorstep logistics and container dispatch servicing Teklifi and Pan-India corridors.
           </p>
           <div style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.8; margin-bottom: 20px;">
-            <div><strong style="color: #ffffff;"><i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 6px;"></i> Address:</strong> <?php echo ADDRESS_RANCHI; ?> (Regional Dispatch Network: Template)</div>
+            <div><strong style="color: #ffffff;"><i class="fas fa-map-marker-alt" style="color: #f59e0b; margin-right: 6px;"></i> Address:</strong> <?php echo ADDRESS_RANCHI; ?> (Regional Dispatch Network: Teklifi)</div>
             <div><strong style="color: #ffffff;"><i class="fas fa-phone-alt" style="color: #f59e0b; margin-right: 6px;"></i> Helpline:</strong> <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="color: #38bdf8; text-decoration: none; font-weight: 600;"><?php echo SITE_PHONE; ?></a></div>
             <div><strong style="color: #ffffff;"><i class="fas fa-envelope" style="color: #f59e0b; margin-right: 6px;"></i> Email:</strong> <a href="mailto:<?php echo SITE_EMAIL; ?>" style="color: #38bdf8; text-decoration: none;"><?php echo SITE_EMAIL; ?></a></div>
             <div><strong style="color: #ffffff;"><i class="fas fa-clock" style="color: #f59e0b; margin-right: 6px;"></i> Hours:</strong> Mon - Sun: 7:00 AM – 10:00 PM (Emergency Dispatch 24/7)</div>
           </div>
           <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad%2C+I+want+to+visit+your+office+or+book+shifting+for+Template." target="_blank" style="padding: 10px 18px; background: #10b981; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
+            <a href="https://wa.me/918409531615?text=Hello+Shree+Ashirwad%2C+I+want+to+visit+your+office+or+book+shifting+for+Teklifi." target="_blank" style="padding: 10px 18px; background: #10b981; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
               <i class="fab fa-whatsapp"></i> WhatsApp Desk
             </a>
             <a href="tel:<?php echo SITE_PHONE_RAW; ?>" style="padding: 10px 18px; background: #e11d48; color: #ffffff; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px;">
@@ -686,14 +610,14 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
         <div style="border-radius: 12px; overflow: hidden; border: 1.5px solid rgba(245, 158, 11, 0.35); height: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);">
           <iframe 
-            src="https://maps.google.com/maps?q=Shree+Ashirwad+Packers+and+Movers+Template%2C+India&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+            src="https://maps.google.com/maps?q=Shree+Ashirwad+Packers+and+Movers+Teklifi%2C+India&t=&z=13&ie=UTF8&iwloc=&output=embed" 
             width="100%" 
             height="100%" 
             style="border:0;" 
             allowfullscreen="" 
             loading="lazy" 
             referrerpolicy="no-referrer-when-downgrade" 
-            title="Google Map of Shree Ashirwad Packers and Movers in Template">
+            title="Google Map of Shree Ashirwad Packers and Movers in Teklifi">
           </iframe>
         </div>
       </div>
@@ -890,24 +814,25 @@ require_once __DIR__ . '/../includes/header.php';
       <i class="fas fa-tags" style="color: #f59e0b; margin-right: 8px;"></i> Related Relocation Searches &amp; Verified Moving Services
     </h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Packers And Movers In Template</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers leafleat template</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers to move within 2 house</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> house hold goods packers in ahmednagar</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> cheapest way to transport household goods</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> home relocation services kharadi</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers ecil cost</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers charges per kg</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers cost one city to another</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iso certified packers and movers</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iba approved packers and movers in karur</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iba approved packers and movers in baroda list 2018</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> fast and safe movers</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> dlf safe packers and movers</span>
-      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> top blog for packers and movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> Packers And Movers In Teklifi</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> home shifting packers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> house movers bangkok</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> for shifting home which app is good</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> household goods shipping company</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> what is the approx cost of packers and movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> movers and packers asking for 3 times the rate</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> bike parcel service in hosur to thanjavur charges</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iso certified movers and packers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> iba approved packers and movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> gst bill of packers and movers</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> damage certificate from transporter</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> safe time packers and movers in mulund</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers hbr</span>
+      <span style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.28); color: #cbd5e1; padding: 7px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;"><span style="color: #f59e0b;">&bull;</span> packers and movers inmiyapur</span>
     </div>
   </div>
 </section>
 
 </main>
+
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
