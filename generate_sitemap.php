@@ -12,6 +12,7 @@
  */
 
 require_once __DIR__ . '/includes/config.php';
+date_default_timezone_set('Asia/Kolkata');
 
 $pagesDir = __DIR__ . '/pages';
 $iterator = new RecursiveIteratorIterator(
@@ -184,11 +185,6 @@ foreach ($categories as $catKey => $catUrls) {
     file_put_contents(__DIR__ . '/' . $subFileName, $subXml);
 
     $latestMod = date('Y-m-d');
-    if (!empty($catUrls)) {
-        $dates = array_column($catUrls, 'lastmod');
-        rsort($dates);
-        $latestMod = $dates[0];
-    }
 
     $subSitemapsMeta[] = [
         'loc' => 'https://shreeashirwadpackersandmovers.com/' . $subFileName,
