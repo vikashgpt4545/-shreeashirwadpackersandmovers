@@ -12,8 +12,8 @@ $faq_list = [
         'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.'
     ],
     [
-        'q' => 'How are relocation charges calculated for Live Work Gallery - Shree Ashirwad Packers and Movers?',
-        'a' => 'Our moving estimates between Ranchi and Major Indian Cities are calculated using transparent parameters: total consignment volume (cft), distance (~350 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.'
+        'q' => 'Are the shifting and packing pictures in this gallery from real client relocations?',
+        'a' => 'Yes, 100%. Every photo displayed in our live gallery captures real on-site relocations executed by Shree Ashirwad packing crews. You can see authentic 7-layer bubble wrapping, customized wooden crate fabrication for LED TVs, paddy straw vehicle padding, and closed container trailer loading.'
     ],
     [
         'q' => 'How long does shipment transit take from Ranchi to Major Indian Cities?',
@@ -24,8 +24,8 @@ $faq_list = [
         'a' => 'Our certified moving crews are equipped with heavy furniture lifter straps, hydraulic trolleys, and protective floor sheets. We coordinate smoothly with apartment society management in both Ranchi and Major Indian Cities to ensure elevator compliance.'
     ],
     [
-        'q' => 'How many days in advance should I confirm my booking for Live Work Gallery - Shree Ashirwad Packers and Movers?',
-        'a' => 'For regional moves within Ranchi, booking 2 to 3 days prior is recommended. For intercity transit to Major Indian Cities, we advise confirming 4 to 7 days ahead to reserve dedicated weatherproof container trucks and preferred morning departure slots.'
+        'q' => 'Can customers request specialized custom packing like shown in the gallery?',
+        'a' => 'Yes! We customize packaging protocols based on your consignment items. During the pre-move survey, simply specify fragile chinaware, vintage furniture, oversized double-door refrigerators, or high-value electronics, and our team will dispatch dedicated wooden crates and specialized corner buffers.'
     ],
     [
         'q' => 'Do you offer temporary warehousing if my new residence in Major Indian Cities is not ready?',

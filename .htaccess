@@ -44,8 +44,8 @@
     # Prevent Directory Browsing
     Options -Indexes
 
-    # Block direct public web access to sensitive service account credentials
-    <Files "service_account.json">
+    # Block direct public web access to sensitive credentials, backups, and logs
+    <FilesMatch "(service_account\.json|\.(bak|sql|log|env|ini|swp))$">
         <IfModule mod_authz_core.c>
             Require all denied
         </IfModule>
@@ -53,33 +53,65 @@
             Order deny,allow
             Deny from all
         </IfModule>
-    </Files>
+    </FilesMatch>
 
-    # Force HTTPS for production domain (Skip on localhost/127.0.0.1)
+    # 1. Force Canonical Non-WWW domain in production
+    RewriteCond %{HTTP_HOST} ^www\.shreeashirwadpackersandmovers\.com$ [NC]
+    RewriteRule ^(.*)$ https://shreeashirwadpackersandmovers.com/$1 [R=301,L]
+
+    # 2. Force HTTPS for production domain (Skip on localhost/127.0.0.1)
     RewriteCond %{HTTP_HOST} !^localhost [NC]
     RewriteCond %{HTTP_HOST} !^127\.0\.0\.1 [NC]
     RewriteCond %{HTTPS} off
-    RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+    RewriteRule ^(.*)$ https://shreeashirwadpackersandmovers.com/$1 [R=301,L]
 
-    # 301 Redirect direct /pages/xyz.php requests to clean /xyz URL (handles multi-level subdirectories)
+    # 3. 301 Redirect direct /pages/xyz.php requests to clean /xyz URL (handles multi-level subdirectories)
     RewriteCond %{THE_REQUEST} \s/+pages/(.+?)\.php[\s\?] [NC]
     RewriteRule ^pages/(.+)\.php$ /%1 [R=301,L]
 
-    # Allow existing files and directories to pass through
+    # 4. 301 Redirect trailing slash to non-trailing slash for clean URLs (skip physical directories)
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{THE_REQUEST} \s/+(.+?)/+[\s\?] [NC]
+    RewriteRule ^(.+?)/$ /$1 [R=301,L]
+
+    # 5. Allow existing files and directories to pass through
     RewriteCond %{REQUEST_FILENAME} -f [OR]
     RewriteCond %{REQUEST_FILENAME} -d
     RewriteRule ^ - [L]
 
-    # Route clean URLs (single-level and nested subdirectories) to pages/ directory if target .php file exists
+    # 6. Route clean URLs (single-level and nested subdirectories) to pages/ directory if target .php file exists
     # e.g., /packers-and-movers-in-ranchi -> pages/packers-and-movers-in-ranchi.php
     # e.g., /services/car-transportation -> pages/services/car-transportation.php
-    # e.g., /packers-movers-india/madhya-pradesh/dewas -> pages/packers-movers-india/madhya-pradesh/dewas.php
     RewriteCond %{DOCUMENT_ROOT}/pages/$1.php -f [OR]
     RewriteCond pages/$1.php -f
-    RewriteRule ^(.+?)/?$ pages/$1.php [L,QSA]
+    RewriteRule ^(.+?)$ pages/$1.php [L,QSA]
 
     # Custom 404 Error Page
     ErrorDocument 404 /pages/404.php
+</IfModule>
+
+# Enable Gzip / Brotli Compression (mod_deflate)
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+    AddOutputFilterByType DEFLATE application/json
+    AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+
+# Modern Security & Entity Headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+    Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
 </IfModule>
 
 # Prevent caching of sitemap XML files so changes update immediately

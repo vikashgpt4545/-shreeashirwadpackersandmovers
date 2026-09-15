@@ -99,6 +99,15 @@ require_once __DIR__ . '/config.php';
           <a href="<?php echo SITE_URL; ?>packers-and-movers-baridih-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Baridih">Baridih</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-sundernagar-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Sundernagar">Sundernagar</a>
         </div>
+        <div style="margin-bottom: 12px;">
+          <strong style="color: #f59e0b;">Regional Jharkhand &amp; Bihar Hubs:</strong>
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-bokaro" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Bokaro">Bokaro</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-dhanbad" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Dhanbad">Dhanbad</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-hazaribagh" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Hazaribagh">Hazaribagh</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-deoghar" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Deoghar">Deoghar</a> •
+          <a href="<?php echo SITE_URL; ?>packers-and-movers-in-patna" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Patna">Patna</a> •
+          <a href="<?php echo SITE_URL; ?>packers-movers-jharkhand" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers Across Jharkhand">All Jharkhand Network</a>
+        </div>
         <div>
           <strong style="color: #f59e0b;">Major Intercity Routes:</strong>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-jamshedpur" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Jamshedpur">Ranchi to Jamshedpur</a> •
@@ -108,18 +117,25 @@ require_once __DIR__ . '/config.php';
           <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-patna" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Patna">Ranchi to Patna</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-ranchi-to-delhi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi to Delhi">Ranchi to Delhi</a> •
           <a href="<?php echo SITE_URL; ?>packers-and-movers-jamshedpur-to-kolkata" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Jamshedpur to Kolkata">Jamshedpur to Kolkata</a> •
-          <a href="<?php echo SITE_URL; ?>sitemap" style="color: #f59e0b; font-weight: 600; margin-left: 6px;" title="View All Location Pages Directory">[View All 400+ Locations Directory &raquo;]</a>
+          <a href="<?php echo SITE_URL; ?>sitemap" style="color: #f59e0b; font-weight: 600; margin-left: 6px;" title="View All Location Pages Directory">[View Complete 6,000+ Relocation Directory &raquo;]</a>
         </div>
       </div>
 
-      <!-- Copyright Bottom Bar -->
-      <div class="footer-bottom">
-        <p>&copy; <?php echo date('Y'); ?> <?php echo isset($city_details['footer_tag']) ? htmlspecialchars($city_details['footer_tag']) : 'Packers and Movers in Ranchi. All Rights Reserved.'; ?></p>
+      <!-- Trust Credentials Bar & Copyright -->
+      <div style="border-top: 1px solid rgba(255,255,255,0.08); margin-top: 18px; padding-top: 15px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; font-size: 0.8rem; color: #94a3b8;">
+        <div>
+          <span style="color: #f59e0b; font-weight: 600;"><i class="fas fa-shield-alt"></i> IBA Approved Bills</span> &nbsp;|&nbsp; 
+          <span><i class="fas fa-certificate"></i> ISO 9001:2015 Certified</span> &nbsp;|&nbsp; 
+          <span><i class="fas fa-file-invoice"></i> 100% GST Compliant Invoices</span>
+        </div>
+        <div>
+          <span>&copy; <?php echo date('Y'); ?> <?php echo isset($city_details['footer_tag']) ? htmlspecialchars($city_details['footer_tag']) : 'Packers and Movers in Ranchi. All Rights Reserved.'; ?></span>
+        </div>
       </div>
     </div>
   </footer>
 
-  <!-- Main JavaScript File -->
-  <script src="<?php echo SITE_URL; ?>assets/js/main.js"></script>
+  <!-- Main JavaScript File (Deferred for Fast FCP/LCP) -->
+  <script src="<?php echo SITE_URL; ?>assets/js/main.js" defer></script>
 </body>
 </html>

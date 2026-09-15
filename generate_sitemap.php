@@ -1,7 +1,14 @@
 <?php
 /**
- * Dynamic Master Sitemap Generator
- * Scans all PHP pages in /pages/ directory and serves full sitemap XML dynamically
+ * Modular Master Sitemap & Sub-Sitemap Generator
+ * Scans all active PHP pages in /pages/ and generates:
+ *  - sitemap_index.xml (Master Index for GSC)
+ *  - sitemap-core.xml (Essential landing pages)
+ *  - sitemap-local-jharkhand.xml (Ranchi, Jamshedpur, Bokaro, Dhanbad, etc.)
+ *  - sitemap-services.xml (Specialized relocation & vehicle transport)
+ *  - sitemap-guides.xml (Moving checklists and advice guides)
+ *  - sitemap-intercity.xml (All national route corridors)
+ *  - sitemap.xml (Comprehensive fallback)
  */
 
 require_once __DIR__ . '/includes/config.php';
@@ -12,22 +19,29 @@ $iterator = new RecursiveIteratorIterator(
     RecursiveIteratorIterator::SELF_FIRST
 );
 
-$urls = [];
+$categories = [
+    'core' => [],
+    'local-jharkhand' => [],
+    'services' => [],
+    'guides' => [],
+    'intercity' => []
+];
+
 $seenUrls = [];
 
 // 1. Homepage
 $homepageUrl = 'https://shreeashirwadpackersandmovers.com/';
-$urls[] = [
+$homeItem = [
     'loc' => $homepageUrl,
-    'priority' => '1.0',
+    'lastmod' => date('Y-m-d', filemtime(__DIR__ . '/index.php')),
     'changefreq' => 'daily',
-    'lastmod' => date('Y-m-d', filemtime(__DIR__ . '/index.php'))
+    'priority' => '1.0'
 ];
+$categories['core'][] = $homeItem;
 $seenUrls[$homepageUrl] = true;
 
-// Slugs that 301-redirect elsewhere (must be excluded from XML sitemap to prevent 301 errors in Search Console)
+// Slugs that 301-redirect elsewhere
 $redirected_slugs = [
-    // Patna Keyword-Variant Cannibalized Stubs -> Redirected to /packers-and-movers-in-patna
     'affordable-packers-and-movers-in-patna',
     'best-company-for-packers-and-movers-in-patna',
     'best-movers-and-packers-in-patna',
@@ -49,13 +63,11 @@ $redirected_slugs = [
     'reliable-packers-and-movers-in-patna',
     'top-packers-and-movers-in-patna',
     'verified-packers-and-movers-in-patna',
-    // Vehicle & IBA Patna Stubs -> Redirected to canonical hubs
     'bike-movers-and-packers-in-patna',
     'bike-packers-and-movers-in-patna',
     'car-movers-and-packers-in-patna',
     'car-packers-and-movers-in-patna',
     'iba-approved-movers-and-packers-in-patna',
-    // Typo Slug Fixes
     'packers-and-movers-nirrsa-dhanbad',
     'packers-and-movers-rohani-deoghar',
     'packers-and-movers-jarmundi-border-deoghar',
@@ -65,6 +77,8 @@ $redirected_slugs = [
     'packers-and-movers-devipur-deoghar'
 ];
 
+$jharkhandCities = ['ranchi', 'jamshedpur', 'bokaro', 'dhanbad', 'hazaribagh', 'deoghar', 'giridih', 'ramgarh', 'dumka', 'chaibasa', 'daltonganj', 'medininagar', 'chatra'];
+
 // 2. Iterate through all PHP files in pages/
 foreach ($iterator as $file) {
     if ($file->isFile() && $file->getExtension() === 'php') {
@@ -73,82 +87,141 @@ foreach ($iterator as $file) {
             continue;
         }
 
-        // Exclude partial template components / includes / backups
+        // Exclude backup files, partial components, or hidden directories
         $realPath = $file->getPathname();
         $relPath = str_replace('\\', '/', substr($realPath, strlen($pagesDir) + 1));
-        if (strpos($relPath, 'includes/') !== false || basename($file->getPath()) === 'includes' || strpos($relPath, 'backup') !== false || strpos($relPath, '_') !== false) {
+        if (strpos($relPath, 'includes/') !== false || basename($file->getPath()) === 'includes' || strpos($relPath, 'backup') !== false || strpos($relPath, '_') !== false || strpos($filename, '.bak') !== false) {
             continue;
         }
 
         $route = str_replace('.php', '', $relPath);
 
-        // Normalize trailing /index (e.g. /services/index -> /services, /guides/index -> /guides)
+        // Normalize trailing /index
         if (substr($route, -6) === '/index') {
             $route = substr($route, 0, -6);
         }
 
-        // Skip 301 redirected stubs
         $baseName = basename($route);
         if (in_array($route, $redirected_slugs, true) || in_array($baseName, $redirected_slugs, true)) {
             continue;
         }
 
         $url = 'https://shreeashirwadpackersandmovers.com/' . ltrim($route, '/');
-
-        // Prevent duplicate entries
         if (isset($seenUrls[$url])) {
             continue;
         }
         $seenUrls[$url] = true;
 
-        // Priority calculation
+        $slug = strtolower($route);
+        $fileModTime = date('Y-m-d', $file->getMTime());
+
         $priority = '0.8';
         $changefreq = 'weekly';
 
-        if (in_array($route, ['about', 'contact', 'services', 'guides', 'gallery'])) {
+        // Categorize into logical silos
+        if (in_array($route, ['about', 'contact', 'services', 'guides', 'gallery', 'privacy-policy', 'terms'])) {
             $priority = '0.9';
-        } elseif (strpos($route, 'services/') === 0) {
-            $priority = '0.9';
-        } elseif (strpos($route, 'packers-and-movers-in-') === 0) {
-            $priority = '0.9';
-        } elseif (strpos($route, 'packers-movers-india/') === 0 && substr_count($route, '/') >= 3) {
-            // Locality subfolder pages (e.g. /packers-movers-india/madhya-pradesh/dewas/agar-road)
-            $priority = '0.7';
+            $targetCategory = 'core';
+        } elseif (strpos($slug, 'guides/') === 0 || strpos($slug, 'guide') !== false || strpos($slug, 'checklist') !== false || strpos($slug, 'tips') !== false) {
+            $priority = '0.8';
+            $targetCategory = 'guides';
+        } elseif (strpos($slug, 'services/') === 0 || strpos($slug, 'car-transport') !== false || strpos($slug, 'bike-transport') !== false || strpos($slug, 'commercial-shifting') !== false || strpos($slug, 'warehouse') !== false) {
+            $priority = '0.8';
+            $targetCategory = 'services';
+        } else {
+            $isJharkhand = false;
+            foreach ($jharkhandCities as $jc) {
+                if (strpos($slug, $jc) !== false && strpos($slug, '-to-') === false) {
+                    $isJharkhand = true;
+                    break;
+                }
+            }
+            if ($isJharkhand) {
+                $priority = '0.9';
+                $targetCategory = 'local-jharkhand';
+            } else {
+                $priority = '0.8';
+                $targetCategory = 'intercity';
+            }
         }
 
-        $urls[] = [
+        $item = [
             'loc' => $url,
-            'lastmod' => date('Y-m-d', $file->getMTime()),
+            'lastmod' => $fileModTime,
             'priority' => $priority,
             'changefreq' => $changefreq
         ];
+
+        $categories[$targetCategory][] = $item;
     }
 }
 
-// 3. Construct XML string
-$xml = '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
-$xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
-
-foreach ($urls as $item) {
-    $xml .= "  <url>\n";
-    $xml .= "    <loc>" . htmlspecialchars($item['loc']) . "</loc>\n";
-    $xml .= "    <lastmod>" . $item['lastmod'] . "</lastmod>\n";
-    $xml .= "    <changefreq>" . $item['changefreq'] . "</changefreq>\n";
-    $xml .= "    <priority>" . $item['priority'] . "</priority>\n";
-    $xml .= "  </url>\n";
+/**
+ * Helper to build standard sitemap XML
+ */
+function buildUrlsetXml(array $urls): string {
+    $xml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
+    $xml .= "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n";
+    foreach ($urls as $item) {
+        $xml .= "  <url>\n";
+        $xml .= "    <loc>" . htmlspecialchars($item['loc']) . "</loc>\n";
+        $xml .= "    <lastmod>" . $item['lastmod'] . "</lastmod>\n";
+        $xml .= "    <changefreq>" . $item['changefreq'] . "</changefreq>\n";
+        $xml .= "    <priority>" . $item['priority'] . "</priority>\n";
+        $xml .= "  </url>\n";
+    }
+    $xml .= "</urlset>";
+    return $xml;
 }
 
-$xml .= '</urlset>';
+// 3. Write individual sub-sitemaps
+$allUrls = [];
+$subSitemapsMeta = [];
 
-// 4. Update static sitemap.xml on disk
-@file_put_contents(__DIR__ . '/sitemap.xml', $xml);
+foreach ($categories as $catKey => $catUrls) {
+    $subXml = buildUrlsetXml($catUrls);
+    $subFileName = "sitemap-$catKey.xml";
+    file_put_contents(__DIR__ . '/' . $subFileName, $subXml);
 
-// 5. Output XML response directly for HTTP requests
-if (php_sapi_name() !== 'cli') {
-    header('Content-Type: application/xml; charset=utf-8');
-    header('Cache-Control: no-cache, no-store, must-revalidate, max-age=0');
-    header('Pragma: no-cache');
-    header('Expires: 0');
-    header('X-Robots-Tag: noindex, follow');
+    $latestMod = date('Y-m-d');
+    if (!empty($catUrls)) {
+        $dates = array_column($catUrls, 'lastmod');
+        rsort($dates);
+        $latestMod = $dates[0];
+    }
+
+    $subSitemapsMeta[] = [
+        'loc' => 'https://shreeashirwadpackersandmovers.com/' . $subFileName,
+        'lastmod' => $latestMod,
+        'count' => count($catUrls)
+    ];
+
+    $allUrls = array_merge($allUrls, $catUrls);
 }
-echo $xml;
+
+// 4. Construct Master Sitemap Index (sitemap_index.xml)
+$indexXml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
+$indexXml .= "<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n";
+foreach ($subSitemapsMeta as $sMeta) {
+    $indexXml .= "  <sitemap>\n";
+    $indexXml .= "    <loc>" . htmlspecialchars($sMeta['loc']) . "</loc>\n";
+    $indexXml .= "    <lastmod>" . $sMeta['lastmod'] . "</lastmod>\n";
+    $indexXml .= "  </sitemap>\n";
+}
+$indexXml .= "</sitemapindex>";
+
+file_put_contents(__DIR__ . '/sitemap_index.xml', $indexXml);
+
+// 5. Update combined master sitemap.xml
+$masterXml = buildUrlsetXml($allUrls);
+file_put_contents(__DIR__ . '/sitemap.xml', $masterXml);
+
+echo "===========================================\n";
+echo "Sitemap Generation Complete!\n";
+echo "Generated Files:\n";
+foreach ($subSitemapsMeta as $sMeta) {
+    echo " - " . basename($sMeta['loc']) . " (" . number_format($sMeta['count']) . " URLs)\n";
+}
+echo " - sitemap_index.xml (Master Index)\n";
+echo " - sitemap.xml (" . number_format(count($allUrls)) . " total URLs)\n";
+echo "===========================================\n";

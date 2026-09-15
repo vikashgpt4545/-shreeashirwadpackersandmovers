@@ -3,6 +3,8 @@ User-agent: *
 Allow: /
 Disallow: /includes/
 Disallow: /scratch/
+Disallow: /_archive_backups/
+Disallow: /_foreign_pages_backup/
 
 # Directives for AI Search & Generative Engine Optimization (GEO)
 User-agent: GPTBot
@@ -21,4 +23,5 @@ User-agent: Google-Extended
 Allow: /
 
 # XML Sitemap Location
+Sitemap: https://shreeashirwadpackersandmovers.com/sitemap_index.xml
 Sitemap: https://shreeashirwadpackersandmovers.com/sitemap.xml

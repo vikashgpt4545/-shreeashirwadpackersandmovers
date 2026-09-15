@@ -68,24 +68,9 @@ require_once __DIR__ . '/config.php';
 
   $city_details = get_city_details($target_city);
 
-  // Dynamic Social Open Graph Image Selection based on Page Category / Slug
+  // Social Open Graph Image Selection
   $default_og_image = "assets/images/logo.png";
-  $selected_og_image = "assets/images/logo.png";
-
-  if (stripos($clean_slug, 'car') !== false) {
-      $selected_og_image = "assets/images/car-carrier.jpg";
-  } elseif (stripos($clean_slug, 'bike') !== false) {
-      $selected_og_image = "assets/images/bike-transport.jpg";
-  } elseif (stripos($clean_slug, 'office') !== false) {
-      $selected_og_image = "assets/images/office-shifting.jpg";
-  } elseif (stripos($clean_slug, 'warehouse') !== false || stripos($clean_slug, 'storage') !== false) {
-      $selected_og_image = "assets/images/warehouse.jpg";
-  }
-
-  if (!file_exists(__DIR__ . '/../' . $selected_og_image)) {
-      $selected_og_image = $default_og_image;
-  }
-
+  $selected_og_image = $default_og_image;
   $og_image_url = SITE_URL . $selected_og_image;
   
   $is_404_response = (isset($is_404_response) && $is_404_response === true) || (http_response_code() === 404 || $clean_slug === '404' || (isset($page_title) && strpos($page_title, '404') !== false));
@@ -337,20 +322,70 @@ require_once __DIR__ . '/config.php';
       [
           "@type" => "BreadcrumbList",
           "@id" => $canonical_url . "#breadcrumb",
-          "itemListElement" => [
-              [
-                  "@type" => "ListItem",
-                  "position" => 1,
-                  "name" => "Home",
-                  "item" => SITE_URL
-              ],
-              [
-                  "@type" => "ListItem",
-                  "position" => 2,
-                  "name" => isset($page_title) ? $page_title : DEFAULT_PAGE_TITLE,
-                  "item" => $canonical_url
-              ]
-          ]
+          "itemListElement" => (function() use ($clean_slug, $canonical_url, $target_city, $page_title) {
+              $items = [
+                  [
+                      "@type" => "ListItem",
+                      "position" => 1,
+                      "name" => "Home",
+                      "item" => SITE_URL
+                  ]
+              ];
+              if ($clean_slug !== '' && $clean_slug !== 'index') {
+                  if (strpos($clean_slug, 'services/') === 0) {
+                      $items[] = [
+                          "@type" => "ListItem",
+                          "position" => 2,
+                          "name" => "Services",
+                          "item" => SITE_URL . "services"
+                      ];
+                      $sub_name = ucwords(str_replace('-', ' ', substr($clean_slug, 9)));
+                      $items[] = [
+                          "@type" => "ListItem",
+                          "position" => 3,
+                          "name" => $sub_name,
+                          "item" => $canonical_url
+                      ];
+                  } elseif (strpos($clean_slug, 'guides/') === 0) {
+                      $items[] = [
+                          "@type" => "ListItem",
+                          "position" => 2,
+                          "name" => "Guides",
+                          "item" => SITE_URL . "guides"
+                      ];
+                      $sub_name = ucwords(str_replace('-', ' ', substr($clean_slug, 7)));
+                      $items[] = [
+                          "@type" => "ListItem",
+                          "position" => 3,
+                          "name" => $sub_name,
+                          "item" => $canonical_url
+                      ];
+                  } elseif (!empty($target_city) && strtolower($target_city) !== 'ranchi' && stripos($clean_slug, strtolower($target_city)) !== false) {
+                      $items[] = [
+                          "@type" => "ListItem",
+                          "position" => 2,
+                          "name" => $target_city,
+                          "item" => SITE_URL . "packers-and-movers-in-" . strtolower($target_city)
+                      ];
+                      $crumb_label = isset($page_title) ? preg_replace('/\s*\|.*$/', '', $page_title) : ucwords(str_replace('-', ' ', $clean_slug));
+                      $items[] = [
+                          "@type" => "ListItem",
+                          "position" => 3,
+                          "name" => trim($crumb_label),
+                          "item" => $canonical_url
+                      ];
+                  } else {
+                      $crumb_label = isset($page_title) ? preg_replace('/\s*\|.*$/', '', $page_title) : ucwords(str_replace('-', ' ', $clean_slug));
+                      $items[] = [
+                          "@type" => "ListItem",
+                          "position" => 2,
+                          "name" => trim($crumb_label),
+                          "item" => $canonical_url
+                      ];
+                  }
+              }
+              return $items;
+          })()
       ],
       [
           "@type" => "WebPage",
@@ -401,78 +436,6 @@ require_once __DIR__ . '/config.php';
               "mainEntity" => $main_entity
           ];
       }
-  }
-
-  // HowTo Schema Integration for Step-by-Step Relocation Process
-  $effective_howto_steps = (isset($howto_steps) && is_array($howto_steps) && count($howto_steps) > 0) ? $howto_steps : [
-      [
-          "@type" => "HowToStep",
-          "position" => 1,
-          "name" => "Pre-Move Survey & Instant Quote",
-          "text" => "Share your inventory via WhatsApp or call to receive a transparent quotation with zero hidden charges.",
-          "url" => $canonical_url . "#survey"
-      ],
-      [
-          "@type" => "HowToStep",
-          "position" => 2,
-          "name" => "7-Layer Specialized Packing",
-          "text" => "Our trained crew packs household goods using heavy bubble wrap, 5-ply cartons, and protective foam corner guards.",
-          "url" => $canonical_url . "#packing"
-      ],
-      [
-          "@type" => "HowToStep",
-          "position" => 3,
-          "name" => "GPS Container Transport",
-          "text" => "Consignments travel inside weather-sealed, GPS-monitored container trucks with live tracking updates.",
-          "url" => $canonical_url . "#transit"
-      ],
-      [
-          "@type" => "HowToStep",
-          "position" => 4,
-          "name" => "Doorstep Delivery & Unpacking",
-          "text" => "Safe unloading, room-by-room placement, unpacking, and furniture reassembly at your destination residence.",
-          "url" => $canonical_url . "#delivery"
-      ]
-  ];
-  $schema_graph[] = [
-      "@type" => "HowTo",
-      "@id" => $canonical_url . "#howto",
-      "name" => $howto_title ?? ("How Shifting Works with " . (isset($page_title) ? $page_title : DEFAULT_PAGE_TITLE)),
-      "description" => $howto_description ?? ("Step-by-step moving and packing procedure with Shree Ashirwad Packers and Movers in " . $target_city . "."),
-      "totalTime" => "P1D",
-      "step" => $effective_howto_steps
-  ];
-
-  // Google My Business Review & AggregateRating Schema Integration
-  if (isset($gmb_reviews) && is_array($gmb_reviews) && count($gmb_reviews) > 0) {
-      $schema_graph[0]["aggregateRating"] = [
-          "@type" => "AggregateRating",
-          "ratingValue" => "4.9",
-          "reviewCount" => "664",
-          "bestRating" => "5",
-          "worstRating" => "1"
-      ];
-      $schema_reviews = [];
-      foreach ($gmb_reviews as $rev) {
-          $authorName = is_array($rev['author'] ?? null) ? ($rev['author']['name'] ?? 'Customer') : ($rev['author'] ?? $rev['name'] ?? 'Customer');
-          $reviewBody = $rev['text'] ?? $rev['review'] ?? $rev['reviewBody'] ?? $rev['comment'] ?? '';
-          $schema_reviews[] = [
-              "@type" => "Review",
-              "author" => [
-                  "@type" => "Person",
-                  "name" => $authorName
-              ],
-              "datePublished" => $rev['date'] ?? $rev['datePublished'] ?? date('Y-m-d'),
-              "reviewBody" => strip_tags($reviewBody),
-              "reviewRating" => [
-                  "@type" => "Rating",
-                  "ratingValue" => (string)($rev['rating'] ?? 5),
-                  "bestRating" => "5",
-                  "worstRating" => "1"
-              ]
-          ];
-      }
-      $schema_graph[0]["review"] = $schema_reviews;
   }
 
   $schema_data = [

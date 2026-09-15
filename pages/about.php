@@ -12,8 +12,8 @@ $faq_list = [
         'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.'
     ],
     [
-        'q' => 'How are relocation charges calculated for About Us - Shree Ashirwad Packers and Movers (OPC) Pvt. Ltd.?',
-        'a' => 'Our moving estimates between Ranchi and Major Indian Cities are calculated using transparent parameters: total consignment volume (cft), distance (~350 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.'
+        'q' => 'How can customers verify Shree Ashirwad Packers and Movers company registration and IBA credentials?',
+        'a' => 'Shree Ashirwad Packers and Movers (OPC) Pvt. Ltd. is a legally incorporated entity with ISO 9001:2015 quality certification and verifiable IBA-approved billing credentials. Customers can inspect our registered office at Harmu, Ranchi, check our valid GSTIN on tax invoices, and verify all consignment notes (LR/Bilty) before booking.'
     ],
     [
         'q' => 'How long does shipment transit take from Ranchi to Major Indian Cities?',

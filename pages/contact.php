@@ -12,8 +12,8 @@ $faq_list = [
         'a' => 'Yes! Shree Ashirwad Packers and Movers is an ISO 9001:2015 certified company providing 100% compliant IBA-approved bills, GST invoices, Lorry Receipts (LR/Bilty), and verified packing lists accepted across central/state government departments, PSUs, defense forces, and multinational corporations.'
     ],
     [
-        'q' => 'How are relocation charges calculated for Contact Us - Shree Ashirwad Packers and Movers?',
-        'a' => 'Our moving estimates between Ranchi and Major Indian Cities are calculated using transparent parameters: total consignment volume (cft), distance (~350 km), packaging material grade (7-layer corrugated and bubble sheets), dedicated enclosed container capacity, and insurance declaration. We provide 100% itemized, fixed-price quotations with zero moving-day surcharges.'
+        'q' => 'What is the fastest way to get a moving survey and shifting quote from Shree Ashirwad?',
+        'a' => 'You can call our 24/7 support line at (+91) 8409531615 or message us on WhatsApp for an instant survey. For local shifting in Ranchi, Bokaro, or Jamshedpur, our survey executive visits your residence within 2 hours, inspects your household goods, and provides an itemized fixed quote with zero hidden charges.'
     ],
     [
         'q' => 'How long does shipment transit take from Ranchi to Major Indian Cities?',

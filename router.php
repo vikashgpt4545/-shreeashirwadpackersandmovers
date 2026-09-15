@@ -4,16 +4,29 @@
 $rawPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $uri = rawurldecode($rawPath);
 
-// Explicit route for dynamic sitemap XML (matches Apache .htaccess rewrite rule)
-if ($uri === '/sitemap.xml') {
+// Explicit route for sitemap XML files (master index and sub-sitemaps)
+if ($uri === '/sitemap.xml' || $uri === '/sitemap_index.xml' || preg_match('/^\/sitemap-[a-z0-9\-]+\.xml$/', $uri)) {
+    $xmlFile = __DIR__ . $uri;
+    if (file_exists($xmlFile)) {
+        header('Content-Type: application/xml; charset=utf-8');
+        header('Cache-Control: no-cache, no-store, must-revalidate, max-age=0');
+        readfile($xmlFile);
+        exit;
+    }
     require __DIR__ . '/generate_sitemap.php';
     exit;
 }
 
-// Prevent public web access to sensitive credential files (matches Apache .htaccess rule)
-if ($uri === '/service_account.json' || basename($uri) === 'service_account.json') {
+// Prevent public web access to sensitive credential and backup files
+if (preg_match('/(service_account\.json|\.(bak|sql|log|env|ini|swp))$/i', $uri) || basename($uri) === 'service_account.json') {
     http_response_code(403);
     echo "<h1>403 Forbidden</h1><p>Direct web access to this resource is restricted.</p>";
+    exit;
+}
+
+// 301 Redirect trailing slash to clean non-trailing slash (matches Apache .htaccess rule)
+if ($uri !== '/' && substr($rawPath, -1) === '/') {
+    header('Location: ' . rtrim($rawPath, '/'), true, 301);
     exit;
 }
 

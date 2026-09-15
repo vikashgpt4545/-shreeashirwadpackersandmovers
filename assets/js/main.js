@@ -18,6 +18,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const dropdownToggles = document.querySelectorAll('.nav-item.dropdown > a');
   dropdownToggles.forEach(toggle => {
     toggle.addEventListener('click', (e) => {
+      // On desktop, allow clicking parent hub link directly
+      if (window.innerWidth > 991) {
+        return;
+      }
       e.preventDefault();
       const parentDropdown = toggle.closest('.nav-item.dropdown');
       
