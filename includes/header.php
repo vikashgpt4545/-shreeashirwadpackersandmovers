@@ -103,16 +103,19 @@ require_once __DIR__ . '/config.php';
   <link rel="shortcut icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
   <link rel="apple-touch-icon" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
 
-  <!-- Preconnect to Google Fonts & Load Fonts Directly -->
+  <!-- Preconnect to Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600;700&display=swap">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600;700&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600;700&display=swap"></noscript>
 
   <!-- FontAwesome Icons CDN (Non-blocking Async Preload for Fast FCP/LCP) -->
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
 
-  <!-- Critical CLS Shield: Pre-reserve space for icons & header to eliminate Cumulative Layout Shift -->
+  <!-- Critical Preload & CLS Shield: Pre-reserve space for icons & header to eliminate Cumulative Layout Shift -->
+  <link rel="preload" href="<?php echo SITE_URL; ?>assets/css/style.min.css" as="style">
   <style>
     .fas, .fab, .far, .fa { display: inline-block; width: 1.15em; min-height: 1em; text-align: center; vertical-align: -0.125em; }
     .site-header { min-height: 70px; }

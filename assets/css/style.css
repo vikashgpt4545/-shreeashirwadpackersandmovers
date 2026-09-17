@@ -14,7 +14,7 @@
   --brand-gold-glow: rgba(245, 158, 11, 0.18);
   
   --text-dark: #1e293b;
-  --text-light: #64748b;
+  --text-light: #475569;
   --bg-light: #f8fafc;
   --white: #ffffff;
   --border-color: #e2e8f0;
@@ -552,7 +552,7 @@ ul {
    ========================================================================== */
 .site-footer {
   background-color: #070d19;
-  color: #94a3b8;
+  color: #cbd5e1;
   padding: 44px 0 20px 0;
   border-top: 2px solid var(--brand-yellow);
 }
@@ -1496,7 +1496,7 @@ ul {
 
 .tip-read-time {
   font-size: 0.78rem;
-  color: #94a3b8;
+  color: #475569;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -1935,7 +1935,7 @@ ul {
 .client-badge-tag {
   display: inline-block;
   font-size: 0.72rem;
-  color: #94a3b8;
+  color: #475569;
   font-weight: 500;
   margin-top: 2px;
 }
@@ -1953,7 +1953,7 @@ ul {
 
 .review-date {
   font-size: 0.78rem;
-  color: #94a3b8;
+  color: #475569;
 }
 
 @media (max-width: 992px) {
@@ -3837,7 +3837,7 @@ ul {
   flex-wrap: wrap;
   gap: 8px;
   font-size: 0.85rem;
-  color: #94a3b8;
+  color: #cbd5e1;
 }
 
 .breadcrumb-item a {
@@ -4059,7 +4059,7 @@ ul {
 .text-white { color: #ffffff !important; }
 .text-light { color: #cbd5e1 !important; }
 .text-dark { color: #0f172a !important; }
-.text-muted { color: #64748b !important; }
+.text-muted { color: #475569 !important; }
 .text-warning { color: #f59e0b !important; }
 .text-danger { color: #d32f2f !important; }
 .text-success { color: #10b981 !important; }
@@ -4278,7 +4278,7 @@ ul {
 .breadcrumb-item + .breadcrumb-item::before {
   content: "/" !important;
   padding-right: 8px !important;
-  color: #94a3b8 !important;
+  color: #cbd5e1 !important;
 }
 
 /* 12. Tables */

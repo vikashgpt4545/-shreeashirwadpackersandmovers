@@ -404,7 +404,7 @@ require_once __DIR__ . '/includes/header.php';
           
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-1.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" width="904" height="1200" loading="lazy">
+              <img src="assets/images/gallery/gallery-1-sm.webp" alt="Packers and Movers in Ranchi Bike Straw Padding Packing" width="301" height="400" loading="lazy">
               <div class="photo-overlay">
                 <span>Bike Straw Padding & Branded Tape</span>
               </div>
@@ -413,7 +413,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-2.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" width="1200" height="904" loading="lazy">
+              <img src="assets/images/gallery/gallery-2-sm.webp" alt="Packers and Movers in Ranchi Cardboard & Stretch Wrap Bike Transport" width="400" height="301" loading="lazy">
               <div class="photo-overlay">
                 <span>Cardboard & Stretch Wrap Bike Packing</span>
               </div>
@@ -422,7 +422,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-3.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" width="904" height="1200" loading="lazy">
+              <img src="assets/images/gallery/gallery-3-sm.webp" alt="Packers and Movers in Ranchi Heavy Wooden Crate Packaging" width="301" height="400" loading="lazy">
               <div class="photo-overlay">
                 <span>Custom Wooden Crate Box Framing</span>
               </div>
@@ -431,7 +431,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-4.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" width="904" height="1200" loading="lazy">
+              <img src="assets/images/gallery/gallery-4-sm.webp" alt="Packers and Movers in Ranchi Smart LED TV Wooden Crate Packing" width="301" height="400" loading="lazy">
               <div class="photo-overlay">
                 <span>Smart TV Wooden Crate Protection</span>
               </div>
@@ -440,7 +440,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-5.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" width="1200" height="904" loading="lazy">
+              <img src="assets/images/gallery/gallery-5-sm.webp" alt="Packers and Movers in Ranchi Heavy Carton Box Household Packaging" width="400" height="301" loading="lazy">
               <div class="photo-overlay">
                 <span>Heavy Carton & Foam Sheet Packing</span>
               </div>
@@ -449,7 +449,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-6.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" width="904" height="1200" loading="lazy">
+              <img src="assets/images/gallery/gallery-6-sm.webp" alt="Packers and Movers in Ranchi Cushioned TV Shrink Wrap Packing" width="301" height="400" loading="lazy">
               <div class="photo-overlay">
                 <span>Cushioned Blanket TV Shrink Wrap</span>
               </div>
@@ -458,7 +458,7 @@ require_once __DIR__ . '/includes/header.php';
 
           <div class="gallery-photo-card">
             <div class="photo-box">
-              <img src="assets/images/gallery/gallery-7.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" width="904" height="1200" loading="lazy">
+              <img src="assets/images/gallery/gallery-7-sm.webp" alt="Packers and Movers in Ranchi Container Truck Loaded Household Goods" width="301" height="400" loading="lazy">
               <div class="photo-overlay">
                 <span>Full Container Truck Goods Loading</span>
               </div>

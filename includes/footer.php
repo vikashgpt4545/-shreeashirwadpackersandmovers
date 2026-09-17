@@ -70,7 +70,7 @@ require_once __DIR__ . '/config.php';
       </div>
 
       <!-- Top Localities & Routes Internal Linking Matrix -->
-      <div style="border-top: 1px solid rgba(255,255,255,0.1); margin-top: 25px; padding-top: 20px; font-size: 0.82rem; color: #94a3b8;">
+      <div style="border-top: 1px solid rgba(255,255,255,0.1); margin-top: 25px; padding-top: 20px; font-size: 0.82rem; color: #cbd5e1;">
         <div style="margin-bottom: 12px;">
           <strong style="color: #f59e0b;">Popular Ranchi Shifting Hubs:</strong>
           <a href="<?php echo SITE_URL; ?>packers-and-movers-in-ranchi" style="color: #cbd5e1; margin: 0 4px;" title="Packers and Movers in Ranchi">Packers and Movers Ranchi</a> •
@@ -122,7 +122,7 @@ require_once __DIR__ . '/config.php';
       </div>
 
       <!-- Trust Credentials Bar & Copyright -->
-      <div style="border-top: 1px solid rgba(255,255,255,0.08); margin-top: 18px; padding-top: 15px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; font-size: 0.8rem; color: #94a3b8;">
+      <div style="border-top: 1px solid rgba(255,255,255,0.08); margin-top: 18px; padding-top: 15px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; font-size: 0.8rem; color: #cbd5e1;">
         <div>
           <span style="color: #f59e0b; font-weight: 600;"><i class="fas fa-shield-alt"></i> IBA Approved Bills</span> &nbsp;|&nbsp; 
           <span><i class="fas fa-certificate"></i> ISO 9001:2015 Certified</span> &nbsp;|&nbsp; 
