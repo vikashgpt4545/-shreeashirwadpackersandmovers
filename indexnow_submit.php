@@ -15,7 +15,7 @@ if (php_sapi_name() !== 'cli') {
 }
 
 $host = 'shreeashirwadpackersandmovers.com';
-$key = '8f805671c2ecc253cbd63f5680ebf50f';
+$key = '0f8af0894fde48e5b91cad3c5631a2b2';
 $keyLocation = "https://{$host}/{$key}.txt";
 $rootDir = __DIR__;
 
