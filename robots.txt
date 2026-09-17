@@ -25,3 +25,8 @@ Allow: /
 # XML Sitemap Location
 Sitemap: https://shreeashirwadpackersandmovers.com/sitemap_index.xml
 Sitemap: https://shreeashirwadpackersandmovers.com/sitemap.xml
+
+# Machine-Readable AI Standards (https://llmstxt.org/)
+# LLMs-Text: https://shreeashirwadpackersandmovers.com/llms.txt
+# LLMs-Full: https://shreeashirwadpackersandmovers.com/llms-full.txt
+

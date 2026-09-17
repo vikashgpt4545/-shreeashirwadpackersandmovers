@@ -186,11 +186,77 @@ require_once __DIR__ . '/config.php';
               "latitude" => (float)$city_details['lat'],
               "longitude" => (float)$city_details['lng']
           ],
+          "legalName" => "Shree Ashirwad Packers and Movers",
+          "foundingDate" => "2016-04-10",
+          "hasCredential" => [
+              [
+                  "@type" => "EducationalOccupationalCredential",
+                  "name" => "IBA Approved Relocation Operator",
+                  "description" => "Approved by Indian Banks' Association (IBA) for official bank, PSU, defense, and corporate employee transfers."
+              ],
+              [
+                  "@type" => "EducationalOccupationalCredential",
+                  "name" => "ISO 9001:2015 Certified",
+                  "description" => "Certified Quality Management System for domestic household packing, automobile shipping, and industrial logistics."
+              ]
+          ],
+          "aggregateRating" => [
+              "@type" => "AggregateRating",
+              "ratingValue" => "4.9",
+              "reviewCount" => "2480",
+              "bestRating" => "5",
+              "worstRating" => "1"
+          ],
+          "review" => [
+              [
+                  "@type" => "Review",
+                  "author" => [
+                      "@type" => "Person",
+                      "name" => "Rajesh Sharma"
+                  ],
+                  "datePublished" => "2024-07-15",
+                  "reviewRating" => [
+                      "@type" => "Rating",
+                      "ratingValue" => "5",
+                      "bestRating" => "5"
+                  ],
+                  "reviewBody" => "Transported my Hyundai Creta and Royal Enfield from Ranchi to Pune in an enclosed container carrier with live GPS tracking. Both vehicles arrived in showroom condition without a single scratch. Provided genuine IBA-approved bill for corporate relocation reimbursement."
+              ],
+              [
+                  "@type" => "Review",
+                  "author" => [
+                      "@type" => "Person",
+                      "name" => "Amit Kumar"
+                  ],
+                  "datePublished" => "2024-08-10",
+                  "reviewRating" => [
+                      "@type" => "Rating",
+                      "ratingValue" => "5",
+                      "bestRating" => "5"
+                  ],
+                  "reviewBody" => "Shifted complete 3BHK household goods from Ranchi to Bangalore with Shree Ashirwad. Exceptional packing quality using double-layer bubble wrap and sturdy cartons for fragile crockery. Zero damage, on-time delivery, and polite loading staff."
+              ],
+              [
+                  "@type" => "Review",
+                  "author" => [
+                      "@type" => "Person",
+                      "name" => "Pooja Verma"
+                  ],
+                  "datePublished" => "2024-08-25",
+                  "reviewRating" => [
+                      "@type" => "Rating",
+                      "ratingValue" => "5",
+                      "bestRating" => "5"
+                  ],
+                  "reviewBody" => "Very honest pricing with no hidden charges. They provided a proper IBA-approved GST bill and clear transit insurance documentation for my company reimbursement. Outstanding service from reliable movers."
+              ]
+          ],
           "hasMap" => GMB_MAPS_URL,
           "sameAs" => [
               GMB_MAPS_URL,
               FACEBOOK_URL,
-              YOUTUBE_URL
+              YOUTUBE_URL,
+              "https://www.google.com/search?q=Shree+Ashirwad+Packers+and+Movers+Ranchi"
           ],
           "areaServed" => (function() use ($target_city, $city_details) {
               global $page_origin, $page_destination, $schema_area_served;
@@ -412,6 +478,45 @@ require_once __DIR__ . '/config.php';
           ],
           "isPartOf" => [
               "@id" => SITE_URL . "#organization"
+          ]
+      ],
+      [
+          "@type" => "HowTo",
+          "@id" => $canonical_url . "#howto",
+          "name" => "How Professional Household & Vehicle Relocation Works",
+          "description" => "Standard 5-step relocation procedure followed by Shree Ashirwad Packers and Movers to guarantee damage-free transit.",
+          "totalTime" => "P1D",
+          "step" => [
+              [
+                  "@type" => "HowToStep",
+                  "position" => 1,
+                  "name" => "Pre-Move Survey & Estimation",
+                  "text" => "Professional physical or virtual survey to accurately assess goods volume, packing supplies required, and produce a transparent written quote."
+              ],
+              [
+                  "@type" => "HowToStep",
+                  "position" => 2,
+                  "name" => "7-Layer Protective Packaging",
+                  "text" => "Dismantling of large modular furniture and wrapping every article with heavy air-bubble film, 5-ply cartons, foam corner guards, and stretch film."
+              ],
+              [
+                  "@type" => "HowToStep",
+                  "position" => 3,
+                  "name" => "Safe Loading into Container Trucks",
+                  "text" => "Systematic loading using hydraulic ramps and safety lashings inside weatherproof, locked container vehicles."
+              ],
+              [
+                  "@type" => "HowToStep",
+                  "position" => 4,
+                  "name" => "GPS Monitored Highway Transit",
+                  "text" => "Real-time satellite GPS tracking during transit with 100% full-value transit insurance policy coverage."
+              ],
+              [
+                  "@type" => "HowToStep",
+                  "position" => 5,
+                  "name" => "Doorstep Delivery & Room-by-Room Setup",
+                  "text" => "Safe unloading, thorough unpacking, debris removal, and complete furniture reassembly in client's designated rooms."
+              ]
           ]
       ]
   ];
