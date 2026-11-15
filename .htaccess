@@ -53,7 +53,12 @@
         </IfModule>
     </FilesMatch>
 
-    # 1. Force Canonical Non-WWW domain in production
+    # 1. Full catch-all 301 redirect of entire domain to primary site homepage
+    RewriteCond %{HTTP_HOST} !^localhost [NC]
+    RewriteCond %{HTTP_HOST} !^127\.0\.0\.1 [NC]
+    RewriteRule ^.*$ https://www.shreeashirwadpackers.com/ [R=301,L]
+
+    # 2. Force Canonical Non-WWW domain in development
     RewriteCond %{HTTP_HOST} ^www\.shreeashirwadpackersandmovers\.com$ [NC]
     RewriteRule ^(.*)$ https://shreeashirwadpackersandmovers.com/$1 [R=301,L]
 

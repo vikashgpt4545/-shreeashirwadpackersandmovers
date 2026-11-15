@@ -1,4 +1,12 @@
 <?php
+// Full catch-all 301 redirect of entire website to primary homepage in production
+$host = strtolower($_SERVER['HTTP_HOST'] ?? '');
+if (strpos($host, 'localhost') === false && strpos($host, '127.0.0.1') === false) {
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: https://www.shreeashirwadpackers.com/');
+    exit;
+}
+
 // router.php - Router script for PHP built-in CLI server (php -S)
 
 $rawPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
