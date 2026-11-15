@@ -60,10 +60,11 @@ if ($uri !== '/' && file_exists($filePath) && !is_dir($filePath)) {
     exit;
 }
 
-// 2. Root URL -> index.php
+// 2. Root URL -> Redirect to Primary Site Homepage
 $cleanUri = trim($uri, '/');
 if (empty($cleanUri)) {
-    require __DIR__ . '/index.php';
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: https://www.shreeashirwadpackers.com/');
     exit;
 }
 
@@ -74,6 +75,24 @@ if (strpos($slug, 'pages/') === 0) {
 }
 if (substr($slug, -4) === '.php') {
     $slug = substr($slug, 0, -4);
+}
+
+// 3. Smart 301 Redirection to https://www.shreeashirwadpackers.com
+// Checks if the requested slug exists on the primary website
+$primary_slugs_file = __DIR__ . '/includes/primary_site_slugs.php';
+if (file_exists($primary_slugs_file)) {
+    $primary_slugs = require $primary_slugs_file;
+    if (isset($primary_slugs[$slug])) {
+        // Page exists on primary website -> Redirect to exact page
+        header('HTTP/1.1 301 Moved Permanently');
+        header('Location: https://www.shreeashirwadpackers.com/' . $slug);
+        exit;
+    } else {
+        // Page does NOT exist on primary website -> Safely redirect to Homepage (Zero 404s!)
+        header('HTTP/1.1 301 Moved Permanently');
+        header('Location: https://www.shreeashirwadpackers.com/');
+        exit;
+    }
 }
 
 // 3. Route /slug or /pages/slug.php -> pages/slug.php

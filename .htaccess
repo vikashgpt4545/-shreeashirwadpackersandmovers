@@ -77,12 +77,10 @@
     RewriteCond %{REQUEST_FILENAME} -d
     RewriteRule ^ - [L]
 
-    # 6. Route clean URLs (single-level and nested subdirectories) to pages/ directory if target .php file exists
-    # e.g., /packers-and-movers-in-ranchi -> pages/packers-and-movers-in-ranchi.php
-    # e.g., /services/car-transportation -> pages/services/car-transportation.php
-    RewriteCond %{DOCUMENT_ROOT}/pages/$1.php -f [OR]
-    RewriteCond pages/$1.php -f
-    RewriteRule ^(.+?)$ pages/$1.php [L,QSA]
+    # 6. Route all requests through router.php for smart primary site redirection
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ router.php [L,QSA]
 
     # Custom 404 Error Page
     ErrorDocument 404 /pages/404.php

@@ -1,4 +1,12 @@
 <?php
+// Smart Redirect for Production Domain to Primary Site Homepage
+$host_now = strtolower($_SERVER['HTTP_HOST'] ?? '');
+if (strpos($host_now, 'localhost') === false && strpos($host_now, '127.0.0.1') === false) {
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: https://www.shreeashirwadpackers.com/');
+    exit;
+}
+
 require_once __DIR__ . '/includes/config.php';
 
 $page_title = "Best Packers and Movers in Ranchi | 8409531615";
